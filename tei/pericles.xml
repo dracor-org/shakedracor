@@ -84,13 +84,13 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    </profileDesc>
+    <particDesc><listPerson><person xml:id="Gower_Per"><persName>Gower</persName></person><person xml:id="Antiochus_Per"><persName>Antiochus</persName></person><person xml:id="Pericles_Per"><persName>Pericles</persName></person><person xml:id="Daughter_Per"><persName>Daughter</persName></person><person xml:id="Thaliard_Per"><persName>Thaliard</persName></person><person xml:id="MESSENGERS.ANTIOCH.1_Per"><persName>Messenger</persName></person><person xml:id="LORDS.TYRE.0.1_Per"><persName>LORDS.TYRE.0.1_Per</persName></person><person xml:id="LORDS.TYRE.0.2_Per"><persName>LORDS.TYRE.0.2_Per</persName></person><person xml:id="Helicanus_Per"><persName>Helicanus</persName></person><person xml:id="Cleon_Per"><persName>Cleon</persName></person><person xml:id="Dionyza_Per"><persName>Dionyza</persName></person><person xml:id="LORDS.TARSUS.1_Per"><persName>Lord</persName></person><person xml:id="CITIZENS.TARSUS_Per"><persName>Followers of Antiochus, Attendants to Pericles, Attendants to Simonides, Squires to the five Knights, Tyrian gentlemen, Citizens of Tarsus, Ladies of Pentapolis, Servants to Cerimon, Companion to Marina, Priestesses in Diana’s temple, Messenger from Tyre</persName></person><person xml:id="FISHERMEN.1_Per"><persName>FISHERMEN.1_Per</persName></person><person xml:id="FISHERMEN.2_Per"><persName>FISHERMEN.2_Per</persName></person><person xml:id="FISHERMEN.3_Per"><persName>FISHERMEN.3_Per</persName></person><person xml:id="Simonides_Per"><persName>Simonides</persName></person><person xml:id="LORDS.PENTAPOLIS.0.1_Per"><persName>LORDS.PENTAPOLIS.0.1_Per</persName></person><person xml:id="Thaisa_Per"><persName>Thaisa</persName></person><person xml:id="LORDS.PENTAPOLIS.0.2_Per"><persName>LORDS.PENTAPOLIS.0.2_Per</persName></person><person xml:id="LORDS.PENTAPOLIS.0.3_Per"><persName>LORDS.PENTAPOLIS.0.3_Per</persName></person><person xml:id="KNIGHTS_Per"><persName>Knights</persName></person><person xml:id="Marshal_Per"><persName>Marshal</persName></person><person xml:id="KNIGHTS.0.1_Per"><persName>KNIGHTS.0.1_Per</persName></person><person xml:id="LORDS.TYRE.Escanes_Per"><persName>Escanes</persName></person><person xml:id="LORDS.TYRE.0.3_Per"><persName>LORDS.TYRE.0.3_Per</persName></person><person xml:id="LORDS.TYRE_Per"><persName>LORDS</persName></person><person xml:id="KNIGHTS.0.2_Per"><persName>KNIGHTS.0.2_Per</persName></person><person xml:id="KNIGHTS.0.3_Per"><persName>KNIGHTS.0.3_Per</persName></person><person xml:id="Lychorida_Per"><persName>Lychorida</persName></person><person xml:id="SAILORS.1_Per"><persName>SAILORS.1_Per</persName></person><person xml:id="SAILORS.2_Per"><persName>SAILORS.2_Per</persName></person><person xml:id="Cerimon_Per"><persName>Lord Cerimon</persName></person><person xml:id="Philemon_Per"><persName>Philemon</persName></person><person xml:id="SUPPLIANTS.1_Per"><persName>SUPPLIANTS.1_Per</persName></person><person xml:id="GENTLEMEN.EPHESUS.1_Per"><persName>GENTLEMEN.EPHESUS.1_Per</persName></person><person xml:id="GENTLEMEN.EPHESUS.2_Per"><persName>GENTLEMEN.EPHESUS.2_Per</persName></person><person xml:id="SERVANTS.CERIMON.0.1_Per"><persName>Servant</persName></person><person xml:id="Leonine_Per"><persName>Leonine</persName></person><person xml:id="Marina_Per"><persName>Marina</persName></person><person xml:id="PIRATES.0.1_Per"><persName>PIRATES.0.1_Per</persName></person><person xml:id="PIRATES.0.2_Per"><persName>PIRATES.0.2_Per</persName></person><person xml:id="PIRATES.0.3_Per"><persName>PIRATES.0.3_Per</persName></person><person xml:id="Pander_Per"><persName>Pander</persName></person><person xml:id="Bolt_Per"><persName>Bolt</persName></person><person xml:id="Bawd_Per"><persName>Bawd</persName></person><person xml:id="GENTLEMEN.MYTILENE.1_Per"><persName>GENTLEMEN.MYTILENE.1_Per</persName></person><person xml:id="GENTLEMEN.MYTILENE.2_Per"><persName>GENTLEMEN.MYTILENE.2_Per</persName></person><person xml:id="Lysimachus_Per"><persName>Lysimachus</persName></person><person xml:id="SAILORS.TYRE.1_Per"><persName>Sailor</persName></person><person xml:id="GENTLEMEN.TYRE.0.1_Per"><persName>Gentleman</persName></person><person xml:id="SAILORS.MYTILENE.1_Per"><persName>Sailor</persName></person><person xml:id="LORDS.MYTILENE.0.1_Per"><persName>Lord</persName></person><person xml:id="Diana_Per"><persName>Diana</persName></person></listPerson></particDesc></profileDesc>
   </teiHeader>
   <text>
     <front>
       <castList>
         <castGroup>
-          <castItem xml:id="Gower_Per">
+          <castItem sameAs="#Gower_Per">
             <role>
               <name>Gower</name>
             </role>
@@ -98,19 +98,19 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Pericles_Per">
+          <castItem sameAs="#Pericles_Per">
             <role>
               <name>Pericles</name>
             </role>
             <roleDesc>prince of Tyre</roleDesc>
           </castItem>
-          <castItem xml:id="Thaisa_Per">
+          <castItem sameAs="#Thaisa_Per">
             <role>
               <name>Thaisa</name>
             </role>
             <roleDesc>princess of Pentapolis and wife to Pericles</roleDesc>
           </castItem>
-          <castItem xml:id="Marina_Per">
+          <castItem sameAs="#Marina_Per">
             <role>
               <name>Marina</name>
             </role>
@@ -121,80 +121,80 @@
         <castGroup>
           <castGroup>
             <head>lords of Tyre</head>
-            <castItem xml:id="Helicanus_Per">
+            <castItem sameAs="#Helicanus_Per">
               <role>
                 <name>Helicanus</name>
               </role>
             </castItem>
-            <castItem xml:id="LORDS.TYRE.Escanes_Per" corresp="#LORDS.TYRE_Per">
+            <castItem corresp="#LORDS.TYRE_Per" sameAs="#LORDS.TYRE.Escanes_Per">
               <role>
                 <name>Escanes</name>
               </role>
             </castItem>
           </castGroup>
-          <castItem xml:id="LORDS.TYRE_Per" corresp="#LORDS.TYRE_Per">
+          <castItem corresp="#LORDS.TYRE_Per" sameAs="#LORDS.TYRE_Per">
           Three other <name>LORDS</name> of Tyre
         </castItem>
-          <castItem xml:id="LORDS.TYRE.0.1_Per" corresp="#LORDS.TYRE_Per"/>
-          <castItem xml:id="LORDS.TYRE.0.2_Per" corresp="#LORDS.TYRE_Per"/>
-          <castItem xml:id="LORDS.TYRE.0.3_Per" corresp="#LORDS.TYRE_Per"/>
+          <castItem corresp="#LORDS.TYRE_Per" sameAs="#LORDS.TYRE.0.1_Per"/>
+          <castItem corresp="#LORDS.TYRE_Per" sameAs="#LORDS.TYRE.0.2_Per"/>
+          <castItem corresp="#LORDS.TYRE_Per" sameAs="#LORDS.TYRE.0.3_Per"/>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Antiochus_Per">
+          <castItem sameAs="#Antiochus_Per">
             <role>
               <name>Antiochus</name>
             </role>
             <roleDesc>king of Antioch</roleDesc>
           </castItem>
-          <castItem xml:id="Daughter_Per">
+          <castItem sameAs="#Daughter_Per">
             <role>
               <name>Daughter</name>
             </role>
             <roleDesc>princess of Antioch</roleDesc>
           </castItem>
-          <castItem xml:id="Thaliard_Per">
+          <castItem sameAs="#Thaliard_Per">
             <role>
               <name>Thaliard</name>
             </role>
             <roleDesc>nobleman of Antioch</roleDesc>
           </castItem>
-          <castItem xml:id="MESSENGERS.ANTIOCH.1_Per" corresp="#MESSENGERS_Per">
+          <castItem corresp="#MESSENGERS_Per" sameAs="#MESSENGERS.ANTIOCH.1_Per">
             <role>
               <name>Messenger</name>
             </role>
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Cleon_Per">
+          <castItem sameAs="#Cleon_Per">
             <role>
               <name>Cleon</name>
             </role>
             <roleDesc>governor of Tarsus</roleDesc>
           </castItem>
-          <castItem xml:id="Dionyza_Per">
+          <castItem sameAs="#Dionyza_Per">
             <role>
               <name>Dionyza</name>
             </role>
             <roleDesc>wife to Cleon</roleDesc>
           </castItem>
-          <castItem xml:id="Leonine_Per">
+          <castItem sameAs="#Leonine_Per">
             <role>
               <name>Leonine</name>
             </role>
             <roleDesc>servant to Dionyza</roleDesc>
           </castItem>
-          <castItem xml:id="LORDS.TARSUS.1_Per" corresp="#LORDS_Per">
+          <castItem corresp="#LORDS_Per" sameAs="#LORDS.TARSUS.1_Per">
             <role>A <name>Lord</name> of Tarsus</role>
           </castItem>
           <castItem xml:id="PIRATES_Per">
          Three <name>Pirates</name>
         </castItem>
-          <castItem xml:id="PIRATES.0.1_Per" corresp="#PIRATES_Per"/>
-          <castItem xml:id="PIRATES.0.2_Per" corresp="#PIRATES_Per"/>
-          <castItem xml:id="PIRATES.0.3_Per" corresp="#PIRATES_Per"/>
+          <castItem corresp="#PIRATES_Per" sameAs="#PIRATES.0.1_Per"/>
+          <castItem corresp="#PIRATES_Per" sameAs="#PIRATES.0.2_Per"/>
+          <castItem corresp="#PIRATES_Per" sameAs="#PIRATES.0.3_Per"/>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Simonides_Per">
+          <castItem sameAs="#Simonides_Per">
             <role>
               <name>Simonides</name>
             </role>
@@ -203,28 +203,28 @@
           <castItem xml:id="FISHERMEN_Per">
         Three <name>Fishermen</name>
         </castItem>
-          <castItem xml:id="FISHERMEN.1_Per" corresp="#FISHERMEN_Per"/>
-          <castItem xml:id="FISHERMEN.2_Per" corresp="#FISHERMEN_Per"/>
-          <castItem xml:id="FISHERMEN.3_Per" corresp="#FISHERMEN_Per"/>
-          <castItem xml:id="Marshal_Per">
+          <castItem corresp="#FISHERMEN_Per" sameAs="#FISHERMEN.1_Per"/>
+          <castItem corresp="#FISHERMEN_Per" sameAs="#FISHERMEN.2_Per"/>
+          <castItem corresp="#FISHERMEN_Per" sameAs="#FISHERMEN.3_Per"/>
+          <castItem sameAs="#Marshal_Per">
             <role>
               <name>Marshal</name>
             </role>
           </castItem>
-          <castItem xml:id="KNIGHTS_Per">
+          <castItem sameAs="#KNIGHTS_Per">
          Five <name>Knights</name>, suitors for the hand of Thaisa
         </castItem>
-          <castItem xml:id="KNIGHTS.0.1_Per" corresp="#KNIGHTS_Per"/>
-          <castItem xml:id="KNIGHTS.0.2_Per" corresp="#KNIGHTS_Per"/>
-          <castItem xml:id="KNIGHTS.0.3_Per" corresp="#KNIGHTS_Per"/>
+          <castItem corresp="#KNIGHTS_Per" sameAs="#KNIGHTS.0.1_Per"/>
+          <castItem corresp="#KNIGHTS_Per" sameAs="#KNIGHTS.0.2_Per"/>
+          <castItem corresp="#KNIGHTS_Per" sameAs="#KNIGHTS.0.3_Per"/>
           <castItem xml:id="KNIGHTS.0.4_Per" corresp="#KNIGHTS_Per"/>
           <castItem xml:id="KNIGHTS.0.5_Per" corresp="#KNIGHTS_Per"/>
           <castItem xml:id="LORDS.PENTAPOLIS_Per" corresp="#LORDS_Per"><name>Lords</name> of Pentapolis
         </castItem>
-          <castItem xml:id="LORDS.PENTAPOLIS.0.1_Per" corresp="#LORDS.PENTAPOLIS_Per"/>
-          <castItem xml:id="LORDS.PENTAPOLIS.0.2_Per" corresp="#LORDS.PENTAPOLIS_Per"/>
-          <castItem xml:id="LORDS.PENTAPOLIS.0.3_Per" corresp="#LORDS.PENTAPOLIS_Per"/>
-          <castItem xml:id="Lychorida_Per">
+          <castItem corresp="#LORDS.PENTAPOLIS_Per" sameAs="#LORDS.PENTAPOLIS.0.1_Per"/>
+          <castItem corresp="#LORDS.PENTAPOLIS_Per" sameAs="#LORDS.PENTAPOLIS.0.2_Per"/>
+          <castItem corresp="#LORDS.PENTAPOLIS_Per" sameAs="#LORDS.PENTAPOLIS.0.3_Per"/>
+          <castItem sameAs="#Lychorida_Per">
             <role>
               <name>Lychorida</name>
             </role>
@@ -233,17 +233,17 @@
           <castItem xml:id="SAILORS_Per">
          Two <name>Sailors</name>, mariners onboard ship from Pentapolis
         </castItem>
-          <castItem xml:id="SAILORS.1_Per" corresp="#SAILORS_Per"/>
-          <castItem xml:id="SAILORS.2_Per" corresp="#SAILORS_Per"/>
+          <castItem corresp="#SAILORS_Per" sameAs="#SAILORS.1_Per"/>
+          <castItem corresp="#SAILORS_Per" sameAs="#SAILORS.2_Per"/>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Cerimon_Per">
+          <castItem sameAs="#Cerimon_Per">
             <role>
               <name>Lord Cerimon</name>
             </role>
             <roleDesc>a wiseman/physician in Ephesus</roleDesc>
           </castItem>
-          <castItem xml:id="Philemon_Per">
+          <castItem sameAs="#Philemon_Per">
             <role>
               <name>Philemon</name>
             </role>
@@ -252,21 +252,21 @@
           <castItem xml:id="SUPPLIANTS_Per">
           Two <name>Suppliants</name>
         </castItem>
-          <castItem xml:id="SUPPLIANTS.1_Per" corresp="#SUPPLIANTS_Per"/>
+          <castItem corresp="#SUPPLIANTS_Per" sameAs="#SUPPLIANTS.1_Per"/>
           <castItem xml:id="SUPPLIANTS.2_Per" corresp="#SUPPLIANTS_Per"/>
           <castItem xml:id="GENTLEMEN.EPHESUS_Per" corresp="#GENTLEMEN_Per">
           Two <name>Gentlemen</name> of Ephesus
         </castItem>
-          <castItem xml:id="GENTLEMEN.EPHESUS.1_Per" corresp="#GENTLEMEN.EPHESUS_Per"/>
-          <castItem xml:id="GENTLEMEN.EPHESUS.2_Per" corresp="#GENTLEMEN.EPHESUS_Per"/>
-          <castItem xml:id="SERVANTS.CERIMON.0.1_Per" corresp="#SERVANTS.CERIMON_Per">
+          <castItem corresp="#GENTLEMEN.EPHESUS_Per" sameAs="#GENTLEMEN.EPHESUS.1_Per"/>
+          <castItem corresp="#GENTLEMEN.EPHESUS_Per" sameAs="#GENTLEMEN.EPHESUS.2_Per"/>
+          <castItem corresp="#SERVANTS.CERIMON_Per" sameAs="#SERVANTS.CERIMON.0.1_Per">
             <role>
               <name>Servant</name>
             </role>
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Diana_Per">
+          <castItem sameAs="#Diana_Per">
             <role>
               <name>Diana</name>
             </role>
@@ -274,25 +274,25 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Lysimachus_Per">
+          <castItem sameAs="#Lysimachus_Per">
             <role>
               <name>Lysimachus</name>
             </role>
             <roleDesc>governor of Mytilene</roleDesc>
           </castItem>
-          <castItem xml:id="Pander_Per">
+          <castItem sameAs="#Pander_Per">
             <role>
               <name>Pander</name>
             </role>
             <roleDesc>owner of brothel</roleDesc>
           </castItem>
-          <castItem xml:id="Bawd_Per">
+          <castItem sameAs="#Bawd_Per">
             <role>
               <name>Bawd</name>
             </role>
             <roleDesc>mistress of brothel and wife to Pander</roleDesc>
           </castItem>
-          <castItem xml:id="Bolt_Per">
+          <castItem sameAs="#Bolt_Per">
             <role>
               <name>Bolt</name>
             </role>
@@ -301,22 +301,22 @@
           <castItem xml:id="GENTLEMEN.MYTILENE_Per" corresp="#GENTLEMEN_Per">
          Two <name>Gentlemen</name>, visitors to brothel
         </castItem>
-          <castItem xml:id="GENTLEMEN.MYTILENE.1_Per" corresp="#GENTLEMEN.MYTILENE_Per"/>
-          <castItem xml:id="GENTLEMEN.MYTILENE.2_Per" corresp="#GENTLEMEN.MYTILENE_Per"/>
+          <castItem corresp="#GENTLEMEN.MYTILENE_Per" sameAs="#GENTLEMEN.MYTILENE.1_Per"/>
+          <castItem corresp="#GENTLEMEN.MYTILENE_Per" sameAs="#GENTLEMEN.MYTILENE.2_Per"/>
         </castGroup>
         <castGroup>
-          <castItem xml:id="SAILORS.TYRE.1_Per" corresp="#SAILORS_Per">
+          <castItem corresp="#SAILORS_Per" sameAs="#SAILORS.TYRE.1_Per">
             <role>Tyrian <name>Sailor</name></role>
           </castItem>
-          <castItem xml:id="SAILORS.MYTILENE.1_Per" corresp="#SAILORS_Per">
+          <castItem corresp="#SAILORS_Per" sameAs="#SAILORS.MYTILENE.1_Per">
             <role><name>Sailor</name> from Mytilene</role>
           </castItem>
           <castItem xml:id="GENTLEMEN.TYRE_Per" corresp="#GENTLEMEN_Per"/>
-          <castItem xml:id="GENTLEMEN.TYRE.0.1_Per" corresp="#GENTLEMEN.TYRE_Per">
+          <castItem corresp="#GENTLEMEN.TYRE_Per" sameAs="#GENTLEMEN.TYRE.0.1_Per">
             <role><name>Gentleman</name> of Tyre</role>
           </castItem>
           <castItem xml:id="LORDS.MYTILENE_Per" corresp="#LORDS_Per"/>
-          <castItem xml:id="LORDS.MYTILENE.0.1_Per">
+          <castItem sameAs="#LORDS.MYTILENE.0.1_Per">
             <role><name>Lord</name> of Mytilene</role>
           </castItem>
         </castGroup>
@@ -330,7 +330,7 @@
           <castItem xml:id="ATTENDANTS.SIMONIDES.0.1_Per" corresp="#ATTENDANTS.SIMONIDES_Per"/>
           <castItem xml:id="LORDS_Per"/>
           <castItem xml:id="GENTLEMEN_Per"/>
-          <castItem xml:id="CITIZENS.TARSUS_Per"/>
+          <castItem sameAs="#CITIZENS.TARSUS_Per"/>
           <castItem xml:id="LADIES.PENTAPOLIS_Per"/>
           <castItem xml:id="PRIESTESSES_Per"/>
           <castItem xml:id="SQUIRES_Per"/>

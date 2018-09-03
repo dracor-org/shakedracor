@@ -84,34 +84,34 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    </profileDesc>
+    <particDesc><listPerson><person xml:id="ATTENDANTS.1_Cym"><persName>ATTENDANTS.1_Cym</persName></person><person xml:id="ATTENDANTS.2_Cym"><persName>ATTENDANTS.2_Cym</persName></person><person xml:id="Queen_Cym"><persName>Queen</persName></person><person xml:id="Posthumus_Cym"><persName>Posthumus Leonatus</persName></person><person xml:id="Imogen_Cym"><persName>Imogen</persName></person><person xml:id="Cymbeline_Cym"><persName>Cymbeline</persName></person><person xml:id="Pisanio_Cym"><persName>Pisanio</persName></person><person xml:id="ATTENDANTS.CLOTEN.1_Cym"><persName>ATTENDANTS.CLOTEN.1_Cym</persName></person><person xml:id="Cloten_Cym"><persName>Cloten</persName></person><person xml:id="ATTENDANTS.CLOTEN.2_Cym"><persName>ATTENDANTS.CLOTEN.2_Cym</persName></person><person xml:id="LADIES.IMOGEN_Cym"><persName>Lady</persName></person><person xml:id="Iachimo_Cym"><persName>Iachimo</persName></person><person xml:id="Philario_Cym"><persName>Philario</persName></person><person xml:id="Frenchman_Cym"><persName>Frenchman</persName></person><person xml:id="LADIES.QUEEN.0.1_Cym"><persName>Lady</persName></person><person xml:id="Cornelius_Cym"><persName>Cornelius</persName></person><person xml:id="MUSICIANS_Cym"><persName>Lords, Ladies, Attendants, Musicians, a Dutchman, a Spaniard, Senators, Tribunes, Captains, and Soldiers</persName></person><person xml:id="MESSENGERS.1_Cym"><persName>MESSENGERS.1_Cym</persName></person><person xml:id="Lucius_Cym"><persName>Caius Lucius</persName></person><person xml:id="Belarius_Cym"><persName>Belarius</persName></person><person xml:id="Guiderius_Cym"><persName>Guiderius</persName></person><person xml:id="Arviragus_Cym"><persName>Arviragus</persName></person><person xml:id="ATTENDANTS.0.1_Cym"><persName>Lords, Ladies, Attendants, Musicians, a Dutchman, a Spaniard, Senators, Tribunes, Captains, and Soldiers</persName></person><person xml:id="SENATORS.1_Cym"><persName>SENATORS.1_Cym</persName></person><person xml:id="TRIBUNES.0.1_Cym"><persName>TRIBUNES.0.1_Cym</persName></person><person xml:id="SENATORS.2_Cym"><persName>SENATORS.2_Cym</persName></person><person xml:id="SOLDIERS.ROMAN.0.1_Cym"><persName>SOLDIERS.ROMAN.0.1_Cym</persName></person><person xml:id="Soothsayer_Cym"><persName>Soothsayer</persName></person><person xml:id="ATTENDANTS.0.2_Cym"><persName>Lords, Ladies, Attendants, Musicians, a Dutchman, a Spaniard, Senators, Tribunes, Captains, and Soldiers</persName></person><person xml:id="ATTENDANTS.3_Cym"><persName>Lord</persName></person><person xml:id="SOLDIERS.BRITON.0.1_Cym"><persName>SOLDIERS.BRITON.0.1_Cym</persName></person><person xml:id="SOLDIERS.BRITON.0.2_Cym"><persName>SOLDIERS.BRITON.0.2_Cym</persName></person><person xml:id="JAILERS.1_Cym"><persName>JAILERS.1_Cym</persName></person><person xml:id="JAILERS.2_Cym"><persName>JAILERS.2_Cym</persName></person><person xml:id="GHOSTS.Father_Cym"><persName>Sicilius Leonatus</persName></person><person xml:id="GHOSTS.Mother_Cym"><persName>Mother</persName></person><person xml:id="GHOSTS.BROTHERS.1_Cym"><persName>GHOSTS.BROTHERS.1_Cym</persName></person><person xml:id="GHOSTS.BROTHERS.2_Cym"><persName>GHOSTS.BROTHERS.2_Cym</persName></person><person xml:id="Jupiter_Cym"><persName>Jupiter</persName></person><person xml:id="MESSENGERS.2_Cym"><persName>MESSENGERS.2_Cym</persName></person><person xml:id="LADIES.QUEEN_Cym"><persName>LADIES.QUEEN_Cym</persName></person></listPerson></particDesc></profileDesc>
   </teiHeader>
   <text>
     <front>
       <castList>
         <castGroup>
-          <castItem xml:id="Cymbeline_Cym">
+          <castItem sameAs="#Cymbeline_Cym">
             <role>
               <name>Cymbeline</name>
             </role>
             <roleDesc>King of Britain</roleDesc>
           </castItem>
-          <castItem xml:id="Queen_Cym">
+          <castItem sameAs="#Queen_Cym">
             <role>Cymbeline’s <name>Queen</name></role>
           </castItem>
-          <castItem xml:id="Imogen_Cym">
+          <castItem sameAs="#Imogen_Cym">
             <role>
               <name>Imogen</name>
             </role>
             <roleDesc>daughter to Cymbeline by his former queen</roleDesc>
           </castItem>
-          <castItem xml:id="Posthumus_Cym">
+          <castItem sameAs="#Posthumus_Cym">
             <role>
               <name>Posthumus Leonatus</name>
             </role>
             <roleDesc>husband to Imogen</roleDesc>
           </castItem>
-          <castItem xml:id="Cloten_Cym">
+          <castItem sameAs="#Cloten_Cym">
             <role>
               <name>Cloten</name>
             </role>
@@ -119,13 +119,13 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Pisanio_Cym">
+          <castItem sameAs="#Pisanio_Cym">
             <role>
               <name>Pisanio</name>
             </role>
             <roleDesc>Posthumus’s servant</roleDesc>
           </castItem>
-          <castItem xml:id="Cornelius_Cym">
+          <castItem sameAs="#Cornelius_Cym">
             <role>
               <name>Cornelius</name>
             </role>
@@ -133,25 +133,25 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Philario_Cym">
+          <castItem sameAs="#Philario_Cym">
             <role>
               <name>Philario</name>
             </role>
             <roleDesc>Posthumus’s host in Rome</roleDesc>
           </castItem>
-          <castItem xml:id="Iachimo_Cym">
+          <castItem sameAs="#Iachimo_Cym">
             <role>
               <name>Iachimo</name>
             </role>
             <roleDesc>friend to Philario</roleDesc>
           </castItem>
-          <castItem xml:id="Frenchman_Cym">
+          <castItem sameAs="#Frenchman_Cym">
             <role>A <name>Frenchman</name></role>
             <roleDesc>friend to Philario</roleDesc>
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Lucius_Cym">
+          <castItem sameAs="#Lucius_Cym">
             <role>
               <name>Caius Lucius</name>
             </role>
@@ -159,7 +159,7 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Belarius_Cym">
+          <castItem sameAs="#Belarius_Cym">
             <role>
               <name>Belarius</name>
             </role>
@@ -167,12 +167,12 @@
           </castItem>
           <castGroup>
             <head>sons to Cymbeline by his former queen</head>
-            <castItem xml:id="Guiderius_Cym">
+            <castItem sameAs="#Guiderius_Cym">
               <role>
                 <name>Guiderius</name>
               </role>
             </castItem>
-            <castItem xml:id="Arviragus_Cym">
+            <castItem sameAs="#Arviragus_Cym">
               <role>
                 <name>Arviragus</name>
               </role>
@@ -183,83 +183,83 @@
           <castItem xml:id="ATTENDANTS.CLOTEN_Cym" corresp="#ATTENDANTS_Cym">
             Two <name>Lords</name> attending Cloten
           </castItem>
-          <castItem xml:id="ATTENDANTS.CLOTEN.1_Cym" corresp="#ATTENDANTS.CLOTEN_Cym"/>
-          <castItem xml:id="ATTENDANTS.CLOTEN.2_Cym" corresp="#ATTENDANTS.CLOTEN_Cym"/>
+          <castItem corresp="#ATTENDANTS.CLOTEN_Cym" sameAs="#ATTENDANTS.CLOTEN.1_Cym"/>
+          <castItem corresp="#ATTENDANTS.CLOTEN_Cym" sameAs="#ATTENDANTS.CLOTEN.2_Cym"/>
           <castItem xml:id="ATTENDANTS.GENTLEMEN_Cym" corresp="#ATTENDANTS_Cym">
           Two <name>Gentlemen</name> of Cymbeline’s court
           </castItem>
-          <castItem xml:id="ATTENDANTS.1_Cym" corresp="#ATTENDANTS_Cym"/>
-          <castItem xml:id="ATTENDANTS.2_Cym" corresp="#ATTENDANTS_Cym"/>
+          <castItem corresp="#ATTENDANTS_Cym" sameAs="#ATTENDANTS.1_Cym"/>
+          <castItem corresp="#ATTENDANTS_Cym" sameAs="#ATTENDANTS.2_Cym"/>
           <castItem xml:id="LADIES_Cym"/>
-          <castItem xml:id="LADIES.IMOGEN_Cym" corresp="#LADIES_Cym">
+          <castItem corresp="#LADIES_Cym" sameAs="#LADIES.IMOGEN_Cym">
             <role>A <name>Lady</name>, Imogen’s attendant</role>
           </castItem>
-          <castItem xml:id="LADIES.QUEEN_Cym" corresp="#LADIES_Cym"/>
-          <castItem xml:id="LADIES.QUEEN.0.1_Cym" corresp="#LADIES.QUEEN_Cym">
+          <castItem corresp="#LADIES_Cym" sameAs="#LADIES.QUEEN_Cym"/>
+          <castItem corresp="#LADIES.QUEEN_Cym" sameAs="#LADIES.QUEEN.0.1_Cym">
             <role>A <name>Lady</name>, the Queen’s attendant</role>
           </castItem>
-          <castItem xml:id="ATTENDANTS.3_Cym" corresp="#ATTENDANTS_Cym">
+          <castItem corresp="#ATTENDANTS_Cym" sameAs="#ATTENDANTS.3_Cym">
             <role>A Briton <name>Lord</name></role>
           </castItem>
           <castItem xml:id="SOLDIERS.BRITON.CAPTAINS_Cym" corresp="#SOLDIERS.BRITON_Cym">
           Two Briton <name>Captains</name>
           </castItem>
-          <castItem xml:id="SOLDIERS.BRITON.0.1_Cym" corresp="#SOLDIERS.BRITON_Cym"/>
-          <castItem xml:id="SOLDIERS.BRITON.0.2_Cym" corresp="#SOLDIERS.BRITON_Cym"/>
+          <castItem corresp="#SOLDIERS.BRITON_Cym" sameAs="#SOLDIERS.BRITON.0.1_Cym"/>
+          <castItem corresp="#SOLDIERS.BRITON_Cym" sameAs="#SOLDIERS.BRITON.0.2_Cym"/>
           <castItem xml:id="JAILERS_Cym">
            Two <name>Jailers</name>
           </castItem>
-          <castItem xml:id="JAILERS.1_Cym" corresp="#JAILERS_Cym"/>
-          <castItem xml:id="JAILERS.2_Cym" corresp="#JAILERS_Cym"/>
+          <castItem corresp="#JAILERS_Cym" sameAs="#JAILERS.1_Cym"/>
+          <castItem corresp="#JAILERS_Cym" sameAs="#JAILERS.2_Cym"/>
           <castItem xml:id="MESSENGERS_Cym">
            Two <name>Messengers</name>
           </castItem>
-          <castItem xml:id="MESSENGERS.1_Cym" corresp="#MESSENGERS_Cym"/>
-          <castItem xml:id="MESSENGERS.2_Cym" corresp="#MESSENGERS_Cym"/>
+          <castItem corresp="#MESSENGERS_Cym" sameAs="#MESSENGERS.1_Cym"/>
+          <castItem corresp="#MESSENGERS_Cym" sameAs="#MESSENGERS.2_Cym"/>
         </castGroup>
         <castGroup>
           <castItem xml:id="SENATORS_Cym">
            Two Roman <name>Senators</name>
           </castItem>
-          <castItem xml:id="SENATORS.1_Cym" corresp="#SENATORS_Cym"/>
-          <castItem xml:id="SENATORS.2_Cym" corresp="#SENATORS_Cym"/>
+          <castItem corresp="#SENATORS_Cym" sameAs="#SENATORS.1_Cym"/>
+          <castItem corresp="#SENATORS_Cym" sameAs="#SENATORS.2_Cym"/>
           <castItem xml:id="TRIBUNES_Cym">
             <name>Tribunes</name>
           </castItem>
-          <castItem xml:id="TRIBUNES.0.1_Cym" corresp="#TRIBUNES_Cym"/>
+          <castItem corresp="#TRIBUNES_Cym" sameAs="#TRIBUNES.0.1_Cym"/>
           <castItem xml:id="SOLDIERS.ROMAN.CAPTAINS_Cym" corresp="SOLDIERS.ROMAN_Cym">
             Roman <name>Captains</name>
           </castItem>
-          <castItem xml:id="SOLDIERS.ROMAN.0.1_Cym" corresp="#SOLDIERS.ROMAN_Cym"/>
-          <castItem xml:id="Soothsayer_Cym">
+          <castItem corresp="#SOLDIERS.ROMAN_Cym" sameAs="#SOLDIERS.ROMAN.0.1_Cym"/>
+          <castItem sameAs="#Soothsayer_Cym">
             <role>A <name>Soothsayer</name></role>
           </castItem>
-          <castItem xml:id="Jupiter_Cym">
+          <castItem sameAs="#Jupiter_Cym">
             <role>
               <name>Jupiter</name>
             </role>
           </castItem>
           <castItem xml:id="GHOSTS_Cym"/>
-          <castItem xml:id="GHOSTS.Father_Cym" corresp="#GHOSTS_Cym">
+          <castItem corresp="#GHOSTS_Cym" sameAs="#GHOSTS.Father_Cym">
             <role>The Ghost of <name>Sicilius Leonatus</name></role>
             <roleDesc>Posthumus’s father</roleDesc>
           </castItem>
-          <castItem xml:id="GHOSTS.Mother_Cym" corresp="#GHOSTS_Cym">
+          <castItem corresp="#GHOSTS_Cym" sameAs="#GHOSTS.Mother_Cym">
             <role>The Ghost of Posthumus’s <name>Mother</name></role>
           </castItem>
           <castItem xml:id="GHOSTS.BROTHERS_Cym" corresp="#GHOSTS_Cym">
           The Ghosts of Posthumus’s two <name>Brothers</name>
           </castItem>
-          <castItem xml:id="GHOSTS.BROTHERS.1_Cym" corresp="#GHOSTS.BROTHERS_Cym"/>
-          <castItem xml:id="GHOSTS.BROTHERS.2_Cym" corresp="#GHOSTS.BROTHERS_Cym"/>
+          <castItem corresp="#GHOSTS.BROTHERS_Cym" sameAs="#GHOSTS.BROTHERS.1_Cym"/>
+          <castItem corresp="#GHOSTS.BROTHERS_Cym" sameAs="#GHOSTS.BROTHERS.2_Cym"/>
         </castGroup>
         <castGroup>
           <head>Lords, Ladies, Attendants, Musicians, a Dutchman, a Spaniard, Senators, Tribunes, Captains, and Soldiers</head>
           <castItem xml:id="ATTENDANTS_Cym"/>
           <castItem xml:id="ATTENDANTS.0_Cym" corresp="#ATTENDANTS_Cym"/>
-          <castItem xml:id="ATTENDANTS.0.1_Cym" corresp="#ATTENDANTS_Cym"/>
-          <castItem xml:id="ATTENDANTS.0.2_Cym" corresp="#ATTENDANTS_Cym"/>
-          <castItem xml:id="MUSICIANS_Cym"/>
+          <castItem corresp="#ATTENDANTS_Cym" sameAs="#ATTENDANTS.0.1_Cym"/>
+          <castItem corresp="#ATTENDANTS_Cym" sameAs="#ATTENDANTS.0.2_Cym"/>
+          <castItem sameAs="#MUSICIANS_Cym"/>
           <castItem xml:id="Dutchman_Cym"/>
           <castItem xml:id="Spaniard_Cym"/>
           <castItem xml:id="SOLDIERS_Cym"/>

@@ -84,13 +84,13 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    </profileDesc>
+    <particDesc><listPerson><person xml:id="Orsino_TN"><persName>Orsino</persName></person><person xml:id="ATTENDANTS.ORSINO.Curio_TN"><persName>Curio</persName></person><person xml:id="ATTENDANTS.ORSINO.Valentine_TN"><persName>Valentine</persName></person><person xml:id="Viola_TN"><persName>Viola Cesario</persName><persName>Viola Cesario</persName></person><person xml:id="Captain_TN"><persName>Captain</persName></person><person xml:id="TobyBelch_TN"><persName>Sir Toby Belch</persName></person><person xml:id="Maria_TN"><persName>Maria</persName></person><person xml:id="AndrewAguecheek_TN"><persName>Sir Andrew Aguecheek</persName></person><person xml:id="Feste_TN"><persName>Fool</persName></person><person xml:id="Olivia_TN"><persName>Olivia</persName></person><person xml:id="Malvolio_TN"><persName>Malvolio</persName></person><person xml:id="Antonio_TN"><persName>Antonio</persName></person><person xml:id="Sebastian_TN"><persName>Sebastian</persName></person><person xml:id="Fabian_TN"><persName>Fabian</persName></person><person xml:id="ATTENDANTS.OLIVIA.1_TN"><persName>Lords, Sailors, Musicians, and other Attendants</persName></person><person xml:id="OFFICERS.1_TN"><persName>OFFICERS.1_TN</persName></person><person xml:id="OFFICERS.2_TN"><persName>OFFICERS.2_TN</persName></person><person xml:id="Priest_TN"><persName>Priest</persName></person></listPerson></particDesc></profileDesc>
   </teiHeader>
   <text>
     <front>
       <castList>
         <castGroup>
-          <castItem xml:id="Viola_TN">
+          <castItem sameAs="#Viola_TN">
             <role>
               <name>Viola</name>
             </role>
@@ -98,43 +98,43 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Olivia_TN">
+          <castItem sameAs="#Olivia_TN">
             <role>
               <name>Olivia</name>
             </role>
             <roleDesc>an Illyrian countess</roleDesc>
           </castItem>
-          <castItem xml:id="Maria_TN">
+          <castItem sameAs="#Maria_TN">
             <role>
               <name>Maria</name>
             </role>
             <roleDesc><rs ref="#Olivia_TN">her</rs> waiting-gentlewoman</roleDesc>
           </castItem>
-          <castItem xml:id="TobyBelch_TN">
+          <castItem sameAs="#TobyBelch_TN">
             <role>
               <name>Sir Toby Belch</name>
             </role>
             <roleDesc>Olivia’s kinsman</roleDesc>
           </castItem>
-          <castItem xml:id="AndrewAguecheek_TN">
+          <castItem sameAs="#AndrewAguecheek_TN">
             <role>
               <name>Sir Andrew Aguecheek</name>
             </role>
             <roleDesc>Sir Toby’s companion</roleDesc>
           </castItem>
-          <castItem xml:id="Malvolio_TN">
+          <castItem sameAs="#Malvolio_TN">
             <role>
               <name>Malvolio</name>
             </role>
             <roleDesc>steward in Olivia’s household</roleDesc>
           </castItem>
-          <castItem xml:id="Feste_TN">
+          <castItem sameAs="#Feste_TN">
             <role>
               <name>Fool</name>
             </role>
             <roleDesc>Olivia’s jester, named Feste</roleDesc>
           </castItem>
-          <castItem xml:id="Fabian_TN">
+          <castItem sameAs="#Fabian_TN">
             <role>
               <name>Fabian</name>
             </role>
@@ -142,7 +142,7 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Orsino_TN">
+          <castItem sameAs="#Orsino_TN">
             <role>
               <name>Orsino</name>
             </role>
@@ -150,12 +150,12 @@
           </castItem>
           <castGroup>
             <head>gentlemen serving Orsino</head>
-            <castItem xml:id="ATTENDANTS.ORSINO.Valentine_TN" corresp="#ATTENDANTS.ORSINO_TN">
+            <castItem corresp="#ATTENDANTS.ORSINO_TN" sameAs="#ATTENDANTS.ORSINO.Valentine_TN">
               <role>
                 <name>Valentine</name>
               </role>
             </castItem>
-            <castItem xml:id="ATTENDANTS.ORSINO.Curio_TN" corresp="#ATTENDANTS.ORSINO_TN">
+            <castItem corresp="#ATTENDANTS.ORSINO_TN" sameAs="#ATTENDANTS.ORSINO.Curio_TN">
               <role>
                 <name>Curio</name>
               </role>
@@ -163,13 +163,13 @@
           </castGroup>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Sebastian_TN">
+          <castItem sameAs="#Sebastian_TN">
             <role>
               <name>Sebastian</name>
             </role>
             <roleDesc>Viola’s brother</roleDesc>
           </castItem>
-          <castItem xml:id="Antonio_TN">
+          <castItem sameAs="#Antonio_TN">
             <role>
               <name>Antonio</name>
             </role>
@@ -177,12 +177,12 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Captain_TN">
+          <castItem sameAs="#Captain_TN">
             <role>
               <name>Captain</name>
             </role>
           </castItem>
-          <castItem xml:id="Priest_TN">
+          <castItem sameAs="#Priest_TN">
             <role>
               <name>Priest</name>
             </role>
@@ -190,8 +190,8 @@
           <castItem xml:id="OFFICERS_TN">
             Two <name>Officers</name>
           </castItem>
-          <castItem xml:id="OFFICERS.1_TN" corresp="#OFFICERS_TN"/>
-          <castItem xml:id="OFFICERS.2_TN" corresp="#OFFICERS_TN"/>
+          <castItem corresp="#OFFICERS_TN" sameAs="#OFFICERS.1_TN"/>
+          <castItem corresp="#OFFICERS_TN" sameAs="#OFFICERS.2_TN"/>
         </castGroup>
         <castGroup>
           <head>Lords, Sailors, Musicians, and other Attendants</head>
@@ -200,7 +200,7 @@
           <castItem xml:id="ATTENDANTS_TN"/>
           <castItem xml:id="ATTENDANTS.OLIVIA_TN" corresp="ATTENDANTS_TN"/>
           <castItem xml:id="ATTENDANTS.OLIVIA.0.1_TN" corresp="ATTENDANTS.OLIVIA_TN"/>
-          <castItem xml:id="ATTENDANTS.OLIVIA.1_TN" corresp="ATTENDANTS.OLIVIA_TN"/>
+          <castItem corresp="ATTENDANTS.OLIVIA_TN" sameAs="#ATTENDANTS.OLIVIA.1_TN"/>
           <castItem xml:id="ATTENDANTS.ORSINO_TN" corresp="ATTENDANTS_TN"/>
           <castItem xml:id="ATTENDANTS.ORSINO.0_TN" corresp="ATTENDANTS.ORSINO_TN"/>
         </castGroup>

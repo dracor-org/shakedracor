@@ -84,29 +84,29 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    </profileDesc>
+    <particDesc><listPerson><person xml:id="KingJohn_Jn"><persName>John</persName></person><person xml:id="Chatillion_Jn"><persName>Chatillion</persName></person><person xml:id="QueenEleanor_Jn"><persName>Queen Eleanor</persName></person><person xml:id="Essex_Jn"><persName>Earl of Essex</persName></person><person xml:id="Bastard_Jn"><persName>Bastard Philip Faulconbridge</persName><persName>Bastard Philip Faulconbridge</persName></person><person xml:id="RobertFaulconbridge_Jn"><persName>Robert Faulconbridge</persName></person><person xml:id="LadyFaulconbridge_Jn"><persName>Lady Faulconbridge</persName></person><person xml:id="Gurney_Jn"><persName>James Gurney</persName></person><person xml:id="Dauphin_Jn"><persName>Louis the Dauphin</persName></person><person xml:id="Arthur_Jn"><persName>Arthur</persName></person><person xml:id="Austria_Jn"><persName>Duke of Austria Limoges</persName><persName>Duke of Austria Limoges</persName></person><person xml:id="Constance_Jn"><persName>Constance</persName></person><person xml:id="KingPhilip_Jn"><persName>King Philip II</persName></person><person xml:id="Blanche_Jn"><persName>Blanche</persName></person><person xml:id="CITIZENS.0.1_Jn"><persName>Citizen</persName></person><person xml:id="HERALDS.FRENCH_Jn"><persName>French Herald</persName></person><person xml:id="HERALDS.ENGLISH_Jn"><persName>English Herald</persName></person><person xml:id="Salisbury_Jn"><persName>Earl of Salisbury</persName></person><person xml:id="Pandulph_Jn"><persName>Cardinal Pandulph</persName></person><person xml:id="Hubert_Jn"><persName>Hubert</persName></person><person xml:id="EXECUTIONERS.0.1_Jn"><persName>EXECUTIONERS.0.1_Jn</persName></person><person xml:id="Pembroke_Jn"><persName>Earl of Pembroke</persName></person><person xml:id="MESSENGERS.ENGLISH.1_Jn"><persName>English Messenger, French Messenger, Sheriff, Lords, Soldiers, Attendants</persName></person><person xml:id="Peter_Jn"><persName>Peter</persName></person><person xml:id="Bigot_Jn"><persName>Lord Bigot</persName></person><person xml:id="Melun_Jn"><persName>Count Melun</persName></person><person xml:id="MESSENGERS.FRENCH.1_Jn"><persName>English Messenger, French Messenger, Sheriff, Lords, Soldiers, Attendants</persName></person><person xml:id="PrinceHenry_Jn"><persName>Prince Henry</persName></person></listPerson></particDesc></profileDesc>
   </teiHeader>
   <text>
     <front>
       <castList>
         <castGroup>
-          <castItem xml:id="KingJohn_Jn">
+          <castItem sameAs="#KingJohn_Jn">
             <role>
               <name>John</name>
             </role>
             <roleDesc>King of England, with dominion over assortedContinental territories</roleDesc>
           </castItem>
-          <castItem xml:id="QueenEleanor_Jn">
+          <castItem sameAs="#QueenEleanor_Jn">
             <role>
               <name>Queen Eleanor</name>
             </role>
             <roleDesc>King John’s mother, widow of King Henry II</roleDesc>
           </castItem>
-          <castItem xml:id="Blanche_Jn">
+          <castItem sameAs="#Blanche_Jn">
             <role><name>Blanche</name> of Spain</role>
             <roleDesc>niece to King John</roleDesc>
           </castItem>
-          <castItem xml:id="PrinceHenry_Jn">
+          <castItem sameAs="#PrinceHenry_Jn">
             <role>
               <name>Prince Henry</name>
             </role>
@@ -114,13 +114,13 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Constance_Jn">
+          <castItem sameAs="#Constance_Jn">
             <role>
               <name>Constance</name>
             </role>
             <roleDesc>widow of Geoffrey, King John’s elder brother</roleDesc>
           </castItem>
-          <castItem xml:id="Arthur_Jn">
+          <castItem sameAs="#Arthur_Jn">
             <role>
               <name>Arthur</name>
             </role>
@@ -128,38 +128,38 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="KingPhilip_Jn">
+          <castItem sameAs="#KingPhilip_Jn">
             <role><name>King Philip II</name> of France</role>
           </castItem>
-          <castItem xml:id="Dauphin_Jn">
+          <castItem sameAs="#Dauphin_Jn">
             <role>
               <name>Louis the Dauphin</name>
             </role>
             <roleDesc>his son</roleDesc>
           </castItem>
-          <castItem xml:id="Austria_Jn">
+          <castItem sameAs="#Austria_Jn">
             <role>
               <name>Duke of Austria</name>
             </role>
             <roleDesc>(also called <name>Limoges</name>)</roleDesc>
           </castItem>
-          <castItem xml:id="Chatillion_Jn">
+          <castItem sameAs="#Chatillion_Jn">
             <role>
               <name>Chatillion</name>
             </role>
             <roleDesc>ambassador from France to King John</roleDesc>
           </castItem>
-          <castItem xml:id="Melun_Jn">
+          <castItem sameAs="#Melun_Jn">
             <role>
               <name>Count Melun</name>
             </role>
           </castItem>
-          <castItem xml:id="HERALDS.FRENCH_Jn" corresp="#HERALDS_Jn">
+          <castItem corresp="#HERALDS_Jn" sameAs="#HERALDS.FRENCH_Jn">
             <role>A <name>French Herald</name></role>
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Pandulph_Jn">
+          <castItem sameAs="#Pandulph_Jn">
             <role>
               <name>Cardinal Pandulph</name>
             </role>
@@ -167,22 +167,22 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="LadyFaulconbridge_Jn">
+          <castItem sameAs="#LadyFaulconbridge_Jn">
             <role>
               <name>Lady Faulconbridge</name>
             </role>
           </castItem>
-          <castItem xml:id="Bastard_Jn">
+          <castItem sameAs="#Bastard_Jn">
             <role>The <name>Bastard</name></role>
             <roleDesc><name>Philip Faulconbridge</name>, her son by King Richard I</roleDesc>
           </castItem>
-          <castItem xml:id="RobertFaulconbridge_Jn">
+          <castItem sameAs="#RobertFaulconbridge_Jn">
             <role>
               <name>Robert Faulconbridge</name>
             </role>
             <roleDesc>her son by Sir Robert Faulconbridge</roleDesc>
           </castItem>
-          <castItem xml:id="Gurney_Jn">
+          <castItem sameAs="#Gurney_Jn">
             <role>
               <name>James Gurney</name>
             </role>
@@ -190,7 +190,7 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Hubert_Jn">
+          <castItem sameAs="#Hubert_Jn">
             <role>
               <name>Hubert</name>
             </role>
@@ -200,22 +200,22 @@
         <castGroup>
           <castGroup>
             <head>English nobles</head>
-            <castItem xml:id="Salisbury_Jn">
+            <castItem sameAs="#Salisbury_Jn">
               <role>
                 <name>Earl of Salisbury</name>
               </role>
             </castItem>
-            <castItem xml:id="Pembroke_Jn">
+            <castItem sameAs="#Pembroke_Jn">
               <role>
                 <name>Earl of Pembroke</name>
               </role>
             </castItem>
-            <castItem xml:id="Essex_Jn">
+            <castItem sameAs="#Essex_Jn">
               <role>
                 <name>Earl of Essex</name>
               </role>
             </castItem>
-            <castItem xml:id="Bigot_Jn">
+            <castItem sameAs="#Bigot_Jn">
               <role>
                 <name>Lord Bigot</name>
               </role>
@@ -224,26 +224,26 @@
         </castGroup>
         <castGroup>
           <castItem xml:id="CITIZENS_Jn"/>
-          <castItem xml:id="CITIZENS.0.1_Jn" corresp="#CITIZENS_Jn">
+          <castItem corresp="#CITIZENS_Jn" sameAs="#CITIZENS.0.1_Jn">
             <role>A <name>Citizen</name> of Angiers</role>
           </castItem>
-          <castItem xml:id="Peter_Jn">
+          <castItem sameAs="#Peter_Jn">
             <role><name>Peter</name> of Pomfret</role>
             <roleDesc>a Prophet</roleDesc>
           </castItem>
-          <castItem xml:id="HERALDS.ENGLISH_Jn" corresp="#HERALDS_Jn">
+          <castItem corresp="#HERALDS_Jn" sameAs="#HERALDS.ENGLISH_Jn">
             <role>An <name>English Herald</name></role>
           </castItem>
           <castItem xml:id="EXECUTIONERS_Jn">
             <name>Executioners</name>
           </castItem>
-          <castItem xml:id="EXECUTIONERS.0.1_Jn" corresp="#EXECUTIONERS_Jn"/>
+          <castItem corresp="#EXECUTIONERS_Jn" sameAs="#EXECUTIONERS.0.1_Jn"/>
         </castGroup>
         <castGroup>
           <head>English <name>Messenger</name>, French <name>Messenger</name>, Sheriff, Lords, Soldiers, Attendants</head>
           <castItem xml:id="MESSENGERS_Jn"/>
-          <castItem xml:id="MESSENGERS.ENGLISH.1_Jn" corresp="#MESSENGERS_Jn"/>
-          <castItem xml:id="MESSENGERS.FRENCH.1_Jn" corresp="#MESSENGERS_Jn"/>
+          <castItem corresp="#MESSENGERS_Jn" sameAs="#MESSENGERS.ENGLISH.1_Jn"/>
+          <castItem corresp="#MESSENGERS_Jn" sameAs="#MESSENGERS.FRENCH.1_Jn"/>
           <castItem xml:id="Sheriff_Jn"/>
           <castItem xml:id="SOLDIERS_Jn"/>
           <castItem xml:id="SOLDIERS.ENGLISH_Jn" corresp="#SOLDIERS_Jn"/>

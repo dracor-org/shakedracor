@@ -84,7 +84,7 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    </profileDesc>
+    <particDesc><listPerson><person xml:id="Theseus_MND"><persName>Theseus</persName></person><person xml:id="Hippolyta_MND"><persName>Hippolyta</persName></person><person xml:id="Egeus_MND"><persName>Egeus</persName></person><person xml:id="Hermia_MND"><persName>Hermia</persName></person><person xml:id="Demetrius_MND"><persName>Demetrius</persName></person><person xml:id="Lysander_MND"><persName>Lysander</persName></person><person xml:id="Helena_MND"><persName>Helena</persName></person><person xml:id="Quince_MND"><persName>Peter Quince</persName></person><person xml:id="Bottom_MND"><persName>Nick Bottom</persName></person><person xml:id="Flute_MND"><persName>Francis Flute</persName></person><person xml:id="Starveling_MND"><persName>Robin Starveling</persName></person><person xml:id="Snout_MND"><persName>Tom Snout</persName></person><person xml:id="Snug_MND"><persName>Snug</persName></person><person xml:id="RobinGoodfellow_MND"><persName>Robin Goodfellow</persName></person><person xml:id="FAIRIES.TITANIA.1_MND"><persName>A Fairy</persName></person><person xml:id="Oberon_MND"><persName>Oberon</persName></person><person xml:id="Titania_MND"><persName>Titania</persName></person><person xml:id="FAIRIES.TITANIA.0.1_MND"><persName>Other Fairies in the trains of Titania and Oberon</persName></person><person xml:id="FAIRIES.TITANIA_MND"><persName>Other Fairies in the trains of Titania and Oberon</persName></person><person xml:id="FAIRIES.TITANIA.0.2_MND"><persName>Other Fairies in the trains of Titania and Oberon</persName></person><person xml:id="FAIRIES.TITANIA.Peaseblossom_MND"><persName>Peaseblossom</persName></person><person xml:id="FAIRIES.TITANIA.Cobweb_MND"><persName>Cobweb</persName></person><person xml:id="FAIRIES.TITANIA.Mote_MND"><persName>Mote</persName></person><person xml:id="FAIRIES.TITANIA.Mustardseed_MND"><persName>Mustardseed</persName></person><person xml:id="Philostrate_MND"><persName>Philostrate</persName></person></listPerson></particDesc></profileDesc>
   </teiHeader>
   <text>
     <front>
@@ -92,22 +92,22 @@
         <castGroup>
           <castGroup>
             <head>four lovers</head>
-            <castItem xml:id="Hermia_MND">
+            <castItem sameAs="#Hermia_MND">
               <role>
                 <name>Hermia</name>
               </role>
             </castItem>
-            <castItem xml:id="Lysander_MND">
+            <castItem sameAs="#Lysander_MND">
               <role>
                 <name>Lysander</name>
               </role>
             </castItem>
-            <castItem xml:id="Helena_MND">
+            <castItem sameAs="#Helena_MND">
               <role>
                 <name>Helena</name>
               </role>
             </castItem>
-            <castItem xml:id="Demetrius_MND">
+            <castItem sameAs="#Demetrius_MND">
               <role>
                 <name>Demetrius</name>
               </role>
@@ -115,25 +115,25 @@
           </castGroup>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Theseus_MND">
+          <castItem sameAs="#Theseus_MND">
             <role>
               <name>Theseus</name>
             </role>
             <roleDesc>duke of Athens</roleDesc>
           </castItem>
-          <castItem xml:id="Hippolyta_MND">
+          <castItem sameAs="#Hippolyta_MND">
             <role>
               <name>Hippolyta</name>
             </role>
             <roleDesc>queen of the Amazons</roleDesc>
           </castItem>
-          <castItem xml:id="Egeus_MND">
+          <castItem sameAs="#Egeus_MND">
             <role>
               <name>Egeus</name>
             </role>
             <roleDesc>father to Hermia</roleDesc>
           </castItem>
-          <castItem xml:id="Philostrate_MND">
+          <castItem sameAs="#Philostrate_MND">
             <role>
               <name>Philostrate</name>
             </role>
@@ -141,37 +141,37 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Bottom_MND">
+          <castItem sameAs="#Bottom_MND">
             <role>
               <name>Nick Bottom</name>
             </role>
             <roleDesc>weaver</roleDesc>
           </castItem>
-          <castItem xml:id="Quince_MND">
+          <castItem sameAs="#Quince_MND">
             <role>
               <name>Peter Quince</name>
             </role>
             <roleDesc>carpenter</roleDesc>
           </castItem>
-          <castItem xml:id="Flute_MND">
+          <castItem sameAs="#Flute_MND">
             <role>
               <name>Francis Flute</name>
             </role>
             <roleDesc>bellows-mender</roleDesc>
           </castItem>
-          <castItem xml:id="Snout_MND">
+          <castItem sameAs="#Snout_MND">
             <role>
               <name>Tom Snout</name>
             </role>
             <roleDesc>tinker</roleDesc>
           </castItem>
-          <castItem xml:id="Snug_MND">
+          <castItem sameAs="#Snug_MND">
             <role>
               <name>Snug</name>
             </role>
             <roleDesc>joiner</roleDesc>
           </castItem>
-          <castItem xml:id="Starveling_MND">
+          <castItem sameAs="#Starveling_MND">
             <role>
               <name>Robin Starveling</name>
             </role>
@@ -179,25 +179,25 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Oberon_MND">
+          <castItem sameAs="#Oberon_MND">
             <role>
               <name>Oberon</name>
             </role>
             <roleDesc>king of the Fairies</roleDesc>
           </castItem>
-          <castItem xml:id="Titania_MND">
+          <castItem sameAs="#Titania_MND">
             <role>
               <name>Titania</name>
             </role>
             <roleDesc>queen of the Fairies</roleDesc>
           </castItem>
-          <castItem xml:id="RobinGoodfellow_MND">
+          <castItem sameAs="#RobinGoodfellow_MND">
             <role>
               <name>Robin Goodfellow</name>
             </role>
             <roleDesc>a “puck,” or hobgoblin, in Oberon’s service</roleDesc>
           </castItem>
-          <castItem xml:id="FAIRIES.TITANIA.1_MND" corresp="#FAIRIES_MND">
+          <castItem corresp="#FAIRIES_MND" sameAs="#FAIRIES.TITANIA.1_MND">
             <role>
               <name>A Fairy</name>
             </role>
@@ -205,22 +205,22 @@
           </castItem>
           <castGroup>
             <head>fairies attending upon Titania</head>
-            <castItem xml:id="FAIRIES.TITANIA.Peaseblossom_MND" corresp="#FAIRIES.TITANIA_MND">
+            <castItem corresp="#FAIRIES.TITANIA_MND" sameAs="#FAIRIES.TITANIA.Peaseblossom_MND">
               <role>
                 <name>Peaseblossom</name>
               </role>
             </castItem>
-            <castItem xml:id="FAIRIES.TITANIA.Cobweb_MND" corresp="#FAIRIES.TITANIA_MND">
+            <castItem corresp="#FAIRIES.TITANIA_MND" sameAs="#FAIRIES.TITANIA.Cobweb_MND">
               <role>
                 <name>Cobweb</name>
               </role>
             </castItem>
-            <castItem xml:id="FAIRIES.TITANIA.Mote_MND" corresp="#FAIRIES.TITANIA_MND">
+            <castItem corresp="#FAIRIES.TITANIA_MND" sameAs="#FAIRIES.TITANIA.Mote_MND">
               <role>
                 <name>Mote</name>
               </role>
             </castItem>
-            <castItem xml:id="FAIRIES.TITANIA.Mustardseed_MND" corresp="#FAIRIES.TITANIA_MND">
+            <castItem corresp="#FAIRIES.TITANIA_MND" sameAs="#FAIRIES.TITANIA.Mustardseed_MND">
               <role>
                 <name>Mustardseed</name>
               </role>
@@ -237,9 +237,9 @@
           <head>Other Fairies in the trains of Titania and Oberon</head>
           <castItem xml:id="FAIRIES_MND"/>
           <castItem xml:id="FAIRIES.OBERON_MND" corresp="#FAIRIES_MND"/>
-          <castItem xml:id="FAIRIES.TITANIA_MND" corresp="#FAIRIES_MND"/>
-          <castItem xml:id="FAIRIES.TITANIA.0.1_MND" corresp="#FAIRIES_MND"/>
-          <castItem xml:id="FAIRIES.TITANIA.0.2_MND" corresp="#FAIRIES_MND"/>
+          <castItem corresp="#FAIRIES_MND" sameAs="#FAIRIES.TITANIA_MND"/>
+          <castItem corresp="#FAIRIES_MND" sameAs="#FAIRIES.TITANIA.0.1_MND"/>
+          <castItem corresp="#FAIRIES_MND" sameAs="#FAIRIES.TITANIA.0.2_MND"/>
         </castGroup>
       </castList>
     </front>

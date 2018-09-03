@@ -84,19 +84,19 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    </profileDesc>
+    <particDesc><listPerson><person xml:id="Poet_Tim"><persName>Poet</persName></person><person xml:id="Painter_Tim"><persName>Painter</persName></person><person xml:id="Merchant_Tim"><persName>Merchant</persName></person><person xml:id="Jeweler_Tim"><persName>Jeweler</persName></person><person xml:id="Timon_Tim"><persName>Timon</persName></person><person xml:id="MESSENGERS.X.1_Tim"><persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName></person><person xml:id="OldMan_Tim"><persName>Old Athenian</persName></person><person xml:id="SERVANTS.TIMON.Lucilius_Tim"><persName>Lucilius</persName></person><person xml:id="Apemantus_Tim"><persName>Apemantus</persName></person><person xml:id="MESSENGERS.X.2_Tim"><persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName></person><person xml:id="Alcibiades_Tim"><persName>Alcibiades</persName></person><person xml:id="LORDS.0.1_Tim"><persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName></person><person xml:id="LORDS.0.2_Tim"><persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName></person><person xml:id="FRIENDS.Ventidius_Tim"><persName>Ventidius</persName></person><person xml:id="LORDS.0.3_Tim"><persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName></person><person xml:id="SERVANTS.TIMON.X.1_Tim"><persName>SERVANTS.TIMON.X.1_Tim</persName></person><person xml:id="Cupid_Tim"><persName>“Cupid” and other Maskers (as Amazons)</persName></person><person xml:id="FRIENDS.Lucius_Tim"><persName>Lucius</persName></person><person xml:id="LADIES.0.1_Tim"><persName>“Cupid” and other Maskers (as Amazons)</persName></person><person xml:id="LADIES_Tim"><persName>“Cupid” and other Maskers (as Amazons)</persName></person><person xml:id="Flavius_Tim"><persName>Flavius</persName></person><person xml:id="ATTENDANTS.TIMON.0.1_Tim"><persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName></person><person xml:id="SERVANTS.TIMON.1_Tim"><persName>SERVANTS.TIMON.1_Tim</persName></person><person xml:id="SERVANTS.TIMON.2_Tim"><persName>SERVANTS.TIMON.2_Tim</persName></person><person xml:id="SERVANTS.TIMON.3_Tim"><persName>SERVANTS.TIMON.3_Tim</persName></person><person xml:id="LORDS_Tim"><persName>Senators Lords</persName><persName>Senators Lords</persName></person><person xml:id="SENATORS.X_Tim"><persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName></person><person xml:id="SERVANTS.Caphis_Tim"><persName>Caphis</persName></person><person xml:id="SERVANTS.VARRO.1_Tim"><persName>servants of Timon’s creditors</persName></person><person xml:id="SERVANTS.ISIDORE.1_Tim"><persName>Isidore’s Man</persName></person><person xml:id="Fool_Tim"><persName>Fool</persName></person><person xml:id="SERVANTS.Page_Tim"><persName>Page</persName></person><person xml:id="SERVANTS.TIMON.Flaminius_Tim"><persName>Flaminius</persName></person><person xml:id="SERVANTS.TIMON.Servilius_Tim"><persName>Servilius</persName></person><person xml:id="SERVANTS.TIMON.X.2_Tim"><persName>SERVANTS.TIMON.X.2_Tim</persName></person><person xml:id="SERVANTS.LUCULLUS.1_Tim"><persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName></person><person xml:id="FRIENDS.Lucullus_Tim"><persName>Lucullus</persName></person><person xml:id="STRANGERS.1_Tim"><persName>STRANGERS.1_Tim</persName></person><person xml:id="STRANGERS.2_Tim"><persName>STRANGERS.2_Tim</persName></person><person xml:id="STRANGERS.3_Tim"><persName>STRANGERS.3_Tim</persName></person><person xml:id="FRIENDS.Sempronius_Tim"><persName>Sempronius</persName></person><person xml:id="SERVANTS.Titus_Tim"><persName>Titus</persName></person><person xml:id="SERVANTS.Hortensius_Tim"><persName>Hortensius</persName></person><person xml:id="SERVANTS.LUCIUS.1_Tim"><persName>Lucius’ Man</persName></person><person xml:id="SERVANTS.Philotus_Tim"><persName>Philotus</persName></person><person xml:id="SERVANTS.VARRO.2_Tim"><persName>servants of Timon’s creditors</persName></person><person xml:id="SENATORS.0.1_Tim"><persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName></person><person xml:id="SENATORS.0.2_Tim"><persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName></person><person xml:id="SENATORS.0.3_Tim"><persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName></person><person xml:id="FRIENDS.0.1_Tim"><persName>FRIENDS.0.1_Tim</persName></person><person xml:id="FRIENDS.0.2_Tim"><persName>FRIENDS.0.2_Tim</persName></person><person xml:id="FRIENDS.0.3_Tim"><persName>FRIENDS.0.3_Tim</persName></person><person xml:id="FRIENDS.0_Tim"><persName>FRIENDS.0_Tim</persName></person><person xml:id="FRIENDS.0.4_Tim"><persName>FRIENDS.0.4_Tim</persName></person><person xml:id="SERVANTS.TIMON.0.1_Tim"><persName>SERVANTS.TIMON.0.1_Tim</persName></person><person xml:id="SERVANTS.TIMON.0.2_Tim"><persName>SERVANTS.TIMON.0.2_Tim</persName></person><person xml:id="SERVANTS.TIMON.0.3_Tim"><persName>SERVANTS.TIMON.0.3_Tim</persName></person><person xml:id="Phrynia_Tim"><persName>Phrynia</persName></person><person xml:id="Timandra_Tim"><persName>Timandra</persName></person><person xml:id="BANDITS.1_Tim"><persName>BANDITS.1_Tim</persName></person><person xml:id="BANDITS.2_Tim"><persName>BANDITS.2_Tim</persName></person><person xml:id="BANDITS.3_Tim"><persName>BANDITS.3_Tim</persName></person><person xml:id="SENATORS.1_Tim"><persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName></person><person xml:id="SENATORS.2_Tim"><persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName></person><person xml:id="SENATORS.3_Tim"><persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName></person><person xml:id="MESSENGERS.X.3_Tim"><persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName></person><person xml:id="SENATORS.4_Tim"><persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName></person><person xml:id="SOLDIERS.1_Tim"><persName>Soldier</persName></person></listPerson></particDesc></profileDesc>
   </teiHeader>
   <text>
     <front>
       <castList>
         <castGroup>
-          <castItem xml:id="Timon_Tim">
+          <castItem sameAs="#Timon_Tim">
             <role>
               <name>Timon</name>
             </role>
             <roleDesc>a noble Athenian</roleDesc>
           </castItem>
-          <castItem xml:id="Flavius_Tim">
+          <castItem sameAs="#Flavius_Tim">
             <role>
               <name>Flavius</name>
             </role>
@@ -104,17 +104,17 @@
           </castItem>
           <castGroup>
             <head>servants of Timon</head>
-            <castItem xml:id="SERVANTS.TIMON.Lucilius_Tim" corresp="#SERVANTS.TIMON_Tim">
+            <castItem corresp="#SERVANTS.TIMON_Tim" sameAs="#SERVANTS.TIMON.Lucilius_Tim">
               <role>
                 <name>Lucilius</name>
               </role>
             </castItem>
-            <castItem xml:id="SERVANTS.TIMON.Flaminius_Tim" corresp="#SERVANTS.TIMON_Tim">
+            <castItem corresp="#SERVANTS.TIMON_Tim" sameAs="#SERVANTS.TIMON.Flaminius_Tim">
               <role>
                 <name>Flaminius</name>
               </role>
             </castItem>
-            <castItem xml:id="SERVANTS.TIMON.Servilius_Tim" corresp="#SERVANTS.TIMON_Tim">
+            <castItem corresp="#SERVANTS.TIMON_Tim" sameAs="#SERVANTS.TIMON.Servilius_Tim">
               <role>
                 <name>Servilius</name>
               </role>
@@ -124,17 +124,17 @@
             Other <name>Servants</name> of Timon
           </castItem>
           <castItem xml:id="SERVANTS.TIMON.0_Tim" corresp="#SERVANTS.TIMON_Tim"/>
-          <castItem xml:id="SERVANTS.TIMON.0.1_Tim" corresp="#SERVANTS.TIMON_Tim"/>
-          <castItem xml:id="SERVANTS.TIMON.0.2_Tim" corresp="#SERVANTS.TIMON_Tim"/>
-          <castItem xml:id="SERVANTS.TIMON.0.3_Tim" corresp="#SERVANTS.TIMON_Tim"/>
-          <castItem xml:id="SERVANTS.TIMON.1_Tim" corresp="#SERVANTS.TIMON_Tim"/>
-          <castItem xml:id="SERVANTS.TIMON.2_Tim" corresp="#SERVANTS.TIMON_Tim"/>
-          <castItem xml:id="SERVANTS.TIMON.3_Tim" corresp="#SERVANTS.TIMON_Tim"/>
-          <castItem xml:id="SERVANTS.TIMON.X.1_Tim" corresp="#SERVANTS.TIMON_Tim"/>
-          <castItem xml:id="SERVANTS.TIMON.X.2_Tim" corresp="#SERVANTS.TIMON_Tim"/>
+          <castItem corresp="#SERVANTS.TIMON_Tim" sameAs="#SERVANTS.TIMON.0.1_Tim"/>
+          <castItem corresp="#SERVANTS.TIMON_Tim" sameAs="#SERVANTS.TIMON.0.2_Tim"/>
+          <castItem corresp="#SERVANTS.TIMON_Tim" sameAs="#SERVANTS.TIMON.0.3_Tim"/>
+          <castItem corresp="#SERVANTS.TIMON_Tim" sameAs="#SERVANTS.TIMON.1_Tim"/>
+          <castItem corresp="#SERVANTS.TIMON_Tim" sameAs="#SERVANTS.TIMON.2_Tim"/>
+          <castItem corresp="#SERVANTS.TIMON_Tim" sameAs="#SERVANTS.TIMON.3_Tim"/>
+          <castItem corresp="#SERVANTS.TIMON_Tim" sameAs="#SERVANTS.TIMON.X.1_Tim"/>
+          <castItem corresp="#SERVANTS.TIMON_Tim" sameAs="#SERVANTS.TIMON.X.2_Tim"/>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Apemantus_Tim">
+          <castItem sameAs="#Apemantus_Tim">
             <role>
               <name>Apemantus</name>
             </role>
@@ -142,7 +142,7 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Alcibiades_Tim">
+          <castItem sameAs="#Alcibiades_Tim">
             <role>
               <name>Alcibiades</name>
             </role>
@@ -150,42 +150,42 @@
           </castItem>
           <castGroup>
             <head>his concubines</head>
-            <castItem xml:id="Phrynia_Tim">
+            <castItem sameAs="#Phrynia_Tim">
               <role>
                 <name>Phrynia</name>
               </role>
             </castItem>
-            <castItem xml:id="Timandra_Tim">
+            <castItem sameAs="#Timandra_Tim">
               <role>
                 <name>Timandra</name>
               </role>
             </castItem>
           </castGroup>
-          <castItem xml:id="SOLDIERS.1_Tim" corresp="#SOLDIERS_Tim">
+          <castItem corresp="#SOLDIERS_Tim" sameAs="#SOLDIERS.1_Tim">
             <role><name>Soldier</name> of Alcibiades</role>
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="LORDS_Tim"><name>Senators</name> and <name>Lords</name> of Athens
+          <castItem sameAs="#LORDS_Tim"><name>Senators</name> and <name>Lords</name> of Athens
           </castItem>
           <castGroup>
             <head>friends of Timon</head>
-            <castItem xml:id="FRIENDS.Lucius_Tim">
+            <castItem sameAs="#FRIENDS.Lucius_Tim">
               <role>
                 <name>Lucius</name>
               </role>
             </castItem>
-            <castItem xml:id="FRIENDS.Lucullus_Tim">
+            <castItem sameAs="#FRIENDS.Lucullus_Tim">
               <role>
                 <name>Lucullus</name>
               </role>
             </castItem>
-            <castItem xml:id="FRIENDS.Sempronius_Tim">
+            <castItem sameAs="#FRIENDS.Sempronius_Tim">
               <role>
                 <name>Sempronius</name>
               </role>
             </castItem>
-            <castItem xml:id="FRIENDS.Ventidius_Tim">
+            <castItem sameAs="#FRIENDS.Ventidius_Tim">
               <role>
                 <name>Ventidius</name>
               </role>
@@ -194,46 +194,46 @@
           <castItem xml:id="FRIENDS_Tim">
            Other <name>Friends</name> of Timon
           </castItem>
-          <castItem xml:id="FRIENDS.0_Tim" corresp="#FRIENDS_Tim"/>
-          <castItem xml:id="FRIENDS.0.1_Tim" corresp="#FRIENDS_Tim"/>
-          <castItem xml:id="FRIENDS.0.2_Tim" corresp="#FRIENDS_Tim"/>
-          <castItem xml:id="FRIENDS.0.3_Tim" corresp="#FRIENDS_Tim"/>
-          <castItem xml:id="FRIENDS.0.4_Tim" corresp="#FRIENDS_Tim"/>
+          <castItem corresp="#FRIENDS_Tim" sameAs="#FRIENDS.0_Tim"/>
+          <castItem corresp="#FRIENDS_Tim" sameAs="#FRIENDS.0.1_Tim"/>
+          <castItem corresp="#FRIENDS_Tim" sameAs="#FRIENDS.0.2_Tim"/>
+          <castItem corresp="#FRIENDS_Tim" sameAs="#FRIENDS.0.3_Tim"/>
+          <castItem corresp="#FRIENDS_Tim" sameAs="#FRIENDS.0.4_Tim"/>
         </castGroup>
         <castGroup>
           <castGroup>
             <head>servants of Timon’s creditors</head>
-            <castItem xml:id="SERVANTS.Caphis_Tim" corresp="#SERVANTS_Tim">
+            <castItem corresp="#SERVANTS_Tim" sameAs="#SERVANTS.Caphis_Tim">
               <role>
                 <name>Caphis</name>
               </role>
               <roleDesc>servant to a Senator</roleDesc>
             </castItem>
-            <castItem xml:id="SERVANTS.ISIDORE.1_Tim" corresp="#SERVANTS_Tim">
+            <castItem corresp="#SERVANTS_Tim" sameAs="#SERVANTS.ISIDORE.1_Tim">
               <role>
                 <name>Isidore’s Man</name>
               </role>
             </castItem>
             <castItem xml:id="SERVANTS.VARRO_Tim" corresp="#SERVANTS_Tim"><name>Varro’s</name> two <name>Men</name>
             </castItem>
-            <castItem xml:id="SERVANTS.VARRO.1_Tim" corresp="#SERVANTS.VARRO_Tim"/>
-            <castItem xml:id="SERVANTS.VARRO.2_Tim" corresp="#SERVANTS.VARRO_Tim"/>
-            <castItem xml:id="SERVANTS.Titus_Tim" corresp="#SERVANTS_Tim">
+            <castItem corresp="#SERVANTS.VARRO_Tim" sameAs="#SERVANTS.VARRO.1_Tim"/>
+            <castItem corresp="#SERVANTS.VARRO_Tim" sameAs="#SERVANTS.VARRO.2_Tim"/>
+            <castItem corresp="#SERVANTS_Tim" sameAs="#SERVANTS.Titus_Tim">
               <role>
                 <name>Titus</name>
               </role>
             </castItem>
-            <castItem xml:id="SERVANTS.LUCIUS.1_Tim" corresp="#SERVANTS_Tim">
+            <castItem corresp="#SERVANTS_Tim" sameAs="#SERVANTS.LUCIUS.1_Tim">
               <role>
                 <name>Lucius’ Man</name>
               </role>
             </castItem>
-            <castItem xml:id="SERVANTS.Hortensius_Tim" corresp="#SERVANTS_Tim">
+            <castItem corresp="#SERVANTS_Tim" sameAs="#SERVANTS.Hortensius_Tim">
               <role>
                 <name>Hortensius</name>
               </role>
             </castItem>
-            <castItem xml:id="SERVANTS.Philotus_Tim" corresp="#SERVANTS_Tim">
+            <castItem corresp="#SERVANTS_Tim" sameAs="#SERVANTS.Philotus_Tim">
               <role>
                 <name>Philotus</name>
               </role>
@@ -241,27 +241,27 @@
           </castGroup>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Poet_Tim">
+          <castItem sameAs="#Poet_Tim">
             <role>A <name>Poet</name></role>
           </castItem>
-          <castItem xml:id="Painter_Tim">
+          <castItem sameAs="#Painter_Tim">
             <role>A <name>Painter</name></role>
           </castItem>
-          <castItem xml:id="Jeweler_Tim">
+          <castItem sameAs="#Jeweler_Tim">
             <role>A <name>Jeweler</name></role>
           </castItem>
-          <castItem xml:id="Merchant_Tim">
+          <castItem sameAs="#Merchant_Tim">
             <role>A <name>Merchant</name></role>
           </castItem>
-          <castItem xml:id="OldMan_Tim">
+          <castItem sameAs="#OldMan_Tim">
             <role>An <name>Old Athenian</name></role>
           </castItem>
-          <castItem xml:id="Fool_Tim">
+          <castItem sameAs="#Fool_Tim">
             <role>
               <name>Fool</name>
             </role>
           </castItem>
-          <castItem xml:id="SERVANTS.Page_Tim" corresp="#SERVANTS_Tim">
+          <castItem corresp="#SERVANTS_Tim" sameAs="#SERVANTS.Page_Tim">
             <role>
               <name>Page</name>
             </role>
@@ -271,46 +271,46 @@
           <castItem xml:id="STRANGERS_Tim">
             Three <name>Strangers</name>, one called <name>Hostilius</name>
           </castItem>
-          <castItem xml:id="STRANGERS.1_Tim" corresp="#STRANGERS_Tim"/>
-          <castItem xml:id="STRANGERS.2_Tim" corresp="#STRANGERS_Tim"/>
-          <castItem xml:id="STRANGERS.3_Tim" corresp="#STRANGERS_Tim"/>
+          <castItem corresp="#STRANGERS_Tim" sameAs="#STRANGERS.1_Tim"/>
+          <castItem corresp="#STRANGERS_Tim" sameAs="#STRANGERS.2_Tim"/>
+          <castItem corresp="#STRANGERS_Tim" sameAs="#STRANGERS.3_Tim"/>
         </castGroup>
         <castGroup>
           <castItem xml:id="BANDITS_Tim"><name>Banditti</name>, theives
           </castItem>
-          <castItem xml:id="BANDITS.1_Tim" corresp="#BANDITS_Tim"/>
-          <castItem xml:id="BANDITS.2_Tim" corresp="#BANDITS_Tim"/>
-          <castItem xml:id="BANDITS.3_Tim" corresp="#BANDITS_Tim"/>
+          <castItem corresp="#BANDITS_Tim" sameAs="#BANDITS.1_Tim"/>
+          <castItem corresp="#BANDITS_Tim" sameAs="#BANDITS.2_Tim"/>
+          <castItem corresp="#BANDITS_Tim" sameAs="#BANDITS.3_Tim"/>
         </castGroup>
         <castGroup>
           <head>“Cupid” and other Maskers (as Amazons)</head>
-          <castItem xml:id="Cupid_Tim"/>
-          <castItem xml:id="LADIES_Tim"/>
-          <castItem xml:id="LADIES.0.1_Tim" corresp="#LADIES_Tim"/>
+          <castItem sameAs="#Cupid_Tim"/>
+          <castItem sameAs="#LADIES_Tim"/>
+          <castItem corresp="#LADIES_Tim" sameAs="#LADIES.0.1_Tim"/>
         </castGroup>
         <castGroup>
           <head>Soldiers, Servants, Messengers, Attendants, Musicians</head>
           <castItem xml:id="ATTENDANTS_Tim"/>
           <castItem xml:id="ATTENDANTS.ALCIBIADES_Tim" corresp="#ATTENDANTS_Tim"/>
           <castItem xml:id="ATTENDANTS.TIMON_Tim" corresp="#ATTENDANTS_Tim"/>
-          <castItem xml:id="ATTENDANTS.TIMON.0.1_Tim" corresp="#ATTENDANTS.TIMON_Tim"/>
-          <castItem xml:id="SERVANTS.LUCULLUS.1_Tim" corresp="#SERVANTS_Tim"/>
+          <castItem corresp="#ATTENDANTS.TIMON_Tim" sameAs="#ATTENDANTS.TIMON.0.1_Tim"/>
+          <castItem corresp="#SERVANTS_Tim" sameAs="#SERVANTS.LUCULLUS.1_Tim"/>
           <castItem xml:id="MESSENGERS_Tim"/>
-          <castItem xml:id="MESSENGERS.X.1_Tim" corresp="#MESSENGERS_Tim"/>
-          <castItem xml:id="MESSENGERS.X.2_Tim" corresp="#MESSENGERS_Tim"/>
-          <castItem xml:id="MESSENGERS.X.3_Tim" corresp="#MESSENGERS_Tim"/>
-          <castItem xml:id="LORDS.0.1_Tim" corresp="#LORDS_Tim"/>
-          <castItem xml:id="LORDS.0.2_Tim" corresp="#LORDS_Tim"/>
-          <castItem xml:id="LORDS.0.3_Tim" corresp="#LORDS_Tim"/>
+          <castItem corresp="#MESSENGERS_Tim" sameAs="#MESSENGERS.X.1_Tim"/>
+          <castItem corresp="#MESSENGERS_Tim" sameAs="#MESSENGERS.X.2_Tim"/>
+          <castItem corresp="#MESSENGERS_Tim" sameAs="#MESSENGERS.X.3_Tim"/>
+          <castItem corresp="#LORDS_Tim" sameAs="#LORDS.0.1_Tim"/>
+          <castItem corresp="#LORDS_Tim" sameAs="#LORDS.0.2_Tim"/>
+          <castItem corresp="#LORDS_Tim" sameAs="#LORDS.0.3_Tim"/>
           <castItem xml:id="SENATORS_Tim"/>
-          <castItem xml:id="SENATORS.0.1_Tim" corresp="#SENATORS_Tim"/>
-          <castItem xml:id="SENATORS.0.2_Tim" corresp="#SENATORS_Tim"/>
-          <castItem xml:id="SENATORS.0.3_Tim" corresp="#SENATORS_Tim"/>
-          <castItem xml:id="SENATORS.X_Tim" corresp="#SENATORS_Tim"/>
-          <castItem xml:id="SENATORS.1_Tim" corresp="#SENATORS_Tim"/>
-          <castItem xml:id="SENATORS.2_Tim" corresp="#SENATORS_Tim"/>
-          <castItem xml:id="SENATORS.3_Tim" corresp="#SENATORS_Tim"/>
-          <castItem xml:id="SENATORS.4_Tim" corresp="#SENATORS_Tim"/>
+          <castItem corresp="#SENATORS_Tim" sameAs="#SENATORS.0.1_Tim"/>
+          <castItem corresp="#SENATORS_Tim" sameAs="#SENATORS.0.2_Tim"/>
+          <castItem corresp="#SENATORS_Tim" sameAs="#SENATORS.0.3_Tim"/>
+          <castItem corresp="#SENATORS_Tim" sameAs="#SENATORS.X_Tim"/>
+          <castItem corresp="#SENATORS_Tim" sameAs="#SENATORS.1_Tim"/>
+          <castItem corresp="#SENATORS_Tim" sameAs="#SENATORS.2_Tim"/>
+          <castItem corresp="#SENATORS_Tim" sameAs="#SENATORS.3_Tim"/>
+          <castItem corresp="#SENATORS_Tim" sameAs="#SENATORS.4_Tim"/>
           <castItem xml:id="SOLDIERS_Tim"/>
         </castGroup>
       </castList>

@@ -84,7 +84,7 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    </profileDesc>
+    <particDesc><listPerson><person xml:id="WITCHES.1_Mac"><persName>WITCHES.1_Mac</persName></person><person xml:id="WITCHES.2_Mac"><persName>WITCHES.2_Mac</persName></person><person xml:id="WITCHES.3_Mac"><persName>WITCHES.3_Mac</persName></person><person xml:id="Duncan_Mac"><persName>Duncan</persName></person><person xml:id="Malcolm_Mac"><persName>Malcolm</persName></person><person xml:id="SOLDIERS.Captain_Mac"><persName>SOLDIERS.Captain_Mac</persName></person><person xml:id="Lennox_Mac"><persName>Lennox</persName></person><person xml:id="Ross_Mac"><persName>Ross</persName></person><person xml:id="Macbeth_Mac"><persName>Macbeth</persName></person><person xml:id="Banquo_Mac"><persName>Banquo</persName></person><person xml:id="Angus_Mac"><persName>Angus</persName></person><person xml:id="LadyMacbeth_Mac"><persName>Lady Macbeth</persName></person><person xml:id="MESSENGERS.1_Mac"><persName>Three Messengers, Three Servants, a Lord, a Soldier</persName></person><person xml:id="Fleance_Mac"><persName>Fleance</persName></person><person xml:id="Porter_Mac"><persName>Porter_Mac</persName></person><person xml:id="Macduff_Mac"><persName>Macduff</persName></person><person xml:id="Donalbain_Mac"><persName>Donalbain</persName></person><person xml:id="OldMan_Mac"><persName>OldMan_Mac</persName></person><person xml:id="SERVANTS.X.2_Mac"><persName>Three Messengers, Three Servants, a Lord, a Soldier</persName></person><person xml:id="MURDERERS.1_Mac"><persName>MURDERERS.1_Mac</persName></person><person xml:id="MURDERERS.2_Mac"><persName>MURDERERS.2_Mac</persName></person><person xml:id="SERVANTS.X.3_Mac"><persName>Three Messengers, Three Servants, a Lord, a Soldier</persName></person><person xml:id="MURDERERS.3_Mac"><persName>MURDERERS.3_Mac</persName></person><person xml:id="ATTENDANTS_Mac"><persName>Attendants, a Sewer, Servants, Lords, Thanes, Soldiers (all nonspeaking)</persName></person><person xml:id="Hecate_Mac"><persName>Hecate</persName></person><person xml:id="Lord_Mac"><persName>Three Messengers, Three Servants, a Lord, a Soldier</persName></person><person xml:id="SPIRITS.1_Mac"><persName>SPIRITS.1_Mac</persName></person><person xml:id="SPIRITS.2_Mac"><persName>SPIRITS.2_Mac</persName></person><person xml:id="SPIRITS.3_Mac"><persName>SPIRITS.3_Mac</persName></person><person xml:id="LadyMacduff_Mac"><persName>Lady Macduff</persName></person><person xml:id="MacduffsSon_Mac"><persName>MacduffsSon_Mac</persName></person><person xml:id="MESSENGERS.2_Mac"><persName>Three Messengers, Three Servants, a Lord, a Soldier</persName></person><person xml:id="MURDERERS.0.1_Mac"><persName>MURDERERS.0.1_Mac</persName></person><person xml:id="Doctor1_Mac"><persName>Doctor1_Mac</persName></person><person xml:id="Doctor2_Mac"><persName>both attending upon Lady Macbeth</persName></person><person xml:id="Gentlewoman_Mac"><persName>both attending upon Lady Macbeth</persName></person><person xml:id="Menteith_Mac"><persName>Menteith</persName></person><person xml:id="Caithness_Mac"><persName>Caithness</persName></person><person xml:id="SERVANTS.X.4_Mac"><persName>Three Messengers, Three Servants, a Lord, a Soldier</persName></person><person xml:id="Seyton_Mac"><persName>Seyton</persName></person><person xml:id="Siward_Mac"><persName>Siward</persName></person><person xml:id="SOLDIERS.MALCOLM.0.1_Mac"><persName>Three Messengers, Three Servants, a Lord, a Soldier</persName></person><person xml:id="MESSENGERS.3_Mac"><persName>Three Messengers, Three Servants, a Lord, a Soldier</persName></person><person xml:id="YoungSiward_Mac"><persName>Young Siward</persName></person><person xml:id="SOLDIERS.MALCOLM_Mac"><persName>Attendants, a Sewer, Servants, Lords, Thanes, Soldiers (all nonspeaking)</persName></person></listPerson></particDesc></profileDesc>
   </teiHeader>
   <text>
     <front>
@@ -93,24 +93,24 @@
           <castItem xml:id="WITCHES_Mac">
             Three Witches, the Weïrd Sisters
           </castItem>
-          <castItem xml:id="WITCHES.1_Mac" corresp="#WITCHES_Mac"/>
-          <castItem xml:id="WITCHES.2_Mac" corresp="#WITCHES_Mac"/>
-          <castItem xml:id="WITCHES.3_Mac" corresp="#WITCHES_Mac"/>
+          <castItem corresp="#WITCHES_Mac" sameAs="#WITCHES.1_Mac"/>
+          <castItem corresp="#WITCHES_Mac" sameAs="#WITCHES.2_Mac"/>
+          <castItem corresp="#WITCHES_Mac" sameAs="#WITCHES.3_Mac"/>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Duncan_Mac">
+          <castItem sameAs="#Duncan_Mac">
             <role>
               <name>Duncan</name>
             </role>
             <roleDesc>king of Scotland</roleDesc>
           </castItem>
-          <castItem xml:id="Malcolm_Mac">
+          <castItem sameAs="#Malcolm_Mac">
             <role>
               <name>Malcolm</name>
             </role>
             <roleDesc><rs ref="#Duncan_Mac">his</rs> elder son</roleDesc>
           </castItem>
-          <castItem xml:id="Donalbain_Mac">
+          <castItem sameAs="#Donalbain_Mac">
             <role>
               <name>Donalbain</name>
             </role>
@@ -118,18 +118,18 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Macbeth_Mac">
+          <castItem sameAs="#Macbeth_Mac">
             <role>
               <name>Macbeth</name>
             </role>
             <roleDesc>thane of Glamis</roleDesc>
           </castItem>
-          <castItem xml:id="LadyMacbeth_Mac">
+          <castItem sameAs="#LadyMacbeth_Mac">
             <role>
               <name>Lady Macbeth</name>
             </role>
           </castItem>
-          <castItem xml:id="Seyton_Mac">
+          <castItem sameAs="#Seyton_Mac">
             <role>
               <name>Seyton</name>
             </role>
@@ -138,31 +138,31 @@
           <castItem xml:id="MURDERERS_Mac">
             Three Murderers in Macbeth’s service
           </castItem>
-          <castItem xml:id="MURDERERS.0.1_Mac" corresp="#MURDERERS_Mac"/>
-          <castItem xml:id="MURDERERS.1_Mac" corresp="#MURDERERS_Mac"/>
-          <castItem xml:id="MURDERERS.2_Mac" corresp="#MURDERERS_Mac"/>
-          <castItem xml:id="MURDERERS.3_Mac" corresp="#MURDERERS_Mac"/>
+          <castItem corresp="#MURDERERS_Mac" sameAs="#MURDERERS.0.1_Mac"/>
+          <castItem corresp="#MURDERERS_Mac" sameAs="#MURDERERS.1_Mac"/>
+          <castItem corresp="#MURDERERS_Mac" sameAs="#MURDERERS.2_Mac"/>
+          <castItem corresp="#MURDERERS_Mac" sameAs="#MURDERERS.3_Mac"/>
           <castGroup>
             <head>both attending upon Lady Macbeth</head>
-            <castItem xml:id="Doctor2_Mac">
+            <castItem sameAs="#Doctor2_Mac">
               <role>A Doctor</role>
             </castItem>
-            <castItem xml:id="Gentlewoman_Mac">
+            <castItem sameAs="#Gentlewoman_Mac">
               <role>A Gentlewoman</role>
             </castItem>
           </castGroup>
-          <castItem xml:id="Porter_Mac">
+          <castItem sameAs="#Porter_Mac">
             <role>A Porter</role>
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Banquo_Mac">
+          <castItem sameAs="#Banquo_Mac">
             <role>
               <name>Banquo</name>
             </role>
             <roleDesc>commander, with Macbeth, of Duncan’s army</roleDesc>
           </castItem>
-          <castItem xml:id="Fleance_Mac">
+          <castItem sameAs="#Fleance_Mac">
             <role>
               <name>Fleance</name>
             </role>
@@ -170,45 +170,45 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Macduff_Mac">
+          <castItem sameAs="#Macduff_Mac">
             <role>
               <name>Macduff</name>
             </role>
             <roleDesc>a Scottish noble</roleDesc>
           </castItem>
-          <castItem xml:id="LadyMacduff_Mac">
+          <castItem sameAs="#LadyMacduff_Mac">
             <role>
               <name>Lady Macduff</name>
             </role>
           </castItem>
-          <castItem xml:id="MacduffsSon_Mac">
+          <castItem sameAs="#MacduffsSon_Mac">
             <role><rs ref="#Macduff_Mac #LadyMacduff_Mac">Their</rs> son</role>
           </castItem>
         </castGroup>
         <castGroup>
           <castGroup>
             <head>Scottish Nobles</head>
-            <castItem xml:id="Lennox_Mac">
+            <castItem sameAs="#Lennox_Mac">
               <role>
                 <name>Lennox</name>
               </role>
             </castItem>
-            <castItem xml:id="Ross_Mac">
+            <castItem sameAs="#Ross_Mac">
               <role>
                 <name>Ross</name>
               </role>
             </castItem>
-            <castItem xml:id="Angus_Mac">
+            <castItem sameAs="#Angus_Mac">
               <role>
                 <name>Angus</name>
               </role>
             </castItem>
-            <castItem xml:id="Menteith_Mac">
+            <castItem sameAs="#Menteith_Mac">
               <role>
                 <name>Menteith</name>
               </role>
             </castItem>
-            <castItem xml:id="Caithness_Mac">
+            <castItem sameAs="#Caithness_Mac">
               <role>
                 <name>Caithness</name>
               </role>
@@ -216,13 +216,13 @@
           </castGroup>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Siward_Mac">
+          <castItem sameAs="#Siward_Mac">
             <role>
               <name>Siward</name>
             </role>
             <roleDesc>commander of the English forces</roleDesc>
           </castItem>
-          <castItem xml:id="YoungSiward_Mac">
+          <castItem sameAs="#YoungSiward_Mac">
             <role>
               <name>Young Siward</name>
             </role>
@@ -230,18 +230,18 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="SOLDIERS.Captain_Mac" corresp="#SOLDIERS_Mac">
+          <castItem corresp="#SOLDIERS_Mac" sameAs="#SOLDIERS.Captain_Mac">
             <role>A Captain in Duncan’s army</role>
           </castItem>
-          <castItem xml:id="OldMan_Mac">
+          <castItem sameAs="#OldMan_Mac">
             <role>An Old Man</role>
           </castItem>
-          <castItem xml:id="Doctor1_Mac">
+          <castItem sameAs="#Doctor1_Mac">
             <role>A Doctor at the English court</role>
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Hecate_Mac">
+          <castItem sameAs="#Hecate_Mac">
             <role>
               <name>Hecate</name>
             </role>
@@ -249,32 +249,32 @@
           <castItem xml:id="SPIRITS_Mac">
             Apparitions: an Armed Head, a Bloody Child, a Crowned Child,and eight nonspeaking kings
           </castItem>
-          <castItem xml:id="SPIRITS.1_Mac" corresp="#SPIRITS_Mac"/>
-          <castItem xml:id="SPIRITS.2_Mac" corresp="#SPIRITS_Mac"/>
-          <castItem xml:id="SPIRITS.3_Mac" corresp="#SPIRITS_Mac"/>
+          <castItem corresp="#SPIRITS_Mac" sameAs="#SPIRITS.1_Mac"/>
+          <castItem corresp="#SPIRITS_Mac" sameAs="#SPIRITS.2_Mac"/>
+          <castItem corresp="#SPIRITS_Mac" sameAs="#SPIRITS.3_Mac"/>
           <castItem xml:id="SPIRITS.KINGS_Mac" corresp="#SPIRITS_Mac"/>
         </castGroup>
         <castGroup>
           <head>Three Messengers, Three Servants, a Lord, a Soldier</head>
           <castItem xml:id="MESSENGERS_Mac"/>
-          <castItem xml:id="MESSENGERS.1_Mac" corresp="#MESSENGERS_Mac"/>
-          <castItem xml:id="MESSENGERS.2_Mac" corresp="#MESSENGERS_Mac"/>
-          <castItem xml:id="MESSENGERS.3_Mac" corresp="#MESSENGERS_Mac"/>
+          <castItem corresp="#MESSENGERS_Mac" sameAs="#MESSENGERS.1_Mac"/>
+          <castItem corresp="#MESSENGERS_Mac" sameAs="#MESSENGERS.2_Mac"/>
+          <castItem corresp="#MESSENGERS_Mac" sameAs="#MESSENGERS.3_Mac"/>
           <castItem xml:id="SERVANTS_Mac"/>
           <castItem xml:id="SERVANTS.X.1_Mac" corresp="#SERVANTS_Mac"/>
-          <castItem xml:id="SERVANTS.X.2_Mac" corresp="#SERVANTS_Mac"/>
-          <castItem xml:id="SERVANTS.X.3_Mac" corresp="#SERVANTS_Mac"/>
-          <castItem xml:id="SERVANTS.X.4_Mac" corresp="#SERVANTS_Mac"/>
-          <castItem xml:id="Lord_Mac"/>
-          <castItem xml:id="SOLDIERS.MALCOLM.0.1_Mac" corresp="#SOLDIERS.MALCOLM_Mac"/>
+          <castItem corresp="#SERVANTS_Mac" sameAs="#SERVANTS.X.2_Mac"/>
+          <castItem corresp="#SERVANTS_Mac" sameAs="#SERVANTS.X.3_Mac"/>
+          <castItem corresp="#SERVANTS_Mac" sameAs="#SERVANTS.X.4_Mac"/>
+          <castItem sameAs="#Lord_Mac"/>
+          <castItem corresp="#SOLDIERS.MALCOLM_Mac" sameAs="#SOLDIERS.MALCOLM.0.1_Mac"/>
         </castGroup>
         <castGroup>
           <head>Attendants, a Sewer, Servants, Lords, Thanes, Soldiers (all nonspeaking)</head>
-          <castItem xml:id="ATTENDANTS_Mac"/>
+          <castItem sameAs="#ATTENDANTS_Mac"/>
           <castItem xml:id="ATTENDANTS.0_Mac" corresp="#ATTENDANTS_Mac"/>
           <castItem xml:id="SOLDIERS_Mac"/>
           <castItem xml:id="SOLDIERS.MACBETH_Mac" corresp="#SOLDIERS_Mac"/>
-          <castItem xml:id="SOLDIERS.MALCOLM_Mac" corresp="#SOLDIERS_Mac"/>
+          <castItem corresp="#SOLDIERS_Mac" sameAs="#SOLDIERS.MALCOLM_Mac"/>
         </castGroup>
       </castList>
     </front>

@@ -84,19 +84,19 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    </profileDesc>
+    <particDesc><listPerson><person xml:id="Valentine_TGV"><persName>Valentine</persName></person><person xml:id="Proteus_TGV"><persName>Proteus</persName></person><person xml:id="Speed_TGV"><persName>Speed</persName></person><person xml:id="Julia_TGV"><persName>Julia</persName></person><person xml:id="Lucetta_TGV"><persName>Lucetta</persName></person><person xml:id="Antonio_TGV"><persName>Antonio</persName></person><person xml:id="Pantino_TGV"><persName>Pantino</persName></person><person xml:id="Sylvia_TGV"><persName>Sylvia</persName></person><person xml:id="Lance_TGV"><persName>Lance</persName></person><person xml:id="Thurio_TGV"><persName>Thurio</persName></person><person xml:id="Duke_TGV"><persName>Duke</persName></person><person xml:id="SERVANTS.1_TGV"><persName>SERVANTS.1_TGV</persName></person><person xml:id="OUTLAWS.1_TGV"><persName>OUTLAWS.1_TGV</persName></person><person xml:id="OUTLAWS.2_TGV"><persName>OUTLAWS.2_TGV</persName></person><person xml:id="OUTLAWS.3_TGV"><persName>OUTLAWS.3_TGV</persName></person><person xml:id="Host_TGV"><persName>Host</persName></person><person xml:id="Eglamour_TGV"><persName>Eglamour</persName></person></listPerson></particDesc></profileDesc>
   </teiHeader>
   <text>
     <front>
       <castList>
         <castGroup>
-          <castItem xml:id="Valentine_TGV">
+          <castItem sameAs="#Valentine_TGV">
             <role>
               <name>Valentine</name>
             </role>
             <roleDesc>a gentleman of Verona</roleDesc>
           </castItem>
-          <castItem xml:id="Speed_TGV">
+          <castItem sameAs="#Speed_TGV">
             <role>
               <name>Speed</name>
             </role>
@@ -104,25 +104,25 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Proteus_TGV">
+          <castItem sameAs="#Proteus_TGV">
             <role>
               <name>Proteus</name>
             </role>
             <roleDesc>a gentleman of Verona</roleDesc>
           </castItem>
-          <castItem xml:id="Lance_TGV">
+          <castItem sameAs="#Lance_TGV">
             <role>
               <name>Lance</name>
             </role>
             <roleDesc>his servant</roleDesc>
           </castItem>
-          <castItem xml:id="Antonio_TGV">
+          <castItem sameAs="#Antonio_TGV">
             <role>
               <name>Antonio</name>
             </role>
             <roleDesc>Proteus’ father</roleDesc>
           </castItem>
-          <castItem xml:id="Pantino_TGV">
+          <castItem sameAs="#Pantino_TGV">
             <role>
               <name>Pantino</name>
             </role>
@@ -130,13 +130,13 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Julia_TGV">
+          <castItem sameAs="#Julia_TGV">
             <role>
               <name>Julia</name>
             </role>
             <roleDesc>a lady of Verona</roleDesc>
           </castItem>
-          <castItem xml:id="Lucetta_TGV">
+          <castItem sameAs="#Lucetta_TGV">
             <role>
               <name>Lucetta</name>
             </role>
@@ -144,25 +144,25 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Sylvia_TGV">
+          <castItem sameAs="#Sylvia_TGV">
             <role>
               <name>Sylvia</name>
             </role>
             <roleDesc>a lady of Milan</roleDesc>
           </castItem>
-          <castItem xml:id="Duke_TGV">
+          <castItem sameAs="#Duke_TGV">
             <role><name>Duke</name> (sometimes Emperor)</role>
             <roleDesc>Sylvia’s father</roleDesc>
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Thurio_TGV">
+          <castItem sameAs="#Thurio_TGV">
             <role>
               <name>Thurio</name>
             </role>
             <roleDesc>a gentleman</roleDesc>
           </castItem>
-          <castItem xml:id="Eglamour_TGV">
+          <castItem sameAs="#Eglamour_TGV">
             <role>
               <name>Eglamour</name>
             </role>
@@ -170,7 +170,7 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Host_TGV">
+          <castItem sameAs="#Host_TGV">
             <role>
               <name>Host</name>
             </role>
@@ -180,16 +180,16 @@
         <castGroup>
           <castItem xml:id="OUTLAWS_TGV"><name>Outlaws</name>, living in a forest near Mantua
           </castItem>
-          <castItem xml:id="OUTLAWS.1_TGV" corresp="#OUTLAWS_TGV"/>
-          <castItem xml:id="OUTLAWS.2_TGV" corresp="#OUTLAWS_TGV"/>
-          <castItem xml:id="OUTLAWS.3_TGV" corresp="#OUTLAWS_TGV"/>
+          <castItem corresp="#OUTLAWS_TGV" sameAs="#OUTLAWS.1_TGV"/>
+          <castItem corresp="#OUTLAWS_TGV" sameAs="#OUTLAWS.2_TGV"/>
+          <castItem corresp="#OUTLAWS_TGV" sameAs="#OUTLAWS.3_TGV"/>
         </castGroup>
         <castGroup>
           <castItem>
            Servants; Musicians; Crab, a dog
           </castItem>
           <castItem xml:id="SERVANTS_TGV"/>
-          <castItem xml:id="SERVANTS.1_TGV" corresp="#SERVANTS_TGV"/>
+          <castItem corresp="#SERVANTS_TGV" sameAs="#SERVANTS.1_TGV"/>
           <castItem xml:id="SERVANTS.Ursula_TGV" corresp="#SERVANTS_TGV"/>
           <castItem xml:id="MUSICIANS_TGV"/>
           <castItem xml:id="Crab_TGV"/>

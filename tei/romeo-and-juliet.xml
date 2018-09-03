@@ -84,42 +84,42 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    </profileDesc>
+    <particDesc><listPerson><person xml:id="Chorus_Rom"><persName>Chorus</persName></person><person xml:id="SERVANTS.CAPULET.Sampson_Rom"><persName>Sampson</persName></person><person xml:id="SERVANTS.CAPULET.Gregory_Rom"><persName>Gregory</persName></person><person xml:id="SERVANTS.MONTAGUE.Abram_Rom"><persName>Abram</persName></person><person xml:id="Benvolio_Rom"><persName>Benvolio</persName></person><person xml:id="Tybalt_Rom"><persName>Tybalt</persName></person><person xml:id="CITIZENS_Rom"><persName>Three or four Citizens</persName></person><person xml:id="Capulet_Rom"><persName>Capulet</persName></person><person xml:id="LadyCapulet_Rom"><persName>Lady Capulet</persName></person><person xml:id="Montague_Rom"><persName>Montague</persName></person><person xml:id="LadyMontague_Rom"><persName>Lady Montague</persName></person><person xml:id="PrinceEscalus_Rom"><persName>Escalus</persName></person><person xml:id="Romeo_Rom"><persName>Romeo</persName></person><person xml:id="Paris_Rom"><persName>Paris</persName></person><person xml:id="SERVANTS.CAPULET.X.1_Rom"><persName>SERVANTS.CAPULET.X.1_Rom</persName></person><person xml:id="Nurse_Rom"><persName>Nurse</persName></person><person xml:id="Juliet_Rom"><persName>Juliet</persName></person><person xml:id="SERVANTS.CAPULET.X.2_Rom"><persName>SERVANTS.CAPULET.X.2_Rom</persName></person><person xml:id="Mercutio_Rom"><persName>Mercutio</persName></person><person xml:id="SERVANTS.CAPULET.0.1_Rom"><persName>SERVANTS.CAPULET.0.1_Rom</persName></person><person xml:id="SERVANTS.CAPULET.0.2_Rom"><persName>SERVANTS.CAPULET.0.2_Rom</persName></person><person xml:id="SERVANTS.CAPULET.0.3_Rom"><persName>SERVANTS.CAPULET.0.3_Rom</persName></person><person xml:id="Cousin_Rom"><persName>Cousin_Rom</persName></person><person xml:id="SERVANTS.CAPULET.0_Rom"><persName>SERVANTS.CAPULET.0_Rom</persName></person><person xml:id="FriarLawrence_Rom"><persName>Friar Lawrence</persName></person><person xml:id="SERVANTS.CAPULET.Peter_Rom"><persName>Peter</persName></person><person xml:id="Petruchio_Rom"><persName>Petruchio</persName></person><person xml:id="CITIZENS.0.1_Rom"><persName>CITIZENS.0.1_Rom</persName></person><person xml:id="MUSICIANS.0.1_Rom"><persName>MUSICIANS.0.1_Rom</persName></person><person xml:id="MUSICIANS.0.2_Rom"><persName>MUSICIANS.0.2_Rom</persName></person><person xml:id="MUSICIANS.0.3_Rom"><persName>MUSICIANS.0.3_Rom</persName></person><person xml:id="SERVANTS.MONTAGUE.Balthasar_Rom"><persName>Balthasar</persName></person><person xml:id="Apothecary_Rom"><persName>Apothecary</persName></person><person xml:id="FriarJohn_Rom"><persName>Friar John</persName></person><person xml:id="SERVANTS.PARIS.1_Rom"><persName>SERVANTS.PARIS.1_Rom</persName></person><person xml:id="WATCHMEN.0.1_Rom"><persName>WATCHMEN.0.1_Rom</persName></person><person xml:id="WATCHMEN.0.2_Rom"><persName>WATCHMEN.0.2_Rom</persName></person><person xml:id="WATCHMEN.0.3_Rom"><persName>WATCHMEN.0.3_Rom</persName></person></listPerson></particDesc></profileDesc>
   </teiHeader>
   <text>
     <front>
       <castList>
         <castGroup>
-          <castItem xml:id="Romeo_Rom">
+          <castItem sameAs="#Romeo_Rom">
             <role>
               <name>Romeo</name>
             </role>
           </castItem>
-          <castItem xml:id="Montague_Rom">
+          <castItem sameAs="#Montague_Rom">
             <role>
               <name>Montague</name>
             </role>
             <roleDesc><rs ref="#Romeo_Rom">his</rs> father</roleDesc>
           </castItem>
-          <castItem xml:id="LadyMontague_Rom">
+          <castItem sameAs="#LadyMontague_Rom">
             <role>
               <name>Lady Montague</name>
             </role>
             <roleDesc><rs ref="#Romeo_Rom">his</rs> mother</roleDesc>
           </castItem>
-          <castItem xml:id="Benvolio_Rom">
+          <castItem sameAs="#Benvolio_Rom">
             <role>
               <name>Benvolio</name>
             </role>
             <roleDesc><rs ref="#Romeo_Rom #Montague_Rom #LadyMontague_Rom">their</rs> kinsman</roleDesc>
           </castItem>
-          <castItem xml:id="SERVANTS.MONTAGUE.Abram_Rom" corresp="#SERVANTS.MONTAGUE_Rom">
+          <castItem corresp="#SERVANTS.MONTAGUE_Rom" sameAs="#SERVANTS.MONTAGUE.Abram_Rom">
             <role>
               <name>Abram</name>
             </role>
             <roleDesc>a Montague servingman</roleDesc>
           </castItem>
-          <castItem xml:id="SERVANTS.MONTAGUE.Balthasar_Rom" corresp="#SERVANTS.MONTAGUE_Rom">
+          <castItem corresp="#SERVANTS.MONTAGUE_Rom" sameAs="#SERVANTS.MONTAGUE.Balthasar_Rom">
             <role>
               <name>Balthasar</name>
             </role>
@@ -127,54 +127,54 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Juliet_Rom">
+          <castItem sameAs="#Juliet_Rom">
             <role>
               <name>Juliet</name>
             </role>
           </castItem>
-          <castItem xml:id="Capulet_Rom">
+          <castItem sameAs="#Capulet_Rom">
             <role>
               <name>Capulet</name>
             </role>
             <roleDesc><rs ref="#Juliet_Rom">her</rs> father</roleDesc>
           </castItem>
-          <castItem xml:id="LadyCapulet_Rom">
+          <castItem sameAs="#LadyCapulet_Rom">
             <role>
               <name>Lady Capulet</name>
             </role>
             <roleDesc><rs ref="#Juliet_Rom">her</rs> mother</roleDesc>
           </castItem>
-          <castItem xml:id="Nurse_Rom">
+          <castItem sameAs="#Nurse_Rom">
             <role><name>Nurse</name> to Juliet</role>
           </castItem>
-          <castItem xml:id="Tybalt_Rom">
+          <castItem sameAs="#Tybalt_Rom">
             <role>
               <name>Tybalt</name>
             </role>
             <roleDesc>kinsman to the Capulets</roleDesc>
           </castItem>
-          <castItem xml:id="Petruchio_Rom">
+          <castItem sameAs="#Petruchio_Rom">
             <role>
               <name>Petruchio</name>
             </role>
             <roleDesc>Tybalt’s companion</roleDesc>
           </castItem>
-          <castItem xml:id="Cousin_Rom">
+          <castItem sameAs="#Cousin_Rom">
             <role>Capulet’s Cousin</role>
           </castItem>
           <castGroup>
             <head>servingmen</head>
-            <castItem xml:id="SERVANTS.CAPULET.Sampson_Rom" corresp="#SERVANTS.CAPULET_Rom">
+            <castItem corresp="#SERVANTS.CAPULET_Rom" sameAs="#SERVANTS.CAPULET.Sampson_Rom">
               <role>
                 <name>Sampson</name>
               </role>
             </castItem>
-            <castItem xml:id="SERVANTS.CAPULET.Gregory_Rom" corresp="#SERVANTS.CAPULET_Rom">
+            <castItem corresp="#SERVANTS.CAPULET_Rom" sameAs="#SERVANTS.CAPULET.Gregory_Rom">
               <role>
                 <name>Gregory</name>
               </role>
             </castItem>
-            <castItem xml:id="SERVANTS.CAPULET.Peter_Rom" corresp="#SERVANTS.CAPULET_Rom">
+            <castItem corresp="#SERVANTS.CAPULET_Rom" sameAs="#SERVANTS.CAPULET.Peter_Rom">
               <role>
                 <name>Peter</name>
               </role>
@@ -184,74 +184,74 @@
            Other Servingmen
           </castItem>
           <castItem xml:id="SERVANTS.CAPULET_Rom" corresp="#SERVANTS_Rom"/>
-          <castItem xml:id="SERVANTS.CAPULET.0_Rom" corresp="#SERVANTS.CAPULET_Rom"/>
-          <castItem xml:id="SERVANTS.CAPULET.0.1_Rom" corresp="#SERVANTS.CAPULET_Rom"/>
-          <castItem xml:id="SERVANTS.CAPULET.0.2_Rom" corresp="#SERVANTS.CAPULET_Rom"/>
-          <castItem xml:id="SERVANTS.CAPULET.0.3_Rom" corresp="#SERVANTS.CAPULET_Rom"/>
-          <castItem xml:id="SERVANTS.CAPULET.X.1_Rom" corresp="#SERVANTS.CAPULET_Rom"/>
-          <castItem xml:id="SERVANTS.CAPULET.X.2_Rom" corresp="#SERVANTS.CAPULET_Rom"/>
+          <castItem corresp="#SERVANTS.CAPULET_Rom" sameAs="#SERVANTS.CAPULET.0_Rom"/>
+          <castItem corresp="#SERVANTS.CAPULET_Rom" sameAs="#SERVANTS.CAPULET.0.1_Rom"/>
+          <castItem corresp="#SERVANTS.CAPULET_Rom" sameAs="#SERVANTS.CAPULET.0.2_Rom"/>
+          <castItem corresp="#SERVANTS.CAPULET_Rom" sameAs="#SERVANTS.CAPULET.0.3_Rom"/>
+          <castItem corresp="#SERVANTS.CAPULET_Rom" sameAs="#SERVANTS.CAPULET.X.1_Rom"/>
+          <castItem corresp="#SERVANTS.CAPULET_Rom" sameAs="#SERVANTS.CAPULET.X.2_Rom"/>
           <castItem xml:id="SERVANTS.MONTAGUE_Rom" corresp="#SERVANTS_Rom"/>
           <castItem xml:id="SERVANTS.MONTAGUE.0.1_Rom" corresp="#SERVANTS.CAPULET_Rom"/>
           <castItem xml:id="SERVANTS.MONTAGUE.1_Rom" corresp="#SERVANTS.CAPULET_Rom"/>
         </castGroup>
         <castGroup>
-          <castItem xml:id="PrinceEscalus_Rom">
+          <castItem sameAs="#PrinceEscalus_Rom">
             <role>
               <name>Escalus</name>
             </role>
             <roleDesc>Prince of Verona</roleDesc>
           </castItem>
-          <castItem xml:id="Paris_Rom">
+          <castItem sameAs="#Paris_Rom">
             <role>
               <name>Paris</name>
             </role>
             <roleDesc>the Prince’s kinsman and Juliet’s suitor</roleDesc>
           </castItem>
-          <castItem xml:id="Mercutio_Rom">
+          <castItem sameAs="#Mercutio_Rom">
             <role>
               <name>Mercutio</name>
             </role>
             <roleDesc>the Prince’s kinsman and Romeo’s friend</roleDesc>
           </castItem>
-          <castItem xml:id="SERVANTS.PARIS.1_Rom" corresp="#SERVANTS_Rom">
+          <castItem corresp="#SERVANTS_Rom" sameAs="#SERVANTS.PARIS.1_Rom">
             <role>Paris’ Page</role>
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="FriarLawrence_Rom">
+          <castItem sameAs="#FriarLawrence_Rom">
             <role>
               <name>Friar Lawrence</name>
             </role>
           </castItem>
-          <castItem xml:id="FriarJohn_Rom">
+          <castItem sameAs="#FriarJohn_Rom">
             <role>
               <name>Friar John</name>
             </role>
           </castItem>
-          <castItem xml:id="Apothecary_Rom">
+          <castItem sameAs="#Apothecary_Rom">
             <role>
               <name>Apothecary</name>
             </role>
           </castItem>
-          <castItem xml:id="CITIZENS_Rom">
+          <castItem sameAs="#CITIZENS_Rom">
             Three or four Citizens
           </castItem>
-          <castItem xml:id="CITIZENS.0.1_Rom" corresp="#CITIZENS_Rom"/>
+          <castItem corresp="#CITIZENS_Rom" sameAs="#CITIZENS.0.1_Rom"/>
           <castItem xml:id="MUSICIANS_Rom">
            Three Musicians
           </castItem>
-          <castItem xml:id="MUSICIANS.0.1_Rom" corresp="#MUSICIANS.0_Rom"/>
-          <castItem xml:id="MUSICIANS.0.2_Rom" corresp="#MUSICIANS.0_Rom"/>
-          <castItem xml:id="MUSICIANS.0.3_Rom" corresp="#MUSICIANS.0_Rom"/>
+          <castItem corresp="#MUSICIANS.0_Rom" sameAs="#MUSICIANS.0.1_Rom"/>
+          <castItem corresp="#MUSICIANS.0_Rom" sameAs="#MUSICIANS.0.2_Rom"/>
+          <castItem corresp="#MUSICIANS.0_Rom" sameAs="#MUSICIANS.0.3_Rom"/>
           <castItem xml:id="WATCHMEN_Rom">
             Three Watchmen
           </castItem>
-          <castItem xml:id="WATCHMEN.0.1_Rom" corresp="#WATCHMEN_Rom"/>
-          <castItem xml:id="WATCHMEN.0.2_Rom" corresp="#WATCHMEN_Rom"/>
-          <castItem xml:id="WATCHMEN.0.3_Rom" corresp="#WATCHMEN_Rom"/>
+          <castItem corresp="#WATCHMEN_Rom" sameAs="#WATCHMEN.0.1_Rom"/>
+          <castItem corresp="#WATCHMEN_Rom" sameAs="#WATCHMEN.0.2_Rom"/>
+          <castItem corresp="#WATCHMEN_Rom" sameAs="#WATCHMEN.0.3_Rom"/>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Chorus_Rom">
+          <castItem sameAs="#Chorus_Rom">
             <role>
               <name>Chorus</name>
             </role>

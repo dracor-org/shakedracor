@@ -84,19 +84,19 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    </profileDesc>
+    <particDesc><listPerson><person xml:id="Saturninus_Tit"><persName>Saturninus</persName></person><person xml:id="Bassianus_Tit"><persName>Bassianus</persName></person><person xml:id="Marcus_Tit"><persName>Marcus Andronicus</persName></person><person xml:id="Captain_Tit"><persName>Captain</persName></person><person xml:id="Titus_Tit"><persName>Titus Andronicus</persName></person><person xml:id="Lucius_Tit"><persName>Lucius</persName></person><person xml:id="Tamora_Tit"><persName>Tamora</persName></person><person xml:id="Chiron_Tit"><persName>Chiron</persName></person><person xml:id="Demetrius_Tit"><persName>Demetrius</persName></person><person xml:id="Lavinia_Tit"><persName>Lavinia</persName></person><person xml:id="TRIBUNES_Tit"><persName>Tribunes, Senators, Romans, Goths, Drummers, Trumpeters, Soldiers, Guards, Attendants, a black Child</persName></person><person xml:id="Mutius_Tit"><persName>Mutius</persName></person><person xml:id="Martius_Tit"><persName>Martius</persName></person><person xml:id="Quintus_Tit"><persName>Quintus</persName></person><person xml:id="Aaron_Tit"><persName>Aaron</persName></person><person xml:id="Messenger_Tit"><persName>Messenger</persName></person><person xml:id="YoungLucius_Tit"><persName>Young Lucius</persName></person><person xml:id="Nurse_Tit"><persName>Nurse</persName></person><person xml:id="Publius_Tit"><persName>Publius</persName></person><person xml:id="CountryFellow_Tit"><persName>Country Fellow</persName></person><person xml:id="Aemilius_Tit"><persName>Aemilius</persName></person><person xml:id="GOTHS.0.1_Tit"><persName>First Goth</persName></person><person xml:id="GOTHS_Tit"><persName>Tribunes, Senators, Romans, Goths, Drummers, Trumpeters, Soldiers, Guards, Attendants, a black Child</persName></person><person xml:id="GOTHS.0.2_Tit"><persName>Second Goth</persName></person><person xml:id="GOTHS.0_Tit"><persName>Tribunes, Senators, Romans, Goths, Drummers, Trumpeters, Soldiers, Guards, Attendants, a black Child</persName></person><person xml:id="ATTENDANTS_Tit"><persName>Tribunes, Senators, Romans, Goths, Drummers, Trumpeters, Soldiers, Guards, Attendants, a black Child</persName></person><person xml:id="TRIBUNES.0.1_Tit"><persName>Tribunes, Senators, Romans, Goths, Drummers, Trumpeters, Soldiers, Guards, Attendants, a black Child</persName></person></listPerson></particDesc></profileDesc>
   </teiHeader>
   <text>
     <front>
       <castList>
         <castGroup>
-          <castItem xml:id="Titus_Tit">
+          <castItem sameAs="#Titus_Tit">
             <role>
               <name>Titus Andronicus</name>
             </role>
             <roleDesc>a noble Roman general</roleDesc>
           </castItem>
-          <castItem xml:id="Lavinia_Tit">
+          <castItem sameAs="#Lavinia_Tit">
             <role>
               <name>Lavinia</name>
             </role>
@@ -104,28 +104,28 @@
           </castItem>
           <castGroup>
             <head>his sons</head>
-            <castItem xml:id="Lucius_Tit">
+            <castItem sameAs="#Lucius_Tit">
               <role>
                 <name>Lucius</name>
               </role>
             </castItem>
-            <castItem xml:id="Mutius_Tit">
+            <castItem sameAs="#Mutius_Tit">
               <role>
                 <name>Mutius</name>
               </role>
             </castItem>
-            <castItem xml:id="Martius_Tit">
+            <castItem sameAs="#Martius_Tit">
               <role>
                 <name>Martius</name>
               </role>
             </castItem>
-            <castItem xml:id="Quintus_Tit">
+            <castItem sameAs="#Quintus_Tit">
               <role>
                 <name>Quintus</name>
               </role>
             </castItem>
           </castGroup>
-          <castItem xml:id="YoungLucius_Tit">
+          <castItem sameAs="#YoungLucius_Tit">
             <role>
               <name>Young Lucius</name>
             </role>
@@ -133,13 +133,13 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Marcus_Tit">
+          <castItem sameAs="#Marcus_Tit">
             <role>
               <name>Marcus Andronicus</name>
             </role>
             <roleDesc>Titus’s brother, a Roman tribune</roleDesc>
           </castItem>
-          <castItem xml:id="Publius_Tit">
+          <castItem sameAs="#Publius_Tit">
             <role>
               <name>Publius</name>
             </role>
@@ -167,13 +167,13 @@
           </castGroup>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Saturninus_Tit">
+          <castItem sameAs="#Saturninus_Tit">
             <role>
               <name>Saturninus</name>
             </role>
             <roleDesc>elder son of the former Roman emperor, later emperor</roleDesc>
           </castItem>
-          <castItem xml:id="Bassianus_Tit">
+          <castItem sameAs="#Bassianus_Tit">
             <role>
               <name>Bassianus</name>
             </role>
@@ -181,13 +181,13 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Tamora_Tit">
+          <castItem sameAs="#Tamora_Tit">
             <role>
               <name>Tamora</name>
             </role>
             <roleDesc>Queen of the Goths, later empress</roleDesc>
           </castItem>
-          <castItem xml:id="Aaron_Tit">
+          <castItem sameAs="#Aaron_Tit">
             <role><name>Aaron</name> the Moor</role>
             <roleDesc>Tamora’s lover</roleDesc>
           </castItem>
@@ -198,12 +198,12 @@
                 <name>Alarbus</name>
               </role>
             </castItem>
-            <castItem xml:id="Demetrius_Tit">
+            <castItem sameAs="#Demetrius_Tit">
               <role>
                 <name>Demetrius</name>
               </role>
             </castItem>
-            <castItem xml:id="Chiron_Tit">
+            <castItem sameAs="#Chiron_Tit">
               <role>
                 <name>Chiron</name>
               </role>
@@ -211,7 +211,7 @@
           </castGroup>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Aemilius_Tit">
+          <castItem sameAs="#Aemilius_Tit">
             <role>
               <name>Aemilius</name>
             </role>
@@ -219,30 +219,30 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Messenger_Tit">
+          <castItem sameAs="#Messenger_Tit">
             <role>
               <name>Messenger</name>
             </role>
           </castItem>
-          <castItem xml:id="Nurse_Tit">
+          <castItem sameAs="#Nurse_Tit">
             <role>
               <name>Nurse</name>
             </role>
           </castItem>
-          <castItem xml:id="Captain_Tit">
+          <castItem sameAs="#Captain_Tit">
             <role>A Roman <name>Captain</name></role>
           </castItem>
-          <castItem xml:id="CountryFellow_Tit">
+          <castItem sameAs="#CountryFellow_Tit">
             <role>
               <name>Country Fellow</name>
             </role>
           </castItem>
-          <castItem xml:id="GOTHS.0.1_Tit" corresp="#GOTHS_Tit">
+          <castItem corresp="#GOTHS_Tit" sameAs="#GOTHS.0.1_Tit">
             <role>
               <name>First Goth</name>
             </role>
           </castItem>
-          <castItem xml:id="GOTHS.0.2_Tit" corresp="#GOTHS_Tit">
+          <castItem corresp="#GOTHS_Tit" sameAs="#GOTHS.0.2_Tit">
             <role>
               <name>Second Goth</name>
             </role>
@@ -250,17 +250,17 @@
         </castGroup>
         <castGroup>
           <head>Tribunes, Senators, Romans, Goths, Drummers, Trumpeters, Soldiers, Guards, Attendants, a black Child</head>
-          <castItem xml:id="TRIBUNES_Tit"/>
-          <castItem xml:id="TRIBUNES.0.1_Tit" corresp="#TRIBUNES_Tit"/>
+          <castItem sameAs="#TRIBUNES_Tit"/>
+          <castItem corresp="#TRIBUNES_Tit" sameAs="#TRIBUNES.0.1_Tit"/>
           <castItem xml:id="SENATORS_Tit"/>
           <castItem xml:id="ROMANS_Tit"/>
           <castItem xml:id="ROMANS.0_Tit" corresp="#ROMANS_Tit"/>
           <castItem xml:id="ROMANS.0.1_Tit" corresp="#ROMANS_Tit"/>
           <castItem xml:id="ROMANS.0.2_Tit" corresp="#ROMANS_Tit"/>
-          <castItem xml:id="GOTHS_Tit"/>
-          <castItem xml:id="GOTHS.0_Tit" corresp="#GOTHS_Tit"/>
+          <castItem sameAs="#GOTHS_Tit"/>
+          <castItem corresp="#GOTHS_Tit" sameAs="#GOTHS.0_Tit"/>
           <castItem xml:id="GUARDS_Tit"/>
-          <castItem xml:id="ATTENDANTS_Tit"/>
+          <castItem sameAs="#ATTENDANTS_Tit"/>
           <castItem xml:id="ATTENDANTS.0_Tit" corresp="#ATTENDANTS_Tit"/>
           <castItem xml:id="SERVANTS_Tit"/>
           <castItem xml:id="Infant_Tit"/>

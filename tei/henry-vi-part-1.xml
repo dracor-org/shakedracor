@@ -84,104 +84,104 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    </profileDesc>
+    <particDesc><listPerson><person xml:id="Bedford_H5"><persName>Bedford</persName></person><person xml:id="Gloucester_2H4"><persName>Gloucester</persName></person><person xml:id="Exeter_H5"><persName>Exeter</persName></person><person xml:id="CardinalBeaufort_1H6"><persName>Winchester</persName></person><person xml:id="MESSENGERS.ENGLISH.1_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="MESSENGERS.ENGLISH.2_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="MESSENGERS.ENGLISH.3_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="Charles_1H6"><persName>Charles</persName></person><person xml:id="Alanson_1H6"><persName>Alanson</persName></person><person xml:id="Reignier_1H6"><persName>Reignier</persName></person><person xml:id="Bastard_1H6"><persName>Orleance</persName></person><person xml:id="Pucelle_1H6"><persName>Pucelle</persName></person><person xml:id="WARDERS.1_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="SERVANTS.GLOUCESTER.0.1_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="WARDERS.2_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="Woodville_1H6"><persName>Woodville</persName></person><person xml:id="SERVANTS.GLOUCESTER_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="Mayor_1H6"><persName>Mayor</persName></person><person xml:id="OFFICERS.0.1_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="MasterGunner_1H6"><persName>Master Gunner</persName></person><person xml:id="Boy_1H6"><persName>Boy</persName></person><person xml:id="Salisbury_1H6"><persName>Salisbury</persName></person><person xml:id="Talbot_1H6"><persName>Talbot</persName></person><person xml:id="Gargrave_1H6"><persName>Gargrave</persName></person><person xml:id="Glansdale_1H6"><persName>Glansdale</persName></person><person xml:id="MESSENGERS.ENGLISH.X.1_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="SOLDIERS.FRENCH.Sergeant_1H6"><persName>Sergeant</persName></person><person xml:id="WATCHMEN.1_1H6"><persName>Drummer, Soldiers, two Sentinels, Messenger, Soldiers, Governor of Paris, Herald, Scout, Fiends accompanying Pucelle</persName></person><person xml:id="Burgundy_1H6"><persName>Burgundy</persName></person><person xml:id="SOLDIERS.ENGLISH.1_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="MESSENGERS.FRENCH.1_1H6"><persName>Drummer, Soldiers, two Sentinels, Messenger, Soldiers, Governor of Paris, Herald, Scout, Fiends accompanying Pucelle</persName></person><person xml:id="SOLDIERS.ENGLISH.0.1_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="Countess_1H6"><persName>Countess</persName></person><person xml:id="Porter_1H6"><persName>Porter</persName></person><person xml:id="York_1H6"><persName>Plantagenet York</persName><persName>Plantagenet York</persName></person><person xml:id="Suffolk_1H6"><persName>Suffolk</persName></person><person xml:id="Somerset_1H6"><persName>Somerset</persName></person><person xml:id="Warwick_2H4"><persName>Warwick</persName></person><person xml:id="Vernon_1H6"><persName>Vernon</persName></person><person xml:id="Lawyer_1H6"><persName>Lawyer</persName></person><person xml:id="Mortimer_1H4"><persName>Mortimer</persName></person><person xml:id="JAILERS.0.1_1H6"><persName>The English</persName></person><person xml:id="HenryVI_1H6"><persName>King Henry VI</persName></person><person xml:id="SERVANTS.WINCHESTER.0.1_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="SERVANTS.GLOUCESTER.0.2_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="SERVANTS.1_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="SERVANTS.2_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="SERVANTS.3_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="SOLDIERS.FRENCH.PUCELLE.0.1_1H6"><persName>Drummer, Soldiers, two Sentinels, Messenger, Soldiers, Governor of Paris, Herald, Scout, Fiends accompanying Pucelle</persName></person><person xml:id="Watchman_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="SOLDIERS.ENGLISH.Captain_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="Fastolf_1H6"><persName>Fastolf</persName></person><person xml:id="Basset_1H6"><persName>Basset</persName></person><person xml:id="General_1H6"><persName>General</persName></person><person xml:id="MESSENGERS.ENGLISH.X.2_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="Lucy_1H6"><persName>Lucy</persName></person><person xml:id="SOLDIERS.ENGLISH.SOMERSET.0.1_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="JohnTalbot_1H6"><persName>John Talbot</persName></person><person xml:id="SERVANTS.TALBOT.1_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="Legate_1H6"><persName>Legate</persName></person><person xml:id="SOLDIERS.FRENCH.Scout_1H6"><persName>Drummer, Soldiers, two Sentinels, Messenger, Soldiers, Governor of Paris, Herald, Scout, Fiends accompanying Pucelle</persName></person><person xml:id="QueenMargaret_1H6"><persName>Margaret</persName></person><person xml:id="Shepherd_1H6"><persName>Shepherd</persName></person></listPerson></particDesc></profileDesc>
   </teiHeader>
   <text>
     <front>
       <castList>
         <castGroup>
           <head>The English</head>
-          <castItem xml:id="HenryVI_1H6">
+          <castItem sameAs="#HenryVI_1H6">
             <role>
               <name>King Henry VI</name>
             </role>
           </castItem>
-          <castItem xml:id="Talbot_1H6">
+          <castItem sameAs="#Talbot_1H6">
             <role>Lord <name>Talbot</name></role>
             <roleDesc>afterwards Earl of Shrewsbury</roleDesc>
           </castItem>
-          <castItem xml:id="JohnTalbot_1H6">
+          <castItem sameAs="#JohnTalbot_1H6">
             <role>
               <name>John Talbot</name>
             </role>
             <roleDesc>his son</roleDesc>
           </castItem>
-          <castItem xml:id="Gloucester_2H4">
+          <castItem sameAs="#Gloucester_2H4">
             <role>Duke of <name>Gloucester</name></role>
             <roleDesc>the king’s uncle, and Lord Protector</roleDesc>
           </castItem>
-          <castItem xml:id="Bedford_H5">
+          <castItem sameAs="#Bedford_H5">
             <role>Duke of <name>Bedford</name></role>
             <roleDesc>the king’s uncle, and Regent of France</roleDesc>
           </castItem>
-          <castItem xml:id="Exeter_H5">
+          <castItem sameAs="#Exeter_H5">
             <role>Duke of <name>Exeter</name></role>
             <roleDesc>the king’s great-uncle</roleDesc>
           </castItem>
-          <castItem xml:id="CardinalBeaufort_1H6">
+          <castItem sameAs="#CardinalBeaufort_1H6">
             <role>Cardinal, Bishop of <name>Winchester</name></role>
             <roleDesc>the king’s great-uncle</roleDesc>
           </castItem>
-          <castItem xml:id="Somerset_1H6">
+          <castItem sameAs="#Somerset_1H6">
             <role>Duke of <name>Somerset</name></role>
           </castItem>
-          <castItem xml:id="York_1H6">
+          <castItem sameAs="#York_1H6">
             <role>Richard <name>Plantagenet</name>, later Duke of <name>York</name></role>
             <roleDesc>and Regent of France</roleDesc>
           </castItem>
-          <castItem xml:id="Warwick_2H4">
+          <castItem sameAs="#Warwick_2H4">
             <role>Earl of <name>Warwick</name></role>
           </castItem>
-          <castItem xml:id="Salisbury_1H6">
+          <castItem sameAs="#Salisbury_1H6">
             <role>Earl of <name>Salisbury</name></role>
           </castItem>
-          <castItem xml:id="Suffolk_1H6">
+          <castItem sameAs="#Suffolk_1H6">
             <role>Earl of <name>Suffolk</name>, William de la Pole</role>
           </castItem>
-          <castItem xml:id="Mortimer_1H4">
+          <castItem sameAs="#Mortimer_1H4">
             <role>Edmund <name>Mortimer</name>, Earl of March</role>
           </castItem>
-          <castItem xml:id="Glansdale_1H6">
+          <castItem sameAs="#Glansdale_1H6">
             <role>Sir William <name>Glansdale</name></role>
           </castItem>
-          <castItem xml:id="Gargrave_1H6">
+          <castItem sameAs="#Gargrave_1H6">
             <role>Sir Thomas <name>Gargrave</name></role>
           </castItem>
-          <castItem xml:id="Fastolf_1H6">
+          <castItem sameAs="#Fastolf_1H6">
             <role>Sir John <name>Fastolf</name></role>
           </castItem>
-          <castItem xml:id="Lucy_1H6">
+          <castItem sameAs="#Lucy_1H6">
             <role>Sir William <name>Lucy</name></role>
           </castItem>
-          <castItem xml:id="Woodville_1H6">
+          <castItem sameAs="#Woodville_1H6">
             <role>
               <name>Woodville</name>
             </role>
             <roleDesc>Lieutenant of the Tower of London</roleDesc>
           </castItem>
-          <castItem xml:id="Vernon_1H6">
+          <castItem sameAs="#Vernon_1H6">
             <role>
               <name>Vernon</name>
             </role>
             <roleDesc>of the White Rose or York faction</roleDesc>
           </castItem>
-          <castItem xml:id="Basset_1H6">
+          <castItem sameAs="#Basset_1H6">
             <role>
               <name>Basset</name>
             </role>
             <roleDesc>of the Red Rose or Lancaster faction</roleDesc>
           </castItem>
-          <castItem xml:id="Lawyer_1H6">
+          <castItem sameAs="#Lawyer_1H6">
             <role>A <name>Lawyer</name></role>
           </castItem>
           <castItem xml:id="JAILERS_1H6">
             <role><name>Jailors</name> to Mortimer</role>
           </castItem>
-          <castItem xml:id="JAILERS.0.1_1H6" corresp="#JAILERS_1H6"/>
-          <castItem xml:id="Legate_1H6">
+          <castItem corresp="#JAILERS_1H6" sameAs="#JAILERS.0.1_1H6"/>
+          <castItem sameAs="#Legate_1H6">
             <role>A <name>Legate</name></role>
           </castItem>
-          <castItem xml:id="Mayor_1H6">
+          <castItem sameAs="#Mayor_1H6">
             <role><name>Mayor</name> of London</role>
           </castItem>
           <castGroup>
@@ -197,89 +197,89 @@
             <castItem xml:id="HERALDS.ENGLISH_1H6" corresp="#HERALDS_1H6"/>
             <castItem xml:id="MESSENGERS_1H6"/>
             <castItem xml:id="MESSENGERS.ENGLISH_1H6" corresp="#MESSENGERS_1H6"/>
-            <castItem xml:id="MESSENGERS.ENGLISH.1_1H6" corresp="#MESSENGERS.ENGLISH_1H6"/>
-            <castItem xml:id="MESSENGERS.ENGLISH.2_1H6" corresp="#MESSENGERS.ENGLISH_1H6"/>
-            <castItem xml:id="MESSENGERS.ENGLISH.3_1H6" corresp="#MESSENGERS.ENGLISH_1H6"/>
-            <castItem xml:id="MESSENGERS.ENGLISH.X.1_1H6" corresp="#MESSENGERS.ENGLISH_1H6"/>
-            <castItem xml:id="MESSENGERS.ENGLISH.X.2_1H6" corresp="#MESSENGERS.ENGLISH_1H6"/>
+            <castItem corresp="#MESSENGERS.ENGLISH_1H6" sameAs="#MESSENGERS.ENGLISH.1_1H6"/>
+            <castItem corresp="#MESSENGERS.ENGLISH_1H6" sameAs="#MESSENGERS.ENGLISH.2_1H6"/>
+            <castItem corresp="#MESSENGERS.ENGLISH_1H6" sameAs="#MESSENGERS.ENGLISH.3_1H6"/>
+            <castItem corresp="#MESSENGERS.ENGLISH_1H6" sameAs="#MESSENGERS.ENGLISH.X.1_1H6"/>
+            <castItem corresp="#MESSENGERS.ENGLISH_1H6" sameAs="#MESSENGERS.ENGLISH.X.2_1H6"/>
             <castItem xml:id="OFFICERS_1H6"/>
-            <castItem xml:id="OFFICERS.0.1_1H6" corresp="#OFFICERS_1H6"/>
+            <castItem corresp="#OFFICERS_1H6" sameAs="#OFFICERS.0.1_1H6"/>
             <castItem xml:id="SERVANTS_1H6"/>
-            <castItem xml:id="SERVANTS.1_1H6" corresp="#SERVANTS_1H6"/>
-            <castItem xml:id="SERVANTS.2_1H6" corresp="#SERVANTS_1H6"/>
-            <castItem xml:id="SERVANTS.3_1H6" corresp="#SERVANTS_1H6"/>
-            <castItem xml:id="SERVANTS.GLOUCESTER_1H6" corresp="#SERVANTS_1H6"/>
-            <castItem xml:id="SERVANTS.GLOUCESTER.0.1_1H6" corresp="#SERVANTS.GLOUCESTER_1H6"/>
-            <castItem xml:id="SERVANTS.GLOUCESTER.0.2_1H6" corresp="#SERVANTS.GLOUCESTER_1H6"/>
-            <castItem xml:id="SERVANTS.TALBOT.1_1H6" corresp="#SERVANTS_1H6"/>
+            <castItem corresp="#SERVANTS_1H6" sameAs="#SERVANTS.1_1H6"/>
+            <castItem corresp="#SERVANTS_1H6" sameAs="#SERVANTS.2_1H6"/>
+            <castItem corresp="#SERVANTS_1H6" sameAs="#SERVANTS.3_1H6"/>
+            <castItem corresp="#SERVANTS_1H6" sameAs="#SERVANTS.GLOUCESTER_1H6"/>
+            <castItem corresp="#SERVANTS.GLOUCESTER_1H6" sameAs="#SERVANTS.GLOUCESTER.0.1_1H6"/>
+            <castItem corresp="#SERVANTS.GLOUCESTER_1H6" sameAs="#SERVANTS.GLOUCESTER.0.2_1H6"/>
+            <castItem corresp="#SERVANTS_1H6" sameAs="#SERVANTS.TALBOT.1_1H6"/>
             <castItem xml:id="SERVANTS.WINCHESTER_1H6" corresp="#SERVANTS_1H6"/>
-            <castItem xml:id="SERVANTS.WINCHESTER.0.1_1H6" corresp="#SERVANTS.WINCHESTER_1H6"/>
+            <castItem corresp="#SERVANTS.WINCHESTER_1H6" sameAs="#SERVANTS.WINCHESTER.0.1_1H6"/>
             <castItem xml:id="SOLDIERS_1H6"/>
             <castItem xml:id="SOLDIERS.ENGLISH_1H6" corresp="#SOLDIERS_1H6"/>
-            <castItem xml:id="SOLDIERS.ENGLISH.Captain_1H6" corresp="#SOLDIERS.ENGLISH_1H6"/>
+            <castItem corresp="#SOLDIERS.ENGLISH_1H6" sameAs="#SOLDIERS.ENGLISH.Captain_1H6"/>
             <castItem xml:id="SOLDIERS.ENGLISH.0_1H6" corresp="#SOLDIERS.ENGLISH_1H6"/>
-            <castItem xml:id="SOLDIERS.ENGLISH.0.1_1H6" corresp="#SOLDIERS.ENGLISH_1H6"/>
-            <castItem xml:id="SOLDIERS.ENGLISH.1_1H6" corresp="#SOLDIERS.ENGLISH_1H6"/>
+            <castItem corresp="#SOLDIERS.ENGLISH_1H6" sameAs="#SOLDIERS.ENGLISH.0.1_1H6"/>
+            <castItem corresp="#SOLDIERS.ENGLISH_1H6" sameAs="#SOLDIERS.ENGLISH.1_1H6"/>
             <castItem xml:id="SOLDIERS.ENGLISH.SOMERSET_1H6" corresp="#SOLDIERS.ENGLISH_1H6"/>
-            <castItem xml:id="SOLDIERS.ENGLISH.SOMERSET.0.1_1H6" corresp="#SOLDIERS.ENGLISH.SOMERSET_1H6"/>
+            <castItem corresp="#SOLDIERS.ENGLISH.SOMERSET_1H6" sameAs="#SOLDIERS.ENGLISH.SOMERSET.0.1_1H6"/>
             <castItem xml:id="SOLDIERS.ENGLISH.YORK_1H6" corresp="#SOLDIERS.ENGLISH_1H6"/>
             <castItem xml:id="WARDERS_1H6"/>
-            <castItem xml:id="WARDERS.1_1H6" corresp="#WARDERS_1H6"/>
-            <castItem xml:id="WARDERS.2_1H6" corresp="#WARDERS_1H6"/>
-            <castItem xml:id="Watchman_1H6"/>
+            <castItem corresp="#WARDERS_1H6" sameAs="#WARDERS.1_1H6"/>
+            <castItem corresp="#WARDERS_1H6" sameAs="#WARDERS.2_1H6"/>
+            <castItem sameAs="#Watchman_1H6"/>
           </castGroup>
         </castGroup>
         <castGroup>
           <head>The French</head>
-          <castItem xml:id="Charles_1H6">
+          <castItem sameAs="#Charles_1H6">
             <role><name>Charles</name>, Dauphin of France</role>
           </castItem>
-          <castItem xml:id="Pucelle_1H6">
+          <castItem sameAs="#Pucelle_1H6">
             <role>Joan la <name>Pucelle</name>, also Joan of Arc</role>
           </castItem>
-          <castItem xml:id="Reignier_1H6">
+          <castItem sameAs="#Reignier_1H6">
             <role>
               <name>Reignier</name>
             </role>
             <roleDesc>Duke of Anjou and Maine, King of Naples</roleDesc>
           </castItem>
-          <castItem xml:id="QueenMargaret_1H6">
+          <castItem sameAs="#QueenMargaret_1H6">
             <role>
               <name>Margaret</name>
             </role>
             <roleDesc>his daughter</roleDesc>
           </castItem>
-          <castItem xml:id="Alanson_1H6">
+          <castItem sameAs="#Alanson_1H6">
             <role>Duke of <name>Alanson</name></role>
           </castItem>
-          <castItem xml:id="Bastard_1H6">
+          <castItem sameAs="#Bastard_1H6">
             <role>Bastard of <name>Orleance</name></role>
           </castItem>
-          <castItem xml:id="Burgundy_1H6">
+          <castItem sameAs="#Burgundy_1H6">
             <role>Duke of <name>Burgundy</name></role>
           </castItem>
-          <castItem xml:id="General_1H6">
+          <castItem sameAs="#General_1H6">
             <role><name>General</name> of the French forces at Bordeaux</role>
           </castItem>
-          <castItem xml:id="Countess_1H6">
+          <castItem sameAs="#Countess_1H6">
             <role><name>Countess</name> of Auvergne</role>
           </castItem>
-          <castItem xml:id="Porter_1H6">
+          <castItem sameAs="#Porter_1H6">
             <role>Her <name>Porter</name></role>
           </castItem>
-          <castItem xml:id="MasterGunner_1H6">
+          <castItem sameAs="#MasterGunner_1H6">
             <role><name>Master Gunner</name> of Orleance</role>
           </castItem>
-          <castItem xml:id="Boy_1H6">
+          <castItem sameAs="#Boy_1H6">
             <role>
               <name>Boy</name>
             </role>
             <roleDesc>his son</roleDesc>
           </castItem>
-          <castItem xml:id="SOLDIERS.FRENCH.Sergeant_1H6" corresp="SOLDIERS.FRENCH_1H6">
+          <castItem corresp="SOLDIERS.FRENCH_1H6" sameAs="#SOLDIERS.FRENCH.Sergeant_1H6">
             <role><name>Sergeant</name> of a Band</role>
           </castItem>
-          <castItem xml:id="Shepherd_1H6">
+          <castItem sameAs="#Shepherd_1H6">
             <role>A <name>Shepherd</name></role>
             <roleDesc>Pucelle’s father</roleDesc>
           </castItem>
@@ -287,15 +287,15 @@
             <head>Drummer, Soldiers, two Sentinels, Messenger, Soldiers, Governor of Paris, Herald, Scout, Fiends accompanying Pucelle</head>
             <castItem xml:id="SPIRITS_1H6"/>
             <castItem xml:id="HERALDS.FRENCH.1_1H6" corresp="#HERALDS_1H6"/>
-            <castItem xml:id="MESSENGERS.FRENCH.1_1H6" corresp="#MESSENGERS_1H6"/>
+            <castItem corresp="#MESSENGERS_1H6" sameAs="#MESSENGERS.FRENCH.1_1H6"/>
             <castItem xml:id="Governor_1H6"/>
             <castItem xml:id="WATCHMEN_1H6" corresp="#SOLDIERS.FRENCH_1H6"/>
-            <castItem xml:id="WATCHMEN.1_1H6" corresp="#WATCHMEN_1H6"/>
+            <castItem corresp="#WATCHMEN_1H6" sameAs="#WATCHMEN.1_1H6"/>
             <castItem xml:id="WATCHMEN.2_1H6" corresp="#WATCHMEN_1H6"/>
             <castItem xml:id="SOLDIERS.FRENCH_1H6" corresp="#SOLDIERS_1H6"/>
             <castItem xml:id="SOLDIERS.FRENCH.PUCELLE_1H6" corresp="#SOLDIERS.FRENCH_1H6"/>
-            <castItem xml:id="SOLDIERS.FRENCH.PUCELLE.0.1_1H6" corresp="#SOLDIERS.FRENCH.PUCELLE_1H6"/>
-            <castItem xml:id="SOLDIERS.FRENCH.Scout_1H6" corresp="SOLDIERS.FRENCH_1H6"/>
+            <castItem corresp="#SOLDIERS.FRENCH.PUCELLE_1H6" sameAs="#SOLDIERS.FRENCH.PUCELLE.0.1_1H6"/>
+            <castItem corresp="SOLDIERS.FRENCH_1H6" sameAs="#SOLDIERS.FRENCH.Scout_1H6"/>
           </castGroup>
         </castGroup>
       </castList>

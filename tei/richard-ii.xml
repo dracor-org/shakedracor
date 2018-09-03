@@ -84,47 +84,47 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    </profileDesc>
+    <particDesc><listPerson><person xml:id="RichardII_R2"><persName>King Richard II</persName></person><person xml:id="Gaunt_R2"><persName>John of Gaunt</persName></person><person xml:id="HenryIV_1H4"><persName>Henry Bolingbroke Hereford</persName><persName>Henry Bolingbroke Hereford</persName></person><person xml:id="Mowbray_R2"><persName>Mowbray</persName></person><person xml:id="DuchessOfGloucester_R2"><persName>Duchess of Gloucester</persName></person><person xml:id="LordMarshal_R2"><persName>Lord Marshal</persName></person><person xml:id="Aumerle_R2"><persName>Duke of Aumerle</persName></person><person xml:id="HERALDS.1_R2"><persName>First Herald</persName></person><person xml:id="HERALDS.2_R2"><persName>Second Herald</persName></person><person xml:id="Green_R2"><persName>Green</persName></person><person xml:id="Bushy_R2"><persName>Bushy</persName></person><person xml:id="Bagot_R2"><persName>Bagot</persName></person><person xml:id="York_R2"><persName>Duke of York</persName></person><person xml:id="Queen_R2"><persName>Queen</persName></person><person xml:id="Northumberland_R2"><persName>Earl of Northumberland</persName></person><person xml:id="Ross_R2"><persName>Lord Ross</persName></person><person xml:id="Willoughby_R2"><persName>Lord Willoughby</persName></person><person xml:id="SERVANTS.YORK.1_R2"><persName>Servingmen</persName></person><person xml:id="Hotspur_R2"><persName>Harry Percy</persName></person><person xml:id="Berkeley_R2"><persName>Lord Berkeley</persName></person><person xml:id="WelshCaptain_R2"><persName>Welsh Captain</persName></person><person xml:id="Salisbury_R2"><persName>Earl of Salisbury</persName></person><person xml:id="BishopOfCarlisle_R2"><persName>Bishop of Carlisle</persName></person><person xml:id="Scroop_R2"><persName>Sir Stephen Scroop</persName></person><person xml:id="LADIES.0.1_R2"><persName>LADIES.0.1_R2</persName></person><person xml:id="Gardener_R2"><persName>Gardener</persName></person><person xml:id="SERVANTS.GARDENER.1_R2"><persName>SERVANTS.GARDENER.1_R2</persName></person><person xml:id="Fitzwater_R2"><persName>Lord Fitzwater</persName></person><person xml:id="LORDS.1_R2"><persName>Another Lord</persName></person><person xml:id="Surrey_R2"><persName>Duke of Surrey</persName></person><person xml:id="AbbotOfWestminster_R2"><persName>Abbot of Westminster</persName></person><person xml:id="DuchessOfYork_R2"><persName>Duchess of York</persName></person><person xml:id="Exton_R2"><persName>Sir Pierce of Exton</persName></person><person xml:id="SERVANTS.EXTON.0.1_R2"><persName>SERVANTS.EXTON.0.1_R2</persName></person><person xml:id="Groom_R2"><persName>Groom</persName></person><person xml:id="Jailer_R2"><persName>Keeper</persName></person></listPerson></particDesc></profileDesc>
   </teiHeader>
   <text>
     <front>
       <castList>
         <castGroup>
-          <castItem xml:id="RichardII_R2">
+          <castItem sameAs="#RichardII_R2">
             <role>
               <name>King Richard II</name>
             </role>
           </castItem>
           <castGroup>
             <head>Richard’s friends</head>
-            <castItem xml:id="Bushy_R2">
+            <castItem sameAs="#Bushy_R2">
               <role>Sir John <name>Bushy</name></role>
             </castItem>
-            <castItem xml:id="Bagot_R2">
+            <castItem sameAs="#Bagot_R2">
               <role>Sir John <name>Bagot</name></role>
             </castItem>
-            <castItem xml:id="Green_R2">
+            <castItem sameAs="#Green_R2">
               <role>Sir Henry <name>Green</name></role>
             </castItem>
           </castGroup>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Queen_R2">
+          <castItem sameAs="#Queen_R2">
             <role>Richard’s <name>Queen</name></role>
           </castItem>
           <castItem xml:id="LADIES_R2">
           Queen’s <name>Ladies-in-waiting</name>
           </castItem>
-          <castItem xml:id="LADIES.0.1_R2" corresp="#LADIES_R2"/>
+          <castItem corresp="#LADIES_R2" sameAs="#LADIES.0.1_R2"/>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Gaunt_R2">
+          <castItem sameAs="#Gaunt_R2">
             <role>
               <name>John of Gaunt</name>
             </role>
             <roleDesc>Duke of Lancaster</roleDesc>
           </castItem>
-          <castItem xml:id="HenryIV_1H4">
+          <castItem sameAs="#HenryIV_1H4">
             <role>
               <name>Henry Bolingbroke</name>
             </role>
@@ -132,7 +132,7 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="DuchessOfGloucester_R2">
+          <castItem sameAs="#DuchessOfGloucester_R2">
             <role>
               <name>Duchess of Gloucester</name>
             </role>
@@ -140,43 +140,43 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="York_R2">
+          <castItem sameAs="#York_R2">
             <role>Edmund, <name>Duke of York</name></role>
           </castItem>
-          <castItem xml:id="DuchessOfYork_R2">
+          <castItem sameAs="#DuchessOfYork_R2">
             <role>
               <name>Duchess of York</name>
             </role>
           </castItem>
-          <castItem xml:id="Aumerle_R2">
+          <castItem sameAs="#Aumerle_R2">
             <role>
               <name>Duke of Aumerle</name>
             </role>
             <roleDesc>Earl of Rutland, son to Duke and Duchess of York</roleDesc>
           </castItem>
-          <castItem xml:id="SERVANTS.YORK.1_R2" corresp="#SERVANTS_R2">
+          <castItem corresp="#SERVANTS_R2" sameAs="#SERVANTS.YORK.1_R2">
             York’s <name>Servingmen</name>
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Mowbray_R2">
+          <castItem sameAs="#Mowbray_R2">
             <role>Thomas <name>Mowbray</name></role>
             <roleDesc>Duke of Norfolk</roleDesc>
           </castItem>
           <castGroup>
             <head>officials in trial by combat</head>
-            <castItem xml:id="LordMarshal_R2">
+            <castItem sameAs="#LordMarshal_R2">
               <role>
                 <name>Lord Marshal</name>
               </role>
             </castItem>
             <castItem xml:id="HERALDS_R2"/>
-            <castItem xml:id="HERALDS.1_R2" corresp="#HERALDS_R2">
+            <castItem corresp="#HERALDS_R2" sameAs="#HERALDS.1_R2">
               <role>
                 <name>First Herald</name>
               </role>
             </castItem>
-            <castItem xml:id="HERALDS.2_R2" corresp="#HERALDS_R2">
+            <castItem corresp="#HERALDS_R2" sameAs="#HERALDS.2_R2">
               <role>
                 <name>Second Herald</name>
               </role>
@@ -187,32 +187,32 @@
         <castGroup>
           <castGroup>
             <head>supporters of King Richard</head>
-            <castItem xml:id="Salisbury_R2">
+            <castItem sameAs="#Salisbury_R2">
               <role>
                 <name>Earl of Salisbury</name>
               </role>
             </castItem>
-            <castItem xml:id="BishopOfCarlisle_R2">
+            <castItem sameAs="#BishopOfCarlisle_R2">
               <role>
                 <name>Bishop of Carlisle</name>
               </role>
             </castItem>
-            <castItem xml:id="Scroop_R2">
+            <castItem sameAs="#Scroop_R2">
               <role>
                 <name>Sir Stephen Scroop</name>
               </role>
             </castItem>
-            <castItem xml:id="Berkeley_R2">
+            <castItem sameAs="#Berkeley_R2">
               <role>
                 <name>Lord Berkeley</name>
               </role>
             </castItem>
-            <castItem xml:id="AbbotOfWestminster_R2">
+            <castItem sameAs="#AbbotOfWestminster_R2">
               <role>
                 <name>Abbot of Westminster</name>
               </role>
             </castItem>
-            <castItem xml:id="WelshCaptain_R2">
+            <castItem sameAs="#WelshCaptain_R2">
               <role>
                 <name>Welsh Captain</name>
               </role>
@@ -222,20 +222,20 @@
         <castGroup>
           <castGroup>
             <head>supporters ofBolingbroke</head>
-            <castItem xml:id="Northumberland_R2">
+            <castItem sameAs="#Northumberland_R2">
               <role>Henry Percy, <name>Earl of Northumberland</name></role>
             </castItem>
-            <castItem xml:id="Ross_R2">
+            <castItem sameAs="#Ross_R2">
               <role>
                 <name>Lord Ross</name>
               </role>
             </castItem>
-            <castItem xml:id="Willoughby_R2">
+            <castItem sameAs="#Willoughby_R2">
               <role>
                 <name>Lord Willoughby</name>
               </role>
             </castItem>
-            <castItem xml:id="Hotspur_R2">
+            <castItem sameAs="#Hotspur_R2">
               <role>
                 <name>Harry Percy</name>
               </role>
@@ -244,24 +244,24 @@
           </castGroup>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Fitzwater_R2">
+          <castItem sameAs="#Fitzwater_R2">
             <role>
               <name>Lord Fitzwater</name>
             </role>
           </castItem>
-          <castItem xml:id="Surrey_R2">
+          <castItem sameAs="#Surrey_R2">
             <role>
               <name>Duke of Surrey</name>
             </role>
           </castItem>
-          <castItem xml:id="LORDS.1_R2" corresp="#LORDS_R2">
+          <castItem corresp="#LORDS_R2" sameAs="#LORDS.1_R2">
             <role>
               <name>Another Lord</name>
             </role>
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Gardener_R2">
+          <castItem sameAs="#Gardener_R2">
             <role>
               <name>Gardener</name>
             </role>
@@ -269,19 +269,19 @@
           <castItem xml:id="SERVANTS.GARDENER_R2">
             Gardener’s Servingmen
           </castItem>
-          <castItem xml:id="SERVANTS.GARDENER.1_R2" corresp="#SERVANTS.GARDENER_R2"/>
+          <castItem corresp="#SERVANTS.GARDENER_R2" sameAs="#SERVANTS.GARDENER.1_R2"/>
           <castItem xml:id="SERVANTS.GARDENER.2_R2" corresp="#SERVANTS.GARDENER_R2"/>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Groom_R2">
+          <castItem sameAs="#Groom_R2">
             <role><name>Groom</name> of Richard’s stable</role>
           </castItem>
-          <castItem xml:id="Jailer_R2">
+          <castItem sameAs="#Jailer_R2">
             <role><name>Keeper</name> of prison at Pomfret Castle</role>
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Exton_R2">
+          <castItem sameAs="#Exton_R2">
             <role>
               <name>Sir Pierce of Exton</name>
             </role>
@@ -289,7 +289,7 @@
           <castItem xml:id="SERVANTS.EXTON_R2">
             Servingmen to Exton
           </castItem>
-          <castItem xml:id="SERVANTS.EXTON.0.1_R2" corresp="#SERVANTS.EXTON_R2"/>
+          <castItem corresp="#SERVANTS.EXTON_R2" sameAs="#SERVANTS.EXTON.0.1_R2"/>
           <castItem xml:id="SERVANTS.EXTON.0.2_R2" corresp="#SERVANTS.EXTON_R2"/>
         </castGroup>
         <castGroup>

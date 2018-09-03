@@ -85,37 +85,37 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    </profileDesc>
+    <particDesc><listPerson><person xml:id="Orlando_AYL"><persName>Orlando</persName></person><person xml:id="Adam_AYL"><persName>Adam</persName></person><person xml:id="Oliver_AYL"><persName>Oliver</persName></person><person xml:id="Dennis_AYL"><persName>Dennis</persName></person><person xml:id="Charles_AYL"><persName>Charles</persName></person><person xml:id="Celia_AYL"><persName>Celia</persName></person><person xml:id="Rosalind_AYL"><persName>Rosalind</persName></person><person xml:id="Touchstone_AYL"><persName>Touchstone</persName></person><person xml:id="LORDS.FREDERICK.LeBeau_AYL"><persName>Le Beau</persName></person><person xml:id="DukeFrederick_AYL"><persName>Duke Frederick</persName></person><person xml:id="DukeSenior_AYL"><persName>Duke Senior</persName></person><person xml:id="LORDS.SENIOR.Amiens_AYL"><persName>Amiens</persName></person><person xml:id="LORDS.SENIOR.0.1_AYL"><persName>First Lord</persName></person><person xml:id="LORDS.SENIOR.0.2_AYL"><persName>Second Lord</persName></person><person xml:id="LORDS.FREDERICK.0.1_AYL"><persName>First Lord</persName></person><person xml:id="LORDS.FREDERICK.0.2_AYL"><persName>Second Lord</persName></person><person xml:id="Corin_AYL"><persName>Corin</persName></person><person xml:id="Silvius_AYL"><persName>Silvius</persName></person><person xml:id="Jaques_AYL"><persName>Jaques</persName></person><person xml:id="LORDS.SENIOR_AYL"><persName>Lords, Attendants, Musicians</persName></person><person xml:id="Audrey_AYL"><persName>Audrey</persName></person><person xml:id="OliverMartext_AYL"><persName>Sir Oliver Martext</persName></person><person xml:id="Phoebe_AYL"><persName>Phoebe</persName></person><person xml:id="William_AYL"><persName>William</persName></person><person xml:id="SERVANTS.1_AYL"><persName>First Page</persName></person><person xml:id="SERVANTS.2_AYL"><persName>Second Page</persName></person><person xml:id="Hymen_AYL"><persName>Hymen</persName></person><person xml:id="SecondBrother_AYL"><persName>Second Brother</persName></person></listPerson></particDesc></profileDesc>
   </teiHeader>
   <text>
     <front>
       <castList>
         <castGroup>
-          <castItem xml:id="Orlando_AYL">
+          <castItem sameAs="#Orlando_AYL">
             <role>
               <name>Orlando</name>
             </role>
             <roleDesc>youngest son of Sir Rowland de Boys</roleDesc>
           </castItem>
-          <castItem xml:id="Oliver_AYL">
+          <castItem sameAs="#Oliver_AYL">
             <role>
               <name>Oliver</name>
             </role>
             <roleDesc><rs ref="#Orlando_AYL">his</rs> elder brother</roleDesc>
           </castItem>
-          <castItem xml:id="SecondBrother_AYL">
+          <castItem sameAs="#SecondBrother_AYL">
             <role>
               <name>Second Brother</name>
             </role>
             <roleDesc>brother to Orlando and Oliver, named Jaques</roleDesc>
           </castItem>
-          <castItem xml:id="Adam_AYL">
+          <castItem sameAs="#Adam_AYL">
             <role>
               <name>Adam</name>
             </role>
             <roleDesc>servant to Oliver and friend to Orlando</roleDesc>
           </castItem>
-          <castItem xml:id="Dennis_AYL">
+          <castItem sameAs="#Dennis_AYL">
             <role>
               <name>Dennis</name>
             </role>
@@ -123,19 +123,19 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Rosalind_AYL">
+          <castItem sameAs="#Rosalind_AYL">
             <role>
               <name>Rosalind</name>
             </role>
             <roleDesc>daughter to Duke Senior</roleDesc>
           </castItem>
-          <castItem xml:id="Celia_AYL">
+          <castItem sameAs="#Celia_AYL">
             <role>
               <name>Celia</name>
             </role>
             <roleDesc>Rosalind’s cousin, daughter to Duke Frederick</roleDesc>
           </castItem>
-          <castItem xml:id="Touchstone_AYL">
+          <castItem sameAs="#Touchstone_AYL">
             <role>
               <name>Touchstone</name>
             </role>
@@ -143,19 +143,19 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="DukeFrederick_AYL">
+          <castItem sameAs="#DukeFrederick_AYL">
             <role>
               <name>Duke Frederick</name>
             </role>
             <roleDesc>the usurping duke</roleDesc>
           </castItem>
-          <castItem xml:id="Charles_AYL">
+          <castItem sameAs="#Charles_AYL">
             <role>
               <name>Charles</name>
             </role>
             <roleDesc>wrestler at Duke Frederick’s court</roleDesc>
           </castItem>
-          <castItem xml:id="LORDS.FREDERICK.LeBeau_AYL">
+          <castItem sameAs="#LORDS.FREDERICK.LeBeau_AYL">
             <role>
               <name>Le Beau</name>
             </role>
@@ -163,12 +163,12 @@
           </castItem>
           <castGroup>
             <head>attending Duke Frederick</head>
-            <castItem xml:id="LORDS.FREDERICK.0.1_AYL" corresp="#LORDS.FREDERICK_AYL">
+            <castItem corresp="#LORDS.FREDERICK_AYL" sameAs="#LORDS.FREDERICK.0.1_AYL">
               <role>
                 <name>First Lord</name>
               </role>
             </castItem>
-            <castItem xml:id="LORDS.FREDERICK.0.2_AYL" corresp="#LORDS.FREDERICK_AYL">
+            <castItem corresp="#LORDS.FREDERICK_AYL" sameAs="#LORDS.FREDERICK.0.2_AYL">
               <role>
                 <name>Second Lord</name>
               </role>
@@ -176,7 +176,7 @@
           </castGroup>
         </castGroup>
         <castGroup>
-          <castItem xml:id="DukeSenior_AYL">
+          <castItem sameAs="#DukeSenior_AYL">
             <role>
               <name>Duke Senior</name>
             </role>
@@ -186,22 +186,22 @@
         <castGroup>
           <castGroup>
             <head>Lords attending Duke Senior in exile</head>
-            <castItem xml:id="Jaques_AYL">
+            <castItem sameAs="#Jaques_AYL">
               <role>
                 <name>Jaques</name>
               </role>
             </castItem>
-            <castItem xml:id="LORDS.SENIOR.Amiens_AYL" corresp="#LORDS.SENIOR_AYL">
+            <castItem corresp="#LORDS.SENIOR_AYL" sameAs="#LORDS.SENIOR.Amiens_AYL">
               <role>
                 <name>Amiens</name>
               </role>
             </castItem>
-            <castItem xml:id="LORDS.SENIOR.0.1_AYL" corresp="#LORDS.SENIOR_AYL">
+            <castItem corresp="#LORDS.SENIOR_AYL" sameAs="#LORDS.SENIOR.0.1_AYL">
               <role>
                 <name>First Lord</name>
               </role>
             </castItem>
-            <castItem xml:id="LORDS.SENIOR.0.2_AYL" corresp="#LORDS.SENIOR_AYL">
+            <castItem corresp="#LORDS.SENIOR_AYL" sameAs="#LORDS.SENIOR.0.2_AYL">
               <role>
                 <name>Second Lord</name>
               </role>
@@ -212,12 +212,12 @@
           <castGroup>
             <head>attending Duke Senior in exile</head>
             <castItem xml:id="SERVANTS_AYL"/>
-            <castItem xml:id="SERVANTS.1_AYL" corresp="#SERVANTS_AYL">
+            <castItem corresp="#SERVANTS_AYL" sameAs="#SERVANTS.1_AYL">
               <role>
                 <name>First Page</name>
               </role>
             </castItem>
-            <castItem xml:id="SERVANTS.2_AYL" corresp="#SERVANTS_AYL">
+            <castItem corresp="#SERVANTS_AYL" sameAs="#SERVANTS.2_AYL">
               <role>
                 <name>Second Page</name>
               </role>
@@ -225,37 +225,37 @@
           </castGroup>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Corin_AYL">
+          <castItem sameAs="#Corin_AYL">
             <role>
               <name>Corin</name>
             </role>
             <roleDesc>a shepherd</roleDesc>
           </castItem>
-          <castItem xml:id="Silvius_AYL">
+          <castItem sameAs="#Silvius_AYL">
             <role>
               <name>Silvius</name>
             </role>
             <roleDesc>a young shepherd in love</roleDesc>
           </castItem>
-          <castItem xml:id="Phoebe_AYL">
+          <castItem sameAs="#Phoebe_AYL">
             <role>
               <name>Phoebe</name>
             </role>
             <roleDesc>a disdainful shepherdess</roleDesc>
           </castItem>
-          <castItem xml:id="Audrey_AYL">
+          <castItem sameAs="#Audrey_AYL">
             <role>
               <name>Audrey</name>
             </role>
             <roleDesc>a goat-keeper</roleDesc>
           </castItem>
-          <castItem xml:id="William_AYL">
+          <castItem sameAs="#William_AYL">
             <role>
               <name>William</name>
             </role>
             <roleDesc>a country youth in love with Audrey</roleDesc>
           </castItem>
-          <castItem xml:id="OliverMartext_AYL">
+          <castItem sameAs="#OliverMartext_AYL">
             <role>
               <name>Sir Oliver Martext</name>
             </role>
@@ -263,7 +263,7 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Hymen_AYL">
+          <castItem sameAs="#Hymen_AYL">
             <role>
               <name>Hymen</name>
             </role>
@@ -273,7 +273,7 @@
         <castGroup>
           <head>Lords, Attendants, Musicians</head>
           <castItem xml:id="LORDS_AYL"/>
-          <castItem xml:id="LORDS.SENIOR_AYL" corresp="#LORDS_AYL"/>
+          <castItem corresp="#LORDS_AYL" sameAs="#LORDS.SENIOR_AYL"/>
           <castItem xml:id="LORDS.FREDERICK_AYL" corresp="#LORDS_AYL"/>
           <castItem xml:id="ATTENDANTS_AYL"/>
           <castItem xml:id="ATTENDANTS.0_AYL" corresp="#ATTENDANTS_AYL"/>

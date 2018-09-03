@@ -84,31 +84,31 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    </profileDesc>
+    <particDesc><listPerson><person xml:id="Archidamus_WT"><persName>Archidamus</persName></person><person xml:id="Camillo_WT"><persName>Camillo</persName></person><person xml:id="Polixenes_WT"><persName>Polixenes</persName></person><person xml:id="Leontes_WT"><persName>Leontes</persName></person><person xml:id="Hermione_WT"><persName>Hermione</persName></person><person xml:id="Mamillius_WT"><persName>Mamillius</persName></person><person xml:id="LADIES.0.1_WT"><persName>LADIES.0.1_WT</persName></person><person xml:id="LADIES.0.2_WT"><persName>LADIES.0.2_WT</persName></person><person xml:id="ATTENDANTS.0.1_WT"><persName>ATTENDANTS.0.1_WT</persName></person><person xml:id="Antigonus_WT"><persName>Antigonus</persName></person><person xml:id="Paulina_WT"><persName>Paulina</persName></person><person xml:id="Jailer_WT"><persName>Jailer</persName></person><person xml:id="LADIES.Emilia_WT"><persName>Emilia</persName></person><person xml:id="SERVANTS.X.1_WT"><persName>Indeterminate member of the SERVANTS group</persName></person><person xml:id="SERVANTS.0_WT"><persName>Indistinct members of the SERVANTS group</persName></person><person xml:id="ATTENDANTS_WT"><persName>ATTENDANTS_WT</persName></person><person xml:id="SERVANTS.X.2_WT"><persName>Indeterminate member of the SERVANTS group</persName></person><person xml:id="Cleomenes_WT"><persName>Cleomenes</persName></person><person xml:id="Dion_WT"><persName>Dion</persName></person><person xml:id="OFFICERS.0.1_WT"><persName>Officer</persName></person><person xml:id="Sailor_WT"><persName>Mariner</persName></person><person xml:id="Shepherd_WT"><persName>Shepherd</persName></person><person xml:id="ShepherdsSon_WT"><persName>Shepherd’s Son</persName></person><person xml:id="Chorus_WT"><persName>Time</persName></person><person xml:id="Autolycus_WT"><persName>Autolycus</persName></person><person xml:id="Florizell_WT"><persName>Florizell</persName></person><person xml:id="Perdita_WT"><persName>Perdita</persName></person><person xml:id="Dorcas_WT"><persName>Dorcas</persName></person><person xml:id="Mopsa_WT"><persName>Mopsa</persName></person><person xml:id="SERVANTS.SHEPHERD.1_WT"><persName>Servant</persName></person><person xml:id="SERVANTS.X.3_WT"><persName>Indeterminate member of the SERVANTS group</persName></person><person xml:id="ATTENDANTS.X_WT"><persName>ATTENDANTS.X_WT</persName></person><person xml:id="ATTENDANTS.1_WT"><persName>ATTENDANTS.1_WT</persName></person><person xml:id="ATTENDANTS.2_WT"><persName>ATTENDANTS.2_WT</persName></person><person xml:id="ATTENDANTS.3_WT"><persName>ATTENDANTS.3_WT</persName></person></listPerson></particDesc></profileDesc>
   </teiHeader>
   <text>
     <front>
       <castList>
         <castGroup>
-          <castItem xml:id="Leontes_WT">
+          <castItem sameAs="#Leontes_WT">
             <role>
               <name>Leontes</name>
             </role>
             <roleDesc>King of Sicilia</roleDesc>
           </castItem>
-          <castItem xml:id="Hermione_WT">
+          <castItem sameAs="#Hermione_WT">
             <role>
               <name>Hermione</name>
             </role>
             <roleDesc>Queen of Sicilia</roleDesc>
           </castItem>
-          <castItem xml:id="Mamillius_WT">
+          <castItem sameAs="#Mamillius_WT">
             <role>
               <name>Mamillius</name>
             </role>
             <roleDesc>their son</roleDesc>
           </castItem>
-          <castItem xml:id="Perdita_WT">
+          <castItem sameAs="#Perdita_WT">
             <role>
               <name>Perdita</name>
             </role>
@@ -119,13 +119,13 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Polixenes_WT">
+          <castItem sameAs="#Polixenes_WT">
             <role>
               <name>Polixenes</name>
             </role>
             <roleDesc>King of Bohemia</roleDesc>
           </castItem>
-          <castItem xml:id="Florizell_WT">
+          <castItem sameAs="#Florizell_WT">
             <role>
               <name>Florizell</name>
             </role>
@@ -133,19 +133,19 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Camillo_WT">
+          <castItem sameAs="#Camillo_WT">
             <role>
               <name>Camillo</name>
             </role>
             <roleDesc>a courtier, friend to Leontes and then to Polixenes</roleDesc>
           </castItem>
-          <castItem xml:id="Antigonus_WT">
+          <castItem sameAs="#Antigonus_WT">
             <role>
               <name>Antigonus</name>
             </role>
             <roleDesc>a Sicilian courtier</roleDesc>
           </castItem>
-          <castItem xml:id="Paulina_WT">
+          <castItem sameAs="#Paulina_WT">
             <role>
               <name>Paulina</name>
             </role>
@@ -153,18 +153,18 @@
           </castItem>
           <castGroup>
             <head>courtiers in Sicilia</head>
-            <castItem xml:id="Cleomenes_WT">
+            <castItem sameAs="#Cleomenes_WT">
               <role>
                 <name>Cleomenes</name>
               </role>
             </castItem>
-            <castItem xml:id="Dion_WT">
+            <castItem sameAs="#Dion_WT">
               <role>
                 <name>Dion</name>
               </role>
             </castItem>
           </castGroup>
-          <castItem xml:id="LADIES.Emilia_WT" corresp="#LADIES_WT">
+          <castItem corresp="#LADIES_WT" sameAs="#LADIES.Emilia_WT">
             <role>
               <name>Emilia</name>
             </role>
@@ -172,24 +172,24 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Shepherd_WT">
+          <castItem sameAs="#Shepherd_WT">
             <role>
               <name>Shepherd</name>
             </role>
             <roleDesc>foster father to Perdita</roleDesc>
           </castItem>
-          <castItem xml:id="ShepherdsSon_WT">
+          <castItem sameAs="#ShepherdsSon_WT">
             <role>
               <name>Shepherd’s Son</name>
             </role>
           </castItem>
-          <castItem xml:id="Autolycus_WT">
+          <castItem sameAs="#Autolycus_WT">
             <role>
               <name>Autolycus</name>
             </role>
             <roleDesc>former servant to Florizell, now a rogue</roleDesc>
           </castItem>
-          <castItem xml:id="Archidamus_WT">
+          <castItem sameAs="#Archidamus_WT">
             <role>
               <name>Archidamus</name>
             </role>
@@ -197,7 +197,7 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Chorus_WT">
+          <castItem sameAs="#Chorus_WT">
             <role>
               <name>Time</name>
             </role>
@@ -211,29 +211,29 @@
           <castItem xml:id="LADIES.0_WT" corresp="#LADIES_WT">
             Indistinct members of the LADIES group
           </castItem>
-          <castItem xml:id="LADIES.0.1_WT" corresp="#LADIES.0_WT"/>
-          <castItem xml:id="LADIES.0.2_WT" corresp="#LADIES.0_WT"/>
+          <castItem corresp="#LADIES.0_WT" sameAs="#LADIES.0.1_WT"/>
+          <castItem corresp="#LADIES.0_WT" sameAs="#LADIES.0.2_WT"/>
           <castItem><name>Lords</name>, <name>Servants</name>, and <name>Gentlemen</name> attending on Leontes
           </castItem>
-          <castItem xml:id="ATTENDANTS_WT"/>
-          <castItem xml:id="ATTENDANTS.X_WT" corresp="#ATTENDANTS_WT"/>
-          <castItem xml:id="ATTENDANTS.0.1_WT" corresp="#ATTENDANTS_WT"/>
+          <castItem sameAs="#ATTENDANTS_WT"/>
+          <castItem corresp="#ATTENDANTS_WT" sameAs="#ATTENDANTS.X_WT"/>
+          <castItem corresp="#ATTENDANTS_WT" sameAs="#ATTENDANTS.0.1_WT"/>
           <castItem xml:id="SERVANTS_WT"/>
-          <castItem xml:id="SERVANTS.X.1_WT" corresp="#SERVANTS_WT">
+          <castItem corresp="#SERVANTS_WT" sameAs="#SERVANTS.X.1_WT">
            Indeterminate member of the SERVANTS group
           </castItem>
-          <castItem xml:id="SERVANTS.X.2_WT" corresp="#SERVANTS_WT">
+          <castItem corresp="#SERVANTS_WT" sameAs="#SERVANTS.X.2_WT">
            Indeterminate member of the SERVANTS group
           </castItem>
-          <castItem xml:id="SERVANTS.X.3_WT" corresp="#SERVANTS_WT">
+          <castItem corresp="#SERVANTS_WT" sameAs="#SERVANTS.X.3_WT">
             Indeterminate member of the SERVANTS group
           </castItem>
-          <castItem xml:id="SERVANTS.0_WT" corresp="#SERVANTS_WT">
+          <castItem corresp="#SERVANTS_WT" sameAs="#SERVANTS.0_WT">
            Indistinct members of the SERVANTS group
           </castItem>
-          <castItem xml:id="ATTENDANTS.1_WT" corresp="#ATTENDANTS_WT"/>
-          <castItem xml:id="ATTENDANTS.2_WT" corresp="#ATTENDANTS_WT"/>
-          <castItem xml:id="ATTENDANTS.3_WT" corresp="#ATTENDANTS_WT"/>
+          <castItem corresp="#ATTENDANTS_WT" sameAs="#ATTENDANTS.1_WT"/>
+          <castItem corresp="#ATTENDANTS_WT" sameAs="#ATTENDANTS.2_WT"/>
+          <castItem corresp="#ATTENDANTS_WT" sameAs="#ATTENDANTS.3_WT"/>
           <castItem xml:id="ATTENDANTS.PAULINA_WT" corresp="#ATTENDANTS_WT">
             Paulina’s Attendants
           </castItem>
@@ -241,23 +241,23 @@
            Indistinct member of Paulina’s ATTENDANTS group
           </castItem>
           <castItem xml:id="OFFICERS_WT"/>
-          <castItem xml:id="OFFICERS.0.1_WT" corresp="OFFICERS_WT">
+          <castItem corresp="OFFICERS_WT" sameAs="#OFFICERS.0.1_WT">
             <role>An <name>Officer</name> of the court</role>
           </castItem>
-          <castItem xml:id="Sailor_WT">
+          <castItem sameAs="#Sailor_WT">
             <role>A <name>Mariner</name></role>
           </castItem>
-          <castItem xml:id="Jailer_WT">
+          <castItem sameAs="#Jailer_WT">
             <role>A <name>Jailer</name></role>
           </castItem>
           <castGroup>
             <head>shepherdesses in Bohemia</head>
-            <castItem xml:id="Mopsa_WT">
+            <castItem sameAs="#Mopsa_WT">
               <role>
                 <name>Mopsa</name>
               </role>
             </castItem>
-            <castItem xml:id="Dorcas_WT">
+            <castItem sameAs="#Dorcas_WT">
               <role>
                 <name>Dorcas</name>
               </role>
@@ -266,7 +266,7 @@
           <castItem xml:id="SERVANTS.SHEPHERD_WT" corresp="#SERVANTS_WT">
            Servants attending on the Shepherd
           </castItem>
-          <castItem xml:id="SERVANTS.SHEPHERD.1_WT" corresp="#SERVANTS.SHEPHERD_WT">
+          <castItem corresp="#SERVANTS.SHEPHERD_WT" sameAs="#SERVANTS.SHEPHERD.1_WT">
             <role><name>Servant</name> to the Shepherd</role>
           </castItem>
         </castGroup>

@@ -84,13 +84,13 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    </profileDesc>
+    <particDesc><listPerson><person xml:id="Egeon_Err"><persName>Egeon</persName></person><person xml:id="Duke_Err"><persName>Duke</persName></person><person xml:id="OFFICERS.Jailer_Err"><persName>Officer</persName></person><person xml:id="Merchant1_Err"><persName>First Merchant</persName></person><person xml:id="AntipholusOfSyracuse_Err"><persName>Antipholus of Syracuse</persName></person><person xml:id="DromioOfSyracuse_Err"><persName>Dromio of Syracuse</persName></person><person xml:id="DromioOfEphesus_Err"><persName>Dromio of Ephesus</persName></person><person xml:id="Adriana_Err"><persName>Adriana</persName></person><person xml:id="Luciana_Err"><persName>Luciana</persName></person><person xml:id="AntipholusOfEphesus_Err"><persName>Antipholus of Ephesus</persName></person><person xml:id="Balthasar_Err"><persName>Balthasar</persName></person><person xml:id="Luce_Err"><persName>Luce</persName></person><person xml:id="Angelo_Err"><persName>Angelo</persName></person><person xml:id="Merchant2_Err"><persName>Second Merchant</persName></person><person xml:id="OFFICERS.X_Err"><persName>Attendants, Servants to Pinch, Headsman, Officers</persName></person><person xml:id="Courtesan_Err"><persName>Courtesan</persName></person><person xml:id="Pinch_Err"><persName>Dr. Pinch</persName></person><person xml:id="Abbess_Err"><persName>Lady Abbess</persName></person><person xml:id="Messenger_Err"><persName>Messenger</persName></person></listPerson></particDesc></profileDesc>
   </teiHeader>
   <text>
     <front>
       <castList>
         <castGroup>
-          <castItem xml:id="Egeon_Err">
+          <castItem sameAs="#Egeon_Err">
             <role>
               <name>Egeon</name>
             </role>
@@ -98,12 +98,12 @@
               a merchant from Syracuse
             </roleDesc>
           </castItem>
-          <castItem xml:id="Duke_Err">
+          <castItem sameAs="#Duke_Err">
             <role>Solinus, <name>Duke</name> of Ephesus</role>
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="AntipholusOfSyracuse_Err">
+          <castItem sameAs="#AntipholusOfSyracuse_Err">
             <role>
               <name>Antipholus of Syracuse</name>
             </role>
@@ -111,7 +111,7 @@
               a traveler in search of his motherand his brother
             </roleDesc>
           </castItem>
-          <castItem xml:id="DromioOfSyracuse_Err">
+          <castItem sameAs="#DromioOfSyracuse_Err">
             <role>
               <name>Dromio of Syracuse</name>
             </role>
@@ -119,7 +119,7 @@
               Antipholus of Syracuse’s servant
             </roleDesc>
           </castItem>
-          <castItem xml:id="Merchant1_Err">
+          <castItem sameAs="#Merchant1_Err">
             <role>
               <name>First Merchant</name>
             </role>
@@ -129,7 +129,7 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="AntipholusOfEphesus_Err">
+          <castItem sameAs="#AntipholusOfEphesus_Err">
             <role>
               <name>Antipholus of Ephesus</name>
             </role>
@@ -137,7 +137,7 @@
               a citizen of Ephesus
             </roleDesc>
           </castItem>
-          <castItem xml:id="DromioOfEphesus_Err">
+          <castItem sameAs="#DromioOfEphesus_Err">
             <role>
               <name>Dromio of Ephesus</name>
             </role>
@@ -145,7 +145,7 @@
               Antipholus of Ephesus’s servant
             </roleDesc>
           </castItem>
-          <castItem xml:id="Adriana_Err">
+          <castItem sameAs="#Adriana_Err">
             <role>
               <name>Adriana</name>
             </role>
@@ -153,7 +153,7 @@
               Antipholus of Ephesus’s wife
             </roleDesc>
           </castItem>
-          <castItem xml:id="Luciana_Err">
+          <castItem sameAs="#Luciana_Err">
             <role>
               <name>Luciana</name>
             </role>
@@ -161,7 +161,7 @@
               Adriana’s sister
             </roleDesc>
           </castItem>
-          <castItem xml:id="Luce_Err">
+          <castItem sameAs="#Luce_Err">
             <role>
               <name>Luce</name>
             </role>
@@ -169,7 +169,7 @@
               (also called Nell), kitchen maid betrothed toDromio of Ephesus
             </roleDesc>
           </castItem>
-          <castItem xml:id="Messenger_Err">
+          <castItem sameAs="#Messenger_Err">
             <role>
               <name>Messenger</name>
             </role>
@@ -179,7 +179,7 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Angelo_Err">
+          <castItem sameAs="#Angelo_Err">
             <role>
               <name>Angelo</name>
             </role>
@@ -187,7 +187,7 @@
               an Ephesian goldsmith
             </roleDesc>
           </castItem>
-          <castItem xml:id="Merchant2_Err">
+          <castItem sameAs="#Merchant2_Err">
             <role>
               <name>Second Merchant</name>
             </role>
@@ -195,7 +195,7 @@
               a citizen of Ephesus to whomAngelo owes money
             </roleDesc>
           </castItem>
-          <castItem xml:id="Balthasar_Err">
+          <castItem sameAs="#Balthasar_Err">
             <role>
               <name>Balthasar</name>
             </role>
@@ -203,7 +203,7 @@
               an Ephesian merchant invited to dinnerby Antipholus of Ephesus
             </roleDesc>
           </castItem>
-          <castItem xml:id="Courtesan_Err">
+          <castItem sameAs="#Courtesan_Err">
             <role>
               <name>Courtesan</name>
             </role>
@@ -213,7 +213,7 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Pinch_Err">
+          <castItem sameAs="#Pinch_Err">
             <role>
               <name>Dr. Pinch</name>
             </role>
@@ -221,7 +221,7 @@
               a schoolmaster, engaged as an exorcist
             </roleDesc>
           </castItem>
-          <castItem xml:id="OFFICERS.Jailer_Err" corresp="#OFFICERS_Err">
+          <castItem corresp="#OFFICERS_Err" sameAs="#OFFICERS.Jailer_Err">
             <role>
               <name>Officer</name>
             </role>
@@ -231,7 +231,7 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Abbess_Err">
+          <castItem sameAs="#Abbess_Err">
             <role>
               <name>Lady Abbess</name>
             </role>
@@ -247,7 +247,7 @@
           <castItem xml:id="SERVANTS.PINCH_Err" corresp="#SERVANTS_Err"/>
           <castItem xml:id="Headsman_Err"/>
           <castItem xml:id="OFFICERS_Err"/>
-          <castItem xml:id="OFFICERS.X_Err" corresp="#OFFICERS_Err"/>
+          <castItem corresp="#OFFICERS_Err" sameAs="#OFFICERS.X_Err"/>
           <castItem xml:id="OFFICERS.0_Err" corresp="#OFFICERS_Err"/>
           <castItem xml:id="OTHERS_Err"/>
         </castGroup>

@@ -84,43 +84,43 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    </profileDesc>
+    <particDesc><listPerson><person xml:id="Leonato_Ado"><persName>Leonato</persName></person><person xml:id="MESSENGERS.LEONATO.1_Ado"><persName>Messenger</persName></person><person xml:id="Beatrice_Ado"><persName>Beatrice</persName></person><person xml:id="Hero_Ado"><persName>Hero</persName></person><person xml:id="DonPedro_Ado"><persName>Don Pedro</persName></person><person xml:id="Benedick_Ado"><persName>Signior Benedick</persName></person><person xml:id="DonJohn_Ado"><persName>Don John</persName></person><person xml:id="Claudio_Ado"><persName>Count Claudio</persName></person><person xml:id="LeonatosBrother_Ado"><persName>Leonato’s Brother</persName></person><person xml:id="Conrade_Ado"><persName>Conrade</persName></person><person xml:id="Borachio_Ado"><persName>Borachio</persName></person><person xml:id="Margaret_Ado"><persName>Margaret</persName></person><person xml:id="Balthasar_Ado"><persName>Balthasar</persName></person><person xml:id="Ursula_Ado"><persName>Ursula</persName></person><person xml:id="Antonio_Ado"><persName>Signior Antonio</persName></person><person xml:id="Boy_Ado"><persName>Boy</persName></person><person xml:id="Dogberry_Ado"><persName>Dogberry</persName></person><person xml:id="Verges_Ado"><persName>Verges</persName></person><person xml:id="WATCHMEN.1_Ado"><persName>First Watchman</persName></person><person xml:id="WATCHMEN.Seacoal_Ado"><persName>George Seacoal</persName></person><person xml:id="WATCHMEN.2_Ado"><persName>Second Watchman</persName></person><person xml:id="FriarFrancis_Ado"><persName>Friar Francis</persName></person><person xml:id="Sexton_Ado"><persName>Sexton</persName></person><person xml:id="ATTENDANTS.0.1_Ado"><persName>Musicians, Lords, Attendants, Son to Leonato’s brother</persName></person><person xml:id="MUSICIANS_Ado"><persName>Musicians, Lords, Attendants, Son to Leonato’s brother</persName></person><person xml:id="MESSENGERS.DONPEDRO.1_Ado"><persName>Messenger</persName></person></listPerson></particDesc></profileDesc>
   </teiHeader>
   <text>
     <front>
       <castList>
         <castGroup>
-          <castItem xml:id="Leonato_Ado">
+          <castItem sameAs="#Leonato_Ado">
             <role>
               <name>Leonato</name>
             </role>
             <roleDesc>Governor of Messina</roleDesc>
           </castItem>
-          <castItem xml:id="Hero_Ado">
+          <castItem sameAs="#Hero_Ado">
             <role>
               <name>Hero</name>
             </role>
             <roleDesc><rs ref="#Leonato_Ado">his</rs> daughter</roleDesc>
           </castItem>
-          <castItem xml:id="Beatrice_Ado">
+          <castItem sameAs="#Beatrice_Ado">
             <role>
               <name>Beatrice</name>
             </role>
             <roleDesc><rs ref="#Leonato_Ado">his</rs> niece</roleDesc>
           </castItem>
-          <castItem xml:id="LeonatosBrother_Ado">
+          <castItem sameAs="#LeonatosBrother_Ado">
             <role>
               <name>Leonato’s Brother</name>
             </role>
           </castItem>
           <castGroup>
             <head>waiting gentlewomen to Hero</head>
-            <castItem xml:id="Margaret_Ado">
+            <castItem sameAs="#Margaret_Ado">
               <role>
                 <name>Margaret</name>
               </role>
             </castItem>
-            <castItem xml:id="Ursula_Ado">
+            <castItem sameAs="#Ursula_Ado">
               <role>
                 <name>Ursula</name>
               </role>
@@ -128,37 +128,37 @@
           </castGroup>
         </castGroup>
         <castGroup>
-          <castItem xml:id="DonPedro_Ado">
+          <castItem sameAs="#DonPedro_Ado">
             <role>
               <name>Don Pedro</name>
             </role>
             <roleDesc>Prince of Aragon</roleDesc>
           </castItem>
-          <castItem xml:id="Claudio_Ado">
+          <castItem sameAs="#Claudio_Ado">
             <role>
               <name>Count Claudio</name>
             </role>
             <roleDesc>a young lord from Florence</roleDesc>
           </castItem>
-          <castItem xml:id="Benedick_Ado">
+          <castItem sameAs="#Benedick_Ado">
             <role>
               <name>Signior Benedick</name>
             </role>
             <roleDesc>a gentleman from Padua</roleDesc>
           </castItem>
-          <castItem xml:id="Balthasar_Ado">
+          <castItem sameAs="#Balthasar_Ado">
             <role>
               <name>Balthasar</name>
             </role>
           </castItem>
-          <castItem xml:id="Antonio_Ado">
+          <castItem sameAs="#Antonio_Ado">
             <role>
               <name>Signior Antonio</name>
             </role>
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="DonJohn_Ado">
+          <castItem sameAs="#DonJohn_Ado">
             <role>
               <name>Don John</name>
             </role>
@@ -166,12 +166,12 @@
           </castItem>
           <castGroup>
             <head>Don John’s followers</head>
-            <castItem xml:id="Borachio_Ado">
+            <castItem sameAs="#Borachio_Ado">
               <role>
                 <name>Borachio</name>
               </role>
             </castItem>
-            <castItem xml:id="Conrade_Ado">
+            <castItem sameAs="#Conrade_Ado">
               <role>
                 <name>Conrade</name>
               </role>
@@ -179,41 +179,41 @@
           </castGroup>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Dogberry_Ado">
+          <castItem sameAs="#Dogberry_Ado">
             <role>
               <name>Dogberry</name>
             </role>
             <roleDesc>Master Constable in Messina</roleDesc>
           </castItem>
-          <castItem xml:id="Verges_Ado">
+          <castItem sameAs="#Verges_Ado">
             <role>
               <name>Verges</name>
             </role>
             <roleDesc>Dogberry’s partner</roleDesc>
           </castItem>
           <castItem xml:id="WATCHMEN_Ado"/>
-          <castItem xml:id="WATCHMEN.Seacoal_Ado" corresp="#WATCHMEN_Ado">
+          <castItem corresp="#WATCHMEN_Ado" sameAs="#WATCHMEN.Seacoal_Ado">
             <role>
               <name>George Seacoal</name>
             </role>
             <roleDesc>leader of the Watch</roleDesc>
           </castItem>
-          <castItem xml:id="WATCHMEN.1_Ado" corresp="#WATCHMEN_Ado">
+          <castItem corresp="#WATCHMEN_Ado" sameAs="#WATCHMEN.1_Ado">
             <role>
               <name>First Watchman</name>
             </role>
           </castItem>
-          <castItem xml:id="WATCHMEN.2_Ado" corresp="#WATCHMEN_Ado">
+          <castItem corresp="#WATCHMEN_Ado" sameAs="#WATCHMEN.2_Ado">
             <role>
               <name>Second Watchman</name>
             </role>
           </castItem>
-          <castItem xml:id="Sexton_Ado">
+          <castItem sameAs="#Sexton_Ado">
             <role>
               <name>Sexton</name>
             </role>
           </castItem>
-          <castItem xml:id="FriarFrancis_Ado">
+          <castItem sameAs="#FriarFrancis_Ado">
             <role>
               <name>Friar Francis</name>
             </role>
@@ -221,13 +221,13 @@
         </castGroup>
         <castGroup>
           <castItem xml:id="MESSENGERS_Ado"/>
-          <castItem xml:id="MESSENGERS.LEONATO.1_Ado" corresp="#MESSENGERS_Ado">
+          <castItem corresp="#MESSENGERS_Ado" sameAs="#MESSENGERS.LEONATO.1_Ado">
             <role><name>Messenger</name> to Leonato</role>
           </castItem>
-          <castItem xml:id="MESSENGERS.DONPEDRO.1_Ado" corresp="#MESSENGERS_Ado">
+          <castItem corresp="#MESSENGERS_Ado" sameAs="#MESSENGERS.DONPEDRO.1_Ado">
             <role><name>Messenger</name> to Don Pedro</role>
           </castItem>
-          <castItem xml:id="Boy_Ado">
+          <castItem sameAs="#Boy_Ado">
             <role>
               <name>Boy</name>
             </role>
@@ -235,10 +235,10 @@
         </castGroup>
         <castGroup>
           <head>Musicians, Lords, Attendants, Son to Leonato’s brother</head>
-          <castItem xml:id="MUSICIANS_Ado"/>
+          <castItem sameAs="#MUSICIANS_Ado"/>
           <castItem xml:id="MUSICIANS.1_Ado" corresp="#MUSICIANS_ADO"/>
           <castItem xml:id="ATTENDANTS_Ado"/>
-          <castItem xml:id="ATTENDANTS.0.1_Ado" corresp="#ATTENDANTS_Ado"/>
+          <castItem corresp="#ATTENDANTS_Ado" sameAs="#ATTENDANTS.0.1_Ado"/>
           <castItem xml:id="Son_Ado"/>
         </castGroup>
       </castList>

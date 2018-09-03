@@ -84,47 +84,47 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    </profileDesc>
+    <particDesc><listPerson><person xml:id="Warwick_2H6"><persName>Warwick</persName></person><person xml:id="York_1H6"><persName>York</persName></person><person xml:id="EdwardIV_3H6"><persName>Edward King Edward IV</persName><persName>Edward King Edward IV</persName></person><person xml:id="Montague_3H6"><persName>Montague</persName></person><person xml:id="RichardIII_R3"><persName>Richard Gloucester</persName><persName>Richard Gloucester</persName></person><person xml:id="Norfolk_3H6"><persName>Norfolk</persName></person><person xml:id="HenryVI_1H6"><persName>King Henry VI</persName></person><person xml:id="Northumberland_3H6"><persName>Northumberland</persName></person><person xml:id="Clifford_3H6"><persName>Clifford</persName></person><person xml:id="Westmorland_3H6"><persName>Westmorland</persName></person><person xml:id="Exeter_3H6"><persName>Exeter</persName></person><person xml:id="QueenMargaret_1H6"><persName>Queen Margaret</persName></person><person xml:id="PrinceEdward_3H6"><persName>Prince Edward</persName></person><person xml:id="MESSENGERS.X.1_3H6"><persName>MESSENGERS.X.1_3H6</persName></person><person xml:id="JohnMortimer_3H6"><persName>Sir John</persName></person><person xml:id="Rutland_3H6"><persName>Rutland</persName></person><person xml:id="Tutor_3H6"><persName>Tutor</persName></person><person xml:id="MESSENGERS.X.2_3H6"><persName>MESSENGERS.X.2_3H6</persName></person><person xml:id="MESSENGERS.X.3_3H6"><persName>MESSENGERS.X.3_3H6</persName></person><person xml:id="MESSENGERS.X.4_3H6"><persName>MESSENGERS.X.4_3H6</persName></person><person xml:id="Clarence_3H6"><persName>George Clarence</persName><persName>George Clarence</persName></person><person xml:id="Son_3H6"><persName>Son</persName></person><person xml:id="Father_3H6"><persName>Father</persName></person><person xml:id="GAMEKEEPERS.1_3H6"><persName>First Gamekeeper</persName></person><person xml:id="GAMEKEEPERS.2_3H6"><persName>Second Gamekeeper</persName></person><person xml:id="QueenElizabeth_3H6"><persName>Lady Grey Queen Elizabeth</persName><persName>Lady Grey Queen Elizabeth</persName></person><person xml:id="ATTENDANTS.EDWARD.1_3H6"><persName>Nobleman</persName></person><person xml:id="KingLewis_3H6"><persName>King Lewis</persName></person><person xml:id="Oxford_3H6"><persName>Oxford</persName></person><person xml:id="LadyBona_3H6"><persName>Lady Bona</persName></person><person xml:id="MESSENGERS.Post_3H6"><persName>Post</persName></person><person xml:id="Somerset_3H6"><persName>Somerset</persName></person><person xml:id="Hastings_3H6"><persName>Hastings</persName></person><person xml:id="WATCHMEN.1_3H6"><persName>First Watch</persName></person><person xml:id="WATCHMEN.2_3H6"><persName>Second Watch</persName></person><person xml:id="WATCHMEN.3_3H6"><persName>Third Watch</persName></person><person xml:id="Rivers_3H6"><persName>Rivers</persName></person><person xml:id="Huntsman_3H6"><persName>Huntsman</persName></person><person xml:id="Lieutenant_3H6"><persName>Lieutenant</persName></person><person xml:id="MayorOfYork_3H6"><persName>Mayor</persName></person><person xml:id="Montgomery_3H6"><persName>Montgomery</persName></person><person xml:id="SOLDIERS.YORK.0.1_3H6"><persName>Soldier</persName></person><person xml:id="SOLDIERS.YORK_3H6"><persName>Soldiers, Servants, Attendants, Drummers, Trumpeters, Sir Hugh Mortimer, Henry, Earl of Richmond, Aldermen of York, Mayor of Coventry, Nurse, the infant prince, and Others</persName></person><person xml:id="ALDERMEN_3H6"><persName>Soldiers, Servants, Attendants, Drummers, Trumpeters, Sir Hugh Mortimer, Henry, Earl of Richmond, Aldermen of York, Mayor of Coventry, Nurse, the infant prince, and Others</persName></person><person xml:id="SOLDIERS.MONTGOMERY_3H6"><persName>Soldiers, Servants, Attendants, Drummers, Trumpeters, Sir Hugh Mortimer, Henry, Earl of Richmond, Aldermen of York, Mayor of Coventry, Nurse, the infant prince, and Others</persName></person><person xml:id="MESSENGERS.1_3H6"><persName>First Messenger</persName></person><person xml:id="MESSENGERS.2_3H6"><persName>Second Messenger</persName></person><person xml:id="Somerville_3H6"><persName>Somerville</persName></person><person xml:id="MESSENGERS.X.5_3H6"><persName>MESSENGERS.X.5_3H6</persName></person></listPerson></particDesc></profileDesc>
   </teiHeader>
   <text>
     <front>
       <castList>
         <castGroup>
-          <castItem xml:id="HenryVI_1H6">
+          <castItem sameAs="#HenryVI_1H6">
             <role>
               <name>King Henry VI</name>
             </role>
           </castItem>
-          <castItem xml:id="QueenMargaret_1H6">
+          <castItem sameAs="#QueenMargaret_1H6">
             <role>
               <name>Queen Margaret</name>
             </role>
           </castItem>
-          <castItem xml:id="PrinceEdward_3H6">
+          <castItem sameAs="#PrinceEdward_3H6">
             <role>
               <name>Prince Edward</name>
             </role>
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Clifford_3H6">
+          <castItem sameAs="#Clifford_3H6">
             <role>Lord <name>Clifford</name></role>
           </castItem>
           <castGroup>
             <head>Lancastrian supporters</head>
-            <castItem xml:id="Northumberland_3H6">
+            <castItem sameAs="#Northumberland_3H6">
               <role>Earl of <name>Northumberland</name></role>
             </castItem>
-            <castItem xml:id="Westmorland_3H6">
+            <castItem sameAs="#Westmorland_3H6">
               <role>Earl of <name>Westmorland</name></role>
             </castItem>
-            <castItem xml:id="Exeter_3H6">
+            <castItem sameAs="#Exeter_3H6">
               <role>Duke of <name>Exeter</name></role>
             </castItem>
-            <castItem xml:id="Oxford_3H6">
+            <castItem sameAs="#Oxford_3H6">
               <role>Earl of <name>Oxford</name></role>
             </castItem>
-            <castItem xml:id="Somerville_3H6">
+            <castItem sameAs="#Somerville_3H6">
               <role>Sir John <name>Somerville</name></role>
             </castItem>
           </castGroup>
@@ -132,58 +132,58 @@
         <castGroup>
           <castGroup>
             <head>Supporters first of York,then of Lancaster</head>
-            <castItem xml:id="Warwick_2H6">
+            <castItem sameAs="#Warwick_2H6">
               <role>Earl of <name>Warwick</name></role>
             </castItem>
-            <castItem xml:id="Montague_3H6">
+            <castItem sameAs="#Montague_3H6">
               <role>Marquess of <name>Montague</name></role>
             </castItem>
-            <castItem xml:id="Somerset_3H6">
+            <castItem sameAs="#Somerset_3H6">
               <role>Duke of <name>Somerset</name></role>
             </castItem>
           </castGroup>
         </castGroup>
         <castGroup>
-          <castItem xml:id="York_1H6">
+          <castItem sameAs="#York_1H6">
             <role>Richard Plantagenet, Duke of <name>York</name></role>
           </castItem>
           <castGroup>
             <head>Sons of Richard,Duke of York</head>
-            <castItem xml:id="EdwardIV_3H6">
+            <castItem sameAs="#EdwardIV_3H6">
               <role>
                 <name>Edward</name>
               </role>
               <roleDesc>Earl of March, later <name>King Edward IV</name></roleDesc>
             </castItem>
-            <castItem xml:id="Clarence_3H6">
+            <castItem sameAs="#Clarence_3H6">
               <role>
                 <name>George</name>
               </role>
               <roleDesc>later Duke of <name>Clarence</name></roleDesc>
             </castItem>
-            <castItem xml:id="RichardIII_R3">
+            <castItem sameAs="#RichardIII_R3">
               <role>
                 <name>Richard</name>
               </role>
               <roleDesc>later Duke of <name>Gloucester</name></roleDesc>
             </castItem>
-            <castItem xml:id="Rutland_3H6">
+            <castItem sameAs="#Rutland_3H6">
               <role>
                 <name>Rutland</name>
               </role>
             </castItem>
           </castGroup>
-          <castItem xml:id="JohnMortimer_3H6">
+          <castItem sameAs="#JohnMortimer_3H6">
             <role><name>Sir John</name> Mortimer</role>
             <roleDesc>York’s uncle</roleDesc>
           </castItem>
-          <castItem xml:id="QueenElizabeth_3H6">
+          <castItem sameAs="#QueenElizabeth_3H6">
             <role>
               <name>Lady Grey</name>
             </role>
             <roleDesc>later <name>Queen Elizabeth</name></roleDesc>
           </castItem>
-          <castItem xml:id="Rivers_3H6">
+          <castItem sameAs="#Rivers_3H6">
             <role>Earl <name>Rivers</name></role>
             <roleDesc>brother to the queen</roleDesc>
           </castItem>
@@ -191,7 +191,7 @@
         <castGroup>
           <castGroup>
             <head>Yorkist supporters</head>
-            <castItem xml:id="Norfolk_3H6">
+            <castItem sameAs="#Norfolk_3H6">
               <role>Duke of <name>Norfolk</name></role>
             </castItem>
             <castItem xml:id="Pembroke_3H6">
@@ -200,85 +200,85 @@
             <castItem xml:id="Stafford_3H6">
               <role>Lord <name>Stafford</name></role>
             </castItem>
-            <castItem xml:id="Hastings_3H6">
+            <castItem sameAs="#Hastings_3H6">
               <role>Lord <name>Hastings</name></role>
             </castItem>
             <castItem xml:id="Stanley_3H6">
               <role>Sir William <name>Stanley</name></role>
             </castItem>
-            <castItem xml:id="Montgomery_3H6">
+            <castItem sameAs="#Montgomery_3H6">
               <role>Sir John <name>Montgomery</name></role>
             </castItem>
           </castGroup>
         </castGroup>
         <castGroup>
-          <castItem xml:id="KingLewis_3H6">
+          <castItem sameAs="#KingLewis_3H6">
             <role><name>King Lewis</name> of France</role>
           </castItem>
-          <castItem xml:id="LadyBona_3H6">
+          <castItem sameAs="#LadyBona_3H6">
             <role>
               <name>Lady Bona</name>
             </role>
             <roleDesc>his sister-in-law</roleDesc>
           </castItem>
-          <castItem xml:id="Tutor_3H6">
+          <castItem sameAs="#Tutor_3H6">
             <role>Rutland’s <name>Tutor</name></role>
           </castItem>
-          <castItem xml:id="Son_3H6">
+          <castItem sameAs="#Son_3H6">
             <role>A <name>Son</name> that has killed his father</role>
           </castItem>
-          <castItem xml:id="Father_3H6">
+          <castItem sameAs="#Father_3H6">
             <role>A <name>Father</name> that has killed his son</role>
           </castItem>
           <castItem xml:id="GAMEKEEPERS_3H6"/>
-          <castItem xml:id="GAMEKEEPERS.1_3H6" corresp="#GAMEKEEPERS_3H6">
+          <castItem corresp="#GAMEKEEPERS_3H6" sameAs="#GAMEKEEPERS.1_3H6">
             <role>
               <name>First Gamekeeper</name>
             </role>
           </castItem>
-          <castItem xml:id="GAMEKEEPERS.2_3H6" corresp="#GAMEKEEPERS_3H6">
+          <castItem corresp="#GAMEKEEPERS_3H6" sameAs="#GAMEKEEPERS.2_3H6">
             <role>
               <name>Second Gamekeeper</name>
             </role>
           </castItem>
-          <castItem xml:id="ATTENDANTS.EDWARD.1_3H6" corresp="#ATTENDANTS.EDWARD_3H6">
+          <castItem corresp="#ATTENDANTS.EDWARD_3H6" sameAs="#ATTENDANTS.EDWARD.1_3H6">
             <role>A <name>Nobleman</name></role>
           </castItem>
-          <castItem xml:id="MESSENGERS.Post_3H6" corresp="#MESSENGERS_3H6">
+          <castItem corresp="#MESSENGERS_3H6" sameAs="#MESSENGERS.Post_3H6">
             <role>
               <name>Post</name>
             </role>
           </castItem>
           <castItem xml:id="WATCHMEN_3H6"/>
-          <castItem xml:id="WATCHMEN.1_3H6" corresp="#WATCHMEN_3H6">
+          <castItem corresp="#WATCHMEN_3H6" sameAs="#WATCHMEN.1_3H6">
             <role>
               <name>First Watch</name>
             </role>
           </castItem>
-          <castItem xml:id="WATCHMEN.2_3H6" corresp="#WATCHMEN_3H6">
+          <castItem corresp="#WATCHMEN_3H6" sameAs="#WATCHMEN.2_3H6">
             <role>
               <name>Second Watch</name>
             </role>
           </castItem>
-          <castItem xml:id="WATCHMEN.3_3H6" corresp="#WATCHMEN_3H6">
+          <castItem corresp="#WATCHMEN_3H6" sameAs="#WATCHMEN.3_3H6">
             <role>
               <name>Third Watch</name>
             </role>
           </castItem>
-          <castItem xml:id="Huntsman_3H6">
+          <castItem sameAs="#Huntsman_3H6">
             <role>
               <name>Huntsman</name>
             </role>
           </castItem>
-          <castItem xml:id="Lieutenant_3H6">
+          <castItem sameAs="#Lieutenant_3H6">
             <role><name>Lieutenant</name> at the Tower of London</role>
           </castItem>
-          <castItem xml:id="MESSENGERS.1_3H6">
+          <castItem sameAs="#MESSENGERS.1_3H6">
             <role>
               <name>First Messenger</name>
             </role>
           </castItem>
-          <castItem xml:id="MESSENGERS.2_3H6">
+          <castItem sameAs="#MESSENGERS.2_3H6">
             <role>
               <name>Second Messenger</name>
             </role>
@@ -286,15 +286,15 @@
           <castItem xml:id="MESSENGERS_3H6">
             <role>Other <name>Messengers</name></role>
           </castItem>
-          <castItem xml:id="MESSENGERS.X.1_3H6" corresp="#MESSENGERS_3H6"/>
-          <castItem xml:id="MESSENGERS.X.2_3H6" corresp="#MESSENGERS_3H6"/>
-          <castItem xml:id="MESSENGERS.X.3_3H6" corresp="#MESSENGERS_3H6"/>
-          <castItem xml:id="MESSENGERS.X.4_3H6" corresp="#MESSENGERS_3H6"/>
-          <castItem xml:id="MESSENGERS.X.5_3H6" corresp="#MESSENGERS_3H6"/>
-          <castItem xml:id="MayorOfYork_3H6">
+          <castItem corresp="#MESSENGERS_3H6" sameAs="#MESSENGERS.X.1_3H6"/>
+          <castItem corresp="#MESSENGERS_3H6" sameAs="#MESSENGERS.X.2_3H6"/>
+          <castItem corresp="#MESSENGERS_3H6" sameAs="#MESSENGERS.X.3_3H6"/>
+          <castItem corresp="#MESSENGERS_3H6" sameAs="#MESSENGERS.X.4_3H6"/>
+          <castItem corresp="#MESSENGERS_3H6" sameAs="#MESSENGERS.X.5_3H6"/>
+          <castItem sameAs="#MayorOfYork_3H6">
             <role><name>Mayor</name> of York</role>
           </castItem>
-          <castItem xml:id="SOLDIERS.YORK.0.1_3H6" corresp="#SOLDIERS.YORK_3H6">
+          <castItem corresp="#SOLDIERS.YORK_3H6" sameAs="#SOLDIERS.YORK.0.1_3H6">
             <role>
               <name>Soldier</name>
             </role>
@@ -302,7 +302,7 @@
         </castGroup>
         <castGroup>
           <head>Soldiers, Servants, Attendants, Drummers, Trumpeters, Sir Hugh Mortimer, Henry, Earl of Richmond, Aldermen of York, Mayor of Coventry, Nurse, the infant prince, and Others</head>
-          <castItem xml:id="ALDERMEN_3H6"/>
+          <castItem sameAs="#ALDERMEN_3H6"/>
           <castItem xml:id="ATTENDANTS_3H6"/>
           <castItem xml:id="ATTENDANTS.EDWARD_3H6" corresp="#ATTENDANTS_3H6"/>
           <castItem xml:id="Bourbon_3H6"/>
@@ -316,11 +316,11 @@
           <castItem xml:id="SOLDIERS.LANCASTER_3H6" corresp="#SOLDIERS_3H6"/>
           <castItem xml:id="SOLDIERS.LANCASTER.0_3H6" corresp="#SOLDIERS.LANCASTER_3H6"/>
           <castItem xml:id="SOLDIERS.MONTAGUE_3H6" corresp="#SOLDIERS_3H6"/>
-          <castItem xml:id="SOLDIERS.MONTGOMERY_3H6" corresp="#SOLDIERS_3H6"/>
+          <castItem corresp="#SOLDIERS_3H6" sameAs="#SOLDIERS.MONTGOMERY_3H6"/>
           <castItem xml:id="SOLDIERS.OXFORD_3H6" corresp="#SOLDIERS_3H6"/>
           <castItem xml:id="SOLDIERS.SOMERSET_3H6" corresp="#SOLDIERS_3H6"/>
           <castItem xml:id="SOLDIERS.WARWICK_3H6" corresp="#SOLDIERS_3H6"/>
-          <castItem xml:id="SOLDIERS.YORK_3H6" corresp="#SOLDIERS_3H6"/>
+          <castItem corresp="#SOLDIERS_3H6" sameAs="#SOLDIERS.YORK_3H6"/>
           <castItem xml:id="SOLDIERS.YORK.0_3H6" corresp="#SOLDIERS.YORK_3H6"/>
           <castItem xml:id="SOLDIERS.YORK.0.2_3H6" corresp="#SOLDIERS.YORK_3H6"/>
           <castItem xml:id="HenryVII_R3"/>

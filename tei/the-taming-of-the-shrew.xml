@@ -84,7 +84,7 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    </profileDesc>
+    <particDesc><listPerson><person xml:id="Sly_Shr"><persName>Christopher Sly</persName></person><person xml:id="Hostess_Shr"><persName>characters in the Induction</persName></person><person xml:id="Lord_Shr"><persName>characters in the Induction</persName></person><person xml:id="HUNTSMEN.0.1_Shr"><persName>characters in the Induction</persName></person><person xml:id="HUNTSMEN.0.2_Shr"><persName>characters in the Induction</persName></person><person xml:id="HUNTSMEN.0.3_Shr"><persName>characters in the Induction</persName></person><person xml:id="SERVANTS.LORD.0.1_Shr"><persName>characters in the Induction</persName></person><person xml:id="PLAYERS_Shr"><persName>characters in the Induction</persName></person><person xml:id="PLAYERS.0.1_Shr"><persName>characters in the Induction</persName></person><person xml:id="PLAYERS.0.2_Shr"><persName>characters in the Induction</persName></person><person xml:id="SERVANTS.LORD.0.2_Shr"><persName>characters in the Induction</persName></person><person xml:id="SERVANTS.LORD.0.3_Shr"><persName>characters in the Induction</persName></person><person xml:id="SERVANTS.LORD_Shr"><persName>characters in the Induction</persName></person><person xml:id="Page_Shr"><persName>characters in the Induction</persName></person><person xml:id="Messenger_Shr"><persName>characters in the Induction</persName></person><person xml:id="Lucentio_Shr"><persName>Lucentio</persName></person><person xml:id="Tranio_Shr"><persName>Tranio</persName></person><person xml:id="Baptista_Shr"><persName>Baptista Minola</persName></person><person xml:id="Gremio_Shr"><persName>Gremio</persName></person><person xml:id="Katherine_Shr"><persName>Katherine</persName></person><person xml:id="Hortensio_Shr"><persName>Hortensio</persName></person><person xml:id="Bianca_Shr"><persName>Bianca</persName></person><person xml:id="Biondello_Shr"><persName>Biondello</persName></person><person xml:id="Petruchio_Shr"><persName>Petruchio</persName></person><person xml:id="Grumio_Shr"><persName>Grumio</persName></person><person xml:id="SERVANTS.BAPTISTA.1_Shr"><persName>SERVANTS.BAPTISTA.1_Shr</persName></person><person xml:id="Curtis_Shr"><persName>Curtis</persName></person><person xml:id="SERVANTS.PETRUCHIO.Nathaniel_Shr"><persName>Nathaniel</persName></person><person xml:id="SERVANTS.PETRUCHIO.Phillip_Shr"><persName>Phillip</persName></person><person xml:id="SERVANTS.PETRUCHIO.Joseph_Shr"><persName>Joseph</persName></person><person xml:id="SERVANTS.PETRUCHIO.Nicholas_Shr"><persName>Nicholas</persName></person><person xml:id="SERVANTS.PETRUCHIO.Peter_Shr"><persName>Peter</persName></person><person xml:id="SERVANTS.PETRUCHIO.0.4_Shr"><persName>SERVANTS.PETRUCHIO.0.4_Shr</persName></person><person xml:id="Merchant_Shr"><persName>Merchant_Shr</persName></person><person xml:id="Haberdasher_Shr"><persName>Haberdasher_Shr</persName></person><person xml:id="Tailor_Shr"><persName>Tailor_Shr</persName></person><person xml:id="Vincentio_Shr"><persName>Vincentio</persName></person><person xml:id="Widow_Shr"><persName>Widow_Shr</persName></person></listPerson></particDesc></profileDesc>
   </teiHeader>
   <text>
     <front>
@@ -92,58 +92,58 @@
         <castGroup>
           <castGroup>
             <head>characters in the Induction</head>
-            <castItem xml:id="Sly_Shr">
+            <castItem sameAs="#Sly_Shr">
               <role>
                 <name>Christopher Sly</name>
               </role>
               <roleDesc>a beggar</roleDesc>
             </castItem>
-            <castItem xml:id="Hostess_Shr">
+            <castItem sameAs="#Hostess_Shr">
               <role>Hostess of an alehouse</role>
             </castItem>
-            <castItem xml:id="Lord_Shr">
+            <castItem sameAs="#Lord_Shr">
               <role>A Lord</role>
             </castItem>
             <castItem xml:id="HUNTSMEN_Shr">
            Huntsmen of the Lord
           </castItem>
-            <castItem xml:id="HUNTSMEN.0.1_Shr" corresp="#HUNTSMEN_Shr"/>
-            <castItem xml:id="HUNTSMEN.0.2_Shr" corresp="#HUNTSMEN_Shr"/>
-            <castItem xml:id="HUNTSMEN.0.3_Shr" corresp="#HUNTSMEN_Shr"/>
-            <castItem xml:id="Page_Shr">
+            <castItem corresp="#HUNTSMEN_Shr" sameAs="#HUNTSMEN.0.1_Shr"/>
+            <castItem corresp="#HUNTSMEN_Shr" sameAs="#HUNTSMEN.0.2_Shr"/>
+            <castItem corresp="#HUNTSMEN_Shr" sameAs="#HUNTSMEN.0.3_Shr"/>
+            <castItem sameAs="#Page_Shr">
               <role>Page (disguised as a lady)</role>
             </castItem>
-            <castItem xml:id="PLAYERS_Shr">
+            <castItem sameAs="#PLAYERS_Shr">
             Players
           </castItem>
-            <castItem xml:id="PLAYERS.0.1_Shr" corresp="#PLAYERS_Shr"/>
-            <castItem xml:id="PLAYERS.0.2_Shr" corresp="#PLAYERS_Shr"/>
-            <castItem xml:id="SERVANTS.LORD_Shr" corresp="#SERVANTS_Shr">
+            <castItem corresp="#PLAYERS_Shr" sameAs="#PLAYERS.0.1_Shr"/>
+            <castItem corresp="#PLAYERS_Shr" sameAs="#PLAYERS.0.2_Shr"/>
+            <castItem corresp="#SERVANTS_Shr" sameAs="#SERVANTS.LORD_Shr">
             Servingmen
           </castItem>
             <castItem xml:id="SERVANTS.LORD.0_Shr" corresp="#SERVANTS.LORD_Shr"/>
-            <castItem xml:id="SERVANTS.LORD.0.1_Shr" corresp="#SERVANTS.LORD_Shr"/>
-            <castItem xml:id="SERVANTS.LORD.0.2_Shr" corresp="#SERVANTS.LORD_Shr"/>
-            <castItem xml:id="SERVANTS.LORD.0.3_Shr" corresp="#SERVANTS.LORD_Shr"/>
-            <castItem xml:id="Messenger_Shr">
+            <castItem corresp="#SERVANTS.LORD_Shr" sameAs="#SERVANTS.LORD.0.1_Shr"/>
+            <castItem corresp="#SERVANTS.LORD_Shr" sameAs="#SERVANTS.LORD.0.2_Shr"/>
+            <castItem corresp="#SERVANTS.LORD_Shr" sameAs="#SERVANTS.LORD.0.3_Shr"/>
+            <castItem sameAs="#Messenger_Shr">
               <role>Messenger</role>
             </castItem>
           </castGroup>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Baptista_Shr">
+          <castItem sameAs="#Baptista_Shr">
             <role>
               <name>Baptista Minola</name>
             </role>
             <roleDesc>father to Katherine and Bianca</roleDesc>
           </castItem>
-          <castItem xml:id="Katherine_Shr">
+          <castItem sameAs="#Katherine_Shr">
             <role>
               <name>Katherine</name>
             </role>
             <roleDesc><rs ref="#Baptista_Shr">his</rs> elder daughter</roleDesc>
           </castItem>
-          <castItem xml:id="Bianca_Shr">
+          <castItem sameAs="#Bianca_Shr">
             <role>
               <name>Bianca</name>
             </role>
@@ -151,7 +151,7 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Petruchio_Shr">
+          <castItem sameAs="#Petruchio_Shr">
             <role>
               <name>Petruchio</name>
             </role>
@@ -161,18 +161,18 @@
         <castGroup>
           <castGroup>
             <head>suitors to Bianca</head>
-            <castItem xml:id="Gremio_Shr">
+            <castItem sameAs="#Gremio_Shr">
               <role>
                 <name>Gremio</name>
               </role>
             </castItem>
-            <castItem xml:id="Hortensio_Shr">
+            <castItem sameAs="#Hortensio_Shr">
               <role>
                 <name>Hortensio</name>
               </role>
               <roleDesc>(later disguised as the teacher Litio)</roleDesc>
             </castItem>
-            <castItem xml:id="Lucentio_Shr">
+            <castItem sameAs="#Lucentio_Shr">
               <role>
                 <name>Lucentio</name>
               </role>
@@ -181,7 +181,7 @@
           </castGroup>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Vincentio_Shr">
+          <castItem sameAs="#Vincentio_Shr">
             <role>
               <name>Vincentio</name>
             </role>
@@ -191,56 +191,56 @@
         <castGroup>
           <castGroup>
             <head>servants to Lucentio</head>
-            <castItem xml:id="Tranio_Shr">
+            <castItem sameAs="#Tranio_Shr">
               <role>
                 <name>Tranio</name>
               </role>
               <roleDesc>(later impersonating Lucentio)</roleDesc>
             </castItem>
-            <castItem xml:id="Biondello_Shr">
+            <castItem sameAs="#Biondello_Shr">
               <role>
                 <name>Biondello</name>
               </role>
             </castItem>
           </castGroup>
-          <castItem xml:id="Merchant_Shr">
+          <castItem sameAs="#Merchant_Shr">
             <role>A Merchant (later disguised as Vincentio)</role>
           </castItem>
         </castGroup>
         <castGroup>
           <castGroup>
             <head>servants to Petruchio</head>
-            <castItem xml:id="Grumio_Shr" corresp="#SERVANTS.PETRUCHIO_Shr">
+            <castItem corresp="#SERVANTS.PETRUCHIO_Shr" sameAs="#Grumio_Shr">
               <role>
                 <name>Grumio</name>
               </role>
             </castItem>
-            <castItem xml:id="Curtis_Shr" corresp="#SERVANTS.PETRUCHIO_Shr">
+            <castItem corresp="#SERVANTS.PETRUCHIO_Shr" sameAs="#Curtis_Shr">
               <role>
                 <name>Curtis</name>
               </role>
             </castItem>
-            <castItem xml:id="SERVANTS.PETRUCHIO.Nathaniel_Shr" corresp="#SERVANTS.PETRUCHIO_Shr">
+            <castItem corresp="#SERVANTS.PETRUCHIO_Shr" sameAs="#SERVANTS.PETRUCHIO.Nathaniel_Shr">
               <role>
                 <name>Nathaniel</name>
               </role>
             </castItem>
-            <castItem xml:id="SERVANTS.PETRUCHIO.Phillip_Shr" corresp="#SERVANTS.PETRUCHIO_Shr">
+            <castItem corresp="#SERVANTS.PETRUCHIO_Shr" sameAs="#SERVANTS.PETRUCHIO.Phillip_Shr">
               <role>
                 <name>Phillip</name>
               </role>
             </castItem>
-            <castItem xml:id="SERVANTS.PETRUCHIO.Joseph_Shr" corresp="#SERVANTS.PETRUCHIO_Shr">
+            <castItem corresp="#SERVANTS.PETRUCHIO_Shr" sameAs="#SERVANTS.PETRUCHIO.Joseph_Shr">
               <role>
                 <name>Joseph</name>
               </role>
             </castItem>
-            <castItem xml:id="SERVANTS.PETRUCHIO.Nicholas_Shr" corresp="#SERVANTS.PETRUCHIO_Shr">
+            <castItem corresp="#SERVANTS.PETRUCHIO_Shr" sameAs="#SERVANTS.PETRUCHIO.Nicholas_Shr">
               <role>
                 <name>Nicholas</name>
               </role>
             </castItem>
-            <castItem xml:id="SERVANTS.PETRUCHIO.Peter_Shr" corresp="#SERVANTS.PETRUCHIO_Shr">
+            <castItem corresp="#SERVANTS.PETRUCHIO_Shr" sameAs="#SERVANTS.PETRUCHIO.Peter_Shr">
               <role>
                 <name>Peter</name>
               </role>
@@ -248,15 +248,15 @@
           </castGroup>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Widow_Shr">
+          <castItem sameAs="#Widow_Shr">
             <role>Widow</role>
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Tailor_Shr">
+          <castItem sameAs="#Tailor_Shr">
             <role>Tailor</role>
           </castItem>
-          <castItem xml:id="Haberdasher_Shr">
+          <castItem sameAs="#Haberdasher_Shr">
             <role>Haberdasher</role>
           </castItem>
           <castItem xml:id="Officer_Shr">
@@ -268,12 +268,12 @@
           Servants to Baptista and Petruchio
         </castItem>
           <castItem xml:id="SERVANTS.BAPTISTA_Shr" corresp="#SERVANTS_Shr"/>
-          <castItem xml:id="SERVANTS.BAPTISTA.1_Shr" corresp="#SERVANTS.BAPTISTA_Shr"/>
+          <castItem corresp="#SERVANTS.BAPTISTA_Shr" sameAs="#SERVANTS.BAPTISTA.1_Shr"/>
           <castItem xml:id="SERVANTS.PETRUCHIO_Shr" corresp="#SERVANTS_Shr"/>
           <castItem xml:id="SERVANTS.PETRUCHIO.0.1_Shr" corresp="#SERVANTS.PETRUCHIO_Shr"/>
           <castItem xml:id="SERVANTS.PETRUCHIO.0.2_Shr" corresp="#SERVANTS.PETRUCHIO_Shr"/>
           <castItem xml:id="SERVANTS.PETRUCHIO.0.3_Shr" corresp="#SERVANTS.PETRUCHIO_Shr"/>
-          <castItem xml:id="SERVANTS.PETRUCHIO.0.4_Shr" corresp="#SERVANTS.PETRUCHIO_Shr"/>
+          <castItem corresp="#SERVANTS.PETRUCHIO_Shr" sameAs="#SERVANTS.PETRUCHIO.0.4_Shr"/>
         </castGroup>
       </castList>
     </front>

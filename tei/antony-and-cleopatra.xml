@@ -84,19 +84,19 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    </profileDesc>
+    <particDesc><listPerson><person xml:id="Philo_Ant"><persName>Philo</persName></person><person xml:id="Cleopatra_Ant"><persName>Cleopatra</persName></person><person xml:id="Antony_JC"><persName>Antony</persName></person><person xml:id="MESSENGERS.X.1_Ant"><persName>MESSENGERS.X.1_Ant</persName></person><person xml:id="Demetrius_Ant"><persName>Demetrius</persName></person><person xml:id="Charmian_Ant"><persName>Charmian</persName></person><person xml:id="Alexas_Ant"><persName>Alexas</persName></person><person xml:id="Soothsayer_Ant"><persName>A Soothsayer</persName></person><person xml:id="Enobarbus_Ant"><persName>Enobarbus Domitius</persName><persName>Enobarbus Domitius</persName></person><person xml:id="Iras_Ant"><persName>Iras</persName></person><person xml:id="MESSENGERS.ANTONY.1_Ant"><persName>MESSENGERS.ANTONY.1_Ant</persName></person><person xml:id="MESSENGERS.ANTONY.2_Ant"><persName>MESSENGERS.ANTONY.2_Ant</persName></person><person xml:id="MESSENGERS.ANTONY.3_Ant"><persName>MESSENGERS.ANTONY.3_Ant</persName></person><person xml:id="Octavius_JC"><persName>Octavius Caesar</persName></person><person xml:id="Lepidus_JC"><persName>Lepidus</persName></person><person xml:id="MESSENGERS.CAESAR.1_Ant"><persName>MESSENGERS.CAESAR.1_Ant</persName></person><person xml:id="MESSENGERS.CAESAR.2_Ant"><persName>MESSENGERS.CAESAR.2_Ant</persName></person><person xml:id="Mardian_Ant"><persName>Mardian</persName></person><person xml:id="Pompey_Ant"><persName>Sextus Pompeius Pompey</persName><persName>Sextus Pompeius Pompey</persName></person><person xml:id="Menas_Ant"><persName>Menas</persName></person><person xml:id="Varrius_Ant"><persName>Varrius</persName></person><person xml:id="Maecenas_Ant"><persName>Maecenas</persName></person><person xml:id="Agrippa_Ant"><persName>Agrippa</persName></person><person xml:id="Octavia_Ant"><persName>Octavia</persName></person><person xml:id="MESSENGERS.X.2_Ant"><persName>MESSENGERS.X.2_Ant</persName></person><person xml:id="SERVANTS.0.1_Ant"><persName>SERVANTS.0.1_Ant</persName></person><person xml:id="SERVANTS.0.2_Ant"><persName>SERVANTS.0.2_Ant</persName></person><person xml:id="Boy_Ant"><persName>A Boy</persName></person><person xml:id="CAPTAINS_Ant"><persName>CAPTAINS_Ant</persName></person><person xml:id="Ventidius_Ant"><persName>Ventidius</persName></person><person xml:id="Silius_Ant"><persName>Silius</persName></person><person xml:id="Eros_Ant"><persName>Eros</persName></person><person xml:id="Canidius_Ant"><persName>Canidius</persName></person><person xml:id="MESSENGERS.X.3_Ant"><persName>MESSENGERS.X.3_Ant</persName></person><person xml:id="SOLDIERS.ANTONY.X.1_Ant"><persName>SOLDIERS.ANTONY.X.1_Ant</persName></person><person xml:id="MESSENGERS.X.4_Ant"><persName>MESSENGERS.X.4_Ant</persName></person><person xml:id="Taurus_Ant"><persName>Taurus</persName></person><person xml:id="Scarus_Ant"><persName>Scarus</persName></person><person xml:id="ATTENDANTS.ANTONY_Ant"><persName>ATTENDANTS.ANTONY_Ant</persName></person><person xml:id="Dolabella_Ant"><persName>Dolabella</persName></person><person xml:id="Ambassador_Ant"><persName>A Schoolmaster Ambassador</persName><persName>A Schoolmaster Ambassador</persName></person><person xml:id="Thidias_Ant"><persName>Thidias</persName></person><person xml:id="SERVANTS.X.1_Ant"><persName>SERVANTS.X.1_Ant</persName></person><person xml:id="SERVANTS.X.2_Ant"><persName>SERVANTS.X.2_Ant</persName></person><person xml:id="SERVANTS_Ant"><persName>Servants</persName></person><person xml:id="SOLDIERS.ANTONY.0.1_Ant"><persName>SOLDIERS.ANTONY.0.1_Ant</persName></person><person xml:id="SOLDIERS.ANTONY.0.2_Ant"><persName>SOLDIERS.ANTONY.0.2_Ant</persName></person><person xml:id="SOLDIERS.ANTONY.0.3_Ant"><persName>SOLDIERS.ANTONY.0.3_Ant</persName></person><person xml:id="SOLDIERS.ANTONY.0.4_Ant"><persName>SOLDIERS.ANTONY.0.4_Ant</persName></person><person xml:id="SOLDIERS.ANTONY_Ant"><persName>SOLDIERS.ANTONY_Ant</persName></person><person xml:id="SOLDIERS.ANTONY.X.2_Ant"><persName>SOLDIERS.ANTONY.X.2_Ant</persName></person><person xml:id="CAPTAINS.0.1_Ant"><persName>A Captain</persName></person><person xml:id="SOLDIERS.ANTONY.X.3_Ant"><persName>SOLDIERS.ANTONY.X.3_Ant</persName></person><person xml:id="MESSENGERS.X.5_Ant"><persName>MESSENGERS.X.5_Ant</persName></person><person xml:id="SOLDIERS.CAESAR.X.1_Ant"><persName>SOLDIERS.CAESAR.X.1_Ant</persName></person><person xml:id="WATCHMEN.Sentry_Ant"><persName>WATCHMEN.Sentry_Ant</persName></person><person xml:id="WATCHMEN.1_Ant"><persName>WATCHMEN.1_Ant</persName></person><person xml:id="WATCHMEN.2_Ant"><persName>WATCHMEN.2_Ant</persName></person><person xml:id="GUARDS.0.1_Ant"><persName>GUARDS.0.1_Ant</persName></person><person xml:id="GUARDS.0.2_Ant"><persName>GUARDS.0.2_Ant</persName></person><person xml:id="GUARDS_Ant"><persName>Guardsmen</persName></person><person xml:id="GUARDS.Dercetus_Ant"><persName>Dercetus</persName></person><person xml:id="GUARDS.0.3_Ant"><persName>GUARDS.0.3_Ant</persName></person><person xml:id="Diomedes_Ant"><persName>Diomedes</persName></person><person xml:id="LADIES_Ant"><persName>LADIES_Ant</persName></person><person xml:id="Egyptian_Ant"><persName>An Egyptian</persName></person><person xml:id="Proculeius_Ant"><persName>Proculeius</persName></person><person xml:id="Gallus_Ant"><persName>Gallus</persName></person><person xml:id="ATTENDANTS.CAESAR_Ant"><persName>ATTENDANTS.CAESAR_Ant</persName></person><person xml:id="Seleucus_Ant"><persName>Seleucus</persName></person><person xml:id="GUARDS.CAESAR.1_Ant"><persName>GUARDS.CAESAR.1_Ant</persName></person><person xml:id="Countryman_Ant"><persName>A Countryman</persName></person><person xml:id="GUARDS.CAESAR.0.1_Ant"><persName>GUARDS.CAESAR.0.1_Ant</persName></person><person xml:id="GUARDS.CAESAR.0.2_Ant"><persName>GUARDS.CAESAR.0.2_Ant</persName></person></listPerson></particDesc></profileDesc>
   </teiHeader>
   <text>
     <front>
       <castList>
         <castGroup>
-          <castItem xml:id="Antony_JC">
+          <castItem sameAs="#Antony_JC">
             <role>
               <name>Antony</name>
             </role>
             <roleDesc>a triumvir of Rome</roleDesc>
           </castItem>
-          <castItem xml:id="Cleopatra_Ant">
+          <castItem sameAs="#Cleopatra_Ant">
             <role>
               <name>Cleopatra</name>
             </role>
@@ -104,19 +104,19 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Octavius_JC">
+          <castItem sameAs="#Octavius_JC">
             <role>
               <name>Octavius Caesar</name>
             </role>
             <roleDesc>a triumvir of Rome</roleDesc>
           </castItem>
-          <castItem xml:id="Octavia_Ant">
+          <castItem sameAs="#Octavia_Ant">
             <role>
               <name>Octavia</name>
             </role>
             <roleDesc>sister to Caesar, later wife to Antony</roleDesc>
           </castItem>
-          <castItem xml:id="Lepidus_JC">
+          <castItem sameAs="#Lepidus_JC">
             <role>
               <name>Lepidus</name>
             </role>
@@ -124,7 +124,7 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Enobarbus_Ant">
+          <castItem sameAs="#Enobarbus_Ant">
             <role>
               <name>Enobarbus</name>
             </role>
@@ -132,47 +132,47 @@
           </castItem>
           <castGroup>
             <head>accompanying Antonyin Egypt and elsewhere</head>
-            <castItem xml:id="Ventidius_Ant">
+            <castItem sameAs="#Ventidius_Ant">
               <role>
                 <name>Ventidius</name>
               </role>
             </castItem>
-            <castItem xml:id="Silius_Ant">
+            <castItem sameAs="#Silius_Ant">
               <role>
                 <name>Silius</name>
               </role>
             </castItem>
-            <castItem xml:id="Eros_Ant">
+            <castItem sameAs="#Eros_Ant">
               <role>
                 <name>Eros</name>
               </role>
             </castItem>
-            <castItem xml:id="Canidius_Ant">
+            <castItem sameAs="#Canidius_Ant">
               <role>
                 <name>Canidius</name>
               </role>
             </castItem>
-            <castItem xml:id="Scarus_Ant">
+            <castItem sameAs="#Scarus_Ant">
               <role>
                 <name>Scarus</name>
               </role>
             </castItem>
-            <castItem xml:id="GUARDS.Dercetus_Ant" corresp="#GUARDS_Ant">
+            <castItem corresp="#GUARDS_Ant" sameAs="#GUARDS.Dercetus_Ant">
               <role>
                 <name>Dercetus</name>
               </role>
             </castItem>
-            <castItem xml:id="Demetrius_Ant">
+            <castItem sameAs="#Demetrius_Ant">
               <role>
                 <name>Demetrius</name>
               </role>
             </castItem>
-            <castItem xml:id="Philo_Ant">
+            <castItem sameAs="#Philo_Ant">
               <role>
                 <name>Philo</name>
               </role>
             </castItem>
-            <castItem xml:id="Ambassador_Ant">
+            <castItem sameAs="#Ambassador_Ant">
               <role>
                 <name>A Schoolmaster</name>
               </role>
@@ -183,34 +183,34 @@
         <castGroup>
           <castGroup>
             <head>serving in Cleopatra’s court</head>
-            <castItem xml:id="Charmian_Ant">
+            <castItem sameAs="#Charmian_Ant">
               <role>
                 <name>Charmian</name>
               </role>
             </castItem>
-            <castItem xml:id="Iras_Ant">
+            <castItem sameAs="#Iras_Ant">
               <role>
                 <name>Iras</name>
               </role>
             </castItem>
-            <castItem xml:id="Alexas_Ant">
+            <castItem sameAs="#Alexas_Ant">
               <role>
                 <name>Alexas</name>
               </role>
             </castItem>
-            <castItem xml:id="Mardian_Ant">
+            <castItem sameAs="#Mardian_Ant">
               <role>
                 <name>Mardian</name>
               </role>
               <roleDesc>a Eunuch</roleDesc>
             </castItem>
-            <castItem xml:id="Seleucus_Ant">
+            <castItem sameAs="#Seleucus_Ant">
               <role>
                 <name>Seleucus</name>
               </role>
               <roleDesc>Cleopatra’s treasurer</roleDesc>
             </castItem>
-            <castItem xml:id="Diomedes_Ant">
+            <castItem sameAs="#Diomedes_Ant">
               <role>
                 <name>Diomedes</name>
               </role>
@@ -220,37 +220,37 @@
         <castGroup>
           <castGroup>
             <head>supporting and accompanying Caesar</head>
-            <castItem xml:id="Maecenas_Ant">
+            <castItem sameAs="#Maecenas_Ant">
               <role>
                 <name>Maecenas</name>
               </role>
             </castItem>
-            <castItem xml:id="Agrippa_Ant">
+            <castItem sameAs="#Agrippa_Ant">
               <role>
                 <name>Agrippa</name>
               </role>
             </castItem>
-            <castItem xml:id="Taurus_Ant">
+            <castItem sameAs="#Taurus_Ant">
               <role>
                 <name>Taurus</name>
               </role>
             </castItem>
-            <castItem xml:id="Thidias_Ant">
+            <castItem sameAs="#Thidias_Ant">
               <role>
                 <name>Thidias</name>
               </role>
             </castItem>
-            <castItem xml:id="Dolabella_Ant">
+            <castItem sameAs="#Dolabella_Ant">
               <role>
                 <name>Dolabella</name>
               </role>
             </castItem>
-            <castItem xml:id="Gallus_Ant">
+            <castItem sameAs="#Gallus_Ant">
               <role>
                 <name>Gallus</name>
               </role>
             </castItem>
-            <castItem xml:id="Proculeius_Ant">
+            <castItem sameAs="#Proculeius_Ant">
               <role>
                 <name>Proculeius</name>
               </role>
@@ -258,13 +258,13 @@
           </castGroup>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Pompey_Ant">
+          <castItem sameAs="#Pompey_Ant">
             <role>
               <name>Sextus Pompeius</name>
             </role>
             <roleDesc>also called <name>Pompey</name></roleDesc>
           </castItem>
-          <castItem xml:id="Menas_Ant">
+          <castItem sameAs="#Menas_Ant">
             <role>
               <name>Menas</name>
             </role>
@@ -274,7 +274,7 @@
               <name>Menecrates</name>
             </role>
           </castItem>
-          <castItem xml:id="Varrius_Ant">
+          <castItem sameAs="#Varrius_Ant">
             <role>
               <name>Varrius</name>
             </role>
@@ -284,100 +284,100 @@
           <castItem xml:id="MESSENGERS_Ant">
             <name>Messengers</name>
           </castItem>
-          <castItem xml:id="MESSENGERS.ANTONY.1_Ant" corresp="#MESSENGERS_ANT">
+          <castItem corresp="#MESSENGERS_ANT" sameAs="#MESSENGERS.ANTONY.1_Ant">
             <note>First Messenger to Antony</note>
           </castItem>
-          <castItem xml:id="MESSENGERS.ANTONY.2_Ant" corresp="#MESSENGERS_ANT">
+          <castItem corresp="#MESSENGERS_ANT" sameAs="#MESSENGERS.ANTONY.2_Ant">
             <note>Second Messenger to Antony</note>
           </castItem>
-          <castItem xml:id="MESSENGERS.ANTONY.3_Ant" corresp="#MESSENGERS_ANT">
+          <castItem corresp="#MESSENGERS_ANT" sameAs="#MESSENGERS.ANTONY.3_Ant">
             <note>Third Messenger to Antony</note>
           </castItem>
-          <castItem xml:id="MESSENGERS.CAESAR.1_Ant" corresp="#MESSENGERS_ANT">
+          <castItem corresp="#MESSENGERS_ANT" sameAs="#MESSENGERS.CAESAR.1_Ant">
             <note>First Messenger to Caesar</note>
           </castItem>
-          <castItem xml:id="MESSENGERS.CAESAR.2_Ant" corresp="#MESSENGERS_ANT">
+          <castItem corresp="#MESSENGERS_ANT" sameAs="#MESSENGERS.CAESAR.2_Ant">
             <note>Second Messenger to Caesar</note>
           </castItem>
-          <castItem xml:id="MESSENGERS.X.1_Ant" corresp="#MESSENGERS_ANT">
+          <castItem corresp="#MESSENGERS_ANT" sameAs="#MESSENGERS.X.1_Ant">
             <note>A member of the MESSENGERS group (first instance)</note>
           </castItem>
-          <castItem xml:id="MESSENGERS.X.2_Ant" corresp="#MESSENGERS_ANT">
+          <castItem corresp="#MESSENGERS_ANT" sameAs="#MESSENGERS.X.2_Ant">
             <note>A member of the MESSENGERS group (second instance)</note>
           </castItem>
-          <castItem xml:id="MESSENGERS.X.3_Ant" corresp="#MESSENGERS_ANT">
+          <castItem corresp="#MESSENGERS_ANT" sameAs="#MESSENGERS.X.3_Ant">
             <note>A member of the MESSENGERS group (third instance)</note>
           </castItem>
-          <castItem xml:id="MESSENGERS.X.4_Ant" corresp="#MESSENGERS_ANT">
+          <castItem corresp="#MESSENGERS_ANT" sameAs="#MESSENGERS.X.4_Ant">
             <note>A member of the MESSENGERS group (fourth instance)</note>
           </castItem>
-          <castItem xml:id="MESSENGERS.X.5_Ant" corresp="#MESSENGERS_ANT">
+          <castItem corresp="#MESSENGERS_ANT" sameAs="#MESSENGERS.X.5_Ant">
             <note>A member of the MESSENGERS group (fifth instance)</note>
           </castItem>
           <castItem xml:id="SOLDIERS_Ant">
             <name>Soldiers</name>
           </castItem>
-          <castItem xml:id="SOLDIERS.ANTONY_Ant" corresp="#SOLDIERS_Ant"/>
-          <castItem xml:id="SOLDIERS.ANTONY.X.1_Ant" corresp="#SOLDIERS.ANTONY_Ant"/>
-          <castItem xml:id="SOLDIERS.ANTONY.X.2_Ant" corresp="#SOLDIERS.ANTONY_Ant"/>
-          <castItem xml:id="SOLDIERS.ANTONY.X.3_Ant" corresp="#SOLDIERS.ANTONY_Ant"/>
+          <castItem corresp="#SOLDIERS_Ant" sameAs="#SOLDIERS.ANTONY_Ant"/>
+          <castItem corresp="#SOLDIERS.ANTONY_Ant" sameAs="#SOLDIERS.ANTONY.X.1_Ant"/>
+          <castItem corresp="#SOLDIERS.ANTONY_Ant" sameAs="#SOLDIERS.ANTONY.X.2_Ant"/>
+          <castItem corresp="#SOLDIERS.ANTONY_Ant" sameAs="#SOLDIERS.ANTONY.X.3_Ant"/>
           <castItem xml:id="SOLDIERS.ANTONY.0_Ant" corresp="#SOLDIERS.ANTONY_Ant"/>
-          <castItem xml:id="SOLDIERS.ANTONY.0.1_Ant" corresp="#SOLDIERS.ANTONY_Ant"/>
-          <castItem xml:id="SOLDIERS.ANTONY.0.2_Ant" corresp="#SOLDIERS.ANTONY_Ant"/>
-          <castItem xml:id="SOLDIERS.ANTONY.0.3_Ant" corresp="#SOLDIERS.ANTONY_Ant"/>
-          <castItem xml:id="SOLDIERS.ANTONY.0.4_Ant" corresp="#SOLDIERS.ANTONY_Ant"/>
+          <castItem corresp="#SOLDIERS.ANTONY_Ant" sameAs="#SOLDIERS.ANTONY.0.1_Ant"/>
+          <castItem corresp="#SOLDIERS.ANTONY_Ant" sameAs="#SOLDIERS.ANTONY.0.2_Ant"/>
+          <castItem corresp="#SOLDIERS.ANTONY_Ant" sameAs="#SOLDIERS.ANTONY.0.3_Ant"/>
+          <castItem corresp="#SOLDIERS.ANTONY_Ant" sameAs="#SOLDIERS.ANTONY.0.4_Ant"/>
           <castItem xml:id="SOLDIERS.CAESAR_Ant" corresp="#SOLDIERS_Ant"/>
-          <castItem xml:id="SOLDIERS.CAESAR.X.1_Ant" corresp="#SOLDIERS.CAESAR_Ant"/>
+          <castItem corresp="#SOLDIERS.CAESAR_Ant" sameAs="#SOLDIERS.CAESAR.X.1_Ant"/>
           <castItem xml:id="WATCHMEN_Ant">
             <name>Sentries</name>
           </castItem>
-          <castItem xml:id="WATCHMEN.Sentry_Ant" corresp="#WATCHMEN_ANT"/>
-          <castItem xml:id="WATCHMEN.1_Ant" corresp="#WATCHMEN_ANT"/>
-          <castItem xml:id="WATCHMEN.2_Ant" corresp="#WATCHMEN_ANT"/>
-          <castItem xml:id="GUARDS_Ant">
+          <castItem corresp="#WATCHMEN_ANT" sameAs="#WATCHMEN.Sentry_Ant"/>
+          <castItem corresp="#WATCHMEN_ANT" sameAs="#WATCHMEN.1_Ant"/>
+          <castItem corresp="#WATCHMEN_ANT" sameAs="#WATCHMEN.2_Ant"/>
+          <castItem sameAs="#GUARDS_Ant">
             <name>Guardsmen</name>
           </castItem>
-          <castItem xml:id="GUARDS.0.1_Ant" corresp="#GUARDS_ANT"/>
-          <castItem xml:id="GUARDS.0.2_Ant" corresp="#GUARDS_ANT"/>
-          <castItem xml:id="GUARDS.0.3_Ant" corresp="#GUARDS_ANT"/>
+          <castItem corresp="#GUARDS_ANT" sameAs="#GUARDS.0.1_Ant"/>
+          <castItem corresp="#GUARDS_ANT" sameAs="#GUARDS.0.2_Ant"/>
+          <castItem corresp="#GUARDS_ANT" sameAs="#GUARDS.0.3_Ant"/>
           <castItem xml:id="GUARDS.CAESAR_Ant" corresp="#GUARDS_ANT"/>
-          <castItem xml:id="GUARDS.CAESAR.1_Ant" corresp="#GUARDS.CAESAR_ANT"/>
-          <castItem xml:id="GUARDS.CAESAR.0.1_Ant" corresp="#GUARDS.CAESAR_ANT"/>
-          <castItem xml:id="GUARDS.CAESAR.0.2_Ant" corresp="#GUARDS.CAESAR_ANT"/>
+          <castItem corresp="#GUARDS.CAESAR_ANT" sameAs="#GUARDS.CAESAR.1_Ant"/>
+          <castItem corresp="#GUARDS.CAESAR_ANT" sameAs="#GUARDS.CAESAR.0.1_Ant"/>
+          <castItem corresp="#GUARDS.CAESAR_ANT" sameAs="#GUARDS.CAESAR.0.2_Ant"/>
           <castItem xml:id="GUARDS.CAESAR.0.3_Ant" corresp="#GUARDS.CAESAR_ANT"/>
-          <castItem xml:id="Soothsayer_Ant">
+          <castItem sameAs="#Soothsayer_Ant">
             <role>
               <name>A Soothsayer</name>
             </role>
           </castItem>
-          <castItem xml:id="SERVANTS_Ant">
+          <castItem sameAs="#SERVANTS_Ant">
             <name>Servants</name>
           </castItem>
           <castItem xml:id="SERVANTS.ANTONY_Ant" corresp="#SERVANTS_Ant"/>
-          <castItem xml:id="SERVANTS.X.1_Ant" corresp="#SERVANTS_Ant"/>
-          <castItem xml:id="SERVANTS.X.2_Ant" corresp="#SERVANTS_Ant"/>
-          <castItem xml:id="SERVANTS.0.1_Ant" corresp="#SERVANTS_Ant"/>
-          <castItem xml:id="SERVANTS.0.2_Ant" corresp="#SERVANTS_Ant"/>
+          <castItem corresp="#SERVANTS_Ant" sameAs="#SERVANTS.X.1_Ant"/>
+          <castItem corresp="#SERVANTS_Ant" sameAs="#SERVANTS.X.2_Ant"/>
+          <castItem corresp="#SERVANTS_Ant" sameAs="#SERVANTS.0.1_Ant"/>
+          <castItem corresp="#SERVANTS_Ant" sameAs="#SERVANTS.0.2_Ant"/>
           <castItem xml:id="SERVANTS.Lamprius_Ant" corresp="#SERVANTS_Ant"/>
           <castItem xml:id="SERVANTS.Lucillius_Ant" corresp="#SERVANTS_Ant"/>
           <castItem xml:id="SERVANTS.Rannius_Ant" corresp="#SERVANTS_Ant"/>
-          <castItem xml:id="Boy_Ant">
+          <castItem sameAs="#Boy_Ant">
             <role>
               <name>A Boy</name>
             </role>
           </castItem>
-          <castItem xml:id="CAPTAINS_Ant"/>
-          <castItem xml:id="CAPTAINS.0.1_Ant" corresp="#CAPTAINS_Ant">
+          <castItem sameAs="#CAPTAINS_Ant"/>
+          <castItem corresp="#CAPTAINS_Ant" sameAs="#CAPTAINS.0.1_Ant">
             <role>
               <name>A Captain</name>
             </role>
           </castItem>
-          <castItem xml:id="Egyptian_Ant">
+          <castItem sameAs="#Egyptian_Ant">
             <role>
               <name>An Egyptian</name>
             </role>
           </castItem>
-          <castItem xml:id="Countryman_Ant">
+          <castItem sameAs="#Countryman_Ant">
             <role>
               <name>A Countryman</name>
             </role>
@@ -388,13 +388,13 @@
       Ladies, Eunuchs, Captains, Officers, Soldiers, Attendants, Servants (Lamprius, Rannius, Lucillius: mute characters named in the opening stage direction to 1.2)
     </castItem>
           <castItem xml:id="ATTENDANTS_Ant"/>
-          <castItem xml:id="ATTENDANTS.ANTONY_Ant" corresp="#ATTENDANTS_Ant"/>
-          <castItem xml:id="ATTENDANTS.CAESAR_Ant" corresp="#ATTENDANTS_Ant"/>
+          <castItem corresp="#ATTENDANTS_Ant" sameAs="#ATTENDANTS.ANTONY_Ant"/>
+          <castItem corresp="#ATTENDANTS_Ant" sameAs="#ATTENDANTS.CAESAR_Ant"/>
           <castItem xml:id="ATTENDANTS.CAESAR.0_Ant" corresp="#ATTENDANTS.CAESAR_Ant"/>
           <castItem xml:id="ATTENDANTS.OCTAVIA_Ant" corresp="#ATTENDANTS_Ant"/>
           <castItem xml:id="ATTENDANTS.ROMAN_Ant" corresp="#ATTENDANTS_Ant"/>
           <castItem xml:id="EUNUCHS_Ant"/>
-          <castItem xml:id="LADIES_Ant"/>
+          <castItem sameAs="#LADIES_Ant"/>
         </castGroup>
       </castList>
     </front>

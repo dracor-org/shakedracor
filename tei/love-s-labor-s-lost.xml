@@ -84,13 +84,13 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    </profileDesc>
+    <particDesc><listPerson><person xml:id="King_LLL"><persName>King</persName></person><person xml:id="Longaville_LLL"><persName>Longaville</persName></person><person xml:id="Dumaine_LLL"><persName>Dumaine</persName></person><person xml:id="Berowne_LLL"><persName>Berowne</persName></person><person xml:id="Dull_LLL"><persName>Dull Constable</persName><persName>Dull Constable</persName></person><person xml:id="Costard_LLL"><persName>Costard Clown Swain</persName><persName>Costard Clown Swain</persName><persName>Costard Clown Swain</persName></person><person xml:id="Armado_LLL"><persName>Armado Braggart</persName><persName>Armado Braggart</persName></person><person xml:id="Boy_LLL"><persName>Boy Page Mote</persName><persName>Boy Page Mote</persName><persName>Boy Page Mote</persName></person><person xml:id="Jaquenetta_LLL"><persName>Jaquenetta Wench</persName><persName>Jaquenetta Wench</persName></person><person xml:id="Boyet_LLL"><persName>Boyet</persName></person><person xml:id="Princess_LLL"><persName>Princess</persName></person><person xml:id="LORDS.0_LLL"><persName>Lords, Blackamoors, Musicians</persName></person><person xml:id="Maria_LLL"><persName>Maria</persName></person><person xml:id="Katherine_LLL"><persName>Katherine</persName></person><person xml:id="Rosaline_LLL"><persName>Rosaline</persName></person><person xml:id="Forester_LLL"><persName>Forester</persName></person><person xml:id="Nathaniel_LLL"><persName>Nathaniel Curate</persName><persName>Nathaniel Curate</persName></person><person xml:id="Holofernes_LLL"><persName>Holofernes Pedant</persName><persName>Holofernes Pedant</persName></person><person xml:id="Marcade_LLL"><persName>Monsieur Marcade</persName></person><person xml:id="Spring_LLL"><persName>Lords, Blackamoors, Musicians</persName></person><person xml:id="Winter_LLL"><persName>Lords, Blackamoors, Musicians</persName></person></listPerson></particDesc></profileDesc>
   </teiHeader>
   <text>
     <front>
       <castList>
         <castGroup>
-          <castItem xml:id="King_LLL">
+          <castItem sameAs="#King_LLL">
             <role><name>King</name> of Navarre</role>
             <roleDesc>also known as Ferdinand</roleDesc>
           </castItem>
@@ -98,17 +98,17 @@
         <castGroup>
           <castGroup>
             <head>lords attending the King</head>
-            <castItem xml:id="Berowne_LLL">
+            <castItem sameAs="#Berowne_LLL">
               <role>
                 <name>Berowne</name>
               </role>
             </castItem>
-            <castItem xml:id="Longaville_LLL">
+            <castItem sameAs="#Longaville_LLL">
               <role>
                 <name>Longaville</name>
               </role>
             </castItem>
-            <castItem xml:id="Dumaine_LLL">
+            <castItem sameAs="#Dumaine_LLL">
               <role>
                 <name>Dumaine</name>
               </role>
@@ -116,30 +116,30 @@
           </castGroup>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Princess_LLL">
+          <castItem sameAs="#Princess_LLL">
             <role>The <name>Princess</name> of France</role>
           </castItem>
         </castGroup>
         <castGroup>
           <castGroup>
             <head>ladies attending the Princess</head>
-            <castItem xml:id="Rosaline_LLL">
+            <castItem sameAs="#Rosaline_LLL">
               <role>
                 <name>Rosaline</name>
               </role>
             </castItem>
-            <castItem xml:id="Maria_LLL">
+            <castItem sameAs="#Maria_LLL">
               <role>
                 <name>Maria</name>
               </role>
             </castItem>
-            <castItem xml:id="Katherine_LLL">
+            <castItem sameAs="#Katherine_LLL">
               <role>
                 <name>Katherine</name>
               </role>
             </castItem>
           </castGroup>
-          <castItem xml:id="Boyet_LLL">
+          <castItem sameAs="#Boyet_LLL">
             <role>
               <name>Boyet</name>
             </role>
@@ -147,41 +147,41 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Armado_LLL">
+          <castItem sameAs="#Armado_LLL">
             <role><name>Armado</name>, the <name>Braggart</name></role>
             <roleDesc>also known as Don Adriano de Armado</roleDesc>
           </castItem>
-          <castItem xml:id="Boy_LLL">
+          <castItem sameAs="#Boy_LLL">
             <role>
               <name>Boy</name>
             </role>
             <roleDesc>Armado’s <name>Page</name>, also known as <name>Mote</name></roleDesc>
           </castItem>
-          <castItem xml:id="Jaquenetta_LLL">
+          <castItem sameAs="#Jaquenetta_LLL">
             <role>
               <name>Jaquenetta</name>
             </role>
             <roleDesc>the <name>Wench</name></roleDesc>
           </castItem>
-          <castItem xml:id="Costard_LLL">
+          <castItem sameAs="#Costard_LLL">
             <role>
               <name>Costard</name>
             </role>
             <roleDesc>the <name>Clown</name> or <name>Swain</name></roleDesc>
           </castItem>
-          <castItem xml:id="Dull_LLL">
+          <castItem sameAs="#Dull_LLL">
             <role>
               <name>Dull</name>
             </role>
             <roleDesc>the <name>Constable</name></roleDesc>
           </castItem>
-          <castItem xml:id="Holofernes_LLL">
+          <castItem sameAs="#Holofernes_LLL">
             <role>
               <name>Holofernes</name>
             </role>
             <roleDesc>the <name>Pedant</name>, or schoolmaster</roleDesc>
           </castItem>
-          <castItem xml:id="Nathaniel_LLL">
+          <castItem sameAs="#Nathaniel_LLL">
             <role>
               <name>Nathaniel</name>
             </role>
@@ -189,12 +189,12 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Forester_LLL">
+          <castItem sameAs="#Forester_LLL">
             <role>
               <name>Forester</name>
             </role>
           </castItem>
-          <castItem xml:id="Marcade_LLL">
+          <castItem sameAs="#Marcade_LLL">
             <role>
               <name>Monsieur Marcade</name>
             </role>
@@ -204,11 +204,11 @@
         <castGroup>
           <head>Lords, Blackamoors, Musicians</head>
           <castItem xml:id="LORDS_LLL"/>
-          <castItem xml:id="LORDS.0_LLL" corresp="LORDS_LLL"/>
+          <castItem corresp="LORDS_LLL" sameAs="#LORDS.0_LLL"/>
           <castItem xml:id="BLACKAMOORS_LLL"/>
           <castItem xml:id="MUSICIANS_LLL"/>
-          <castItem xml:id="Spring_LLL"/>
-          <castItem xml:id="Winter_LLL"/>
+          <castItem sameAs="#Spring_LLL"/>
+          <castItem sameAs="#Winter_LLL"/>
         </castGroup>
       </castList>
     </front>

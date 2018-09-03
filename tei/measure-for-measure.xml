@@ -84,40 +84,40 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    </profileDesc>
+    <particDesc><listPerson><person xml:id="Duke_MM"><persName>Duke</persName></person><person xml:id="Escalus_MM"><persName>Escalus</persName></person><person xml:id="Angelo_MM"><persName>Angelo</persName></person><person xml:id="Lucio_MM"><persName>Lucio</persName></person><person xml:id="GENTLEMEN.1_MM"><persName>GENTLEMEN.1_MM</persName></person><person xml:id="GENTLEMEN.2_MM"><persName>GENTLEMEN.2_MM</persName></person><person xml:id="Bawd_MM"><persName>Mistress Overdone</persName></person><person xml:id="Pompey_MM"><persName>Pompey</persName></person><person xml:id="Claudio_MM"><persName>Claudio</persName></person><person xml:id="Provost_MM"><persName>Provost</persName></person><person xml:id="FriarThomas_MM"><persName>Friar Thomas</persName></person><person xml:id="Isabella_MM"><persName>Isabella</persName></person><person xml:id="Nun_MM"><persName>Francisca</persName></person><person xml:id="Elbow_MM"><persName>Elbow</persName></person><person xml:id="Froth_MM"><persName>Froth</persName></person><person xml:id="Justice_MM"><persName>Justice</persName></person><person xml:id="SERVANTS.1_MM"><persName>Servant</persName></person><person xml:id="Juliet_MM"><persName>Juliet</persName></person><person xml:id="Boy_MM"><persName>Boy</persName></person><person xml:id="Mariana_MM"><persName>Mariana</persName></person><person xml:id="Abhorson_MM"><persName>Abhorson</persName></person><person xml:id="Messenger_MM"><persName>Messenger</persName></person><person xml:id="Barnardine_MM"><persName>Barnardine</persName></person><person xml:id="FriarPeter_MM"><persName>Friar Peter</persName></person></listPerson></particDesc></profileDesc>
   </teiHeader>
   <text>
     <front>
       <castList>
         <castGroup>
-          <castItem xml:id="Duke_MM">
+          <castItem sameAs="#Duke_MM">
             <role><name>Duke</name> of Vienna</role>
             <roleDesc>later called Friar Lodowick</roleDesc>
           </castItem>
-          <castItem xml:id="Escalus_MM">
+          <castItem sameAs="#Escalus_MM">
             <role>
               <name>Escalus</name>
             </role>
             <roleDesc>a judge</roleDesc>
           </castItem>
-          <castItem xml:id="Provost_MM">
+          <castItem sameAs="#Provost_MM">
             <role>
               <name>Provost</name>
             </role>
           </castItem>
-          <castItem xml:id="Elbow_MM">
+          <castItem sameAs="#Elbow_MM">
             <role>
               <name>Elbow</name>
             </role>
             <roleDesc>a constable</roleDesc>
           </castItem>
-          <castItem xml:id="Abhorson_MM">
+          <castItem sameAs="#Abhorson_MM">
             <role>
               <name>Abhorson</name>
             </role>
             <roleDesc>an executioner</roleDesc>
           </castItem>
-          <castItem xml:id="Justice_MM">
+          <castItem sameAs="#Justice_MM">
             <role>A <name>Justice</name></role>
           </castItem>
           <castItem xml:id="Varrius_MM">
@@ -128,36 +128,36 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Angelo_MM">
+          <castItem sameAs="#Angelo_MM">
             <role>
               <name>Angelo</name>
             </role>
             <roleDesc>deputy to the Duke</roleDesc>
           </castItem>
-          <castItem xml:id="Mariana_MM">
+          <castItem sameAs="#Mariana_MM">
             <role>
               <name>Mariana</name>
             </role>
             <roleDesc>betrothed to Angelo</roleDesc>
           </castItem>
-          <castItem xml:id="Boy_MM">
+          <castItem sameAs="#Boy_MM">
             <role><name>Boy</name> singer</role>
           </castItem>
-          <castItem xml:id="SERVANTS.1_MM" corresp="#SERVANTS_MM">
+          <castItem corresp="#SERVANTS_MM" sameAs="#SERVANTS.1_MM">
             <role><name>Servant</name> to Angelo</role>
           </castItem>
-          <castItem xml:id="Messenger_MM">
+          <castItem sameAs="#Messenger_MM">
             <role><name>Messenger</name> from Angelo</role>
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Isabella_MM">
+          <castItem sameAs="#Isabella_MM">
             <role>
               <name>Isabella</name>
             </role>
             <roleDesc>a novice in the Order of Saint Clare</roleDesc>
           </castItem>
-          <castItem xml:id="Nun_MM">
+          <castItem sameAs="#Nun_MM">
             <role>
               <name>Francisca</name>
             </role>
@@ -165,19 +165,19 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Claudio_MM">
+          <castItem sameAs="#Claudio_MM">
             <role>
               <name>Claudio</name>
             </role>
             <roleDesc>brother to Isabella</roleDesc>
           </castItem>
-          <castItem xml:id="Juliet_MM">
+          <castItem sameAs="#Juliet_MM">
             <role>
               <name>Juliet</name>
             </role>
             <roleDesc>betrothed to Claudio</roleDesc>
           </castItem>
-          <castItem xml:id="Lucio_MM">
+          <castItem sameAs="#Lucio_MM">
             <role>
               <name>Lucio</name>
             </role>
@@ -185,39 +185,39 @@
           </castItem>
           <castItem xml:id="GENTLEMEN_MM"><name>Two Gentlemen</name>, associates of Lucio
           </castItem>
-          <castItem xml:id="GENTLEMEN.1_MM" corresp="#GENTLEMEN_MM"/>
-          <castItem xml:id="GENTLEMEN.2_MM" corresp="#GENTLEMEN_MM"/>
+          <castItem corresp="#GENTLEMEN_MM" sameAs="#GENTLEMEN.1_MM"/>
+          <castItem corresp="#GENTLEMEN_MM" sameAs="#GENTLEMEN.2_MM"/>
         </castGroup>
         <castGroup>
-          <castItem xml:id="FriarThomas_MM">
+          <castItem sameAs="#FriarThomas_MM">
             <role>
               <name>Friar Thomas</name>
             </role>
           </castItem>
-          <castItem xml:id="FriarPeter_MM">
+          <castItem sameAs="#FriarPeter_MM">
             <role>
               <name>Friar Peter</name>
             </role>
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Bawd_MM">
+          <castItem sameAs="#Bawd_MM">
             <role>
               <name>Mistress Overdone</name>
             </role>
             <roleDesc>a bawd</roleDesc>
           </castItem>
-          <castItem xml:id="Pompey_MM">
+          <castItem sameAs="#Pompey_MM">
             <role><name>Pompey</name> the Clown</role>
             <roleDesc>her servant</roleDesc>
           </castItem>
-          <castItem xml:id="Froth_MM">
+          <castItem sameAs="#Froth_MM">
             <role>
               <name>Froth</name>
             </role>
             <roleDesc>Pompey’s customer</roleDesc>
           </castItem>
-          <castItem xml:id="Barnardine_MM">
+          <castItem sameAs="#Barnardine_MM">
             <role>
               <name>Barnardine</name>
             </role>

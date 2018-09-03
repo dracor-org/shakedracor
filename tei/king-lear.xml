@@ -84,31 +84,31 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    </profileDesc>
+    <particDesc><listPerson><person xml:id="Kent_Lr"><persName>Earl of Kent</persName></person><person xml:id="Gloucester_Lr"><persName>Earl of Gloucester</persName></person><person xml:id="Edmund_Lr"><persName>Edmund</persName></person><person xml:id="Lear_Lr"><persName>Lear</persName></person><person xml:id="Goneril_Lr"><persName>Goneril</persName></person><person xml:id="Cordelia_Lr"><persName>Cordelia</persName></person><person xml:id="Regan_Lr"><persName>Regan</persName></person><person xml:id="Albany_Lr"><persName>Duke of Albany</persName></person><person xml:id="Cornwall_Lr"><persName>Duke of Cornwall</persName></person><person xml:id="Burgundy_Lr"><persName>Duke of Burgundy</persName></person><person xml:id="France_Lr"><persName>King of France</persName></person><person xml:id="Edgar_Lr"><persName>Edgar</persName></person><person xml:id="Oswald_Lr"><persName>Oswald</persName></person><person xml:id="ATTENDANTS.LEAR.0.3_Lr"><persName>Knights in Lear’s train, Servants, Officers, Soldiers, Attendants, Gentlemen</persName></person><person xml:id="Fool_Lr"><persName>Fool</persName></person><person xml:id="ATTENDANTS.X.1_Lr"><persName>ATTENDANTS.X.1_Lr</persName></person><person xml:id="Curan_Lr"><persName>Curan</persName></person><person xml:id="ATTENDANTS.X.2_Lr"><persName>ATTENDANTS.X.2_Lr</persName></person><person xml:id="ATTENDANTS.X.3_Lr"><persName>ATTENDANTS.X.3_Lr</persName></person><person xml:id="SERVANTS.0.1_Lr"><persName>SERVANTS.0.1_Lr</persName></person><person xml:id="SERVANTS.0.2_Lr"><persName>SERVANTS.0.2_Lr</persName></person><person xml:id="SERVANTS.0.3_Lr"><persName>SERVANTS.0.3_Lr</persName></person><person xml:id="OldMan_Lr"><persName>Old Man</persName></person><person xml:id="MESSENGERS.X.1_Lr"><persName>MESSENGERS.X.1_Lr</persName></person><person xml:id="ATTENDANTS.X.4_Lr"><persName>ATTENDANTS.X.4_Lr</persName></person><person xml:id="Doctor_Lr"><persName>Doctor</persName></person><person xml:id="MESSENGERS.X.2_Lr"><persName>MESSENGERS.X.2_Lr</persName></person><person xml:id="ATTENDANTS.CORDELIA.1_Lr"><persName>Knights in Lear’s train, Servants, Officers, Soldiers, Attendants, Gentlemen</persName></person><person xml:id="SOLDIERS.CAPTAINS.1_Lr"><persName>SOLDIERS.CAPTAINS.1_Lr</persName></person><person xml:id="SOLDIERS.CAPTAINS.2_Lr"><persName>SOLDIERS.CAPTAINS.2_Lr</persName></person><person xml:id="Herald_Lr"><persName>Herald</persName></person><person xml:id="ATTENDANTS.ALBANY_Lr"><persName>Knights in Lear’s train, Servants, Officers, Soldiers, Attendants, Gentlemen</persName></person><person xml:id="MESSENGERS.X.3_Lr"><persName>MESSENGERS.X.3_Lr</persName></person></listPerson></particDesc></profileDesc>
   </teiHeader>
   <text>
     <front>
       <castList>
-        <castItem xml:id="Lear_Lr">
+        <castItem sameAs="#Lear_Lr">
           <role>
             <name>Lear</name>
           </role>
           <roleDesc>king of Britain</roleDesc>
         </castItem>
         <castGroup>
-          <castItem xml:id="Goneril_Lr">
+          <castItem sameAs="#Goneril_Lr">
             <role>
               <name>Goneril</name>
             </role>
             <roleDesc>Lear’s eldest daughter</roleDesc>
           </castItem>
-          <castItem xml:id="Albany_Lr">
+          <castItem sameAs="#Albany_Lr">
             <role>
               <name>Duke of Albany</name>
             </role>
             <roleDesc><rs ref="#Goneril_Lr">her</rs> husband</roleDesc>
           </castItem>
-          <castItem xml:id="Oswald_Lr">
+          <castItem sameAs="#Oswald_Lr">
             <role>
               <name>Oswald</name>
             </role>
@@ -116,13 +116,13 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Regan_Lr">
+          <castItem sameAs="#Regan_Lr">
             <role>
               <name>Regan</name>
             </role>
             <roleDesc>Lear’s second daughter</roleDesc>
           </castItem>
-          <castItem xml:id="Cornwall_Lr">
+          <castItem sameAs="#Cornwall_Lr">
             <role>
               <name>Duke of Cornwall</name>
             </role>
@@ -130,19 +130,19 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Cordelia_Lr">
+          <castItem sameAs="#Cordelia_Lr">
             <role>
               <name>Cordelia</name>
             </role>
             <roleDesc>Lear’s youngest daughter</roleDesc>
           </castItem>
-          <castItem xml:id="France_Lr">
+          <castItem sameAs="#France_Lr">
             <role>
               <name>King of France</name>
             </role>
             <roleDesc><rs ref="#Cordelia_Lr">her</rs> suitor and then husband</roleDesc>
           </castItem>
-          <castItem xml:id="Burgundy_Lr">
+          <castItem sameAs="#Burgundy_Lr">
             <role>
               <name>Duke of Burgundy</name>
             </role>
@@ -150,44 +150,44 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Kent_Lr">
+          <castItem sameAs="#Kent_Lr">
             <role>
               <name>Earl of Kent</name>
             </role>
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Fool_Lr">
+          <castItem sameAs="#Fool_Lr">
             <role>
               <name>Fool</name>
             </role>
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Gloucester_Lr">
+          <castItem sameAs="#Gloucester_Lr">
             <role>
               <name>Earl of Gloucester</name>
             </role>
           </castItem>
-          <castItem xml:id="Edgar_Lr">
+          <castItem sameAs="#Edgar_Lr">
             <role>
               <name>Edgar</name>
             </role>
             <roleDesc><rs ref="#Gloucester_Lr">his</rs> elder son</roleDesc>
           </castItem>
-          <castItem xml:id="Edmund_Lr">
+          <castItem sameAs="#Edmund_Lr">
             <role>
               <name>Edmund</name>
             </role>
             <roleDesc><rs ref="#Gloucester_Lr">his</rs> younger and illegitimate son</roleDesc>
           </castItem>
-          <castItem xml:id="Curan_Lr">
+          <castItem sameAs="#Curan_Lr">
             <role>
               <name>Curan</name>
             </role>
             <roleDesc>gentleman of Gloucester’s household</roleDesc>
           </castItem>
-          <castItem xml:id="OldMan_Lr">
+          <castItem sameAs="#OldMan_Lr">
             <role>
               <name>Old Man</name>
             </role>
@@ -206,23 +206,23 @@
               <name>Gentlemen</name>
             </role>
           </castItem>
-          <castItem xml:id="ATTENDANTS.X.1_Lr" corresp="#ATTENDANTS_Lr"/>
-          <castItem xml:id="ATTENDANTS.X.2_Lr" corresp="#ATTENDANTS_Lr"/>
-          <castItem xml:id="ATTENDANTS.X.3_Lr" corresp="#ATTENDANTS_Lr"/>
-          <castItem xml:id="ATTENDANTS.X.4_Lr" corresp="#ATTENDANTS_Lr"/>
+          <castItem corresp="#ATTENDANTS_Lr" sameAs="#ATTENDANTS.X.1_Lr"/>
+          <castItem corresp="#ATTENDANTS_Lr" sameAs="#ATTENDANTS.X.2_Lr"/>
+          <castItem corresp="#ATTENDANTS_Lr" sameAs="#ATTENDANTS.X.3_Lr"/>
+          <castItem corresp="#ATTENDANTS_Lr" sameAs="#ATTENDANTS.X.4_Lr"/>
           <castItem xml:id="SERVANTS_Lr">
            Three <name>Servants</name>
           </castItem>
-          <castItem xml:id="SERVANTS.0.1_Lr" corresp="#SERVANTS_Lr"/>
-          <castItem xml:id="SERVANTS.0.2_Lr" corresp="#SERVANTS_Lr"/>
-          <castItem xml:id="SERVANTS.0.3_Lr" corresp="#SERVANTS_Lr"/>
+          <castItem corresp="#SERVANTS_Lr" sameAs="#SERVANTS.0.1_Lr"/>
+          <castItem corresp="#SERVANTS_Lr" sameAs="#SERVANTS.0.2_Lr"/>
+          <castItem corresp="#SERVANTS_Lr" sameAs="#SERVANTS.0.3_Lr"/>
           <castItem xml:id="MESSENGERS_Lr">
             <name>Messengers</name>
           </castItem>
-          <castItem xml:id="MESSENGERS.X.1_Lr" corresp="#MESSENGERS_Lr"/>
-          <castItem xml:id="MESSENGERS.X.2_Lr" corresp="#MESSENGERS_Lr"/>
-          <castItem xml:id="MESSENGERS.X.3_Lr" corresp="#MESSENGERS_Lr"/>
-          <castItem xml:id="Doctor_Lr">
+          <castItem corresp="#MESSENGERS_Lr" sameAs="#MESSENGERS.X.1_Lr"/>
+          <castItem corresp="#MESSENGERS_Lr" sameAs="#MESSENGERS.X.2_Lr"/>
+          <castItem corresp="#MESSENGERS_Lr" sameAs="#MESSENGERS.X.3_Lr"/>
+          <castItem sameAs="#Doctor_Lr">
             <role>
               <name>Doctor</name>
             </role>
@@ -230,9 +230,9 @@
           <castItem xml:id="SOLDIERS.CAPTAINS_Lr" corresp="#SOLDIERS_Lr">
             <name>Captains</name>
           </castItem>
-          <castItem xml:id="SOLDIERS.CAPTAINS.1_Lr" corresp="#SOLDIERS.CAPTAINS_Lr"/>
-          <castItem xml:id="SOLDIERS.CAPTAINS.2_Lr" corresp="#SOLDIERS.CAPTAINS_Lr"/>
-          <castItem xml:id="Herald_Lr">
+          <castItem corresp="#SOLDIERS.CAPTAINS_Lr" sameAs="#SOLDIERS.CAPTAINS.1_Lr"/>
+          <castItem corresp="#SOLDIERS.CAPTAINS_Lr" sameAs="#SOLDIERS.CAPTAINS.2_Lr"/>
+          <castItem sameAs="#Herald_Lr">
             <role>
               <name>Herald</name>
             </role>
@@ -251,15 +251,15 @@
           <castItem xml:id="ATTENDANTS.0.1_Lr" corresp="#ATTENDANTS_Lr"/>
           <castItem xml:id="ATTENDANTS.LEAR.0.1_Lr" corresp="#ATTENDANTS.LEAR_Lr"/>
           <castItem xml:id="ATTENDANTS.LEAR.0.2_Lr" corresp="#ATTENDANTS.LEAR_Lr"/>
-          <castItem xml:id="ATTENDANTS.LEAR.0.3_Lr" corresp="#ATTENDANTS.LEAR_Lr"/>
+          <castItem corresp="#ATTENDANTS.LEAR_Lr" sameAs="#ATTENDANTS.LEAR.0.3_Lr"/>
           <castItem xml:id="ATTENDANTS.LEAR.0.4_Lr" corresp="#ATTENDANTS.LEAR_Lr"/>
           <castItem xml:id="ATTENDANTS.LEAR.0.5_Lr" corresp="#ATTENDANTS.LEAR_Lr"/>
           <castItem xml:id="ATTENDANTS.LEAR.0.6_Lr" corresp="#ATTENDANTS.LEAR_Lr"/>
           <castItem xml:id="ATTENDANTS.LEAR.0.7_Lr" corresp="#ATTENDANTS.LEAR_Lr"/>
           <castItem xml:id="ATTENDANTS.LEAR.0.8_Lr" corresp="#ATTENDANTS.LEAR_Lr"/>
-          <castItem xml:id="ATTENDANTS.ALBANY_Lr" corresp="#ATTENDANTS_Lr"/>
+          <castItem corresp="#ATTENDANTS_Lr" sameAs="#ATTENDANTS.ALBANY_Lr"/>
           <castItem xml:id="ATTENDANTS.CORDELIA_Lr" corresp="#ATTENDANTS_Lr"/>
-          <castItem xml:id="ATTENDANTS.CORDELIA.1_Lr" corresp="#ATTENDANTS.CORDELIA_Lr"/>
+          <castItem corresp="#ATTENDANTS.CORDELIA_Lr" sameAs="#ATTENDANTS.CORDELIA.1_Lr"/>
           <castItem xml:id="ATTENDANTS.LEAR_Lr" corresp="#ATTENDANTS_Lr"/>
           <castItem xml:id="ATTENDANTS.REGAN_Lr" corresp="#ATTENDANTS_Lr"/>
           <castItem xml:id="ATTENDANTS.REGAN.0.1_Lr" corresp="#ATTENDANTS.REGAN_Lr"/>

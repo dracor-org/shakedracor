@@ -85,13 +85,13 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    </profileDesc>
+    <particDesc><listPerson><person xml:id="Prologue_Tro"><persName>Prologue</persName></person><person xml:id="Troilus_Tro"><persName>Troilus</persName></person><person xml:id="Pandarus_Tro"><persName>Pandarus</persName></person><person xml:id="Aeneas_Tro"><persName>Aeneas</persName></person><person xml:id="Cressida_Tro"><persName>Cressida</persName></person><person xml:id="Alexander_Tro"><persName>Alexander</persName></person><person xml:id="Boy_Tro"><persName>Troilus’s Boy</persName></person><person xml:id="Agamemnon_Tro"><persName>Agamemnon</persName></person><person xml:id="Nestor_Tro"><persName>Nestor</persName></person><person xml:id="Ulysses_Tro"><persName>Ulysses</persName></person><person xml:id="Menelaus_Tro"><persName>Menelaus</persName></person><person xml:id="Ajax_Tro"><persName>Ajax</persName></person><person xml:id="Thersites_Tro"><persName>Thersites</persName></person><person xml:id="Achilles_Tro"><persName>Achilles</persName></person><person xml:id="Patroclus_Tro"><persName>Patroclus</persName></person><person xml:id="Priam_Tro"><persName>Priam</persName></person><person xml:id="Hector_Tro"><persName>Hector</persName></person><person xml:id="Helenus_Tro"><persName>Helenus</persName></person><person xml:id="Cassandra_Tro"><persName>Cassandra</persName></person><person xml:id="Paris_Tro"><persName>Paris</persName></person><person xml:id="Diomedes_Tro"><persName>Diomedes</persName></person><person xml:id="SERVANTS.PARIS.1_Tro"><persName>Paris’s Servingman</persName></person><person xml:id="Helen_Tro"><persName>Helen</persName></person><person xml:id="SERVANTS.TROILUS.1_Tro"><persName>Troilus’s Man</persName></person><person xml:id="Calchas_Tro"><persName>Calchas</persName></person><person xml:id="Deiphobus_Tro"><persName>Deiphobus</persName></person><person xml:id="ATTENDANTS.GREEK_Tro"><persName>Other Trojans and Greeks, Common Soldiers of Troy and Greece, Trumpeters, Attendants, Torchbearers</persName></person><person xml:id="Andromache_Tro"><persName>Andromache</persName></person><person xml:id="SERVANTS.DIOMEDES.1_Tro"><persName>Diomedes’ Servingman</persName></person><person xml:id="Bastard_Tro"><persName>Bastard</persName></person><person xml:id="MYRMIDONS.0.1_Tro"><persName>MYRMIDONS.0.1_Tro</persName></person><person xml:id="SOLDIERS_Tro"><persName>Other Trojans and Greeks, Common Soldiers of Troy and Greece, Trumpeters, Attendants, Torchbearers</persName></person><person xml:id="Antenor_Tro"><persName>Antenor</persName></person><person xml:id="SOLDIERS.TROJAN_Tro"><persName>Other Trojans and Greeks, Common Soldiers of Troy and Greece, Trumpeters, Attendants, Torchbearers</persName></person></listPerson></particDesc></profileDesc>
   </teiHeader>
   <text>
     <front>
       <castList>
         <castGroup>
-          <castItem xml:id="Prologue_Tro">
+          <castItem sameAs="#Prologue_Tro">
             <role>
               <name>Prologue</name>
             </role>
@@ -100,7 +100,7 @@
         <castGroup>
           <head>The Trojans</head>
           <castGroup>
-            <castItem xml:id="Priam_Tro">
+            <castItem sameAs="#Priam_Tro">
               <role>
                 <name>Priam</name>
               </role>
@@ -108,7 +108,7 @@
             </castItem>
           </castGroup>
           <castGroup>
-            <castItem xml:id="Cassandra_Tro">
+            <castItem sameAs="#Cassandra_Tro">
               <role>
                 <name>Cassandra</name>
               </role>
@@ -118,32 +118,32 @@
           <castGroup>
             <castGroup>
               <head>Priam’s sons</head>
-              <castItem xml:id="Troilus_Tro">
+              <castItem sameAs="#Troilus_Tro">
                 <role>
                   <name>Troilus</name>
                 </role>
               </castItem>
-              <castItem xml:id="Hector_Tro">
+              <castItem sameAs="#Hector_Tro">
                 <role>
                   <name>Hector</name>
                 </role>
               </castItem>
-              <castItem xml:id="Paris_Tro">
+              <castItem sameAs="#Paris_Tro">
                 <role>
                   <name>Paris</name>
                 </role>
               </castItem>
-              <castItem xml:id="Helenus_Tro">
+              <castItem sameAs="#Helenus_Tro">
                 <role>
                   <name>Helenus</name>
                 </role>
               </castItem>
-              <castItem xml:id="Deiphobus_Tro">
+              <castItem sameAs="#Deiphobus_Tro">
                 <role>
                   <name>Deiphobus</name>
                 </role>
               </castItem>
-              <castItem xml:id="Bastard_Tro">
+              <castItem sameAs="#Bastard_Tro">
                 <role>
                   <name>Bastard</name>
                 </role>
@@ -151,7 +151,7 @@
             </castGroup>
           </castGroup>
           <castGroup>
-            <castItem xml:id="Andromache_Tro">
+            <castItem sameAs="#Andromache_Tro">
               <role>
                 <name>Andromache</name>
               </role>
@@ -161,12 +161,12 @@
           <castGroup>
             <castGroup>
               <head>Trojan leaders</head>
-              <castItem xml:id="Aeneas_Tro">
+              <castItem sameAs="#Aeneas_Tro">
                 <role>
                   <name>Aeneas</name>
                 </role>
               </castItem>
-              <castItem xml:id="Antenor_Tro">
+              <castItem sameAs="#Antenor_Tro">
                 <role>
                   <name>Antenor</name>
                 </role>
@@ -174,41 +174,41 @@
             </castGroup>
           </castGroup>
           <castGroup>
-            <castItem xml:id="Boy_Tro">
+            <castItem sameAs="#Boy_Tro">
               <role>
                 <name>Troilus’s Boy</name>
               </role>
             </castItem>
-            <castItem xml:id="SERVANTS.TROILUS.1_Tro" corresp="#SERVANTS_Tro">
+            <castItem corresp="#SERVANTS_Tro" sameAs="#SERVANTS.TROILUS.1_Tro">
               <role>
                 <name>Troilus’s Man</name>
               </role>
             </castItem>
-            <castItem xml:id="SERVANTS.PARIS.1_Tro" corresp="#SERVANTS_Tro">
+            <castItem corresp="#SERVANTS_Tro" sameAs="#SERVANTS.PARIS.1_Tro">
               <role>
                 <name>Paris’s Servingman</name>
               </role>
             </castItem>
           </castGroup>
           <castGroup>
-            <castItem xml:id="Cressida_Tro">
+            <castItem sameAs="#Cressida_Tro">
               <role>
                 <name>Cressida</name>
               </role>
             </castItem>
-            <castItem xml:id="Calchas_Tro">
+            <castItem sameAs="#Calchas_Tro">
               <role>
                 <name>Calchas</name>
               </role>
               <roleDesc>her father</roleDesc>
             </castItem>
-            <castItem xml:id="Pandarus_Tro">
+            <castItem sameAs="#Pandarus_Tro">
               <role>
                 <name>Pandarus</name>
               </role>
               <roleDesc>her uncle</roleDesc>
             </castItem>
-            <castItem xml:id="Alexander_Tro">
+            <castItem sameAs="#Alexander_Tro">
               <role>
                 <name>Alexander</name>
               </role>
@@ -221,39 +221,39 @@
           <castGroup>
             <castGroup>
               <head>Greek leaders</head>
-              <castItem xml:id="Agamemnon_Tro">
+              <castItem sameAs="#Agamemnon_Tro">
                 <role>
                   <name>Agamemnon</name>
                 </role>
                 <roleDesc>the general</roleDesc>
               </castItem>
-              <castItem xml:id="Nestor_Tro">
+              <castItem sameAs="#Nestor_Tro">
                 <role>
                   <name>Nestor</name>
                 </role>
               </castItem>
-              <castItem xml:id="Ulysses_Tro">
+              <castItem sameAs="#Ulysses_Tro">
                 <role>
                   <name>Ulysses</name>
                 </role>
               </castItem>
-              <castItem xml:id="Diomedes_Tro">
+              <castItem sameAs="#Diomedes_Tro">
                 <role>
                   <name>Diomedes</name>
                 </role>
               </castItem>
-              <castItem xml:id="Menelaus_Tro">
+              <castItem sameAs="#Menelaus_Tro">
                 <role>
                   <name>Menelaus</name>
                 </role>
                 <roleDesc>brother to Agamemnon</roleDesc>
               </castItem>
-              <castItem xml:id="Ajax_Tro">
+              <castItem sameAs="#Ajax_Tro">
                 <role>
                   <name>Ajax</name>
                 </role>
               </castItem>
-              <castItem xml:id="Achilles_Tro">
+              <castItem sameAs="#Achilles_Tro">
                 <role>
                   <name>Achilles</name>
                 </role>
@@ -261,13 +261,13 @@
             </castGroup>
           </castGroup>
           <castGroup>
-            <castItem xml:id="Helen_Tro">
+            <castItem sameAs="#Helen_Tro">
               <role>
                 <name>Helen</name>
               </role>
               <roleDesc>Menelaus’s wife and queen</roleDesc>
             </castItem>
-            <castItem xml:id="Patroclus_Tro">
+            <castItem sameAs="#Patroclus_Tro">
               <role>
                 <name>Patroclus</name>
               </role>
@@ -279,8 +279,8 @@
               </role>
               <roleDesc>Achilles’ soldiers</roleDesc>
             </castItem>
-            <castItem xml:id="MYRMIDONS.0.1_Tro" corresp="#MYRMIDONS_Tro"/>
-            <castItem xml:id="Thersites_Tro">
+            <castItem corresp="#MYRMIDONS_Tro" sameAs="#MYRMIDONS.0.1_Tro"/>
+            <castItem sameAs="#Thersites_Tro">
               <role>
                 <name>Thersites</name>
               </role>
@@ -288,7 +288,7 @@
             </castItem>
           </castGroup>
           <castGroup>
-            <castItem xml:id="SERVANTS.DIOMEDES.1_Tro" corresp="#SERVANTS_Tro">
+            <castItem corresp="#SERVANTS_Tro" sameAs="#SERVANTS.DIOMEDES.1_Tro">
               <role>
                 <name>Diomedes’ Servingman</name>
               </role>
@@ -297,12 +297,12 @@
         </castGroup>
         <castGroup>
           <head>Other Trojans and Greeks, Common Soldiers of Troy and Greece, Trumpeters, Attendants, Torchbearers</head>
-          <castItem xml:id="SOLDIERS_Tro"/>
+          <castItem sameAs="#SOLDIERS_Tro"/>
           <castItem xml:id="SOLDIERS.GREEK_Tro" corresp="#SOLDIERS_Tro"/>
           <castItem xml:id="SOLDIERS.GREEK.1_Tro" corresp="#SOLDIERS.GREEK_Tro"/>
-          <castItem xml:id="SOLDIERS.TROJAN_Tro" corresp="#SOLDIERS_Tro"/>
+          <castItem corresp="#SOLDIERS_Tro" sameAs="#SOLDIERS.TROJAN_Tro"/>
           <castItem xml:id="ATTENDANTS_Tro"/>
-          <castItem xml:id="ATTENDANTS.GREEK_Tro" corresp="#ATTENDANTS_Tro"/>
+          <castItem corresp="#ATTENDANTS_Tro" sameAs="#ATTENDANTS.GREEK_Tro"/>
           <castItem xml:id="ATTENDANTS.TROJAN_Tro" corresp="#ATTENDANTS_Tro"/>
           <castItem xml:id="ATTENDANTS.TROJAN.0_Tro" corresp="#ATTENDANTS.TROJAN_Tro"/>
           <castItem xml:id="SERVANTS_Tro"/>

@@ -84,32 +84,32 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    </profileDesc>
+    <particDesc><listPerson><person xml:id="Prologue_H8"><persName>Prologue</persName></person><person xml:id="Buckingham_H8"><persName>Duke of Buckingham</persName></person><person xml:id="Norfolk_H8"><persName>Duke of Norfolk</persName></person><person xml:id="Abergavenny_H8"><persName>Lord Abergavenny</persName></person><person xml:id="Wolsey_H8"><persName>Cardinal Wolsey</persName></person><person xml:id="SECRETARIES.0.1_H8"><persName>SECRETARIES.0.1_H8</persName></person><person xml:id="Brandon_H8"><persName>Brandon</persName></person><person xml:id="Sergeant_H8"><persName>Sergeant at Arms</persName></person><person xml:id="HenryVIII_H8"><persName>King Henry the Eighth</persName></person><person xml:id="Katherine_H8"><persName>Queen Katherine</persName></person><person xml:id="Surveyor_H8"><persName>Knevet, former Surveyor to Buckingham</persName></person><person xml:id="Chamberlain_H8"><persName>Lord Chamberlain</persName></person><person xml:id="Sands_H8"><persName>Lord Sands (also Sir Walter Sands)</persName></person><person xml:id="Lovell_H8"><persName>Sir Thomas Lovell</persName></person><person xml:id="Guilford_H8"><persName>Sir Henry Guilford</persName></person><person xml:id="Anne_H8"><persName>Anne Bullen</persName></person><person xml:id="SERVANTS.X.1_H8"><persName>Spirits, Princess Elizabeth as an infant, Duchess of Norfolk, Marquess and Marchioness of Dorset, Lords, Nobles, Countesses, Bishops, Judges, Priests, Ladies, Gentlemen, Gentlemen Ushers, Lord Mayor, Four Representatives of the Cinque Ports, Aldermen, Women, Musicians, Choristers, Guards, Tipstaves, Halberds, Vergers, Attendants, Servants, Messenger, Pages, Footboys, Grooms</persName></person><person xml:id="GENTLEMEN.1_H8"><persName>First Gentleman</persName></person><person xml:id="GENTLEMEN.2_H8"><persName>Second Gentleman</persName></person><person xml:id="Vaux_H8"><persName>Sir Nicholas Vaux</persName></person><person xml:id="Suffolk_H8"><persName>Duke of Suffolk</persName></person><person xml:id="Campeius_H8"><persName>Cardinal Campeius</persName></person><person xml:id="Gardiner_H8"><persName>Gardiner</persName></person><person xml:id="OldLady_H8"><persName>Old Lady</persName></person><person xml:id="Scribe_H8"><persName>Scribes</persName></person><person xml:id="Crier_H8"><persName>Crier</persName></person><person xml:id="Usher_H8"><persName>Queen’s Gentleman Usher</persName></person><person xml:id="BishopOfLincoln_H8"><persName>Bishop of Lincoln</persName></person><person xml:id="LADIES.KATHERINE.0.1_H8"><persName>Spirits, Princess Elizabeth as an infant, Duchess of Norfolk, Marquess and Marchioness of Dorset, Lords, Nobles, Countesses, Bishops, Judges, Priests, Ladies, Gentlemen, Gentlemen Ushers, Lord Mayor, Four Representatives of the Cinque Ports, Aldermen, Women, Musicians, Choristers, Guards, Tipstaves, Halberds, Vergers, Attendants, Servants, Messenger, Pages, Footboys, Grooms</persName></person><person xml:id="GENTLEMEN.X_H8"><persName>Spirits, Princess Elizabeth as an infant, Duchess of Norfolk, Marquess and Marchioness of Dorset, Lords, Nobles, Countesses, Bishops, Judges, Priests, Ladies, Gentlemen, Gentlemen Ushers, Lord Mayor, Four Representatives of the Cinque Ports, Aldermen, Women, Musicians, Choristers, Guards, Tipstaves, Halberds, Vergers, Attendants, Servants, Messenger, Pages, Footboys, Grooms</persName></person><person xml:id="Surrey_H8"><persName>Earl of Surrey</persName></person><person xml:id="Cromwell_H8"><persName>Cromwell</persName></person><person xml:id="GENTLEMEN.3_H8"><persName>Third Gentleman</persName></person><person xml:id="Griffith_H8"><persName>Griffith</persName></person><person xml:id="LADIES.KATHERINE.Patience_H8"><persName>Patience</persName></person><person xml:id="Messenger_H8"><persName>Spirits, Princess Elizabeth as an infant, Duchess of Norfolk, Marquess and Marchioness of Dorset, Lords, Nobles, Countesses, Bishops, Judges, Priests, Ladies, Gentlemen, Gentlemen Ushers, Lord Mayor, Four Representatives of the Cinque Ports, Aldermen, Women, Musicians, Choristers, Guards, Tipstaves, Halberds, Vergers, Attendants, Servants, Messenger, Pages, Footboys, Grooms</persName></person><person xml:id="Capuchius_H8"><persName>Capuchius</persName></person><person xml:id="Page_H8"><persName>Page to Gardiner</persName></person><person xml:id="Denny_H8"><persName>Sir Anthony Denny</persName></person><person xml:id="Cranmer_H8"><persName>Cranmer</persName></person><person xml:id="Keeper_H8"><persName>Keeper</persName></person><person xml:id="Butts_H8"><persName>Doctor Butts</persName></person><person xml:id="Chancellor_H8"><persName>Lord Chancellor</persName></person><person xml:id="Porter_H8"><persName>Porter and his Man</persName></person><person xml:id="SERVANTS.LARDER.1_H8"><persName>Spirits, Princess Elizabeth as an infant, Duchess of Norfolk, Marquess and Marchioness of Dorset, Lords, Nobles, Countesses, Bishops, Judges, Priests, Ladies, Gentlemen, Gentlemen Ushers, Lord Mayor, Four Representatives of the Cinque Ports, Aldermen, Women, Musicians, Choristers, Guards, Tipstaves, Halberds, Vergers, Attendants, Servants, Messenger, Pages, Footboys, Grooms</persName></person><person xml:id="SERVANTS.PORTER.1_H8"><persName>Porter and his Man</persName></person><person xml:id="Garter_H8"><persName>Garter King of Arms</persName></person><person xml:id="Epilogue_H8"><persName>Epilogue</persName></person></listPerson></particDesc></profileDesc>
   </teiHeader>
   <text>
     <front>
       <castList>
         <castGroup>
-          <castItem xml:id="HenryVIII_H8">
+          <castItem sameAs="#HenryVIII_H8">
             <role>
               <name>King Henry the Eighth</name>
             </role>
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Norfolk_H8">
+          <castItem sameAs="#Norfolk_H8">
             <role>
               <name>Duke of Norfolk</name>
             </role>
           </castItem>
-          <castItem xml:id="Suffolk_H8">
+          <castItem sameAs="#Suffolk_H8">
             <role>
               <name>Duke of Suffolk</name>
             </role>
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Wolsey_H8">
+          <castItem sameAs="#Wolsey_H8">
             <role>
               <name>Cardinal Wolsey</name>
             </role>
@@ -120,57 +120,57 @@
               <name>Secretaries to Wolsey</name>
             </role>
           </castItem>
-          <castItem xml:id="SECRETARIES.0.1_H8" corresp="#SECRETARIES_H8"/>
+          <castItem corresp="#SECRETARIES_H8" sameAs="#SECRETARIES.0.1_H8"/>
           <castItem xml:id="SECRETARIES.X.1_H8" corresp="#SECRETARIES_H8"/>
-          <castItem xml:id="Cromwell_H8">
+          <castItem sameAs="#Cromwell_H8">
             <role>
               <name>Cromwell</name>
             </role>
             <roleDesc>servant to Wolsey, later secretary to the Privy Council</roleDesc>
           </castItem>
-          <castItem xml:id="Campeius_H8">
+          <castItem sameAs="#Campeius_H8">
             <role>
               <name>Cardinal Campeius</name>
             </role>
             <roleDesc>Papal Legate</roleDesc>
           </castItem>
-          <castItem xml:id="Gardiner_H8">
+          <castItem sameAs="#Gardiner_H8">
             <role>
               <name>Gardiner</name>
             </role>
             <roleDesc>secretary to the king, later Bishop of Winchester</roleDesc>
           </castItem>
-          <castItem xml:id="Page_H8">
+          <castItem sameAs="#Page_H8">
             <role>
               <name>Page to Gardiner</name>
             </role>
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Katherine_H8">
+          <castItem sameAs="#Katherine_H8">
             <role>
               <name>Queen Katherine</name>
             </role>
             <roleDesc>Henry’s first wife, later Princess Dowager</roleDesc>
           </castItem>
-          <castItem xml:id="Griffith_H8">
+          <castItem sameAs="#Griffith_H8">
             <role>
               <name>Griffith</name>
             </role>
             <roleDesc>attendant on Katherine</roleDesc>
           </castItem>
-          <castItem xml:id="LADIES.KATHERINE.Patience_H8">
+          <castItem sameAs="#LADIES.KATHERINE.Patience_H8">
             <role>
               <name>Patience</name>
             </role>
             <roleDesc>woman to Katherine</roleDesc>
           </castItem>
-          <castItem xml:id="Usher_H8">
+          <castItem sameAs="#Usher_H8">
             <role>
               <name>Queen’s Gentleman Usher</name>
             </role>
           </castItem>
-          <castItem xml:id="Capuchius_H8">
+          <castItem sameAs="#Capuchius_H8">
             <role>
               <name>Capuchius</name>
             </role>
@@ -178,151 +178,151 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Buckingham_H8">
+          <castItem sameAs="#Buckingham_H8">
             <role>
               <name>Duke of Buckingham</name>
             </role>
           </castItem>
-          <castItem xml:id="Abergavenny_H8">
+          <castItem sameAs="#Abergavenny_H8">
             <role>
               <name>Lord Abergavenny</name>
             </role>
             <roleDesc>Buckingham’s son-in-law</roleDesc>
           </castItem>
-          <castItem xml:id="Surrey_H8">
+          <castItem sameAs="#Surrey_H8">
             <role>
               <name>Earl of Surrey</name>
             </role>
             <roleDesc>Buckingham’s son-in-law</roleDesc>
           </castItem>
-          <castItem xml:id="Vaux_H8">
+          <castItem sameAs="#Vaux_H8">
             <role>
               <name>Sir Nicholas Vaux</name>
             </role>
           </castItem>
-          <castItem xml:id="Surveyor_H8">
+          <castItem sameAs="#Surveyor_H8">
             <role>
               <name>Knevet, former Surveyor to Buckingham</name>
             </role>
           </castItem>
-          <castItem xml:id="Brandon_H8">
+          <castItem sameAs="#Brandon_H8">
             <role>
               <name>Brandon</name>
             </role>
           </castItem>
-          <castItem xml:id="Sergeant_H8">
+          <castItem sameAs="#Sergeant_H8">
             <role>
               <name>Sergeant at Arms</name>
             </role>
           </castItem>
-          <castItem xml:id="GENTLEMEN.1_H8" corresp="#GENTLEMEN_H8">
+          <castItem corresp="#GENTLEMEN_H8" sameAs="#GENTLEMEN.1_H8">
             <role>
               <name>First Gentleman</name>
             </role>
           </castItem>
-          <castItem xml:id="GENTLEMEN.2_H8" corresp="#GENTLEMEN_H8">
+          <castItem corresp="#GENTLEMEN_H8" sameAs="#GENTLEMEN.2_H8">
             <role>
               <name>Second Gentleman</name>
             </role>
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Anne_H8">
+          <castItem sameAs="#Anne_H8">
             <role>
               <name>Anne Bullen</name>
             </role>
             <roleDesc>Katherine’s lady-in-waiting, later Henry’s second wife and queen</roleDesc>
           </castItem>
-          <castItem xml:id="OldLady_H8">
+          <castItem sameAs="#OldLady_H8">
             <role>
               <name>Old Lady</name>
             </role>
             <roleDesc>with Anne Bullen</roleDesc>
           </castItem>
-          <castItem xml:id="Chamberlain_H8">
+          <castItem sameAs="#Chamberlain_H8">
             <role>
               <name>Lord Chamberlain</name>
             </role>
           </castItem>
-          <castItem xml:id="Sands_H8">
+          <castItem sameAs="#Sands_H8">
             <role>
               <name>Lord Sands (also Sir Walter Sands)</name>
             </role>
           </castItem>
-          <castItem xml:id="Lovell_H8">
+          <castItem sameAs="#Lovell_H8">
             <role>
               <name>Sir Thomas Lovell</name>
             </role>
           </castItem>
-          <castItem xml:id="Guilford_H8">
+          <castItem sameAs="#Guilford_H8">
             <role>
               <name>Sir Henry Guilford</name>
             </role>
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="BishopOfLincoln_H8" corresp="#BISHOPS_H8">
+          <castItem corresp="#BISHOPS_H8" sameAs="#BishopOfLincoln_H8">
             <role>
               <name>Bishop of Lincoln</name>
             </role>
           </castItem>
-          <castItem xml:id="Cranmer_H8">
+          <castItem sameAs="#Cranmer_H8">
             <role>
               <name>Cranmer</name>
             </role>
             <roleDesc>later Archbishop of Canterbury</roleDesc>
           </castItem>
-          <castItem xml:id="Chancellor_H8">
+          <castItem sameAs="#Chancellor_H8">
             <role>
               <name>Lord Chancellor</name>
             </role>
           </castItem>
-          <castItem xml:id="Garter_H8">
+          <castItem sameAs="#Garter_H8">
             <role>
               <name>Garter King of Arms</name>
             </role>
           </castItem>
-          <castItem xml:id="GENTLEMEN.3_H8" corresp="#GENTLEMEN_H8">
+          <castItem corresp="#GENTLEMEN_H8" sameAs="#GENTLEMEN.3_H8">
             <role>
               <name>Third Gentleman</name>
             </role>
           </castItem>
-          <castItem xml:id="Denny_H8">
+          <castItem sameAs="#Denny_H8">
             <role>
               <name>Sir Anthony Denny</name>
             </role>
           </castItem>
-          <castItem xml:id="Butts_H8">
+          <castItem sameAs="#Butts_H8">
             <role>
               <name>Doctor Butts</name>
             </role>
           </castItem>
-          <castItem xml:id="Keeper_H8">
+          <castItem sameAs="#Keeper_H8">
             <role>
               <name>Keeper</name>
             </role>
           </castItem>
           <castGroup>
             <head>Porter and his Man</head>
-            <castItem xml:id="Porter_H8"/>
-            <castItem xml:id="SERVANTS.PORTER.1_H8" corresp="#SERVANTS_H8"/>
+            <castItem sameAs="#Porter_H8"/>
+            <castItem corresp="#SERVANTS_H8" sameAs="#SERVANTS.PORTER.1_H8"/>
           </castGroup>
-          <castItem xml:id="Scribe_H8">
+          <castItem sameAs="#Scribe_H8">
             <role>
               <name>Scribes</name>
             </role>
           </castItem>
-          <castItem xml:id="Crier_H8">
+          <castItem sameAs="#Crier_H8">
             <role>
               <name>Crier</name>
             </role>
           </castItem>
-          <castItem xml:id="Prologue_H8">
+          <castItem sameAs="#Prologue_H8">
             <role>
               <name>Prologue</name>
             </role>
           </castItem>
-          <castItem xml:id="Epilogue_H8">
+          <castItem sameAs="#Epilogue_H8">
             <role>
               <name>Epilogue</name>
             </role>
@@ -343,19 +343,19 @@
           <castItem xml:id="ALDERMEN_H8"/>
           <castItem xml:id="LADIES_H8"/>
           <castItem xml:id="LADIES.KATHERINE_H8" corresp="#LADIES_H8"/>
-          <castItem xml:id="LADIES.KATHERINE.0.1_H8" corresp="#LADIES.KATHERINE_H8"/>
+          <castItem corresp="#LADIES.KATHERINE_H8" sameAs="#LADIES.KATHERINE.0.1_H8"/>
           <castItem xml:id="GENTLEMEN_H8"/>
-          <castItem xml:id="GENTLEMEN.X_H8" corresp="#GENTLEMEN_H8"/>
+          <castItem corresp="#GENTLEMEN_H8" sameAs="#GENTLEMEN.X_H8"/>
           <castItem xml:id="CHORISTERS_H8"/>
           <castItem xml:id="GUARDS_H8"/>
           <castItem xml:id="ATTENDANTS_H8"/>
           <castItem xml:id="ATTENDANTS.0_H8" corresp="#ATTENDANTS_H8"/>
-          <castItem xml:id="Messenger_H8"/>
+          <castItem sameAs="#Messenger_H8"/>
           <castItem xml:id="MASKERS_H8"/>
           <castItem xml:id="SERVANTS_H8"/>
           <castItem xml:id="SERVANTS.0_H8" corresp="#SERVANTS_H8"/>
-          <castItem xml:id="SERVANTS.LARDER.1_H8" corresp="#SERVANTS_H8"/>
-          <castItem xml:id="SERVANTS.X.1_H8" corresp="#SERVANTS_H8"/>
+          <castItem corresp="#SERVANTS_H8" sameAs="#SERVANTS.LARDER.1_H8"/>
+          <castItem corresp="#SERVANTS_H8" sameAs="#SERVANTS.X.1_H8"/>
           <castItem xml:id="COMMONERS_H8"/>
         </castGroup>
       </castList>

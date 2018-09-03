@@ -84,19 +84,19 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    </profileDesc>
+    <particDesc><listPerson><person xml:id="Antonio_MV"><persName>Antonio</persName></person><person xml:id="Salarino_MV"><persName>Salarino</persName></person><person xml:id="Solanio_MV"><persName>Solanio</persName></person><person xml:id="Bassanio_MV"><persName>Bassanio</persName></person><person xml:id="Lorenzo_MV"><persName>Lorenzo</persName></person><person xml:id="Gratiano_MV"><persName>Gratiano</persName></person><person xml:id="Portia_MV"><persName>Portia</persName></person><person xml:id="Nerissa_MV"><persName>Nerissa</persName></person><person xml:id="SERVANTS.1_MV"><persName>SERVANTS.1_MV</persName></person><person xml:id="Shylock_MV"><persName>Shylock</persName></person><person xml:id="Morocco_MV"><persName>Morocco</persName></person><person xml:id="LanceletGobbo_MV"><persName>Lancelet Gobbo</persName></person><person xml:id="OldGobbo_MV"><persName>Old Gobbo</persName></person><person xml:id="ATTENDANTS.BASSANIO.Leonardo_MV"><persName>Leonardo</persName></person><person xml:id="Jessica_MV"><persName>Jessica</persName></person><person xml:id="Arragon_MV"><persName>Arragon</persName></person><person xml:id="Messenger_MV"><persName>Messenger</persName></person><person xml:id="SERVANTS.2_MV"><persName>SERVANTS.2_MV</persName></person><person xml:id="Tubal_MV"><persName>Tubal</persName></person><person xml:id="MUSICIANS_MV"><persName>Musicians</persName></person><person xml:id="Salerio_MV"><persName>Salerio</persName></person><person xml:id="ATTENDANTS.PORTIA.Balthazar_MV"><persName>Balthazar</persName></person><person xml:id="Duke_MV"><persName>Duke_MV</persName></person><person xml:id="ATTENDANTS.PORTIA.Stephano_MV"><persName>Stephano</persName></person></listPerson></particDesc></profileDesc>
   </teiHeader>
   <text>
     <front>
       <castList>
         <castGroup>
-          <castItem xml:id="Portia_MV">
+          <castItem sameAs="#Portia_MV">
             <role>
               <name>Portia</name>
             </role>
             <roleDesc>an heiress of Belmont</roleDesc>
           </castItem>
-          <castItem xml:id="Nerissa_MV">
+          <castItem sameAs="#Nerissa_MV">
             <role>
               <name>Nerissa</name>
             </role>
@@ -104,12 +104,12 @@
           </castItem>
           <castGroup>
             <head>servants to Portia</head>
-            <castItem xml:id="ATTENDANTS.PORTIA.Balthazar_MV" corresp="#ATTENDANTS.PORTIA_MV">
+            <castItem corresp="#ATTENDANTS.PORTIA_MV" sameAs="#ATTENDANTS.PORTIA.Balthazar_MV">
               <role>
                 <name>Balthazar</name>
               </role>
             </castItem>
-            <castItem xml:id="ATTENDANTS.PORTIA.Stephano_MV" corresp="#ATTENDANTS.PORTIA_MV">
+            <castItem corresp="#ATTENDANTS.PORTIA_MV" sameAs="#ATTENDANTS.PORTIA.Stephano_MV">
               <role>
                 <name>Stephano</name>
               </role>
@@ -119,22 +119,22 @@
         <castGroup>
           <castGroup>
             <head>suitors to Portia</head>
-            <castItem xml:id="Morocco_MV">
+            <castItem sameAs="#Morocco_MV">
               <role>Prince of <name>Morocco</name></role>
             </castItem>
-            <castItem xml:id="Arragon_MV">
+            <castItem sameAs="#Arragon_MV">
               <role>Prince of <name>Arragon</name></role>
             </castItem>
           </castGroup>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Antonio_MV">
+          <castItem sameAs="#Antonio_MV">
             <role>
               <name>Antonio</name>
             </role>
             <roleDesc>a merchant of Venice</roleDesc>
           </castItem>
-          <castItem xml:id="Bassanio_MV">
+          <castItem sameAs="#Bassanio_MV">
             <role>
               <name>Bassanio</name>
             </role>
@@ -142,28 +142,28 @@
           </castItem>
           <castGroup>
             <head>companions of Antonio and Bassanio</head>
-            <castItem xml:id="Solanio_MV">
+            <castItem sameAs="#Solanio_MV">
               <role>
                 <name>Solanio</name>
               </role>
             </castItem>
-            <castItem xml:id="Salarino_MV">
+            <castItem sameAs="#Salarino_MV">
               <role>
                 <name>Salarino</name>
               </role>
             </castItem>
-            <castItem xml:id="Gratiano_MV">
+            <castItem sameAs="#Gratiano_MV">
               <role>
                 <name>Gratiano</name>
               </role>
             </castItem>
-            <castItem xml:id="Lorenzo_MV">
+            <castItem sameAs="#Lorenzo_MV">
               <role>
                 <name>Lorenzo</name>
               </role>
             </castItem>
           </castGroup>
-          <castItem xml:id="ATTENDANTS.BASSANIO.Leonardo_MV" corresp="#ATTENDANTS.BASSIANO_MV">
+          <castItem corresp="#ATTENDANTS.BASSIANO_MV" sameAs="#ATTENDANTS.BASSANIO.Leonardo_MV">
             <role>
               <name>Leonardo</name>
             </role>
@@ -171,31 +171,31 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Shylock_MV">
+          <castItem sameAs="#Shylock_MV">
             <role>
               <name>Shylock</name>
             </role>
             <roleDesc>a Jewish moneylender in Venice</roleDesc>
           </castItem>
-          <castItem xml:id="Jessica_MV">
+          <castItem sameAs="#Jessica_MV">
             <role>
               <name>Jessica</name>
             </role>
             <roleDesc><rs ref="#Shylock_MV">his</rs> daughter</roleDesc>
           </castItem>
-          <castItem xml:id="Tubal_MV">
+          <castItem sameAs="#Tubal_MV">
             <role>
               <name>Tubal</name>
             </role>
             <roleDesc>another Jewish moneylender</roleDesc>
           </castItem>
-          <castItem xml:id="LanceletGobbo_MV">
+          <castItem sameAs="#LanceletGobbo_MV">
             <role>
               <name>Lancelet Gobbo</name>
             </role>
             <roleDesc>servant to Shylock and later to Bassanio</roleDesc>
           </castItem>
-          <castItem xml:id="OldGobbo_MV">
+          <castItem sameAs="#OldGobbo_MV">
             <role>
               <name>Old Gobbo</name>
             </role>
@@ -203,7 +203,7 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Salerio_MV">
+          <castItem sameAs="#Salerio_MV">
             <role>
               <name>Salerio</name>
             </role>
@@ -212,7 +212,7 @@
           <castItem xml:id="Jailer_MV">
             <role>Jailer</role>
           </castItem>
-          <castItem xml:id="Duke_MV">
+          <castItem sameAs="#Duke_MV">
             <role>Duke of Venice</role>
           </castItem>
         </castGroup>
@@ -223,8 +223,8 @@
           <castItem xml:id="SERVANTS_MV">
             Servants
           </castItem>
-          <castItem xml:id="SERVANTS.1_MV" corresp="#SERVANTS_MV"/>
-          <castItem xml:id="SERVANTS.2_MV" corresp="#SERVANTS_MV"/>
+          <castItem corresp="#SERVANTS_MV" sameAs="#SERVANTS.1_MV"/>
+          <castItem corresp="#SERVANTS_MV" sameAs="#SERVANTS.2_MV"/>
           <castItem xml:id="ATTENDANTS_MV">
             Attendants and followers
           </castItem>
@@ -235,10 +235,10 @@
           <castItem xml:id="ATTENDANTS.ARRAGON_MV" corresp="#ATTENDANTS_MV"/>
           <castItem xml:id="ATTENDANTS.MOROCCO_MV" corresp="#ATTENDANTS_MV"/>
           <castItem xml:id="ATTENDANTS.DUKE.0_MV" corresp="#ATTENDANTS.DUKE_MV"/>
-          <castItem xml:id="Messenger_MV">
+          <castItem sameAs="#Messenger_MV">
             Messenger
           </castItem>
-          <castItem xml:id="MUSICIANS_MV">
+          <castItem sameAs="#MUSICIANS_MV">
            Musicians
           </castItem>
         </castGroup>

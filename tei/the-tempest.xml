@@ -84,63 +84,63 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    </profileDesc>
+    <particDesc><listPerson><person xml:id="Shipmaster_Tmp"><persName>Shipmaster</persName></person><person xml:id="Boatswain_Tmp"><persName>Boatswain</persName></person><person xml:id="Alonso_Tmp"><persName>Alonso</persName></person><person xml:id="Antonio_Tmp"><persName>Antonio</persName></person><person xml:id="Gonzalo_Tmp"><persName>Gonzalo</persName></person><person xml:id="Sebastian_Tmp"><persName>Sebastian</persName></person><person xml:id="SAILORS_Tmp"><persName>Mariners</persName></person><person xml:id="Miranda_Tmp"><persName>Miranda</persName></person><person xml:id="Prospero_Tmp"><persName>Prospero</persName></person><person xml:id="Ariel_Tmp"><persName>Ariel</persName></person><person xml:id="Caliban_Tmp"><persName>Caliban</persName></person><person xml:id="Ferdinand_Tmp"><persName>Ferdinand</persName></person><person xml:id="Adrian_Tmp"><persName>Adrian</persName></person><person xml:id="Francisco_Tmp"><persName>Francisco</persName></person><person xml:id="Trinculo_Tmp"><persName>Trinculo</persName></person><person xml:id="Stephano_Tmp"><persName>Stephano</persName></person><person xml:id="SPIRITS.Iris_Tmp"><persName>SPIRITS.Iris_Tmp</persName></person><person xml:id="SPIRITS.Ceres_Tmp"><persName>SPIRITS.Ceres_Tmp</persName></person><person xml:id="SPIRITS.Juno_Tmp"><persName>SPIRITS.Juno_Tmp</persName></person></listPerson></particDesc></profileDesc>
   </teiHeader>
   <text>
     <front>
       <castList>
-        <castItem xml:id="Prospero_Tmp">
+        <castItem sameAs="#Prospero_Tmp">
           <role>
             <name>Prospero</name>
           </role>
           <roleDesc>the former duke of Milan, now a magician ona Mediterranean island</roleDesc>
         </castItem>
         <castGroup>
-          <castItem xml:id="Miranda_Tmp">
+          <castItem sameAs="#Miranda_Tmp">
             <role>
               <name>Miranda</name>
             </role>
             <roleDesc>Prospero’s daughter</roleDesc>
           </castItem>
-          <castItem xml:id="Ariel_Tmp">
+          <castItem sameAs="#Ariel_Tmp">
             <role>
               <name>Ariel</name>
             </role>
             <roleDesc>a spirit, servant to Prospero</roleDesc>
           </castItem>
-          <castItem xml:id="Caliban_Tmp">
+          <castItem sameAs="#Caliban_Tmp">
             <role>
               <name>Caliban</name>
             </role>
             <roleDesc>an inhabitant of the island, servant to Prospero</roleDesc>
           </castItem>
         </castGroup>
-        <castItem xml:id="Ferdinand_Tmp">
+        <castItem sameAs="#Ferdinand_Tmp">
           <role>
             <name>Ferdinand</name>
           </role>
           <roleDesc>prince of Naples</roleDesc>
         </castItem>
         <castGroup>
-          <castItem xml:id="Alonso_Tmp">
+          <castItem sameAs="#Alonso_Tmp">
             <role>
               <name>Alonso</name>
             </role>
             <roleDesc>king of Naples</roleDesc>
           </castItem>
-          <castItem xml:id="Antonio_Tmp">
+          <castItem sameAs="#Antonio_Tmp">
             <role>
               <name>Antonio</name>
             </role>
             <roleDesc>duke of Milan and Prospero’s brother</roleDesc>
           </castItem>
-          <castItem xml:id="Sebastian_Tmp">
+          <castItem sameAs="#Sebastian_Tmp">
             <role>
               <name>Sebastian</name>
             </role>
             <roleDesc>Alonso’s brother</roleDesc>
           </castItem>
-          <castItem xml:id="Gonzalo_Tmp">
+          <castItem sameAs="#Gonzalo_Tmp">
             <role>
               <name>Gonzalo</name>
             </role>
@@ -148,12 +148,12 @@
           </castItem>
           <castGroup>
             <head>courtiers in attendance on Alonso</head>
-            <castItem xml:id="Adrian_Tmp">
+            <castItem sameAs="#Adrian_Tmp">
               <role>
                 <name>Adrian</name>
               </role>
             </castItem>
-            <castItem xml:id="Francisco_Tmp">
+            <castItem sameAs="#Francisco_Tmp">
               <role>
                 <name>Francisco</name>
               </role>
@@ -161,13 +161,13 @@
           </castGroup>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Trinculo_Tmp">
+          <castItem sameAs="#Trinculo_Tmp">
             <role>
               <name>Trinculo</name>
             </role>
             <roleDesc>servant to Alonso</roleDesc>
           </castItem>
-          <castItem xml:id="Stephano_Tmp">
+          <castItem sameAs="#Stephano_Tmp">
             <role>
               <name>Stephano</name>
             </role>
@@ -175,17 +175,17 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Shipmaster_Tmp">
+          <castItem sameAs="#Shipmaster_Tmp">
             <role>
               <name>Shipmaster</name>
             </role>
           </castItem>
-          <castItem xml:id="Boatswain_Tmp">
+          <castItem sameAs="#Boatswain_Tmp">
             <role>
               <name>Boatswain</name>
             </role>
           </castItem>
-          <castItem xml:id="SAILORS_Tmp">
+          <castItem sameAs="#SAILORS_Tmp">
             <role>
               <name>Mariners</name>
             </role>
@@ -195,9 +195,9 @@
           <castItem xml:id="SPIRITS_Tmp">
             Players who, as spirits, take the roles of Iris, Ceres, Juno, Nymphs, and Reapers in Prospero’s masque, and who, in other scenes, take the roles of “islanders” and of hunting dogs
           </castItem>
-          <castItem xml:id="SPIRITS.Iris_Tmp" corresp="#SPIRITS_Tmp"/>
-          <castItem xml:id="SPIRITS.Ceres_Tmp" corresp="#SPIRITS_Tmp"/>
-          <castItem xml:id="SPIRITS.Juno_Tmp" corresp="#SPIRITS_Tmp"/>
+          <castItem corresp="#SPIRITS_Tmp" sameAs="#SPIRITS.Iris_Tmp"/>
+          <castItem corresp="#SPIRITS_Tmp" sameAs="#SPIRITS.Ceres_Tmp"/>
+          <castItem corresp="#SPIRITS_Tmp" sameAs="#SPIRITS.Juno_Tmp"/>
           <castItem xml:id="SPIRITS.NYMPHS_Tmp" corresp="#SPIRITS_Tmp"/>
           <castItem xml:id="SPIRITS.REAPERS_Tmp" corresp="#SPIRITS_Tmp"/>
         </castGroup>

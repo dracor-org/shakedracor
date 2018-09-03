@@ -84,27 +84,27 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    </profileDesc>
+    <particDesc><listPerson><person xml:id="Chorus_H5"><persName>Chorus</persName></person><person xml:id="BishopOfCanterbury_H5"><persName>Bishop of Canterbury</persName></person><person xml:id="BishopOfEly_H5"><persName>Bishop of Ely</persName></person><person xml:id="HenryV_H5"><persName>Henry V, King of England</persName></person><person xml:id="Exeter_H5"><persName>Thomas, Duke of Exeter</persName></person><person xml:id="Westmoreland_1H4"><persName>Earl of Westmoreland</persName></person><person xml:id="AMBASSADORS.0.1_H5"><persName>AMBASSADORS.0.1_H5</persName></person><person xml:id="Bardolph_1H4"><persName>Bardolph</persName></person><person xml:id="Nym_H5"><persName>Nym</persName></person><person xml:id="Pistol_2H4"><persName>Pistol</persName></person><person xml:id="MistressQuickly_1H4"><persName>Hostess Quickly</persName></person><person xml:id="Boy_H5"><persName>Boy</persName></person><person xml:id="Bedford_H5"><persName>John, Duke of Bedford</persName></person><person xml:id="Scroop_H5"><persName>Lord Scroop of Masham</persName></person><person xml:id="Cambridge_H5"><persName>Earl of Cambridge</persName></person><person xml:id="Grey_H5"><persName>Sir Thomas Grey</persName></person><person xml:id="KingOfFrance_H5"><persName>King of France</persName></person><person xml:id="Dauphin_H5"><persName>Dauphin</persName></person><person xml:id="Constable_H5"><persName>Constable of France</persName></person><person xml:id="MESSENGERS.X.1_H5"><persName>Lords, Attendants, Soldiers, French Prisoners, Messengers</persName></person><person xml:id="Fluellen_H5"><persName>Captain Fluellen</persName></person><person xml:id="Gower_H5"><persName>Captain Gower</persName></person><person xml:id="Jamy_H5"><persName>Captain Jamy</persName></person><person xml:id="MacMorris_H5"><persName>Captain MacMorris</persName></person><person xml:id="Governor_H5"><persName>Governor_H5</persName></person><person xml:id="Katherine_H5"><persName>Katherine</persName></person><person xml:id="Alice_H5"><persName>Alice</persName></person><person xml:id="Brittany_H5"><persName>Duke of Brittany</persName></person><person xml:id="Montjoy_H5"><persName>Montjoy</persName></person><person xml:id="Gloucester_2H4"><persName>Humphrey, Duke of Gloucester</persName></person><person xml:id="Orleans_H5"><persName>Duke of Orléans</persName></person><person xml:id="Rambures_H5"><persName>Lord Rambures</persName></person><person xml:id="MESSENGERS.X.2_H5"><persName>Lords, Attendants, Soldiers, French Prisoners, Messengers</persName></person><person xml:id="Erpingham_H5"><persName>Sir Thomas Erpingham</persName></person><person xml:id="SOLDIERS.ENGLISH.Court_H5"><persName>Alexander Court</persName></person><person xml:id="SOLDIERS.ENGLISH.Bates_H5"><persName>John Bates</persName></person><person xml:id="SOLDIERS.ENGLISH.Williams_H5"><persName>Michael Williams</persName></person><person xml:id="MESSENGERS.X.3_H5"><persName>Lords, Attendants, Soldiers, French Prisoners, Messengers</persName></person><person xml:id="Grandpre_H5"><persName>Lord Grandpré</persName></person><person xml:id="Salisbury_H5"><persName>Earl of Salisbury</persName></person><person xml:id="York_H5"><persName>Duke of York</persName></person><person xml:id="SOLDIERS.FRENCH.LeFer_H5"><persName>Monsieur Le Fer</persName></person><person xml:id="Bourbon_H5"><persName>Duke of Bourbon</persName></person><person xml:id="Warwick_2H4"><persName>Earl of Warwick</persName></person><person xml:id="HERALDS.1_H5"><persName>HERALDS.1_H5</persName></person><person xml:id="QueenOfFrance_H5"><persName>Queen Isabel of France</persName></person><person xml:id="Burgundy_H5"><persName>Duke of Burgundy</persName></person><person xml:id="ATTENDANTS.ENGLISH_H5"><persName>Lords, Attendants, Soldiers, French Prisoners, Messengers</persName></person></listPerson></particDesc></profileDesc>
   </teiHeader>
   <text>
     <front>
       <castList>
         <castGroup>
-          <castItem xml:id="Chorus_H5">
+          <castItem sameAs="#Chorus_H5">
             <role>
               <name>Chorus</name>
             </role>
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="HenryV_H5">
+          <castItem sameAs="#HenryV_H5">
             <role>
               <name>Henry V, King of England</name>
             </role>
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Exeter_H5">
+          <castItem sameAs="#Exeter_H5">
             <role>
               <name>Thomas, Duke of Exeter</name>
             </role>
@@ -114,12 +114,12 @@
         <castGroup>
           <castGroup>
             <head>brothers to <rs ref="#HenryV_H5">the King</rs></head>
-            <castItem xml:id="Gloucester_2H4">
+            <castItem sameAs="#Gloucester_2H4">
               <role>
                 <name>Humphrey, Duke of Gloucester</name>
               </role>
             </castItem>
-            <castItem xml:id="Bedford_H5">
+            <castItem sameAs="#Bedford_H5">
               <role>
                 <name>John, Duke of Bedford</name>
               </role>
@@ -134,17 +134,17 @@
         <castGroup>
           <castGroup>
             <head>cousins to <rs ref="#HenryV_H5">the King</rs></head>
-            <castItem xml:id="York_H5">
+            <castItem sameAs="#York_H5">
               <role>
                 <name>Duke of York</name>
               </role>
             </castItem>
-            <castItem xml:id="Westmoreland_1H4">
+            <castItem sameAs="#Westmoreland_1H4">
               <role>
                 <name>Earl of Westmoreland</name>
               </role>
             </castItem>
-            <castItem xml:id="Cambridge_H5">
+            <castItem sameAs="#Cambridge_H5">
               <role>
                 <name>Earl of Cambridge</name>
               </role>
@@ -154,12 +154,12 @@
         <castGroup>
           <castGroup>
             <head>English nobles</head>
-            <castItem xml:id="Warwick_2H4">
+            <castItem sameAs="#Warwick_2H4">
               <role>
                 <name>Earl of Warwick</name>
               </role>
             </castItem>
-            <castItem xml:id="Salisbury_H5">
+            <castItem sameAs="#Salisbury_H5">
               <role>
                 <name>Earl of Salisbury</name>
               </role>
@@ -169,20 +169,20 @@
                 <name>Earl of Huntington</name>
               </role>
             </castItem>
-            <castItem xml:id="Scroop_H5">
+            <castItem sameAs="#Scroop_H5">
               <role>
                 <name>Lord Scroop of Masham</name>
               </role>
             </castItem>
           </castGroup>
-          <castItem xml:id="Grey_H5">
+          <castItem sameAs="#Grey_H5">
             <role>
               <name>Sir Thomas Grey</name>
             </role>
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="MistressQuickly_1H4">
+          <castItem sameAs="#MistressQuickly_1H4">
             <role>
               <name>Hostess Quickly</name>
             </role>
@@ -191,23 +191,23 @@
         <castGroup>
           <castGroup>
             <head>former companions of <rs ref="#HenryV_H5">Henry</rs>, now in his army</head>
-            <castItem xml:id="Pistol_2H4">
+            <castItem sameAs="#Pistol_2H4">
               <role>
                 <name>Pistol</name>
               </role>
             </castItem>
-            <castItem xml:id="Nym_H5">
+            <castItem sameAs="#Nym_H5">
               <role>
                 <name>Nym</name>
               </role>
             </castItem>
-            <castItem xml:id="Bardolph_1H4">
+            <castItem sameAs="#Bardolph_1H4">
               <role>
                 <name>Bardolph</name>
               </role>
             </castItem>
           </castGroup>
-          <castItem xml:id="Boy_H5">
+          <castItem sameAs="#Boy_H5">
             <role>
               <name>Boy</name>
             </role>
@@ -217,27 +217,27 @@
         <castGroup>
           <castGroup>
             <head>officers in <rs ref="HENRY_V">Henry’s</rs> army</head>
-            <castItem xml:id="Erpingham_H5">
+            <castItem sameAs="#Erpingham_H5">
               <role>
                 <name>Sir Thomas Erpingham</name>
               </role>
             </castItem>
-            <castItem xml:id="Fluellen_H5">
+            <castItem sameAs="#Fluellen_H5">
               <role>
                 <name>Captain Fluellen</name>
               </role>
             </castItem>
-            <castItem xml:id="Gower_H5">
+            <castItem sameAs="#Gower_H5">
               <role>
                 <name>Captain Gower</name>
               </role>
             </castItem>
-            <castItem xml:id="MacMorris_H5">
+            <castItem sameAs="#MacMorris_H5">
               <role>
                 <name>Captain MacMorris</name>
               </role>
             </castItem>
-            <castItem xml:id="Jamy_H5">
+            <castItem sameAs="#Jamy_H5">
               <role>
                 <name>Captain Jamy</name>
               </role>
@@ -248,22 +248,22 @@
           <castItem xml:id="HERALDS_H5">
       English heralds
     </castItem>
-          <castItem xml:id="HERALDS.1_H5" corresp="#HERALDS_H5"/>
+          <castItem corresp="#HERALDS_H5" sameAs="#HERALDS.1_H5"/>
         </castGroup>
         <castGroup>
           <castGroup>
             <head>soldiers in <rs ref="HENRY_V">Henry’s</rs> army</head>
-            <castItem xml:id="SOLDIERS.ENGLISH.Bates_H5" corresp="#SOLDIERS.ENGLISH_H5">
+            <castItem corresp="#SOLDIERS.ENGLISH_H5" sameAs="#SOLDIERS.ENGLISH.Bates_H5">
               <role>
                 <name>John Bates</name>
               </role>
             </castItem>
-            <castItem xml:id="SOLDIERS.ENGLISH.Court_H5" corresp="#SOLDIERS.ENGLISH_H5">
+            <castItem corresp="#SOLDIERS.ENGLISH_H5" sameAs="#SOLDIERS.ENGLISH.Court_H5">
               <role>
                 <name>Alexander Court</name>
               </role>
             </castItem>
-            <castItem xml:id="SOLDIERS.ENGLISH.Williams_H5" corresp="#SOLDIERS.ENGLISH_H5">
+            <castItem corresp="#SOLDIERS.ENGLISH_H5" sameAs="#SOLDIERS.ENGLISH.Williams_H5">
               <role>
                 <name>Michael Williams</name>
               </role>
@@ -271,41 +271,41 @@
           </castGroup>
         </castGroup>
         <castGroup>
-          <castItem xml:id="BishopOfCanterbury_H5">
+          <castItem sameAs="#BishopOfCanterbury_H5">
             <role>
               <name>Bishop of Canterbury</name>
             </role>
           </castItem>
-          <castItem xml:id="BishopOfEly_H5">
+          <castItem sameAs="#BishopOfEly_H5">
             <role>
               <name>Bishop of Ely</name>
             </role>
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="KingOfFrance_H5">
+          <castItem sameAs="#KingOfFrance_H5">
             <role>
               <name>King of France</name>
             </role>
           </castItem>
-          <castItem xml:id="QueenOfFrance_H5">
+          <castItem sameAs="#QueenOfFrance_H5">
             <role>
               <name>Queen Isabel of France</name>
             </role>
           </castItem>
-          <castItem xml:id="Katherine_H5">
+          <castItem sameAs="#Katherine_H5">
             <role>
               <name>Katherine</name>
             </role>
             <roleDesc>Princess of France</roleDesc>
           </castItem>
-          <castItem xml:id="Alice_H5">
+          <castItem sameAs="#Alice_H5">
             <role>
               <name>Alice</name>
             </role>
             <roleDesc>a gentlewoman attending on <rs ref="#Katherine_H5">Katherine</rs></roleDesc>
           </castItem>
-          <castItem xml:id="Dauphin_H5">
+          <castItem sameAs="#Dauphin_H5">
             <role><name>Dauphin</name> (i.e., Prince) of France</role>
           </castItem>
         </castGroup>
@@ -317,37 +317,37 @@
                 <name>Duke of Berri</name>
               </role>
             </castItem>
-            <castItem xml:id="Brittany_H5">
+            <castItem sameAs="#Brittany_H5">
               <role>
                 <name>Duke of Brittany</name>
               </role>
             </castItem>
-            <castItem xml:id="Orleans_H5">
+            <castItem sameAs="#Orleans_H5">
               <role>
                 <name>Duke of Orléans</name>
               </role>
             </castItem>
-            <castItem xml:id="Bourbon_H5">
+            <castItem sameAs="#Bourbon_H5">
               <role>
                 <name>Duke of Bourbon</name>
               </role>
             </castItem>
-            <castItem xml:id="Burgundy_H5">
+            <castItem sameAs="#Burgundy_H5">
               <role>
                 <name>Duke of Burgundy</name>
               </role>
             </castItem>
-            <castItem xml:id="Constable_H5">
+            <castItem sameAs="#Constable_H5">
               <role>
                 <name>Constable of France</name>
               </role>
             </castItem>
-            <castItem xml:id="Grandpre_H5">
+            <castItem sameAs="#Grandpre_H5">
               <role>
                 <name>Lord Grandpré</name>
               </role>
             </castItem>
-            <castItem xml:id="Rambures_H5">
+            <castItem sameAs="#Rambures_H5">
               <role>
                 <name>Lord Rambures</name>
               </role>
@@ -360,7 +360,7 @@
           </castGroup>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Montjoy_H5">
+          <castItem sameAs="#Montjoy_H5">
             <role>
               <name>Montjoy</name>
             </role>
@@ -369,10 +369,10 @@
           <castItem xml:id="AMBASSADORS_H5">
             <role>French ambassadors to England</role>
           </castItem>
-          <castItem xml:id="AMBASSADORS.0.1_H5" corresp="#AMBASSADORS_H5"/>
+          <castItem corresp="#AMBASSADORS_H5" sameAs="#AMBASSADORS.0.1_H5"/>
         </castGroup>
         <castGroup>
-          <castItem xml:id="SOLDIERS.FRENCH.LeFer_H5" corresp="#SOLDIERS.FRENCH_H5">
+          <castItem corresp="#SOLDIERS.FRENCH_H5" sameAs="#SOLDIERS.FRENCH.LeFer_H5">
             <role>
               <name>Monsieur Le Fer</name>
             </role>
@@ -380,23 +380,23 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Governor_H5">
+          <castItem sameAs="#Governor_H5">
             <role>Governor of Harfleur</role>
           </castItem>
         </castGroup>
         <castGroup>
           <head>Lords, Attendants, Soldiers, French Prisoners, Messengers</head>
           <castItem xml:id="ATTENDANTS_H5"/>
-          <castItem xml:id="ATTENDANTS.ENGLISH_H5" corresp="#ATTENDANTS_H5"/>
+          <castItem corresp="#ATTENDANTS_H5" sameAs="#ATTENDANTS.ENGLISH_H5"/>
           <castItem xml:id="ATTENDANTS.ENGLISH.0_H5" corresp="#ATTENDANTS.ENGLISH_H5"/>
           <castItem xml:id="ATTENDANTS.FRENCH_H5" corresp="#ATTENDANTS_H5"/>
           <castItem xml:id="SOLDIERS_H5"/>
           <castItem xml:id="SOLDIERS.ENGLISH_H5" corresp="#SOLDIERS_H5"/>
           <castItem xml:id="SOLDIERS.FRENCH_H5" corresp="#SOLDIERS_H5"/>
           <castItem xml:id="MESSENGERS_H5"/>
-          <castItem xml:id="MESSENGERS.X.1_H5" corresp="#MESSENGERS_H5"/>
-          <castItem xml:id="MESSENGERS.X.2_H5" corresp="#MESSENGERS_H5"/>
-          <castItem xml:id="MESSENGERS.X.3_H5" corresp="#MESSENGERS_H5"/>
+          <castItem corresp="#MESSENGERS_H5" sameAs="#MESSENGERS.X.1_H5"/>
+          <castItem corresp="#MESSENGERS_H5" sameAs="#MESSENGERS.X.2_H5"/>
+          <castItem corresp="#MESSENGERS_H5" sameAs="#MESSENGERS.X.3_H5"/>
         </castGroup>
       </castList>
     </front>

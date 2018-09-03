@@ -84,30 +84,30 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    </profileDesc>
+    <particDesc><listPerson><person xml:id="Barnardo_Ham"><persName>Barnardo</persName></person><person xml:id="Francisco_Ham"><persName>Francisco</persName></person><person xml:id="Horatio_Ham"><persName>Horatio</persName></person><person xml:id="Marcellus_Ham"><persName>Marcellus</persName></person><person xml:id="Claudius_Ham"><persName>King Claudius</persName></person><person xml:id="Cornelius_Ham"><persName>Cornelius</persName></person><person xml:id="Voltemand_Ham"><persName>Voltemand</persName></person><person xml:id="Laertes_Ham"><persName>Laertes</persName></person><person xml:id="Polonius_Ham"><persName>Polonius</persName></person><person xml:id="Hamlet_Ham"><persName>Hamlet</persName></person><person xml:id="Gertrude_Ham"><persName>Queen Gertrude</persName></person><person xml:id="Ophelia_Ham"><persName>Ophelia</persName></person><person xml:id="Ghost_Ham"><persName>The Ghost</persName></person><person xml:id="Reynaldo_Ham"><persName>Reynaldo</persName></person><person xml:id="Rosencrantz_Ham"><persName>Rosencrantz</persName></person><person xml:id="Guildenstern_Ham"><persName>Guildenstern</persName></person><person xml:id="PLAYERS.1_Ham"><persName>PLAYERS.1_Ham</persName></person><person xml:id="PLAYERS.0.1_Ham"><persName>PLAYERS.0.1_Ham</persName></person><person xml:id="PLAYERS.Prologue_Ham"><persName>PLAYERS.Prologue_Ham</persName></person><person xml:id="PLAYERS.King_Ham"><persName>PLAYERS.King_Ham</persName></person><person xml:id="PLAYERS.Queen_Ham"><persName>PLAYERS.Queen_Ham</persName></person><person xml:id="PLAYERS.Lucianus_Ham"><persName>PLAYERS.Lucianus_Ham</persName></person><person xml:id="ATTENDANTS.GUARDS_Ham"><persName>Attendants, Lords, Guards, Musicians, Laertes’s Followers, Soldiers, Officers</persName></person><person xml:id="Fortinbras_Ham"><persName>Fortinbras</persName></person><person xml:id="SOLDIERS.FORTINBRAS.Captain_Ham"><persName>SOLDIERS.FORTINBRAS.Captain_Ham</persName></person><person xml:id="ATTENDANTS.1_Ham"><persName>courtiers at the Danish court</persName></person><person xml:id="MESSENGERS.1_Ham"><persName>MESSENGERS.1_Ham</persName></person><person xml:id="FOLLOWERS.LAERTES_Ham"><persName>Attendants, Lords, Guards, Musicians, Laertes’s Followers, Soldiers, Officers</persName></person><person xml:id="ATTENDANTS.0.1_Ham"><persName>Attendants, Lords, Guards, Musicians, Laertes’s Followers, Soldiers, Officers</persName></person><person xml:id="SAILORS.0.1_Ham"><persName>SAILORS.0.1_Ham</persName></person><person xml:id="MESSENGERS.2_Ham"><persName>MESSENGERS.2_Ham</persName></person><person xml:id="Gravedigger_Ham"><persName>Gravedigger_Ham</persName></person><person xml:id="GravediggersCompanion_Ham"><persName>GravediggersCompanion_Ham</persName></person><person xml:id="Doctor_Ham"><persName>Doctor_Ham</persName></person><person xml:id="ATTENDANTS_Ham"><persName>Attendants, Lords, Guards, Musicians, Laertes’s Followers, Soldiers, Officers</persName></person><person xml:id="Osric_Ham"><persName>Osric</persName></person><person xml:id="ATTENDANTS.2_Ham"><persName>courtiers at the Danish court</persName></person><person xml:id="AMBASSADORS_Ham"><persName>Ambassadors to Denmark from England</persName></person></listPerson></particDesc></profileDesc>
   </teiHeader>
   <text>
     <front>
       <castList>
         <castGroup>
-          <castItem xml:id="Ghost_Ham">
+          <castItem sameAs="#Ghost_Ham">
             <role>
               <name>The Ghost</name>
             </role>
           </castItem>
-          <castItem xml:id="Hamlet_Ham">
+          <castItem sameAs="#Hamlet_Ham">
             <role>
               <name>Hamlet</name>
             </role>
             <roleDesc>Prince of Denmark, son of the late King Hamletand Queen Gertrude</roleDesc>
           </castItem>
-          <castItem xml:id="Gertrude_Ham">
+          <castItem sameAs="#Gertrude_Ham">
             <role>
               <name>Queen Gertrude</name>
             </role>
             <roleDesc>widow of King Hamlet, now married to Claudius</roleDesc>
           </castItem>
-          <castItem xml:id="Claudius_Ham">
+          <castItem sameAs="#Claudius_Ham">
             <role>
               <name>King Claudius</name>
             </role>
@@ -115,24 +115,24 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Ophelia_Ham">
+          <castItem sameAs="#Ophelia_Ham">
             <role>
               <name>Ophelia</name>
             </role>
           </castItem>
-          <castItem xml:id="Laertes_Ham">
+          <castItem sameAs="#Laertes_Ham">
             <role>
               <name>Laertes</name>
             </role>
             <roleDesc><rs ref="#Ophelia_Ham">her</rs> brother</roleDesc>
           </castItem>
-          <castItem xml:id="Polonius_Ham">
+          <castItem sameAs="#Polonius_Ham">
             <role>
               <name>Polonius</name>
             </role>
             <roleDesc>father of Ophelia and Laertes, councillor to King Claudius</roleDesc>
           </castItem>
-          <castItem xml:id="Reynaldo_Ham">
+          <castItem sameAs="#Reynaldo_Ham">
             <role>
               <name>Reynaldo</name>
             </role>
@@ -140,7 +140,7 @@
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Horatio_Ham">
+          <castItem sameAs="#Horatio_Ham">
             <role>
               <name>Horatio</name>
             </role>
@@ -150,27 +150,27 @@
         <castGroup>
           <castGroup>
             <head>courtiers at the Danish court</head>
-            <castItem xml:id="Voltemand_Ham">
+            <castItem sameAs="#Voltemand_Ham">
               <role>
                 <name>Voltemand</name>
               </role>
             </castItem>
-            <castItem xml:id="Cornelius_Ham">
+            <castItem sameAs="#Cornelius_Ham">
               <role>
                 <name>Cornelius</name>
               </role>
             </castItem>
-            <castItem xml:id="Rosencrantz_Ham">
+            <castItem sameAs="#Rosencrantz_Ham">
               <role>
                 <name>Rosencrantz</name>
               </role>
             </castItem>
-            <castItem xml:id="Guildenstern_Ham">
+            <castItem sameAs="#Guildenstern_Ham">
               <role>
                 <name>Guildenstern</name>
               </role>
             </castItem>
-            <castItem xml:id="Osric_Ham">
+            <castItem sameAs="#Osric_Ham">
               <role>
                 <name>Osric</name>
               </role>
@@ -178,8 +178,8 @@
             <castItem xml:id="ATTENDANTS.GENTLEMEN_Ham" corresp="#ATTENDANTS_Ham">
               Gentlemen
             </castItem>
-            <castItem xml:id="ATTENDANTS.1_Ham" corresp="#ATTENDANTS_Ham"/>
-            <castItem xml:id="ATTENDANTS.2_Ham" corresp="#ATTENDANTS_Ham">
+            <castItem corresp="#ATTENDANTS_Ham" sameAs="#ATTENDANTS.1_Ham"/>
+            <castItem corresp="#ATTENDANTS_Ham" sameAs="#ATTENDANTS.2_Ham">
               <role>A Lord</role>
             </castItem>
           </castGroup>
@@ -187,17 +187,17 @@
         <castGroup>
           <castGroup>
             <head>Danish soldiers</head>
-            <castItem xml:id="Francisco_Ham">
+            <castItem sameAs="#Francisco_Ham">
               <role>
                 <name>Francisco</name>
               </role>
             </castItem>
-            <castItem xml:id="Barnardo_Ham">
+            <castItem sameAs="#Barnardo_Ham">
               <role>
                 <name>Barnardo</name>
               </role>
             </castItem>
-            <castItem xml:id="Marcellus_Ham">
+            <castItem sameAs="#Marcellus_Ham">
               <role>
                 <name>Marcellus</name>
               </role>
@@ -205,18 +205,18 @@
           </castGroup>
         </castGroup>
         <castGroup>
-          <castItem xml:id="Fortinbras_Ham">
+          <castItem sameAs="#Fortinbras_Ham">
             <role>
               <name>Fortinbras</name>
             </role>
             <roleDesc>Prince of Norway</roleDesc>
           </castItem>
-          <castItem xml:id="SOLDIERS.FORTINBRAS.Captain_Ham" corresp="#SOLDIERS.FORTINBRAS_Ham">
+          <castItem corresp="#SOLDIERS.FORTINBRAS_Ham" sameAs="#SOLDIERS.FORTINBRAS.Captain_Ham">
             <role>A Captain in Fortinbras’s army</role>
           </castItem>
         </castGroup>
         <castGroup>
-          <castItem xml:id="AMBASSADORS_Ham">
+          <castItem sameAs="#AMBASSADORS_Ham">
            Ambassadors to Denmark from England
           </castItem>
         </castGroup>
@@ -224,42 +224,42 @@
           <castItem xml:id="PLAYERS_Ham">
            Players who take the roles of Prologue, Player King, Player Queen, and Lucianus in <title>The Murder of Gonzago</title>
           </castItem>
-          <castItem xml:id="PLAYERS.0.1_Ham" corresp="#PLAYERS_Ham"/>
-          <castItem xml:id="PLAYERS.1_Ham" corresp="#PLAYERS_Ham"/>
-          <castItem xml:id="PLAYERS.King_Ham" corresp="#PLAYERS_Ham"/>
-          <castItem xml:id="PLAYERS.Queen_Ham" corresp="#PLAYERS_Ham"/>
-          <castItem xml:id="PLAYERS.Prologue_Ham" corresp="#PLAYERS_Ham"/>
-          <castItem xml:id="PLAYERS.Lucianus_Ham" corresp="#PLAYERS_Ham"/>
+          <castItem corresp="#PLAYERS_Ham" sameAs="#PLAYERS.0.1_Ham"/>
+          <castItem corresp="#PLAYERS_Ham" sameAs="#PLAYERS.1_Ham"/>
+          <castItem corresp="#PLAYERS_Ham" sameAs="#PLAYERS.King_Ham"/>
+          <castItem corresp="#PLAYERS_Ham" sameAs="#PLAYERS.Queen_Ham"/>
+          <castItem corresp="#PLAYERS_Ham" sameAs="#PLAYERS.Prologue_Ham"/>
+          <castItem corresp="#PLAYERS_Ham" sameAs="#PLAYERS.Lucianus_Ham"/>
         </castGroup>
         <castGroup>
           <castItem xml:id="MESSENGERS_Ham">
             Two Messengers
           </castItem>
-          <castItem xml:id="MESSENGERS.1_Ham" corresp="#MESSENGERS_Ham"/>
-          <castItem xml:id="MESSENGERS.2_Ham" corresp="#MESSENGERS_Ham"/>
+          <castItem corresp="#MESSENGERS_Ham" sameAs="#MESSENGERS.1_Ham"/>
+          <castItem corresp="#MESSENGERS_Ham" sameAs="#MESSENGERS.2_Ham"/>
           <castGroup>
             <castItem xml:id="SAILORS_Ham">
               Sailors
             </castItem>
-            <castItem xml:id="SAILORS.0.1_Ham" corresp="#SAILORS_Ham"/>
+            <castItem corresp="#SAILORS_Ham" sameAs="#SAILORS.0.1_Ham"/>
           </castGroup>
-          <castItem xml:id="Gravedigger_Ham">
+          <castItem sameAs="#Gravedigger_Ham">
             <role>Gravedigger</role>
           </castItem>
-          <castItem xml:id="GravediggersCompanion_Ham">
+          <castItem sameAs="#GravediggersCompanion_Ham">
             <role>Gravedigger’s companion</role>
           </castItem>
-          <castItem xml:id="Doctor_Ham">
+          <castItem sameAs="#Doctor_Ham">
             <role>Doctor of Divinity</role>
           </castItem>
         </castGroup>
         <castGroup>
           <head>Attendants, Lords, Guards, Musicians, Laertes’s Followers, Soldiers, Officers</head>
-          <castItem xml:id="ATTENDANTS_Ham"/>
+          <castItem sameAs="#ATTENDANTS_Ham"/>
           <castItem xml:id="ATTENDANTS.0_Ham" corresp="#ATTENDANTS_Ham"/>
-          <castItem xml:id="ATTENDANTS.0.1_Ham" corresp="#ATTENDANTS_Ham"/>
-          <castItem xml:id="ATTENDANTS.GUARDS_Ham"/>
-          <castItem xml:id="FOLLOWERS.LAERTES_Ham"/>
+          <castItem corresp="#ATTENDANTS_Ham" sameAs="#ATTENDANTS.0.1_Ham"/>
+          <castItem sameAs="#ATTENDANTS.GUARDS_Ham"/>
+          <castItem sameAs="#FOLLOWERS.LAERTES_Ham"/>
           <castItem xml:id="SOLDIERS_Ham"/>
           <castItem xml:id="SOLDIERS.FORTINBRAS_Ham" corresp="#SOLDIERS_Ham"/>
         </castGroup>
