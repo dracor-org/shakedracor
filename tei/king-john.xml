@@ -88,90 +88,90 @@
       </langUsage>
       <particDesc>
         <listPerson>
-          <person xml:id="KingJohn_Jn">
+          <person xml:id="KingJohn_Jn" ana="http://www.wikidata.org/entity/Q129308">
             <persName>John</persName>
           </person>
-          <person xml:id="Chatillion_Jn">
+          <person xml:id="Chatillion_Jn" sex="MALE">
             <persName>Chatillion</persName>
           </person>
-          <person xml:id="QueenEleanor_Jn">
+          <person xml:id="QueenEleanor_Jn" ana="http://www.wikidata.org/entity/Q178525">
             <persName>Queen Eleanor</persName>
           </person>
-          <person xml:id="Essex_Jn">
+          <person xml:id="Essex_Jn" ana="http://www.wikidata.org/entity/Q5534602">
             <persName>Earl of Essex</persName>
           </person>
-          <person xml:id="Bastard_Jn">
+          <person xml:id="Bastard_Jn" ana="http://www.wikidata.org/entity/Q1405919">
             <persName>Bastard Philip Faulconbridge</persName>
             <persName>Bastard Philip Faulconbridge</persName>
           </person>
-          <person xml:id="RobertFaulconbridge_Jn">
+          <person xml:id="RobertFaulconbridge_Jn" ana="http://www.wikidata.org/entity/Q3438706">
             <persName>Robert Faulconbridge</persName>
           </person>
-          <person xml:id="LadyFaulconbridge_Jn">
+          <person xml:id="LadyFaulconbridge_Jn" sex="FEMALE">
             <persName>Lady Faulconbridge</persName>
           </person>
-          <person xml:id="Gurney_Jn">
+          <person xml:id="Gurney_Jn" sex="MALE">
             <persName>James Gurney</persName>
           </person>
-          <person xml:id="Dauphin_Jn">
+          <person xml:id="Dauphin_Jn" sex="MALE">
             <persName>Louis the Dauphin</persName>
           </person>
-          <person xml:id="Arthur_Jn">
+          <person xml:id="Arthur_Jn" ana="http://www.wikidata.org/entity/Q45792">
             <persName>Arthur</persName>
           </person>
-          <person xml:id="Austria_Jn">
+          <person xml:id="Austria_Jn" sex="MALE">
             <persName>Duke of Austria Limoges</persName>
             <persName>Duke of Austria Limoges</persName>
           </person>
-          <person xml:id="Constance_Jn">
+          <person xml:id="Constance_Jn" ana="http://www.wikidata.org/entity/Q234317">
             <persName>Constance</persName>
           </person>
-          <person xml:id="KingPhilip_Jn">
+          <person xml:id="KingPhilip_Jn" ana="http://www.wikidata.org/entity/Q34428">
             <persName>King Philip II</persName>
           </person>
-          <person xml:id="Blanche_Jn">
+          <person xml:id="Blanche_Jn" ana="http://www.wikidata.org/entity/Q353">
             <persName>Blanche</persName>
           </person>
-          <person xml:id="CITIZENS.0.1_Jn">
+          <person xml:id="CITIZENS.0.1_Jn" sex="UNKNOWN">
             <persName>Citizen</persName>
           </person>
-          <person xml:id="HERALDS.FRENCH_Jn">
+          <person xml:id="HERALDS.FRENCH_Jn" sex="MALE">
             <persName>French Herald</persName>
           </person>
-          <person xml:id="HERALDS.ENGLISH_Jn">
+          <person xml:id="HERALDS.ENGLISH_Jn" sex="MALE">
             <persName>English Herald</persName>
           </person>
-          <person xml:id="Salisbury_Jn">
+          <person xml:id="Salisbury_Jn" sex="MALE">
             <persName>Earl of Salisbury</persName>
           </person>
-          <person xml:id="Pandulph_Jn">
+          <person xml:id="Pandulph_Jn" sex="MALE">
             <persName>Cardinal Pandulph</persName>
           </person>
-          <person xml:id="Hubert_Jn">
+          <person xml:id="Hubert_Jn" ana="http://www.wikidata.org/entity/Q1381324">
             <persName>Hubert</persName>
           </person>
-          <person xml:id="EXECUTIONERS.0.1_Jn">
-            <persName>EXECUTIONERS.0.1_Jn</persName>
-          </person>
-          <person xml:id="Pembroke_Jn">
+          <personGrp xml:id="EXECUTIONERS.0.1_Jn" sex="UNKNOWN">
+            <name>EXECUTIONERS.0.1_Jn</name>
+          </personGrp>
+          <person xml:id="Pembroke_Jn" ana="http://www.wikidata.org/entity/Q348911">
             <persName>Earl of Pembroke</persName>
           </person>
-          <person xml:id="MESSENGERS.ENGLISH.1_Jn">
-            <persName>English Messenger, French Messenger, Sheriff, Lords, Soldiers, Attendants</persName>
-          </person>
-          <person xml:id="Peter_Jn">
+          <personGrp xml:id="MESSENGERS.ENGLISH.1_Jn" sex="UNKNOWN">
+            <name>English Messenger, French Messenger, Sheriff, Lords, Soldiers, Attendants</name>
+          </personGrp>
+          <person xml:id="Peter_Jn" sex="MALE">
             <persName>Peter</persName>
           </person>
-          <person xml:id="Bigot_Jn">
+          <person xml:id="Bigot_Jn" ana="http://www.wikidata.org/entity/Q3438706">
             <persName>Lord Bigot</persName>
           </person>
-          <person xml:id="Melun_Jn">
+          <person xml:id="Melun_Jn" sex="MALE">
             <persName>Count Melun</persName>
           </person>
-          <person xml:id="MESSENGERS.FRENCH.1_Jn">
-            <persName>English Messenger, French Messenger, Sheriff, Lords, Soldiers, Attendants</persName>
-          </person>
-          <person xml:id="PrinceHenry_Jn">
+          <personGrp xml:id="MESSENGERS.FRENCH.1_Jn" sex="UNKNOWN">
+            <name>English Messenger, French Messenger, Sheriff, Lords, Soldiers, Attendants</name>
+          </personGrp>
+          <person xml:id="PrinceHenry_Jn" ana="http://www.wikidata.org/entity/Q160311">
             <persName>Prince Henry</persName>
           </person>
         </listPerson>

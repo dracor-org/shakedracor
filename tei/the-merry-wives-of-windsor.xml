@@ -88,75 +88,75 @@
       </langUsage>
       <particDesc>
         <listPerson>
-          <person xml:id="Shallow_2H4">
+          <person xml:id="Shallow_2H4" sex="MALE">
             <persName>Shallow</persName>
           </person>
-          <person xml:id="Slender_Wiv">
+          <person xml:id="Slender_Wiv" sex="MALE">
             <persName>Slender</persName>
           </person>
-          <person xml:id="HughEvans_Wiv">
+          <person xml:id="HughEvans_Wiv" sex="MALE">
             <persName>Sir Hugh</persName>
           </person>
-          <person xml:id="MasterPage_Wiv">
+          <person xml:id="MasterPage_Wiv" sex="MALE">
             <persName>Page</persName>
           </person>
-          <person xml:id="Falstaff_1H4">
+          <person xml:id="Falstaff_1H4" sex="MALE">
             <persName>Falstaff</persName>
           </person>
-          <person xml:id="Bardolph_1H4">
+          <person xml:id="Bardolph_1H4" sex="MALE">
             <persName>Bardolph</persName>
           </person>
-          <person xml:id="Pistol_2H4">
+          <person xml:id="Pistol_2H4" sex="MALE">
             <persName>Pistol</persName>
           </person>
-          <person xml:id="Nym_H5">
+          <person xml:id="Nym_H5" sex="MALE">
             <persName>Nym</persName>
           </person>
-          <person xml:id="Simple_Wiv">
+          <person xml:id="Simple_Wiv" sex="MALE">
             <persName>Simple</persName>
           </person>
-          <person xml:id="AnnePage_Wiv">
+          <person xml:id="AnnePage_Wiv" sex="FEMALE">
             <persName>Anne</persName>
           </person>
-          <person xml:id="Host_Wiv">
+          <person xml:id="Host_Wiv" sex="MALE">
             <persName>Host</persName>
           </person>
-          <person xml:id="MistressQuickly_1H4">
+          <person xml:id="MistressQuickly_1H4" sex="FEMALE">
             <persName>Mistress Quickly</persName>
           </person>
-          <person xml:id="Rugby_Wiv">
+          <person xml:id="Rugby_Wiv" sex="MALE">
             <persName>John Rugby</persName>
           </person>
-          <person xml:id="DoctorCaius_Wiv">
+          <person xml:id="DoctorCaius_Wiv" sex="MALE">
             <persName>Doctor Caius</persName>
           </person>
-          <person xml:id="Fenton_Wiv">
+          <person xml:id="Fenton_Wiv" sex="MALE">
             <persName>Fenton</persName>
           </person>
-          <person xml:id="MistressPage_Wiv">
+          <person xml:id="MistressPage_Wiv" sex="FEMALE">
             <persName>Mistress Page</persName>
           </person>
-          <person xml:id="MistressFord_Wiv">
+          <person xml:id="MistressFord_Wiv" sex="FEMALE">
             <persName>Mistress Ford</persName>
           </person>
-          <person xml:id="MasterFord_Wiv">
+          <person xml:id="MasterFord_Wiv" sex="MALE">
             <persName>Ford</persName>
           </person>
-          <person xml:id="Robin_Wiv">
+          <person xml:id="Robin_Wiv" sex="MALE">
             <persName>Robin</persName>
           </person>
-          <person xml:id="Robert_Wiv">
+          <person xml:id="Robert_Wiv" sex="MALE">
             <persName>Robert</persName>
           </person>
-          <person xml:id="John_Wiv">
+          <person xml:id="John_Wiv" sex="MALE">
             <persName>John</persName>
           </person>
-          <person xml:id="WilliamPage_Wiv">
+          <person xml:id="WilliamPage_Wiv" sex="MALE">
             <persName>William</persName>
           </person>
-          <person xml:id="BOYS_Wiv">
-            <persName>Windsor Children, disguised as fairies</persName>
-          </person>
+          <personGrp xml:id="BOYS_Wiv" sex="UNKNOWN">
+            <name>Windsor Children, disguised as fairies</name>
+          </personGrp>
         </listPerson>
       </particDesc>
     </profileDesc>

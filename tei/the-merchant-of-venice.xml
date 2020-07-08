@@ -88,76 +88,76 @@
       </langUsage>
       <particDesc>
         <listPerson>
-          <person xml:id="Antonio_MV">
+          <person xml:id="Antonio_MV" sex="MALE">
             <persName>Antonio</persName>
           </person>
-          <person xml:id="Salarino_MV">
+          <person xml:id="Salarino_MV" sex="MALE">
             <persName>Salarino</persName>
           </person>
-          <person xml:id="Solanio_MV">
+          <person xml:id="Solanio_MV" sex="MALE">
             <persName>Solanio</persName>
           </person>
-          <person xml:id="Bassanio_MV">
+          <person xml:id="Bassanio_MV" sex="MALE">
             <persName>Bassanio</persName>
           </person>
-          <person xml:id="Lorenzo_MV">
+          <person xml:id="Lorenzo_MV" sex="MALE">
             <persName>Lorenzo</persName>
           </person>
-          <person xml:id="Gratiano_MV">
+          <person xml:id="Gratiano_MV" sex="MALE">
             <persName>Gratiano</persName>
           </person>
-          <person xml:id="Portia_MV">
+          <person xml:id="Portia_MV" sex="FEMALE">
             <persName>Portia</persName>
           </person>
-          <person xml:id="Nerissa_MV">
+          <person xml:id="Nerissa_MV" sex="FEMALE">
             <persName>Nerissa</persName>
           </person>
-          <person xml:id="SERVANTS.1_MV">
+          <person xml:id="SERVANTS.1_MV" sex="MALE">
             <persName>SERVANTS.1_MV</persName>
           </person>
-          <person xml:id="Shylock_MV">
+          <person xml:id="Shylock_MV" sex="MALE">
             <persName>Shylock</persName>
           </person>
-          <person xml:id="Morocco_MV">
+          <person xml:id="Morocco_MV" sex="MALE">
             <persName>Morocco</persName>
           </person>
-          <person xml:id="LanceletGobbo_MV">
+          <person xml:id="LanceletGobbo_MV" sex="MALE">
             <persName>Lancelet Gobbo</persName>
           </person>
-          <person xml:id="OldGobbo_MV">
+          <person xml:id="OldGobbo_MV" sex="MALE">
             <persName>Old Gobbo</persName>
           </person>
-          <person xml:id="ATTENDANTS.BASSANIO.Leonardo_MV">
+          <person xml:id="ATTENDANTS.BASSANIO.Leonardo_MV" sex="MALE">
             <persName>Leonardo</persName>
           </person>
-          <person xml:id="Jessica_MV">
+          <person xml:id="Jessica_MV" sex="FEMALE">
             <persName>Jessica</persName>
           </person>
-          <person xml:id="Arragon_MV">
+          <person xml:id="Arragon_MV" sex="MALE">
             <persName>Arragon</persName>
           </person>
-          <person xml:id="Messenger_MV">
+          <person xml:id="Messenger_MV" sex="MALE">
             <persName>Messenger</persName>
           </person>
-          <person xml:id="SERVANTS.2_MV">
+          <person xml:id="SERVANTS.2_MV" sex="MALE">
             <persName>SERVANTS.2_MV</persName>
           </person>
-          <person xml:id="Tubal_MV">
+          <person xml:id="Tubal_MV" sex="MALE">
             <persName>Tubal</persName>
           </person>
-          <person xml:id="MUSICIANS_MV">
-            <persName>Musicians</persName>
-          </person>
-          <person xml:id="Salerio_MV">
+          <personGrp xml:id="MUSICIANS_MV" sex="UNKNOWN">
+            <name>Musicians</name>
+          </personGrp>
+          <person xml:id="Salerio_MV" sex="MALE">
             <persName>Salerio</persName>
           </person>
-          <person xml:id="ATTENDANTS.PORTIA.Balthazar_MV">
+          <person xml:id="ATTENDANTS.PORTIA.Balthazar_MV" sex="MALE">
             <persName>Balthazar</persName>
           </person>
-          <person xml:id="Duke_MV">
+          <person xml:id="Duke_MV" sex="MALE">
             <persName>Duke_MV</persName>
           </person>
-          <person xml:id="ATTENDANTS.PORTIA.Stephano_MV">
+          <person xml:id="ATTENDANTS.PORTIA.Stephano_MV" sex="MALE">
             <persName>Stephano</persName>
           </person>
         </listPerson>

@@ -88,82 +88,82 @@
       </langUsage>
       <particDesc>
         <listPerson>
-          <person xml:id="Leonato_Ado">
+          <person xml:id="Leonato_Ado" sex="MALE">
             <persName>Leonato</persName>
           </person>
-          <person xml:id="MESSENGERS.LEONATO.1_Ado">
+          <person xml:id="MESSENGERS.LEONATO.1_Ado" sex="MALE">
             <persName>Messenger</persName>
           </person>
-          <person xml:id="Beatrice_Ado">
+          <person xml:id="Beatrice_Ado" sex="FEMALE">
             <persName>Beatrice</persName>
           </person>
-          <person xml:id="Hero_Ado">
+          <person xml:id="Hero_Ado" sex="FEMALE">
             <persName>Hero</persName>
           </person>
-          <person xml:id="DonPedro_Ado">
+          <person xml:id="DonPedro_Ado" sex="MALE">
             <persName>Don Pedro</persName>
           </person>
-          <person xml:id="Benedick_Ado">
+          <person xml:id="Benedick_Ado" sex="MALE">
             <persName>Signior Benedick</persName>
           </person>
-          <person xml:id="DonJohn_Ado">
+          <person xml:id="DonJohn_Ado" sex="MALE">
             <persName>Don John</persName>
           </person>
-          <person xml:id="Claudio_Ado">
+          <person xml:id="Claudio_Ado" sex="MALE">
             <persName>Count Claudio</persName>
           </person>
-          <person xml:id="LeonatosBrother_Ado">
+          <person xml:id="LeonatosBrother_Ado" sex="MALE">
             <persName>Leonato’s Brother</persName>
           </person>
-          <person xml:id="Conrade_Ado">
+          <person xml:id="Conrade_Ado" sex="MALE">
             <persName>Conrade</persName>
           </person>
-          <person xml:id="Borachio_Ado">
+          <person xml:id="Borachio_Ado" sex="MALE">
             <persName>Borachio</persName>
           </person>
-          <person xml:id="Margaret_Ado">
+          <person xml:id="Margaret_Ado" sex="FEMALE">
             <persName>Margaret</persName>
           </person>
-          <person xml:id="Balthasar_Ado">
+          <person xml:id="Balthasar_Ado" sex="MALE">
             <persName>Balthasar</persName>
           </person>
-          <person xml:id="Ursula_Ado">
+          <person xml:id="Ursula_Ado" sex="FEMALE">
             <persName>Ursula</persName>
           </person>
-          <person xml:id="Antonio_Ado">
+          <person xml:id="Antonio_Ado" sex="MALE">
             <persName>Signior Antonio</persName>
           </person>
-          <person xml:id="Boy_Ado">
+          <person xml:id="Boy_Ado" sex="MALE">
             <persName>Boy</persName>
           </person>
-          <person xml:id="Dogberry_Ado">
+          <person xml:id="Dogberry_Ado" sex="MALE">
             <persName>Dogberry</persName>
           </person>
-          <person xml:id="Verges_Ado">
+          <person xml:id="Verges_Ado" sex="MALE">
             <persName>Verges</persName>
           </person>
-          <person xml:id="WATCHMEN.1_Ado">
+          <person xml:id="WATCHMEN.1_Ado" sex="MALE">
             <persName>First Watchman</persName>
           </person>
-          <person xml:id="WATCHMEN.Seacoal_Ado">
+          <person xml:id="WATCHMEN.Seacoal_Ado" sex="UNKNOWN">
             <persName>George Seacoal</persName>
           </person>
-          <person xml:id="WATCHMEN.2_Ado">
+          <person xml:id="WATCHMEN.2_Ado" sex="MALE">
             <persName>Second Watchman</persName>
           </person>
-          <person xml:id="FriarFrancis_Ado">
+          <person xml:id="FriarFrancis_Ado" sex="MALE">
             <persName>Friar Francis</persName>
           </person>
-          <person xml:id="Sexton_Ado">
+          <person xml:id="Sexton_Ado" sex="MALE">
             <persName>Sexton</persName>
           </person>
-          <person xml:id="ATTENDANTS.0.1_Ado">
-            <persName>Musicians, Lords, Attendants, Son to Leonato’s brother</persName>
-          </person>
-          <person xml:id="MUSICIANS_Ado">
-            <persName>Musicians, Lords, Attendants, Son to Leonato’s brother</persName>
-          </person>
-          <person xml:id="MESSENGERS.DONPEDRO.1_Ado">
+          <personGrp xml:id="ATTENDANTS.0.1_Ado" sex="UNKNOWN">
+            <name>Musicians, Lords, Attendants, Son to Leonato’s brother</name>
+          </personGrp>
+          <personGrp xml:id="MUSICIANS_Ado" sex="UNKNOWN">
+            <name>Musicians, Lords, Attendants, Son to Leonato’s brother</name>
+          </personGrp>
+          <person xml:id="MESSENGERS.DONPEDRO.1_Ado" sex="MALE">
             <persName>Messenger</persName>
           </person>
         </listPerson>

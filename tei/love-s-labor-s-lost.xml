@@ -88,78 +88,78 @@
       </langUsage>
       <particDesc>
         <listPerson>
-          <person xml:id="King_LLL">
+          <person xml:id="King_LLL" sex="MALE">
             <persName>King</persName>
           </person>
-          <person xml:id="Longaville_LLL">
+          <person xml:id="Longaville_LLL" sex="MALE">
             <persName>Longaville</persName>
           </person>
-          <person xml:id="Dumaine_LLL">
+          <person xml:id="Dumaine_LLL" sex="MALE">
             <persName>Dumaine</persName>
           </person>
-          <person xml:id="Berowne_LLL">
+          <person xml:id="Berowne_LLL" sex="MALE">
             <persName>Berowne</persName>
           </person>
-          <person xml:id="Dull_LLL">
+          <person xml:id="Dull_LLL" sex="MALE">
             <persName>Dull Constable</persName>
             <persName>Dull Constable</persName>
           </person>
-          <person xml:id="Costard_LLL">
+          <person xml:id="Costard_LLL" sex="MALE">
             <persName>Costard Clown Swain</persName>
             <persName>Costard Clown Swain</persName>
             <persName>Costard Clown Swain</persName>
           </person>
-          <person xml:id="Armado_LLL">
+          <person xml:id="Armado_LLL" sex="MALE">
             <persName>Armado Braggart</persName>
             <persName>Armado Braggart</persName>
           </person>
-          <person xml:id="Boy_LLL">
+          <person xml:id="Boy_LLL" sex="MALE">
             <persName>Boy Page Mote</persName>
             <persName>Boy Page Mote</persName>
             <persName>Boy Page Mote</persName>
           </person>
-          <person xml:id="Jaquenetta_LLL">
+          <person xml:id="Jaquenetta_LLL" sex="FEMALE">
             <persName>Jaquenetta Wench</persName>
             <persName>Jaquenetta Wench</persName>
           </person>
-          <person xml:id="Boyet_LLL">
+          <person xml:id="Boyet_LLL" sex="MALE">
             <persName>Boyet</persName>
           </person>
-          <person xml:id="Princess_LLL">
+          <person xml:id="Princess_LLL" sex="FEMALE">
             <persName>Princess</persName>
           </person>
-          <person xml:id="LORDS.0_LLL">
-            <persName>Lords, Blackamoors, Musicians</persName>
-          </person>
-          <person xml:id="Maria_LLL">
+          <personGrp xml:id="LORDS.0_LLL" sex="UNKNOWN">
+            <name>Lords, Blackamoors, Musicians</name>
+          </personGrp>
+          <person xml:id="Maria_LLL" sex="FEMALE">
             <persName>Maria</persName>
           </person>
-          <person xml:id="Katherine_LLL">
+          <person xml:id="Katherine_LLL" sex="FEMALE">
             <persName>Katherine</persName>
           </person>
-          <person xml:id="Rosaline_LLL">
+          <person xml:id="Rosaline_LLL" sex="FEMALE">
             <persName>Rosaline</persName>
           </person>
-          <person xml:id="Forester_LLL">
+          <person xml:id="Forester_LLL" sex="MALE">
             <persName>Forester</persName>
           </person>
-          <person xml:id="Nathaniel_LLL">
+          <person xml:id="Nathaniel_LLL" sex="MALE">
             <persName>Nathaniel Curate</persName>
             <persName>Nathaniel Curate</persName>
           </person>
-          <person xml:id="Holofernes_LLL">
+          <person xml:id="Holofernes_LLL" sex="MALE">
             <persName>Holofernes Pedant</persName>
             <persName>Holofernes Pedant</persName>
           </person>
-          <person xml:id="Marcade_LLL">
+          <person xml:id="Marcade_LLL" sex="MALE">
             <persName>Monsieur Marcade</persName>
           </person>
-          <person xml:id="Spring_LLL">
-            <persName>Lords, Blackamoors, Musicians</persName>
-          </person>
-          <person xml:id="Winter_LLL">
-            <persName>Lords, Blackamoors, Musicians</persName>
-          </person>
+          <personGrp xml:id="Spring_LLL" sex="UNKNOWN">
+            <name>Lords, Blackamoors, Musicians</name>
+          </personGrp>
+          <personGrp xml:id="Winter_LLL" sex="UNKNOWN">
+            <name>Lords, Blackamoors, Musicians</name>
+          </personGrp>
         </listPerson>
       </particDesc>
     </profileDesc>

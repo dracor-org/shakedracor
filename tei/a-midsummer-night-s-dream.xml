@@ -88,79 +88,79 @@
       </langUsage>
       <particDesc>
         <listPerson>
-          <person xml:id="Theseus_MND">
+          <person xml:id="Theseus_MND" sex="MALE">
             <persName>Theseus</persName>
           </person>
-          <person xml:id="Hippolyta_MND">
+          <person xml:id="Hippolyta_MND" sex="FEMALE">
             <persName>Hippolyta</persName>
           </person>
-          <person xml:id="Egeus_MND">
+          <person xml:id="Egeus_MND" sex="MALE">
             <persName>Egeus</persName>
           </person>
-          <person xml:id="Hermia_MND">
+          <person xml:id="Hermia_MND" sex="FEMALE">
             <persName>Hermia</persName>
           </person>
-          <person xml:id="Demetrius_MND">
+          <person xml:id="Demetrius_MND" sex="MAE">
             <persName>Demetrius</persName>
           </person>
-          <person xml:id="Lysander_MND">
+          <person xml:id="Lysander_MND" sex="MALE">
             <persName>Lysander</persName>
           </person>
-          <person xml:id="Helena_MND">
+          <person xml:id="Helena_MND" sex="FEMALE">
             <persName>Helena</persName>
           </person>
-          <person xml:id="Quince_MND">
+          <person xml:id="Quince_MND" sex="MALE">
             <persName>Peter Quince</persName>
           </person>
-          <person xml:id="Bottom_MND">
+          <person xml:id="Bottom_MND" sex="MALE">
             <persName>Nick Bottom</persName>
           </person>
-          <person xml:id="Flute_MND">
+          <person xml:id="Flute_MND" sex="MALE">
             <persName>Francis Flute</persName>
           </person>
-          <person xml:id="Starveling_MND">
+          <person xml:id="Starveling_MND" sex=" MALE">
             <persName>Robin Starveling</persName>
           </person>
-          <person xml:id="Snout_MND">
+          <person xml:id="Snout_MND" sex="MALE">
             <persName>Tom Snout</persName>
           </person>
-          <person xml:id="Snug_MND">
+          <person xml:id="Snug_MND" sex="MALE">
             <persName>Snug</persName>
           </person>
-          <person xml:id="RobinGoodfellow_MND">
+          <person xml:id="RobinGoodfellow_MND" sex="MALE">
             <persName>Robin Goodfellow</persName>
           </person>
-          <person xml:id="FAIRIES.TITANIA.1_MND">
+          <person xml:id="FAIRIES.TITANIA.1_MND" sex="FEMALE">
             <persName>A Fairy</persName>
           </person>
-          <person xml:id="Oberon_MND">
+          <person xml:id="Oberon_MND" sex="MALE">
             <persName>Oberon</persName>
           </person>
-          <person xml:id="Titania_MND">
+          <person xml:id="Titania_MND" sex="FEMALE">
             <persName>Titania</persName>
           </person>
-          <person xml:id="FAIRIES.TITANIA.0.1_MND">
-            <persName>Other Fairies in the trains of Titania and Oberon</persName>
-          </person>
-          <person xml:id="FAIRIES.TITANIA_MND">
-            <persName>Other Fairies in the trains of Titania and Oberon</persName>
-          </person>
-          <person xml:id="FAIRIES.TITANIA.0.2_MND">
-            <persName>Other Fairies in the trains of Titania and Oberon</persName>
-          </person>
-          <person xml:id="FAIRIES.TITANIA.Peaseblossom_MND">
+          <personGrp xml:id="FAIRIES.TITANIA.0.1_MND" sex="UNKNOWN">
+            <name>Other Fairies in the trains of Titania and Oberon</name>
+          </personGrp>
+          <personGrp xml:id="FAIRIES.TITANIA_MND" sex="UNKNOWN">
+            <name>Other Fairies in the trains of Titania and Oberon</name>
+          </personGrp>
+          <personGrp xml:id="FAIRIES.TITANIA.0.2_MND" sex="UNKNOWN">
+            <name>Other Fairies in the trains of Titania and Oberon</name>
+          </personGrp>
+          <person xml:id="FAIRIES.TITANIA.Peaseblossom_MND" sex="MALE">
             <persName>Peaseblossom</persName>
           </person>
-          <person xml:id="FAIRIES.TITANIA.Cobweb_MND">
+          <person xml:id="FAIRIES.TITANIA.Cobweb_MND" sex="MALE">
             <persName>Cobweb</persName>
           </person>
-          <person xml:id="FAIRIES.TITANIA.Mote_MND">
+          <person sex="" xml:id="FAIRIES.TITANIA.Mote_MND">
             <persName>Mote</persName>
           </person>
-          <person xml:id="FAIRIES.TITANIA.Mustardseed_MND">
+          <person xml:id="FAIRIES.TITANIA.Mustardseed_MND" sex="MALE">
             <persName>Mustardseed</persName>
           </person>
-          <person xml:id="Philostrate_MND">
+          <person xml:id="Philostrate_MND" sex="MALE">
             <persName>Philostrate</persName>
           </person>
         </listPerson>

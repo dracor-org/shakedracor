@@ -88,109 +88,109 @@
       </langUsage>
       <particDesc>
         <listPerson>
-          <person xml:id="Archidamus_WT">
+          <person xml:id="Archidamus_WT" sex="MALE">
             <persName>Archidamus</persName>
           </person>
-          <person xml:id="Camillo_WT">
+          <person xml:id="Camillo_WT" sex="MALE">
             <persName>Camillo</persName>
           </person>
-          <person xml:id="Polixenes_WT">
+          <person xml:id="Polixenes_WT" sex="MALE">
             <persName>Polixenes</persName>
           </person>
-          <person xml:id="Leontes_WT">
+          <person xml:id="Leontes_WT" sex="MALE">
             <persName>Leontes</persName>
           </person>
-          <person xml:id="Hermione_WT">
+          <person xml:id="Hermione_WT" sex="FEMALE">
             <persName>Hermione</persName>
           </person>
-          <person xml:id="Mamillius_WT">
+          <person xml:id="Mamillius_WT" sex="MALE">
             <persName>Mamillius</persName>
           </person>
-          <person xml:id="LADIES.0.1_WT">
-            <persName>LADIES.0.1_WT</persName>
-          </person>
-          <person xml:id="LADIES.0.2_WT">
-            <persName>LADIES.0.2_WT</persName>
-          </person>
-          <person xml:id="ATTENDANTS.0.1_WT">
-            <persName>ATTENDANTS.0.1_WT</persName>
-          </person>
-          <person xml:id="Antigonus_WT">
+          <personGrp xml:id="LADIES.0.1_WT" sex="UNKNOWN">
+            <name>LADIES.0.1_WT</name>
+          </personGrp>
+          <personGrp xml:id="LADIES.0.2_WT" sex="UNKNOWN">
+            <name>LADIES.0.2_WT</name>
+          </personGrp>
+          <personGrp xml:id="ATTENDANTS.0.1_WT" sex="UNKNOWN">
+            <name>ATTENDANTS.0.1_WT</name>
+          </personGrp>
+          <person xml:id="Antigonus_WT" sex="MALE">
             <persName>Antigonus</persName>
           </person>
-          <person xml:id="Paulina_WT">
+          <person xml:id="Paulina_WT" sex="FEMALE">
             <persName>Paulina</persName>
           </person>
-          <person xml:id="Jailer_WT">
+          <person xml:id="Jailer_WT" sex="MALE">
             <persName>Jailer</persName>
           </person>
-          <person xml:id="LADIES.Emilia_WT">
+          <person xml:id="LADIES.Emilia_WT" sex="FEMALE">
             <persName>Emilia</persName>
           </person>
-          <person xml:id="SERVANTS.X.1_WT">
-            <persName>Indeterminate member of the SERVANTS group</persName>
-          </person>
-          <person xml:id="SERVANTS.0_WT">
-            <persName>Indistinct members of the SERVANTS group</persName>
-          </person>
-          <person xml:id="ATTENDANTS_WT">
+          <personGrp xml:id="SERVANTS.X.1_WT" sex="UNKNOWN">
+            <name>Indeterminate member of the SERVANTS group</name>
+          </personGrp>
+          <personGrp xml:id="SERVANTS.0_WT" sex="UNKNOWN">
+            <name>Indistinct members of the SERVANTS group</name>
+          </personGrp>
+          <person xml:id="ATTENDANTS_WT" sex="MALE">
             <persName>ATTENDANTS_WT</persName>
           </person>
-          <person xml:id="SERVANTS.X.2_WT">
-            <persName>Indeterminate member of the SERVANTS group</persName>
-          </person>
-          <person xml:id="Cleomenes_WT">
+          <personGrp xml:id="SERVANTS.X.2_WT" sex="UNKNOWN">
+            <name>Indeterminate member of the SERVANTS group</name>
+          </personGrp>
+          <person xml:id="Cleomenes_WT" sex="MALE">
             <persName>Cleomenes</persName>
           </person>
-          <person xml:id="Dion_WT">
+          <person xml:id="Dion_WT" sex="MALE">
             <persName>Dion</persName>
           </person>
-          <person xml:id="OFFICERS.0.1_WT">
+          <person sex="" xml:id="OFFICERS.0.1_WT">
             <persName>Officer</persName>
           </person>
-          <person xml:id="Sailor_WT">
+          <person sex="" xml:id="Sailor_WT">
             <persName>Mariner</persName>
           </person>
-          <person xml:id="Shepherd_WT">
+          <person xml:id="Shepherd_WT" sex="MALE">
             <persName>Shepherd</persName>
           </person>
-          <person xml:id="ShepherdsSon_WT">
+          <person xml:id="ShepherdsSon_WT" sex="MALE">
             <persName>Shepherd’s Son</persName>
           </person>
-          <person xml:id="Chorus_WT">
+          <person xml:id="Chorus_WT" sex="UNKNOWN">
             <persName>Time</persName>
           </person>
-          <person xml:id="Autolycus_WT">
+          <person xml:id="Autolycus_WT" sex="MALE">
             <persName>Autolycus</persName>
           </person>
-          <person xml:id="Florizell_WT">
+          <person xml:id="Florizell_WT" sex="MALE">
             <persName>Florizell</persName>
           </person>
-          <person xml:id="Perdita_WT">
+          <person xml:id="Perdita_WT" sex="FEMALE">
             <persName>Perdita</persName>
           </person>
-          <person xml:id="Dorcas_WT">
+          <person xml:id="Dorcas_WT" sex="FEMALE">
             <persName>Dorcas</persName>
           </person>
-          <person xml:id="Mopsa_WT">
+          <person xml:id="Mopsa_WT" sex="FEMALE">
             <persName>Mopsa</persName>
           </person>
-          <person xml:id="SERVANTS.SHEPHERD.1_WT">
+          <person xml:id="SERVANTS.SHEPHERD.1_WT" sex="MALE">
             <persName>Servant</persName>
           </person>
-          <person xml:id="SERVANTS.X.3_WT">
-            <persName>Indeterminate member of the SERVANTS group</persName>
-          </person>
-          <person xml:id="ATTENDANTS.X_WT">
+          <personGrp xml:id="SERVANTS.X.3_WT" sex="UNKNOWN">
+            <name>Indeterminate member of the SERVANTS group</name>
+          </personGrp>
+          <person xml:id="ATTENDANTS.X_WT" sex="MALE">
             <persName>ATTENDANTS.X_WT</persName>
           </person>
-          <person xml:id="ATTENDANTS.1_WT">
+          <person xml:id="ATTENDANTS.1_WT" sex="MALE">
             <persName>ATTENDANTS.1_WT</persName>
           </person>
-          <person xml:id="ATTENDANTS.2_WT">
+          <person xml:id="ATTENDANTS.2_WT" sex="MALE">
             <persName>ATTENDANTS.2_WT</persName>
           </person>
-          <person xml:id="ATTENDANTS.3_WT">
+          <person xml:id="ATTENDANTS.3_WT" sex="MALE">
             <persName>ATTENDANTS.3_WT</persName>
           </person>
         </listPerson>

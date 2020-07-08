@@ -88,148 +88,148 @@
       </langUsage>
       <particDesc>
         <listPerson>
-          <person xml:id="Prologue_H8">
+          <person sex="" xml:id="Prologue_H8">
             <persName>Prologue</persName>
           </person>
-          <person xml:id="Buckingham_H8">
+          <person xml:id="Buckingham_H8" sex="MALE">
             <persName>Duke of Buckingham</persName>
           </person>
-          <person xml:id="Norfolk_H8">
+          <person xml:id="Norfolk_H8" sex="MALE">
             <persName>Duke of Norfolk</persName>
           </person>
-          <person xml:id="Abergavenny_H8">
+          <person xml:id="Abergavenny_H8" sex="MALE">
             <persName>Lord Abergavenny</persName>
           </person>
-          <person xml:id="Wolsey_H8">
+          <person xml:id="Wolsey_H8" sex="MALE">
             <persName>Cardinal Wolsey</persName>
           </person>
-          <person xml:id="SECRETARIES.0.1_H8">
+          <person xml:id="SECRETARIES.0.1_H8" sex="MALE">
             <persName>SECRETARIES.0.1_H8</persName>
           </person>
-          <person xml:id="Brandon_H8">
+          <person xml:id="Brandon_H8" sex="MALE">
             <persName>Brandon</persName>
           </person>
-          <person xml:id="Sergeant_H8">
+          <person xml:id="Sergeant_H8" sex="MALE">
             <persName>Sergeant at Arms</persName>
           </person>
-          <person xml:id="HenryVIII_H8">
+          <person xml:id="HenryVIII_H8" ana="http://www.wikidata.org/entity/Q38370">
             <persName>King Henry the Eighth</persName>
           </person>
-          <person xml:id="Katherine_H8">
+          <person xml:id="Katherine_H8" sex="FEMALE">
             <persName>Queen Katherine</persName>
           </person>
-          <person xml:id="Surveyor_H8">
+          <person xml:id="Surveyor_H8" sex="MALE">
             <persName>Knevet, former Surveyor to Buckingham</persName>
           </person>
-          <person xml:id="Chamberlain_H8">
+          <person xml:id="Chamberlain_H8" sex="MALE">
             <persName>Lord Chamberlain</persName>
           </person>
-          <person xml:id="Sands_H8">
+          <person xml:id="Sands_H8" sex="MALE">
             <persName>Lord Sands (also Sir Walter Sands)</persName>
           </person>
-          <person xml:id="Lovell_H8">
+          <person xml:id="Lovell_H8" sex="MALE">
             <persName>Sir Thomas Lovell</persName>
           </person>
-          <person xml:id="Guilford_H8">
+          <person xml:id="Guilford_H8" sex="MALE">
             <persName>Sir Henry Guilford</persName>
           </person>
-          <person xml:id="Anne_H8">
+          <person xml:id="Anne_H8" ana="http://www.wikidata.org/entity/Q80823">
             <persName>Anne Bullen</persName>
           </person>
-          <person xml:id="SERVANTS.X.1_H8">
+          <person xml:id="SERVANTS.X.1_H8" sex="UNKNOWN">
             <persName>Spirits, Princess Elizabeth as an infant, Duchess of Norfolk, Marquess and Marchioness of Dorset, Lords, Nobles, Countesses, Bishops, Judges, Priests, Ladies, Gentlemen, Gentlemen Ushers, Lord Mayor, Four Representatives of the Cinque Ports, Aldermen, Women, Musicians, Choristers, Guards, Tipstaves, Halberds, Vergers, Attendants, Servants, Messenger, Pages, Footboys, Grooms</persName>
           </person>
-          <person xml:id="GENTLEMEN.1_H8">
+          <person xml:id="GENTLEMEN.1_H8" sex="MALE">
             <persName>First Gentleman</persName>
           </person>
-          <person xml:id="GENTLEMEN.2_H8">
+          <person xml:id="GENTLEMEN.2_H8" sex="MALE">
             <persName>Second Gentleman</persName>
           </person>
-          <person xml:id="Vaux_H8">
+          <person xml:id="Vaux_H8" sex="MALE">
             <persName>Sir Nicholas Vaux</persName>
           </person>
-          <person xml:id="Suffolk_H8">
+          <person xml:id="Suffolk_H8" sex="MALE">
             <persName>Duke of Suffolk</persName>
           </person>
-          <person xml:id="Campeius_H8">
+          <person xml:id="Campeius_H8" ana="http://www.wikidata.org/entity/Q222941">
             <persName>Cardinal Campeius</persName>
           </person>
-          <person xml:id="Gardiner_H8">
+          <person xml:id="Gardiner_H8" sex="MALE">
             <persName>Gardiner</persName>
           </person>
-          <person xml:id="OldLady_H8">
+          <person xml:id="OldLady_H8" sex="FEMALE">
             <persName>Old Lady</persName>
           </person>
-          <person xml:id="Scribe_H8">
+          <person xml:id="Scribe_H8" sex="MALE">
             <persName>Scribes</persName>
           </person>
-          <person xml:id="Crier_H8">
+          <person xml:id="Crier_H8" sex="MALE">
             <persName>Crier</persName>
           </person>
-          <person xml:id="Usher_H8">
+          <person xml:id="Usher_H8" sex="MALE">
             <persName>Queen’s Gentleman Usher</persName>
           </person>
-          <person xml:id="BishopOfLincoln_H8">
+          <person xml:id="BishopOfLincoln_H8" sex="MALE">
             <persName>Bishop of Lincoln</persName>
           </person>
-          <person xml:id="LADIES.KATHERINE.0.1_H8">
-            <persName>Spirits, Princess Elizabeth as an infant, Duchess of Norfolk, Marquess and Marchioness of Dorset, Lords, Nobles, Countesses, Bishops, Judges, Priests, Ladies, Gentlemen, Gentlemen Ushers, Lord Mayor, Four Representatives of the Cinque Ports, Aldermen, Women, Musicians, Choristers, Guards, Tipstaves, Halberds, Vergers, Attendants, Servants, Messenger, Pages, Footboys, Grooms</persName>
-          </person>
-          <person xml:id="GENTLEMEN.X_H8">
-            <persName>Spirits, Princess Elizabeth as an infant, Duchess of Norfolk, Marquess and Marchioness of Dorset, Lords, Nobles, Countesses, Bishops, Judges, Priests, Ladies, Gentlemen, Gentlemen Ushers, Lord Mayor, Four Representatives of the Cinque Ports, Aldermen, Women, Musicians, Choristers, Guards, Tipstaves, Halberds, Vergers, Attendants, Servants, Messenger, Pages, Footboys, Grooms</persName>
-          </person>
-          <person xml:id="Surrey_H8">
+          <personGrp xml:id="LADIES.KATHERINE.0.1_H8" sex="UNKNOWN">
+            <name>Spirits, Princess Elizabeth as an infant, Duchess of Norfolk, Marquess and Marchioness of Dorset, Lords, Nobles, Countesses, Bishops, Judges, Priests, Ladies, Gentlemen, Gentlemen Ushers, Lord Mayor, Four Representatives of the Cinque Ports, Aldermen, Women, Musicians, Choristers, Guards, Tipstaves, Halberds, Vergers, Attendants, Servants, Messenger, Pages, Footboys, Grooms</name>
+          </personGrp>
+          <personGrp xml:id="GENTLEMEN.X_H8" sex="UNKNOWN">
+            <name>Spirits, Princess Elizabeth as an infant, Duchess of Norfolk, Marquess and Marchioness of Dorset, Lords, Nobles, Countesses, Bishops, Judges, Priests, Ladies, Gentlemen, Gentlemen Ushers, Lord Mayor, Four Representatives of the Cinque Ports, Aldermen, Women, Musicians, Choristers, Guards, Tipstaves, Halberds, Vergers, Attendants, Servants, Messenger, Pages, Footboys, Grooms</name>
+          </personGrp>
+          <person xml:id="Surrey_H8" sex="MALE">
             <persName>Earl of Surrey</persName>
           </person>
-          <person xml:id="Cromwell_H8">
+          <person xml:id="Cromwell_H8" ana="http://www.wikidata.org/entity/Q44279">
             <persName>Cromwell</persName>
           </person>
-          <person xml:id="GENTLEMEN.3_H8">
+          <person xml:id="GENTLEMEN.3_H8" sex="MALE">
             <persName>Third Gentleman</persName>
           </person>
-          <person xml:id="Griffith_H8">
+          <person xml:id="Griffith_H8" sex="MALE">
             <persName>Griffith</persName>
           </person>
-          <person xml:id="LADIES.KATHERINE.Patience_H8">
+          <person xml:id="LADIES.KATHERINE.Patience_H8" sex="FEMALE">
             <persName>Patience</persName>
           </person>
-          <person xml:id="Messenger_H8">
-            <persName>Spirits, Princess Elizabeth as an infant, Duchess of Norfolk, Marquess and Marchioness of Dorset, Lords, Nobles, Countesses, Bishops, Judges, Priests, Ladies, Gentlemen, Gentlemen Ushers, Lord Mayor, Four Representatives of the Cinque Ports, Aldermen, Women, Musicians, Choristers, Guards, Tipstaves, Halberds, Vergers, Attendants, Servants, Messenger, Pages, Footboys, Grooms</persName>
-          </person>
-          <person xml:id="Capuchius_H8">
+          <personGrp xml:id="Messenger_H8" sex="UNKNOWN">
+            <name>Spirits, Princess Elizabeth as an infant, Duchess of Norfolk, Marquess and Marchioness of Dorset, Lords, Nobles, Countesses, Bishops, Judges, Priests, Ladies, Gentlemen, Gentlemen Ushers, Lord Mayor, Four Representatives of the Cinque Ports, Aldermen, Women, Musicians, Choristers, Guards, Tipstaves, Halberds, Vergers, Attendants, Servants, Messenger, Pages, Footboys, Grooms</name>
+          </personGrp>
+          <person xml:id="Capuchius_H8" sex="MALE">
             <persName>Capuchius</persName>
           </person>
-          <person xml:id="Page_H8">
+          <person xml:id="Page_H8" sex="FEMALE">
             <persName>Page to Gardiner</persName>
           </person>
-          <person xml:id="Denny_H8">
+          <person xml:id="Denny_H8" sex="MALE">
             <persName>Sir Anthony Denny</persName>
           </person>
-          <person xml:id="Cranmer_H8">
+          <person xml:id="Cranmer_H8" sex="MALE">
             <persName>Cranmer</persName>
           </person>
-          <person xml:id="Keeper_H8">
+          <person xml:id="Keeper_H8" sex="MALE">
             <persName>Keeper</persName>
           </person>
-          <person xml:id="Butts_H8">
+          <person xml:id="Butts_H8" sex="MALE">
             <persName>Doctor Butts</persName>
           </person>
-          <person xml:id="Chancellor_H8">
+          <person xml:id="Chancellor_H8" sex="MALE">
             <persName>Lord Chancellor</persName>
           </person>
-          <person xml:id="Porter_H8">
+          <person xml:id="Porter_H8" sex="MALE">
             <persName>Porter and his Man</persName>
           </person>
-          <person xml:id="SERVANTS.LARDER.1_H8">
+          <person xml:id="SERVANTS.LARDER.1_H8" sex="UNKNOWN">
             <persName>Spirits, Princess Elizabeth as an infant, Duchess of Norfolk, Marquess and Marchioness of Dorset, Lords, Nobles, Countesses, Bishops, Judges, Priests, Ladies, Gentlemen, Gentlemen Ushers, Lord Mayor, Four Representatives of the Cinque Ports, Aldermen, Women, Musicians, Choristers, Guards, Tipstaves, Halberds, Vergers, Attendants, Servants, Messenger, Pages, Footboys, Grooms</persName>
           </person>
-          <person xml:id="SERVANTS.PORTER.1_H8">
+          <person xml:id="SERVANTS.PORTER.1_H8" sex="MALE">
             <persName>Porter and his Man</persName>
           </person>
-          <person xml:id="Garter_H8">
+          <person xml:id="Garter_H8" sex="MALE">
             <persName>Garter King of Arms</persName>
           </person>
-          <person xml:id="Epilogue_H8">
+          <person sex="" xml:id="Epilogue_H8">
             <persName>Epilogue</persName>
           </person>
         </listPerson>

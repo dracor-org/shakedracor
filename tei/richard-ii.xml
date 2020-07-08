@@ -88,113 +88,113 @@
       </langUsage>
       <particDesc>
         <listPerson>
-          <person xml:id="RichardII_R2">
+          <person xml:id="RichardII_R2" ana="http://www.wikidata.org/entity/Q81000">
             <persName>King Richard II</persName>
           </person>
-          <person xml:id="Gaunt_R2">
+          <person xml:id="Gaunt_R2" ana="http://www.wikidata.org/entity/Q193752">
             <persName>John of Gaunt</persName>
           </person>
-          <person xml:id="HenryIV_1H4">
+          <person xml:id="HenryIV_1H4" ana="http://www.wikidata.org/entity/Q161866">
             <persName>Henry Bolingbroke Hereford</persName>
             <persName>Henry Bolingbroke Hereford</persName>
           </person>
-          <person xml:id="Mowbray_R2">
+          <person xml:id="Mowbray_R2" ana="http://www.wikidata.org/entity/Q711992">
             <persName>Mowbray</persName>
           </person>
-          <person xml:id="DuchessOfGloucester_R2">
+          <person xml:id="DuchessOfGloucester_R2" ana="http://www.wikidata.org/entity/Q2548323">
             <persName>Duchess of Gloucester</persName>
           </person>
-          <person xml:id="LordMarshal_R2">
+          <person xml:id="LordMarshal_R2" ana="http://www.wikidata.org/entity/Q1265164">
             <persName>Lord Marshal</persName>
           </person>
-          <person xml:id="Aumerle_R2">
+          <person xml:id="Aumerle_R2" ana="http://www.wikidata.org/entity/Q452639">
             <persName>Duke of Aumerle</persName>
           </person>
-          <person xml:id="HERALDS.1_R2">
+          <person xml:id="HERALDS.1_R2" sex="MALE">
             <persName>First Herald</persName>
           </person>
-          <person xml:id="HERALDS.2_R2">
+          <person xml:id="HERALDS.2_R2" sex="MALE">
             <persName>Second Herald</persName>
           </person>
-          <person xml:id="Green_R2">
+          <person xml:id="Green_R2" ana="http://www.wikidata.org/entity/Q5722188">
             <persName>Green</persName>
           </person>
-          <person xml:id="Bushy_R2">
+          <person xml:id="Bushy_R2" ana="http://www.wikidata.org/entity/Q6224092">
             <persName>Bushy</persName>
           </person>
-          <person xml:id="Bagot_R2">
+          <person xml:id="Bagot_R2" ana="http://www.wikidata.org/entity/Q8004925">
             <persName>Bagot</persName>
           </person>
-          <person xml:id="York_R2">
+          <person xml:id="York_R2" ana="http://www.wikidata.org/entity/Q305002">
             <persName>Duke of York</persName>
           </person>
-          <person xml:id="Queen_R2">
+          <person xml:id="Queen_R2" ana="http://www.wikidata.org/entity/Q170202">
             <persName>Queen</persName>
           </person>
-          <person xml:id="Northumberland_R2">
+          <person xml:id="Northumberland_R2" ana="http://www.wikidata.org/entity/Q1398378">
             <persName>Earl of Northumberland</persName>
           </person>
-          <person xml:id="Ross_R2">
+          <person xml:id="Ross_R2" ana="http://www.wikidata.org/entity/Q8020820">
             <persName>Lord Ross</persName>
           </person>
-          <person xml:id="Willoughby_R2">
+          <person xml:id="Willoughby_R2" ana="http://www.wikidata.org/entity/Q2581065">
             <persName>Lord Willoughby</persName>
           </person>
-          <person xml:id="SERVANTS.YORK.1_R2">
+          <person xml:id="SERVANTS.YORK.1_R2" sex="MALE">
             <persName>Servingmen</persName>
           </person>
-          <person xml:id="Hotspur_R2">
+          <person xml:id="Hotspur_R2" ana="http://www.wikidata.org/entity/Q471421">
             <persName>Harry Percy</persName>
           </person>
-          <person xml:id="Berkeley_R2">
+          <person xml:id="Berkeley_R2" ana="http://www.wikidata.org/entity/Q7795453">
             <persName>Lord Berkeley</persName>
           </person>
-          <person xml:id="WelshCaptain_R2">
+          <person xml:id="WelshCaptain_R2" sex="MALE">
             <persName>Welsh Captain</persName>
           </person>
-          <person xml:id="Salisbury_R2">
+          <person xml:id="Salisbury_R2" ana="http://www.wikidata.org/entity/Q3020313">
             <persName>Earl of Salisbury</persName>
           </person>
-          <person xml:id="BishopOfCarlisle_R2">
+          <person xml:id="BishopOfCarlisle_R2" ana="http://www.wikidata.org/entity/Q7792397">
             <persName>Bishop of Carlisle</persName>
           </person>
-          <person xml:id="Scroop_R2">
+          <person xml:id="Scroop_R2" sex="MALE">
             <persName>Sir Stephen Scroop</persName>
           </person>
-          <person xml:id="LADIES.0.1_R2">
-            <persName>LADIES.0.1_R2</persName>
-          </person>
-          <person xml:id="Gardener_R2">
+          <personGrp xml:id="LADIES.0.1_R2" sex="UNKNOWN">
+            <name>LADIES.0.1_R2</name>
+          </personGrp>
+          <person xml:id="Gardener_R2" sex="MALE">
             <persName>Gardener</persName>
           </person>
-          <person xml:id="SERVANTS.GARDENER.1_R2">
+          <person xml:id="SERVANTS.GARDENER.1_R2" sex="UNKNOWN">
             <persName>SERVANTS.GARDENER.1_R2</persName>
           </person>
-          <person xml:id="Fitzwater_R2">
+          <person xml:id="Fitzwater_R2" ana="http://www.wikidata.org/entity/Q4862373">
             <persName>Lord Fitzwater</persName>
           </person>
-          <person xml:id="LORDS.1_R2">
+          <person xml:id="LORDS.1_R2" sex="MALE">
             <persName>Another Lord</persName>
           </person>
-          <person xml:id="Surrey_R2">
+          <person xml:id="Surrey_R2" ana="http://www.wikidata.org/entity/Q2501872">
             <persName>Duke of Surrey</persName>
           </person>
-          <person xml:id="AbbotOfWestminster_R2">
+          <person xml:id="AbbotOfWestminster_R2" ana="http://www.wikidata.org/entity/Q1747157">
             <persName>Abbot of Westminster</persName>
           </person>
-          <person xml:id="DuchessOfYork_R2">
+          <person xml:id="DuchessOfYork_R2" ana="http://www.wikidata.org/entity/Q434485">
             <persName>Duchess of York</persName>
           </person>
-          <person xml:id="Exton_R2">
+          <person xml:id="Exton_R2" sex="MALE">
             <persName>Sir Pierce of Exton</persName>
           </person>
-          <person xml:id="SERVANTS.EXTON.0.1_R2">
+          <person xml:id="SERVANTS.EXTON.0.1_R2" sex="UNKNOWN">
             <persName>SERVANTS.EXTON.0.1_R2</persName>
           </person>
-          <person xml:id="Groom_R2">
+          <person xml:id="Groom_R2" sex="MALE">
             <persName>Groom</persName>
           </person>
-          <person xml:id="Jailer_R2">
+          <person xml:id="Jailer_R2" sex="MALE">
             <persName>Keeper</persName>
           </person>
         </listPerson>

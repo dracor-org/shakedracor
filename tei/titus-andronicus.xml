@@ -88,87 +88,87 @@
       </langUsage>
       <particDesc>
         <listPerson>
-          <person xml:id="Saturninus_Tit">
+          <person xml:id="Saturninus_Tit" sex="MALE">
             <persName>Saturninus</persName>
           </person>
-          <person xml:id="Bassianus_Tit">
+          <person xml:id="Bassianus_Tit" sex="MALE">
             <persName>Bassianus</persName>
           </person>
-          <person xml:id="Marcus_Tit">
+          <person xml:id="Marcus_Tit" sex="MALE">
             <persName>Marcus Andronicus</persName>
           </person>
-          <person xml:id="Captain_Tit">
+          <person xml:id="Captain_Tit" sex="MALE">
             <persName>Captain</persName>
           </person>
-          <person xml:id="Titus_Tit">
+          <person xml:id="Titus_Tit" sex="MALE">
             <persName>Titus Andronicus</persName>
           </person>
-          <person xml:id="Lucius_Tit">
+          <person xml:id="Lucius_Tit" sex="MALE">
             <persName>Lucius</persName>
           </person>
-          <person xml:id="Tamora_Tit">
+          <person xml:id="Tamora_Tit" sex="FEMALE">
             <persName>Tamora</persName>
           </person>
-          <person xml:id="Chiron_Tit">
+          <person xml:id="Chiron_Tit" sex="MALE">
             <persName>Chiron</persName>
           </person>
-          <person xml:id="Demetrius_Tit">
+          <person xml:id="Demetrius_Tit" sex="MALE">
             <persName>Demetrius</persName>
           </person>
-          <person xml:id="Lavinia_Tit">
+          <person xml:id="Lavinia_Tit" sex="FEMALE">
             <persName>Lavinia</persName>
           </person>
-          <person xml:id="TRIBUNES_Tit">
-            <persName>Tribunes, Senators, Romans, Goths, Drummers, Trumpeters, Soldiers, Guards, Attendants, a black Child</persName>
-          </person>
-          <person xml:id="Mutius_Tit">
+          <personGrp xml:id="TRIBUNES_Tit" sex="UNKNOWN">
+            <name>Tribunes, Senators, Romans, Goths, Drummers, Trumpeters, Soldiers, Guards, Attendants, a black Child</name>
+          </personGrp>
+          <person xml:id="Mutius_Tit" sex="MALE">
             <persName>Mutius</persName>
           </person>
-          <person xml:id="Martius_Tit">
+          <person xml:id="Martius_Tit" sex="MALE">
             <persName>Martius</persName>
           </person>
-          <person xml:id="Quintus_Tit">
+          <person xml:id="Quintus_Tit" sex="MALE">
             <persName>Quintus</persName>
           </person>
-          <person xml:id="Aaron_Tit">
+          <person xml:id="Aaron_Tit" sex="MALE">
             <persName>Aaron</persName>
           </person>
-          <person xml:id="Messenger_Tit">
+          <person xml:id="Messenger_Tit" sex="MALE">
             <persName>Messenger</persName>
           </person>
-          <person xml:id="YoungLucius_Tit">
+          <person xml:id="YoungLucius_Tit" sex="MALE">
             <persName>Young Lucius</persName>
           </person>
-          <person xml:id="Nurse_Tit">
+          <person xml:id="Nurse_Tit" sex="FEMALE">
             <persName>Nurse</persName>
           </person>
-          <person xml:id="Publius_Tit">
+          <person xml:id="Publius_Tit" sex="MALE">
             <persName>Publius</persName>
           </person>
-          <person xml:id="CountryFellow_Tit">
+          <person xml:id="CountryFellow_Tit" sex="MALE">
             <persName>Country Fellow</persName>
           </person>
-          <person xml:id="Aemilius_Tit">
+          <person xml:id="Aemilius_Tit" sex="MALE">
             <persName>Aemilius</persName>
           </person>
-          <person xml:id="GOTHS.0.1_Tit">
+          <person xml:id="GOTHS.0.1_Tit" sex="MALE">
             <persName>First Goth</persName>
           </person>
-          <person xml:id="GOTHS_Tit">
-            <persName>Tribunes, Senators, Romans, Goths, Drummers, Trumpeters, Soldiers, Guards, Attendants, a black Child</persName>
-          </person>
-          <person xml:id="GOTHS.0.2_Tit">
+          <personGrp xml:id="GOTHS_Tit" sex="UNKNOWN">
+            <name>Tribunes, Senators, Romans, Goths, Drummers, Trumpeters, Soldiers, Guards, Attendants, a black Child</name>
+          </personGrp>
+          <person xml:id="GOTHS.0.2_Tit" sex="MALE">
             <persName>Second Goth</persName>
           </person>
-          <person xml:id="GOTHS.0_Tit">
-            <persName>Tribunes, Senators, Romans, Goths, Drummers, Trumpeters, Soldiers, Guards, Attendants, a black Child</persName>
-          </person>
-          <person xml:id="ATTENDANTS_Tit">
-            <persName>Tribunes, Senators, Romans, Goths, Drummers, Trumpeters, Soldiers, Guards, Attendants, a black Child</persName>
-          </person>
-          <person xml:id="TRIBUNES.0.1_Tit">
-            <persName>Tribunes, Senators, Romans, Goths, Drummers, Trumpeters, Soldiers, Guards, Attendants, a black Child</persName>
-          </person>
+          <personGrp xml:id="GOTHS.0_Tit" sex="UNKNOWN">
+            <name>Tribunes, Senators, Romans, Goths, Drummers, Trumpeters, Soldiers, Guards, Attendants, a black Child</name>
+          </personGrp>
+          <personGrp xml:id="ATTENDANTS_Tit" sex="UNKNOWN">
+            <name>Tribunes, Senators, Romans, Goths, Drummers, Trumpeters, Soldiers, Guards, Attendants, a black Child</name>
+          </personGrp>
+          <personGrp xml:id="TRIBUNES.0.1_Tit" sex="UNKNOWN">
+            <name>Tribunes, Senators, Romans, Goths, Drummers, Trumpeters, Soldiers, Guards, Attendants, a black Child</name>
+          </personGrp>
         </listPerson>
       </particDesc>
     </profileDesc>

@@ -88,118 +88,118 @@
       </langUsage>
       <particDesc>
         <listPerson>
-          <person xml:id="Chorus_Rom">
-            <persName>Chorus</persName>
-          </person>
-          <person xml:id="SERVANTS.CAPULET.Sampson_Rom">
+          <personGrp xml:id="Chorus_Rom" sex="UNKNOWN">
+            <name>Chorus</name>
+          </personGrp>
+          <person xml:id="SERVANTS.CAPULET.Sampson_Rom" sex="MALE">
             <persName>Sampson</persName>
           </person>
-          <person xml:id="SERVANTS.CAPULET.Gregory_Rom">
+          <person xml:id="SERVANTS.CAPULET.Gregory_Rom" sex="MALE">
             <persName>Gregory</persName>
           </person>
-          <person xml:id="SERVANTS.MONTAGUE.Abram_Rom">
+          <person xml:id="SERVANTS.MONTAGUE.Abram_Rom" sex="MALE">
             <persName>Abram</persName>
           </person>
-          <person xml:id="Benvolio_Rom">
+          <person xml:id="Benvolio_Rom" sex="MALE">
             <persName>Benvolio</persName>
           </person>
-          <person xml:id="Tybalt_Rom">
+          <person xml:id="Tybalt_Rom" sex="FEMALE">
             <persName>Tybalt</persName>
           </person>
-          <person xml:id="CITIZENS_Rom">
-            <persName>Three or four Citizens</persName>
-          </person>
-          <person xml:id="Capulet_Rom">
+          <personGrp xml:id="CITIZENS_Rom" sex="UNKNOWN">
+            <name>Three or four Citizens</name>
+          </personGrp>
+          <person xml:id="Capulet_Rom" sex="MALE">
             <persName>Capulet</persName>
           </person>
-          <person xml:id="LadyCapulet_Rom">
+          <person xml:id="LadyCapulet_Rom" sex="FEMALE">
             <persName>Lady Capulet</persName>
           </person>
-          <person xml:id="Montague_Rom">
+          <person xml:id="Montague_Rom" sex="MALE">
             <persName>Montague</persName>
           </person>
-          <person xml:id="LadyMontague_Rom">
+          <person xml:id="LadyMontague_Rom" sex="FEMALE">
             <persName>Lady Montague</persName>
           </person>
-          <person xml:id="PrinceEscalus_Rom">
+          <person xml:id="PrinceEscalus_Rom" sex="MALE">
             <persName>Escalus</persName>
           </person>
-          <person xml:id="Romeo_Rom">
+          <person xml:id="Romeo_Rom" sex="MALE">
             <persName>Romeo</persName>
           </person>
-          <person xml:id="Paris_Rom">
+          <person xml:id="Paris_Rom" sex="MALE">
             <persName>Paris</persName>
           </person>
-          <person xml:id="SERVANTS.CAPULET.X.1_Rom">
-            <persName>SERVANTS.CAPULET.X.1_Rom</persName>
-          </person>
-          <person xml:id="Nurse_Rom">
+          <personGrp xml:id="SERVANTS.CAPULET.X.1_Rom" sex="UNKNOWN">
+            <name>SERVANTS.CAPULET.X.1_Rom</name>
+          </personGrp>
+          <person xml:id="Nurse_Rom" sex="FEMALE">
             <persName>Nurse</persName>
           </person>
-          <person xml:id="Juliet_Rom">
+          <person xml:id="Juliet_Rom" sex="FEMALE">
             <persName>Juliet</persName>
           </person>
-          <person xml:id="SERVANTS.CAPULET.X.2_Rom">
-            <persName>SERVANTS.CAPULET.X.2_Rom</persName>
-          </person>
-          <person xml:id="Mercutio_Rom">
+          <personGrp xml:id="SERVANTS.CAPULET.X.2_Rom" sex="UNKNOWN">
+            <name>SERVANTS.CAPULET.X.2_Rom</name>
+          </personGrp>
+          <person xml:id="Mercutio_Rom" sex="MALE">
             <persName>Mercutio</persName>
           </person>
-          <person xml:id="SERVANTS.CAPULET.0.1_Rom">
+          <person xml:id="SERVANTS.CAPULET.0.1_Rom" sex="MALE">
             <persName>SERVANTS.CAPULET.0.1_Rom</persName>
           </person>
-          <person xml:id="SERVANTS.CAPULET.0.2_Rom">
+          <person xml:id="SERVANTS.CAPULET.0.2_Rom" sex="MALE">
             <persName>SERVANTS.CAPULET.0.2_Rom</persName>
           </person>
-          <person xml:id="SERVANTS.CAPULET.0.3_Rom">
+          <person xml:id="SERVANTS.CAPULET.0.3_Rom" sex="MALE">
             <persName>SERVANTS.CAPULET.0.3_Rom</persName>
           </person>
-          <person xml:id="Cousin_Rom">
+          <person xml:id="Cousin_Rom" sex="MALE">
             <persName>Cousin_Rom</persName>
           </person>
-          <person xml:id="SERVANTS.CAPULET.0_Rom">
+          <person xml:id="SERVANTS.CAPULET.0_Rom" sex="MALE">
             <persName>SERVANTS.CAPULET.0_Rom</persName>
           </person>
-          <person xml:id="FriarLawrence_Rom">
+          <person xml:id="FriarLawrence_Rom" sex="MALE">
             <persName>Friar Lawrence</persName>
           </person>
-          <person xml:id="SERVANTS.CAPULET.Peter_Rom">
+          <person xml:id="SERVANTS.CAPULET.Peter_Rom" sex="MALE">
             <persName>Peter</persName>
           </person>
-          <person xml:id="Petruchio_Rom">
+          <person xml:id="Petruchio_Rom" sex="MALE">
             <persName>Petruchio</persName>
           </person>
-          <person xml:id="CITIZENS.0.1_Rom">
+          <person xml:id="CITIZENS.0.1_Rom" sex="MALE">
             <persName>CITIZENS.0.1_Rom</persName>
           </person>
-          <person xml:id="MUSICIANS.0.1_Rom">
+          <person xml:id="MUSICIANS.0.1_Rom" sex="MALE">
             <persName>MUSICIANS.0.1_Rom</persName>
           </person>
-          <person xml:id="MUSICIANS.0.2_Rom">
+          <person xml:id="MUSICIANS.0.2_Rom" sex="MALE">
             <persName>MUSICIANS.0.2_Rom</persName>
           </person>
-          <person xml:id="MUSICIANS.0.3_Rom">
+          <person xml:id="MUSICIANS.0.3_Rom" sex="MALE">
             <persName>MUSICIANS.0.3_Rom</persName>
           </person>
-          <person xml:id="SERVANTS.MONTAGUE.Balthasar_Rom">
+          <person xml:id="SERVANTS.MONTAGUE.Balthasar_Rom" sex="MALE">
             <persName>Balthasar</persName>
           </person>
-          <person xml:id="Apothecary_Rom">
+          <person xml:id="Apothecary_Rom" sex="MALE">
             <persName>Apothecary</persName>
           </person>
-          <person xml:id="FriarJohn_Rom">
+          <person xml:id="FriarJohn_Rom" sex="MALE">
             <persName>Friar John</persName>
           </person>
-          <person xml:id="SERVANTS.PARIS.1_Rom">
-            <persName>SERVANTS.PARIS.1_Rom</persName>
-          </person>
-          <person xml:id="WATCHMEN.0.1_Rom">
+          <personGrp xml:id="SERVANTS.PARIS.1_Rom" sex="UNKNOWN">
+            <name>SERVANTS.PARIS.1_Rom</name>
+          </personGrp>
+          <person xml:id="WATCHMEN.0.1_Rom" sex="MALE">
             <persName>WATCHMEN.0.1_Rom</persName>
           </person>
-          <person xml:id="WATCHMEN.0.2_Rom">
+          <person xml:id="WATCHMEN.0.2_Rom" sex="MALE">
             <persName>WATCHMEN.0.2_Rom</persName>
           </person>
-          <person xml:id="WATCHMEN.0.3_Rom">
+          <person xml:id="WATCHMEN.0.3_Rom" sex="MALE">
             <persName>WATCHMEN.0.3_Rom</persName>
           </person>
         </listPerson>

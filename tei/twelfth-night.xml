@@ -88,59 +88,59 @@
       </langUsage>
       <particDesc>
         <listPerson>
-          <person xml:id="Orsino_TN">
+          <person xml:id="Orsino_TN" sex="MALE">
             <persName>Orsino</persName>
           </person>
-          <person xml:id="ATTENDANTS.ORSINO.Curio_TN">
+          <person xml:id="ATTENDANTS.ORSINO.Curio_TN" sex="MALE">
             <persName>Curio</persName>
           </person>
-          <person xml:id="ATTENDANTS.ORSINO.Valentine_TN">
+          <person xml:id="ATTENDANTS.ORSINO.Valentine_TN" sex="MALE">
             <persName>Valentine</persName>
           </person>
-          <person xml:id="Viola_TN">
+          <person xml:id="Viola_TN" sex="FEMALE">
             <persName>Viola Cesario</persName>
             <persName>Viola Cesario</persName>
           </person>
-          <person xml:id="Captain_TN">
+          <person xml:id="Captain_TN" sex="MALE">
             <persName>Captain</persName>
           </person>
-          <person xml:id="TobyBelch_TN">
+          <person xml:id="TobyBelch_TN" sex="MALE">
             <persName>Sir Toby Belch</persName>
           </person>
-          <person xml:id="Maria_TN">
+          <person xml:id="Maria_TN" sex="FEMALE">
             <persName>Maria</persName>
           </person>
-          <person xml:id="AndrewAguecheek_TN">
+          <person xml:id="AndrewAguecheek_TN" sex="MALE">
             <persName>Sir Andrew Aguecheek</persName>
           </person>
-          <person xml:id="Feste_TN">
+          <person xml:id="Feste_TN" sex="MALE">
             <persName>Fool</persName>
           </person>
-          <person xml:id="Olivia_TN">
+          <person xml:id="Olivia_TN" sex="FEMALE">
             <persName>Olivia</persName>
           </person>
-          <person xml:id="Malvolio_TN">
+          <person xml:id="Malvolio_TN" sex="MALE">
             <persName>Malvolio</persName>
           </person>
-          <person xml:id="Antonio_TN">
+          <person xml:id="Antonio_TN" sex="MALE">
             <persName>Antonio</persName>
           </person>
-          <person xml:id="Sebastian_TN">
+          <person xml:id="Sebastian_TN" sex="MALE">
             <persName>Sebastian</persName>
           </person>
-          <person xml:id="Fabian_TN">
+          <person xml:id="Fabian_TN" sex="MALE">
             <persName>Fabian</persName>
           </person>
-          <person xml:id="ATTENDANTS.OLIVIA.1_TN">
-            <persName>Lords, Sailors, Musicians, and other Attendants</persName>
-          </person>
-          <person xml:id="OFFICERS.1_TN">
+          <personGrp xml:id="ATTENDANTS.OLIVIA.1_TN" sex="UNKNOWN">
+            <name>Lords, Sailors, Musicians, and other Attendants</name>
+          </personGrp>
+          <person xml:id="OFFICERS.1_TN" sex="MALE">
             <persName>OFFICERS.1_TN</persName>
           </person>
-          <person xml:id="OFFICERS.2_TN">
+          <person xml:id="OFFICERS.2_TN" sex="MALE">
             <persName>OFFICERS.2_TN</persName>
           </person>
-          <person xml:id="Priest_TN">
+          <person xml:id="Priest_TN" sex="MALE">
             <persName>Priest</persName>
           </person>
         </listPerson>

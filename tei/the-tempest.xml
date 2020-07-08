@@ -88,61 +88,61 @@
       </langUsage>
       <particDesc>
         <listPerson>
-          <person xml:id="Shipmaster_Tmp">
+          <person xml:id="Shipmaster_Tmp" sex="MALE">
             <persName>Shipmaster</persName>
           </person>
-          <person xml:id="Boatswain_Tmp">
+          <person xml:id="Boatswain_Tmp" sex="MALE">
             <persName>Boatswain</persName>
           </person>
-          <person xml:id="Alonso_Tmp">
+          <person xml:id="Alonso_Tmp" sex="MALE">
             <persName>Alonso</persName>
           </person>
-          <person xml:id="Antonio_Tmp">
+          <person xml:id="Antonio_Tmp" sex="MALE">
             <persName>Antonio</persName>
           </person>
-          <person xml:id="Gonzalo_Tmp">
+          <person xml:id="Gonzalo_Tmp" sex="MALE">
             <persName>Gonzalo</persName>
           </person>
-          <person xml:id="Sebastian_Tmp">
+          <person xml:id="Sebastian_Tmp" sex="MALE">
             <persName>Sebastian</persName>
           </person>
-          <person xml:id="SAILORS_Tmp">
-            <persName>Mariners</persName>
-          </person>
-          <person xml:id="Miranda_Tmp">
+          <personGrp xml:id="SAILORS_Tmp" sex="UNKNOWN">
+            <name>Mariners</name>
+          </personGrp>
+          <person xml:id="Miranda_Tmp" sex="FEMALE">
             <persName>Miranda</persName>
           </person>
-          <person xml:id="Prospero_Tmp">
+          <person xml:id="Prospero_Tmp" sex="MALE">
             <persName>Prospero</persName>
           </person>
-          <person xml:id="Ariel_Tmp">
+          <person xml:id="Ariel_Tmp" sex="UNKNOWN">
             <persName>Ariel</persName>
           </person>
-          <person xml:id="Caliban_Tmp">
+          <person xml:id="Caliban_Tmp" sex="MALE">
             <persName>Caliban</persName>
           </person>
-          <person xml:id="Ferdinand_Tmp">
+          <person xml:id="Ferdinand_Tmp" sex="MALE">
             <persName>Ferdinand</persName>
           </person>
-          <person xml:id="Adrian_Tmp">
+          <person xml:id="Adrian_Tmp" sex="MALE">
             <persName>Adrian</persName>
           </person>
-          <person xml:id="Francisco_Tmp">
+          <person xml:id="Francisco_Tmp" sex="MALE">
             <persName>Francisco</persName>
           </person>
-          <person xml:id="Trinculo_Tmp">
+          <person xml:id="Trinculo_Tmp" sex="MALE">
             <persName>Trinculo</persName>
           </person>
-          <person xml:id="Stephano_Tmp">
+          <person xml:id="Stephano_Tmp" sex="MALE">
             <persName>Stephano</persName>
           </person>
-          <person xml:id="SPIRITS.Iris_Tmp">
+          <person xml:id="SPIRITS.Iris_Tmp" sex="FEMALE">
             <persName>SPIRITS.Iris_Tmp</persName>
           </person>
-          <person xml:id="SPIRITS.Ceres_Tmp">
+          <person xml:id="SPIRITS.Ceres_Tmp" sex="FEMALE">
             <persName>SPIRITS.Ceres_Tmp</persName>
           </person>
-          <person xml:id="SPIRITS.Juno_Tmp">
+          <person xml:id="SPIRITS.Juno_Tmp" sex="FEMALE">
             <persName>SPIRITS.Juno_Tmp</persName>
           </person>
         </listPerson>

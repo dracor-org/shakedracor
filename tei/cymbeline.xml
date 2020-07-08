@@ -88,127 +88,127 @@
       </langUsage>
       <particDesc>
         <listPerson>
-          <person xml:id="ATTENDANTS.1_Cym">
+          <person xml:id="ATTENDANTS.1_Cym" sex="MALE">
             <persName>ATTENDANTS.1_Cym</persName>
           </person>
-          <person xml:id="ATTENDANTS.2_Cym">
+          <person xml:id="ATTENDANTS.2_Cym" sex="MALE">
             <persName>ATTENDANTS.2_Cym</persName>
           </person>
-          <person xml:id="Queen_Cym">
+          <person xml:id="Queen_Cym" sex="FEMALE">
             <persName>Queen</persName>
           </person>
-          <person xml:id="Posthumus_Cym">
+          <person xml:id="Posthumus_Cym" sex="MALE">
             <persName>Posthumus Leonatus</persName>
           </person>
-          <person xml:id="Imogen_Cym">
+          <person xml:id="Imogen_Cym" sex="FEMALE">
             <persName>Imogen</persName>
           </person>
-          <person xml:id="Cymbeline_Cym">
+          <person xml:id="Cymbeline_Cym" sex="MALE">
             <persName>Cymbeline</persName>
           </person>
-          <person xml:id="Pisanio_Cym">
+          <person xml:id="Pisanio_Cym" sex="MALE">
             <persName>Pisanio</persName>
           </person>
-          <person xml:id="ATTENDANTS.CLOTEN.1_Cym">
+          <person xml:id="ATTENDANTS.CLOTEN.1_Cym" sex="MALE">
             <persName>ATTENDANTS.CLOTEN.1_Cym</persName>
           </person>
-          <person xml:id="Cloten_Cym">
+          <person xml:id="Cloten_Cym" sex="MALE">
             <persName>Cloten</persName>
           </person>
-          <person xml:id="ATTENDANTS.CLOTEN.2_Cym">
+          <person xml:id="ATTENDANTS.CLOTEN.2_Cym" sex="MALE">
             <persName>ATTENDANTS.CLOTEN.2_Cym</persName>
           </person>
-          <person xml:id="LADIES.IMOGEN_Cym">
+          <person xml:id="LADIES.IMOGEN_Cym" sex="FEMALE">
             <persName>Lady</persName>
           </person>
-          <person xml:id="Iachimo_Cym">
+          <person xml:id="Iachimo_Cym" sex="MALE">
             <persName>Iachimo</persName>
           </person>
-          <person xml:id="Philario_Cym">
+          <person xml:id="Philario_Cym" sex="MALE">
             <persName>Philario</persName>
           </person>
-          <person xml:id="Frenchman_Cym">
+          <person xml:id="Frenchman_Cym" sex="MALE">
             <persName>Frenchman</persName>
           </person>
-          <person xml:id="LADIES.QUEEN.0.1_Cym">
+          <person xml:id="LADIES.QUEEN.0.1_Cym" sex="FEMALE">
             <persName>Lady</persName>
           </person>
-          <person xml:id="Cornelius_Cym">
+          <person xml:id="Cornelius_Cym" sex="MALE">
             <persName>Cornelius</persName>
           </person>
-          <person xml:id="MUSICIANS_Cym">
-            <persName>Lords, Ladies, Attendants, Musicians, a Dutchman, a Spaniard, Senators, Tribunes, Captains, and Soldiers</persName>
-          </person>
-          <person xml:id="MESSENGERS.1_Cym">
+          <personGrp xml:id="MUSICIANS_Cym" sex="UNKNOWN">
+            <name>Lords, Ladies, Attendants, Musicians, a Dutchman, a Spaniard, Senators, Tribunes, Captains, and Soldiers</name>
+          </personGrp>
+          <person xml:id="MESSENGERS.1_Cym" sex="MALE">
             <persName>MESSENGERS.1_Cym</persName>
           </person>
-          <person xml:id="Lucius_Cym">
+          <person xml:id="Lucius_Cym" sex="MALE">
             <persName>Caius Lucius</persName>
           </person>
-          <person xml:id="Belarius_Cym">
+          <person xml:id="Belarius_Cym" sex="MALE">
             <persName>Belarius</persName>
           </person>
-          <person xml:id="Guiderius_Cym">
+          <person xml:id="Guiderius_Cym" sex="MALE">
             <persName>Guiderius</persName>
           </person>
-          <person xml:id="Arviragus_Cym">
+          <person xml:id="Arviragus_Cym" sex="MALE">
             <persName>Arviragus</persName>
           </person>
-          <person xml:id="ATTENDANTS.0.1_Cym">
-            <persName>Lords, Ladies, Attendants, Musicians, a Dutchman, a Spaniard, Senators, Tribunes, Captains, and Soldiers</persName>
-          </person>
-          <person xml:id="SENATORS.1_Cym">
+          <personGrp xml:id="ATTENDANTS.0.1_Cym" sex="UNKNOWN">
+            <name>Lords, Ladies, Attendants, Musicians, a Dutchman, a Spaniard, Senators, Tribunes, Captains, and Soldiers</name>
+          </personGrp>
+          <person xml:id="SENATORS.1_Cym" sex="MALE">
             <persName>SENATORS.1_Cym</persName>
           </person>
-          <person xml:id="TRIBUNES.0.1_Cym">
+          <person xml:id="TRIBUNES.0.1_Cym" sex="MALE">
             <persName>TRIBUNES.0.1_Cym</persName>
           </person>
-          <person xml:id="SENATORS.2_Cym">
+          <person xml:id="SENATORS.2_Cym" sex="MALE">
             <persName>SENATORS.2_Cym</persName>
           </person>
-          <person xml:id="SOLDIERS.ROMAN.0.1_Cym">
+          <person xml:id="SOLDIERS.ROMAN.0.1_Cym" sex="MALE">
             <persName>SOLDIERS.ROMAN.0.1_Cym</persName>
           </person>
-          <person xml:id="Soothsayer_Cym">
+          <person xml:id="Soothsayer_Cym" sex="MALE">
             <persName>Soothsayer</persName>
           </person>
-          <person xml:id="ATTENDANTS.0.2_Cym">
-            <persName>Lords, Ladies, Attendants, Musicians, a Dutchman, a Spaniard, Senators, Tribunes, Captains, and Soldiers</persName>
-          </person>
-          <person xml:id="ATTENDANTS.3_Cym">
+          <personGrp xml:id="ATTENDANTS.0.2_Cym" sex="UNKNOWN">
+            <name>Lords, Ladies, Attendants, Musicians, a Dutchman, a Spaniard, Senators, Tribunes, Captains, and Soldiers</name>
+          </personGrp>
+          <person xml:id="ATTENDANTS.3_Cym" sex="MALE">
             <persName>Lord</persName>
           </person>
-          <person xml:id="SOLDIERS.BRITON.0.1_Cym">
+          <person xml:id="SOLDIERS.BRITON.0.1_Cym" sex="MALE">
             <persName>SOLDIERS.BRITON.0.1_Cym</persName>
           </person>
-          <person xml:id="SOLDIERS.BRITON.0.2_Cym">
+          <person xml:id="SOLDIERS.BRITON.0.2_Cym" sex="MALE">
             <persName>SOLDIERS.BRITON.0.2_Cym</persName>
           </person>
-          <person xml:id="JAILERS.1_Cym">
+          <person xml:id="JAILERS.1_Cym" sex="MALE">
             <persName>JAILERS.1_Cym</persName>
           </person>
-          <person xml:id="JAILERS.2_Cym">
+          <person xml:id="JAILERS.2_Cym" sex="MALE">
             <persName>JAILERS.2_Cym</persName>
           </person>
-          <person xml:id="GHOSTS.Father_Cym">
+          <person xml:id="GHOSTS.Father_Cym" sex="MALE">
             <persName>Sicilius Leonatus</persName>
           </person>
-          <person xml:id="GHOSTS.Mother_Cym">
+          <person xml:id="GHOSTS.Mother_Cym" sex="FEMALE">
             <persName>Mother</persName>
           </person>
-          <person xml:id="GHOSTS.BROTHERS.1_Cym">
+          <person xml:id="GHOSTS.BROTHERS.1_Cym" sex="MALE">
             <persName>GHOSTS.BROTHERS.1_Cym</persName>
           </person>
-          <person xml:id="GHOSTS.BROTHERS.2_Cym">
+          <person xml:id="GHOSTS.BROTHERS.2_Cym" sex="MALE">
             <persName>GHOSTS.BROTHERS.2_Cym</persName>
           </person>
-          <person xml:id="Jupiter_Cym">
+          <person xml:id="Jupiter_Cym" ana="http://www.wikidata.org/entity/Q4649">
             <persName>Jupiter</persName>
           </person>
-          <person xml:id="MESSENGERS.2_Cym">
+          <person xml:id="MESSENGERS.2_Cym" sex="MALE">
             <persName>MESSENGERS.2_Cym</persName>
           </person>
-          <person xml:id="LADIES.QUEEN_Cym">
+          <person xml:id="LADIES.QUEEN_Cym" sex="FEMALE">
             <persName>LADIES.QUEEN_Cym</persName>
           </person>
         </listPerson>

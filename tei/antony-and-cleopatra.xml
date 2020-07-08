@@ -88,229 +88,229 @@
       </langUsage>
       <particDesc>
         <listPerson>
-          <person xml:id="Philo_Ant">
+          <person xml:id="Philo_Ant" sex="MALE">
             <persName>Philo</persName>
           </person>
-          <person xml:id="Cleopatra_Ant">
+          <person xml:id="Cleopatra_Ant" ana="http://www.wikidata.org/entity/Q635">
             <persName>Cleopatra</persName>
           </person>
-          <person xml:id="Antony_JC">
+          <person xml:id="Antony_JC" ana="http://www.wikidata.org/entity/Q51673">
             <persName>Antony</persName>
           </person>
-          <person xml:id="MESSENGERS.X.1_Ant">
+          <person xml:id="MESSENGERS.X.1_Ant" sex="MALE">
             <persName>MESSENGERS.X.1_Ant</persName>
           </person>
-          <person xml:id="Demetrius_Ant">
+          <person xml:id="Demetrius_Ant" sex="MALE">
             <persName>Demetrius</persName>
           </person>
-          <person xml:id="Charmian_Ant">
+          <person xml:id="Charmian_Ant" ana="http://www.wikidata.org/entity/Q5086521">
             <persName>Charmian</persName>
           </person>
-          <person xml:id="Alexas_Ant">
+          <person xml:id="Alexas_Ant" sex="MALE">
             <persName>Alexas</persName>
           </person>
-          <person xml:id="Soothsayer_Ant">
+          <person xml:id="Soothsayer_Ant" sex="MALE">
             <persName>A Soothsayer</persName>
           </person>
-          <person xml:id="Enobarbus_Ant">
+          <person xml:id="Enobarbus_Ant" ana="http://www.wikidata.org/entity/Q360920">
             <persName>Enobarbus Domitius</persName>
             <persName>Enobarbus Domitius</persName>
           </person>
-          <person xml:id="Iras_Ant">
+          <person xml:id="Iras_Ant" sex="FEMALE">
             <persName>Iras</persName>
           </person>
-          <person xml:id="MESSENGERS.ANTONY.1_Ant">
+          <person xml:id="MESSENGERS.ANTONY.1_Ant" sex="MALE">
             <persName>MESSENGERS.ANTONY.1_Ant</persName>
           </person>
-          <person xml:id="MESSENGERS.ANTONY.2_Ant">
+          <person xml:id="MESSENGERS.ANTONY.2_Ant" sex="MALE">
             <persName>MESSENGERS.ANTONY.2_Ant</persName>
           </person>
-          <person xml:id="MESSENGERS.ANTONY.3_Ant">
+          <person xml:id="MESSENGERS.ANTONY.3_Ant" sex="MALE">
             <persName>MESSENGERS.ANTONY.3_Ant</persName>
           </person>
-          <person xml:id="Octavius_JC">
+          <person xml:id="Octavius_JC" ana="http://www.wikidata.org/entity/Q1405">
             <persName>Octavius Caesar</persName>
           </person>
-          <person xml:id="Lepidus_JC">
+          <person xml:id="Lepidus_JC" ana="http://www.wikidata.org/entity/Q105452">
             <persName>Lepidus</persName>
           </person>
-          <person xml:id="MESSENGERS.CAESAR.1_Ant">
+          <person xml:id="MESSENGERS.CAESAR.1_Ant" sex="MALE">
             <persName>MESSENGERS.CAESAR.1_Ant</persName>
           </person>
-          <person xml:id="MESSENGERS.CAESAR.2_Ant">
+          <person xml:id="MESSENGERS.CAESAR.2_Ant" sex="MALE">
             <persName>MESSENGERS.CAESAR.2_Ant</persName>
           </person>
-          <person xml:id="Mardian_Ant">
+          <person xml:id="Mardian_Ant" sex="MALE">
             <persName>Mardian</persName>
           </person>
-          <person xml:id="Pompey_Ant">
+          <person xml:id="Pompey_Ant" ana="http://www.wikidata.org/entity/Q295228">
             <persName>Sextus Pompeius Pompey</persName>
             <persName>Sextus Pompeius Pompey</persName>
           </person>
-          <person xml:id="Menas_Ant">
+          <person xml:id="Menas_Ant" ana="http://www.wikidata.org/entity/Q1283531">
             <persName>Menas</persName>
           </person>
-          <person xml:id="Varrius_Ant">
+          <person xml:id="Varrius_Ant" sex="MALE">
             <persName>Varrius</persName>
           </person>
-          <person xml:id="Maecenas_Ant">
+          <person xml:id="Maecenas_Ant" ana="http://www.wikidata.org/entity/Q8833">
             <persName>Maecenas</persName>
           </person>
-          <person xml:id="Agrippa_Ant">
+          <person xml:id="Agrippa_Ant" ana="http://www.wikidata.org/entity/Q48174">
             <persName>Agrippa</persName>
           </person>
-          <person xml:id="Octavia_Ant">
+          <person xml:id="Octavia_Ant" ana="http://www.wikidata.org/entity/Q229483">
             <persName>Octavia</persName>
           </person>
-          <person xml:id="MESSENGERS.X.2_Ant">
+          <person xml:id="MESSENGERS.X.2_Ant" sex="MALE">
             <persName>MESSENGERS.X.2_Ant</persName>
           </person>
-          <person xml:id="SERVANTS.0.1_Ant">
-            <persName>SERVANTS.0.1_Ant</persName>
-          </person>
-          <person xml:id="SERVANTS.0.2_Ant">
-            <persName>SERVANTS.0.2_Ant</persName>
-          </person>
-          <person xml:id="Boy_Ant">
+          <personGrp xml:id="SERVANTS.0.1_Ant" sex="UNKNOWN">
+            <name>SERVANTS.0.1_Ant</name>
+          </personGrp>
+          <personGrp xml:id="SERVANTS.0.2_Ant" sex="UNKNOWN">
+            <name>SERVANTS.0.2_Ant</name>
+          </personGrp>
+          <person xml:id="Boy_Ant" sex="MALE">
             <persName>A Boy</persName>
           </person>
-          <person xml:id="CAPTAINS_Ant">
+          <person xml:id="CAPTAINS_Ant" sex="MALE">
             <persName>CAPTAINS_Ant</persName>
           </person>
-          <person xml:id="Ventidius_Ant">
+          <person xml:id="Ventidius_Ant" ana="http://www.wikidata.org/entity/Q521552">
             <persName>Ventidius</persName>
           </person>
-          <person xml:id="Silius_Ant">
+          <person xml:id="Silius_Ant" sex="MALE">
             <persName>Silius</persName>
           </person>
-          <person xml:id="Eros_Ant">
+          <person xml:id="Eros_Ant" sex="MALE">
             <persName>Eros</persName>
           </person>
-          <person xml:id="Canidius_Ant">
+          <person xml:id="Canidius_Ant" ana="http://www.wikidata.org/entity/Q637205">
             <persName>Canidius</persName>
           </person>
-          <person xml:id="MESSENGERS.X.3_Ant">
-            <persName>MESSENGERS.X.3_Ant</persName>
-          </person>
-          <person xml:id="SOLDIERS.ANTONY.X.1_Ant">
-            <persName>SOLDIERS.ANTONY.X.1_Ant</persName>
-          </person>
-          <person xml:id="MESSENGERS.X.4_Ant">
-            <persName>MESSENGERS.X.4_Ant</persName>
-          </person>
-          <person xml:id="Taurus_Ant">
+          <personGrp xml:id="MESSENGERS.X.3_Ant" sex="UNKNOWN">
+            <name>MESSENGERS.X.3_Ant</name>
+          </personGrp>
+          <personGrp xml:id="SOLDIERS.ANTONY.X.1_Ant" sex="UNKNOWN">
+            <name>SOLDIERS.ANTONY.X.1_Ant</name>
+          </personGrp>
+          <personGrp xml:id="MESSENGERS.X.4_Ant" sex="UNKNOWN">
+            <name>MESSENGERS.X.4_Ant</name>
+          </personGrp>
+          <person xml:id="Taurus_Ant" ana="http://www.wikidata.org/entity/Q2331658">
             <persName>Taurus</persName>
           </person>
-          <person xml:id="Scarus_Ant">
+          <person xml:id="Scarus_Ant" ana="http://www.wikidata.org/entity/Q3655539">
             <persName>Scarus</persName>
           </person>
-          <person xml:id="ATTENDANTS.ANTONY_Ant">
-            <persName>ATTENDANTS.ANTONY_Ant</persName>
-          </person>
-          <person xml:id="Dolabella_Ant">
+          <personGrp xml:id="ATTENDANTS.ANTONY_Ant" sex="UNKNOWN">
+            <name>ATTENDANTS.ANTONY_Ant</name>
+          </personGrp>
+          <person xml:id="Dolabella_Ant" ana="http://www.wikidata.org/entity/Q451597">
             <persName>Dolabella</persName>
           </person>
-          <person xml:id="Ambassador_Ant">
+          <person xml:id="Ambassador_Ant" sex="MALE">
             <persName>A Schoolmaster Ambassador</persName>
             <persName>A Schoolmaster Ambassador</persName>
           </person>
-          <person xml:id="Thidias_Ant">
+          <person xml:id="Thidias_Ant" sex="MALE">
             <persName>Thidias</persName>
           </person>
-          <person xml:id="SERVANTS.X.1_Ant">
-            <persName>SERVANTS.X.1_Ant</persName>
-          </person>
-          <person xml:id="SERVANTS.X.2_Ant">
-            <persName>SERVANTS.X.2_Ant</persName>
-          </person>
-          <person xml:id="SERVANTS_Ant">
-            <persName>Servants</persName>
-          </person>
-          <person xml:id="SOLDIERS.ANTONY.0.1_Ant">
-            <persName>SOLDIERS.ANTONY.0.1_Ant</persName>
-          </person>
-          <person xml:id="SOLDIERS.ANTONY.0.2_Ant">
-            <persName>SOLDIERS.ANTONY.0.2_Ant</persName>
-          </person>
-          <person xml:id="SOLDIERS.ANTONY.0.3_Ant">
-            <persName>SOLDIERS.ANTONY.0.3_Ant</persName>
-          </person>
-          <person xml:id="SOLDIERS.ANTONY.0.4_Ant">
-            <persName>SOLDIERS.ANTONY.0.4_Ant</persName>
-          </person>
-          <person xml:id="SOLDIERS.ANTONY_Ant">
-            <persName>SOLDIERS.ANTONY_Ant</persName>
-          </person>
-          <person xml:id="SOLDIERS.ANTONY.X.2_Ant">
-            <persName>SOLDIERS.ANTONY.X.2_Ant</persName>
-          </person>
-          <person xml:id="CAPTAINS.0.1_Ant">
+          <personGrp xml:id="SERVANTS.X.1_Ant" sex="UNKNOWN">
+            <name>SERVANTS.X.1_Ant</name>
+          </personGrp>
+          <personGrp xml:id="SERVANTS.X.2_Ant" sex="UNKNOWN">
+            <name>SERVANTS.X.2_Ant</name>
+          </personGrp>
+          <personGrp xml:id="SERVANTS_Ant" sex="UNKNOWN">
+            <name>Servants</name>
+          </personGrp>
+          <personGrp xml:id="SOLDIERS.ANTONY.0.1_Ant" sex="UNKNOWN">
+            <name>SOLDIERS.ANTONY.0.1_Ant</name>
+          </personGrp>
+          <personGrp xml:id="SOLDIERS.ANTONY.0.2_Ant" sex="UNKNOWN">
+            <name>SOLDIERS.ANTONY.0.2_Ant</name>
+          </personGrp>
+          <personGrp xml:id="SOLDIERS.ANTONY.0.3_Ant" sex="UNKNOWN">
+            <name>SOLDIERS.ANTONY.0.3_Ant</name>
+          </personGrp>
+          <personGrp xml:id="SOLDIERS.ANTONY.0.4_Ant" sex="UNKNOWN">
+            <name>SOLDIERS.ANTONY.0.4_Ant</name>
+          </personGrp>
+          <personGrp xml:id="SOLDIERS.ANTONY_Ant" sex="UNKNOWN">
+            <name>SOLDIERS.ANTONY_Ant</name>
+          </personGrp>
+          <personGrp xml:id="SOLDIERS.ANTONY.X.2_Ant" sex="UNKNOWN">
+            <name>SOLDIERS.ANTONY.X.2_Ant</name>
+          </personGrp>
+          <person xml:id="CAPTAINS.0.1_Ant" sex="MALE">
             <persName>A Captain</persName>
           </person>
-          <person xml:id="SOLDIERS.ANTONY.X.3_Ant">
-            <persName>SOLDIERS.ANTONY.X.3_Ant</persName>
-          </person>
-          <person xml:id="MESSENGERS.X.5_Ant">
-            <persName>MESSENGERS.X.5_Ant</persName>
-          </person>
-          <person xml:id="SOLDIERS.CAESAR.X.1_Ant">
-            <persName>SOLDIERS.CAESAR.X.1_Ant</persName>
-          </person>
-          <person xml:id="WATCHMEN.Sentry_Ant">
-            <persName>WATCHMEN.Sentry_Ant</persName>
-          </person>
-          <person xml:id="WATCHMEN.1_Ant">
+          <personGrp xml:id="SOLDIERS.ANTONY.X.3_Ant" sex="UNKNOWN">
+            <name>SOLDIERS.ANTONY.X.3_Ant</name>
+          </personGrp>
+          <personGrp xml:id="MESSENGERS.X.5_Ant" sex="UNKNOWN">
+            <name>MESSENGERS.X.5_Ant</name>
+          </personGrp>
+          <personGrp xml:id="SOLDIERS.CAESAR.X.1_Ant" sex="UNKNOWN">
+            <name>SOLDIERS.CAESAR.X.1_Ant</name>
+          </personGrp>
+          <personGrp xml:id="WATCHMEN.Sentry_Ant" sex="UNKNOWN">
+            <name>WATCHMEN.Sentry_Ant</name>
+          </personGrp>
+          <person xml:id="WATCHMEN.1_Ant" sex="MALE">
             <persName>WATCHMEN.1_Ant</persName>
           </person>
-          <person xml:id="WATCHMEN.2_Ant">
+          <person xml:id="WATCHMEN.2_Ant" sex="MALE">
             <persName>WATCHMEN.2_Ant</persName>
           </person>
-          <person xml:id="GUARDS.0.1_Ant">
+          <person xml:id="GUARDS.0.1_Ant" sex="MALE">
             <persName>GUARDS.0.1_Ant</persName>
           </person>
-          <person xml:id="GUARDS.0.2_Ant">
+          <person xml:id="GUARDS.0.2_Ant" sex="MALE">
             <persName>GUARDS.0.2_Ant</persName>
           </person>
-          <person xml:id="GUARDS_Ant">
-            <persName>Guardsmen</persName>
-          </person>
-          <person xml:id="GUARDS.Dercetus_Ant">
+          <personGrp xml:id="GUARDS_Ant" sex="UNKNOWN">
+            <name>Guardsmen</name>
+          </personGrp>
+          <person xml:id="GUARDS.Dercetus_Ant" sex="MALE">
             <persName>Dercetus</persName>
           </person>
-          <person xml:id="GUARDS.0.3_Ant">
+          <person xml:id="GUARDS.0.3_Ant" sex="MALE">
             <persName>GUARDS.0.3_Ant</persName>
           </person>
-          <person xml:id="Diomedes_Ant">
+          <person xml:id="Diomedes_Ant" sex="MALE">
             <persName>Diomedes</persName>
           </person>
-          <person xml:id="LADIES_Ant">
-            <persName>LADIES_Ant</persName>
-          </person>
-          <person xml:id="Egyptian_Ant">
+          <personGrp xml:id="LADIES_Ant" sex="UNKNOWN">
+            <name>LADIES_Ant</name>
+          </personGrp>
+          <person xml:id="Egyptian_Ant" sex="MALE">
             <persName>An Egyptian</persName>
           </person>
-          <person xml:id="Proculeius_Ant">
+          <person xml:id="Proculeius_Ant" ana="http://www.wikidata.org/entity/Q1491494">
             <persName>Proculeius</persName>
           </person>
-          <person xml:id="Gallus_Ant">
+          <person xml:id="Gallus_Ant" sex="MALE">
             <persName>Gallus</persName>
           </person>
-          <person xml:id="ATTENDANTS.CAESAR_Ant">
-            <persName>ATTENDANTS.CAESAR_Ant</persName>
-          </person>
-          <person xml:id="Seleucus_Ant">
+          <personGrp xml:id="ATTENDANTS.CAESAR_Ant" sex="UNKNOWN">
+            <name>ATTENDANTS.CAESAR_Ant</name>
+          </personGrp>
+          <person xml:id="Seleucus_Ant" ana="http://www.wikidata.org/entity/Q575798">
             <persName>Seleucus</persName>
           </person>
-          <person xml:id="GUARDS.CAESAR.1_Ant">
+          <person xml:id="GUARDS.CAESAR.1_Ant" sex="MALE">
             <persName>GUARDS.CAESAR.1_Ant</persName>
           </person>
-          <person xml:id="Countryman_Ant">
+          <person xml:id="Countryman_Ant" sex="MALE">
             <persName>A Countryman</persName>
           </person>
-          <person xml:id="GUARDS.CAESAR.0.1_Ant">
+          <person xml:id="GUARDS.CAESAR.0.1_Ant" sex="MALE">
             <persName>GUARDS.CAESAR.0.1_Ant</persName>
           </person>
-          <person xml:id="GUARDS.CAESAR.0.2_Ant">
+          <person xml:id="GUARDS.CAESAR.0.2_Ant" sex="MALE">
             <persName>GUARDS.CAESAR.0.2_Ant</persName>
           </person>
         </listPerson>

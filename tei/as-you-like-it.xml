@@ -88,88 +88,88 @@
       </langUsage>
       <particDesc>
         <listPerson>
-          <person xml:id="Orlando_AYL">
+          <person xml:id="Orlando_AYL" sex="MALE">
             <persName>Orlando</persName>
           </person>
-          <person xml:id="Adam_AYL">
+          <person xml:id="Adam_AYL" sex="MALE">
             <persName>Adam</persName>
           </person>
-          <person xml:id="Oliver_AYL">
+          <person xml:id="Oliver_AYL" sex="MALE">
             <persName>Oliver</persName>
           </person>
-          <person xml:id="Dennis_AYL">
+          <person xml:id="Dennis_AYL" sex="MALE">
             <persName>Dennis</persName>
           </person>
-          <person xml:id="Charles_AYL">
+          <person xml:id="Charles_AYL" sex="MALE">
             <persName>Charles</persName>
           </person>
-          <person xml:id="Celia_AYL">
+          <person xml:id="Celia_AYL" sex="FEMALE">
             <persName>Celia</persName>
           </person>
-          <person xml:id="Rosalind_AYL">
+          <person xml:id="Rosalind_AYL" sex="FEMALE">
             <persName>Rosalind</persName>
           </person>
-          <person xml:id="Touchstone_AYL">
+          <person xml:id="Touchstone_AYL" sex="MALE">
             <persName>Touchstone</persName>
           </person>
-          <person xml:id="LORDS.FREDERICK.LeBeau_AYL">
+          <person xml:id="LORDS.FREDERICK.LeBeau_AYL" sex="MALE">
             <persName>Le Beau</persName>
           </person>
-          <person xml:id="DukeFrederick_AYL">
+          <person xml:id="DukeFrederick_AYL" sex="MALE">
             <persName>Duke Frederick</persName>
           </person>
-          <person xml:id="DukeSenior_AYL">
+          <person xml:id="DukeSenior_AYL" sex="MALE">
             <persName>Duke Senior</persName>
           </person>
-          <person xml:id="LORDS.SENIOR.Amiens_AYL">
+          <person xml:id="LORDS.SENIOR.Amiens_AYL" sex="MALE">
             <persName>Amiens</persName>
           </person>
-          <person xml:id="LORDS.SENIOR.0.1_AYL">
+          <person xml:id="LORDS.SENIOR.0.1_AYL" sex="MALE">
             <persName>First Lord</persName>
           </person>
-          <person xml:id="LORDS.SENIOR.0.2_AYL">
+          <person xml:id="LORDS.SENIOR.0.2_AYL" sex="MALE">
             <persName>Second Lord</persName>
           </person>
-          <person xml:id="LORDS.FREDERICK.0.1_AYL">
+          <person xml:id="LORDS.FREDERICK.0.1_AYL" sex="MALE">
             <persName>First Lord</persName>
           </person>
-          <person xml:id="LORDS.FREDERICK.0.2_AYL">
+          <person xml:id="LORDS.FREDERICK.0.2_AYL" sex="MALE">
             <persName>Second Lord</persName>
           </person>
-          <person xml:id="Corin_AYL">
+          <person xml:id="Corin_AYL" sex="MALE">
             <persName>Corin</persName>
           </person>
-          <person xml:id="Silvius_AYL">
+          <person xml:id="Silvius_AYL" sex="MALE">
             <persName>Silvius</persName>
           </person>
-          <person xml:id="Jaques_AYL">
+          <person xml:id="Jaques_AYL" sex="MALE">
             <persName>Jaques</persName>
           </person>
-          <person xml:id="LORDS.SENIOR_AYL">
-            <persName>Lords, Attendants, Musicians</persName>
-          </person>
-          <person xml:id="Audrey_AYL">
+          <personGrp xml:id="LORDS.SENIOR_AYL" sex="UNKNOWN">
+            <name>Lords, Attendants, Musicians</name>
+          </personGrp>
+          <person xml:id="Audrey_AYL" sex="FEMALE">
             <persName>Audrey</persName>
           </person>
-          <person xml:id="OliverMartext_AYL">
+          <person xml:id="OliverMartext_AYL" sex="MALE">
             <persName>Sir Oliver Martext</persName>
           </person>
-          <person xml:id="Phoebe_AYL">
+          <person xml:id="Phoebe_AYL" sex="FEMALE">
             <persName>Phoebe</persName>
           </person>
-          <person xml:id="William_AYL">
+          <person xml:id="William_AYL" sex="MALE">
             <persName>William</persName>
           </person>
-          <person xml:id="SERVANTS.1_AYL">
+          <person xml:id="SERVANTS.1_AYL" sex="UNKNOWN">
             <persName>First Page</persName>
           </person>
-          <person xml:id="SERVANTS.2_AYL">
+          <person xml:id="SERVANTS.2_AYL" sex="UNKNOWN">
             <persName>Second Page</persName>
           </person>
-          <person xml:id="Hymen_AYL">
+          <person xml:id="Hymen_AYL" ana="http://www.wikidata.org/entity/Q506770">
             <persName>Hymen</persName>
           </person>
-          <person xml:id="SecondBrother_AYL">
+          <person xml:id="SecondBrother_AYL" sex="MALE">
             <persName>Second Brother</persName>
           </person>
         </listPerson>

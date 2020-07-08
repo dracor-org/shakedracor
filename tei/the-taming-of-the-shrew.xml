@@ -88,118 +88,118 @@
       </langUsage>
       <particDesc>
         <listPerson>
-          <person xml:id="Sly_Shr">
+          <person xml:id="Sly_Shr" sex="MALE">
             <persName>Christopher Sly</persName>
           </person>
-          <person xml:id="Hostess_Shr">
-            <persName>characters in the Induction</persName>
-          </person>
-          <person xml:id="Lord_Shr">
-            <persName>characters in the Induction</persName>
-          </person>
-          <person xml:id="HUNTSMEN.0.1_Shr">
-            <persName>characters in the Induction</persName>
-          </person>
-          <person xml:id="HUNTSMEN.0.2_Shr">
-            <persName>characters in the Induction</persName>
-          </person>
-          <person xml:id="HUNTSMEN.0.3_Shr">
-            <persName>characters in the Induction</persName>
-          </person>
-          <person xml:id="SERVANTS.LORD.0.1_Shr">
-            <persName>characters in the Induction</persName>
-          </person>
-          <person xml:id="PLAYERS_Shr">
-            <persName>characters in the Induction</persName>
-          </person>
-          <person xml:id="PLAYERS.0.1_Shr">
-            <persName>characters in the Induction</persName>
-          </person>
-          <person xml:id="PLAYERS.0.2_Shr">
-            <persName>characters in the Induction</persName>
-          </person>
-          <person xml:id="SERVANTS.LORD.0.2_Shr">
-            <persName>characters in the Induction</persName>
-          </person>
-          <person xml:id="SERVANTS.LORD.0.3_Shr">
-            <persName>characters in the Induction</persName>
-          </person>
-          <person xml:id="SERVANTS.LORD_Shr">
-            <persName>characters in the Induction</persName>
-          </person>
-          <person xml:id="Page_Shr">
-            <persName>characters in the Induction</persName>
-          </person>
-          <person xml:id="Messenger_Shr">
-            <persName>characters in the Induction</persName>
-          </person>
-          <person xml:id="Lucentio_Shr">
+          <personGrp xml:id="Hostess_Shr" sex="UNKNOWN">
+            <name>characters in the Induction</name>
+          </personGrp>
+          <personGrp xml:id="Lord_Shr" sex="UNKNOWN">
+            <name>characters in the Induction</name>
+          </personGrp>
+          <personGrp xml:id="HUNTSMEN.0.1_Shr" sex="UNKNOWN">
+            <name>characters in the Induction</name>
+          </personGrp>
+          <personGrp xml:id="HUNTSMEN.0.2_Shr" sex="UNKNOWN">
+            <name>characters in the Induction</name>
+          </personGrp>
+          <personGrp xml:id="HUNTSMEN.0.3_Shr" sex="UNKNOWN">
+            <name>characters in the Induction</name>
+          </personGrp>
+          <personGrp xml:id="SERVANTS.LORD.0.1_Shr" sex="UNKNOWN">
+            <name>characters in the Induction</name>
+          </personGrp>
+          <personGrp xml:id="PLAYERS_Shr" sex="UNKNOWN">
+            <name>characters in the Induction</name>
+          </personGrp>
+          <personGrp xml:id="PLAYERS.0.1_Shr" sex="UNKNOWN">
+            <name>characters in the Induction</name>
+          </personGrp>
+          <personGrp xml:id="PLAYERS.0.2_Shr" sex="UNKNOWN">
+            <name>characters in the Induction</name>
+          </personGrp>
+          <personGrp xml:id="SERVANTS.LORD.0.2_Shr" sex="UNKNOWN">
+            <name>characters in the Induction</name>
+          </personGrp>
+          <personGrp xml:id="SERVANTS.LORD.0.3_Shr" sex="UNKNOWN">
+            <name>characters in the Induction</name>
+          </personGrp>
+          <personGrp xml:id="SERVANTS.LORD_Shr" sex="UNKNOWN">
+            <name>characters in the Induction</name>
+          </personGrp>
+          <personGrp xml:id="Page_Shr" sex="UNKNOWN">
+            <name>characters in the Induction</name>
+          </personGrp>
+          <personGrp xml:id="Messenger_Shr" sex="UNKNOWN">
+            <name>characters in the Induction</name>
+          </personGrp>
+          <person xml:id="Lucentio_Shr" sex="MALE">
             <persName>Lucentio</persName>
           </person>
-          <person xml:id="Tranio_Shr">
+          <person xml:id="Tranio_Shr" sex="MALE">
             <persName>Tranio</persName>
           </person>
-          <person xml:id="Baptista_Shr">
+          <person xml:id="Baptista_Shr" sex="MALE">
             <persName>Baptista Minola</persName>
           </person>
-          <person xml:id="Gremio_Shr">
+          <person xml:id="Gremio_Shr" sex="MALE">
             <persName>Gremio</persName>
           </person>
-          <person xml:id="Katherine_Shr">
+          <person xml:id="Katherine_Shr" sex="FEMALE">
             <persName>Katherine</persName>
           </person>
-          <person xml:id="Hortensio_Shr">
+          <person xml:id="Hortensio_Shr" sex="MALE">
             <persName>Hortensio</persName>
           </person>
-          <person xml:id="Bianca_Shr">
+          <person xml:id="Bianca_Shr" sex="FEMALE">
             <persName>Bianca</persName>
           </person>
-          <person xml:id="Biondello_Shr">
+          <person xml:id="Biondello_Shr" sex="MALE">
             <persName>Biondello</persName>
           </person>
-          <person xml:id="Petruchio_Shr">
+          <person xml:id="Petruchio_Shr" sex="MALE">
             <persName>Petruchio</persName>
           </person>
-          <person xml:id="Grumio_Shr">
+          <person xml:id="Grumio_Shr" sex="MALE">
             <persName>Grumio</persName>
           </person>
-          <person xml:id="SERVANTS.BAPTISTA.1_Shr">
+          <person xml:id="SERVANTS.BAPTISTA.1_Shr" sex="UNKNOWN">
             <persName>SERVANTS.BAPTISTA.1_Shr</persName>
           </person>
-          <person xml:id="Curtis_Shr">
+          <person xml:id="Curtis_Shr" sex="MALE">
             <persName>Curtis</persName>
           </person>
-          <person xml:id="SERVANTS.PETRUCHIO.Nathaniel_Shr">
+          <person xml:id="SERVANTS.PETRUCHIO.Nathaniel_Shr" sex="MALE">
             <persName>Nathaniel</persName>
           </person>
-          <person xml:id="SERVANTS.PETRUCHIO.Phillip_Shr">
+          <person xml:id="SERVANTS.PETRUCHIO.Phillip_Shr" sex="MALE">
             <persName>Phillip</persName>
           </person>
-          <person xml:id="SERVANTS.PETRUCHIO.Joseph_Shr">
+          <person xml:id="SERVANTS.PETRUCHIO.Joseph_Shr" sex="MALE">
             <persName>Joseph</persName>
           </person>
-          <person xml:id="SERVANTS.PETRUCHIO.Nicholas_Shr">
+          <person xml:id="SERVANTS.PETRUCHIO.Nicholas_Shr" sex="MALE">
             <persName>Nicholas</persName>
           </person>
-          <person xml:id="SERVANTS.PETRUCHIO.Peter_Shr">
+          <person xml:id="SERVANTS.PETRUCHIO.Peter_Shr" sex="MALE">
             <persName>Peter</persName>
           </person>
-          <person xml:id="SERVANTS.PETRUCHIO.0.4_Shr">
+          <person xml:id="SERVANTS.PETRUCHIO.0.4_Shr" sex="UNKNOWN">
             <persName>SERVANTS.PETRUCHIO.0.4_Shr</persName>
           </person>
-          <person xml:id="Merchant_Shr">
+          <person xml:id="Merchant_Shr" sex="MALE">
             <persName>Merchant_Shr</persName>
           </person>
-          <person xml:id="Haberdasher_Shr">
+          <person xml:id="Haberdasher_Shr" sex="MALE">
             <persName>Haberdasher_Shr</persName>
           </person>
-          <person xml:id="Tailor_Shr">
+          <person xml:id="Tailor_Shr" sex="MALE">
             <persName>Tailor_Shr</persName>
           </person>
-          <person xml:id="Vincentio_Shr">
+          <person xml:id="Vincentio_Shr" sex="MALE">
             <persName>Vincentio</persName>
           </person>
-          <person xml:id="Widow_Shr">
+          <person xml:id="Widow_Shr" sex="FEMALE">
             <persName>Widow_Shr</persName>
           </person>
         </listPerson>

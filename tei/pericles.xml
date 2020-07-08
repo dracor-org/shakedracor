@@ -88,166 +88,166 @@
       </langUsage>
       <particDesc>
         <listPerson>
-          <person xml:id="Gower_Per">
+          <person xml:id="Gower_Per" sex="MALE">
             <persName>Gower</persName>
           </person>
-          <person xml:id="Antiochus_Per">
+          <person xml:id="Antiochus_Per" sex="MALE">
             <persName>Antiochus</persName>
           </person>
-          <person xml:id="Pericles_Per">
+          <person xml:id="Pericles_Per" ana="http://www.wikidata.org/entity/Q80398">
             <persName>Pericles</persName>
           </person>
-          <person xml:id="Daughter_Per">
+          <person xml:id="Daughter_Per" sex="FEMALE">
             <persName>Daughter</persName>
           </person>
-          <person xml:id="Thaliard_Per">
+          <person xml:id="Thaliard_Per" sex="MALE">
             <persName>Thaliard</persName>
           </person>
-          <person xml:id="MESSENGERS.ANTIOCH.1_Per">
+          <person xml:id="MESSENGERS.ANTIOCH.1_Per" sex="MALE">
             <persName>Messenger</persName>
           </person>
-          <person xml:id="LORDS.TYRE.0.1_Per">
+          <person xml:id="LORDS.TYRE.0.1_Per" sex="MALE">
             <persName>LORDS.TYRE.0.1_Per</persName>
           </person>
-          <person xml:id="LORDS.TYRE.0.2_Per">
+          <person xml:id="LORDS.TYRE.0.2_Per" sex="MALE">
             <persName>LORDS.TYRE.0.2_Per</persName>
           </person>
-          <person xml:id="Helicanus_Per">
+          <person xml:id="Helicanus_Per" sex="MALE">
             <persName>Helicanus</persName>
           </person>
-          <person xml:id="Cleon_Per">
+          <person xml:id="Cleon_Per" ana="http://www.wikidata.org/entity/Q298220">
             <persName>Cleon</persName>
           </person>
-          <person xml:id="Dionyza_Per">
+          <person xml:id="Dionyza_Per" sex="FEMALE">
             <persName>Dionyza</persName>
           </person>
-          <person xml:id="LORDS.TARSUS.1_Per">
+          <person xml:id="LORDS.TARSUS.1_Per" sex="MALE">
             <persName>Lord</persName>
           </person>
-          <person xml:id="CITIZENS.TARSUS_Per">
-            <persName>Followers of Antiochus, Attendants to Pericles, Attendants to Simonides, Squires to the five Knights, Tyrian gentlemen, Citizens of Tarsus, Ladies of Pentapolis, Servants to Cerimon, Companion to Marina, Priestesses in Diana’s temple, Messenger from Tyre</persName>
-          </person>
-          <person xml:id="FISHERMEN.1_Per">
+          <personGrp xml:id="CITIZENS.TARSUS_Per" sex="UNKNOWN">
+            <name>Followers of Antiochus, Attendants to Pericles, Attendants to Simonides, Squires to the five Knights, Tyrian gentlemen, Citizens of Tarsus, Ladies of Pentapolis, Servants to Cerimon, Companion to Marina, Priestesses in Diana’s temple, Messenger from Tyre</name>
+          </personGrp>
+          <person xml:id="FISHERMEN.1_Per" sex="MALE">
             <persName>FISHERMEN.1_Per</persName>
           </person>
-          <person xml:id="FISHERMEN.2_Per">
+          <person xml:id="FISHERMEN.2_Per" sex="MALE">
             <persName>FISHERMEN.2_Per</persName>
           </person>
-          <person xml:id="FISHERMEN.3_Per">
+          <person xml:id="FISHERMEN.3_Per" sex="MALE">
             <persName>FISHERMEN.3_Per</persName>
           </person>
-          <person xml:id="Simonides_Per">
+          <person xml:id="Simonides_Per" sex="MALE">
             <persName>Simonides</persName>
           </person>
-          <person xml:id="LORDS.PENTAPOLIS.0.1_Per">
+          <person xml:id="LORDS.PENTAPOLIS.0.1_Per" sex="MALE">
             <persName>LORDS.PENTAPOLIS.0.1_Per</persName>
           </person>
-          <person xml:id="Thaisa_Per">
+          <person xml:id="Thaisa_Per" sex="FEMALE">
             <persName>Thaisa</persName>
           </person>
-          <person xml:id="LORDS.PENTAPOLIS.0.2_Per">
+          <person xml:id="LORDS.PENTAPOLIS.0.2_Per" sex="MALE">
             <persName>LORDS.PENTAPOLIS.0.2_Per</persName>
           </person>
-          <person xml:id="LORDS.PENTAPOLIS.0.3_Per">
+          <person xml:id="LORDS.PENTAPOLIS.0.3_Per" sex="MALE">
             <persName>LORDS.PENTAPOLIS.0.3_Per</persName>
           </person>
-          <person xml:id="KNIGHTS_Per">
-            <persName>Knights</persName>
-          </person>
-          <person xml:id="Marshal_Per">
+          <personGrp xml:id="KNIGHTS_Per" sex="UNKNOWN">
+            <name>Knights</name>
+          </personGrp>
+          <person xml:id="Marshal_Per" sex="MALE">
             <persName>Marshal</persName>
           </person>
-          <person xml:id="KNIGHTS.0.1_Per">
+          <person xml:id="KNIGHTS.0.1_Per" sex="MALE">
             <persName>KNIGHTS.0.1_Per</persName>
           </person>
-          <person xml:id="LORDS.TYRE.Escanes_Per">
+          <person xml:id="LORDS.TYRE.Escanes_Per" sex="MALE">
             <persName>Escanes</persName>
           </person>
-          <person xml:id="LORDS.TYRE.0.3_Per">
+          <person xml:id="LORDS.TYRE.0.3_Per" sex="MALE">
             <persName>LORDS.TYRE.0.3_Per</persName>
           </person>
-          <person xml:id="LORDS.TYRE_Per">
-            <persName>LORDS</persName>
-          </person>
-          <person xml:id="KNIGHTS.0.2_Per">
+          <personGrp xml:id="LORDS.TYRE_Per" sex="UNKNOWN">
+            <name>LORDS</name>
+          </personGrp>
+          <person xml:id="KNIGHTS.0.2_Per" sex="MALE">
             <persName>KNIGHTS.0.2_Per</persName>
           </person>
-          <person xml:id="KNIGHTS.0.3_Per">
+          <person xml:id="KNIGHTS.0.3_Per" sex="MALE">
             <persName>KNIGHTS.0.3_Per</persName>
           </person>
-          <person xml:id="Lychorida_Per">
+          <person xml:id="Lychorida_Per" sex="FEMALE">
             <persName>Lychorida</persName>
           </person>
-          <person xml:id="SAILORS.1_Per">
+          <person xml:id="SAILORS.1_Per" sex="MALE">
             <persName>SAILORS.1_Per</persName>
           </person>
-          <person xml:id="SAILORS.2_Per">
+          <person xml:id="SAILORS.2_Per" sex="MALE">
             <persName>SAILORS.2_Per</persName>
           </person>
-          <person xml:id="Cerimon_Per">
+          <person xml:id="Cerimon_Per" sex="MALE">
             <persName>Lord Cerimon</persName>
           </person>
-          <person xml:id="Philemon_Per">
+          <person xml:id="Philemon_Per" sex="MALE">
             <persName>Philemon</persName>
           </person>
-          <person xml:id="SUPPLIANTS.1_Per">
+          <person xml:id="SUPPLIANTS.1_Per" sex="MALE">
             <persName>SUPPLIANTS.1_Per</persName>
           </person>
-          <person xml:id="GENTLEMEN.EPHESUS.1_Per">
+          <person xml:id="GENTLEMEN.EPHESUS.1_Per" sex="MALE">
             <persName>GENTLEMEN.EPHESUS.1_Per</persName>
           </person>
-          <person xml:id="GENTLEMEN.EPHESUS.2_Per">
+          <person xml:id="GENTLEMEN.EPHESUS.2_Per" sex="MALE">
             <persName>GENTLEMEN.EPHESUS.2_Per</persName>
           </person>
-          <person xml:id="SERVANTS.CERIMON.0.1_Per">
-            <persName>Servant</persName>
-          </person>
-          <person xml:id="Leonine_Per">
+          <personGrp xml:id="SERVANTS.CERIMON.0.1_Per" sex="UNKNOWN">
+            <name>Servant</name>
+          </personGrp>
+          <person xml:id="Leonine_Per" sex="MALE">
             <persName>Leonine</persName>
           </person>
-          <person xml:id="Marina_Per">
+          <person xml:id="Marina_Per" sex="FEMALE">
             <persName>Marina</persName>
           </person>
-          <person xml:id="PIRATES.0.1_Per">
+          <person xml:id="PIRATES.0.1_Per" sex="MALE">
             <persName>PIRATES.0.1_Per</persName>
           </person>
-          <person xml:id="PIRATES.0.2_Per">
+          <person xml:id="PIRATES.0.2_Per" sex="MALE">
             <persName>PIRATES.0.2_Per</persName>
           </person>
-          <person xml:id="PIRATES.0.3_Per">
+          <person xml:id="PIRATES.0.3_Per" sex="MALE">
             <persName>PIRATES.0.3_Per</persName>
           </person>
-          <person xml:id="Pander_Per">
+          <person xml:id="Pander_Per" sex="MALE">
             <persName>Pander</persName>
           </person>
-          <person xml:id="Bolt_Per">
+          <person xml:id="Bolt_Per" sex="MALE">
             <persName>Bolt</persName>
           </person>
-          <person xml:id="Bawd_Per">
+          <person xml:id="Bawd_Per" sex="FEMALE">
             <persName>Bawd</persName>
           </person>
-          <person xml:id="GENTLEMEN.MYTILENE.1_Per">
+          <person xml:id="GENTLEMEN.MYTILENE.1_Per" sex="MALE">
             <persName>GENTLEMEN.MYTILENE.1_Per</persName>
           </person>
-          <person xml:id="GENTLEMEN.MYTILENE.2_Per">
+          <person xml:id="GENTLEMEN.MYTILENE.2_Per" sex="MALE">
             <persName>GENTLEMEN.MYTILENE.2_Per</persName>
           </person>
-          <person xml:id="Lysimachus_Per">
+          <person xml:id="Lysimachus_Per" sex="MALE">
             <persName>Lysimachus</persName>
           </person>
-          <person xml:id="SAILORS.TYRE.1_Per">
+          <person xml:id="SAILORS.TYRE.1_Per" sex="MALE">
             <persName>Sailor</persName>
           </person>
-          <person xml:id="GENTLEMEN.TYRE.0.1_Per">
+          <person xml:id="GENTLEMEN.TYRE.0.1_Per" sex="MALE">
             <persName>Gentleman</persName>
           </person>
-          <person xml:id="SAILORS.MYTILENE.1_Per">
+          <person xml:id="SAILORS.MYTILENE.1_Per" sex="MALE">
             <persName>Sailor</persName>
           </person>
-          <person xml:id="LORDS.MYTILENE.0.1_Per">
+          <person xml:id="LORDS.MYTILENE.0.1_Per" sex="MALE">
             <persName>Lord</persName>
           </person>
-          <person xml:id="Diana_Per">
+          <person xml:id="Diana_Per" sex="FEMALE">
             <persName>Diana</persName>
           </person>
         </listPerson>
