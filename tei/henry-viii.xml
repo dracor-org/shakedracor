@@ -88,7 +88,7 @@
       </langUsage>
       <particDesc>
         <listPerson>
-          <person sex="" xml:id="Prologue_H8">
+          <person xml:id="Prologue_H8">
             <persName>Prologue</persName>
           </person>
           <person xml:id="Buckingham_H8" sex="MALE">
@@ -229,7 +229,7 @@
           <person xml:id="Garter_H8" sex="MALE">
             <persName>Garter King of Arms</persName>
           </person>
-          <person sex="" xml:id="Epilogue_H8">
+          <person xml:id="Epilogue_H8">
             <persName>Epilogue</persName>
           </person>
         </listPerson>

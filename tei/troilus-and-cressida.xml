@@ -179,7 +179,7 @@
           <person xml:id="Bastard_Tro" sex="MALE">
             <persName>Bastard</persName>
           </person>
-          <person sex="" xml:id="MYRMIDONS.0.1_Tro">
+          <person xml:id="MYRMIDONS.0.1_Tro">
             <persName>MYRMIDONS.0.1_Tro</persName>
           </person>
           <personGrp xml:id="SOLDIERS_Tro" sex="UNKNOWN">

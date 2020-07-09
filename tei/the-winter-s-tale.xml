@@ -145,10 +145,10 @@
           <person xml:id="Dion_WT" sex="MALE">
             <persName>Dion</persName>
           </person>
-          <person sex="" xml:id="OFFICERS.0.1_WT">
+          <person xml:id="OFFICERS.0.1_WT">
             <persName>Officer</persName>
           </person>
-          <person sex="" xml:id="Sailor_WT">
+          <person xml:id="Sailor_WT">
             <persName>Mariner</persName>
           </person>
           <person xml:id="Shepherd_WT" sex="MALE">

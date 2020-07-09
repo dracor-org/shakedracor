@@ -154,7 +154,7 @@
           <person xml:id="FAIRIES.TITANIA.Cobweb_MND" sex="MALE">
             <persName>Cobweb</persName>
           </person>
-          <person sex="" xml:id="FAIRIES.TITANIA.Mote_MND">
+          <person xml:id="FAIRIES.TITANIA.Mote_MND">
             <persName>Mote</persName>
           </person>
           <person xml:id="FAIRIES.TITANIA.Mustardseed_MND" sex="MALE">

@@ -190,10 +190,10 @@
           <person xml:id="Doctor1_Mac" sex="MALE">
             <persName>Doctor1_Mac</persName>
           </person>
-          <person sex="" xml:id="Doctor2_Mac">
+          <person xml:id="Doctor2_Mac">
             <persName>both attending upon Lady Macbeth</persName>
           </person>
-          <person sex="" xml:id="Gentlewoman_Mac">
+          <person xml:id="Gentlewoman_Mac">
             <persName>both attending upon Lady Macbeth</persName>
           </person>
           <person xml:id="Menteith_Mac" sex="MALE">
