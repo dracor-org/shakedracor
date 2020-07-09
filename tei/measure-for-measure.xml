@@ -69,7 +69,7 @@
     <encodingDesc>
       <projectDesc>
         <p>This version of the Folger Digital Texts uses TEI Simple to encode the Shakespeare texts edited by Barbara Mowat and Paul Werstine.  The major goal of recasting the texts in this manner is to make them interoperable with a large corpus of early modern texts derived from the EEBO-TCP transcriptions and encoded in TEI Simple with linguistic annotation.</p>
-        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are: 
+        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are:
           <list><item>Number <gi>div</gi> are replaced by unnumbered divs</item><item>Lines of verse are marked in <gi>l</gi>, tags, lines of prose in <gi>ab</gi></item><item>All xml:ids are corpuswide identifiers</item><item>Information from the participant description element <gi>particDesc</gi> in the teiHeader has been moved into  a <gi>castList</gi> element in the <gi>front</gi> element</item><item>Each spoken word in the text has been linguistically annotated with a lemma and POS tag</item></list>
         </p>
       </projectDesc>
@@ -86,7 +86,83 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    <particDesc><listPerson><person xml:id="Duke_MM"><persName>Duke</persName></person><person xml:id="Escalus_MM"><persName>Escalus</persName></person><person xml:id="Angelo_MM"><persName>Angelo</persName></person><person xml:id="Lucio_MM"><persName>Lucio</persName></person><person xml:id="GENTLEMEN.1_MM"><persName>GENTLEMEN.1_MM</persName></person><person xml:id="GENTLEMEN.2_MM"><persName>GENTLEMEN.2_MM</persName></person><person xml:id="Bawd_MM"><persName>Mistress Overdone</persName></person><person xml:id="Pompey_MM"><persName>Pompey</persName></person><person xml:id="Claudio_MM"><persName>Claudio</persName></person><person xml:id="Provost_MM"><persName>Provost</persName></person><person xml:id="FriarThomas_MM"><persName>Friar Thomas</persName></person><person xml:id="Isabella_MM"><persName>Isabella</persName></person><person xml:id="Nun_MM"><persName>Francisca</persName></person><person xml:id="Elbow_MM"><persName>Elbow</persName></person><person xml:id="Froth_MM"><persName>Froth</persName></person><person xml:id="Justice_MM"><persName>Justice</persName></person><person xml:id="SERVANTS.1_MM"><persName>Servant</persName></person><person xml:id="Juliet_MM"><persName>Juliet</persName></person><person xml:id="Boy_MM"><persName>Boy</persName></person><person xml:id="Mariana_MM"><persName>Mariana</persName></person><person xml:id="Abhorson_MM"><persName>Abhorson</persName></person><person xml:id="Messenger_MM"><persName>Messenger</persName></person><person xml:id="Barnardine_MM"><persName>Barnardine</persName></person><person xml:id="FriarPeter_MM"><persName>Friar Peter</persName></person></listPerson></particDesc></profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="Duke_MM" sex="MALE">
+            <persName>Duke</persName>
+          </person>
+          <person xml:id="Escalus_MM" sex="MALE">
+            <persName>Escalus</persName>
+          </person>
+          <person xml:id="Angelo_MM" sex="MALE">
+            <persName>Angelo</persName>
+          </person>
+          <person xml:id="Lucio_MM" sex="MALE">
+            <persName>Lucio</persName>
+          </person>
+          <person xml:id="GENTLEMEN.1_MM" sex="MALE">
+            <persName>GENTLEMEN.1_MM</persName>
+          </person>
+          <person xml:id="GENTLEMEN.2_MM" sex="MALE">
+            <persName>GENTLEMEN.2_MM</persName>
+          </person>
+          <person xml:id="Bawd_MM" sex="FEMALE">
+            <persName>Mistress Overdone</persName>
+          </person>
+          <person xml:id="Pompey_MM" sex="MALE">
+            <persName>Pompey</persName>
+          </person>
+          <person xml:id="Claudio_MM" sex="MALE">
+            <persName>Claudio</persName>
+          </person>
+          <person xml:id="Provost_MM" sex="MALE">
+            <persName>Provost</persName>
+          </person>
+          <person xml:id="FriarThomas_MM" sex="MALE">
+            <persName>Friar Thomas</persName>
+          </person>
+          <person xml:id="Isabella_MM" sex="FEMALE">
+            <persName>Isabella</persName>
+          </person>
+          <person xml:id="Nun_MM" sex="FEMALE">
+            <persName>Francisca</persName>
+          </person>
+          <person xml:id="Elbow_MM" sex="MALE">
+            <persName>Elbow</persName>
+          </person>
+          <person xml:id="Froth_MM" sex="MALE">
+            <persName>Froth</persName>
+          </person>
+          <person xml:id="Justice_MM" sex="MALE">
+            <persName>Justice</persName>
+          </person>
+          <person xml:id="SERVANTS.1_MM" sex="UNKNOWN">
+            <persName>Servant</persName>
+          </person>
+          <person xml:id="Juliet_MM" sex="FEMALE">
+            <persName>Juliet</persName>
+          </person>
+          <person xml:id="Boy_MM" sex="MALE">
+            <persName>Boy</persName>
+          </person>
+          <person xml:id="Mariana_MM" sex="FEMALE">
+            <persName>Mariana</persName>
+          </person>
+          <person xml:id="Abhorson_MM" sex="MALE">
+            <persName>Abhorson</persName>
+          </person>
+          <person xml:id="Messenger_MM" sex="MALE">
+            <persName>Messenger</persName>
+          </person>
+          <person xml:id="Barnardine_MM" sex="MALE">
+            <persName>Barnardine</persName>
+          </person>
+          <person xml:id="FriarPeter_MM" sex="MALE">
+            <persName>Friar Peter</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
   </teiHeader>
   <text>
     <front>

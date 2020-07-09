@@ -69,7 +69,7 @@
     <encodingDesc>
       <projectDesc>
         <p>This version of the Folger Digital Texts uses TEI Simple to encode the Shakespeare texts edited by Barbara Mowat and Paul Werstine.  The major goal of recasting the texts in this manner is to make them interoperable with a large corpus of early modern texts derived from the EEBO-TCP transcriptions and encoded in TEI Simple with linguistic annotation.</p>
-        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are: 
+        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are:
           <list><item>Number <gi>div</gi> are replaced by unnumbered divs</item><item>Lines of verse are marked in <gi>l</gi>, tags, lines of prose in <gi>ab</gi></item><item>All xml:ids are corpuswide identifiers</item><item>Information from the participant description element <gi>particDesc</gi> in the teiHeader has been moved into  a <gi>castList</gi> element in the <gi>front</gi> element</item><item>Each spoken word in the text has been linguistically annotated with a lemma and POS tag</item></list>
         </p>
       </projectDesc>
@@ -86,7 +86,125 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    <particDesc><listPerson><person xml:id="Sly_Shr"><persName>Christopher Sly</persName></person><person xml:id="Hostess_Shr"><persName>characters in the Induction</persName></person><person xml:id="Lord_Shr"><persName>characters in the Induction</persName></person><person xml:id="HUNTSMEN.0.1_Shr"><persName>characters in the Induction</persName></person><person xml:id="HUNTSMEN.0.2_Shr"><persName>characters in the Induction</persName></person><person xml:id="HUNTSMEN.0.3_Shr"><persName>characters in the Induction</persName></person><person xml:id="SERVANTS.LORD.0.1_Shr"><persName>characters in the Induction</persName></person><person xml:id="PLAYERS_Shr"><persName>characters in the Induction</persName></person><person xml:id="PLAYERS.0.1_Shr"><persName>characters in the Induction</persName></person><person xml:id="PLAYERS.0.2_Shr"><persName>characters in the Induction</persName></person><person xml:id="SERVANTS.LORD.0.2_Shr"><persName>characters in the Induction</persName></person><person xml:id="SERVANTS.LORD.0.3_Shr"><persName>characters in the Induction</persName></person><person xml:id="SERVANTS.LORD_Shr"><persName>characters in the Induction</persName></person><person xml:id="Page_Shr"><persName>characters in the Induction</persName></person><person xml:id="Messenger_Shr"><persName>characters in the Induction</persName></person><person xml:id="Lucentio_Shr"><persName>Lucentio</persName></person><person xml:id="Tranio_Shr"><persName>Tranio</persName></person><person xml:id="Baptista_Shr"><persName>Baptista Minola</persName></person><person xml:id="Gremio_Shr"><persName>Gremio</persName></person><person xml:id="Katherine_Shr"><persName>Katherine</persName></person><person xml:id="Hortensio_Shr"><persName>Hortensio</persName></person><person xml:id="Bianca_Shr"><persName>Bianca</persName></person><person xml:id="Biondello_Shr"><persName>Biondello</persName></person><person xml:id="Petruchio_Shr"><persName>Petruchio</persName></person><person xml:id="Grumio_Shr"><persName>Grumio</persName></person><person xml:id="SERVANTS.BAPTISTA.1_Shr"><persName>SERVANTS.BAPTISTA.1_Shr</persName></person><person xml:id="Curtis_Shr"><persName>Curtis</persName></person><person xml:id="SERVANTS.PETRUCHIO.Nathaniel_Shr"><persName>Nathaniel</persName></person><person xml:id="SERVANTS.PETRUCHIO.Phillip_Shr"><persName>Phillip</persName></person><person xml:id="SERVANTS.PETRUCHIO.Joseph_Shr"><persName>Joseph</persName></person><person xml:id="SERVANTS.PETRUCHIO.Nicholas_Shr"><persName>Nicholas</persName></person><person xml:id="SERVANTS.PETRUCHIO.Peter_Shr"><persName>Peter</persName></person><person xml:id="SERVANTS.PETRUCHIO.0.4_Shr"><persName>SERVANTS.PETRUCHIO.0.4_Shr</persName></person><person xml:id="Merchant_Shr"><persName>Merchant_Shr</persName></person><person xml:id="Haberdasher_Shr"><persName>Haberdasher_Shr</persName></person><person xml:id="Tailor_Shr"><persName>Tailor_Shr</persName></person><person xml:id="Vincentio_Shr"><persName>Vincentio</persName></person><person xml:id="Widow_Shr"><persName>Widow_Shr</persName></person></listPerson></particDesc></profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="Sly_Shr" sex="MALE">
+            <persName>Christopher Sly</persName>
+          </person>
+          <personGrp xml:id="Hostess_Shr" sex="UNKNOWN">
+            <name>characters in the Induction</name>
+          </personGrp>
+          <personGrp xml:id="Lord_Shr" sex="UNKNOWN">
+            <name>characters in the Induction</name>
+          </personGrp>
+          <personGrp xml:id="HUNTSMEN.0.1_Shr" sex="UNKNOWN">
+            <name>characters in the Induction</name>
+          </personGrp>
+          <personGrp xml:id="HUNTSMEN.0.2_Shr" sex="UNKNOWN">
+            <name>characters in the Induction</name>
+          </personGrp>
+          <personGrp xml:id="HUNTSMEN.0.3_Shr" sex="UNKNOWN">
+            <name>characters in the Induction</name>
+          </personGrp>
+          <personGrp xml:id="SERVANTS.LORD.0.1_Shr" sex="UNKNOWN">
+            <name>characters in the Induction</name>
+          </personGrp>
+          <personGrp xml:id="PLAYERS_Shr" sex="UNKNOWN">
+            <name>characters in the Induction</name>
+          </personGrp>
+          <personGrp xml:id="PLAYERS.0.1_Shr" sex="UNKNOWN">
+            <name>characters in the Induction</name>
+          </personGrp>
+          <personGrp xml:id="PLAYERS.0.2_Shr" sex="UNKNOWN">
+            <name>characters in the Induction</name>
+          </personGrp>
+          <personGrp xml:id="SERVANTS.LORD.0.2_Shr" sex="UNKNOWN">
+            <name>characters in the Induction</name>
+          </personGrp>
+          <personGrp xml:id="SERVANTS.LORD.0.3_Shr" sex="UNKNOWN">
+            <name>characters in the Induction</name>
+          </personGrp>
+          <personGrp xml:id="SERVANTS.LORD_Shr" sex="UNKNOWN">
+            <name>characters in the Induction</name>
+          </personGrp>
+          <personGrp xml:id="Page_Shr" sex="UNKNOWN">
+            <name>characters in the Induction</name>
+          </personGrp>
+          <personGrp xml:id="Messenger_Shr" sex="UNKNOWN">
+            <name>characters in the Induction</name>
+          </personGrp>
+          <person xml:id="Lucentio_Shr" sex="MALE">
+            <persName>Lucentio</persName>
+          </person>
+          <person xml:id="Tranio_Shr" sex="MALE">
+            <persName>Tranio</persName>
+          </person>
+          <person xml:id="Baptista_Shr" sex="MALE">
+            <persName>Baptista Minola</persName>
+          </person>
+          <person xml:id="Gremio_Shr" sex="MALE">
+            <persName>Gremio</persName>
+          </person>
+          <person xml:id="Katherine_Shr" sex="FEMALE">
+            <persName>Katherine</persName>
+          </person>
+          <person xml:id="Hortensio_Shr" sex="MALE">
+            <persName>Hortensio</persName>
+          </person>
+          <person xml:id="Bianca_Shr" sex="FEMALE">
+            <persName>Bianca</persName>
+          </person>
+          <person xml:id="Biondello_Shr" sex="MALE">
+            <persName>Biondello</persName>
+          </person>
+          <person xml:id="Petruchio_Shr" sex="MALE">
+            <persName>Petruchio</persName>
+          </person>
+          <person xml:id="Grumio_Shr" sex="MALE">
+            <persName>Grumio</persName>
+          </person>
+          <person xml:id="SERVANTS.BAPTISTA.1_Shr" sex="UNKNOWN">
+            <persName>SERVANTS.BAPTISTA.1_Shr</persName>
+          </person>
+          <person xml:id="Curtis_Shr" sex="MALE">
+            <persName>Curtis</persName>
+          </person>
+          <person xml:id="SERVANTS.PETRUCHIO.Nathaniel_Shr" sex="MALE">
+            <persName>Nathaniel</persName>
+          </person>
+          <person xml:id="SERVANTS.PETRUCHIO.Phillip_Shr" sex="MALE">
+            <persName>Phillip</persName>
+          </person>
+          <person xml:id="SERVANTS.PETRUCHIO.Joseph_Shr" sex="MALE">
+            <persName>Joseph</persName>
+          </person>
+          <person xml:id="SERVANTS.PETRUCHIO.Nicholas_Shr" sex="MALE">
+            <persName>Nicholas</persName>
+          </person>
+          <person xml:id="SERVANTS.PETRUCHIO.Peter_Shr" sex="MALE">
+            <persName>Peter</persName>
+          </person>
+          <person xml:id="SERVANTS.PETRUCHIO.0.4_Shr" sex="UNKNOWN">
+            <persName>SERVANTS.PETRUCHIO.0.4_Shr</persName>
+          </person>
+          <person xml:id="Merchant_Shr" sex="MALE">
+            <persName>Merchant_Shr</persName>
+          </person>
+          <person xml:id="Haberdasher_Shr" sex="MALE">
+            <persName>Haberdasher_Shr</persName>
+          </person>
+          <person xml:id="Tailor_Shr" sex="MALE">
+            <persName>Tailor_Shr</persName>
+          </person>
+          <person xml:id="Vincentio_Shr" sex="MALE">
+            <persName>Vincentio</persName>
+          </person>
+          <person xml:id="Widow_Shr" sex="FEMALE">
+            <persName>Widow_Shr</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
   </teiHeader>
   <text>
     <front>

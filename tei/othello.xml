@@ -69,7 +69,7 @@
     <encodingDesc>
       <projectDesc>
         <p>This version of the Folger Digital Texts uses TEI Simple to encode the Shakespeare texts edited by Barbara Mowat and Paul Werstine.  The major goal of recasting the texts in this manner is to make them interoperable with a large corpus of early modern texts derived from the EEBO-TCP transcriptions and encoded in TEI Simple with linguistic annotation.</p>
-        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are: 
+        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are:
           <list><item>Number <gi>div</gi> are replaced by unnumbered divs</item><item>Lines of verse are marked in <gi>l</gi>, tags, lines of prose in <gi>ab</gi></item><item>All xml:ids are corpuswide identifiers</item><item>Information from the participant description element <gi>particDesc</gi> in the teiHeader has been moved into  a <gi>castList</gi> element in the <gi>front</gi> element</item><item>Each spoken word in the text has been linguistically annotated with a lemma and POS tag</item></list>
         </p>
       </projectDesc>
@@ -86,7 +86,95 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    <particDesc><listPerson><person xml:id="Roderigo_Oth"><persName>Roderigo</persName></person><person xml:id="Iago_Oth"><persName>Iago</persName></person><person xml:id="Brabantio_Oth"><persName>Brabantio</persName></person><person xml:id="Othello_Oth"><persName>Othello</persName></person><person xml:id="Cassio_Oth"><persName>Cassio</persName></person><person xml:id="OFFICERS_Oth"><persName>Servants, Attendants, Officers, Messengers, Herald, Musicians, Torchbearers.</persName></person><person xml:id="Duke_Oth"><persName>Duke_Oth</persName></person><person xml:id="SENATORS.0.1_Oth"><persName>SENATORS.0.1_Oth</persName></person><person xml:id="SENATORS.0.2_Oth"><persName>SENATORS.0.2_Oth</persName></person><person xml:id="Sailor_Oth"><persName>Sailors</persName></person><person xml:id="OFFICERS.0.1_Oth"><persName>Servants, Attendants, Officers, Messengers, Herald, Musicians, Torchbearers.</persName></person><person xml:id="MESSENGERS.X.1_Oth"><persName>Servants, Attendants, Officers, Messengers, Herald, Musicians, Torchbearers.</persName></person><person xml:id="SENATORS_Oth"><persName>Venetian senators</persName></person><person xml:id="Desdemona_Oth"><persName>Desdemona</persName></person><person xml:id="Montano_Oth"><persName>Montano</persName></person><person xml:id="GENTLEMEN.1_Oth"><persName>GENTLEMEN.1_Oth</persName></person><person xml:id="GENTLEMEN.2_Oth"><persName>GENTLEMEN.2_Oth</persName></person><person xml:id="GENTLEMEN.3_Oth"><persName>GENTLEMEN.3_Oth</persName></person><person xml:id="MESSENGERS.X.2_Oth"><persName>Servants, Attendants, Officers, Messengers, Herald, Musicians, Torchbearers.</persName></person><person xml:id="Emilia_Oth"><persName>Emilia</persName></person><person xml:id="Herald_Oth"><persName>Servants, Attendants, Officers, Messengers, Herald, Musicians, Torchbearers.</persName></person><person xml:id="GENTLEMEN_Oth"><persName>Gentlemen of Cyprus</persName></person><person xml:id="Clown_Oth"><persName>Clown_Oth</persName></person><person xml:id="MUSICIANS.0.1_Oth"><persName>Servants, Attendants, Officers, Messengers, Herald, Musicians, Torchbearers.</persName></person><person xml:id="GENTLEMEN.0.1_Oth"><persName>GENTLEMEN.0.1_Oth</persName></person><person xml:id="Bianca_Oth"><persName>Bianca</persName></person><person xml:id="Lodovico_Oth"><persName>Lodovico</persName></person><person xml:id="Gratiano_Oth"><persName>Gratiano</persName></person></listPerson></particDesc></profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="Roderigo_Oth" sex="MALE">
+            <persName>Roderigo</persName>
+          </person>
+          <person xml:id="Iago_Oth" sex="MALE">
+            <persName>Iago</persName>
+          </person>
+          <person xml:id="Brabantio_Oth" sex="MALE">
+            <persName>Brabantio</persName>
+          </person>
+          <person xml:id="Othello_Oth" sex="MALE">
+            <persName>Othello</persName>
+          </person>
+          <person xml:id="Cassio_Oth" sex="MALE">
+            <persName>Cassio</persName>
+          </person>
+          <personGrp xml:id="OFFICERS_Oth" sex="UNKNOWN">
+            <name>Servants, Attendants, Officers, Messengers, Herald, Musicians, Torchbearers.</name>
+          </personGrp>
+          <person xml:id="Duke_Oth" sex="MALE">
+            <persName>Duke_Oth</persName>
+          </person>
+          <person xml:id="SENATORS.0.1_Oth" sex="MALE">
+            <persName>SENATORS.0.1_Oth</persName>
+          </person>
+          <person xml:id="SENATORS.0.2_Oth" sex="MALE">
+            <persName>SENATORS.0.2_Oth</persName>
+          </person>
+          <person xml:id="Sailor_Oth" sex="MALE">
+            <persName>Sailors</persName>
+          </person>
+          <personGrp xml:id="OFFICERS.0.1_Oth" sex="UNKNOWN">
+            <name>Servants, Attendants, Officers, Messengers, Herald, Musicians, Torchbearers.</name>
+          </personGrp>
+          <personGrp xml:id="MESSENGERS.X.1_Oth" sex="UNKNOWN">
+            <name>Servants, Attendants, Officers, Messengers, Herald, Musicians, Torchbearers.</name>
+          </personGrp>
+          <personGrp xml:id="SENATORS_Oth" sex="UNKNOWN">
+            <name>Venetian senators</name>
+          </personGrp>
+          <person xml:id="Desdemona_Oth" sex="FEMALE">
+            <persName>Desdemona</persName>
+          </person>
+          <person xml:id="Montano_Oth" sex="MALE">
+            <persName>Montano</persName>
+          </person>
+          <person xml:id="GENTLEMEN.1_Oth" sex="MALE">
+            <persName>GENTLEMEN.1_Oth</persName>
+          </person>
+          <person xml:id="GENTLEMEN.2_Oth" sex="MALE">
+            <persName>GENTLEMEN.2_Oth</persName>
+          </person>
+          <person xml:id="GENTLEMEN.3_Oth" sex="MALE">
+            <persName>GENTLEMEN.3_Oth</persName>
+          </person>
+          <personGrp xml:id="MESSENGERS.X.2_Oth" sex="UNKNOWN">
+            <name>Servants, Attendants, Officers, Messengers, Herald, Musicians, Torchbearers.</name>
+          </personGrp>
+          <person xml:id="Emilia_Oth" sex="FEMALE">
+            <persName>Emilia</persName>
+          </person>
+          <personGrp xml:id="Herald_Oth" sex="UNKNOWN">
+            <name>Servants, Attendants, Officers, Messengers, Herald, Musicians, Torchbearers.</name>
+          </personGrp>
+          <personGrp xml:id="GENTLEMEN_Oth" sex="UNKNOWN">
+            <name>Gentlemen of Cyprus</name>
+          </personGrp>
+          <person xml:id="Clown_Oth" sex="MALE">
+            <persName>Clown_Oth</persName>
+          </person>
+          <personGrp xml:id="MUSICIANS.0.1_Oth" sex="UNKNOWN">
+            <name>Servants, Attendants, Officers, Messengers, Herald, Musicians, Torchbearers.</name>
+          </personGrp>
+          <personGrp xml:id="GENTLEMEN.0.1_Oth" sex="UNKNOWN">
+            <name>GENTLEMEN.0.1_Oth</name>
+          </personGrp>
+          <person xml:id="Bianca_Oth" sex="FEMALE">
+            <persName>Bianca</persName>
+          </person>
+          <person xml:id="Lodovico_Oth" sex="MALE">
+            <persName>Lodovico</persName>
+          </person>
+          <person xml:id="Gratiano_Oth" sex="MALE">
+            <persName>Gratiano</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
   </teiHeader>
   <text>
     <front>

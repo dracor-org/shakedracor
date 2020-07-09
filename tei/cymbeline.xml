@@ -69,7 +69,7 @@
     <encodingDesc>
       <projectDesc>
         <p>This version of the Folger Digital Texts uses TEI Simple to encode the Shakespeare texts edited by Barbara Mowat and Paul Werstine.  The major goal of recasting the texts in this manner is to make them interoperable with a large corpus of early modern texts derived from the EEBO-TCP transcriptions and encoded in TEI Simple with linguistic annotation.</p>
-        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are: 
+        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are:
           <list><item>Number <gi>div</gi> are replaced by unnumbered divs</item><item>Lines of verse are marked in <gi>l</gi>, tags, lines of prose in <gi>ab</gi></item><item>All xml:ids are corpuswide identifiers</item><item>Information from the participant description element <gi>particDesc</gi> in the teiHeader has been moved into  a <gi>castList</gi> element in the <gi>front</gi> element</item><item>Each spoken word in the text has been linguistically annotated with a lemma and POS tag</item></list>
         </p>
       </projectDesc>
@@ -86,7 +86,134 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    <particDesc><listPerson><person xml:id="ATTENDANTS.1_Cym"><persName>ATTENDANTS.1_Cym</persName></person><person xml:id="ATTENDANTS.2_Cym"><persName>ATTENDANTS.2_Cym</persName></person><person xml:id="Queen_Cym"><persName>Queen</persName></person><person xml:id="Posthumus_Cym"><persName>Posthumus Leonatus</persName></person><person xml:id="Imogen_Cym"><persName>Imogen</persName></person><person xml:id="Cymbeline_Cym"><persName>Cymbeline</persName></person><person xml:id="Pisanio_Cym"><persName>Pisanio</persName></person><person xml:id="ATTENDANTS.CLOTEN.1_Cym"><persName>ATTENDANTS.CLOTEN.1_Cym</persName></person><person xml:id="Cloten_Cym"><persName>Cloten</persName></person><person xml:id="ATTENDANTS.CLOTEN.2_Cym"><persName>ATTENDANTS.CLOTEN.2_Cym</persName></person><person xml:id="LADIES.IMOGEN_Cym"><persName>Lady</persName></person><person xml:id="Iachimo_Cym"><persName>Iachimo</persName></person><person xml:id="Philario_Cym"><persName>Philario</persName></person><person xml:id="Frenchman_Cym"><persName>Frenchman</persName></person><person xml:id="LADIES.QUEEN.0.1_Cym"><persName>Lady</persName></person><person xml:id="Cornelius_Cym"><persName>Cornelius</persName></person><person xml:id="MUSICIANS_Cym"><persName>Lords, Ladies, Attendants, Musicians, a Dutchman, a Spaniard, Senators, Tribunes, Captains, and Soldiers</persName></person><person xml:id="MESSENGERS.1_Cym"><persName>MESSENGERS.1_Cym</persName></person><person xml:id="Lucius_Cym"><persName>Caius Lucius</persName></person><person xml:id="Belarius_Cym"><persName>Belarius</persName></person><person xml:id="Guiderius_Cym"><persName>Guiderius</persName></person><person xml:id="Arviragus_Cym"><persName>Arviragus</persName></person><person xml:id="ATTENDANTS.0.1_Cym"><persName>Lords, Ladies, Attendants, Musicians, a Dutchman, a Spaniard, Senators, Tribunes, Captains, and Soldiers</persName></person><person xml:id="SENATORS.1_Cym"><persName>SENATORS.1_Cym</persName></person><person xml:id="TRIBUNES.0.1_Cym"><persName>TRIBUNES.0.1_Cym</persName></person><person xml:id="SENATORS.2_Cym"><persName>SENATORS.2_Cym</persName></person><person xml:id="SOLDIERS.ROMAN.0.1_Cym"><persName>SOLDIERS.ROMAN.0.1_Cym</persName></person><person xml:id="Soothsayer_Cym"><persName>Soothsayer</persName></person><person xml:id="ATTENDANTS.0.2_Cym"><persName>Lords, Ladies, Attendants, Musicians, a Dutchman, a Spaniard, Senators, Tribunes, Captains, and Soldiers</persName></person><person xml:id="ATTENDANTS.3_Cym"><persName>Lord</persName></person><person xml:id="SOLDIERS.BRITON.0.1_Cym"><persName>SOLDIERS.BRITON.0.1_Cym</persName></person><person xml:id="SOLDIERS.BRITON.0.2_Cym"><persName>SOLDIERS.BRITON.0.2_Cym</persName></person><person xml:id="JAILERS.1_Cym"><persName>JAILERS.1_Cym</persName></person><person xml:id="JAILERS.2_Cym"><persName>JAILERS.2_Cym</persName></person><person xml:id="GHOSTS.Father_Cym"><persName>Sicilius Leonatus</persName></person><person xml:id="GHOSTS.Mother_Cym"><persName>Mother</persName></person><person xml:id="GHOSTS.BROTHERS.1_Cym"><persName>GHOSTS.BROTHERS.1_Cym</persName></person><person xml:id="GHOSTS.BROTHERS.2_Cym"><persName>GHOSTS.BROTHERS.2_Cym</persName></person><person xml:id="Jupiter_Cym"><persName>Jupiter</persName></person><person xml:id="MESSENGERS.2_Cym"><persName>MESSENGERS.2_Cym</persName></person><person xml:id="LADIES.QUEEN_Cym"><persName>LADIES.QUEEN_Cym</persName></person></listPerson></particDesc></profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="ATTENDANTS.1_Cym" sex="MALE">
+            <persName>ATTENDANTS.1_Cym</persName>
+          </person>
+          <person xml:id="ATTENDANTS.2_Cym" sex="MALE">
+            <persName>ATTENDANTS.2_Cym</persName>
+          </person>
+          <person xml:id="Queen_Cym" sex="FEMALE">
+            <persName>Queen</persName>
+          </person>
+          <person xml:id="Posthumus_Cym" sex="MALE">
+            <persName>Posthumus Leonatus</persName>
+          </person>
+          <person xml:id="Imogen_Cym" sex="FEMALE">
+            <persName>Imogen</persName>
+          </person>
+          <person xml:id="Cymbeline_Cym" sex="MALE">
+            <persName>Cymbeline</persName>
+          </person>
+          <person xml:id="Pisanio_Cym" sex="MALE">
+            <persName>Pisanio</persName>
+          </person>
+          <person xml:id="ATTENDANTS.CLOTEN.1_Cym" sex="MALE">
+            <persName>ATTENDANTS.CLOTEN.1_Cym</persName>
+          </person>
+          <person xml:id="Cloten_Cym" sex="MALE">
+            <persName>Cloten</persName>
+          </person>
+          <person xml:id="ATTENDANTS.CLOTEN.2_Cym" sex="MALE">
+            <persName>ATTENDANTS.CLOTEN.2_Cym</persName>
+          </person>
+          <person xml:id="LADIES.IMOGEN_Cym" sex="FEMALE">
+            <persName>Lady</persName>
+          </person>
+          <person xml:id="Iachimo_Cym" sex="MALE">
+            <persName>Iachimo</persName>
+          </person>
+          <person xml:id="Philario_Cym" sex="MALE">
+            <persName>Philario</persName>
+          </person>
+          <person xml:id="Frenchman_Cym" sex="MALE">
+            <persName>Frenchman</persName>
+          </person>
+          <person xml:id="LADIES.QUEEN.0.1_Cym" sex="FEMALE">
+            <persName>Lady</persName>
+          </person>
+          <person xml:id="Cornelius_Cym" sex="MALE">
+            <persName>Cornelius</persName>
+          </person>
+          <personGrp xml:id="MUSICIANS_Cym" sex="UNKNOWN">
+            <name>Lords, Ladies, Attendants, Musicians, a Dutchman, a Spaniard, Senators, Tribunes, Captains, and Soldiers</name>
+          </personGrp>
+          <person xml:id="MESSENGERS.1_Cym" sex="MALE">
+            <persName>MESSENGERS.1_Cym</persName>
+          </person>
+          <person xml:id="Lucius_Cym" sex="MALE">
+            <persName>Caius Lucius</persName>
+          </person>
+          <person xml:id="Belarius_Cym" sex="MALE">
+            <persName>Belarius</persName>
+          </person>
+          <person xml:id="Guiderius_Cym" sex="MALE">
+            <persName>Guiderius</persName>
+          </person>
+          <person xml:id="Arviragus_Cym" sex="MALE">
+            <persName>Arviragus</persName>
+          </person>
+          <personGrp xml:id="ATTENDANTS.0.1_Cym" sex="UNKNOWN">
+            <name>Lords, Ladies, Attendants, Musicians, a Dutchman, a Spaniard, Senators, Tribunes, Captains, and Soldiers</name>
+          </personGrp>
+          <person xml:id="SENATORS.1_Cym" sex="MALE">
+            <persName>SENATORS.1_Cym</persName>
+          </person>
+          <person xml:id="TRIBUNES.0.1_Cym" sex="MALE">
+            <persName>TRIBUNES.0.1_Cym</persName>
+          </person>
+          <person xml:id="SENATORS.2_Cym" sex="MALE">
+            <persName>SENATORS.2_Cym</persName>
+          </person>
+          <person xml:id="SOLDIERS.ROMAN.0.1_Cym" sex="MALE">
+            <persName>SOLDIERS.ROMAN.0.1_Cym</persName>
+          </person>
+          <person xml:id="Soothsayer_Cym" sex="MALE">
+            <persName>Soothsayer</persName>
+          </person>
+          <personGrp xml:id="ATTENDANTS.0.2_Cym" sex="UNKNOWN">
+            <name>Lords, Ladies, Attendants, Musicians, a Dutchman, a Spaniard, Senators, Tribunes, Captains, and Soldiers</name>
+          </personGrp>
+          <person xml:id="ATTENDANTS.3_Cym" sex="MALE">
+            <persName>Lord</persName>
+          </person>
+          <person xml:id="SOLDIERS.BRITON.0.1_Cym" sex="MALE">
+            <persName>SOLDIERS.BRITON.0.1_Cym</persName>
+          </person>
+          <person xml:id="SOLDIERS.BRITON.0.2_Cym" sex="MALE">
+            <persName>SOLDIERS.BRITON.0.2_Cym</persName>
+          </person>
+          <person xml:id="JAILERS.1_Cym" sex="MALE">
+            <persName>JAILERS.1_Cym</persName>
+          </person>
+          <person xml:id="JAILERS.2_Cym" sex="MALE">
+            <persName>JAILERS.2_Cym</persName>
+          </person>
+          <person xml:id="GHOSTS.Father_Cym" sex="MALE">
+            <persName>Sicilius Leonatus</persName>
+          </person>
+          <person xml:id="GHOSTS.Mother_Cym" sex="FEMALE">
+            <persName>Mother</persName>
+          </person>
+          <person xml:id="GHOSTS.BROTHERS.1_Cym" sex="MALE">
+            <persName>GHOSTS.BROTHERS.1_Cym</persName>
+          </person>
+          <person xml:id="GHOSTS.BROTHERS.2_Cym" sex="MALE">
+            <persName>GHOSTS.BROTHERS.2_Cym</persName>
+          </person>
+          <person xml:id="Jupiter_Cym" ana="http://www.wikidata.org/entity/Q4649">
+            <persName>Jupiter</persName>
+          </person>
+          <person xml:id="MESSENGERS.2_Cym" sex="MALE">
+            <persName>MESSENGERS.2_Cym</persName>
+          </person>
+          <person xml:id="LADIES.QUEEN_Cym" sex="FEMALE">
+            <persName>LADIES.QUEEN_Cym</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
   </teiHeader>
   <text>
     <front>

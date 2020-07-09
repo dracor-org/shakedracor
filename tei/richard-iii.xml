@@ -69,7 +69,7 @@
     <encodingDesc>
       <projectDesc>
         <p>This version of the Folger Digital Texts uses TEI Simple to encode the Shakespeare texts edited by Barbara Mowat and Paul Werstine.  The major goal of recasting the texts in this manner is to make them interoperable with a large corpus of early modern texts derived from the EEBO-TCP transcriptions and encoded in TEI Simple with linguistic annotation.</p>
-        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are: 
+        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are:
           <list><item>Number <gi>div</gi> are replaced by unnumbered divs</item><item>Lines of verse are marked in <gi>l</gi>, tags, lines of prose in <gi>ab</gi></item><item>All xml:ids are corpuswide identifiers</item><item>Information from the participant description element <gi>particDesc</gi> in the teiHeader has been moved into  a <gi>castList</gi> element in the <gi>front</gi> element</item><item>Each spoken word in the text has been linguistically annotated with a lemma and POS tag</item></list>
         </p>
       </projectDesc>
@@ -86,7 +86,188 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    <particDesc><listPerson><person xml:id="RichardIII_R3"><persName>Richard</persName></person><person xml:id="Clarence_3H6"><persName>George, Duke of Clarence</persName></person><person xml:id="Brakenbury_R3"><persName>Sir Robert Brakenbury</persName></person><person xml:id="Hastings_3H6"><persName>William, Lord Hastings</persName></person><person xml:id="LadyAnne_R3"><persName>Lady Anne</persName></person><person xml:id="GENTLEMEN.0.1_R3"><persName>Gentleman</persName></person><person xml:id="Rivers_3H6"><persName>Earl Rivers</persName></person><person xml:id="Grey_R3"><persName>Lord Grey</persName></person><person xml:id="QueenElizabeth_3H6"><persName>Queen Elizabeth</persName></person><person xml:id="Buckingham_R3"><persName>Duke of Buckingham</persName></person><person xml:id="Stanley_R3"><persName>Lord Stanley</persName></person><person xml:id="QueenMargaret_1H6"><persName>Queen Margaret</persName></person><person xml:id="Dorset_R3"><persName>Marquess of Dorset</persName></person><person xml:id="Catesby_R3"><persName>Sir William Catesby</persName></person><person xml:id="MURDERERS.1_R3"><persName>MURDERERS.1_R3</persName></person><person xml:id="MURDERERS.2_R3"><persName>MURDERERS.2_R3</persName></person><person xml:id="Jailer_R3"><persName>Keeper</persName></person><person xml:id="EdwardIV_3H6"><persName>King Edward IV</persName></person><person xml:id="ClarencesBoy_R3"><persName>Boy</persName></person><person xml:id="DuchessOfYork_R3"><persName>Duchess of York</persName></person><person xml:id="ClarencesDaughter_R3"><persName>Daughter</persName></person><person xml:id="CITIZENS.1_R3"><persName>CITIZENS.1_R3</persName></person><person xml:id="CITIZENS.2_R3"><persName>CITIZENS.2_R3</persName></person><person xml:id="CITIZENS.3_R3"><persName>CITIZENS.3_R3</persName></person><person xml:id="Archbishop_R3"><persName>Archbishop</persName></person><person xml:id="York_R3"><persName>Richard, Duke of York</persName></person><person xml:id="MESSENGERS.X.1_R3"><persName>MESSENGERS.X.1_R3</persName></person><person xml:id="EdwardV_R3"><persName>Prince Edward</persName></person><person xml:id="MayorOfLondon_R3"><persName>Lord Mayor</persName></person><person xml:id="Cardinal_R3"><persName>Cardinal</persName></person><person xml:id="MESSENGERS.X.2_R3"><persName>MESSENGERS.X.2_R3</persName></person><person xml:id="Pursuivant_R3"><persName>Pursuivant</persName></person><person xml:id="SirJohn_R3"><persName>Sir John</persName></person><person xml:id="Vaughan_R3"><persName>Sir Thomas Vaughan</persName></person><person xml:id="Ratcliffe_R3"><persName>Sir Richard Ratcliffe</persName></person><person xml:id="BishopOfEly_R3"><persName>John Morton, Bishop of Ely</persName></person><person xml:id="Lovell_R3"><persName>Lord Lovell</persName></person><person xml:id="Scrivener_R3"><persName>Scrivener</persName></person><person xml:id="BISHOPS_R3"><persName>Guards, Tressel, Berkeley, Halberds, Gentlemen, Anthony Woodeville and Lord Scales (brothers to Queen Elizabeth), Two Bishops, Sir William Brandon, Lords, Attendants, Citizens, Aldermen, Councillors, Soldiers</persName></person><person xml:id="CITIZENS_R3"><persName>Citizens</persName></person><person xml:id="ATTENDANTS.0.1_R3"><persName>Page</persName></person><person xml:id="Tyrrel_R3"><persName>James Tyrrel</persName></person><person xml:id="MESSENGERS.1_R3"><persName>MESSENGERS.1_R3</persName></person><person xml:id="MESSENGERS.2_R3"><persName>MESSENGERS.2_R3</persName></person><person xml:id="MESSENGERS.3_R3"><persName>MESSENGERS.3_R3</persName></person><person xml:id="MESSENGERS.4_R3"><persName>MESSENGERS.4_R3</persName></person><person xml:id="SirChristopher_R3"><persName>Sir Christopher</persName></person><person xml:id="Sheriff_R3"><persName>Sheriff</persName></person><person xml:id="HenryVII_R3"><persName>Earl of Richmond</persName></person><person xml:id="Oxford_3H6"><persName>Earl of Oxford</persName></person><person xml:id="Herbert_R3"><persName>Sir Walter Herbert</persName></person><person xml:id="Blunt_R3"><persName>Sir James Blunt</persName></person><person xml:id="Surrey_R3"><persName>Earl of Surrey</persName></person><person xml:id="Norfolk_R3"><persName>Duke of Norfolk</persName></person><person xml:id="PrinceEdward_3H6"><persName>PrinceEdward_3H6</persName></person><person xml:id="HenryVI_1H6"><persName>HenryVI_1H6</persName></person><person xml:id="ATTENDANTS.RICHMOND_R3"><persName>Guards, Tressel, Berkeley, Halberds, Gentlemen, Anthony Woodeville and Lord Scales (brothers to Queen Elizabeth), Two Bishops, Sir William Brandon, Lords, Attendants, Citizens, Aldermen, Councillors, Soldiers</persName></person><person xml:id="ATTENDANTS.RICHMOND.0.1_R3"><persName>Guards, Tressel, Berkeley, Halberds, Gentlemen, Anthony Woodeville and Lord Scales (brothers to Queen Elizabeth), Two Bishops, Sir William Brandon, Lords, Attendants, Citizens, Aldermen, Councillors, Soldiers</persName></person><person xml:id="MESSENGERS.X.3_R3"><persName>MESSENGERS.X.3_R3</persName></person></listPerson></particDesc></profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="RichardIII_R3" ana="http://www.wikidata.org/entity/Q133028">
+            <persName>Richard</persName>
+          </person>
+          <person xml:id="Clarence_3H6" sex="MALE">
+            <persName>George, Duke of Clarence</persName>
+          </person>
+          <person xml:id="Brakenbury_R3" ana="http://www.wikidata.org/entity/Q7342288">
+            <persName>Sir Robert Brakenbury</persName>
+          </person>
+          <person xml:id="Hastings_3H6" sex="MALE">
+            <persName>William, Lord Hastings</persName>
+          </person>
+          <person xml:id="LadyAnne_R3" ana="http://www.wikidata.org/entity/Q1617538">
+            <persName>Lady Anne</persName>
+          </person>
+          <person xml:id="GENTLEMEN.0.1_R3" sex="MALE">
+            <persName>Gentleman</persName>
+          </person>
+          <person xml:id="Rivers_3H6" sex="MALE">
+            <persName>Earl Rivers</persName>
+          </person>
+          <person xml:id="Grey_R3" sex="MALE">
+            <persName>Lord Grey</persName>
+          </person>
+          <person xml:id="QueenElizabeth_3H6" ana="http://www.wikidata.org/entity/Q7207">
+            <persName>Queen Elizabeth</persName>
+          </person>
+          <person xml:id="Buckingham_R3" sex="MALE">
+            <persName>Duke of Buckingham</persName>
+          </person>
+          <person xml:id="Stanley_R3" sex="MALE">
+            <persName>Lord Stanley</persName>
+          </person>
+          <person xml:id="QueenMargaret_1H6" ana="http://www.wikidata.org/entity/Q231145">
+            <persName>Queen Margaret</persName>
+          </person>
+          <person xml:id="Dorset_R3" sex="MALE">
+            <persName>Marquess of Dorset</persName>
+          </person>
+          <person xml:id="Catesby_R3" ana="http://www.wikidata.org/entity/Q3568489">
+            <persName>Sir William Catesby</persName>
+          </person>
+          <person xml:id="MURDERERS.1_R3" sex="MALE">
+            <persName>MURDERERS.1_R3</persName>
+          </person>
+          <person xml:id="MURDERERS.2_R3" sex="MALE">
+            <persName>MURDERERS.2_R3</persName>
+          </person>
+          <person xml:id="Jailer_R3" sex="MALE">
+            <persName>Keeper</persName>
+          </person>
+          <person xml:id="EdwardIV_3H6" ana="http://www.wikidata.org/entity/Q160341">
+            <persName>King Edward IV</persName>
+          </person>
+          <person xml:id="ClarencesBoy_R3" sex="MALE">
+            <persName>Boy</persName>
+          </person>
+          <person xml:id="DuchessOfYork_R3" sex="FEMALE">
+            <persName>Duchess of York</persName>
+          </person>
+          <person xml:id="ClarencesDaughter_R3" sex="FEMALE">
+            <persName>Daughter</persName>
+          </person>
+          <personGrp xml:id="CITIZENS.1_R3" sex="UNKNOWN">
+            <name>CITIZENS.1_R3</name>
+          </personGrp>
+          <personGrp xml:id="CITIZENS.2_R3" sex="UNKNOWN">
+            <name>CITIZENS.2_R3</name>
+          </personGrp>
+          <personGrp xml:id="CITIZENS.3_R3" sex="UNKNOWN">
+            <name>CITIZENS.3_R3</name>
+          </personGrp>
+          <person xml:id="Archbishop_R3" sex="MALE">
+            <persName>Archbishop</persName>
+          </person>
+          <person xml:id="York_R3" sex="MALE">
+            <persName>Richard, Duke of York</persName>
+          </person>
+          <personGrp xml:id="MESSENGERS.X.1_R3" sex="UNKNOWN">
+            <name>MESSENGERS.X.1_R3</name>
+          </personGrp>
+          <person xml:id="EdwardV_R3" ana="http://www.wikidata.org/entity/Q160341">
+            <persName>Prince Edward</persName>
+          </person>
+          <person xml:id="MayorOfLondon_R3" sex="MALE">
+            <persName>Lord Mayor</persName>
+          </person>
+          <person xml:id="Cardinal_R3" sex="MALE">
+            <persName>Cardinal</persName>
+          </person>
+          <personGrp xml:id="MESSENGERS.X.2_R3" sex="UNKNOWN">
+            <name>MESSENGERS.X.2_R3</name>
+          </personGrp>
+          <person xml:id="Pursuivant_R3" sex="MALE">
+            <persName>Pursuivant</persName>
+          </person>
+          <person xml:id="SirJohn_R3" sex="MALE">
+            <persName>Sir John</persName>
+          </person>
+          <person xml:id="Vaughan_R3" sex="MALE">
+            <persName>Sir Thomas Vaughan</persName>
+          </person>
+          <person xml:id="Ratcliffe_R3" sex="MALE">
+            <persName>Sir Richard Ratcliffe</persName>
+          </person>
+          <person xml:id="BishopOfEly_R3" sex="MALE">
+            <persName>John Morton, Bishop of Ely</persName>
+          </person>
+          <person xml:id="Lovell_R3" sex="MALE">
+            <persName>Lord Lovell</persName>
+          </person>
+          <person xml:id="Scrivener_R3" sex="MALE">
+            <persName>Scrivener</persName>
+          </person>
+          <personGrp xml:id="BISHOPS_R3" sex="UNKNOWN">
+            <name>Guards, Tressel, Berkeley, Halberds, Gentlemen, Anthony Woodeville and Lord Scales (brothers to Queen Elizabeth), Two Bishops, Sir William Brandon, Lords, Attendants, Citizens, Aldermen, Councillors, Soldiers</name>
+          </personGrp>
+          <personGrp xml:id="CITIZENS_R3" sex="UNKNOWN">
+            <name>Citizens</name>
+          </personGrp>
+          <person xml:id="ATTENDANTS.0.1_R3" sex="MALE">
+            <persName>Page</persName>
+          </person>
+          <person xml:id="Tyrrel_R3" sex="MALE">
+            <persName>James Tyrrel</persName>
+          </person>
+          <personGrp xml:id="MESSENGERS.1_R3" sex="UNKNOWN">
+            <name>MESSENGERS.1_R3</name>
+          </personGrp>
+          <personGrp xml:id="MESSENGERS.2_R3" sex="UNKNOWN">
+            <name>MESSENGERS.2_R3</name>
+          </personGrp>
+          <personGrp xml:id="MESSENGERS.3_R3" sex="UNKNOWN">
+            <name>MESSENGERS.3_R3</name>
+          </personGrp>
+          <personGrp xml:id="MESSENGERS.4_R3" sex="UNKNOWN">
+            <name>MESSENGERS.4_R3</name>
+          </personGrp>
+          <person xml:id="SirChristopher_R3" sex="MALE">
+            <persName>Sir Christopher</persName>
+          </person>
+          <person xml:id="Sheriff_R3" sex="MALE">
+            <persName>Sheriff</persName>
+          </person>
+          <person xml:id="HenryVII_R3" sex="MALE">
+            <persName>Earl of Richmond</persName>
+          </person>
+          <person xml:id="Oxford_3H6" sex="MALE">
+            <persName>Earl of Oxford</persName>
+          </person>
+          <person xml:id="Herbert_R3" sex="MALE">
+            <persName>Sir Walter Herbert</persName>
+          </person>
+          <person xml:id="Blunt_R3" sex="MALE">
+            <persName>Sir James Blunt</persName>
+          </person>
+          <person xml:id="Surrey_R3" sex="MALE">
+            <persName>Earl of Surrey</persName>
+          </person>
+          <person xml:id="Norfolk_R3" sex="MALE">
+            <persName>Duke of Norfolk</persName>
+          </person>
+          <person xml:id="PrinceEdward_3H6" sex="MALE">
+            <persName>PrinceEdward_3H6</persName>
+          </person>
+          <person xml:id="HenryVI_1H6" sex="MALE">
+            <persName>HenryVI_1H6</persName>
+          </person>
+          <personGrp xml:id="ATTENDANTS.RICHMOND_R3" sex="UNKNOWN">
+            <name>Guards, Tressel, Berkeley, Halberds, Gentlemen, Anthony Woodeville and Lord Scales (brothers to Queen Elizabeth), Two Bishops, Sir William Brandon, Lords, Attendants, Citizens, Aldermen, Councillors, Soldiers</name>
+          </personGrp>
+          <personGrp xml:id="ATTENDANTS.RICHMOND.0.1_R3" sex="UNKNOWN">
+            <name>Guards, Tressel, Berkeley, Halberds, Gentlemen, Anthony Woodeville and Lord Scales (brothers to Queen Elizabeth), Two Bishops, Sir William Brandon, Lords, Attendants, Citizens, Aldermen, Councillors, Soldiers</name>
+          </personGrp>
+          <personGrp xml:id="MESSENGERS.X.3_R3" sex="UNKNOWN">
+            <name>MESSENGERS.X.3_R3</name>
+          </personGrp>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
   </teiHeader>
   <text>
     <front>

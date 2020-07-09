@@ -69,7 +69,7 @@
     <encodingDesc>
       <projectDesc>
         <p>This version of the Folger Digital Texts uses TEI Simple to encode the Shakespeare texts edited by Barbara Mowat and Paul Werstine.  The major goal of recasting the texts in this manner is to make them interoperable with a large corpus of early modern texts derived from the EEBO-TCP transcriptions and encoded in TEI Simple with linguistic annotation.</p>
-        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are: 
+        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are:
           <list><item>Number <gi>div</gi> are replaced by unnumbered divs</item><item>Lines of verse are marked in <gi>l</gi>, tags, lines of prose in <gi>ab</gi></item><item>All xml:ids are corpuswide identifiers</item><item>Information from the participant description element <gi>particDesc</gi> in the teiHeader has been moved into  a <gi>castList</gi> element in the <gi>front</gi> element</item><item>Each spoken word in the text has been linguistically annotated with a lemma and POS tag</item></list>
         </p>
       </projectDesc>
@@ -86,7 +86,68 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    <particDesc><listPerson><person xml:id="Shipmaster_Tmp"><persName>Shipmaster</persName></person><person xml:id="Boatswain_Tmp"><persName>Boatswain</persName></person><person xml:id="Alonso_Tmp"><persName>Alonso</persName></person><person xml:id="Antonio_Tmp"><persName>Antonio</persName></person><person xml:id="Gonzalo_Tmp"><persName>Gonzalo</persName></person><person xml:id="Sebastian_Tmp"><persName>Sebastian</persName></person><person xml:id="SAILORS_Tmp"><persName>Mariners</persName></person><person xml:id="Miranda_Tmp"><persName>Miranda</persName></person><person xml:id="Prospero_Tmp"><persName>Prospero</persName></person><person xml:id="Ariel_Tmp"><persName>Ariel</persName></person><person xml:id="Caliban_Tmp"><persName>Caliban</persName></person><person xml:id="Ferdinand_Tmp"><persName>Ferdinand</persName></person><person xml:id="Adrian_Tmp"><persName>Adrian</persName></person><person xml:id="Francisco_Tmp"><persName>Francisco</persName></person><person xml:id="Trinculo_Tmp"><persName>Trinculo</persName></person><person xml:id="Stephano_Tmp"><persName>Stephano</persName></person><person xml:id="SPIRITS.Iris_Tmp"><persName>SPIRITS.Iris_Tmp</persName></person><person xml:id="SPIRITS.Ceres_Tmp"><persName>SPIRITS.Ceres_Tmp</persName></person><person xml:id="SPIRITS.Juno_Tmp"><persName>SPIRITS.Juno_Tmp</persName></person></listPerson></particDesc></profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="Shipmaster_Tmp" sex="MALE">
+            <persName>Shipmaster</persName>
+          </person>
+          <person xml:id="Boatswain_Tmp" sex="MALE">
+            <persName>Boatswain</persName>
+          </person>
+          <person xml:id="Alonso_Tmp" sex="MALE">
+            <persName>Alonso</persName>
+          </person>
+          <person xml:id="Antonio_Tmp" sex="MALE">
+            <persName>Antonio</persName>
+          </person>
+          <person xml:id="Gonzalo_Tmp" sex="MALE">
+            <persName>Gonzalo</persName>
+          </person>
+          <person xml:id="Sebastian_Tmp" sex="MALE">
+            <persName>Sebastian</persName>
+          </person>
+          <personGrp xml:id="SAILORS_Tmp" sex="UNKNOWN">
+            <name>Mariners</name>
+          </personGrp>
+          <person xml:id="Miranda_Tmp" sex="FEMALE">
+            <persName>Miranda</persName>
+          </person>
+          <person xml:id="Prospero_Tmp" sex="MALE">
+            <persName>Prospero</persName>
+          </person>
+          <person xml:id="Ariel_Tmp" sex="UNKNOWN">
+            <persName>Ariel</persName>
+          </person>
+          <person xml:id="Caliban_Tmp" sex="MALE">
+            <persName>Caliban</persName>
+          </person>
+          <person xml:id="Ferdinand_Tmp" sex="MALE">
+            <persName>Ferdinand</persName>
+          </person>
+          <person xml:id="Adrian_Tmp" sex="MALE">
+            <persName>Adrian</persName>
+          </person>
+          <person xml:id="Francisco_Tmp" sex="MALE">
+            <persName>Francisco</persName>
+          </person>
+          <person xml:id="Trinculo_Tmp" sex="MALE">
+            <persName>Trinculo</persName>
+          </person>
+          <person xml:id="Stephano_Tmp" sex="MALE">
+            <persName>Stephano</persName>
+          </person>
+          <person xml:id="SPIRITS.Iris_Tmp" sex="FEMALE">
+            <persName>SPIRITS.Iris_Tmp</persName>
+          </person>
+          <person xml:id="SPIRITS.Ceres_Tmp" sex="FEMALE">
+            <persName>SPIRITS.Ceres_Tmp</persName>
+          </person>
+          <person xml:id="SPIRITS.Juno_Tmp" sex="FEMALE">
+            <persName>SPIRITS.Juno_Tmp</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
   </teiHeader>
   <text>
     <front>

@@ -69,7 +69,7 @@
     <encodingDesc>
       <projectDesc>
         <p>This version of the Folger Digital Texts uses TEI Simple to encode the Shakespeare texts edited by Barbara Mowat and Paul Werstine.  The major goal of recasting the texts in this manner is to make them interoperable with a large corpus of early modern texts derived from the EEBO-TCP transcriptions and encoded in TEI Simple with linguistic annotation.</p>
-        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are: 
+        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are:
           <list><item>Number <gi>div</gi> are replaced by unnumbered divs</item><item>Lines of verse are marked in <gi>l</gi>, tags, lines of prose in <gi>ab</gi></item><item>All xml:ids are corpuswide identifiers</item><item>Information from the participant description element <gi>particDesc</gi> in the teiHeader has been moved into  a <gi>castList</gi> element in the <gi>front</gi> element</item><item>Each spoken word in the text has been linguistically annotated with a lemma and POS tag</item></list>
         </p>
       </projectDesc>
@@ -86,7 +86,155 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    <particDesc><listPerson><person xml:id="Chorus_H5"><persName>Chorus</persName></person><person xml:id="BishopOfCanterbury_H5"><persName>Bishop of Canterbury</persName></person><person xml:id="BishopOfEly_H5"><persName>Bishop of Ely</persName></person><person xml:id="HenryV_H5"><persName>Henry V, King of England</persName></person><person xml:id="Exeter_H5"><persName>Thomas, Duke of Exeter</persName></person><person xml:id="Westmoreland_1H4"><persName>Earl of Westmoreland</persName></person><person xml:id="AMBASSADORS.0.1_H5"><persName>AMBASSADORS.0.1_H5</persName></person><person xml:id="Bardolph_1H4"><persName>Bardolph</persName></person><person xml:id="Nym_H5"><persName>Nym</persName></person><person xml:id="Pistol_2H4"><persName>Pistol</persName></person><person xml:id="MistressQuickly_1H4"><persName>Hostess Quickly</persName></person><person xml:id="Boy_H5"><persName>Boy</persName></person><person xml:id="Bedford_H5"><persName>John, Duke of Bedford</persName></person><person xml:id="Scroop_H5"><persName>Lord Scroop of Masham</persName></person><person xml:id="Cambridge_H5"><persName>Earl of Cambridge</persName></person><person xml:id="Grey_H5"><persName>Sir Thomas Grey</persName></person><person xml:id="KingOfFrance_H5"><persName>King of France</persName></person><person xml:id="Dauphin_H5"><persName>Dauphin</persName></person><person xml:id="Constable_H5"><persName>Constable of France</persName></person><person xml:id="MESSENGERS.X.1_H5"><persName>Lords, Attendants, Soldiers, French Prisoners, Messengers</persName></person><person xml:id="Fluellen_H5"><persName>Captain Fluellen</persName></person><person xml:id="Gower_H5"><persName>Captain Gower</persName></person><person xml:id="Jamy_H5"><persName>Captain Jamy</persName></person><person xml:id="MacMorris_H5"><persName>Captain MacMorris</persName></person><person xml:id="Governor_H5"><persName>Governor_H5</persName></person><person xml:id="Katherine_H5"><persName>Katherine</persName></person><person xml:id="Alice_H5"><persName>Alice</persName></person><person xml:id="Brittany_H5"><persName>Duke of Brittany</persName></person><person xml:id="Montjoy_H5"><persName>Montjoy</persName></person><person xml:id="Gloucester_2H4"><persName>Humphrey, Duke of Gloucester</persName></person><person xml:id="Orleans_H5"><persName>Duke of Orléans</persName></person><person xml:id="Rambures_H5"><persName>Lord Rambures</persName></person><person xml:id="MESSENGERS.X.2_H5"><persName>Lords, Attendants, Soldiers, French Prisoners, Messengers</persName></person><person xml:id="Erpingham_H5"><persName>Sir Thomas Erpingham</persName></person><person xml:id="SOLDIERS.ENGLISH.Court_H5"><persName>Alexander Court</persName></person><person xml:id="SOLDIERS.ENGLISH.Bates_H5"><persName>John Bates</persName></person><person xml:id="SOLDIERS.ENGLISH.Williams_H5"><persName>Michael Williams</persName></person><person xml:id="MESSENGERS.X.3_H5"><persName>Lords, Attendants, Soldiers, French Prisoners, Messengers</persName></person><person xml:id="Grandpre_H5"><persName>Lord Grandpré</persName></person><person xml:id="Salisbury_H5"><persName>Earl of Salisbury</persName></person><person xml:id="York_H5"><persName>Duke of York</persName></person><person xml:id="SOLDIERS.FRENCH.LeFer_H5"><persName>Monsieur Le Fer</persName></person><person xml:id="Bourbon_H5"><persName>Duke of Bourbon</persName></person><person xml:id="Warwick_2H4"><persName>Earl of Warwick</persName></person><person xml:id="HERALDS.1_H5"><persName>HERALDS.1_H5</persName></person><person xml:id="QueenOfFrance_H5"><persName>Queen Isabel of France</persName></person><person xml:id="Burgundy_H5"><persName>Duke of Burgundy</persName></person><person xml:id="ATTENDANTS.ENGLISH_H5"><persName>Lords, Attendants, Soldiers, French Prisoners, Messengers</persName></person></listPerson></particDesc></profileDesc>
+      <particDesc>
+        <listPerson>
+          <personGrp xml:id="Chorus_H5" sex="UNKNOWN">
+            <name>Chorus</name>
+          </personGrp>
+          <person xml:id="BishopOfCanterbury_H5" ana="http://www.wikidata.org/entity/Q2376957">
+            <persName>Bishop of Canterbury</persName>
+          </person>
+          <person xml:id="BishopOfEly_H5" ana="http://www.wikidata.org/entity/Q6233619">
+            <persName>Bishop of Ely</persName>
+          </person>
+          <person xml:id="HenryV_H5" ana="http://www.wikidata.org/entity/Q131581">
+            <persName>Henry V, King of England</persName>
+          </person>
+          <person xml:id="Exeter_H5" ana="http://www.wikidata.org/entity/Q660630">
+            <persName>Thomas, Duke of Exeter</persName>
+          </person>
+          <person xml:id="Westmoreland_1H4" ana="http://www.wikidata.org/entity/Q1972589">
+            <persName>Earl of Westmoreland</persName>
+          </person>
+          <personGrp xml:id="AMBASSADORS.0.1_H5" sex="UNKNOWN">
+            <name>AMBASSADORS.0.1_H5</name>
+          </personGrp>
+          <person xml:id="Bardolph_1H4" sex="MALE">
+            <persName>Bardolph</persName>
+          </person>
+          <person xml:id="Nym_H5" sex="MALE">
+            <persName>Nym</persName>
+          </person>
+          <person xml:id="Pistol_2H4" sex="MALE">
+            <persName>Pistol</persName>
+          </person>
+          <person xml:id="MistressQuickly_1H4" sex="FEMALE">
+            <persName>Hostess Quickly</persName>
+          </person>
+          <person xml:id="Boy_H5" sex="MALE">
+            <persName>Boy</persName>
+          </person>
+          <person xml:id="Bedford_H5" ana="http://www.wikidata.org/entity/Q348441">
+            <persName>John, Duke of Bedford</persName>
+          </person>
+          <person xml:id="Scroop_H5" ana="http://www.wikidata.org/entity/Q1607250">
+            <persName>Lord Scroop of Masham</persName>
+          </person>
+          <person xml:id="Cambridge_H5" ana="http://www.wikidata.org/entity/Q469002">
+            <persName>Earl of Cambridge</persName>
+          </person>
+          <person xml:id="Grey_H5" sex="MALE">
+            <persName>Sir Thomas Grey</persName>
+          </person>
+          <person xml:id="KingOfFrance_H5" ana="http://www.wikidata.org/entity/Q160349">
+            <persName>King of France</persName>
+          </person>
+          <person xml:id="Dauphin_H5" ana="http://www.wikidata.org/entity/Q1347131">
+            <persName>Dauphin</persName>
+          </person>
+          <person xml:id="Constable_H5" ana="http://www.wikidata.org/entity/Q626829">
+            <persName>Constable of France</persName>
+          </person>
+          <personGrp xml:id="MESSENGERS.X.1_H5" sex="UNKNOWN">
+            <name>Lords, Attendants, Soldiers, French Prisoners, Messengers</name>
+          </personGrp>
+          <person xml:id="Fluellen_H5" sex="MALE">
+            <persName>Captain Fluellen</persName>
+          </person>
+          <person xml:id="Gower_H5" sex="MALE">
+            <persName>Captain Gower</persName>
+          </person>
+          <person xml:id="Jamy_H5" sex="MALE">
+            <persName>Captain Jamy</persName>
+          </person>
+          <person xml:id="MacMorris_H5" sex="MALE">
+            <persName>Captain MacMorris</persName>
+          </person>
+          <person xml:id="Governor_H5" sex="MALE">
+            <persName>Governor_H5</persName>
+          </person>
+          <person xml:id="Katherine_H5" ana="http://www.wikidata.org/entity/Q229192">
+            <persName>Katherine</persName>
+          </person>
+          <person xml:id="Alice_H5" sex="FEMALE">
+            <persName>Alice</persName>
+          </person>
+          <person xml:id="Brittany_H5" ana="http://www.wikidata.org/entity/Q454013">
+            <persName>Duke of Brittany</persName>
+          </person>
+          <person xml:id="Montjoy_H5" sex="MALE">
+            <persName>Montjoy</persName>
+          </person>
+          <person xml:id="Gloucester_2H4" ana="http://www.wikidata.org/entity/Q447541">
+            <persName>Humphrey, Duke of Gloucester</persName>
+          </person>
+          <person xml:id="Orleans_H5" ana="http://www.wikidata.org/entity/Q310146">
+            <persName>Duke of Orléans</persName>
+          </person>
+          <person xml:id="Rambures_H5" ana="http://www.wikidata.org/entity/Q3019053">
+            <persName>Lord Rambures</persName>
+          </person>
+          <personGrp xml:id="MESSENGERS.X.2_H5" sex="UNKNOWN">
+            <name>Lords, Attendants, Soldiers, French Prisoners, Messengers</name>
+          </personGrp>
+          <person xml:id="Erpingham_H5" ana="http://www.wikidata.org/entity/Q446018">
+            <persName>Sir Thomas Erpingham</persName>
+          </person>
+          <person xml:id="SOLDIERS.ENGLISH.Court_H5" sex="MALE">
+            <persName>Alexander Court</persName>
+          </person>
+          <person xml:id="SOLDIERS.ENGLISH.Bates_H5" sex="MALE">
+            <persName>John Bates</persName>
+          </person>
+          <person xml:id="SOLDIERS.ENGLISH.Williams_H5" sex="MALE">
+            <persName>Michael Williams</persName>
+          </person>
+          <personGrp xml:id="MESSENGERS.X.3_H5" sex="UNKNOWN">
+            <name>Lords, Attendants, Soldiers, French Prisoners, Messengers</name>
+          </personGrp>
+          <person xml:id="Grandpre_H5" sex="MALE">
+            <persName>Lord Grandpré</persName>
+          </person>
+          <person xml:id="Salisbury_H5" ana="http://www.wikidata.org/entity/Q1000874">
+            <persName>Earl of Salisbury</persName>
+          </person>
+          <person xml:id="York_H5" ana="http://www.wikidata.org/entity/Q452639">
+            <persName>Duke of York</persName>
+          </person>
+          <person xml:id="SOLDIERS.FRENCH.LeFer_H5" sex="MALE">
+            <persName>Monsieur Le Fer</persName>
+          </person>
+          <person xml:id="Bourbon_H5" ana="http://www.wikidata.org/entity/Q724225">
+            <persName>Duke of Bourbon</persName>
+          </person>
+          <person xml:id="Warwick_2H4" ana="http://www.wikidata.org/entity/Q592988">
+            <persName>Earl of Warwick</persName>
+          </person>
+          <personGrp xml:id="HERALDS.1_H5" sex="UNKNOWN">
+            <name>HERALDS.1_H5</name>
+          </personGrp>
+          <person xml:id="QueenOfFrance_H5" ana="http://www.wikidata.org/entity/Q154064">
+            <persName>Queen Isabel of France</persName>
+          </person>
+          <person xml:id="Burgundy_H5" ana="http://www.wikidata.org/entity/Q298901">
+            <persName>Duke of Burgundy</persName>
+          </person>
+          <personGrp xml:id="ATTENDANTS.ENGLISH_H5" sex="UNKNOWN">
+            <name>Lords, Attendants, Soldiers, French Prisoners, Messengers</name>
+          </personGrp>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
   </teiHeader>
   <text>
     <front>

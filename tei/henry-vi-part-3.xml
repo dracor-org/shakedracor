@@ -69,7 +69,7 @@
     <encodingDesc>
       <projectDesc>
         <p>This version of the Folger Digital Texts encodes the edition of each play by Barbara Mowat and Paul Werstine in TEI Simple. The major goal of recasting the texts in this manner is to make them interoperable with a large corpus of early modern texts derived from the EEBO-TCP transcriptionss and encoded in TEI Simple with linguistic annotation.</p>
-        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are: 
+        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are:
           <list><item>Number <gi>div</gi> are replaced by unnumbered divs</item><item>Lines of verse are marked in <gi>l</gi>, tags, lines of prose in <gi>ab</gi></item><item>All xml:ids are corpuswide identifiers</item><item>Information from the participant description element <gi>particDesc</gi> in the teiHeader has been moved into  a <gi>castList</gi> element in the <gi>front</gi> element</item><item>Each spoken word in the text has been linguistically annotated with a lemma and POS tag</item></list>
         </p>
       </projectDesc>
@@ -86,7 +86,162 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    <particDesc><listPerson><person xml:id="Warwick_2H6"><persName>Warwick</persName></person><person xml:id="York_1H6"><persName>York</persName></person><person xml:id="EdwardIV_3H6"><persName>Edward King Edward IV</persName><persName>Edward King Edward IV</persName></person><person xml:id="Montague_3H6"><persName>Montague</persName></person><person xml:id="RichardIII_R3"><persName>Richard Gloucester</persName><persName>Richard Gloucester</persName></person><person xml:id="Norfolk_3H6"><persName>Norfolk</persName></person><person xml:id="HenryVI_1H6"><persName>King Henry VI</persName></person><person xml:id="Northumberland_3H6"><persName>Northumberland</persName></person><person xml:id="Clifford_3H6"><persName>Clifford</persName></person><person xml:id="Westmorland_3H6"><persName>Westmorland</persName></person><person xml:id="Exeter_3H6"><persName>Exeter</persName></person><person xml:id="QueenMargaret_1H6"><persName>Queen Margaret</persName></person><person xml:id="PrinceEdward_3H6"><persName>Prince Edward</persName></person><person xml:id="MESSENGERS.X.1_3H6"><persName>MESSENGERS.X.1_3H6</persName></person><person xml:id="JohnMortimer_3H6"><persName>Sir John</persName></person><person xml:id="Rutland_3H6"><persName>Rutland</persName></person><person xml:id="Tutor_3H6"><persName>Tutor</persName></person><person xml:id="MESSENGERS.X.2_3H6"><persName>MESSENGERS.X.2_3H6</persName></person><person xml:id="MESSENGERS.X.3_3H6"><persName>MESSENGERS.X.3_3H6</persName></person><person xml:id="MESSENGERS.X.4_3H6"><persName>MESSENGERS.X.4_3H6</persName></person><person xml:id="Clarence_3H6"><persName>George Clarence</persName><persName>George Clarence</persName></person><person xml:id="Son_3H6"><persName>Son</persName></person><person xml:id="Father_3H6"><persName>Father</persName></person><person xml:id="GAMEKEEPERS.1_3H6"><persName>First Gamekeeper</persName></person><person xml:id="GAMEKEEPERS.2_3H6"><persName>Second Gamekeeper</persName></person><person xml:id="QueenElizabeth_3H6"><persName>Lady Grey Queen Elizabeth</persName><persName>Lady Grey Queen Elizabeth</persName></person><person xml:id="ATTENDANTS.EDWARD.1_3H6"><persName>Nobleman</persName></person><person xml:id="KingLewis_3H6"><persName>King Lewis</persName></person><person xml:id="Oxford_3H6"><persName>Oxford</persName></person><person xml:id="LadyBona_3H6"><persName>Lady Bona</persName></person><person xml:id="MESSENGERS.Post_3H6"><persName>Post</persName></person><person xml:id="Somerset_3H6"><persName>Somerset</persName></person><person xml:id="Hastings_3H6"><persName>Hastings</persName></person><person xml:id="WATCHMEN.1_3H6"><persName>First Watch</persName></person><person xml:id="WATCHMEN.2_3H6"><persName>Second Watch</persName></person><person xml:id="WATCHMEN.3_3H6"><persName>Third Watch</persName></person><person xml:id="Rivers_3H6"><persName>Rivers</persName></person><person xml:id="Huntsman_3H6"><persName>Huntsman</persName></person><person xml:id="Lieutenant_3H6"><persName>Lieutenant</persName></person><person xml:id="MayorOfYork_3H6"><persName>Mayor</persName></person><person xml:id="Montgomery_3H6"><persName>Montgomery</persName></person><person xml:id="SOLDIERS.YORK.0.1_3H6"><persName>Soldier</persName></person><person xml:id="SOLDIERS.YORK_3H6"><persName>Soldiers, Servants, Attendants, Drummers, Trumpeters, Sir Hugh Mortimer, Henry, Earl of Richmond, Aldermen of York, Mayor of Coventry, Nurse, the infant prince, and Others</persName></person><person xml:id="ALDERMEN_3H6"><persName>Soldiers, Servants, Attendants, Drummers, Trumpeters, Sir Hugh Mortimer, Henry, Earl of Richmond, Aldermen of York, Mayor of Coventry, Nurse, the infant prince, and Others</persName></person><person xml:id="SOLDIERS.MONTGOMERY_3H6"><persName>Soldiers, Servants, Attendants, Drummers, Trumpeters, Sir Hugh Mortimer, Henry, Earl of Richmond, Aldermen of York, Mayor of Coventry, Nurse, the infant prince, and Others</persName></person><person xml:id="MESSENGERS.1_3H6"><persName>First Messenger</persName></person><person xml:id="MESSENGERS.2_3H6"><persName>Second Messenger</persName></person><person xml:id="Somerville_3H6"><persName>Somerville</persName></person><person xml:id="MESSENGERS.X.5_3H6"><persName>MESSENGERS.X.5_3H6</persName></person></listPerson></particDesc></profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="Warwick_2H6" ana="http://www.wikidata.org/entity/Q923162">
+            <persName>Warwick</persName>
+          </person>
+          <person xml:id="York_1H6" sex="MALE ">
+            <persName>York</persName>
+          </person>
+          <person xml:id="EdwardIV_3H6" ana="http://www.wikidata.org/entity/Q160341">
+            <persName>Edward King Edward IV</persName>
+            <persName>Edward King Edward IV</persName>
+          </person>
+          <person xml:id="Montague_3H6" sex="MALE ">
+            <persName>Montague</persName>
+          </person>
+          <person xml:id="RichardIII_R3" ana="http://www.wikidata.org/entity/Q7323515">
+            <persName>Richard Gloucester</persName>
+            <persName>Richard Gloucester</persName>
+          </person>
+          <person xml:id="Norfolk_3H6" sex="MALE ">
+            <persName>Norfolk</persName>
+          </person>
+          <person xml:id="HenryVI_1H6" ana="http://www.wikidata.org/entity/Q160337">
+            <persName>King Henry VI</persName>
+          </person>
+          <person xml:id="Northumberland_3H6" sex="MALE ">
+            <persName>Northumberland</persName>
+          </person>
+          <person xml:id="Clifford_3H6" sex="MALE ">
+            <persName>Clifford</persName>
+          </person>
+          <person xml:id="Westmorland_3H6" ana="http://www.wikidata.org/entity/Q1972589">
+            <persName>Westmorland</persName>
+          </person>
+          <person xml:id="Exeter_3H6" sex="MALE ">
+            <persName>Exeter</persName>
+          </person>
+          <person xml:id="QueenMargaret_1H6" ana="http://www.wikidata.org/entity/Q229159">
+            <persName>Queen Margaret</persName>
+          </person>
+          <person xml:id="PrinceEdward_3H6" sex="MALE ">
+            <persName>Prince Edward</persName>
+          </person>
+          <personGrp xml:id="MESSENGERS.X.1_3H6" sex="UNKNOWN">
+            <name>MESSENGERS.X.1_3H6</name>
+          </personGrp>
+          <person xml:id="JohnMortimer_3H6" sex="MALE">
+            <persName>Sir John</persName>
+          </person>
+          <person xml:id="Rutland_3H6" sex="MALE">
+            <persName>Rutland</persName>
+          </person>
+          <person xml:id="Tutor_3H6" sex="MALE">
+            <persName>Tutor</persName>
+          </person>
+          <personGrp xml:id="MESSENGERS.X.2_3H6" sex="UNKNOWN">
+            <name>MESSENGERS.X.2_3H6</name>
+          </personGrp>
+          <personGrp xml:id="MESSENGERS.X.3_3H6" sex="UNKNOWN">
+            <name>MESSENGERS.X.3_3H6</name>
+          </personGrp>
+          <personGrp xml:id="MESSENGERS.X.4_3H6" sex="UNKNOWN">
+            <name>MESSENGERS.X.4_3H6</name>
+          </personGrp>
+          <person xml:id="Clarence_3H6" sex="MALE">
+            <persName>George Clarence</persName>
+            <persName>George Clarence</persName>
+          </person>
+          <person xml:id="Son_3H6" sex="MALE">
+            <persName>Son</persName>
+          </person>
+          <person xml:id="Father_3H6" sex="MALE">
+            <persName>Father</persName>
+          </person>
+          <person xml:id="GAMEKEEPERS.1_3H6" sex="MALE">
+            <persName>First Gamekeeper</persName>
+          </person>
+          <person xml:id="GAMEKEEPERS.2_3H6" sex="MALE">
+            <persName>Second Gamekeeper</persName>
+          </person>
+          <person xml:id="QueenElizabeth_3H6" sex="FEMALE">
+            <persName>Lady Grey Queen Elizabeth</persName>
+            <persName>Lady Grey Queen Elizabeth</persName>
+          </person>
+          <person xml:id="ATTENDANTS.EDWARD.1_3H6" sex="MALE">
+            <persName>Nobleman</persName>
+          </person>
+          <person xml:id="KingLewis_3H6" sex="MALE">
+            <persName>King Lewis</persName>
+          </person>
+          <person xml:id="Oxford_3H6" sex="MALE">
+            <persName>Oxford</persName>
+          </person>
+          <person xml:id="LadyBona_3H6" sex="FEMALE">
+            <persName>Lady Bona</persName>
+          </person>
+          <person xml:id="MESSENGERS.Post_3H6" sex="MALE">
+            <persName>Post</persName>
+          </person>
+          <person xml:id="Somerset_3H6" sex="MALE">
+            <persName>Somerset</persName>
+          </person>
+          <person xml:id="Hastings_3H6" sex="MALE">
+            <persName>Hastings</persName>
+          </person>
+          <person xml:id="WATCHMEN.1_3H6" sex="MALE">
+            <persName>First Watch</persName>
+          </person>
+          <person xml:id="WATCHMEN.2_3H6" sex="MALE">
+            <persName>Second Watch</persName>
+          </person>
+          <person xml:id="WATCHMEN.3_3H6" sex="MALE">
+            <persName>Third Watch</persName>
+          </person>
+          <person xml:id="Rivers_3H6" sex="MALE">
+            <persName>Rivers</persName>
+          </person>
+          <person xml:id="Huntsman_3H6" sex="MALE">
+            <persName>Huntsman</persName>
+          </person>
+          <person xml:id="Lieutenant_3H6" sex="MALE">
+            <persName>Lieutenant</persName>
+          </person>
+          <person xml:id="MayorOfYork_3H6" sex="MALE">
+            <persName>Mayor</persName>
+          </person>
+          <person xml:id="Montgomery_3H6" sex="MALE">
+            <persName>Montgomery</persName>
+          </person>
+          <person xml:id="SOLDIERS.YORK.0.1_3H6" sex="MALE">
+            <persName>Soldier</persName>
+          </person>
+          <personGrp xml:id="SOLDIERS.YORK_3H6" sex="UNKNOWN">
+            <name>Soldiers, Servants, Attendants, Drummers, Trumpeters, Sir Hugh Mortimer, Henry, Earl of Richmond, Aldermen of York, Mayor of Coventry, Nurse, the infant prince, and Others</name>
+          </personGrp>
+          <personGrp xml:id="ALDERMEN_3H6" sex="UNKNOWN">
+            <name>Soldiers, Servants, Attendants, Drummers, Trumpeters, Sir Hugh Mortimer, Henry, Earl of Richmond, Aldermen of York, Mayor of Coventry, Nurse, the infant prince, and Others</name>
+          </personGrp>
+          <personGrp xml:id="SOLDIERS.MONTGOMERY_3H6" sex="UNKNOWN">
+            <name>Soldiers, Servants, Attendants, Drummers, Trumpeters, Sir Hugh Mortimer, Henry, Earl of Richmond, Aldermen of York, Mayor of Coventry, Nurse, the infant prince, and Others</name>
+          </personGrp>
+          <person xml:id="MESSENGERS.1_3H6" sex="MALE">
+            <persName>First Messenger</persName>
+          </person>
+          <person xml:id="MESSENGERS.2_3H6" sex="MALE">
+            <persName>Second Messenger</persName>
+          </person>
+          <person xml:id="Somerville_3H6" sex="MALE">
+            <persName>Somerville</persName>
+          </person>
+          <personGrp xml:id="MESSENGERS.X.5_3H6" sex="UNKNOWN">
+            <name>MESSENGERS.X.5_3H6</name>
+          </personGrp>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
   </teiHeader>
   <text>
     <front>

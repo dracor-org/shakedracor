@@ -69,7 +69,7 @@
     <encodingDesc>
       <projectDesc>
         <p>This version of the Folger Digital Texts uses TEI Simple to encode the Shakespeare texts edited by Barbara Mowat and Paul Werstine.  The major goal of recasting the texts in this manner is to make them interoperable with a large corpus of early modern texts derived from the EEBO-TCP transcriptions and encoded in TEI Simple with linguistic annotation.</p>
-        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are: 
+        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are:
           <list><item>Number <gi>div</gi> are replaced by unnumbered divs</item><item>Lines of verse are marked in <gi>l</gi>, tags, lines of prose in <gi>ab</gi></item><item>All xml:ids are corpuswide identifiers</item><item>Information from the participant description element <gi>particDesc</gi> in the teiHeader has been moved into  a <gi>castList</gi> element in the <gi>front</gi> element</item><item>Each spoken word in the text has been linguistically annotated with a lemma and POS tag</item></list>
         </p>
       </projectDesc>
@@ -86,7 +86,116 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    <particDesc><listPerson><person xml:id="Archidamus_WT"><persName>Archidamus</persName></person><person xml:id="Camillo_WT"><persName>Camillo</persName></person><person xml:id="Polixenes_WT"><persName>Polixenes</persName></person><person xml:id="Leontes_WT"><persName>Leontes</persName></person><person xml:id="Hermione_WT"><persName>Hermione</persName></person><person xml:id="Mamillius_WT"><persName>Mamillius</persName></person><person xml:id="LADIES.0.1_WT"><persName>LADIES.0.1_WT</persName></person><person xml:id="LADIES.0.2_WT"><persName>LADIES.0.2_WT</persName></person><person xml:id="ATTENDANTS.0.1_WT"><persName>ATTENDANTS.0.1_WT</persName></person><person xml:id="Antigonus_WT"><persName>Antigonus</persName></person><person xml:id="Paulina_WT"><persName>Paulina</persName></person><person xml:id="Jailer_WT"><persName>Jailer</persName></person><person xml:id="LADIES.Emilia_WT"><persName>Emilia</persName></person><person xml:id="SERVANTS.X.1_WT"><persName>Indeterminate member of the SERVANTS group</persName></person><person xml:id="SERVANTS.0_WT"><persName>Indistinct members of the SERVANTS group</persName></person><person xml:id="ATTENDANTS_WT"><persName>ATTENDANTS_WT</persName></person><person xml:id="SERVANTS.X.2_WT"><persName>Indeterminate member of the SERVANTS group</persName></person><person xml:id="Cleomenes_WT"><persName>Cleomenes</persName></person><person xml:id="Dion_WT"><persName>Dion</persName></person><person xml:id="OFFICERS.0.1_WT"><persName>Officer</persName></person><person xml:id="Sailor_WT"><persName>Mariner</persName></person><person xml:id="Shepherd_WT"><persName>Shepherd</persName></person><person xml:id="ShepherdsSon_WT"><persName>Shepherd’s Son</persName></person><person xml:id="Chorus_WT"><persName>Time</persName></person><person xml:id="Autolycus_WT"><persName>Autolycus</persName></person><person xml:id="Florizell_WT"><persName>Florizell</persName></person><person xml:id="Perdita_WT"><persName>Perdita</persName></person><person xml:id="Dorcas_WT"><persName>Dorcas</persName></person><person xml:id="Mopsa_WT"><persName>Mopsa</persName></person><person xml:id="SERVANTS.SHEPHERD.1_WT"><persName>Servant</persName></person><person xml:id="SERVANTS.X.3_WT"><persName>Indeterminate member of the SERVANTS group</persName></person><person xml:id="ATTENDANTS.X_WT"><persName>ATTENDANTS.X_WT</persName></person><person xml:id="ATTENDANTS.1_WT"><persName>ATTENDANTS.1_WT</persName></person><person xml:id="ATTENDANTS.2_WT"><persName>ATTENDANTS.2_WT</persName></person><person xml:id="ATTENDANTS.3_WT"><persName>ATTENDANTS.3_WT</persName></person></listPerson></particDesc></profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="Archidamus_WT" sex="MALE">
+            <persName>Archidamus</persName>
+          </person>
+          <person xml:id="Camillo_WT" sex="MALE">
+            <persName>Camillo</persName>
+          </person>
+          <person xml:id="Polixenes_WT" sex="MALE">
+            <persName>Polixenes</persName>
+          </person>
+          <person xml:id="Leontes_WT" sex="MALE">
+            <persName>Leontes</persName>
+          </person>
+          <person xml:id="Hermione_WT" sex="FEMALE">
+            <persName>Hermione</persName>
+          </person>
+          <person xml:id="Mamillius_WT" sex="MALE">
+            <persName>Mamillius</persName>
+          </person>
+          <personGrp xml:id="LADIES.0.1_WT" sex="UNKNOWN">
+            <name>LADIES.0.1_WT</name>
+          </personGrp>
+          <personGrp xml:id="LADIES.0.2_WT" sex="UNKNOWN">
+            <name>LADIES.0.2_WT</name>
+          </personGrp>
+          <personGrp xml:id="ATTENDANTS.0.1_WT" sex="UNKNOWN">
+            <name>ATTENDANTS.0.1_WT</name>
+          </personGrp>
+          <person xml:id="Antigonus_WT" sex="MALE">
+            <persName>Antigonus</persName>
+          </person>
+          <person xml:id="Paulina_WT" sex="FEMALE">
+            <persName>Paulina</persName>
+          </person>
+          <person xml:id="Jailer_WT" sex="MALE">
+            <persName>Jailer</persName>
+          </person>
+          <person xml:id="LADIES.Emilia_WT" sex="FEMALE">
+            <persName>Emilia</persName>
+          </person>
+          <personGrp xml:id="SERVANTS.X.1_WT" sex="UNKNOWN">
+            <name>Indeterminate member of the SERVANTS group</name>
+          </personGrp>
+          <personGrp xml:id="SERVANTS.0_WT" sex="UNKNOWN">
+            <name>Indistinct members of the SERVANTS group</name>
+          </personGrp>
+          <person xml:id="ATTENDANTS_WT" sex="MALE">
+            <persName>ATTENDANTS_WT</persName>
+          </person>
+          <personGrp xml:id="SERVANTS.X.2_WT" sex="UNKNOWN">
+            <name>Indeterminate member of the SERVANTS group</name>
+          </personGrp>
+          <person xml:id="Cleomenes_WT" sex="MALE">
+            <persName>Cleomenes</persName>
+          </person>
+          <person xml:id="Dion_WT" sex="MALE">
+            <persName>Dion</persName>
+          </person>
+          <person xml:id="OFFICERS.0.1_WT">
+            <persName>Officer</persName>
+          </person>
+          <person xml:id="Sailor_WT">
+            <persName>Mariner</persName>
+          </person>
+          <person xml:id="Shepherd_WT" sex="MALE">
+            <persName>Shepherd</persName>
+          </person>
+          <person xml:id="ShepherdsSon_WT" sex="MALE">
+            <persName>Shepherd’s Son</persName>
+          </person>
+          <person xml:id="Chorus_WT" sex="UNKNOWN">
+            <persName>Time</persName>
+          </person>
+          <person xml:id="Autolycus_WT" sex="MALE">
+            <persName>Autolycus</persName>
+          </person>
+          <person xml:id="Florizell_WT" sex="MALE">
+            <persName>Florizell</persName>
+          </person>
+          <person xml:id="Perdita_WT" sex="FEMALE">
+            <persName>Perdita</persName>
+          </person>
+          <person xml:id="Dorcas_WT" sex="FEMALE">
+            <persName>Dorcas</persName>
+          </person>
+          <person xml:id="Mopsa_WT" sex="FEMALE">
+            <persName>Mopsa</persName>
+          </person>
+          <person xml:id="SERVANTS.SHEPHERD.1_WT" sex="MALE">
+            <persName>Servant</persName>
+          </person>
+          <personGrp xml:id="SERVANTS.X.3_WT" sex="UNKNOWN">
+            <name>Indeterminate member of the SERVANTS group</name>
+          </personGrp>
+          <person xml:id="ATTENDANTS.X_WT" sex="MALE">
+            <persName>ATTENDANTS.X_WT</persName>
+          </person>
+          <person xml:id="ATTENDANTS.1_WT" sex="MALE">
+            <persName>ATTENDANTS.1_WT</persName>
+          </person>
+          <person xml:id="ATTENDANTS.2_WT" sex="MALE">
+            <persName>ATTENDANTS.2_WT</persName>
+          </person>
+          <person xml:id="ATTENDANTS.3_WT" sex="MALE">
+            <persName>ATTENDANTS.3_WT</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
   </teiHeader>
   <text>
     <front>

@@ -69,7 +69,7 @@
     <encodingDesc>
       <projectDesc>
         <p>This version of the Folger Digital Texts uses TEI Simple to encode the Shakespeare texts edited by Barbara Mowat and Paul Werstine.  The major goal of recasting the texts in this manner is to make them interoperable with a large corpus of early modern texts derived from the EEBO-TCP transcriptions and encoded in TEI Simple with linguistic annotation.</p>
-        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are: 
+        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are:
           <list><item>Number <gi>div</gi> are replaced by unnumbered divs</item><item>Lines of verse are marked in <gi>l</gi>, tags, lines of prose in <gi>ab</gi></item><item>All xml:ids are corpuswide identifiers</item><item>Information from the participant description element <gi>particDesc</gi> in the teiHeader has been moved into  a <gi>castList</gi> element in the <gi>front</gi> element</item><item>Each spoken word in the text has been linguistically annotated with a lemma and POS tag</item></list>
         </p>
       </projectDesc>
@@ -86,7 +86,89 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    <particDesc><listPerson><person xml:id="Leonato_Ado"><persName>Leonato</persName></person><person xml:id="MESSENGERS.LEONATO.1_Ado"><persName>Messenger</persName></person><person xml:id="Beatrice_Ado"><persName>Beatrice</persName></person><person xml:id="Hero_Ado"><persName>Hero</persName></person><person xml:id="DonPedro_Ado"><persName>Don Pedro</persName></person><person xml:id="Benedick_Ado"><persName>Signior Benedick</persName></person><person xml:id="DonJohn_Ado"><persName>Don John</persName></person><person xml:id="Claudio_Ado"><persName>Count Claudio</persName></person><person xml:id="LeonatosBrother_Ado"><persName>Leonato’s Brother</persName></person><person xml:id="Conrade_Ado"><persName>Conrade</persName></person><person xml:id="Borachio_Ado"><persName>Borachio</persName></person><person xml:id="Margaret_Ado"><persName>Margaret</persName></person><person xml:id="Balthasar_Ado"><persName>Balthasar</persName></person><person xml:id="Ursula_Ado"><persName>Ursula</persName></person><person xml:id="Antonio_Ado"><persName>Signior Antonio</persName></person><person xml:id="Boy_Ado"><persName>Boy</persName></person><person xml:id="Dogberry_Ado"><persName>Dogberry</persName></person><person xml:id="Verges_Ado"><persName>Verges</persName></person><person xml:id="WATCHMEN.1_Ado"><persName>First Watchman</persName></person><person xml:id="WATCHMEN.Seacoal_Ado"><persName>George Seacoal</persName></person><person xml:id="WATCHMEN.2_Ado"><persName>Second Watchman</persName></person><person xml:id="FriarFrancis_Ado"><persName>Friar Francis</persName></person><person xml:id="Sexton_Ado"><persName>Sexton</persName></person><person xml:id="ATTENDANTS.0.1_Ado"><persName>Musicians, Lords, Attendants, Son to Leonato’s brother</persName></person><person xml:id="MUSICIANS_Ado"><persName>Musicians, Lords, Attendants, Son to Leonato’s brother</persName></person><person xml:id="MESSENGERS.DONPEDRO.1_Ado"><persName>Messenger</persName></person></listPerson></particDesc></profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="Leonato_Ado" sex="MALE">
+            <persName>Leonato</persName>
+          </person>
+          <person xml:id="MESSENGERS.LEONATO.1_Ado" sex="MALE">
+            <persName>Messenger</persName>
+          </person>
+          <person xml:id="Beatrice_Ado" sex="FEMALE">
+            <persName>Beatrice</persName>
+          </person>
+          <person xml:id="Hero_Ado" sex="FEMALE">
+            <persName>Hero</persName>
+          </person>
+          <person xml:id="DonPedro_Ado" sex="MALE">
+            <persName>Don Pedro</persName>
+          </person>
+          <person xml:id="Benedick_Ado" sex="MALE">
+            <persName>Signior Benedick</persName>
+          </person>
+          <person xml:id="DonJohn_Ado" sex="MALE">
+            <persName>Don John</persName>
+          </person>
+          <person xml:id="Claudio_Ado" sex="MALE">
+            <persName>Count Claudio</persName>
+          </person>
+          <person xml:id="LeonatosBrother_Ado" sex="MALE">
+            <persName>Leonato’s Brother</persName>
+          </person>
+          <person xml:id="Conrade_Ado" sex="MALE">
+            <persName>Conrade</persName>
+          </person>
+          <person xml:id="Borachio_Ado" sex="MALE">
+            <persName>Borachio</persName>
+          </person>
+          <person xml:id="Margaret_Ado" sex="FEMALE">
+            <persName>Margaret</persName>
+          </person>
+          <person xml:id="Balthasar_Ado" sex="MALE">
+            <persName>Balthasar</persName>
+          </person>
+          <person xml:id="Ursula_Ado" sex="FEMALE">
+            <persName>Ursula</persName>
+          </person>
+          <person xml:id="Antonio_Ado" sex="MALE">
+            <persName>Signior Antonio</persName>
+          </person>
+          <person xml:id="Boy_Ado" sex="MALE">
+            <persName>Boy</persName>
+          </person>
+          <person xml:id="Dogberry_Ado" sex="MALE">
+            <persName>Dogberry</persName>
+          </person>
+          <person xml:id="Verges_Ado" sex="MALE">
+            <persName>Verges</persName>
+          </person>
+          <person xml:id="WATCHMEN.1_Ado" sex="MALE">
+            <persName>First Watchman</persName>
+          </person>
+          <person xml:id="WATCHMEN.Seacoal_Ado" sex="UNKNOWN">
+            <persName>George Seacoal</persName>
+          </person>
+          <person xml:id="WATCHMEN.2_Ado" sex="MALE">
+            <persName>Second Watchman</persName>
+          </person>
+          <person xml:id="FriarFrancis_Ado" sex="MALE">
+            <persName>Friar Francis</persName>
+          </person>
+          <person xml:id="Sexton_Ado" sex="MALE">
+            <persName>Sexton</persName>
+          </person>
+          <personGrp xml:id="ATTENDANTS.0.1_Ado" sex="UNKNOWN">
+            <name>Musicians, Lords, Attendants, Son to Leonato’s brother</name>
+          </personGrp>
+          <personGrp xml:id="MUSICIANS_Ado" sex="UNKNOWN">
+            <name>Musicians, Lords, Attendants, Son to Leonato’s brother</name>
+          </personGrp>
+          <person xml:id="MESSENGERS.DONPEDRO.1_Ado" sex="MALE">
+            <persName>Messenger</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
   </teiHeader>
   <text>
     <front>

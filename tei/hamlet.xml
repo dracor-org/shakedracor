@@ -69,7 +69,7 @@
     <encodingDesc>
       <projectDesc>
         <p>This version of the Folger Digital Texts uses TEI Simple to encode the Shakespeare texts edited by Barbara Mowat and Paul Werstine.  The major goal of recasting the texts in this manner is to make them interoperable with a large corpus of early modern texts derived from the EEBO-TCP transcriptions and encoded in TEI Simple with linguistic annotation.</p>
-        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are: 
+        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are:
           <list><item>Number <gi>div</gi> are replaced by unnumbered divs</item><item>Lines of verse are marked in <gi>l</gi>, tags, lines of prose in <gi>ab</gi></item><item>All xml:ids are corpuswide identifiers</item><item>Information from the participant description element <gi>particDesc</gi> in the teiHeader has been moved into  a <gi>castList</gi> element in the <gi>front</gi> element</item><item>Each spoken word in the text has been linguistically annotated with a lemma and POS tag</item></list>
         </p>
       </projectDesc>
@@ -86,7 +86,125 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    <particDesc><listPerson><person xml:id="Barnardo_Ham"><persName>Barnardo</persName></person><person xml:id="Francisco_Ham"><persName>Francisco</persName></person><person xml:id="Horatio_Ham"><persName>Horatio</persName></person><person xml:id="Marcellus_Ham"><persName>Marcellus</persName></person><person xml:id="Claudius_Ham"><persName>King Claudius</persName></person><person xml:id="Cornelius_Ham"><persName>Cornelius</persName></person><person xml:id="Voltemand_Ham"><persName>Voltemand</persName></person><person xml:id="Laertes_Ham"><persName>Laertes</persName></person><person xml:id="Polonius_Ham"><persName>Polonius</persName></person><person xml:id="Hamlet_Ham"><persName>Hamlet</persName></person><person xml:id="Gertrude_Ham"><persName>Queen Gertrude</persName></person><person xml:id="Ophelia_Ham"><persName>Ophelia</persName></person><person xml:id="Ghost_Ham"><persName>The Ghost</persName></person><person xml:id="Reynaldo_Ham"><persName>Reynaldo</persName></person><person xml:id="Rosencrantz_Ham"><persName>Rosencrantz</persName></person><person xml:id="Guildenstern_Ham"><persName>Guildenstern</persName></person><person xml:id="PLAYERS.1_Ham"><persName>PLAYERS.1_Ham</persName></person><person xml:id="PLAYERS.0.1_Ham"><persName>PLAYERS.0.1_Ham</persName></person><person xml:id="PLAYERS.Prologue_Ham"><persName>PLAYERS.Prologue_Ham</persName></person><person xml:id="PLAYERS.King_Ham"><persName>PLAYERS.King_Ham</persName></person><person xml:id="PLAYERS.Queen_Ham"><persName>PLAYERS.Queen_Ham</persName></person><person xml:id="PLAYERS.Lucianus_Ham"><persName>PLAYERS.Lucianus_Ham</persName></person><person xml:id="ATTENDANTS.GUARDS_Ham"><persName>Attendants, Lords, Guards, Musicians, Laertes’s Followers, Soldiers, Officers</persName></person><person xml:id="Fortinbras_Ham"><persName>Fortinbras</persName></person><person xml:id="SOLDIERS.FORTINBRAS.Captain_Ham"><persName>SOLDIERS.FORTINBRAS.Captain_Ham</persName></person><person xml:id="ATTENDANTS.1_Ham"><persName>courtiers at the Danish court</persName></person><person xml:id="MESSENGERS.1_Ham"><persName>MESSENGERS.1_Ham</persName></person><person xml:id="FOLLOWERS.LAERTES_Ham"><persName>Attendants, Lords, Guards, Musicians, Laertes’s Followers, Soldiers, Officers</persName></person><person xml:id="ATTENDANTS.0.1_Ham"><persName>Attendants, Lords, Guards, Musicians, Laertes’s Followers, Soldiers, Officers</persName></person><person xml:id="SAILORS.0.1_Ham"><persName>SAILORS.0.1_Ham</persName></person><person xml:id="MESSENGERS.2_Ham"><persName>MESSENGERS.2_Ham</persName></person><person xml:id="Gravedigger_Ham"><persName>Gravedigger_Ham</persName></person><person xml:id="GravediggersCompanion_Ham"><persName>GravediggersCompanion_Ham</persName></person><person xml:id="Doctor_Ham"><persName>Doctor_Ham</persName></person><person xml:id="ATTENDANTS_Ham"><persName>Attendants, Lords, Guards, Musicians, Laertes’s Followers, Soldiers, Officers</persName></person><person xml:id="Osric_Ham"><persName>Osric</persName></person><person xml:id="ATTENDANTS.2_Ham"><persName>courtiers at the Danish court</persName></person><person xml:id="AMBASSADORS_Ham"><persName>Ambassadors to Denmark from England</persName></person></listPerson></particDesc></profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="Barnardo_Ham" sex="MALE">
+            <persName>Barnardo</persName>
+          </person>
+          <person xml:id="Francisco_Ham" sex="MALE">
+            <persName>Francisco</persName>
+          </person>
+          <person xml:id="Horatio_Ham" sex="MALE">
+            <persName>Horatio</persName>
+          </person>
+          <person xml:id="Marcellus_Ham" sex="MALE">
+            <persName>Marcellus</persName>
+          </person>
+          <person xml:id="Claudius_Ham" sex="MALE">
+            <persName>King Claudius</persName>
+          </person>
+          <person xml:id="Cornelius_Ham" sex="MALE">
+            <persName>Cornelius</persName>
+          </person>
+          <person xml:id="Voltemand_Ham" sex="MALE">
+            <persName>Voltemand</persName>
+          </person>
+          <person xml:id="Laertes_Ham" sex="MALE">
+            <persName>Laertes</persName>
+          </person>
+          <person xml:id="Polonius_Ham" sex="MALE">
+            <persName>Polonius</persName>
+          </person>
+          <person xml:id="Hamlet_Ham" ana="http://www.wikidata.org/entity/Q462225">
+            <persName>Hamlet</persName>
+          </person>
+          <person xml:id="Gertrude_Ham" ana="http://www.wikidata.org/entity/Q258776">
+            <persName>Queen Gertrude</persName>
+          </person>
+          <person xml:id="Ophelia_Ham" ana="http://www.wikidata.org/entity/Q16131373">
+            <persName>Ophelia</persName>
+          </person>
+          <person xml:id="Ghost_Ham" ana="http://www.wikidata.org/entity/Q644262">
+            <persName>The Ghost</persName>
+          </person>
+          <person xml:id="Reynaldo_Ham" sex="MALE">
+            <persName>Reynaldo</persName>
+          </person>
+          <person xml:id="Rosencrantz_Ham" ana="http://www.wikidata.org/entity/Q10906968">
+            <persName>Rosencrantz</persName>
+          </person>
+          <person xml:id="Guildenstern_Ham" ana="http://www.wikidata.org/entity/Q12322311">
+            <persName>Guildenstern</persName>
+          </person>
+          <personGrp xml:id="PLAYERS.1_Ham" sex="UNKNOWN">
+            <name>PLAYERS.1_Ham</name>
+          </personGrp>
+          <personGrp xml:id="PLAYERS.0.1_Ham" sex="UNKNOWN">
+            <name>PLAYERS.0.1_Ham</name>
+          </personGrp>
+          <personGrp xml:id="PLAYERS.Prologue_Ham" sex="UNKNOWN">
+            <name>PLAYERS.Prologue_Ham</name>
+          </personGrp>
+          <personGrp xml:id="PLAYERS.King_Ham" sex="UNKNOWN">
+            <name>PLAYERS.King_Ham</name>
+          </personGrp>
+          <personGrp xml:id="PLAYERS.Queen_Ham" sex="UNKNOWN">
+            <name>PLAYERS.Queen_Ham</name>
+          </personGrp>
+          <personGrp xml:id="PLAYERS.Lucianus_Ham" sex="UNKNOWN">
+            <name>PLAYERS.Lucianus_Ham</name>
+          </personGrp>
+          <personGrp xml:id="ATTENDANTS.GUARDS_Ham" sex="UNKNOWN">
+            <name>Attendants, Lords, Guards, Musicians, Laertes’s Followers, Soldiers, Officers</name>
+          </personGrp>
+          <person xml:id="Fortinbras_Ham" sex="MALE">
+            <persName>Fortinbras</persName>
+          </person>
+          <personGrp xml:id="SOLDIERS.FORTINBRAS.Captain_Ham" sex="UNKNOWN">
+            <name>SOLDIERS.FORTINBRAS.Captain_Ham</name>
+          </personGrp>
+          <personGrp xml:id="ATTENDANTS.1_Ham" sex="UNKNOWN">
+            <name>courtiers at the Danish court</name>
+          </personGrp>
+          <personGrp xml:id="MESSENGERS.1_Ham" sex="UNKNOWN">
+            <name>MESSENGERS.1_Ham</name>
+          </personGrp>
+          <personGrp xml:id="FOLLOWERS.LAERTES_Ham" sex="UNKNOWN">
+            <name>Attendants, Lords, Guards, Musicians, Laertes’s Followers, Soldiers, Officers</name>
+          </personGrp>
+          <personGrp xml:id="ATTENDANTS.0.1_Ham" sex="UNKNOWN">
+            <name>Attendants, Lords, Guards, Musicians, Laertes’s Followers, Soldiers, Officers</name>
+          </personGrp>
+          <personGrp xml:id="SAILORS.0.1_Ham" sex="UNKNOWN">
+            <name>SAILORS.0.1_Ham</name>
+          </personGrp>
+          <personGrp xml:id="MESSENGERS.2_Ham" sex="UNKNOWN">
+            <name>MESSENGERS.2_Ham</name>
+          </personGrp>
+          <person xml:id="Gravedigger_Ham" sex="MALE">
+            <persName>Gravedigger_Ham</persName>
+          </person>
+          <person xml:id="GravediggersCompanion_Ham" sex="MALE">
+            <persName>GravediggersCompanion_Ham</persName>
+          </person>
+          <person xml:id="Doctor_Ham" sex="MALE">
+            <persName>Doctor_Ham</persName>
+          </person>
+          <personGrp xml:id="ATTENDANTS_Ham" sex="UNKNOWN">
+            <name>Attendants, Lords, Guards, Musicians, Laertes’s Followers, Soldiers, Officers</name>
+          </personGrp>
+          <person xml:id="Osric_Ham" sex="MALE">
+            <persName>Osric</persName>
+          </person>
+          <personGrp xml:id="ATTENDANTS.2_Ham" sex="UNKNOWN">
+            <name>courtiers at the Danish court</name>
+          </personGrp>
+          <personGrp xml:id="AMBASSADORS_Ham" sex="UNKNOWN">
+            <name>Ambassadors to Denmark from England</name>
+          </personGrp>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
   </teiHeader>
   <text>
     <front>

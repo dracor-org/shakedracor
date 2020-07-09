@@ -69,7 +69,7 @@
     <encodingDesc>
       <projectDesc>
         <p>This version of the Folger Digital Texts encodes the edition of each play by Barbara Mowat and Paul Werstine in TEI Simple. The major goal of recasting the texts in this manner is to make them interoperable with a large corpus of early modern texts derived from the EEBO-TCP transcriptions and encoded in TEI Simple with linguistic annotation.</p>
-        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are: 
+        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are:
           <list><item>Number <gi>div</gi> are replaced by unnumbered divs</item><item>Lines of verse are marked in <gi>l</gi>, tags, lines of prose in <gi>ab</gi></item><item>All xml:ids are corpuswide identifiers</item><item>Information from the participant description element <gi>particDesc</gi> in the teiHeader has been moved into  a <gi>castList</gi> element in the <gi>front</gi> element</item><item>Each spoken word in the text has been linguistically annotated with a lemma and POS tag</item></list>
         </p>
       </projectDesc>
@@ -86,7 +86,227 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    <particDesc><listPerson><person xml:id="Suffolk_1H6"><persName>Suffolk</persName></person><person xml:id="HenryVI_1H6"><persName>King Henry VI</persName></person><person xml:id="QueenMargaret_1H6"><persName>Queen Margaret</persName></person><person xml:id="Gloucester_2H4"><persName>Gloucester</persName></person><person xml:id="CardinalBeaufort_1H6"><persName>Cardinal</persName></person><person xml:id="Somerset_1H6"><persName>Somerset</persName></person><person xml:id="Buckingham_2H6"><persName>Buckingham</persName></person><person xml:id="York_1H6"><persName>York</persName></person><person xml:id="Salisbury_2H6"><persName>Salisbury</persName></person><person xml:id="Warwick_2H6"><persName>Warwick</persName></person><person xml:id="DuchessOfGloucester_2H6"><persName>Duchess</persName></person><person xml:id="MESSENGERS.X.1_2H6"><persName>MESSENGERS.X.1_2H6</persName></person><person xml:id="Hume_2H6"><persName>Hume</persName></person><person xml:id="PETITIONERS.0.1_2H6"><persName>PETITIONERS.0.1_2H6</persName></person><person xml:id="PETITIONERS.0.2_2H6"><persName>PETITIONERS.0.2_2H6</persName></person><person xml:id="Thump_2H6"><persName>Thump</persName></person><person xml:id="PETITIONERS_2H6"><persName>Petitioners</persName></person><person xml:id="Horner_2H6"><persName>Horner</persName></person><person xml:id="Bolingbroke_2H6"><persName>Bolingbroke</persName></person><person xml:id="Spirit_2H6"><persName>Spirit</persName></person><person xml:id="Jourdain_2H6"><persName>Jourdain</persName></person><person xml:id="CITIZENS.STALBANS.0.1_2H6"><persName>Man</persName></person><person xml:id="Simpcox_2H6"><persName>Simpcox</persName></person><person xml:id="SimpcoxWife_2H6"><persName>Wife</persName></person><person xml:id="MayorOfStAlbans_2H6"><persName>Mayor</persName></person><person xml:id="Beadle_2H6"><persName>Beadle</persName></person><person xml:id="NEIGHBORS.1_2H6"><persName>NEIGHBORS.1_2H6</persName></person><person xml:id="NEIGHBORS.2_2H6"><persName>NEIGHBORS.2_2H6</persName></person><person xml:id="NEIGHBORS.3_2H6"><persName>NEIGHBORS.3_2H6</persName></person><person xml:id="PRENTICES.1_2H6"><persName>PRENTICES.1_2H6</persName></person><person xml:id="PRENTICES.2_2H6"><persName>PRENTICES.2_2H6</persName></person><person xml:id="SERVANTS.GLOUCESTER.0.1_2H6"><persName>SERVANTS.GLOUCESTER.0.1_2H6</persName></person><person xml:id="HERALDS.X.1_2H6"><persName>HERALDS.X.1_2H6</persName></person><person xml:id="Sheriff_2H6"><persName>Sheriff</persName></person><person xml:id="Stanley_2H6"><persName>Stanley</persName></person><person xml:id="MESSENGERS.Post_2H6"><persName>Post</persName></person><person xml:id="MURDERERS.0.1_2H6"><persName>MURDERERS.0.1_2H6</persName></person><person xml:id="MURDERERS.0.2_2H6"><persName>MURDERERS.0.2_2H6</persName></person><person xml:id="CITIZENS_2H6"><persName>CITIZENS_2H6</persName></person><person xml:id="Vaux_2H6"><persName>Vaux</persName></person><person xml:id="Lieutenant_2H6"><persName>Lieutenant</persName></person><person xml:id="GENTLEMEN.1_2H6"><persName>GENTLEMEN.1_2H6</persName></person><person xml:id="Master_2H6"><persName>Master</persName></person><person xml:id="Mate_2H6"><persName>Mate</persName></person><person xml:id="GENTLEMEN.2_2H6"><persName>GENTLEMEN.2_2H6</persName></person><person xml:id="Whitmore_2H6"><persName>Whitmore</persName></person><person xml:id="Bevis_2H6"><persName>Bevis</persName></person><person xml:id="Holland_2H6"><persName>Holland</persName></person><person xml:id="Cade_2H6"><persName>Cade</persName></person><person xml:id="Dick_2H6"><persName>Dick</persName></person><person xml:id="Smith_2H6"><persName>Smith</persName></person><person xml:id="Sawyer_2H6"><persName>Servants, Guards, Falconers, Attendants, Townsmen of Saint Albans, Bearers, Drummers, Commoners, Rebels, a Sawyer, Soldiers, Officers, Matthew Gough, and Others</persName></person><person xml:id="FOLLOWERS.CADE_2H6"><persName>Servants, Guards, Falconers, Attendants, Townsmen of Saint Albans, Bearers, Drummers, Commoners, Rebels, a Sawyer, Soldiers, Officers, Matthew Gough, and Others</persName></person><person xml:id="Clerk_2H6"><persName>Clerk</persName></person><person xml:id="Michael_2H6"><persName>Michael</persName></person><person xml:id="Stafford_2H6"><persName>Stafford</persName></person><person xml:id="WilliamStafford_2H6"><persName>Brother</persName></person><person xml:id="Saye_2H6"><persName>Saye</persName></person><person xml:id="MESSENGERS.1_2H6"><persName>MESSENGERS.1_2H6</persName></person><person xml:id="MESSENGERS.2_2H6"><persName>MESSENGERS.2_2H6</persName></person><person xml:id="Scales_2H6"><persName>Scales</persName></person><person xml:id="CITIZENS.LONDON.0.1_2H6"><persName>CITIZENS.LONDON.0.1_2H6</persName></person><person xml:id="SOLDIERS.1_2H6"><persName>Servants, Guards, Falconers, Attendants, Townsmen of Saint Albans, Bearers, Drummers, Commoners, Rebels, a Sawyer, Soldiers, Officers, Matthew Gough, and Others</persName></person><person xml:id="MESSENGERS.X.2_2H6"><persName>MESSENGERS.X.2_2H6</persName></person><person xml:id="George_2H6"><persName>George</persName></person><person xml:id="FOLLOWERS.CADE.0_2H6"><persName>Servants, Guards, Falconers, Attendants, Townsmen of Saint Albans, Bearers, Drummers, Commoners, Rebels, a Sawyer, Soldiers, Officers, Matthew Gough, and Others</persName></person><person xml:id="Clifford_2H6"><persName>Clifford</persName></person><person xml:id="MESSENGERS.X.3_2H6"><persName>MESSENGERS.X.3_2H6</persName></person><person xml:id="Iden_2H6"><persName>Iden</persName></person><person xml:id="EdwardIV_3H6"><persName>Edward</persName></person><person xml:id="RichardIII_R3"><persName>Richard</persName></person><person xml:id="Clifford_3H6"><persName>Young Clifford</persName></person></listPerson></particDesc></profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="Suffolk_1H6" ana="http://www.wikidata.org/entity/Q584430">
+            <persName>Suffolk</persName>
+          </person>
+          <person xml:id="HenryVI_1H6" ana="http://www.wikidata.org/entity/Q160337">
+            <persName>King Henry VI</persName>
+          </person>
+          <person xml:id="QueenMargaret_1H6" ana="http://www.wikidata.org/entity/Q229159">
+            <persName>Queen Margaret</persName>
+          </person>
+          <person xml:id="Gloucester_2H4" sex="MALE">
+            <persName>Gloucester</persName>
+          </person>
+          <person xml:id="CardinalBeaufort_1H6" sex="MALE">
+            <persName>Cardinal</persName>
+          </person>
+          <person xml:id="Somerset_1H6" ana="http://www.wikidata.org/entity/Q919338">
+            <persName>Somerset</persName>
+          </person>
+          <person xml:id="Buckingham_2H6" sex="MALE">
+            <persName>Buckingham</persName>
+          </person>
+          <person xml:id="York_1H6" ana="http://www.wikidata.org/entity/Q312137">
+            <persName>York</persName>
+          </person>
+          <person xml:id="Salisbury_2H6" ana="http://www.wikidata.org/entity/Q384856">
+            <persName>Salisbury</persName>
+          </person>
+          <person xml:id="Warwick_2H6" ana="http://www.wikidata.org/entity/Q592988">
+            <persName>Warwick</persName>
+          </person>
+          <person xml:id="DuchessOfGloucester_2H6" ana="http://www.wikidata.org/entity/Q25583">
+            <persName>Duchess</persName>
+          </person>
+          <person xml:id="MESSENGERS.X.1_2H6" sex="MALE">
+            <persName>MESSENGERS.X.1_2H6</persName>
+          </person>
+          <person xml:id="Hume_2H6" sex="MALE">
+            <persName>Hume</persName>
+          </person>
+          <person xml:id="PETITIONERS.0.1_2H6" sex="MALE">
+            <persName>PETITIONERS.0.1_2H6</persName>
+          </person>
+          <person xml:id="PETITIONERS.0.2_2H6" sex="MALE">
+            <persName>PETITIONERS.0.2_2H6</persName>
+          </person>
+          <person xml:id="Thump_2H6" sex="MALE">
+            <persName>Thump</persName>
+          </person>
+          <personGrp xml:id="PETITIONERS_2H6" sex="UNKNOWN">
+            <name>Petitioners</name>
+          </personGrp>
+          <person xml:id="Horner_2H6" sex="MALE">
+            <persName>Horner</persName>
+          </person>
+          <person xml:id="Bolingbroke_2H6" sex="MALE">
+            <persName>Bolingbroke</persName>
+          </person>
+          <person xml:id="Spirit_2H6" sex="UNKNOWN">
+            <persName>Spirit</persName>
+          </person>
+          <person xml:id="Jourdain_2H6" sex="FEMALE">
+            <persName>Jourdain</persName>
+          </person>
+          <person xml:id="CITIZENS.STALBANS.0.1_2H6" sex="MALE">
+            <persName>Man</persName>
+          </person>
+          <person xml:id="Simpcox_2H6" sex="MALE">
+            <persName>Simpcox</persName>
+          </person>
+          <person xml:id="SimpcoxWife_2H6" sex="FEMALE">
+            <persName>Wife</persName>
+          </person>
+          <person xml:id="MayorOfStAlbans_2H6" sex="MALE">
+            <persName>Mayor</persName>
+          </person>
+          <person xml:id="Beadle_2H6" sex="MALE">
+            <persName>Beadle</persName>
+          </person>
+          <personGrp xml:id="NEIGHBORS.1_2H6" sex="UNKNOWN">
+            <name>NEIGHBORS.1_2H6</name>
+          </personGrp>
+          <personGrp xml:id="NEIGHBORS.2_2H6" sex="UNKNOWN">
+            <name>NEIGHBORS.2_2H6</name>
+          </personGrp>
+          <personGrp xml:id="NEIGHBORS.3_2H6" sex="UNKNOWN">
+            <name>NEIGHBORS.3_2H6</name>
+          </personGrp>
+          <person xml:id="PRENTICES.1_2H6" sex="MALE">
+            <persName>PRENTICES.1_2H6</persName>
+          </person>
+          <person xml:id="PRENTICES.2_2H6" sex="MALE">
+            <persName>PRENTICES.2_2H6</persName>
+          </person>
+          <personGrp xml:id="SERVANTS.GLOUCESTER.0.1_2H6" sex="UNKNOWN">
+            <name>SERVANTS.GLOUCESTER.0.1_2H6</name>
+          </personGrp>
+          <person xml:id="HERALDS.X.1_2H6" sex="MALE">
+            <persName>HERALDS.X.1_2H6</persName>
+          </person>
+          <person xml:id="Sheriff_2H6" sex="MALE">
+            <persName>Sheriff</persName>
+          </person>
+          <person xml:id="Stanley_2H6" ana="http://www.wikidata.org/entity/Q335295">
+            <persName>Stanley</persName>
+          </person>
+          <person xml:id="MESSENGERS.Post_2H6" sex="UNKNOWN">
+            <persName>Post</persName>
+          </person>
+          <personGrp xml:id="MURDERERS.0.1_2H6" sex="UNKNOWN">
+            <name>MURDERERS.0.1_2H6</name>
+          </personGrp>
+          <personGrp xml:id="MURDERERS.0.2_2H6" sex="UNKNOWN">
+            <name>MURDERERS.0.2_2H6</name>
+          </personGrp>
+          <personGrp xml:id="CITIZENS_2H6" sex="UNKNOWN">
+            <name>CITIZENS_2H6</name>
+          </personGrp>
+          <person xml:id="Vaux_2H6" sex="MALE">
+            <persName>Vaux</persName>
+          </person>
+          <person xml:id="Lieutenant_2H6" sex="MALE">
+            <persName>Lieutenant</persName>
+          </person>
+          <person xml:id="GENTLEMEN.1_2H6" sex="MALE">
+            <persName>GENTLEMEN.1_2H6</persName>
+          </person>
+          <person xml:id="Master_2H6" sex="MALE">
+            <persName>Master</persName>
+          </person>
+          <person xml:id="Mate_2H6" sex="MALE">
+            <persName>Mate</persName>
+          </person>
+          <person xml:id="GENTLEMEN.2_2H6" sex="MALE">
+            <persName>GENTLEMEN.2_2H6</persName>
+          </person>
+          <person xml:id="Whitmore_2H6" sex="MALE">
+            <persName>Whitmore</persName>
+          </person>
+          <person xml:id="Bevis_2H6" sex="MALE">
+            <persName>Bevis</persName>
+          </person>
+          <person xml:id="Holland_2H6" sex="MALE">
+            <persName>Holland</persName>
+          </person>
+          <person xml:id="Cade_2H6" ana="http://www.wikidata.org/entity/Q613385">
+            <persName>Cade</persName>
+          </person>
+          <person xml:id="Dick_2H6" sex="MALE">
+            <persName>Dick</persName>
+          </person>
+          <person xml:id="Smith_2H6" sex="MALE">
+            <persName>Smith</persName>
+          </person>
+          <personGrp xml:id="Sawyer_2H6" sex="UNKNOWN">
+            <name>Servants, Guards, Falconers, Attendants, Townsmen of Saint Albans, Bearers, Drummers, Commoners, Rebels, a Sawyer, Soldiers, Officers, Matthew Gough, and Others</name>
+          </personGrp>
+          <personGrp xml:id="FOLLOWERS.CADE_2H6" sex="UNKNOWN">
+            <name>Servants, Guards, Falconers, Attendants, Townsmen of Saint Albans, Bearers, Drummers, Commoners, Rebels, a Sawyer, Soldiers, Officers, Matthew Gough, and Others</name>
+          </personGrp>
+          <person xml:id="Clerk_2H6" sex="MALE">
+            <persName>Clerk</persName>
+          </person>
+          <person xml:id="Michael_2H6" sex="MALE">
+            <persName>Michael</persName>
+          </person>
+          <person xml:id="Stafford_2H6" sex="MALE">
+            <persName>Stafford</persName>
+          </person>
+          <person xml:id="WilliamStafford_2H6" sex="MALE">
+            <persName>Brother</persName>
+          </person>
+          <person xml:id="Saye_2H6" sex="MALE">
+            <persName>Saye</persName>
+          </person>
+          <person xml:id="MESSENGERS.1_2H6" sex="MALE">
+            <persName>MESSENGERS.1_2H6</persName>
+          </person>
+          <person xml:id="MESSENGERS.2_2H6" sex="MALE">
+            <persName>MESSENGERS.2_2H6</persName>
+          </person>
+          <person xml:id="Scales_2H6" sex="MALE">
+            <persName>Scales</persName>
+          </person>
+          <personGrp xml:id="CITIZENS.LONDON.0.1_2H6" sex="UNKNOWN">
+            <name>CITIZENS.LONDON.0.1_2H6</name>
+          </personGrp>
+          <personGrp xml:id="SOLDIERS.1_2H6" sex="UNKNOWN">
+            <name>Servants, Guards, Falconers, Attendants, Townsmen of Saint Albans, Bearers, Drummers, Commoners, Rebels, a Sawyer, Soldiers, Officers, Matthew Gough, and Others</name>
+          </personGrp>
+          <person xml:id="MESSENGERS.X.2_2H6" sex="MALE">
+            <persName>MESSENGERS.X.2_2H6</persName>
+          </person>
+          <person xml:id="George_2H6" sex="MALE">
+            <persName>George</persName>
+          </person>
+          <personGrp xml:id="FOLLOWERS.CADE.0_2H6" sex="UNKNOWN">
+            <name>Servants, Guards, Falconers, Attendants, Townsmen of Saint Albans, Bearers, Drummers, Commoners, Rebels, a Sawyer, Soldiers, Officers, Matthew Gough, and Others</name>
+          </personGrp>
+          <person xml:id="Clifford_2H6" ana="http://www.wikidata.org/entity/Q7788470">
+            <persName>Clifford</persName>
+          </person>
+          <person xml:id="MESSENGERS.X.3_2H6" sex="MALE">
+            <persName>MESSENGERS.X.3_2H6</persName>
+          </person>
+          <person xml:id="Iden_2H6" sex="MALE">
+            <persName>Iden</persName>
+          </person>
+          <person xml:id="EdwardIV_3H6" ana="http://www.wikidata.org/entity/Q160341">
+            <persName>Edward</persName>
+          </person>
+          <person xml:id="RichardIII_R3" ana="http://www.wikidata.org/entity/Q133028">
+            <persName>Richard</persName>
+          </person>
+          <person xml:id="Clifford_3H6" sex="MALE">
+            <persName>Young Clifford</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
   </teiHeader>
   <text>
     <front>

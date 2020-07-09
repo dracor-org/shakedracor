@@ -69,7 +69,7 @@
     <encodingDesc>
       <projectDesc>
         <p>This version of the Folger Digital Texts uses TEI Simple to encode the Shakespeare texts edited by Barbara Mowat and Paul Werstine.  The major goal of recasting the texts in this manner is to make them interoperable with a large corpus of early modern texts derived from the EEBO-TCP transcriptions and encoded in TEI Simple with linguistic annotation.</p>
-        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are: 
+        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are:
           <list><item>Number <gi>div</gi> are replaced by unnumbered divs</item><item>Lines of verse are marked in <gi>l</gi>, tags, lines of prose in <gi>ab</gi></item><item>All xml:ids are corpuswide identifiers</item><item>Information from the participant description element <gi>particDesc</gi> in the teiHeader has been moved into  a <gi>castList</gi> element in the <gi>front</gi> element</item><item>Each spoken word in the text has been linguistically annotated with a lemma and POS tag</item></list>
         </p>
       </projectDesc>
@@ -86,7 +86,68 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    <particDesc><listPerson><person xml:id="Egeon_Err"><persName>Egeon</persName></person><person xml:id="Duke_Err"><persName>Duke</persName></person><person xml:id="OFFICERS.Jailer_Err"><persName>Officer</persName></person><person xml:id="Merchant1_Err"><persName>First Merchant</persName></person><person xml:id="AntipholusOfSyracuse_Err"><persName>Antipholus of Syracuse</persName></person><person xml:id="DromioOfSyracuse_Err"><persName>Dromio of Syracuse</persName></person><person xml:id="DromioOfEphesus_Err"><persName>Dromio of Ephesus</persName></person><person xml:id="Adriana_Err"><persName>Adriana</persName></person><person xml:id="Luciana_Err"><persName>Luciana</persName></person><person xml:id="AntipholusOfEphesus_Err"><persName>Antipholus of Ephesus</persName></person><person xml:id="Balthasar_Err"><persName>Balthasar</persName></person><person xml:id="Luce_Err"><persName>Luce</persName></person><person xml:id="Angelo_Err"><persName>Angelo</persName></person><person xml:id="Merchant2_Err"><persName>Second Merchant</persName></person><person xml:id="OFFICERS.X_Err"><persName>Attendants, Servants to Pinch, Headsman, Officers</persName></person><person xml:id="Courtesan_Err"><persName>Courtesan</persName></person><person xml:id="Pinch_Err"><persName>Dr. Pinch</persName></person><person xml:id="Abbess_Err"><persName>Lady Abbess</persName></person><person xml:id="Messenger_Err"><persName>Messenger</persName></person></listPerson></particDesc></profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="Egeon_Err" sex="MALE">
+            <persName>Egeon</persName>
+          </person>
+          <person xml:id="Duke_Err" sex="MALE">
+            <persName>Duke</persName>
+          </person>
+          <person xml:id="OFFICERS.Jailer_Err" sex="MALE">
+            <persName>Officer</persName>
+          </person>
+          <person xml:id="Merchant1_Err" sex="MALE">
+            <persName>First Merchant</persName>
+          </person>
+          <person xml:id="AntipholusOfSyracuse_Err" sex="MALE">
+            <persName>Antipholus of Syracuse</persName>
+          </person>
+          <person xml:id="DromioOfSyracuse_Err" sex="MALE">
+            <persName>Dromio of Syracuse</persName>
+          </person>
+          <person xml:id="DromioOfEphesus_Err" sex="MALE">
+            <persName>Dromio of Ephesus</persName>
+          </person>
+          <person xml:id="Adriana_Err" sex="FEMALE">
+            <persName>Adriana</persName>
+          </person>
+          <person xml:id="Luciana_Err" sex="FEMALE">
+            <persName>Luciana</persName>
+          </person>
+          <person xml:id="AntipholusOfEphesus_Err" sex="MALE">
+            <persName>Antipholus of Ephesus</persName>
+          </person>
+          <person xml:id="Balthasar_Err" sex="MALE">
+            <persName>Balthasar</persName>
+          </person>
+          <person xml:id="Luce_Err" sex="FEMALE">
+            <persName>Luce</persName>
+          </person>
+          <person xml:id="Angelo_Err" sex="MALE">
+            <persName>Angelo</persName>
+          </person>
+          <person xml:id="Merchant2_Err" sex="MALE">
+            <persName>Second Merchant</persName>
+          </person>
+          <personGrp xml:id="OFFICERS.X_Err" sex="UNKNOWN">
+            <name>Attendants, Servants to Pinch, Headsman, Officers</name>
+          </personGrp>
+          <person xml:id="Courtesan_Err" sex="FEMALE">
+            <persName>Courtesan</persName>
+          </person>
+          <person xml:id="Pinch_Err" sex="MALE">
+            <persName>Dr. Pinch</persName>
+          </person>
+          <person xml:id="Abbess_Err" sex="FEMALE">
+            <persName>Lady Abbess</persName>
+          </person>
+          <person xml:id="Messenger_Err" sex="MALE">
+            <persName>Messenger</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
   </teiHeader>
   <text>
     <front>

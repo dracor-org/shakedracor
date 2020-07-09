@@ -69,7 +69,7 @@
     <encodingDesc>
       <projectDesc>
         <p>This version of the Folger Digital Texts uses TEI Simple to encode the Shakespeare texts edited by Barbara Mowat and Paul Werstine.  The major goal of recasting the texts in this manner is to make them interoperable with a large corpus of early modern texts derived from the EEBO-TCP transcriptions and encoded in TEI Simple with linguistic annotation.</p>
-        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are: 
+        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are:
           <list><item>Number <gi>div</gi> are replaced by unnumbered divs</item><item>Lines of verse are marked in <gi>l</gi>, tags, lines of prose in <gi>ab</gi></item><item>All xml:ids are corpuswide identifiers</item><item>Information from the participant description element <gi>particDesc</gi> in the teiHeader has been moved into  a <gi>castList</gi> element in the <gi>front</gi> element</item><item>Each spoken word in the text has been linguistically annotated with a lemma and POS tag</item></list>
         </p>
       </projectDesc>
@@ -86,7 +86,201 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    <particDesc><listPerson><person xml:id="Bedford_H5"><persName>Bedford</persName></person><person xml:id="Gloucester_2H4"><persName>Gloucester</persName></person><person xml:id="Exeter_H5"><persName>Exeter</persName></person><person xml:id="CardinalBeaufort_1H6"><persName>Winchester</persName></person><person xml:id="MESSENGERS.ENGLISH.1_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="MESSENGERS.ENGLISH.2_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="MESSENGERS.ENGLISH.3_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="Charles_1H6"><persName>Charles</persName></person><person xml:id="Alanson_1H6"><persName>Alanson</persName></person><person xml:id="Reignier_1H6"><persName>Reignier</persName></person><person xml:id="Bastard_1H6"><persName>Orleance</persName></person><person xml:id="Pucelle_1H6"><persName>Pucelle</persName></person><person xml:id="WARDERS.1_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="SERVANTS.GLOUCESTER.0.1_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="WARDERS.2_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="Woodville_1H6"><persName>Woodville</persName></person><person xml:id="SERVANTS.GLOUCESTER_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="Mayor_1H6"><persName>Mayor</persName></person><person xml:id="OFFICERS.0.1_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="MasterGunner_1H6"><persName>Master Gunner</persName></person><person xml:id="Boy_1H6"><persName>Boy</persName></person><person xml:id="Salisbury_1H6"><persName>Salisbury</persName></person><person xml:id="Talbot_1H6"><persName>Talbot</persName></person><person xml:id="Gargrave_1H6"><persName>Gargrave</persName></person><person xml:id="Glansdale_1H6"><persName>Glansdale</persName></person><person xml:id="MESSENGERS.ENGLISH.X.1_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="SOLDIERS.FRENCH.Sergeant_1H6"><persName>Sergeant</persName></person><person xml:id="WATCHMEN.1_1H6"><persName>Drummer, Soldiers, two Sentinels, Messenger, Soldiers, Governor of Paris, Herald, Scout, Fiends accompanying Pucelle</persName></person><person xml:id="Burgundy_1H6"><persName>Burgundy</persName></person><person xml:id="SOLDIERS.ENGLISH.1_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="MESSENGERS.FRENCH.1_1H6"><persName>Drummer, Soldiers, two Sentinels, Messenger, Soldiers, Governor of Paris, Herald, Scout, Fiends accompanying Pucelle</persName></person><person xml:id="SOLDIERS.ENGLISH.0.1_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="Countess_1H6"><persName>Countess</persName></person><person xml:id="Porter_1H6"><persName>Porter</persName></person><person xml:id="York_1H6"><persName>Plantagenet York</persName><persName>Plantagenet York</persName></person><person xml:id="Suffolk_1H6"><persName>Suffolk</persName></person><person xml:id="Somerset_1H6"><persName>Somerset</persName></person><person xml:id="Warwick_2H4"><persName>Warwick</persName></person><person xml:id="Vernon_1H6"><persName>Vernon</persName></person><person xml:id="Lawyer_1H6"><persName>Lawyer</persName></person><person xml:id="Mortimer_1H4"><persName>Mortimer</persName></person><person xml:id="JAILERS.0.1_1H6"><persName>The English</persName></person><person xml:id="HenryVI_1H6"><persName>King Henry VI</persName></person><person xml:id="SERVANTS.WINCHESTER.0.1_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="SERVANTS.GLOUCESTER.0.2_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="SERVANTS.1_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="SERVANTS.2_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="SERVANTS.3_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="SOLDIERS.FRENCH.PUCELLE.0.1_1H6"><persName>Drummer, Soldiers, two Sentinels, Messenger, Soldiers, Governor of Paris, Herald, Scout, Fiends accompanying Pucelle</persName></person><person xml:id="Watchman_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="SOLDIERS.ENGLISH.Captain_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="Fastolf_1H6"><persName>Fastolf</persName></person><person xml:id="Basset_1H6"><persName>Basset</persName></person><person xml:id="General_1H6"><persName>General</persName></person><person xml:id="MESSENGERS.ENGLISH.X.2_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="Lucy_1H6"><persName>Lucy</persName></person><person xml:id="SOLDIERS.ENGLISH.SOMERSET.0.1_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="JohnTalbot_1H6"><persName>John Talbot</persName></person><person xml:id="SERVANTS.TALBOT.1_1H6"><persName>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</persName></person><person xml:id="Legate_1H6"><persName>Legate</persName></person><person xml:id="SOLDIERS.FRENCH.Scout_1H6"><persName>Drummer, Soldiers, two Sentinels, Messenger, Soldiers, Governor of Paris, Herald, Scout, Fiends accompanying Pucelle</persName></person><person xml:id="QueenMargaret_1H6"><persName>Margaret</persName></person><person xml:id="Shepherd_1H6"><persName>Shepherd</persName></person></listPerson></particDesc></profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="Bedford_H5" ana="http://www.wikidata.org/entity/Q348441">
+            <persName>Bedford</persName>
+          </person>
+          <person xml:id="Gloucester_2H4" ana="http://www.wikidata.org/entity/Q447541">
+            <persName>Gloucester</persName>
+          </person>
+          <person xml:id="Exeter_H5" ana="http://www.wikidata.org/entity/Q660630">
+            <persName>Exeter</persName>
+          </person>
+          <person xml:id="CardinalBeaufort_1H6" ana="http://www.wikidata.org/entity/Q982472">
+            <persName>Winchester</persName>
+          </person>
+          <personGrp xml:id="MESSENGERS.ENGLISH.1_1H6" sex="UNKNOWN">
+            <name>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</name>
+          </personGrp>
+          <personGrp xml:id="MESSENGERS.ENGLISH.2_1H6" sex="UNKNOWN">
+            <name>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</name>
+          </personGrp>
+          <personGrp xml:id="MESSENGERS.ENGLISH.3_1H6" sex="UNKNOWN">
+            <name>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</name>
+          </personGrp>
+          <person xml:id="Charles_1H6" ana="http://www.wikidata.org/entity/Q133372">
+            <persName>Charles</persName>
+          </person>
+          <person xml:id="Alanson_1H6" ana="http://www.wikidata.org/entity/Q719814">
+            <persName>Alanson</persName>
+          </person>
+          <person xml:id="Reignier_1H6" ana="http://www.wikidata.org/entity/Q170353">
+            <persName>Reignier</persName>
+          </person>
+          <person xml:id="Bastard_1H6" ana="http://www.wikidata.org/entity/Q503809">
+            <persName>Orleance</persName>
+          </person>
+          <person xml:id="Pucelle_1H6" ana="http://www.wikidata.org/entity/Q7226">
+            <persName>Pucelle</persName>
+          </person>
+          <personGrp xml:id="WARDERS.1_1H6" sex="UNKNOWN">
+            <name>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</name>
+          </personGrp>
+          <personGrp xml:id="SERVANTS.GLOUCESTER.0.1_1H6" sex="UNKNOWN">
+            <name>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</name>
+          </personGrp>
+          <personGrp xml:id="WARDERS.2_1H6" sex="UNKNOWN">
+            <name>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</name>
+          </personGrp>
+          <person xml:id="Woodville_1H6" sex="MALE">
+            <persName>Woodville</persName>
+          </person>
+          <personGrp xml:id="SERVANTS.GLOUCESTER_1H6" sex="UNKNOWN">
+            <name>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</name>
+          </personGrp>
+          <person xml:id="Mayor_1H6" sex="MALE">
+            <persName>Mayor</persName>
+          </person>
+          <personGrp xml:id="OFFICERS.0.1_1H6" sex="UNKNOWN">
+            <name>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</name>
+          </personGrp>
+          <person xml:id="MasterGunner_1H6" sex="MALE">
+            <persName>Master Gunner</persName>
+          </person>
+          <person xml:id="Boy_1H6" sex="MALE">
+            <persName>Boy</persName>
+          </person>
+          <person xml:id="Salisbury_1H6" ana="http://www.wikidata.org/entity/Q1000874">
+            <persName>Salisbury</persName>
+          </person>
+          <person xml:id="Talbot_1H6" ana="http://www.wikidata.org/entity/Q561173">
+            <persName>Talbot</persName>
+          </person>
+          <person xml:id="Gargrave_1H6" ana="http://www.wikidata.org/entity/Q16198824">
+            <persName>Gargrave</persName>
+          </person>
+          <person xml:id="Glansdale_1H6" sex="MALE">
+            <persName>Glansdale</persName>
+          </person>
+          <personGrp xml:id="MESSENGERS.ENGLISH.X.1_1H6" sex="UNKNOWN">
+            <name>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</name>
+          </personGrp>
+          <person xml:id="SOLDIERS.FRENCH.Sergeant_1H6" sex="MALE">
+            <persName>Sergeant</persName>
+          </person>
+          <personGrp xml:id="WATCHMEN.1_1H6" sex="UNKNOWN">
+            <name>Drummer, Soldiers, two Sentinels, Messenger, Soldiers, Governor of Paris, Herald, Scout, Fiends accompanying Pucelle</name>
+          </personGrp>
+          <person xml:id="Burgundy_1H6" ana="http://www.wikidata.org/entity/Q239337">
+            <persName>Burgundy</persName>
+          </person>
+          <personGrp xml:id="SOLDIERS.ENGLISH.1_1H6" sex="UNKNOWN">
+            <name>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</name>
+          </personGrp>
+          <personGrp xml:id="MESSENGERS.FRENCH.1_1H6" sex="UNKNOWN">
+            <name>Drummer, Soldiers, two Sentinels, Messenger, Soldiers, Governor of Paris, Herald, Scout, Fiends accompanying Pucelle</name>
+          </personGrp>
+          <personGrp xml:id="SOLDIERS.ENGLISH.0.1_1H6" sex="UNKNOWN">
+            <name>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</name>
+          </personGrp>
+          <person xml:id="Countess_1H6" sex="FEMALE">
+            <persName>Countess</persName>
+          </person>
+          <person xml:id="Porter_1H6" sex="MALE">
+            <persName>Porter</persName>
+          </person>
+          <person xml:id="York_1H6" ana="http://www.wikidata.org/entity/Q312137">
+            <persName>Plantagenet York</persName>
+            <persName>Plantagenet York</persName>
+          </person>
+          <person xml:id="Suffolk_1H6" ana="http://www.wikidata.org/entity/Q584430">
+            <persName>Suffolk</persName>
+          </person>
+          <person xml:id="Somerset_1H6" sex="MALE">
+            <persName>Somerset</persName>
+          </person>
+          <person xml:id="Warwick_2H4" ana="http://www.wikidata.org/entity/Q592988">
+            <persName>Warwick</persName>
+          </person>
+          <person xml:id="Vernon_1H6" sex="MALE">
+            <persName>Vernon</persName>
+          </person>
+          <person xml:id="Lawyer_1H6" sex="MALE">
+            <persName>Lawyer</persName>
+          </person>
+          <person xml:id="Mortimer_1H4" sex="MALE">
+            <persName>Mortimer</persName>
+          </person>
+          <personGrp xml:id="JAILERS.0.1_1H6" sex="UNKNOWN">
+            <name>The English</name>
+          </personGrp>
+          <person xml:id="HenryVI_1H6" ana="http://www.wikidata.org/entity/Q160337">
+            <persName>King Henry VI</persName>
+          </person>
+          <personGrp xml:id="SERVANTS.WINCHESTER.0.1_1H6" sex="UNKNOWN">
+            <name>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</name>
+          </personGrp>
+          <personGrp xml:id="SERVANTS.GLOUCESTER.0.2_1H6" sex="UNKNOWN">
+            <name>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</name>
+          </personGrp>
+          <personGrp xml:id="SERVANTS.1_1H6" sex="UNKNOWN">
+            <name>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</name>
+          </personGrp>
+          <personGrp xml:id="SERVANTS.2_1H6" sex="UNKNOWN">
+            <name>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</name>
+          </personGrp>
+          <personGrp xml:id="SERVANTS.3_1H6" sex="UNKNOWN">
+            <name>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</name>
+          </personGrp>
+          <personGrp xml:id="SOLDIERS.FRENCH.PUCELLE.0.1_1H6" sex="UNKNOWN">
+            <name>Drummer, Soldiers, two Sentinels, Messenger, Soldiers, Governor of Paris, Herald, Scout, Fiends accompanying Pucelle</name>
+          </personGrp>
+          <personGrp xml:id="Watchman_1H6" sex="UNKNOWN">
+            <name>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</name>
+          </personGrp>
+          <personGrp xml:id="SOLDIERS.ENGLISH.Captain_1H6" sex="UNKNOWN">
+            <name>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</name>
+          </personGrp>
+          <person xml:id="Fastolf_1H6" ana="http://www.wikidata.org/entity/Q71125">
+            <persName>Fastolf</persName>
+          </person>
+          <person xml:id="Basset_1H6" sex="MALE">
+            <persName>Basset</persName>
+          </person>
+          <person xml:id="General_1H6" sex="MALE">
+            <persName>General</persName>
+          </person>
+          <personGrp xml:id="MESSENGERS.ENGLISH.X.2_1H6" sex="UNKNOWN">
+            <name>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</name>
+          </personGrp>
+          <person xml:id="Lucy_1H6" sex="MALE">
+            <persName>Lucy</persName>
+          </person>
+          <personGrp xml:id="SOLDIERS.ENGLISH.SOMERSET.0.1_1H6" sex="UNKNOWN">
+            <name>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</name>
+          </personGrp>
+          <person xml:id="JohnTalbot_1H6" ana="http://www.wikidata.org/entity/Q6260178">
+            <persName>John Talbot</persName>
+          </person>
+          <personGrp xml:id="SERVANTS.TALBOT.1_1H6" sex="UNKNOWN">
+            <name>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</name>
+          </personGrp>
+          <person xml:id="Legate_1H6" sex="MALE">
+            <persName>Legate</persName>
+          </person>
+          <personGrp xml:id="SOLDIERS.FRENCH.Scout_1H6" sex="UNKNOWN">
+            <name>Drummer, Soldiers, two Sentinels, Messenger, Soldiers, Governor of Paris, Herald, Scout, Fiends accompanying Pucelle</name>
+          </personGrp>
+          <person xml:id="QueenMargaret_1H6" ana="http://www.wikidata.org/entity/Q231145">
+            <persName>Margaret</persName>
+          </person>
+          <person xml:id="Shepherd_1H6" ana="http://www.wikidata.org/entity/Q3160219">
+            <persName>Shepherd</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
   </teiHeader>
   <text>
     <front>

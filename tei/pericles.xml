@@ -69,7 +69,7 @@
     <encodingDesc>
       <projectDesc>
         <p>This version of the Folger Digital Texts uses TEI Simple to encode the Shakespeare texts edited by Barbara Mowat and Paul Werstine.  The major goal of recasting the texts in this manner is to make them interoperable with a large corpus of early modern texts derived from the EEBO-TCP transcriptions and encoded in TEI Simple with linguistic annotation.</p>
-        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are: 
+        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are:
           <list><item>Number <gi>div</gi> are replaced by unnumbered divs</item><item>Lines of verse are marked in <gi>l</gi>, tags, lines of prose in <gi>ab</gi></item><item>All xml:ids are corpuswide identifiers</item><item>Information from the participant description element <gi>particDesc</gi> in the teiHeader has been moved into  a <gi>castList</gi> element in the <gi>front</gi> element</item><item>Each spoken word in the text has been linguistically annotated with a lemma and POS tag</item></list>
         </p>
       </projectDesc>
@@ -86,7 +86,173 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    <particDesc><listPerson><person xml:id="Gower_Per"><persName>Gower</persName></person><person xml:id="Antiochus_Per"><persName>Antiochus</persName></person><person xml:id="Pericles_Per"><persName>Pericles</persName></person><person xml:id="Daughter_Per"><persName>Daughter</persName></person><person xml:id="Thaliard_Per"><persName>Thaliard</persName></person><person xml:id="MESSENGERS.ANTIOCH.1_Per"><persName>Messenger</persName></person><person xml:id="LORDS.TYRE.0.1_Per"><persName>LORDS.TYRE.0.1_Per</persName></person><person xml:id="LORDS.TYRE.0.2_Per"><persName>LORDS.TYRE.0.2_Per</persName></person><person xml:id="Helicanus_Per"><persName>Helicanus</persName></person><person xml:id="Cleon_Per"><persName>Cleon</persName></person><person xml:id="Dionyza_Per"><persName>Dionyza</persName></person><person xml:id="LORDS.TARSUS.1_Per"><persName>Lord</persName></person><person xml:id="CITIZENS.TARSUS_Per"><persName>Followers of Antiochus, Attendants to Pericles, Attendants to Simonides, Squires to the five Knights, Tyrian gentlemen, Citizens of Tarsus, Ladies of Pentapolis, Servants to Cerimon, Companion to Marina, Priestesses in Diana’s temple, Messenger from Tyre</persName></person><person xml:id="FISHERMEN.1_Per"><persName>FISHERMEN.1_Per</persName></person><person xml:id="FISHERMEN.2_Per"><persName>FISHERMEN.2_Per</persName></person><person xml:id="FISHERMEN.3_Per"><persName>FISHERMEN.3_Per</persName></person><person xml:id="Simonides_Per"><persName>Simonides</persName></person><person xml:id="LORDS.PENTAPOLIS.0.1_Per"><persName>LORDS.PENTAPOLIS.0.1_Per</persName></person><person xml:id="Thaisa_Per"><persName>Thaisa</persName></person><person xml:id="LORDS.PENTAPOLIS.0.2_Per"><persName>LORDS.PENTAPOLIS.0.2_Per</persName></person><person xml:id="LORDS.PENTAPOLIS.0.3_Per"><persName>LORDS.PENTAPOLIS.0.3_Per</persName></person><person xml:id="KNIGHTS_Per"><persName>Knights</persName></person><person xml:id="Marshal_Per"><persName>Marshal</persName></person><person xml:id="KNIGHTS.0.1_Per"><persName>KNIGHTS.0.1_Per</persName></person><person xml:id="LORDS.TYRE.Escanes_Per"><persName>Escanes</persName></person><person xml:id="LORDS.TYRE.0.3_Per"><persName>LORDS.TYRE.0.3_Per</persName></person><person xml:id="LORDS.TYRE_Per"><persName>LORDS</persName></person><person xml:id="KNIGHTS.0.2_Per"><persName>KNIGHTS.0.2_Per</persName></person><person xml:id="KNIGHTS.0.3_Per"><persName>KNIGHTS.0.3_Per</persName></person><person xml:id="Lychorida_Per"><persName>Lychorida</persName></person><person xml:id="SAILORS.1_Per"><persName>SAILORS.1_Per</persName></person><person xml:id="SAILORS.2_Per"><persName>SAILORS.2_Per</persName></person><person xml:id="Cerimon_Per"><persName>Lord Cerimon</persName></person><person xml:id="Philemon_Per"><persName>Philemon</persName></person><person xml:id="SUPPLIANTS.1_Per"><persName>SUPPLIANTS.1_Per</persName></person><person xml:id="GENTLEMEN.EPHESUS.1_Per"><persName>GENTLEMEN.EPHESUS.1_Per</persName></person><person xml:id="GENTLEMEN.EPHESUS.2_Per"><persName>GENTLEMEN.EPHESUS.2_Per</persName></person><person xml:id="SERVANTS.CERIMON.0.1_Per"><persName>Servant</persName></person><person xml:id="Leonine_Per"><persName>Leonine</persName></person><person xml:id="Marina_Per"><persName>Marina</persName></person><person xml:id="PIRATES.0.1_Per"><persName>PIRATES.0.1_Per</persName></person><person xml:id="PIRATES.0.2_Per"><persName>PIRATES.0.2_Per</persName></person><person xml:id="PIRATES.0.3_Per"><persName>PIRATES.0.3_Per</persName></person><person xml:id="Pander_Per"><persName>Pander</persName></person><person xml:id="Bolt_Per"><persName>Bolt</persName></person><person xml:id="Bawd_Per"><persName>Bawd</persName></person><person xml:id="GENTLEMEN.MYTILENE.1_Per"><persName>GENTLEMEN.MYTILENE.1_Per</persName></person><person xml:id="GENTLEMEN.MYTILENE.2_Per"><persName>GENTLEMEN.MYTILENE.2_Per</persName></person><person xml:id="Lysimachus_Per"><persName>Lysimachus</persName></person><person xml:id="SAILORS.TYRE.1_Per"><persName>Sailor</persName></person><person xml:id="GENTLEMEN.TYRE.0.1_Per"><persName>Gentleman</persName></person><person xml:id="SAILORS.MYTILENE.1_Per"><persName>Sailor</persName></person><person xml:id="LORDS.MYTILENE.0.1_Per"><persName>Lord</persName></person><person xml:id="Diana_Per"><persName>Diana</persName></person></listPerson></particDesc></profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="Gower_Per" sex="MALE">
+            <persName>Gower</persName>
+          </person>
+          <person xml:id="Antiochus_Per" sex="MALE">
+            <persName>Antiochus</persName>
+          </person>
+          <person xml:id="Pericles_Per" ana="http://www.wikidata.org/entity/Q80398">
+            <persName>Pericles</persName>
+          </person>
+          <person xml:id="Daughter_Per" sex="FEMALE">
+            <persName>Daughter</persName>
+          </person>
+          <person xml:id="Thaliard_Per" sex="MALE">
+            <persName>Thaliard</persName>
+          </person>
+          <person xml:id="MESSENGERS.ANTIOCH.1_Per" sex="MALE">
+            <persName>Messenger</persName>
+          </person>
+          <person xml:id="LORDS.TYRE.0.1_Per" sex="MALE">
+            <persName>LORDS.TYRE.0.1_Per</persName>
+          </person>
+          <person xml:id="LORDS.TYRE.0.2_Per" sex="MALE">
+            <persName>LORDS.TYRE.0.2_Per</persName>
+          </person>
+          <person xml:id="Helicanus_Per" sex="MALE">
+            <persName>Helicanus</persName>
+          </person>
+          <person xml:id="Cleon_Per" ana="http://www.wikidata.org/entity/Q298220">
+            <persName>Cleon</persName>
+          </person>
+          <person xml:id="Dionyza_Per" sex="FEMALE">
+            <persName>Dionyza</persName>
+          </person>
+          <person xml:id="LORDS.TARSUS.1_Per" sex="MALE">
+            <persName>Lord</persName>
+          </person>
+          <personGrp xml:id="CITIZENS.TARSUS_Per" sex="UNKNOWN">
+            <name>Followers of Antiochus, Attendants to Pericles, Attendants to Simonides, Squires to the five Knights, Tyrian gentlemen, Citizens of Tarsus, Ladies of Pentapolis, Servants to Cerimon, Companion to Marina, Priestesses in Diana’s temple, Messenger from Tyre</name>
+          </personGrp>
+          <person xml:id="FISHERMEN.1_Per" sex="MALE">
+            <persName>FISHERMEN.1_Per</persName>
+          </person>
+          <person xml:id="FISHERMEN.2_Per" sex="MALE">
+            <persName>FISHERMEN.2_Per</persName>
+          </person>
+          <person xml:id="FISHERMEN.3_Per" sex="MALE">
+            <persName>FISHERMEN.3_Per</persName>
+          </person>
+          <person xml:id="Simonides_Per" sex="MALE">
+            <persName>Simonides</persName>
+          </person>
+          <person xml:id="LORDS.PENTAPOLIS.0.1_Per" sex="MALE">
+            <persName>LORDS.PENTAPOLIS.0.1_Per</persName>
+          </person>
+          <person xml:id="Thaisa_Per" sex="FEMALE">
+            <persName>Thaisa</persName>
+          </person>
+          <person xml:id="LORDS.PENTAPOLIS.0.2_Per" sex="MALE">
+            <persName>LORDS.PENTAPOLIS.0.2_Per</persName>
+          </person>
+          <person xml:id="LORDS.PENTAPOLIS.0.3_Per" sex="MALE">
+            <persName>LORDS.PENTAPOLIS.0.3_Per</persName>
+          </person>
+          <personGrp xml:id="KNIGHTS_Per" sex="UNKNOWN">
+            <name>Knights</name>
+          </personGrp>
+          <person xml:id="Marshal_Per" sex="MALE">
+            <persName>Marshal</persName>
+          </person>
+          <person xml:id="KNIGHTS.0.1_Per" sex="MALE">
+            <persName>KNIGHTS.0.1_Per</persName>
+          </person>
+          <person xml:id="LORDS.TYRE.Escanes_Per" sex="MALE">
+            <persName>Escanes</persName>
+          </person>
+          <person xml:id="LORDS.TYRE.0.3_Per" sex="MALE">
+            <persName>LORDS.TYRE.0.3_Per</persName>
+          </person>
+          <personGrp xml:id="LORDS.TYRE_Per" sex="UNKNOWN">
+            <name>LORDS</name>
+          </personGrp>
+          <person xml:id="KNIGHTS.0.2_Per" sex="MALE">
+            <persName>KNIGHTS.0.2_Per</persName>
+          </person>
+          <person xml:id="KNIGHTS.0.3_Per" sex="MALE">
+            <persName>KNIGHTS.0.3_Per</persName>
+          </person>
+          <person xml:id="Lychorida_Per" sex="FEMALE">
+            <persName>Lychorida</persName>
+          </person>
+          <person xml:id="SAILORS.1_Per" sex="MALE">
+            <persName>SAILORS.1_Per</persName>
+          </person>
+          <person xml:id="SAILORS.2_Per" sex="MALE">
+            <persName>SAILORS.2_Per</persName>
+          </person>
+          <person xml:id="Cerimon_Per" sex="MALE">
+            <persName>Lord Cerimon</persName>
+          </person>
+          <person xml:id="Philemon_Per" sex="MALE">
+            <persName>Philemon</persName>
+          </person>
+          <person xml:id="SUPPLIANTS.1_Per" sex="MALE">
+            <persName>SUPPLIANTS.1_Per</persName>
+          </person>
+          <person xml:id="GENTLEMEN.EPHESUS.1_Per" sex="MALE">
+            <persName>GENTLEMEN.EPHESUS.1_Per</persName>
+          </person>
+          <person xml:id="GENTLEMEN.EPHESUS.2_Per" sex="MALE">
+            <persName>GENTLEMEN.EPHESUS.2_Per</persName>
+          </person>
+          <personGrp xml:id="SERVANTS.CERIMON.0.1_Per" sex="UNKNOWN">
+            <name>Servant</name>
+          </personGrp>
+          <person xml:id="Leonine_Per" sex="MALE">
+            <persName>Leonine</persName>
+          </person>
+          <person xml:id="Marina_Per" sex="FEMALE">
+            <persName>Marina</persName>
+          </person>
+          <person xml:id="PIRATES.0.1_Per" sex="MALE">
+            <persName>PIRATES.0.1_Per</persName>
+          </person>
+          <person xml:id="PIRATES.0.2_Per" sex="MALE">
+            <persName>PIRATES.0.2_Per</persName>
+          </person>
+          <person xml:id="PIRATES.0.3_Per" sex="MALE">
+            <persName>PIRATES.0.3_Per</persName>
+          </person>
+          <person xml:id="Pander_Per" sex="MALE">
+            <persName>Pander</persName>
+          </person>
+          <person xml:id="Bolt_Per" sex="MALE">
+            <persName>Bolt</persName>
+          </person>
+          <person xml:id="Bawd_Per" sex="FEMALE">
+            <persName>Bawd</persName>
+          </person>
+          <person xml:id="GENTLEMEN.MYTILENE.1_Per" sex="MALE">
+            <persName>GENTLEMEN.MYTILENE.1_Per</persName>
+          </person>
+          <person xml:id="GENTLEMEN.MYTILENE.2_Per" sex="MALE">
+            <persName>GENTLEMEN.MYTILENE.2_Per</persName>
+          </person>
+          <person xml:id="Lysimachus_Per" sex="MALE">
+            <persName>Lysimachus</persName>
+          </person>
+          <person xml:id="SAILORS.TYRE.1_Per" sex="MALE">
+            <persName>Sailor</persName>
+          </person>
+          <person xml:id="GENTLEMEN.TYRE.0.1_Per" sex="MALE">
+            <persName>Gentleman</persName>
+          </person>
+          <person xml:id="SAILORS.MYTILENE.1_Per" sex="MALE">
+            <persName>Sailor</persName>
+          </person>
+          <person xml:id="LORDS.MYTILENE.0.1_Per" sex="MALE">
+            <persName>Lord</persName>
+          </person>
+          <person xml:id="Diana_Per" sex="FEMALE">
+            <persName>Diana</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
   </teiHeader>
   <text>
     <front>

@@ -70,7 +70,7 @@
     <encodingDesc>
       <projectDesc>
         <p>This version of the Folger Digital Texts uses TEI Simple to encode the Shakespeare texts edited by Barbara Mowat and Paul Werstine.  The major goal of recasting the texts in this manner is to make them interoperable with a large corpus of early modern texts derived from the EEBO-TCP transcriptions and encoded in TEI Simple with linguistic annotation.</p>
-        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are: 
+        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are:
           <list><item>Number <gi>div</gi> are replaced by unnumbered divs</item><item>Lines of verse are marked in <gi>l</gi>, tags, lines of prose in <gi>ab</gi></item><item>All xml:ids are corpuswide identifiers</item><item>Information from the participant description element <gi>particDesc</gi> in the teiHeader has been moved into  a <gi>castList</gi> element in the <gi>front</gi> element</item><item>Each spoken word in the text has been linguistically annotated with a lemma and POS tag</item></list>
         </p>
       </projectDesc>
@@ -87,7 +87,113 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    <particDesc><listPerson><person xml:id="Prologue_Tro"><persName>Prologue</persName></person><person xml:id="Troilus_Tro"><persName>Troilus</persName></person><person xml:id="Pandarus_Tro"><persName>Pandarus</persName></person><person xml:id="Aeneas_Tro"><persName>Aeneas</persName></person><person xml:id="Cressida_Tro"><persName>Cressida</persName></person><person xml:id="Alexander_Tro"><persName>Alexander</persName></person><person xml:id="Boy_Tro"><persName>Troilus’s Boy</persName></person><person xml:id="Agamemnon_Tro"><persName>Agamemnon</persName></person><person xml:id="Nestor_Tro"><persName>Nestor</persName></person><person xml:id="Ulysses_Tro"><persName>Ulysses</persName></person><person xml:id="Menelaus_Tro"><persName>Menelaus</persName></person><person xml:id="Ajax_Tro"><persName>Ajax</persName></person><person xml:id="Thersites_Tro"><persName>Thersites</persName></person><person xml:id="Achilles_Tro"><persName>Achilles</persName></person><person xml:id="Patroclus_Tro"><persName>Patroclus</persName></person><person xml:id="Priam_Tro"><persName>Priam</persName></person><person xml:id="Hector_Tro"><persName>Hector</persName></person><person xml:id="Helenus_Tro"><persName>Helenus</persName></person><person xml:id="Cassandra_Tro"><persName>Cassandra</persName></person><person xml:id="Paris_Tro"><persName>Paris</persName></person><person xml:id="Diomedes_Tro"><persName>Diomedes</persName></person><person xml:id="SERVANTS.PARIS.1_Tro"><persName>Paris’s Servingman</persName></person><person xml:id="Helen_Tro"><persName>Helen</persName></person><person xml:id="SERVANTS.TROILUS.1_Tro"><persName>Troilus’s Man</persName></person><person xml:id="Calchas_Tro"><persName>Calchas</persName></person><person xml:id="Deiphobus_Tro"><persName>Deiphobus</persName></person><person xml:id="ATTENDANTS.GREEK_Tro"><persName>Other Trojans and Greeks, Common Soldiers of Troy and Greece, Trumpeters, Attendants, Torchbearers</persName></person><person xml:id="Andromache_Tro"><persName>Andromache</persName></person><person xml:id="SERVANTS.DIOMEDES.1_Tro"><persName>Diomedes’ Servingman</persName></person><person xml:id="Bastard_Tro"><persName>Bastard</persName></person><person xml:id="MYRMIDONS.0.1_Tro"><persName>MYRMIDONS.0.1_Tro</persName></person><person xml:id="SOLDIERS_Tro"><persName>Other Trojans and Greeks, Common Soldiers of Troy and Greece, Trumpeters, Attendants, Torchbearers</persName></person><person xml:id="Antenor_Tro"><persName>Antenor</persName></person><person xml:id="SOLDIERS.TROJAN_Tro"><persName>Other Trojans and Greeks, Common Soldiers of Troy and Greece, Trumpeters, Attendants, Torchbearers</persName></person></listPerson></particDesc></profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="Prologue_Tro" sex="UNKNOWN">
+            <persName>Prologue</persName>
+          </person>
+          <person xml:id="Troilus_Tro" ana="http://www.wikidata.org/entity/Q867342">
+            <persName>Troilus</persName>
+          </person>
+          <person xml:id="Pandarus_Tro" ana="http://www.wikidata.org/entity/Q1057384">
+            <persName>Pandarus</persName>
+          </person>
+          <person xml:id="Aeneas_Tro" ana="http://www.wikidata.org/entity/Q82732">
+            <persName>Aeneas</persName>
+          </person>
+          <person xml:id="Cressida_Tro" sex="FEMALE">
+            <persName>Cressida</persName>
+          </person>
+          <person xml:id="Alexander_Tro" sex="MALE">
+            <persName>Alexander</persName>
+          </person>
+          <person xml:id="Boy_Tro" sex="MALE">
+            <persName>Troilus’s Boy</persName>
+          </person>
+          <person xml:id="Agamemnon_Tro" ana="http://www.wikidata.org/entity/Q128176">
+            <persName>Agamemnon</persName>
+          </person>
+          <person xml:id="Nestor_Tro" ana="http://www.wikidata.org/entity/Q193267">
+            <persName>Nestor</persName>
+          </person>
+          <person xml:id="Ulysses_Tro" sex="MALE">
+            <persName>Ulysses</persName>
+          </person>
+          <person xml:id="Menelaus_Tro" ana="http://www.wikidata.org/entity/Q171839">
+            <persName>Menelaus</persName>
+          </person>
+          <person xml:id="Ajax_Tro" ana="http://www.wikidata.org/entity/Q172725">
+            <persName>Ajax</persName>
+          </person>
+          <person xml:id="Thersites_Tro" ana="http://www.wikidata.org/entity/Q1045730">
+            <persName>Thersites</persName>
+          </person>
+          <person xml:id="Achilles_Tro" ana="http://www.wikidata.org/entity/Q41746">
+            <persName>Achilles</persName>
+          </person>
+          <person xml:id="Patroclus_Tro" ana="http://www.wikidata.org/entity/Q186271">
+            <persName>Patroclus</persName>
+          </person>
+          <person xml:id="Priam_Tro" ana="http://www.wikidata.org/entity/Q170473">
+            <persName>Priam</persName>
+          </person>
+          <person xml:id="Hector_Tro" ana="http://www.wikidata.org/entity/Q159666">
+            <persName>Hector</persName>
+          </person>
+          <person xml:id="Helenus_Tro" ana="http://www.wikidata.org/entity/Q729332">
+            <persName>Helenus</persName>
+          </person>
+          <person xml:id="Cassandra_Tro" ana="http://www.wikidata.org/entity/Q170779">
+            <persName>Cassandra</persName>
+          </person>
+          <person xml:id="Paris_Tro" ana="http://www.wikidata.org/entity/Q167646">
+            <persName>Paris</persName>
+          </person>
+          <person xml:id="Diomedes_Tro" ana="http://www.wikidata.org/entity/Q208256">
+            <persName>Diomedes</persName>
+          </person>
+          <person xml:id="SERVANTS.PARIS.1_Tro" sex="MALE">
+            <persName>Paris’s Servingman</persName>
+          </person>
+          <person xml:id="Helen_Tro" ana="http://www.wikidata.org/entity/Q164061">
+            <persName>Helen</persName>
+          </person>
+          <person xml:id="SERVANTS.TROILUS.1_Tro" sex="MALE">
+            <persName>Troilus’s Man</persName>
+          </person>
+          <person xml:id="Calchas_Tro" ana="http://www.wikidata.org/entity/Q725527">
+            <persName>Calchas</persName>
+          </person>
+          <person xml:id="Deiphobus_Tro" ana="http://www.wikidata.org/entity/Q736813">
+            <persName>Deiphobus</persName>
+          </person>
+          <personGrp xml:id="ATTENDANTS.GREEK_Tro" sex="UNKNOWN">
+            <name>Other Trojans and Greeks, Common Soldiers of Troy and Greece, Trumpeters, Attendants, Torchbearers</name>
+          </personGrp>
+          <person xml:id="Andromache_Tro" ana="http://www.wikidata.org/entity/Q19376">
+            <persName>Andromache</persName>
+          </person>
+          <person xml:id="SERVANTS.DIOMEDES.1_Tro" sex="MALE">
+            <persName>Diomedes’ Servingman</persName>
+          </person>
+          <person xml:id="Bastard_Tro" sex="MALE">
+            <persName>Bastard</persName>
+          </person>
+          <person xml:id="MYRMIDONS.0.1_Tro">
+            <persName>MYRMIDONS.0.1_Tro</persName>
+          </person>
+          <personGrp xml:id="SOLDIERS_Tro" sex="UNKNOWN">
+            <name>Other Trojans and Greeks, Common Soldiers of Troy and Greece, Trumpeters, Attendants, Torchbearers</name>
+          </personGrp>
+          <person xml:id="Antenor_Tro" ana="http://www.wikidata.org/entity/Q571969">
+            <persName>Antenor</persName>
+          </person>
+          <personGrp xml:id="SOLDIERS.TROJAN_Tro" sex="UNKNOWN">
+            <name>Other Trojans and Greeks, Common Soldiers of Troy and Greece, Trumpeters, Attendants, Torchbearers</name>
+          </personGrp>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
   </teiHeader>
   <text>
     <front>

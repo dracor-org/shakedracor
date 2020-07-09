@@ -69,7 +69,7 @@
     <encodingDesc>
       <projectDesc>
         <p>This version of the Folger Digital Texts uses TEI Simple to encode the Shakespeare texts edited by Barbara Mowat and Paul Werstine.  The major goal of recasting the texts in this manner is to make them interoperable with a large corpus of early modern texts derived from the EEBO-TCP transcriptions and encoded in TEI Simple with linguistic annotation.</p>
-        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are: 
+        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are:
           <list><item>Number <gi>div</gi> are replaced by unnumbered divs</item><item>Lines of verse are marked in <gi>l</gi>, tags, lines of prose in <gi>ab</gi></item><item>All xml:ids are corpuswide identifiers</item><item>Information from the participant description element <gi>particDesc</gi> in the teiHeader has been moved into  a <gi>castList</gi> element in the <gi>front</gi> element</item><item>Each spoken word in the text has been linguistically annotated with a lemma and POS tag</item></list>
         </p>
       </projectDesc>
@@ -86,7 +86,66 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    <particDesc><listPerson><person xml:id="Orsino_TN"><persName>Orsino</persName></person><person xml:id="ATTENDANTS.ORSINO.Curio_TN"><persName>Curio</persName></person><person xml:id="ATTENDANTS.ORSINO.Valentine_TN"><persName>Valentine</persName></person><person xml:id="Viola_TN"><persName>Viola Cesario</persName><persName>Viola Cesario</persName></person><person xml:id="Captain_TN"><persName>Captain</persName></person><person xml:id="TobyBelch_TN"><persName>Sir Toby Belch</persName></person><person xml:id="Maria_TN"><persName>Maria</persName></person><person xml:id="AndrewAguecheek_TN"><persName>Sir Andrew Aguecheek</persName></person><person xml:id="Feste_TN"><persName>Fool</persName></person><person xml:id="Olivia_TN"><persName>Olivia</persName></person><person xml:id="Malvolio_TN"><persName>Malvolio</persName></person><person xml:id="Antonio_TN"><persName>Antonio</persName></person><person xml:id="Sebastian_TN"><persName>Sebastian</persName></person><person xml:id="Fabian_TN"><persName>Fabian</persName></person><person xml:id="ATTENDANTS.OLIVIA.1_TN"><persName>Lords, Sailors, Musicians, and other Attendants</persName></person><person xml:id="OFFICERS.1_TN"><persName>OFFICERS.1_TN</persName></person><person xml:id="OFFICERS.2_TN"><persName>OFFICERS.2_TN</persName></person><person xml:id="Priest_TN"><persName>Priest</persName></person></listPerson></particDesc></profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="Orsino_TN" sex="MALE">
+            <persName>Orsino</persName>
+          </person>
+          <person xml:id="ATTENDANTS.ORSINO.Curio_TN" sex="MALE">
+            <persName>Curio</persName>
+          </person>
+          <person xml:id="ATTENDANTS.ORSINO.Valentine_TN" sex="MALE">
+            <persName>Valentine</persName>
+          </person>
+          <person xml:id="Viola_TN" sex="FEMALE">
+            <persName>Viola Cesario</persName>
+            <persName>Viola Cesario</persName>
+          </person>
+          <person xml:id="Captain_TN" sex="MALE">
+            <persName>Captain</persName>
+          </person>
+          <person xml:id="TobyBelch_TN" sex="MALE">
+            <persName>Sir Toby Belch</persName>
+          </person>
+          <person xml:id="Maria_TN" sex="FEMALE">
+            <persName>Maria</persName>
+          </person>
+          <person xml:id="AndrewAguecheek_TN" sex="MALE">
+            <persName>Sir Andrew Aguecheek</persName>
+          </person>
+          <person xml:id="Feste_TN" sex="MALE">
+            <persName>Fool</persName>
+          </person>
+          <person xml:id="Olivia_TN" sex="FEMALE">
+            <persName>Olivia</persName>
+          </person>
+          <person xml:id="Malvolio_TN" sex="MALE">
+            <persName>Malvolio</persName>
+          </person>
+          <person xml:id="Antonio_TN" sex="MALE">
+            <persName>Antonio</persName>
+          </person>
+          <person xml:id="Sebastian_TN" sex="MALE">
+            <persName>Sebastian</persName>
+          </person>
+          <person xml:id="Fabian_TN" sex="MALE">
+            <persName>Fabian</persName>
+          </person>
+          <personGrp xml:id="ATTENDANTS.OLIVIA.1_TN" sex="UNKNOWN">
+            <name>Lords, Sailors, Musicians, and other Attendants</name>
+          </personGrp>
+          <person xml:id="OFFICERS.1_TN" sex="MALE">
+            <persName>OFFICERS.1_TN</persName>
+          </person>
+          <person xml:id="OFFICERS.2_TN" sex="MALE">
+            <persName>OFFICERS.2_TN</persName>
+          </person>
+          <person xml:id="Priest_TN" sex="MALE">
+            <persName>Priest</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
   </teiHeader>
   <text>
     <front>
