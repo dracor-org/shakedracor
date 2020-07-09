@@ -69,7 +69,7 @@
     <encodingDesc>
       <projectDesc>
         <p>This version of the Folger Digital Texts uses TEI Simple to encode the Shakespeare texts edited by Barbara Mowat and Paul Werstine.  The major goal of recasting the texts in this manner is to make them interoperable with a large corpus of early modern texts derived from the EEBO-TCP transcriptions and encoded in TEI Simple with linguistic annotation.</p>
-        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are: 
+        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are:
           <list><item>Number <gi>div</gi> are replaced by unnumbered divs</item><item>Lines of verse are marked in <gi>l</gi>, tags, lines of prose in <gi>ab</gi></item><item>All xml:ids are corpuswide identifiers</item><item>Information from the participant description element <gi>particDesc</gi> in the teiHeader has been moved into  a <gi>castList</gi> element in the <gi>front</gi> element</item><item>Each spoken word in the text has been linguistically annotated with a lemma and POS tag</item></list>
         </p>
       </projectDesc>
@@ -86,7 +86,120 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    <particDesc><listPerson><person xml:id="RichardII_R2"><persName>King Richard II</persName></person><person xml:id="Gaunt_R2"><persName>John of Gaunt</persName></person><person xml:id="HenryIV_1H4"><persName>Henry Bolingbroke Hereford</persName><persName>Henry Bolingbroke Hereford</persName></person><person xml:id="Mowbray_R2"><persName>Mowbray</persName></person><person xml:id="DuchessOfGloucester_R2"><persName>Duchess of Gloucester</persName></person><person xml:id="LordMarshal_R2"><persName>Lord Marshal</persName></person><person xml:id="Aumerle_R2"><persName>Duke of Aumerle</persName></person><person xml:id="HERALDS.1_R2"><persName>First Herald</persName></person><person xml:id="HERALDS.2_R2"><persName>Second Herald</persName></person><person xml:id="Green_R2"><persName>Green</persName></person><person xml:id="Bushy_R2"><persName>Bushy</persName></person><person xml:id="Bagot_R2"><persName>Bagot</persName></person><person xml:id="York_R2"><persName>Duke of York</persName></person><person xml:id="Queen_R2"><persName>Queen</persName></person><person xml:id="Northumberland_R2"><persName>Earl of Northumberland</persName></person><person xml:id="Ross_R2"><persName>Lord Ross</persName></person><person xml:id="Willoughby_R2"><persName>Lord Willoughby</persName></person><person xml:id="SERVANTS.YORK.1_R2"><persName>Servingmen</persName></person><person xml:id="Hotspur_R2"><persName>Harry Percy</persName></person><person xml:id="Berkeley_R2"><persName>Lord Berkeley</persName></person><person xml:id="WelshCaptain_R2"><persName>Welsh Captain</persName></person><person xml:id="Salisbury_R2"><persName>Earl of Salisbury</persName></person><person xml:id="BishopOfCarlisle_R2"><persName>Bishop of Carlisle</persName></person><person xml:id="Scroop_R2"><persName>Sir Stephen Scroop</persName></person><person xml:id="LADIES.0.1_R2"><persName>LADIES.0.1_R2</persName></person><person xml:id="Gardener_R2"><persName>Gardener</persName></person><person xml:id="SERVANTS.GARDENER.1_R2"><persName>SERVANTS.GARDENER.1_R2</persName></person><person xml:id="Fitzwater_R2"><persName>Lord Fitzwater</persName></person><person xml:id="LORDS.1_R2"><persName>Another Lord</persName></person><person xml:id="Surrey_R2"><persName>Duke of Surrey</persName></person><person xml:id="AbbotOfWestminster_R2"><persName>Abbot of Westminster</persName></person><person xml:id="DuchessOfYork_R2"><persName>Duchess of York</persName></person><person xml:id="Exton_R2"><persName>Sir Pierce of Exton</persName></person><person xml:id="SERVANTS.EXTON.0.1_R2"><persName>SERVANTS.EXTON.0.1_R2</persName></person><person xml:id="Groom_R2"><persName>Groom</persName></person><person xml:id="Jailer_R2"><persName>Keeper</persName></person></listPerson></particDesc></profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="RichardII_R2">
+            <persName>King Richard II</persName>
+          </person>
+          <person xml:id="Gaunt_R2">
+            <persName>John of Gaunt</persName>
+          </person>
+          <person xml:id="HenryIV_1H4">
+            <persName>Henry Bolingbroke Hereford</persName>
+            <persName>Henry Bolingbroke Hereford</persName>
+          </person>
+          <person xml:id="Mowbray_R2">
+            <persName>Mowbray</persName>
+          </person>
+          <person xml:id="DuchessOfGloucester_R2">
+            <persName>Duchess of Gloucester</persName>
+          </person>
+          <person xml:id="LordMarshal_R2">
+            <persName>Lord Marshal</persName>
+          </person>
+          <person xml:id="Aumerle_R2">
+            <persName>Duke of Aumerle</persName>
+          </person>
+          <person xml:id="HERALDS.1_R2">
+            <persName>First Herald</persName>
+          </person>
+          <person xml:id="HERALDS.2_R2">
+            <persName>Second Herald</persName>
+          </person>
+          <person xml:id="Green_R2">
+            <persName>Green</persName>
+          </person>
+          <person xml:id="Bushy_R2">
+            <persName>Bushy</persName>
+          </person>
+          <person xml:id="Bagot_R2">
+            <persName>Bagot</persName>
+          </person>
+          <person xml:id="York_R2">
+            <persName>Duke of York</persName>
+          </person>
+          <person xml:id="Queen_R2">
+            <persName>Queen</persName>
+          </person>
+          <person xml:id="Northumberland_R2">
+            <persName>Earl of Northumberland</persName>
+          </person>
+          <person xml:id="Ross_R2">
+            <persName>Lord Ross</persName>
+          </person>
+          <person xml:id="Willoughby_R2">
+            <persName>Lord Willoughby</persName>
+          </person>
+          <person xml:id="SERVANTS.YORK.1_R2">
+            <persName>Servingmen</persName>
+          </person>
+          <person xml:id="Hotspur_R2">
+            <persName>Harry Percy</persName>
+          </person>
+          <person xml:id="Berkeley_R2">
+            <persName>Lord Berkeley</persName>
+          </person>
+          <person xml:id="WelshCaptain_R2">
+            <persName>Welsh Captain</persName>
+          </person>
+          <person xml:id="Salisbury_R2">
+            <persName>Earl of Salisbury</persName>
+          </person>
+          <person xml:id="BishopOfCarlisle_R2">
+            <persName>Bishop of Carlisle</persName>
+          </person>
+          <person xml:id="Scroop_R2">
+            <persName>Sir Stephen Scroop</persName>
+          </person>
+          <person xml:id="LADIES.0.1_R2">
+            <persName>LADIES.0.1_R2</persName>
+          </person>
+          <person xml:id="Gardener_R2">
+            <persName>Gardener</persName>
+          </person>
+          <person xml:id="SERVANTS.GARDENER.1_R2">
+            <persName>SERVANTS.GARDENER.1_R2</persName>
+          </person>
+          <person xml:id="Fitzwater_R2">
+            <persName>Lord Fitzwater</persName>
+          </person>
+          <person xml:id="LORDS.1_R2">
+            <persName>Another Lord</persName>
+          </person>
+          <person xml:id="Surrey_R2">
+            <persName>Duke of Surrey</persName>
+          </person>
+          <person xml:id="AbbotOfWestminster_R2">
+            <persName>Abbot of Westminster</persName>
+          </person>
+          <person xml:id="DuchessOfYork_R2">
+            <persName>Duchess of York</persName>
+          </person>
+          <person xml:id="Exton_R2">
+            <persName>Sir Pierce of Exton</persName>
+          </person>
+          <person xml:id="SERVANTS.EXTON.0.1_R2">
+            <persName>SERVANTS.EXTON.0.1_R2</persName>
+          </person>
+          <person xml:id="Groom_R2">
+            <persName>Groom</persName>
+          </person>
+          <person xml:id="Jailer_R2">
+            <persName>Keeper</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
   </teiHeader>
   <text>
     <front>

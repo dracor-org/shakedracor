@@ -69,7 +69,7 @@
     <encodingDesc>
       <projectDesc>
         <p>This version of the Folger Digital Texts encodes the edition of each play by Barbara Mowat and Paul Werstine in TEI Simple. The major goal of recasting the texts in this manner is to make them interoperable with a large corpus of early modern texts derived from the EEBO-TCP transcriptionss and encoded in TEI Simple with linguistic annotation.</p>
-        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are: 
+        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are:
           <list><item>Number <gi>div</gi> are replaced by unnumbered divs</item><item>Lines of verse are marked in <gi>l</gi>, tags, lines of prose in <gi>ab</gi></item><item>All xml:ids are corpuswide identifiers</item><item>Information from the participant description element <gi>particDesc</gi> in the teiHeader has been moved into  a <gi>castList</gi> element in the <gi>front</gi> element</item><item>Each spoken word in the text has been linguistically annotated with a lemma and POS tag</item></list>
         </p>
       </projectDesc>
@@ -86,7 +86,119 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    <particDesc><listPerson><person xml:id="HenryIV_1H4"><persName>King Henry IV</persName></person><person xml:id="Westmoreland_1H4"><persName>Earl of Westmoreland</persName></person><person xml:id="Falstaff_1H4"><persName>Sir John Falstaff</persName></person><person xml:id="HenryV_H5"><persName>Prince Hal</persName></person><person xml:id="Poins_1H4"><persName>Poins</persName></person><person xml:id="Worcester_1H4"><persName>Earl of Worcester</persName></person><person xml:id="Northumberland_R2"><persName>Earl of Northumberland</persName></person><person xml:id="Hotspur_R2"><persName>Hotspur</persName></person><person xml:id="Blunt_1H4"><persName>Sir Walter Blunt</persName></person><person xml:id="TRAVELERS.CARRIERS.1_1H4"><persName>Carriers, Ostlers, Chamberlain, Travelers, Sheriff, Servants, Lords, Attendants, Messengers, Soldiers</persName></person><person xml:id="Ostler_1H4"><persName>Carriers, Ostlers, Chamberlain, Travelers, Sheriff, Servants, Lords, Attendants, Messengers, Soldiers</persName></person><person xml:id="TRAVELERS.CARRIERS.2_1H4"><persName>Carriers, Ostlers, Chamberlain, Travelers, Sheriff, Servants, Lords, Attendants, Messengers, Soldiers</persName></person><person xml:id="Gadshill_1H4"><persName>Gadshill</persName></person><person xml:id="Chamberlain_1H4"><persName>Carriers, Ostlers, Chamberlain, Travelers, Sheriff, Servants, Lords, Attendants, Messengers, Soldiers</persName></person><person xml:id="Bardolph_1H4"><persName>Bardolph</persName></person><person xml:id="Peto_1H4"><persName>Peto</persName></person><person xml:id="TRAVELERS.GENTLEMEN.0.1_1H4"><persName>Carriers, Ostlers, Chamberlain, Travelers, Sheriff, Servants, Lords, Attendants, Messengers, Soldiers</persName></person><person xml:id="TRAVELERS.CARRIERS_1H4"><persName>Carriers, Ostlers, Chamberlain, Travelers, Sheriff, Servants, Lords, Attendants, Messengers, Soldiers</persName></person><person xml:id="TRAVELERS.GENTLEMEN_1H4"><persName>Carriers, Ostlers, Chamberlain, Travelers, Sheriff, Servants, Lords, Attendants, Messengers, Soldiers</persName></person><person xml:id="LadyPercy_1H4"><persName>Lady Percy</persName></person><person xml:id="SERVANTS.HOTSPUR.1_1H4"><persName>Carriers, Ostlers, Chamberlain, Travelers, Sheriff, Servants, Lords, Attendants, Messengers, Soldiers</persName></person><person xml:id="DRAWERS.Francis_1H4"><persName>Francis</persName></person><person xml:id="Vintner_1H4"><persName>Vintner</persName></person><person xml:id="MistressQuickly_1H4"><persName>Hostess</persName></person><person xml:id="Sheriff_1H4"><persName>Carriers, Ostlers, Chamberlain, Travelers, Sheriff, Servants, Lords, Attendants, Messengers, Soldiers</persName></person><person xml:id="TRAVELERS.CARRIERS.X_1H4"><persName>Carriers, Ostlers, Chamberlain, Travelers, Sheriff, Servants, Lords, Attendants, Messengers, Soldiers</persName></person><person xml:id="Mortimer_1H4"><persName>Edmund Mortimer</persName></person><person xml:id="Glendower_1H4"><persName>Owen Glendower</persName></person><person xml:id="Douglas_1H4"><persName>Douglas</persName></person><person xml:id="MESSENGERS.X_1H4"><persName>Carriers, Ostlers, Chamberlain, Travelers, Sheriff, Servants, Lords, Attendants, Messengers, Soldiers</persName></person><person xml:id="Vernon_1H4"><persName>Sir Richard Vernon</persName></person><person xml:id="Archbishop_1H4"><persName>Archbishop</persName></person><person xml:id="SirMichael_1H4"><persName>Sir Michael</persName></person><person xml:id="MESSENGERS.1_1H4"><persName>Carriers, Ostlers, Chamberlain, Travelers, Sheriff, Servants, Lords, Attendants, Messengers, Soldiers</persName></person><person xml:id="MESSENGERS.2_1H4"><persName>Carriers, Ostlers, Chamberlain, Travelers, Sheriff, Servants, Lords, Attendants, Messengers, Soldiers</persName></person><person xml:id="Bedford_H5"><persName>Lord John of Lancaster</persName></person></listPerson></particDesc></profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="HenryIV_1H4">
+            <persName>King Henry IV</persName>
+          </person>
+          <person xml:id="Westmoreland_1H4">
+            <persName>Earl of Westmoreland</persName>
+          </person>
+          <person xml:id="Falstaff_1H4">
+            <persName>Sir John Falstaff</persName>
+          </person>
+          <person xml:id="HenryV_H5">
+            <persName>Prince Hal</persName>
+          </person>
+          <person xml:id="Poins_1H4">
+            <persName>Poins</persName>
+          </person>
+          <person xml:id="Worcester_1H4">
+            <persName>Earl of Worcester</persName>
+          </person>
+          <person xml:id="Northumberland_R2">
+            <persName>Earl of Northumberland</persName>
+          </person>
+          <person xml:id="Hotspur_R2">
+            <persName>Hotspur</persName>
+          </person>
+          <person xml:id="Blunt_1H4">
+            <persName>Sir Walter Blunt</persName>
+          </person>
+          <person xml:id="TRAVELERS.CARRIERS.1_1H4">
+            <persName>Carriers, Ostlers, Chamberlain, Travelers, Sheriff, Servants, Lords, Attendants, Messengers, Soldiers</persName>
+          </person>
+          <person xml:id="Ostler_1H4">
+            <persName>Carriers, Ostlers, Chamberlain, Travelers, Sheriff, Servants, Lords, Attendants, Messengers, Soldiers</persName>
+          </person>
+          <person xml:id="TRAVELERS.CARRIERS.2_1H4">
+            <persName>Carriers, Ostlers, Chamberlain, Travelers, Sheriff, Servants, Lords, Attendants, Messengers, Soldiers</persName>
+          </person>
+          <person xml:id="Gadshill_1H4">
+            <persName>Gadshill</persName>
+          </person>
+          <person xml:id="Chamberlain_1H4">
+            <persName>Carriers, Ostlers, Chamberlain, Travelers, Sheriff, Servants, Lords, Attendants, Messengers, Soldiers</persName>
+          </person>
+          <person xml:id="Bardolph_1H4">
+            <persName>Bardolph</persName>
+          </person>
+          <person xml:id="Peto_1H4">
+            <persName>Peto</persName>
+          </person>
+          <person xml:id="TRAVELERS.GENTLEMEN.0.1_1H4">
+            <persName>Carriers, Ostlers, Chamberlain, Travelers, Sheriff, Servants, Lords, Attendants, Messengers, Soldiers</persName>
+          </person>
+          <person xml:id="TRAVELERS.CARRIERS_1H4">
+            <persName>Carriers, Ostlers, Chamberlain, Travelers, Sheriff, Servants, Lords, Attendants, Messengers, Soldiers</persName>
+          </person>
+          <person xml:id="TRAVELERS.GENTLEMEN_1H4">
+            <persName>Carriers, Ostlers, Chamberlain, Travelers, Sheriff, Servants, Lords, Attendants, Messengers, Soldiers</persName>
+          </person>
+          <person xml:id="LadyPercy_1H4">
+            <persName>Lady Percy</persName>
+          </person>
+          <person xml:id="SERVANTS.HOTSPUR.1_1H4">
+            <persName>Carriers, Ostlers, Chamberlain, Travelers, Sheriff, Servants, Lords, Attendants, Messengers, Soldiers</persName>
+          </person>
+          <person xml:id="DRAWERS.Francis_1H4">
+            <persName>Francis</persName>
+          </person>
+          <person xml:id="Vintner_1H4">
+            <persName>Vintner</persName>
+          </person>
+          <person xml:id="MistressQuickly_1H4">
+            <persName>Hostess</persName>
+          </person>
+          <person xml:id="Sheriff_1H4">
+            <persName>Carriers, Ostlers, Chamberlain, Travelers, Sheriff, Servants, Lords, Attendants, Messengers, Soldiers</persName>
+          </person>
+          <person xml:id="TRAVELERS.CARRIERS.X_1H4">
+            <persName>Carriers, Ostlers, Chamberlain, Travelers, Sheriff, Servants, Lords, Attendants, Messengers, Soldiers</persName>
+          </person>
+          <person xml:id="Mortimer_1H4">
+            <persName>Edmund Mortimer</persName>
+          </person>
+          <person xml:id="Glendower_1H4">
+            <persName>Owen Glendower</persName>
+          </person>
+          <person xml:id="Douglas_1H4">
+            <persName>Douglas</persName>
+          </person>
+          <person xml:id="MESSENGERS.X_1H4">
+            <persName>Carriers, Ostlers, Chamberlain, Travelers, Sheriff, Servants, Lords, Attendants, Messengers, Soldiers</persName>
+          </person>
+          <person xml:id="Vernon_1H4">
+            <persName>Sir Richard Vernon</persName>
+          </person>
+          <person xml:id="Archbishop_1H4">
+            <persName>Archbishop</persName>
+          </person>
+          <person xml:id="SirMichael_1H4">
+            <persName>Sir Michael</persName>
+          </person>
+          <person xml:id="MESSENGERS.1_1H4">
+            <persName>Carriers, Ostlers, Chamberlain, Travelers, Sheriff, Servants, Lords, Attendants, Messengers, Soldiers</persName>
+          </person>
+          <person xml:id="MESSENGERS.2_1H4">
+            <persName>Carriers, Ostlers, Chamberlain, Travelers, Sheriff, Servants, Lords, Attendants, Messengers, Soldiers</persName>
+          </person>
+          <person xml:id="Bedford_H5">
+            <persName>Lord John of Lancaster</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
   </teiHeader>
   <text>
     <front>

@@ -69,7 +69,7 @@
     <encodingDesc>
       <projectDesc>
         <p>This version of the Folger Digital Texts uses TEI Simple to encode the Shakespeare texts edited by Barbara Mowat and Paul Werstine.  The major goal of recasting the texts in this manner is to make them interoperable with a large corpus of early modern texts derived from the EEBO-TCP transcriptions and encoded in TEI Simple with linguistic annotation.</p>
-        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are: 
+        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are:
           <list><item>Number <gi>div</gi> are replaced by unnumbered divs</item><item>Lines of verse are marked in <gi>l</gi>, tags, lines of prose in <gi>ab</gi></item><item>All xml:ids are corpuswide identifiers</item><item>Information from the participant description element <gi>particDesc</gi> in the teiHeader has been moved into  a <gi>castList</gi> element in the <gi>front</gi> element</item><item>Each spoken word in the text has been linguistically annotated with a lemma and POS tag</item></list>
         </p>
       </projectDesc>
@@ -86,7 +86,83 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    <particDesc><listPerson><person xml:id="Antonio_MV"><persName>Antonio</persName></person><person xml:id="Salarino_MV"><persName>Salarino</persName></person><person xml:id="Solanio_MV"><persName>Solanio</persName></person><person xml:id="Bassanio_MV"><persName>Bassanio</persName></person><person xml:id="Lorenzo_MV"><persName>Lorenzo</persName></person><person xml:id="Gratiano_MV"><persName>Gratiano</persName></person><person xml:id="Portia_MV"><persName>Portia</persName></person><person xml:id="Nerissa_MV"><persName>Nerissa</persName></person><person xml:id="SERVANTS.1_MV"><persName>SERVANTS.1_MV</persName></person><person xml:id="Shylock_MV"><persName>Shylock</persName></person><person xml:id="Morocco_MV"><persName>Morocco</persName></person><person xml:id="LanceletGobbo_MV"><persName>Lancelet Gobbo</persName></person><person xml:id="OldGobbo_MV"><persName>Old Gobbo</persName></person><person xml:id="ATTENDANTS.BASSANIO.Leonardo_MV"><persName>Leonardo</persName></person><person xml:id="Jessica_MV"><persName>Jessica</persName></person><person xml:id="Arragon_MV"><persName>Arragon</persName></person><person xml:id="Messenger_MV"><persName>Messenger</persName></person><person xml:id="SERVANTS.2_MV"><persName>SERVANTS.2_MV</persName></person><person xml:id="Tubal_MV"><persName>Tubal</persName></person><person xml:id="MUSICIANS_MV"><persName>Musicians</persName></person><person xml:id="Salerio_MV"><persName>Salerio</persName></person><person xml:id="ATTENDANTS.PORTIA.Balthazar_MV"><persName>Balthazar</persName></person><person xml:id="Duke_MV"><persName>Duke_MV</persName></person><person xml:id="ATTENDANTS.PORTIA.Stephano_MV"><persName>Stephano</persName></person></listPerson></particDesc></profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="Antonio_MV">
+            <persName>Antonio</persName>
+          </person>
+          <person xml:id="Salarino_MV">
+            <persName>Salarino</persName>
+          </person>
+          <person xml:id="Solanio_MV">
+            <persName>Solanio</persName>
+          </person>
+          <person xml:id="Bassanio_MV">
+            <persName>Bassanio</persName>
+          </person>
+          <person xml:id="Lorenzo_MV">
+            <persName>Lorenzo</persName>
+          </person>
+          <person xml:id="Gratiano_MV">
+            <persName>Gratiano</persName>
+          </person>
+          <person xml:id="Portia_MV">
+            <persName>Portia</persName>
+          </person>
+          <person xml:id="Nerissa_MV">
+            <persName>Nerissa</persName>
+          </person>
+          <person xml:id="SERVANTS.1_MV">
+            <persName>SERVANTS.1_MV</persName>
+          </person>
+          <person xml:id="Shylock_MV">
+            <persName>Shylock</persName>
+          </person>
+          <person xml:id="Morocco_MV">
+            <persName>Morocco</persName>
+          </person>
+          <person xml:id="LanceletGobbo_MV">
+            <persName>Lancelet Gobbo</persName>
+          </person>
+          <person xml:id="OldGobbo_MV">
+            <persName>Old Gobbo</persName>
+          </person>
+          <person xml:id="ATTENDANTS.BASSANIO.Leonardo_MV">
+            <persName>Leonardo</persName>
+          </person>
+          <person xml:id="Jessica_MV">
+            <persName>Jessica</persName>
+          </person>
+          <person xml:id="Arragon_MV">
+            <persName>Arragon</persName>
+          </person>
+          <person xml:id="Messenger_MV">
+            <persName>Messenger</persName>
+          </person>
+          <person xml:id="SERVANTS.2_MV">
+            <persName>SERVANTS.2_MV</persName>
+          </person>
+          <person xml:id="Tubal_MV">
+            <persName>Tubal</persName>
+          </person>
+          <person xml:id="MUSICIANS_MV">
+            <persName>Musicians</persName>
+          </person>
+          <person xml:id="Salerio_MV">
+            <persName>Salerio</persName>
+          </person>
+          <person xml:id="ATTENDANTS.PORTIA.Balthazar_MV">
+            <persName>Balthazar</persName>
+          </person>
+          <person xml:id="Duke_MV">
+            <persName>Duke_MV</persName>
+          </person>
+          <person xml:id="ATTENDANTS.PORTIA.Stephano_MV">
+            <persName>Stephano</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
   </teiHeader>
   <text>
     <front>

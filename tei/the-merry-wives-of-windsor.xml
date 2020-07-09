@@ -69,7 +69,7 @@
     <encodingDesc>
       <projectDesc>
         <p>This version of the Folger Digital Texts uses TEI Simple to encode the Shakespeare texts edited by Barbara Mowat and Paul Werstine.  The major goal of recasting the texts in this manner is to make them interoperable with a large corpus of early modern texts derived from the EEBO-TCP transcriptions and encoded in TEI Simple with linguistic annotation.</p>
-        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are: 
+        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are:
           <list><item>Number <gi>div</gi> are replaced by unnumbered divs</item><item>Lines of verse are marked in <gi>l</gi>, tags, lines of prose in <gi>ab</gi></item><item>All xml:ids are corpuswide identifiers</item><item>Information from the participant description element <gi>particDesc</gi> in the teiHeader has been moved into  a <gi>castList</gi> element in the <gi>front</gi> element</item><item>Each spoken word in the text has been linguistically annotated with a lemma and POS tag</item></list>
         </p>
       </projectDesc>
@@ -86,7 +86,80 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    <particDesc><listPerson><person xml:id="Shallow_2H4"><persName>Shallow</persName></person><person xml:id="Slender_Wiv"><persName>Slender</persName></person><person xml:id="HughEvans_Wiv"><persName>Sir Hugh</persName></person><person xml:id="MasterPage_Wiv"><persName>Page</persName></person><person xml:id="Falstaff_1H4"><persName>Falstaff</persName></person><person xml:id="Bardolph_1H4"><persName>Bardolph</persName></person><person xml:id="Pistol_2H4"><persName>Pistol</persName></person><person xml:id="Nym_H5"><persName>Nym</persName></person><person xml:id="Simple_Wiv"><persName>Simple</persName></person><person xml:id="AnnePage_Wiv"><persName>Anne</persName></person><person xml:id="Host_Wiv"><persName>Host</persName></person><person xml:id="MistressQuickly_1H4"><persName>Mistress Quickly</persName></person><person xml:id="Rugby_Wiv"><persName>John Rugby</persName></person><person xml:id="DoctorCaius_Wiv"><persName>Doctor Caius</persName></person><person xml:id="Fenton_Wiv"><persName>Fenton</persName></person><person xml:id="MistressPage_Wiv"><persName>Mistress Page</persName></person><person xml:id="MistressFord_Wiv"><persName>Mistress Ford</persName></person><person xml:id="MasterFord_Wiv"><persName>Ford</persName></person><person xml:id="Robin_Wiv"><persName>Robin</persName></person><person xml:id="Robert_Wiv"><persName>Robert</persName></person><person xml:id="John_Wiv"><persName>John</persName></person><person xml:id="WilliamPage_Wiv"><persName>William</persName></person><person xml:id="BOYS_Wiv"><persName>Windsor Children, disguised as fairies</persName></person></listPerson></particDesc></profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="Shallow_2H4">
+            <persName>Shallow</persName>
+          </person>
+          <person xml:id="Slender_Wiv">
+            <persName>Slender</persName>
+          </person>
+          <person xml:id="HughEvans_Wiv">
+            <persName>Sir Hugh</persName>
+          </person>
+          <person xml:id="MasterPage_Wiv">
+            <persName>Page</persName>
+          </person>
+          <person xml:id="Falstaff_1H4">
+            <persName>Falstaff</persName>
+          </person>
+          <person xml:id="Bardolph_1H4">
+            <persName>Bardolph</persName>
+          </person>
+          <person xml:id="Pistol_2H4">
+            <persName>Pistol</persName>
+          </person>
+          <person xml:id="Nym_H5">
+            <persName>Nym</persName>
+          </person>
+          <person xml:id="Simple_Wiv">
+            <persName>Simple</persName>
+          </person>
+          <person xml:id="AnnePage_Wiv">
+            <persName>Anne</persName>
+          </person>
+          <person xml:id="Host_Wiv">
+            <persName>Host</persName>
+          </person>
+          <person xml:id="MistressQuickly_1H4">
+            <persName>Mistress Quickly</persName>
+          </person>
+          <person xml:id="Rugby_Wiv">
+            <persName>John Rugby</persName>
+          </person>
+          <person xml:id="DoctorCaius_Wiv">
+            <persName>Doctor Caius</persName>
+          </person>
+          <person xml:id="Fenton_Wiv">
+            <persName>Fenton</persName>
+          </person>
+          <person xml:id="MistressPage_Wiv">
+            <persName>Mistress Page</persName>
+          </person>
+          <person xml:id="MistressFord_Wiv">
+            <persName>Mistress Ford</persName>
+          </person>
+          <person xml:id="MasterFord_Wiv">
+            <persName>Ford</persName>
+          </person>
+          <person xml:id="Robin_Wiv">
+            <persName>Robin</persName>
+          </person>
+          <person xml:id="Robert_Wiv">
+            <persName>Robert</persName>
+          </person>
+          <person xml:id="John_Wiv">
+            <persName>John</persName>
+          </person>
+          <person xml:id="WilliamPage_Wiv">
+            <persName>William</persName>
+          </person>
+          <person xml:id="BOYS_Wiv">
+            <persName>Windsor Children, disguised as fairies</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
   </teiHeader>
   <text>
     <front>

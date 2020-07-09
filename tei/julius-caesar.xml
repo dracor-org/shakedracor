@@ -69,7 +69,7 @@
     <encodingDesc>
       <projectDesc>
         <p>This version of the Folger Digital Texts uses TEI Simple to encode the Shakespeare texts edited by Barbara Mowat and Paul Werstine.  The major goal of recasting the texts in this manner is to make them interoperable with a large corpus of early modern texts derived from the EEBO-TCP transcriptions and encoded in TEI Simple with linguistic annotation.</p>
-        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are: 
+        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are:
           <list><item>Number <gi>div</gi> are replaced by unnumbered divs</item><item>Lines of verse are marked in <gi>l</gi>, tags, lines of prose in <gi>ab</gi></item><item>All xml:ids are corpuswide identifiers</item><item>Information from the participant description element <gi>particDesc</gi> in the teiHeader has been moved into  a <gi>castList</gi> element in the <gi>front</gi> element</item><item>Each spoken word in the text has been linguistically annotated with a lemma and POS tag</item></list>
         </p>
       </projectDesc>
@@ -86,7 +86,164 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    <particDesc><listPerson><person xml:id="Flavius_JC"><persName>Flavius</persName></person><person xml:id="COMMONERS.Carpenter_JC"><persName>COMMONERS.Carpenter_JC</persName></person><person xml:id="Marullus_JC"><persName>Marullus</persName></person><person xml:id="COMMONERS.Cobbler_JC"><persName>COMMONERS.Cobbler_JC</persName></person><person xml:id="Caesar_JC"><persName>Julius Caesar</persName></person><person xml:id="Casca_JC"><persName>Casca</persName></person><person xml:id="Calphurnia_JC"><persName>Calphurnia</persName></person><person xml:id="Antony_JC"><persName>Mark Antony</persName></person><person xml:id="Soothsayer_JC"><persName>Soothsayer_JC</persName></person><person xml:id="Brutus_JC"><persName>Marcus Brutus</persName></person><person xml:id="Cassius_JC"><persName>Caius Cassius</persName></person><person xml:id="Cicero_JC"><persName>Cicero</persName></person><person xml:id="Cinna_JC"><persName>Cinna</persName></person><person xml:id="Lucius_JC"><persName>Lucius</persName></person><person xml:id="Decius_JC"><persName>Decius Brutus</persName></person><person xml:id="Metellus_JC"><persName>Metellus Cimber</persName></person><person xml:id="Trebonius_JC"><persName>Trebonius</persName></person><person xml:id="Portia_JC"><persName>Portia</persName></person><person xml:id="Ligarius_JC"><persName>Caius Ligarius</persName></person><person xml:id="SERVANTS.CAESAR.1_JC"><persName>SERVANTS.CAESAR.1_JC</persName></person><person xml:id="Publius_JC"><persName>Publius</persName></person><person xml:id="Artemidorus_JC"><persName>Artemidorus</persName></person><person xml:id="Popilius_JC"><persName>Popilius Lena</persName></person><person xml:id="SERVANTS.ANTONY.1_JC"><persName>SERVANTS.ANTONY.1_JC</persName></person><person xml:id="SERVANTS.OCTAVIUS.1_JC"><persName>SERVANTS.OCTAVIUS.1_JC</persName></person><person xml:id="PLEBEIANS_JC"><persName>First, Second, Third, and Fourth Plebeians</persName></person><person xml:id="PLEBEIANS.0.1_JC"><persName>PLEBEIANS.0.1_JC</persName></person><person xml:id="PLEBEIANS.0.2_JC"><persName>PLEBEIANS.0.2_JC</persName></person><person xml:id="PLEBEIANS.0.3_JC"><persName>PLEBEIANS.0.3_JC</persName></person><person xml:id="PLEBEIANS.0.4_JC"><persName>PLEBEIANS.0.4_JC</persName></person><person xml:id="CinnaPoet_JC"><persName>Cinna</persName></person><person xml:id="Octavius_JC"><persName>Octavius</persName></person><person xml:id="Lepidus_JC"><persName>Lepidus</persName></person><person xml:id="SOLDIERS.BRUTUS.Lucilius_JC"><persName>Lucilius</persName></person><person xml:id="Pindarus_JC"><persName>Pindarus</persName></person><person xml:id="SOLDIERS.BRUTUS.0.1_JC"><persName>SOLDIERS.BRUTUS.0.1_JC</persName></person><person xml:id="SOLDIERS.BRUTUS.0.2_JC"><persName>SOLDIERS.BRUTUS.0.2_JC</persName></person><person xml:id="SOLDIERS.BRUTUS.0.3_JC"><persName>SOLDIERS.BRUTUS.0.3_JC</persName></person><person xml:id="Poet_JC"><persName>Poet_JC</persName></person><person xml:id="SOLDIERS.BRUTUS.Messala_JC"><persName>Messala</persName></person><person xml:id="SOLDIERS.BRUTUS.Titinius_JC"><persName>Titinius</persName></person><person xml:id="SOLDIERS.BRUTUS.Varro_JC"><persName>Varro</persName></person><person xml:id="SOLDIERS.BRUTUS.Claudius_JC"><persName>Claudius</persName></person><person xml:id="Messenger_JC"><persName>Messenger_JC</persName></person><person xml:id="SOLDIERS.BRUTUS.Cato_JC"><persName>Young Cato</persName></person><person xml:id="SOLDIERS.ANTONY.0.1_JC"><persName>SOLDIERS.ANTONY.0.1_JC</persName></person><person xml:id="SOLDIERS.ANTONY.0.2_JC"><persName>SOLDIERS.ANTONY.0.2_JC</persName></person><person xml:id="SOLDIERS.BRUTUS.Clitus_JC"><persName>Clitus</persName></person><person xml:id="SOLDIERS.BRUTUS.Dardanus_JC"><persName>Dardanus</persName></person><person xml:id="SOLDIERS.BRUTUS.Volumnius_JC"><persName>Volumnius</persName></person><person xml:id="SOLDIERS.BRUTUS.Strato_JC"><persName>Strato</persName></person></listPerson></particDesc></profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="Flavius_JC">
+            <persName>Flavius</persName>
+          </person>
+          <person xml:id="COMMONERS.Carpenter_JC">
+            <persName>COMMONERS.Carpenter_JC</persName>
+          </person>
+          <person xml:id="Marullus_JC">
+            <persName>Marullus</persName>
+          </person>
+          <person xml:id="COMMONERS.Cobbler_JC">
+            <persName>COMMONERS.Cobbler_JC</persName>
+          </person>
+          <person xml:id="Caesar_JC">
+            <persName>Julius Caesar</persName>
+          </person>
+          <person xml:id="Casca_JC">
+            <persName>Casca</persName>
+          </person>
+          <person xml:id="Calphurnia_JC">
+            <persName>Calphurnia</persName>
+          </person>
+          <person xml:id="Antony_JC">
+            <persName>Mark Antony</persName>
+          </person>
+          <person xml:id="Soothsayer_JC">
+            <persName>Soothsayer_JC</persName>
+          </person>
+          <person xml:id="Brutus_JC">
+            <persName>Marcus Brutus</persName>
+          </person>
+          <person xml:id="Cassius_JC">
+            <persName>Caius Cassius</persName>
+          </person>
+          <person xml:id="Cicero_JC">
+            <persName>Cicero</persName>
+          </person>
+          <person xml:id="Cinna_JC">
+            <persName>Cinna</persName>
+          </person>
+          <person xml:id="Lucius_JC">
+            <persName>Lucius</persName>
+          </person>
+          <person xml:id="Decius_JC">
+            <persName>Decius Brutus</persName>
+          </person>
+          <person xml:id="Metellus_JC">
+            <persName>Metellus Cimber</persName>
+          </person>
+          <person xml:id="Trebonius_JC">
+            <persName>Trebonius</persName>
+          </person>
+          <person xml:id="Portia_JC">
+            <persName>Portia</persName>
+          </person>
+          <person xml:id="Ligarius_JC">
+            <persName>Caius Ligarius</persName>
+          </person>
+          <person xml:id="SERVANTS.CAESAR.1_JC">
+            <persName>SERVANTS.CAESAR.1_JC</persName>
+          </person>
+          <person xml:id="Publius_JC">
+            <persName>Publius</persName>
+          </person>
+          <person xml:id="Artemidorus_JC">
+            <persName>Artemidorus</persName>
+          </person>
+          <person xml:id="Popilius_JC">
+            <persName>Popilius Lena</persName>
+          </person>
+          <person xml:id="SERVANTS.ANTONY.1_JC">
+            <persName>SERVANTS.ANTONY.1_JC</persName>
+          </person>
+          <person xml:id="SERVANTS.OCTAVIUS.1_JC">
+            <persName>SERVANTS.OCTAVIUS.1_JC</persName>
+          </person>
+          <person xml:id="PLEBEIANS_JC">
+            <persName>First, Second, Third, and Fourth Plebeians</persName>
+          </person>
+          <person xml:id="PLEBEIANS.0.1_JC">
+            <persName>PLEBEIANS.0.1_JC</persName>
+          </person>
+          <person xml:id="PLEBEIANS.0.2_JC">
+            <persName>PLEBEIANS.0.2_JC</persName>
+          </person>
+          <person xml:id="PLEBEIANS.0.3_JC">
+            <persName>PLEBEIANS.0.3_JC</persName>
+          </person>
+          <person xml:id="PLEBEIANS.0.4_JC">
+            <persName>PLEBEIANS.0.4_JC</persName>
+          </person>
+          <person xml:id="CinnaPoet_JC">
+            <persName>Cinna</persName>
+          </person>
+          <person xml:id="Octavius_JC">
+            <persName>Octavius</persName>
+          </person>
+          <person xml:id="Lepidus_JC">
+            <persName>Lepidus</persName>
+          </person>
+          <person xml:id="SOLDIERS.BRUTUS.Lucilius_JC">
+            <persName>Lucilius</persName>
+          </person>
+          <person xml:id="Pindarus_JC">
+            <persName>Pindarus</persName>
+          </person>
+          <person xml:id="SOLDIERS.BRUTUS.0.1_JC">
+            <persName>SOLDIERS.BRUTUS.0.1_JC</persName>
+          </person>
+          <person xml:id="SOLDIERS.BRUTUS.0.2_JC">
+            <persName>SOLDIERS.BRUTUS.0.2_JC</persName>
+          </person>
+          <person xml:id="SOLDIERS.BRUTUS.0.3_JC">
+            <persName>SOLDIERS.BRUTUS.0.3_JC</persName>
+          </person>
+          <person xml:id="Poet_JC">
+            <persName>Poet_JC</persName>
+          </person>
+          <person xml:id="SOLDIERS.BRUTUS.Messala_JC">
+            <persName>Messala</persName>
+          </person>
+          <person xml:id="SOLDIERS.BRUTUS.Titinius_JC">
+            <persName>Titinius</persName>
+          </person>
+          <person xml:id="SOLDIERS.BRUTUS.Varro_JC">
+            <persName>Varro</persName>
+          </person>
+          <person xml:id="SOLDIERS.BRUTUS.Claudius_JC">
+            <persName>Claudius</persName>
+          </person>
+          <person xml:id="Messenger_JC">
+            <persName>Messenger_JC</persName>
+          </person>
+          <person xml:id="SOLDIERS.BRUTUS.Cato_JC">
+            <persName>Young Cato</persName>
+          </person>
+          <person xml:id="SOLDIERS.ANTONY.0.1_JC">
+            <persName>SOLDIERS.ANTONY.0.1_JC</persName>
+          </person>
+          <person xml:id="SOLDIERS.ANTONY.0.2_JC">
+            <persName>SOLDIERS.ANTONY.0.2_JC</persName>
+          </person>
+          <person xml:id="SOLDIERS.BRUTUS.Clitus_JC">
+            <persName>Clitus</persName>
+          </person>
+          <person xml:id="SOLDIERS.BRUTUS.Dardanus_JC">
+            <persName>Dardanus</persName>
+          </person>
+          <person xml:id="SOLDIERS.BRUTUS.Volumnius_JC">
+            <persName>Volumnius</persName>
+          </person>
+          <person xml:id="SOLDIERS.BRUTUS.Strato_JC">
+            <persName>Strato</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
   </teiHeader>
   <text>
     <front>

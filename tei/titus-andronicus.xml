@@ -69,7 +69,7 @@
     <encodingDesc>
       <projectDesc>
         <p>This version of the Folger Digital Texts uses TEI Simple to encode the Shakespeare texts edited by Barbara Mowat and Paul Werstine.  The major goal of recasting the texts in this manner is to make them interoperable with a large corpus of early modern texts derived from the EEBO-TCP transcriptions and encoded in TEI Simple with linguistic annotation.</p>
-        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are: 
+        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are:
           <list><item>Number <gi>div</gi> are replaced by unnumbered divs</item><item>Lines of verse are marked in <gi>l</gi>, tags, lines of prose in <gi>ab</gi></item><item>All xml:ids are corpuswide identifiers</item><item>Information from the participant description element <gi>particDesc</gi> in the teiHeader has been moved into  a <gi>castList</gi> element in the <gi>front</gi> element</item><item>Each spoken word in the text has been linguistically annotated with a lemma and POS tag</item></list>
         </p>
       </projectDesc>
@@ -86,7 +86,92 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    <particDesc><listPerson><person xml:id="Saturninus_Tit"><persName>Saturninus</persName></person><person xml:id="Bassianus_Tit"><persName>Bassianus</persName></person><person xml:id="Marcus_Tit"><persName>Marcus Andronicus</persName></person><person xml:id="Captain_Tit"><persName>Captain</persName></person><person xml:id="Titus_Tit"><persName>Titus Andronicus</persName></person><person xml:id="Lucius_Tit"><persName>Lucius</persName></person><person xml:id="Tamora_Tit"><persName>Tamora</persName></person><person xml:id="Chiron_Tit"><persName>Chiron</persName></person><person xml:id="Demetrius_Tit"><persName>Demetrius</persName></person><person xml:id="Lavinia_Tit"><persName>Lavinia</persName></person><person xml:id="TRIBUNES_Tit"><persName>Tribunes, Senators, Romans, Goths, Drummers, Trumpeters, Soldiers, Guards, Attendants, a black Child</persName></person><person xml:id="Mutius_Tit"><persName>Mutius</persName></person><person xml:id="Martius_Tit"><persName>Martius</persName></person><person xml:id="Quintus_Tit"><persName>Quintus</persName></person><person xml:id="Aaron_Tit"><persName>Aaron</persName></person><person xml:id="Messenger_Tit"><persName>Messenger</persName></person><person xml:id="YoungLucius_Tit"><persName>Young Lucius</persName></person><person xml:id="Nurse_Tit"><persName>Nurse</persName></person><person xml:id="Publius_Tit"><persName>Publius</persName></person><person xml:id="CountryFellow_Tit"><persName>Country Fellow</persName></person><person xml:id="Aemilius_Tit"><persName>Aemilius</persName></person><person xml:id="GOTHS.0.1_Tit"><persName>First Goth</persName></person><person xml:id="GOTHS_Tit"><persName>Tribunes, Senators, Romans, Goths, Drummers, Trumpeters, Soldiers, Guards, Attendants, a black Child</persName></person><person xml:id="GOTHS.0.2_Tit"><persName>Second Goth</persName></person><person xml:id="GOTHS.0_Tit"><persName>Tribunes, Senators, Romans, Goths, Drummers, Trumpeters, Soldiers, Guards, Attendants, a black Child</persName></person><person xml:id="ATTENDANTS_Tit"><persName>Tribunes, Senators, Romans, Goths, Drummers, Trumpeters, Soldiers, Guards, Attendants, a black Child</persName></person><person xml:id="TRIBUNES.0.1_Tit"><persName>Tribunes, Senators, Romans, Goths, Drummers, Trumpeters, Soldiers, Guards, Attendants, a black Child</persName></person></listPerson></particDesc></profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="Saturninus_Tit">
+            <persName>Saturninus</persName>
+          </person>
+          <person xml:id="Bassianus_Tit">
+            <persName>Bassianus</persName>
+          </person>
+          <person xml:id="Marcus_Tit">
+            <persName>Marcus Andronicus</persName>
+          </person>
+          <person xml:id="Captain_Tit">
+            <persName>Captain</persName>
+          </person>
+          <person xml:id="Titus_Tit">
+            <persName>Titus Andronicus</persName>
+          </person>
+          <person xml:id="Lucius_Tit">
+            <persName>Lucius</persName>
+          </person>
+          <person xml:id="Tamora_Tit">
+            <persName>Tamora</persName>
+          </person>
+          <person xml:id="Chiron_Tit">
+            <persName>Chiron</persName>
+          </person>
+          <person xml:id="Demetrius_Tit">
+            <persName>Demetrius</persName>
+          </person>
+          <person xml:id="Lavinia_Tit">
+            <persName>Lavinia</persName>
+          </person>
+          <person xml:id="TRIBUNES_Tit">
+            <persName>Tribunes, Senators, Romans, Goths, Drummers, Trumpeters, Soldiers, Guards, Attendants, a black Child</persName>
+          </person>
+          <person xml:id="Mutius_Tit">
+            <persName>Mutius</persName>
+          </person>
+          <person xml:id="Martius_Tit">
+            <persName>Martius</persName>
+          </person>
+          <person xml:id="Quintus_Tit">
+            <persName>Quintus</persName>
+          </person>
+          <person xml:id="Aaron_Tit">
+            <persName>Aaron</persName>
+          </person>
+          <person xml:id="Messenger_Tit">
+            <persName>Messenger</persName>
+          </person>
+          <person xml:id="YoungLucius_Tit">
+            <persName>Young Lucius</persName>
+          </person>
+          <person xml:id="Nurse_Tit">
+            <persName>Nurse</persName>
+          </person>
+          <person xml:id="Publius_Tit">
+            <persName>Publius</persName>
+          </person>
+          <person xml:id="CountryFellow_Tit">
+            <persName>Country Fellow</persName>
+          </person>
+          <person xml:id="Aemilius_Tit">
+            <persName>Aemilius</persName>
+          </person>
+          <person xml:id="GOTHS.0.1_Tit">
+            <persName>First Goth</persName>
+          </person>
+          <person xml:id="GOTHS_Tit">
+            <persName>Tribunes, Senators, Romans, Goths, Drummers, Trumpeters, Soldiers, Guards, Attendants, a black Child</persName>
+          </person>
+          <person xml:id="GOTHS.0.2_Tit">
+            <persName>Second Goth</persName>
+          </person>
+          <person xml:id="GOTHS.0_Tit">
+            <persName>Tribunes, Senators, Romans, Goths, Drummers, Trumpeters, Soldiers, Guards, Attendants, a black Child</persName>
+          </person>
+          <person xml:id="ATTENDANTS_Tit">
+            <persName>Tribunes, Senators, Romans, Goths, Drummers, Trumpeters, Soldiers, Guards, Attendants, a black Child</persName>
+          </person>
+          <person xml:id="TRIBUNES.0.1_Tit">
+            <persName>Tribunes, Senators, Romans, Goths, Drummers, Trumpeters, Soldiers, Guards, Attendants, a black Child</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
   </teiHeader>
   <text>
     <front>

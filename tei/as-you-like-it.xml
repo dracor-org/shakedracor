@@ -69,7 +69,7 @@
     <encodingDesc>
       <projectDesc>
         <p>This version of the Folger Digital Texts uses TEI Simple to encode the Shakespeare texts edited by Barbara Mowat and Paul Werstine.  The major goal of recasting the texts in this manner is to make them interoperable with a large corpus of early modern texts derived from the EEBO-TCP transcriptions and encoded in TEI Simple with linguistic annotation.</p>
-        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are: 
+        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are:
           <list><item>Number <gi>div</gi> are replaced by unnumbered divs</item><item>Lines of verse are marked in <gi>l</gi>, tags, lines of prose in <gi>ab</gi></item><item>All xml:ids are corpuswide identifiers</item><item>Information from the participant description element <gi>particDesc</gi> in the teiHeader has been moved into  a <gi>castList</gi> element in the <gi>front</gi> element</item><item>Each spoken word in the text has been linguistically annotated with a lemma and POS tag</item></list>
         </p>
       </projectDesc>
@@ -86,7 +86,95 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    <particDesc><listPerson><person xml:id="Orlando_AYL"><persName>Orlando</persName></person><person xml:id="Adam_AYL"><persName>Adam</persName></person><person xml:id="Oliver_AYL"><persName>Oliver</persName></person><person xml:id="Dennis_AYL"><persName>Dennis</persName></person><person xml:id="Charles_AYL"><persName>Charles</persName></person><person xml:id="Celia_AYL"><persName>Celia</persName></person><person xml:id="Rosalind_AYL"><persName>Rosalind</persName></person><person xml:id="Touchstone_AYL"><persName>Touchstone</persName></person><person xml:id="LORDS.FREDERICK.LeBeau_AYL"><persName>Le Beau</persName></person><person xml:id="DukeFrederick_AYL"><persName>Duke Frederick</persName></person><person xml:id="DukeSenior_AYL"><persName>Duke Senior</persName></person><person xml:id="LORDS.SENIOR.Amiens_AYL"><persName>Amiens</persName></person><person xml:id="LORDS.SENIOR.0.1_AYL"><persName>First Lord</persName></person><person xml:id="LORDS.SENIOR.0.2_AYL"><persName>Second Lord</persName></person><person xml:id="LORDS.FREDERICK.0.1_AYL"><persName>First Lord</persName></person><person xml:id="LORDS.FREDERICK.0.2_AYL"><persName>Second Lord</persName></person><person xml:id="Corin_AYL"><persName>Corin</persName></person><person xml:id="Silvius_AYL"><persName>Silvius</persName></person><person xml:id="Jaques_AYL"><persName>Jaques</persName></person><person xml:id="LORDS.SENIOR_AYL"><persName>Lords, Attendants, Musicians</persName></person><person xml:id="Audrey_AYL"><persName>Audrey</persName></person><person xml:id="OliverMartext_AYL"><persName>Sir Oliver Martext</persName></person><person xml:id="Phoebe_AYL"><persName>Phoebe</persName></person><person xml:id="William_AYL"><persName>William</persName></person><person xml:id="SERVANTS.1_AYL"><persName>First Page</persName></person><person xml:id="SERVANTS.2_AYL"><persName>Second Page</persName></person><person xml:id="Hymen_AYL"><persName>Hymen</persName></person><person xml:id="SecondBrother_AYL"><persName>Second Brother</persName></person></listPerson></particDesc></profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="Orlando_AYL">
+            <persName>Orlando</persName>
+          </person>
+          <person xml:id="Adam_AYL">
+            <persName>Adam</persName>
+          </person>
+          <person xml:id="Oliver_AYL">
+            <persName>Oliver</persName>
+          </person>
+          <person xml:id="Dennis_AYL">
+            <persName>Dennis</persName>
+          </person>
+          <person xml:id="Charles_AYL">
+            <persName>Charles</persName>
+          </person>
+          <person xml:id="Celia_AYL">
+            <persName>Celia</persName>
+          </person>
+          <person xml:id="Rosalind_AYL">
+            <persName>Rosalind</persName>
+          </person>
+          <person xml:id="Touchstone_AYL">
+            <persName>Touchstone</persName>
+          </person>
+          <person xml:id="LORDS.FREDERICK.LeBeau_AYL">
+            <persName>Le Beau</persName>
+          </person>
+          <person xml:id="DukeFrederick_AYL">
+            <persName>Duke Frederick</persName>
+          </person>
+          <person xml:id="DukeSenior_AYL">
+            <persName>Duke Senior</persName>
+          </person>
+          <person xml:id="LORDS.SENIOR.Amiens_AYL">
+            <persName>Amiens</persName>
+          </person>
+          <person xml:id="LORDS.SENIOR.0.1_AYL">
+            <persName>First Lord</persName>
+          </person>
+          <person xml:id="LORDS.SENIOR.0.2_AYL">
+            <persName>Second Lord</persName>
+          </person>
+          <person xml:id="LORDS.FREDERICK.0.1_AYL">
+            <persName>First Lord</persName>
+          </person>
+          <person xml:id="LORDS.FREDERICK.0.2_AYL">
+            <persName>Second Lord</persName>
+          </person>
+          <person xml:id="Corin_AYL">
+            <persName>Corin</persName>
+          </person>
+          <person xml:id="Silvius_AYL">
+            <persName>Silvius</persName>
+          </person>
+          <person xml:id="Jaques_AYL">
+            <persName>Jaques</persName>
+          </person>
+          <person xml:id="LORDS.SENIOR_AYL">
+            <persName>Lords, Attendants, Musicians</persName>
+          </person>
+          <person xml:id="Audrey_AYL">
+            <persName>Audrey</persName>
+          </person>
+          <person xml:id="OliverMartext_AYL">
+            <persName>Sir Oliver Martext</persName>
+          </person>
+          <person xml:id="Phoebe_AYL">
+            <persName>Phoebe</persName>
+          </person>
+          <person xml:id="William_AYL">
+            <persName>William</persName>
+          </person>
+          <person xml:id="SERVANTS.1_AYL">
+            <persName>First Page</persName>
+          </person>
+          <person xml:id="SERVANTS.2_AYL">
+            <persName>Second Page</persName>
+          </person>
+          <person xml:id="Hymen_AYL">
+            <persName>Hymen</persName>
+          </person>
+          <person xml:id="SecondBrother_AYL">
+            <persName>Second Brother</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
   </teiHeader>
   <text>
     <front>

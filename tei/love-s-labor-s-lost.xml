@@ -69,7 +69,7 @@
     <encodingDesc>
       <projectDesc>
         <p>This version of the Folger Digital Texts uses TEI Simple to encode the Shakespeare texts edited by Barbara Mowat and Paul Werstine.  The major goal of recasting the texts in this manner is to make them interoperable with a large corpus of early modern texts derived from the EEBO-TCP transcriptions and encoded in TEI Simple with linguistic annotation.</p>
-        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are: 
+        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are:
           <list><item>Number <gi>div</gi> are replaced by unnumbered divs</item><item>Lines of verse are marked in <gi>l</gi>, tags, lines of prose in <gi>ab</gi></item><item>All xml:ids are corpuswide identifiers</item><item>Information from the participant description element <gi>particDesc</gi> in the teiHeader has been moved into  a <gi>castList</gi> element in the <gi>front</gi> element</item><item>Each spoken word in the text has been linguistically annotated with a lemma and POS tag</item></list>
         </p>
       </projectDesc>
@@ -86,7 +86,83 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    <particDesc><listPerson><person xml:id="King_LLL"><persName>King</persName></person><person xml:id="Longaville_LLL"><persName>Longaville</persName></person><person xml:id="Dumaine_LLL"><persName>Dumaine</persName></person><person xml:id="Berowne_LLL"><persName>Berowne</persName></person><person xml:id="Dull_LLL"><persName>Dull Constable</persName><persName>Dull Constable</persName></person><person xml:id="Costard_LLL"><persName>Costard Clown Swain</persName><persName>Costard Clown Swain</persName><persName>Costard Clown Swain</persName></person><person xml:id="Armado_LLL"><persName>Armado Braggart</persName><persName>Armado Braggart</persName></person><person xml:id="Boy_LLL"><persName>Boy Page Mote</persName><persName>Boy Page Mote</persName><persName>Boy Page Mote</persName></person><person xml:id="Jaquenetta_LLL"><persName>Jaquenetta Wench</persName><persName>Jaquenetta Wench</persName></person><person xml:id="Boyet_LLL"><persName>Boyet</persName></person><person xml:id="Princess_LLL"><persName>Princess</persName></person><person xml:id="LORDS.0_LLL"><persName>Lords, Blackamoors, Musicians</persName></person><person xml:id="Maria_LLL"><persName>Maria</persName></person><person xml:id="Katherine_LLL"><persName>Katherine</persName></person><person xml:id="Rosaline_LLL"><persName>Rosaline</persName></person><person xml:id="Forester_LLL"><persName>Forester</persName></person><person xml:id="Nathaniel_LLL"><persName>Nathaniel Curate</persName><persName>Nathaniel Curate</persName></person><person xml:id="Holofernes_LLL"><persName>Holofernes Pedant</persName><persName>Holofernes Pedant</persName></person><person xml:id="Marcade_LLL"><persName>Monsieur Marcade</persName></person><person xml:id="Spring_LLL"><persName>Lords, Blackamoors, Musicians</persName></person><person xml:id="Winter_LLL"><persName>Lords, Blackamoors, Musicians</persName></person></listPerson></particDesc></profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="King_LLL">
+            <persName>King</persName>
+          </person>
+          <person xml:id="Longaville_LLL">
+            <persName>Longaville</persName>
+          </person>
+          <person xml:id="Dumaine_LLL">
+            <persName>Dumaine</persName>
+          </person>
+          <person xml:id="Berowne_LLL">
+            <persName>Berowne</persName>
+          </person>
+          <person xml:id="Dull_LLL">
+            <persName>Dull Constable</persName>
+            <persName>Dull Constable</persName>
+          </person>
+          <person xml:id="Costard_LLL">
+            <persName>Costard Clown Swain</persName>
+            <persName>Costard Clown Swain</persName>
+            <persName>Costard Clown Swain</persName>
+          </person>
+          <person xml:id="Armado_LLL">
+            <persName>Armado Braggart</persName>
+            <persName>Armado Braggart</persName>
+          </person>
+          <person xml:id="Boy_LLL">
+            <persName>Boy Page Mote</persName>
+            <persName>Boy Page Mote</persName>
+            <persName>Boy Page Mote</persName>
+          </person>
+          <person xml:id="Jaquenetta_LLL">
+            <persName>Jaquenetta Wench</persName>
+            <persName>Jaquenetta Wench</persName>
+          </person>
+          <person xml:id="Boyet_LLL">
+            <persName>Boyet</persName>
+          </person>
+          <person xml:id="Princess_LLL">
+            <persName>Princess</persName>
+          </person>
+          <person xml:id="LORDS.0_LLL">
+            <persName>Lords, Blackamoors, Musicians</persName>
+          </person>
+          <person xml:id="Maria_LLL">
+            <persName>Maria</persName>
+          </person>
+          <person xml:id="Katherine_LLL">
+            <persName>Katherine</persName>
+          </person>
+          <person xml:id="Rosaline_LLL">
+            <persName>Rosaline</persName>
+          </person>
+          <person xml:id="Forester_LLL">
+            <persName>Forester</persName>
+          </person>
+          <person xml:id="Nathaniel_LLL">
+            <persName>Nathaniel Curate</persName>
+            <persName>Nathaniel Curate</persName>
+          </person>
+          <person xml:id="Holofernes_LLL">
+            <persName>Holofernes Pedant</persName>
+            <persName>Holofernes Pedant</persName>
+          </person>
+          <person xml:id="Marcade_LLL">
+            <persName>Monsieur Marcade</persName>
+          </person>
+          <person xml:id="Spring_LLL">
+            <persName>Lords, Blackamoors, Musicians</persName>
+          </person>
+          <person xml:id="Winter_LLL">
+            <persName>Lords, Blackamoors, Musicians</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
   </teiHeader>
   <text>
     <front>

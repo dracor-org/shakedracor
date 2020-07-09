@@ -69,7 +69,7 @@
     <encodingDesc>
       <projectDesc>
         <p>This version of the Folger Digital Texts uses TEI Simple to encode the Shakespeare texts edited by Barbara Mowat and Paul Werstine.  The major goal of recasting the texts in this manner is to make them interoperable with a large corpus of early modern texts derived from the EEBO-TCP transcriptions and encoded in TEI Simple with linguistic annotation.</p>
-        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are: 
+        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are:
           <list><item>Number <gi>div</gi> are replaced by unnumbered divs</item><item>Lines of verse are marked in <gi>l</gi>, tags, lines of prose in <gi>ab</gi></item><item>All xml:ids are corpuswide identifiers</item><item>Information from the participant description element <gi>particDesc</gi> in the teiHeader has been moved into  a <gi>castList</gi> element in the <gi>front</gi> element</item><item>Each spoken word in the text has been linguistically annotated with a lemma and POS tag</item></list>
         </p>
       </projectDesc>
@@ -86,7 +86,216 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    <particDesc><listPerson><person xml:id="Poet_Tim"><persName>Poet</persName></person><person xml:id="Painter_Tim"><persName>Painter</persName></person><person xml:id="Merchant_Tim"><persName>Merchant</persName></person><person xml:id="Jeweler_Tim"><persName>Jeweler</persName></person><person xml:id="Timon_Tim"><persName>Timon</persName></person><person xml:id="MESSENGERS.X.1_Tim"><persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName></person><person xml:id="OldMan_Tim"><persName>Old Athenian</persName></person><person xml:id="SERVANTS.TIMON.Lucilius_Tim"><persName>Lucilius</persName></person><person xml:id="Apemantus_Tim"><persName>Apemantus</persName></person><person xml:id="MESSENGERS.X.2_Tim"><persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName></person><person xml:id="Alcibiades_Tim"><persName>Alcibiades</persName></person><person xml:id="LORDS.0.1_Tim"><persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName></person><person xml:id="LORDS.0.2_Tim"><persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName></person><person xml:id="FRIENDS.Ventidius_Tim"><persName>Ventidius</persName></person><person xml:id="LORDS.0.3_Tim"><persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName></person><person xml:id="SERVANTS.TIMON.X.1_Tim"><persName>SERVANTS.TIMON.X.1_Tim</persName></person><person xml:id="Cupid_Tim"><persName>“Cupid” and other Maskers (as Amazons)</persName></person><person xml:id="FRIENDS.Lucius_Tim"><persName>Lucius</persName></person><person xml:id="LADIES.0.1_Tim"><persName>“Cupid” and other Maskers (as Amazons)</persName></person><person xml:id="LADIES_Tim"><persName>“Cupid” and other Maskers (as Amazons)</persName></person><person xml:id="Flavius_Tim"><persName>Flavius</persName></person><person xml:id="ATTENDANTS.TIMON.0.1_Tim"><persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName></person><person xml:id="SERVANTS.TIMON.1_Tim"><persName>SERVANTS.TIMON.1_Tim</persName></person><person xml:id="SERVANTS.TIMON.2_Tim"><persName>SERVANTS.TIMON.2_Tim</persName></person><person xml:id="SERVANTS.TIMON.3_Tim"><persName>SERVANTS.TIMON.3_Tim</persName></person><person xml:id="LORDS_Tim"><persName>Senators Lords</persName><persName>Senators Lords</persName></person><person xml:id="SENATORS.X_Tim"><persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName></person><person xml:id="SERVANTS.Caphis_Tim"><persName>Caphis</persName></person><person xml:id="SERVANTS.VARRO.1_Tim"><persName>servants of Timon’s creditors</persName></person><person xml:id="SERVANTS.ISIDORE.1_Tim"><persName>Isidore’s Man</persName></person><person xml:id="Fool_Tim"><persName>Fool</persName></person><person xml:id="SERVANTS.Page_Tim"><persName>Page</persName></person><person xml:id="SERVANTS.TIMON.Flaminius_Tim"><persName>Flaminius</persName></person><person xml:id="SERVANTS.TIMON.Servilius_Tim"><persName>Servilius</persName></person><person xml:id="SERVANTS.TIMON.X.2_Tim"><persName>SERVANTS.TIMON.X.2_Tim</persName></person><person xml:id="SERVANTS.LUCULLUS.1_Tim"><persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName></person><person xml:id="FRIENDS.Lucullus_Tim"><persName>Lucullus</persName></person><person xml:id="STRANGERS.1_Tim"><persName>STRANGERS.1_Tim</persName></person><person xml:id="STRANGERS.2_Tim"><persName>STRANGERS.2_Tim</persName></person><person xml:id="STRANGERS.3_Tim"><persName>STRANGERS.3_Tim</persName></person><person xml:id="FRIENDS.Sempronius_Tim"><persName>Sempronius</persName></person><person xml:id="SERVANTS.Titus_Tim"><persName>Titus</persName></person><person xml:id="SERVANTS.Hortensius_Tim"><persName>Hortensius</persName></person><person xml:id="SERVANTS.LUCIUS.1_Tim"><persName>Lucius’ Man</persName></person><person xml:id="SERVANTS.Philotus_Tim"><persName>Philotus</persName></person><person xml:id="SERVANTS.VARRO.2_Tim"><persName>servants of Timon’s creditors</persName></person><person xml:id="SENATORS.0.1_Tim"><persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName></person><person xml:id="SENATORS.0.2_Tim"><persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName></person><person xml:id="SENATORS.0.3_Tim"><persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName></person><person xml:id="FRIENDS.0.1_Tim"><persName>FRIENDS.0.1_Tim</persName></person><person xml:id="FRIENDS.0.2_Tim"><persName>FRIENDS.0.2_Tim</persName></person><person xml:id="FRIENDS.0.3_Tim"><persName>FRIENDS.0.3_Tim</persName></person><person xml:id="FRIENDS.0_Tim"><persName>FRIENDS.0_Tim</persName></person><person xml:id="FRIENDS.0.4_Tim"><persName>FRIENDS.0.4_Tim</persName></person><person xml:id="SERVANTS.TIMON.0.1_Tim"><persName>SERVANTS.TIMON.0.1_Tim</persName></person><person xml:id="SERVANTS.TIMON.0.2_Tim"><persName>SERVANTS.TIMON.0.2_Tim</persName></person><person xml:id="SERVANTS.TIMON.0.3_Tim"><persName>SERVANTS.TIMON.0.3_Tim</persName></person><person xml:id="Phrynia_Tim"><persName>Phrynia</persName></person><person xml:id="Timandra_Tim"><persName>Timandra</persName></person><person xml:id="BANDITS.1_Tim"><persName>BANDITS.1_Tim</persName></person><person xml:id="BANDITS.2_Tim"><persName>BANDITS.2_Tim</persName></person><person xml:id="BANDITS.3_Tim"><persName>BANDITS.3_Tim</persName></person><person xml:id="SENATORS.1_Tim"><persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName></person><person xml:id="SENATORS.2_Tim"><persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName></person><person xml:id="SENATORS.3_Tim"><persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName></person><person xml:id="MESSENGERS.X.3_Tim"><persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName></person><person xml:id="SENATORS.4_Tim"><persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName></person><person xml:id="SOLDIERS.1_Tim"><persName>Soldier</persName></person></listPerson></particDesc></profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="Poet_Tim">
+            <persName>Poet</persName>
+          </person>
+          <person xml:id="Painter_Tim">
+            <persName>Painter</persName>
+          </person>
+          <person xml:id="Merchant_Tim">
+            <persName>Merchant</persName>
+          </person>
+          <person xml:id="Jeweler_Tim">
+            <persName>Jeweler</persName>
+          </person>
+          <person xml:id="Timon_Tim">
+            <persName>Timon</persName>
+          </person>
+          <person xml:id="MESSENGERS.X.1_Tim">
+            <persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName>
+          </person>
+          <person xml:id="OldMan_Tim">
+            <persName>Old Athenian</persName>
+          </person>
+          <person xml:id="SERVANTS.TIMON.Lucilius_Tim">
+            <persName>Lucilius</persName>
+          </person>
+          <person xml:id="Apemantus_Tim">
+            <persName>Apemantus</persName>
+          </person>
+          <person xml:id="MESSENGERS.X.2_Tim">
+            <persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName>
+          </person>
+          <person xml:id="Alcibiades_Tim">
+            <persName>Alcibiades</persName>
+          </person>
+          <person xml:id="LORDS.0.1_Tim">
+            <persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName>
+          </person>
+          <person xml:id="LORDS.0.2_Tim">
+            <persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName>
+          </person>
+          <person xml:id="FRIENDS.Ventidius_Tim">
+            <persName>Ventidius</persName>
+          </person>
+          <person xml:id="LORDS.0.3_Tim">
+            <persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName>
+          </person>
+          <person xml:id="SERVANTS.TIMON.X.1_Tim">
+            <persName>SERVANTS.TIMON.X.1_Tim</persName>
+          </person>
+          <person xml:id="Cupid_Tim">
+            <persName>“Cupid” and other Maskers (as Amazons)</persName>
+          </person>
+          <person xml:id="FRIENDS.Lucius_Tim">
+            <persName>Lucius</persName>
+          </person>
+          <person xml:id="LADIES.0.1_Tim">
+            <persName>“Cupid” and other Maskers (as Amazons)</persName>
+          </person>
+          <person xml:id="LADIES_Tim">
+            <persName>“Cupid” and other Maskers (as Amazons)</persName>
+          </person>
+          <person xml:id="Flavius_Tim">
+            <persName>Flavius</persName>
+          </person>
+          <person xml:id="ATTENDANTS.TIMON.0.1_Tim">
+            <persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName>
+          </person>
+          <person xml:id="SERVANTS.TIMON.1_Tim">
+            <persName>SERVANTS.TIMON.1_Tim</persName>
+          </person>
+          <person xml:id="SERVANTS.TIMON.2_Tim">
+            <persName>SERVANTS.TIMON.2_Tim</persName>
+          </person>
+          <person xml:id="SERVANTS.TIMON.3_Tim">
+            <persName>SERVANTS.TIMON.3_Tim</persName>
+          </person>
+          <person xml:id="LORDS_Tim">
+            <persName>Senators Lords</persName>
+            <persName>Senators Lords</persName>
+          </person>
+          <person xml:id="SENATORS.X_Tim">
+            <persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName>
+          </person>
+          <person xml:id="SERVANTS.Caphis_Tim">
+            <persName>Caphis</persName>
+          </person>
+          <person xml:id="SERVANTS.VARRO.1_Tim">
+            <persName>servants of Timon’s creditors</persName>
+          </person>
+          <person xml:id="SERVANTS.ISIDORE.1_Tim">
+            <persName>Isidore’s Man</persName>
+          </person>
+          <person xml:id="Fool_Tim">
+            <persName>Fool</persName>
+          </person>
+          <person xml:id="SERVANTS.Page_Tim">
+            <persName>Page</persName>
+          </person>
+          <person xml:id="SERVANTS.TIMON.Flaminius_Tim">
+            <persName>Flaminius</persName>
+          </person>
+          <person xml:id="SERVANTS.TIMON.Servilius_Tim">
+            <persName>Servilius</persName>
+          </person>
+          <person xml:id="SERVANTS.TIMON.X.2_Tim">
+            <persName>SERVANTS.TIMON.X.2_Tim</persName>
+          </person>
+          <person xml:id="SERVANTS.LUCULLUS.1_Tim">
+            <persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName>
+          </person>
+          <person xml:id="FRIENDS.Lucullus_Tim">
+            <persName>Lucullus</persName>
+          </person>
+          <person xml:id="STRANGERS.1_Tim">
+            <persName>STRANGERS.1_Tim</persName>
+          </person>
+          <person xml:id="STRANGERS.2_Tim">
+            <persName>STRANGERS.2_Tim</persName>
+          </person>
+          <person xml:id="STRANGERS.3_Tim">
+            <persName>STRANGERS.3_Tim</persName>
+          </person>
+          <person xml:id="FRIENDS.Sempronius_Tim">
+            <persName>Sempronius</persName>
+          </person>
+          <person xml:id="SERVANTS.Titus_Tim">
+            <persName>Titus</persName>
+          </person>
+          <person xml:id="SERVANTS.Hortensius_Tim">
+            <persName>Hortensius</persName>
+          </person>
+          <person xml:id="SERVANTS.LUCIUS.1_Tim">
+            <persName>Lucius’ Man</persName>
+          </person>
+          <person xml:id="SERVANTS.Philotus_Tim">
+            <persName>Philotus</persName>
+          </person>
+          <person xml:id="SERVANTS.VARRO.2_Tim">
+            <persName>servants of Timon’s creditors</persName>
+          </person>
+          <person xml:id="SENATORS.0.1_Tim">
+            <persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName>
+          </person>
+          <person xml:id="SENATORS.0.2_Tim">
+            <persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName>
+          </person>
+          <person xml:id="SENATORS.0.3_Tim">
+            <persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName>
+          </person>
+          <person xml:id="FRIENDS.0.1_Tim">
+            <persName>FRIENDS.0.1_Tim</persName>
+          </person>
+          <person xml:id="FRIENDS.0.2_Tim">
+            <persName>FRIENDS.0.2_Tim</persName>
+          </person>
+          <person xml:id="FRIENDS.0.3_Tim">
+            <persName>FRIENDS.0.3_Tim</persName>
+          </person>
+          <person xml:id="FRIENDS.0_Tim">
+            <persName>FRIENDS.0_Tim</persName>
+          </person>
+          <person xml:id="FRIENDS.0.4_Tim">
+            <persName>FRIENDS.0.4_Tim</persName>
+          </person>
+          <person xml:id="SERVANTS.TIMON.0.1_Tim">
+            <persName>SERVANTS.TIMON.0.1_Tim</persName>
+          </person>
+          <person xml:id="SERVANTS.TIMON.0.2_Tim">
+            <persName>SERVANTS.TIMON.0.2_Tim</persName>
+          </person>
+          <person xml:id="SERVANTS.TIMON.0.3_Tim">
+            <persName>SERVANTS.TIMON.0.3_Tim</persName>
+          </person>
+          <person xml:id="Phrynia_Tim">
+            <persName>Phrynia</persName>
+          </person>
+          <person xml:id="Timandra_Tim">
+            <persName>Timandra</persName>
+          </person>
+          <person xml:id="BANDITS.1_Tim">
+            <persName>BANDITS.1_Tim</persName>
+          </person>
+          <person xml:id="BANDITS.2_Tim">
+            <persName>BANDITS.2_Tim</persName>
+          </person>
+          <person xml:id="BANDITS.3_Tim">
+            <persName>BANDITS.3_Tim</persName>
+          </person>
+          <person xml:id="SENATORS.1_Tim">
+            <persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName>
+          </person>
+          <person xml:id="SENATORS.2_Tim">
+            <persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName>
+          </person>
+          <person xml:id="SENATORS.3_Tim">
+            <persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName>
+          </person>
+          <person xml:id="MESSENGERS.X.3_Tim">
+            <persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName>
+          </person>
+          <person xml:id="SENATORS.4_Tim">
+            <persName>Soldiers, Servants, Messengers, Attendants, Musicians</persName>
+          </person>
+          <person xml:id="SOLDIERS.1_Tim">
+            <persName>Soldier</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
   </teiHeader>
   <text>
     <front>

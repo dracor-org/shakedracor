@@ -69,7 +69,7 @@
     <encodingDesc>
       <projectDesc>
         <p>This version of the Folger Digital Texts uses TEI Simple to encode the Shakespeare texts edited by Barbara Mowat and Paul Werstine.  The major goal of recasting the texts in this manner is to make them interoperable with a large corpus of early modern texts derived from the EEBO-TCP transcriptions and encoded in TEI Simple with linguistic annotation.</p>
-        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are: 
+        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are:
           <list><item>Number <gi>div</gi> are replaced by unnumbered divs</item><item>Lines of verse are marked in <gi>l</gi>, tags, lines of prose in <gi>ab</gi></item><item>All xml:ids are corpuswide identifiers</item><item>Information from the participant description element <gi>particDesc</gi> in the teiHeader has been moved into  a <gi>castList</gi> element in the <gi>front</gi> element</item><item>Each spoken word in the text has been linguistically annotated with a lemma and POS tag</item></list>
         </p>
       </projectDesc>
@@ -86,7 +86,62 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    <particDesc><listPerson><person xml:id="Valentine_TGV"><persName>Valentine</persName></person><person xml:id="Proteus_TGV"><persName>Proteus</persName></person><person xml:id="Speed_TGV"><persName>Speed</persName></person><person xml:id="Julia_TGV"><persName>Julia</persName></person><person xml:id="Lucetta_TGV"><persName>Lucetta</persName></person><person xml:id="Antonio_TGV"><persName>Antonio</persName></person><person xml:id="Pantino_TGV"><persName>Pantino</persName></person><person xml:id="Sylvia_TGV"><persName>Sylvia</persName></person><person xml:id="Lance_TGV"><persName>Lance</persName></person><person xml:id="Thurio_TGV"><persName>Thurio</persName></person><person xml:id="Duke_TGV"><persName>Duke</persName></person><person xml:id="SERVANTS.1_TGV"><persName>SERVANTS.1_TGV</persName></person><person xml:id="OUTLAWS.1_TGV"><persName>OUTLAWS.1_TGV</persName></person><person xml:id="OUTLAWS.2_TGV"><persName>OUTLAWS.2_TGV</persName></person><person xml:id="OUTLAWS.3_TGV"><persName>OUTLAWS.3_TGV</persName></person><person xml:id="Host_TGV"><persName>Host</persName></person><person xml:id="Eglamour_TGV"><persName>Eglamour</persName></person></listPerson></particDesc></profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="Valentine_TGV">
+            <persName>Valentine</persName>
+          </person>
+          <person xml:id="Proteus_TGV">
+            <persName>Proteus</persName>
+          </person>
+          <person xml:id="Speed_TGV">
+            <persName>Speed</persName>
+          </person>
+          <person xml:id="Julia_TGV">
+            <persName>Julia</persName>
+          </person>
+          <person xml:id="Lucetta_TGV">
+            <persName>Lucetta</persName>
+          </person>
+          <person xml:id="Antonio_TGV">
+            <persName>Antonio</persName>
+          </person>
+          <person xml:id="Pantino_TGV">
+            <persName>Pantino</persName>
+          </person>
+          <person xml:id="Sylvia_TGV">
+            <persName>Sylvia</persName>
+          </person>
+          <person xml:id="Lance_TGV">
+            <persName>Lance</persName>
+          </person>
+          <person xml:id="Thurio_TGV">
+            <persName>Thurio</persName>
+          </person>
+          <person xml:id="Duke_TGV">
+            <persName>Duke</persName>
+          </person>
+          <person xml:id="SERVANTS.1_TGV">
+            <persName>SERVANTS.1_TGV</persName>
+          </person>
+          <person xml:id="OUTLAWS.1_TGV">
+            <persName>OUTLAWS.1_TGV</persName>
+          </person>
+          <person xml:id="OUTLAWS.2_TGV">
+            <persName>OUTLAWS.2_TGV</persName>
+          </person>
+          <person xml:id="OUTLAWS.3_TGV">
+            <persName>OUTLAWS.3_TGV</persName>
+          </person>
+          <person xml:id="Host_TGV">
+            <persName>Host</persName>
+          </person>
+          <person xml:id="Eglamour_TGV">
+            <persName>Eglamour</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
   </teiHeader>
   <text>
     <front>

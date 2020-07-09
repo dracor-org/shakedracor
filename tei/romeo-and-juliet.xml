@@ -69,7 +69,7 @@
     <encodingDesc>
       <projectDesc>
         <p>This version of the Folger Digital Texts uses TEI Simple to encode the Shakespeare texts edited by Barbara Mowat and Paul Werstine.  The major goal of recasting the texts in this manner is to make them interoperable with a large corpus of early modern texts derived from the EEBO-TCP transcriptions and encoded in TEI Simple with linguistic annotation.</p>
-        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are: 
+        <p>For a full description of the encoding practices of the Folger Digital Texts consult their <gi>encodingDesc</gi> section. This version is completely faithful to the readings, orthogrgraphy, and punctuation of the source text. It uses a different XML encoding scheme, with occasional losses in expressiveness. The major differences are:
           <list><item>Number <gi>div</gi> are replaced by unnumbered divs</item><item>Lines of verse are marked in <gi>l</gi>, tags, lines of prose in <gi>ab</gi></item><item>All xml:ids are corpuswide identifiers</item><item>Information from the participant description element <gi>particDesc</gi> in the teiHeader has been moved into  a <gi>castList</gi> element in the <gi>front</gi> element</item><item>Each spoken word in the text has been linguistically annotated with a lemma and POS tag</item></list>
         </p>
       </projectDesc>
@@ -86,7 +86,125 @@
         <language ident="la">Latin</language>
         <language ident="es">Spanish</language>
       </langUsage>
-    <particDesc><listPerson><person xml:id="Chorus_Rom"><persName>Chorus</persName></person><person xml:id="SERVANTS.CAPULET.Sampson_Rom"><persName>Sampson</persName></person><person xml:id="SERVANTS.CAPULET.Gregory_Rom"><persName>Gregory</persName></person><person xml:id="SERVANTS.MONTAGUE.Abram_Rom"><persName>Abram</persName></person><person xml:id="Benvolio_Rom"><persName>Benvolio</persName></person><person xml:id="Tybalt_Rom"><persName>Tybalt</persName></person><person xml:id="CITIZENS_Rom"><persName>Three or four Citizens</persName></person><person xml:id="Capulet_Rom"><persName>Capulet</persName></person><person xml:id="LadyCapulet_Rom"><persName>Lady Capulet</persName></person><person xml:id="Montague_Rom"><persName>Montague</persName></person><person xml:id="LadyMontague_Rom"><persName>Lady Montague</persName></person><person xml:id="PrinceEscalus_Rom"><persName>Escalus</persName></person><person xml:id="Romeo_Rom"><persName>Romeo</persName></person><person xml:id="Paris_Rom"><persName>Paris</persName></person><person xml:id="SERVANTS.CAPULET.X.1_Rom"><persName>SERVANTS.CAPULET.X.1_Rom</persName></person><person xml:id="Nurse_Rom"><persName>Nurse</persName></person><person xml:id="Juliet_Rom"><persName>Juliet</persName></person><person xml:id="SERVANTS.CAPULET.X.2_Rom"><persName>SERVANTS.CAPULET.X.2_Rom</persName></person><person xml:id="Mercutio_Rom"><persName>Mercutio</persName></person><person xml:id="SERVANTS.CAPULET.0.1_Rom"><persName>SERVANTS.CAPULET.0.1_Rom</persName></person><person xml:id="SERVANTS.CAPULET.0.2_Rom"><persName>SERVANTS.CAPULET.0.2_Rom</persName></person><person xml:id="SERVANTS.CAPULET.0.3_Rom"><persName>SERVANTS.CAPULET.0.3_Rom</persName></person><person xml:id="Cousin_Rom"><persName>Cousin_Rom</persName></person><person xml:id="SERVANTS.CAPULET.0_Rom"><persName>SERVANTS.CAPULET.0_Rom</persName></person><person xml:id="FriarLawrence_Rom"><persName>Friar Lawrence</persName></person><person xml:id="SERVANTS.CAPULET.Peter_Rom"><persName>Peter</persName></person><person xml:id="Petruchio_Rom"><persName>Petruchio</persName></person><person xml:id="CITIZENS.0.1_Rom"><persName>CITIZENS.0.1_Rom</persName></person><person xml:id="MUSICIANS.0.1_Rom"><persName>MUSICIANS.0.1_Rom</persName></person><person xml:id="MUSICIANS.0.2_Rom"><persName>MUSICIANS.0.2_Rom</persName></person><person xml:id="MUSICIANS.0.3_Rom"><persName>MUSICIANS.0.3_Rom</persName></person><person xml:id="SERVANTS.MONTAGUE.Balthasar_Rom"><persName>Balthasar</persName></person><person xml:id="Apothecary_Rom"><persName>Apothecary</persName></person><person xml:id="FriarJohn_Rom"><persName>Friar John</persName></person><person xml:id="SERVANTS.PARIS.1_Rom"><persName>SERVANTS.PARIS.1_Rom</persName></person><person xml:id="WATCHMEN.0.1_Rom"><persName>WATCHMEN.0.1_Rom</persName></person><person xml:id="WATCHMEN.0.2_Rom"><persName>WATCHMEN.0.2_Rom</persName></person><person xml:id="WATCHMEN.0.3_Rom"><persName>WATCHMEN.0.3_Rom</persName></person></listPerson></particDesc></profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="Chorus_Rom">
+            <persName>Chorus</persName>
+          </person>
+          <person xml:id="SERVANTS.CAPULET.Sampson_Rom">
+            <persName>Sampson</persName>
+          </person>
+          <person xml:id="SERVANTS.CAPULET.Gregory_Rom">
+            <persName>Gregory</persName>
+          </person>
+          <person xml:id="SERVANTS.MONTAGUE.Abram_Rom">
+            <persName>Abram</persName>
+          </person>
+          <person xml:id="Benvolio_Rom">
+            <persName>Benvolio</persName>
+          </person>
+          <person xml:id="Tybalt_Rom">
+            <persName>Tybalt</persName>
+          </person>
+          <person xml:id="CITIZENS_Rom">
+            <persName>Three or four Citizens</persName>
+          </person>
+          <person xml:id="Capulet_Rom">
+            <persName>Capulet</persName>
+          </person>
+          <person xml:id="LadyCapulet_Rom">
+            <persName>Lady Capulet</persName>
+          </person>
+          <person xml:id="Montague_Rom">
+            <persName>Montague</persName>
+          </person>
+          <person xml:id="LadyMontague_Rom">
+            <persName>Lady Montague</persName>
+          </person>
+          <person xml:id="PrinceEscalus_Rom">
+            <persName>Escalus</persName>
+          </person>
+          <person xml:id="Romeo_Rom">
+            <persName>Romeo</persName>
+          </person>
+          <person xml:id="Paris_Rom">
+            <persName>Paris</persName>
+          </person>
+          <person xml:id="SERVANTS.CAPULET.X.1_Rom">
+            <persName>SERVANTS.CAPULET.X.1_Rom</persName>
+          </person>
+          <person xml:id="Nurse_Rom">
+            <persName>Nurse</persName>
+          </person>
+          <person xml:id="Juliet_Rom">
+            <persName>Juliet</persName>
+          </person>
+          <person xml:id="SERVANTS.CAPULET.X.2_Rom">
+            <persName>SERVANTS.CAPULET.X.2_Rom</persName>
+          </person>
+          <person xml:id="Mercutio_Rom">
+            <persName>Mercutio</persName>
+          </person>
+          <person xml:id="SERVANTS.CAPULET.0.1_Rom">
+            <persName>SERVANTS.CAPULET.0.1_Rom</persName>
+          </person>
+          <person xml:id="SERVANTS.CAPULET.0.2_Rom">
+            <persName>SERVANTS.CAPULET.0.2_Rom</persName>
+          </person>
+          <person xml:id="SERVANTS.CAPULET.0.3_Rom">
+            <persName>SERVANTS.CAPULET.0.3_Rom</persName>
+          </person>
+          <person xml:id="Cousin_Rom">
+            <persName>Cousin_Rom</persName>
+          </person>
+          <person xml:id="SERVANTS.CAPULET.0_Rom">
+            <persName>SERVANTS.CAPULET.0_Rom</persName>
+          </person>
+          <person xml:id="FriarLawrence_Rom">
+            <persName>Friar Lawrence</persName>
+          </person>
+          <person xml:id="SERVANTS.CAPULET.Peter_Rom">
+            <persName>Peter</persName>
+          </person>
+          <person xml:id="Petruchio_Rom">
+            <persName>Petruchio</persName>
+          </person>
+          <person xml:id="CITIZENS.0.1_Rom">
+            <persName>CITIZENS.0.1_Rom</persName>
+          </person>
+          <person xml:id="MUSICIANS.0.1_Rom">
+            <persName>MUSICIANS.0.1_Rom</persName>
+          </person>
+          <person xml:id="MUSICIANS.0.2_Rom">
+            <persName>MUSICIANS.0.2_Rom</persName>
+          </person>
+          <person xml:id="MUSICIANS.0.3_Rom">
+            <persName>MUSICIANS.0.3_Rom</persName>
+          </person>
+          <person xml:id="SERVANTS.MONTAGUE.Balthasar_Rom">
+            <persName>Balthasar</persName>
+          </person>
+          <person xml:id="Apothecary_Rom">
+            <persName>Apothecary</persName>
+          </person>
+          <person xml:id="FriarJohn_Rom">
+            <persName>Friar John</persName>
+          </person>
+          <person xml:id="SERVANTS.PARIS.1_Rom">
+            <persName>SERVANTS.PARIS.1_Rom</persName>
+          </person>
+          <person xml:id="WATCHMEN.0.1_Rom">
+            <persName>WATCHMEN.0.1_Rom</persName>
+          </person>
+          <person xml:id="WATCHMEN.0.2_Rom">
+            <persName>WATCHMEN.0.2_Rom</persName>
+          </person>
+          <person xml:id="WATCHMEN.0.3_Rom">
+            <persName>WATCHMEN.0.3_Rom</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
   </teiHeader>
   <text>
     <front>
