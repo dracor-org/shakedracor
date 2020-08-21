@@ -1,1 +1,0 @@
-Derived from the [Folger Shakespeare Library](https://shakespeare.folger.edu/). Enhancements documented in our [README at GitHub](https://github.com/dracor-org/shakedracor). Licenced under [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/deed.en_US).

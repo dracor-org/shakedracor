@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Shakespeare Drama Corpus</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>DraCor</publisher>
+        <idno type="URI" xml:base="https://dracor.org/">shake</idno>
+        <idno type="repo">https://github.com/dracor-org/shakedracor</idno>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/3.0/deed.en_US">
+            CC BY-NC 3.0
+          </licence>
+        </availability>
+      </publicationStmt>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          Derived from the <ref target="https://shakespeare.folger.edu/">Folger
+          Shakespeare Library</ref>. Enhancements documented in our
+          <ref target="https://github.com/dracor-org/shakedracor">README at
+          GitHub</ref>.
+        </p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+</teiCorpus>
