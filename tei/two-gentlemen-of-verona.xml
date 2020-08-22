@@ -88,55 +88,55 @@
       </langUsage>
       <particDesc>
         <listPerson>
-          <person xml:id="$2" sex="$1">
+          <person xml:id="Valentine_TGV" sex="MALE">
             <persName>Valentine</persName>
           </person>
-          <person xml:id="$2" sex="$1">
+          <person xml:id="Proteus_TGV" sex="MALE">
             <persName>Proteus</persName>
           </person>
-          <person xml:id="$2" sex="$1">
+          <person xml:id="Speed_TGV" sex="MALE">
             <persName>Speed</persName>
           </person>
-          <person xml:id="$2" sex="$1">
+          <person xml:id="Julia_TGV" sex="FEMALE">
             <persName>Julia</persName>
           </person>
-          <person xml:id="$2" sex="$1">
+          <person xml:id="Lucetta_TGV" sex="FEMALE">
             <persName>Lucetta</persName>
           </person>
-          <person xml:id="$2" sex="$1">
+          <person xml:id="Antonio_TGV" sex="MALE">
             <persName>Antonio</persName>
           </person>
-          <person xml:id="$2" sex="$1">
+          <person xml:id="Pantino_TGV" sex="MALE">
             <persName>Pantino</persName>
           </person>
-          <person xml:id="$2" sex="$1">
+          <person xml:id="Sylvia_TGV" sex="FEMALE">
             <persName>Sylvia</persName>
           </person>
-          <person xml:id="$2" sex="$1">
+          <person xml:id="Lance_TGV" sex="MALE">
             <persName>Lance</persName>
           </person>
-          <person xml:id="$2" sex="$1">
+          <person xml:id="Thurio_TGV" sex="MALE">
             <persName>Thurio</persName>
           </person>
-          <person xml:id="$2" sex="$1">
+          <person xml:id="Duke_TGV" sex="MALE">
             <persName>Duke</persName>
           </person>
-          <person xml:id="$2" sex="$1">
-            <persName>SERVANTS.1_TGV</persName>
+          <person xml:id="SERVANTS.1_TGV" sex="MALE">
+            <persName>Servants</persName>
           </person>
-          <person xml:id="$2" sex="$1">
-            <persName>OUTLAWS.1_TGV</persName>
+          <person xml:id="OUTLAWS.1_TGV" sex="MALE">
+            <persName>Outlaws 1</persName>
           </person>
-          <person xml:id="$2" sex="$1">
-            <persName>OUTLAWS.2_TGV</persName>
+          <person xml:id="OUTLAWS.2_TGV" sex="MALE">
+            <persName>Outlaws 2</persName>
           </person>
-          <person xml:id="$2" sex="$1">
-            <persName>OUTLAWS.3_TGV</persName>
+          <person xml:id="OUTLAWS.3_TGV" sex="MALE">
+            <persName>Outlaws 3</persName>
           </person>
-          <person xml:id="$2" sex="$1">
+          <person xml:id="Host_TGV" sex="MALE">
             <persName>Host</persName>
           </person>
-          <person xml:id="$2" sex="$1">
+          <person xml:id="Eglamour_TGV" sex="MALE">
             <persName>Eglamour</persName>
           </person>
         </listPerson>
