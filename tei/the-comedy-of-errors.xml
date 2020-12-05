@@ -30,7 +30,7 @@
           <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
         </availability>
         <date>October, 2017</date>
-        <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q506505</idno>
+        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q506505</idno>
         <idno type="dracor" xml:base="https://dracor.org/id/">shake000005</idno>
       </publicationStmt>
       <sourceDesc>
