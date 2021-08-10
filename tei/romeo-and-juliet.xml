@@ -103,7 +103,7 @@
           <person xml:id="Benvolio_Rom" sex="MALE">
             <persName>Benvolio</persName>
           </person>
-          <person xml:id="Tybalt_Rom" sex="FEMALE">
+          <person xml:id="Tybalt_Rom" sex="MALE">
             <persName>Tybalt</persName>
           </person>
           <personGrp xml:id="CITIZENS_Rom" sex="UNKNOWN">
