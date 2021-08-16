@@ -3,7 +3,13 @@
     <fileDesc>
       <titleStmt>
         <title>The Merchant of Venice</title>
-        <author key="wikidata:Q692">William Shakespeare</author>
+        <author>
+          <persName>
+            <forename>William</forename>
+            <surname>Shakespeare</surname>
+          </persName>
+          <idno type="wikidata">Q692</idno>
+        </author>
         <editor xml:id="BAM">Barbara A. Mowat</editor>
         <editor xml:id="PW">Paul Werstine</editor>
         <respStmt>
