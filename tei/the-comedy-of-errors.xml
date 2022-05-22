@@ -37,7 +37,6 @@
           <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
         </availability>
         <date>October, 2017</date>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q506505</idno>
         <idno type="dracor" xml:base="https://dracor.org/id/">shake000005</idno>
       </publicationStmt>
       <sourceDesc>
@@ -71,11 +70,6 @@
             <date>October, 2017</date>
           </publicationStmt>
         </biblFull>
-        <bibl type="originalSource">
-          <date type="print"/>
-          <date type="premiere"/>
-          <date type="written" when="1594"/>
-        </bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -168,6 +162,14 @@
       </particDesc>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="written" when="1594">
+        <desc/>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q506505"/>
+  </standOff>
   <text>
     <front>
       <castList>

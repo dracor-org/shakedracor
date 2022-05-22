@@ -37,7 +37,6 @@
           <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
         </availability>
         <date>February, 2017</date>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q643236</idno>
         <idno type="dracor" xml:base="https://dracor.org/id/">shake000020</idno>
       </publicationStmt>
       <sourceDesc>
@@ -71,11 +70,6 @@
             <date>April, 2015</date>
           </publicationStmt>
         </biblFull>
-        <bibl type="originalSource">
-          <date type="print" when="1623"/>
-          <date type="premiere"/>
-          <date type="written" when="1591"/>
-        </bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -301,6 +295,17 @@
       </particDesc>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1623">
+        <desc/>
+      </event>
+      <event type="written" when="1591">
+        <desc/>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q643236"/>
+  </standOff>
   <text>
     <front>
       <castList>
