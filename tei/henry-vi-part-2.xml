@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shake000021">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -37,7 +37,6 @@
           <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
         </availability>
         <date>February, 2017</date>
-        <idno type="dracor" xml:base="https://dracor.org/id/">shake000021</idno>
       </publicationStmt>
       <sourceDesc>
         <biblFull>
@@ -330,7 +329,9 @@
         <desc/>
       </event>
     </listEvent>
-    <link type="wikidata" target="http://www.wikidata.org/entity/Q1236216"/>
+    <listRelation>
+      <relation name="wikidata" active="https://dracor.org/entity/shake000021" passive="http://www.wikidata.org/entity/Q1236216"/>
+    </listRelation>
   </standOff>
   <text>
     <front>
