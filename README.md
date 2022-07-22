@@ -5,6 +5,11 @@ The texts were prepared to seemlessly integrate with the DraCor pipeline. Networ
 
 We also added Wikidata IDs per play.
 
+# About this fork:
+The tokenization and linguistic mark-up was removed with `remove_w_pc_markup.xsl` to reduce filesize. 
+
+**Attention**: This corpus is intended to be used within the DraCor infrastructure for research questions that need network- and/or structural data (acts, sceens, ..) only.
+
 # Documentation
 The Folger documentation is **[here](http://www.folgerdigitaltexts.org/fdt_documentation.pdf)** (PDF).
 
