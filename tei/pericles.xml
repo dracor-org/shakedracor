@@ -106,7 +106,7 @@
           <person xml:id="Antiochus_Per" sex="MALE">
             <persName>Antiochus</persName>
           </person>
-          <person xml:id="Pericles_Per" ana="http://www.wikidata.org/entity/Q80398">
+          <person xml:id="Pericles_Per" sex="MALE" ana="http://www.wikidata.org/entity/Q80398">
             <persName>Pericles</persName>
           </person>
           <person xml:id="Daughter_Per" sex="FEMALE">
@@ -127,7 +127,7 @@
           <person xml:id="Helicanus_Per" sex="MALE">
             <persName>Helicanus</persName>
           </person>
-          <person xml:id="Cleon_Per" ana="http://www.wikidata.org/entity/Q298220">
+          <person xml:id="Cleon_Per" sex="MALE" ana="http://www.wikidata.org/entity/Q298220">
             <persName>Cleon</persName>
           </person>
           <person xml:id="Dionyza_Per" sex="FEMALE">
