@@ -112,7 +112,7 @@
           <person xml:id="Aeneas_Tro" ana="http://www.wikidata.org/entity/Q82732">
             <persName>Aeneas</persName>
           </person>
-          <person xml:id="Cressida_Tro" sex="FEMALE">
+          <person xml:id="Cressida_Tro" ana="http://www.wikidata.org/entity/Q2313920">
             <persName>Cressida</persName>
           </person>
           <person xml:id="Alexander_Tro" sex="MALE">
@@ -127,7 +127,7 @@
           <person xml:id="Nestor_Tro" ana="http://www.wikidata.org/entity/Q193267">
             <persName>Nestor</persName>
           </person>
-          <person xml:id="Ulysses_Tro" sex="MALE">
+          <person xml:id="Ulysses_Tro" ana="http://www.wikidata.org/entity/Q47231">
             <persName>Ulysses</persName>
           </person>
           <person xml:id="Menelaus_Tro" ana="http://www.wikidata.org/entity/Q171839">

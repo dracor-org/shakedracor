@@ -112,10 +112,10 @@
           <person xml:id="Posthumus_Cym" sex="MALE">
             <persName>Posthumus Leonatus</persName>
           </person>
-          <person xml:id="Imogen_Cym" sex="FEMALE">
+          <person xml:id="Imogen_Cym" sex="FEMALE" ana="http://www.wikidata.org/entity/Q6005653">
             <persName>Imogen</persName>
           </person>
-          <person xml:id="Cymbeline_Cym" sex="MALE">
+          <person xml:id="Cymbeline_Cym" sex="MALE" ana="http://www.wikidata.org/entity/Q437417">
             <persName>Cymbeline</persName>
           </person>
           <person xml:id="Pisanio_Cym" sex="MALE">
@@ -133,7 +133,7 @@
           <person xml:id="LADIES.IMOGEN_Cym" sex="FEMALE">
             <persName>Lady</persName>
           </person>
-          <person xml:id="Iachimo_Cym" sex="MALE">
+          <person xml:id="Iachimo_Cym" sex="MALE" ana="http://www.wikidata.org/entity/Q105969861">
             <persName>Iachimo</persName>
           </person>
           <person xml:id="Philario_Cym" sex="MALE">
@@ -160,10 +160,10 @@
           <person xml:id="Belarius_Cym" sex="MALE">
             <persName>Belarius</persName>
           </person>
-          <person xml:id="Guiderius_Cym" sex="MALE">
+          <person xml:id="Guiderius_Cym" sex="MALE" ana="http://www.wikidata.org/entity/Q3779135">
             <persName>Guiderius</persName>
           </person>
-          <person xml:id="Arviragus_Cym" sex="MALE">
+          <person xml:id="Arviragus_Cym" sex="MALE" ana="http://www.wikidata.org/entity/Q608841">
             <persName>Arviragus</persName>
           </person>
           <personGrp xml:id="ATTENDANTS.0.1_Cym" sex="UNKNOWN">

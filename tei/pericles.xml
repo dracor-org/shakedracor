@@ -100,13 +100,13 @@
       </langUsage>
       <particDesc>
         <listPerson>
-          <person xml:id="Gower_Per" sex="MALE">
+          <person xml:id="Gower_Per" sex="MALE" ana="http://www.wikidata.org/entity/Q365133">
             <persName>Gower</persName>
           </person>
           <person xml:id="Antiochus_Per" sex="MALE">
             <persName>Antiochus</persName>
           </person>
-          <person xml:id="Pericles_Per" sex="MALE" ana="http://www.wikidata.org/entity/Q80398">
+          <person xml:id="Pericles_Per" sex="MALE" ana="http://www.wikidata.org/entity/Q121143329">
             <persName>Pericles</persName>
           </person>
           <person xml:id="Daughter_Per" sex="FEMALE">
@@ -127,7 +127,7 @@
           <person xml:id="Helicanus_Per" sex="MALE">
             <persName>Helicanus</persName>
           </person>
-          <person xml:id="Cleon_Per" sex="MALE" ana="http://www.wikidata.org/entity/Q298220">
+          <person xml:id="Cleon_Per" sex="MALE">
             <persName>Cleon</persName>
           </person>
           <person xml:id="Dionyza_Per" sex="FEMALE">
