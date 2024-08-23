@@ -108,7 +108,6 @@
           </person>
           <person xml:id="HenryIV_1H4" ana="http://www.wikidata.org/entity/Q161866">
             <persName>Henry Bolingbroke Hereford</persName>
-            <persName>Henry Bolingbroke Hereford</persName>
           </person>
           <person xml:id="Mowbray_R2" ana="http://www.wikidata.org/entity/Q711992">
             <persName>Mowbray</persName>
@@ -116,7 +115,7 @@
           <person xml:id="DuchessOfGloucester_R2" ana="http://www.wikidata.org/entity/Q2548323">
             <persName>Duchess of Gloucester</persName>
           </person>
-          <person xml:id="LordMarshal_R2" ana="http://www.wikidata.org/entity/Q1265164">
+          <person xml:id="LordMarshal_R2">
             <persName>Lord Marshal</persName>
           </person>
           <person xml:id="Aumerle_R2" ana="http://www.wikidata.org/entity/Q452639">
@@ -170,7 +169,7 @@
           <person xml:id="BishopOfCarlisle_R2" ana="http://www.wikidata.org/entity/Q7792397">
             <persName>Bishop of Carlisle</persName>
           </person>
-          <person xml:id="Scroop_R2" sex="MALE">
+          <person xml:id="Scroop_R2" sex="MALE" ana="http://www.wikidata.org/entity/Q27493894">
             <persName>Sir Stephen Scroop</persName>
           </person>
           <personGrp xml:id="LADIES.0.1_R2" sex="UNKNOWN">
@@ -182,7 +181,7 @@
           <person xml:id="SERVANTS.GARDENER.1_R2" sex="UNKNOWN">
             <persName>SERVANTS.GARDENER.1_R2</persName>
           </person>
-          <person xml:id="Fitzwater_R2" ana="http://www.wikidata.org/entity/Q4862373">
+          <person xml:id="Fitzwater_R2" ana="http://www.wikidata.org/entity/Q18811357">
             <persName>Lord Fitzwater</persName>
           </person>
           <person xml:id="LORDS.1_R2" sex="MALE">
@@ -191,7 +190,7 @@
           <person xml:id="Surrey_R2" ana="http://www.wikidata.org/entity/Q2501872">
             <persName>Duke of Surrey</persName>
           </person>
-          <person xml:id="AbbotOfWestminster_R2" ana="http://www.wikidata.org/entity/Q1747157">
+          <person xml:id="AbbotOfWestminster_R2">
             <persName>Abbot of Westminster</persName>
           </person>
           <person xml:id="DuchessOfYork_R2" ana="http://www.wikidata.org/entity/Q434485">

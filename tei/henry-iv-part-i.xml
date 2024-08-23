@@ -106,13 +106,13 @@
           <person xml:id="Westmoreland_1H4" ana="http://www.wikidata.org/entity/Q1972589">
             <persName>Earl of Westmoreland</persName>
           </person>
-          <person xml:id="Falstaff_1H4" ana="http://www.wikidata.org/entity/Q71125">
+          <person xml:id="Falstaff_1H4" ana="http://www.wikidata.org/entity/Q1233109">
             <persName>Sir John Falstaff</persName>
           </person>
           <person xml:id="HenryV_H5" ana="http://www.wikidata.org/entity/Q131581">
             <persName>Prince Hal</persName>
           </person>
-          <person xml:id="Poins_1H4" sex="MALE">
+          <person xml:id="Poins_1H4" sex="MALE" ana="http://www.wikidata.org/entity/Q18752824">
             <persName>Poins</persName>
           </person>
           <person xml:id="Worcester_1H4" ana="http://www.wikidata.org/entity/Q2082616">
@@ -142,7 +142,7 @@
           <personGrp xml:id="Chamberlain_1H4" sex="UNKNOWN">
             <name>Carriers, Ostlers, Chamberlain, Travelers, Sheriff, Servants, Lords, Attendants, Messengers, Soldiers</name>
           </personGrp>
-          <person xml:id="Bardolph_1H4" ana="http://www.wikidata.org/entity/Q7787379">
+          <person xml:id="Bardolph_1H4" sex="MALE" ana="http://www.wikidata.org/entity/Q16200730">
             <persName>Bardolph</persName>
           </person>
           <person xml:id="Peto_1H4" sex="MALE">
@@ -169,7 +169,7 @@
           <person xml:id="Vintner_1H4" sex="MALE">
             <persName>Vintner</persName>
           </person>
-          <person xml:id="MistressQuickly_1H4" sex="FEMALE">
+          <person xml:id="MistressQuickly_1H4" sex="FEMALE" ana="http://www.wikidata.org/entity/Q6880461">
             <persName>Hostess</persName>
           </person>
           <personGrp xml:id="Sheriff_1H4" sex="UNKNOWN">
@@ -190,7 +190,7 @@
           <personGrp xml:id="MESSENGERS.X_1H4" sex="UNKNOWN">
             <name>Carriers, Ostlers, Chamberlain, Travelers, Sheriff, Servants, Lords, Attendants, Messengers, Soldiers</name>
           </personGrp>
-          <person xml:id="Vernon_1H4" ana="http://www.wikidata.org/entity/Q7329662">
+          <person xml:id="Vernon_1H4" ana="http://www.wikidata.org/entity/Q100901247">
             <persName>Sir Richard Vernon</persName>
           </person>
           <person xml:id="Archbishop_1H4" ana="http://www.wikidata.org/entity/Q3431392">
@@ -205,7 +205,7 @@
           <personGrp xml:id="MESSENGERS.2_1H4" sex="UNKNOWN">
             <name>Carriers, Ostlers, Chamberlain, Travelers, Sheriff, Servants, Lords, Attendants, Messengers, Soldiers</name>
           </personGrp>
-          <person xml:id="Bedford_H5" sex="MALE">
+          <person xml:id="Bedford_H5" sex="MALE" ana="http://www.wikidata.org/entity/Q348441">
             <persName>Lord John of Lancaster</persName>
           </person>
         </listPerson>

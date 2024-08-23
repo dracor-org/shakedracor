@@ -100,16 +100,16 @@
       </langUsage>
       <particDesc>
         <listPerson>
-          <person xml:id="Chorus_2H4" sex="MALE">
+          <person xml:id="Chorus_2H4" sex="UNKNOWN">
             <persName>Rumor</persName>
           </person>
-          <person xml:id="LordBardolph_2H4" sex="MALE">
+          <person xml:id="LordBardolph_2H4" sex="MALE" ana="http://www.wikidata.org/entity/Q7787379">
             <persName>Lord Bardolph</persName>
           </person>
           <personGrp xml:id="Porter_2H4" sex="UNKNOWN">
             <name>Drawers, Musicians, Beadles, Grooms, Messenger, Soldiers, Lords, Attendants, Porter, Servants</name>
           </personGrp>
-          <person xml:id="Northumberland_R2" sex="MALE">
+          <person xml:id="Northumberland_R2" sex="MALE" ana="http://www.wikidata.org/entity/Q1398378">
             <persName>Earl of Northumberland</persName>
           </person>
           <person xml:id="Travers_2H4" sex="MALE">
@@ -118,7 +118,7 @@
           <person xml:id="Morton_2H4" sex="MALE">
             <persName>Morton</persName>
           </person>
-          <person xml:id="Falstaff_1H4" sex="MALE">
+          <person xml:id="Falstaff_1H4" sex="MALE" ana="http://www.wikidata.org/entity/Q1233109">
             <persName>Sir John Falstaff</persName>
           </person>
           <person xml:id="SERVANTS.FALSTAFF.1_2H4" sex="FEMALE">
@@ -130,16 +130,16 @@
           <personGrp xml:id="SERVANTS.CHIEFJUSTICE.1_2H4" sex="UNKNOWN">
             <name>Drawers, Musicians, Beadles, Grooms, Messenger, Soldiers, Lords, Attendants, Porter, Servants</name>
           </personGrp>
-          <person xml:id="Archbishop_1H4" sex="MALE">
+          <person xml:id="Archbishop_1H4" sex="MALE" ana="http://www.wikidata.org/entity/Q3431392">
             <persName>Archbishop</persName>
           </person>
-          <person xml:id="Mowbray_2H4" sex="MALE">
+          <person xml:id="Mowbray_2H4" sex="MALE" ana="http://www.wikidata.org/entity/Q6739909">
             <persName>Lord Mowbray</persName>
           </person>
-          <person xml:id="Hastings_2H4" sex="MALE">
+          <person xml:id="Hastings_2H4" sex="MALE" ana="http://www.wikidata.org/entity/Q18762059">
             <persName>Lord Hastings</persName>
           </person>
-          <person xml:id="MistressQuickly_1H4" sex="FEMALE">
+          <person xml:id="MistressQuickly_1H4" sex="FEMALE" ana="http://www.wikidata.org/entity/Q6880461">
             <persName>Hostess</persName>
           </person>
           <person xml:id="OFFICERS.Fang_2H4" sex="MALE">
@@ -153,18 +153,17 @@
           </person>
           <person xml:id="HenryV_H5" ana="http://www.wikidata.org/entity/Q131581">
             <persName>Prince Hal King Henry V</persName>
-            <persName>Prince Hal King Henry V</persName>
           </person>
-          <person xml:id="Poins_1H4" sex="MALE">
+          <person xml:id="Poins_1H4" sex="MALE" ana="http://www.wikidata.org/entity/Q18752824">
             <persName>Poins</persName>
           </person>
-          <person xml:id="Bardolph_1H4" sex="MALE">
+          <person xml:id="Bardolph_1H4" sex="MALE" ana="http://www.wikidata.org/entity/Q16200730">
             <persName>Bardolph</persName>
           </person>
           <person xml:id="LadyNorthumberland_2H4" sex="FEMALE">
             <persName>Northumberland’s wife</persName>
           </person>
-          <person xml:id="LadyPercy_1H4" sex="FEMALE">
+          <person xml:id="LadyPercy_1H4" sex="FEMALE" ana="http://www.wikidata.org/entity/Q5363245">
             <persName>Lady Percy</persName>
           </person>
           <personGrp xml:id="DRAWERS.Francis_1H4" sex="UNKNOWN">
@@ -176,25 +175,25 @@
           <personGrp xml:id="DRAWERS.Will_2H4" sex="UNKNOWN">
             <name>Drawers, Musicians, Beadles, Grooms, Messenger, Soldiers, Lords, Attendants, Porter, Servants</name>
           </personGrp>
-          <person xml:id="DollTearsheet_2H4" sex="FEMALE">
+          <person xml:id="DollTearsheet_2H4" sex="FEMALE" ana="http://www.wikidata.org/entity/Q18211594">
             <persName>Doll Tearsheet</persName>
           </person>
           <personGrp xml:id="DRAWERS.X_2H4" sex="UNKNOWN">
             <name>Drawers, Musicians, Beadles, Grooms, Messenger, Soldiers, Lords, Attendants, Porter, Servants</name>
           </personGrp>
-          <person xml:id="Pistol_2H4" sex="MALE">
+          <person xml:id="Pistol_2H4" sex="MALE" ana="http://www.wikidata.org/entity/Q16932862">
             <persName>Pistol</persName>
           </person>
           <person xml:id="Peto_1H4" sex="MALE">
             <persName>Peto</persName>
           </person>
-          <person xml:id="HenryIV_1H4" ana="http://www.wikidata.org/entity/Q936976">
+          <person xml:id="HenryIV_1H4" ana="http://www.wikidata.org/entity/Q161866">
             <persName>King Henry IV</persName>
           </person>
-          <person xml:id="Warwick_2H4" sex="MALE">
+          <person xml:id="Warwick_2H4" sex="MALE" ana="http://www.wikidata.org/entity/Q592988">
             <persName>Earl of Warwick</persName>
           </person>
-          <person xml:id="Shallow_2H4" sex="MALE">
+          <person xml:id="Shallow_2H4" sex="MALE" ana="http://www.wikidata.org/entity/Q18390753">
             <persName>Justice Robert Shallow</persName>
           </person>
           <person xml:id="Silence_2H4" sex="MALE">
@@ -218,7 +217,7 @@
           <personGrp xml:id="MESSENGERS.1_2H4" sex="UNKNOWN">
             <name>Drawers, Musicians, Beadles, Grooms, Messenger, Soldiers, Lords, Attendants, Porter, Servants</name>
           </personGrp>
-          <person xml:id="Westmoreland_1H4" sex="MALE">
+          <person xml:id="Westmoreland_1H4" sex="MALE" ana="http://www.wikidata.org/entity/Q1972589">
             <persName>Earl of Westmoreland</persName>
           </person>
           <person xml:id="Bedford_H5" ana="http://www.wikidata.org/entity/Q348441">
@@ -334,7 +333,7 @@
         </castGroup>
         <castGroup>
           <castGroup>
-            <head>in rebellion againstKing Henry IV</head>
+            <head>in rebellion against King Henry IV</head>
             <castItem sameAs="#Archbishop_1H4">
               <role>Richard Scroop, <name>Archbishop</name> of York</role>
             </castItem>
