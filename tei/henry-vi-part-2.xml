@@ -106,19 +106,19 @@
           <person xml:id="HenryVI_1H6" ana="http://www.wikidata.org/entity/Q160337">
             <persName>King Henry VI</persName>
           </person>
-          <person xml:id="QueenMargaret_1H6" ana="http://www.wikidata.org/entity/Q229159">
+          <person xml:id="QueenMargaret_1H6" ana="http://www.wikidata.org/entity/Q231145">
             <persName>Queen Margaret</persName>
           </person>
-          <person xml:id="Gloucester_2H4" sex="MALE">
+          <person xml:id="Gloucester_2H4" sex="MALE" ana="http://www.wikidata.org/entity/Q447541">
             <persName>Gloucester</persName>
           </person>
-          <person xml:id="CardinalBeaufort_1H6" sex="MALE">
+          <person xml:id="CardinalBeaufort_1H6" sex="MALE" ana="http://www.wikidata.org/entity/Q982472">
             <persName>Cardinal</persName>
           </person>
           <person xml:id="Somerset_1H6" ana="http://www.wikidata.org/entity/Q919338">
             <persName>Somerset</persName>
           </person>
-          <person xml:id="Buckingham_2H6" sex="MALE">
+          <person xml:id="Buckingham_2H6" sex="MALE" ana="http://www.wikidata.org/entity/Q1265605">
             <persName>Buckingham</persName>
           </person>
           <person xml:id="York_1H6" ana="http://www.wikidata.org/entity/Q312137">
@@ -127,7 +127,7 @@
           <person xml:id="Salisbury_2H6" ana="http://www.wikidata.org/entity/Q384856">
             <persName>Salisbury</persName>
           </person>
-          <person xml:id="Warwick_2H6" ana="http://www.wikidata.org/entity/Q592988">
+          <person xml:id="Warwick_2H6" ana="http://www.wikidata.org/entity/Q437571">
             <persName>Warwick</persName>
           </person>
           <person xml:id="DuchessOfGloucester_2H6" ana="http://www.wikidata.org/entity/Q25583">
@@ -154,13 +154,13 @@
           <person xml:id="Horner_2H6" sex="MALE">
             <persName>Horner</persName>
           </person>
-          <person xml:id="Bolingbroke_2H6" sex="MALE">
+          <person xml:id="Bolingbroke_2H6" sex="MALE" ana="http://www.wikidata.org/entity/Q7357881">
             <persName>Bolingbroke</persName>
           </person>
           <person xml:id="Spirit_2H6" sex="UNKNOWN">
             <persName>Spirit</persName>
           </person>
-          <person xml:id="Jourdain_2H6" sex="FEMALE">
+          <person xml:id="Jourdain_2H6" sex="FEMALE" ana="http://www.wikidata.org/entity/Q1895244">
             <persName>Jourdain</persName>
           </person>
           <person xml:id="CITIZENS.STALBANS.0.1_2H6" sex="MALE">
@@ -202,7 +202,7 @@
           <person xml:id="Sheriff_2H6" sex="MALE">
             <persName>Sheriff</persName>
           </person>
-          <person xml:id="Stanley_2H6" ana="http://www.wikidata.org/entity/Q335295">
+          <person xml:id="Stanley_2H6" ana="http://www.wikidata.org/entity/Q456361">
             <persName>Stanley</persName>
           </person>
           <person xml:id="MESSENGERS.Post_2H6" sex="UNKNOWN">
@@ -265,13 +265,13 @@
           <person xml:id="Michael_2H6" sex="MALE">
             <persName>Michael</persName>
           </person>
-          <person xml:id="Stafford_2H6" sex="MALE">
+          <person xml:id="Stafford_2H6" sex="MALE" ana="http://www.wikidata.org/entity/Q75400614">
             <persName>Stafford</persName>
           </person>
-          <person xml:id="WilliamStafford_2H6" sex="MALE">
+          <person xml:id="WilliamStafford_2H6" sex="MALE" ana="http://www.wikidata.org/entity/Q85815750">
             <persName>Brother</persName>
           </person>
-          <person xml:id="Saye_2H6" sex="MALE">
+          <person xml:id="Saye_2H6" sex="MALE" ana="http://www.wikidata.org/entity/Q6133874">
             <persName>Saye</persName>
           </person>
           <person xml:id="MESSENGERS.1_2H6" sex="MALE">
@@ -280,7 +280,7 @@
           <person xml:id="MESSENGERS.2_2H6" sex="MALE">
             <persName>MESSENGERS.2_2H6</persName>
           </person>
-          <person xml:id="Scales_2H6" sex="MALE">
+          <person xml:id="Scales_2H6" sex="MALE" ana="http://www.wikidata.org/entity/Q3525715">
             <persName>Scales</persName>
           </person>
           <personGrp xml:id="CITIZENS.LONDON.0.1_2H6" sex="UNKNOWN">
@@ -304,7 +304,7 @@
           <person xml:id="MESSENGERS.X.3_2H6" sex="MALE">
             <persName>MESSENGERS.X.3_2H6</persName>
           </person>
-          <person xml:id="Iden_2H6" sex="MALE">
+          <person xml:id="Iden_2H6" sex="MALE" ana="http://www.wikidata.org/entity/Q110622639">
             <persName>Iden</persName>
           </person>
           <person xml:id="EdwardIV_3H6" ana="http://www.wikidata.org/entity/Q160341">
@@ -313,7 +313,7 @@
           <person xml:id="RichardIII_R3" ana="http://www.wikidata.org/entity/Q133028">
             <persName>Richard</persName>
           </person>
-          <person xml:id="Clifford_3H6" sex="MALE">
+          <person xml:id="Clifford_3H6" sex="MALE" ana="http://www.wikidata.org/entity/Q647319">
             <persName>Young Clifford</persName>
           </person>
         </listPerson>

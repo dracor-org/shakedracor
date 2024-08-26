@@ -112,10 +112,10 @@
           <person xml:id="SERVANTS.MONTAGUE.Abram_Rom" sex="MALE">
             <persName>Abram</persName>
           </person>
-          <person xml:id="Benvolio_Rom" sex="MALE">
+          <person xml:id="Benvolio_Rom" sex="MALE" ana="http://www.wikidata.org/entity/Q939489">
             <persName>Benvolio</persName>
           </person>
-          <person xml:id="Tybalt_Rom" sex="MALE">
+          <person xml:id="Tybalt_Rom" sex="MALE" ana="http://www.wikidata.org/entity/Q2412073">
             <persName>Tybalt</persName>
           </person>
           <personGrp xml:id="CITIZENS_Rom" sex="UNKNOWN">
@@ -124,37 +124,37 @@
           <person xml:id="Capulet_Rom" sex="MALE">
             <persName>Capulet</persName>
           </person>
-          <person xml:id="LadyCapulet_Rom" sex="FEMALE">
+          <person xml:id="LadyCapulet_Rom" sex="FEMALE" ana="http://www.wikidata.org/entity/Q63882427">
             <persName>Lady Capulet</persName>
           </person>
           <person xml:id="Montague_Rom" sex="MALE">
             <persName>Montague</persName>
           </person>
-          <person xml:id="LadyMontague_Rom" sex="FEMALE">
+          <person xml:id="LadyMontague_Rom" sex="FEMALE" ana="http://www.wikidata.org/entity/Q63882426">
             <persName>Lady Montague</persName>
           </person>
-          <person xml:id="PrinceEscalus_Rom" sex="MALE">
+          <person xml:id="PrinceEscalus_Rom" sex="MALE" ana="http://www.wikidata.org/entity/Q15829750">
             <persName>Escalus</persName>
           </person>
-          <person xml:id="Romeo_Rom" sex="MALE">
+          <person xml:id="Romeo_Rom" sex="MALE" ana="http://www.wikidata.org/entity/Q15829750">
             <persName>Romeo</persName>
           </person>
-          <person xml:id="Paris_Rom" sex="MALE">
+          <person xml:id="Paris_Rom" sex="MALE" ana="http://www.wikidata.org/entity/Q3687815">
             <persName>Paris</persName>
           </person>
           <personGrp xml:id="SERVANTS.CAPULET.X.1_Rom" sex="UNKNOWN">
             <name>SERVANTS.CAPULET.X.1_Rom</name>
           </personGrp>
-          <person xml:id="Nurse_Rom" sex="FEMALE">
+          <person xml:id="Nurse_Rom" sex="FEMALE" ana="http://www.wikidata.org/entity/Q7070187">
             <persName>Nurse</persName>
           </person>
-          <person xml:id="Juliet_Rom" sex="FEMALE">
+          <person xml:id="Juliet_Rom" sex="FEMALE" ana="http://www.wikidata.org/entity/Q1092632">
             <persName>Juliet</persName>
           </person>
           <personGrp xml:id="SERVANTS.CAPULET.X.2_Rom" sex="UNKNOWN">
             <name>SERVANTS.CAPULET.X.2_Rom</name>
           </personGrp>
-          <person xml:id="Mercutio_Rom" sex="MALE">
+          <person xml:id="Mercutio_Rom" sex="MALE" ana="http://www.wikidata.org/entity/Q1767900">
             <persName>Mercutio</persName>
           </person>
           <person xml:id="SERVANTS.CAPULET.0.1_Rom" sex="MALE">
@@ -172,7 +172,7 @@
           <person xml:id="SERVANTS.CAPULET.0_Rom" sex="MALE">
             <persName>SERVANTS.CAPULET.0_Rom</persName>
           </person>
-          <person xml:id="FriarLawrence_Rom" sex="MALE">
+          <person xml:id="FriarLawrence_Rom" sex="MALE" ana="http://www.wikidata.org/entity/Q5503354">
             <persName>Friar Lawrence</persName>
           </person>
           <person xml:id="SERVANTS.CAPULET.Peter_Rom" sex="MALE">

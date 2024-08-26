@@ -103,40 +103,40 @@
           <person xml:id="RichardIII_R3" ana="http://www.wikidata.org/entity/Q133028">
             <persName>Richard</persName>
           </person>
-          <person xml:id="Clarence_3H6" sex="MALE">
+          <person xml:id="Clarence_3H6" sex="MALE" ana="http://www.wikidata.org/entity/Q356173">
             <persName>George, Duke of Clarence</persName>
           </person>
           <person xml:id="Brakenbury_R3" ana="http://www.wikidata.org/entity/Q7342288">
             <persName>Sir Robert Brakenbury</persName>
           </person>
-          <person xml:id="Hastings_3H6" sex="MALE">
+          <person xml:id="Hastings_3H6" sex="MALE" ana="http://www.wikidata.org/entity/Q1396340">
             <persName>William, Lord Hastings</persName>
           </person>
-          <person xml:id="LadyAnne_R3" ana="http://www.wikidata.org/entity/Q1617538">
+          <person xml:id="LadyAnne_R3" sex="FEMALE" ana="http://www.wikidata.org/entity/Q229218">
             <persName>Lady Anne</persName>
           </person>
           <person xml:id="GENTLEMEN.0.1_R3" sex="MALE">
             <persName>Gentleman</persName>
           </person>
-          <person xml:id="Rivers_3H6" sex="MALE">
+          <person xml:id="Rivers_3H6" sex="MALE" ana="http://www.wikidata.org/entity/Q574171">
             <persName>Earl Rivers</persName>
           </person>
-          <person xml:id="Grey_R3" sex="MALE">
+          <person xml:id="Grey_R3" sex="MALE" ana="http://www.wikidata.org/entity/Q756948">
             <persName>Lord Grey</persName>
           </person>
-          <person xml:id="QueenElizabeth_3H6" ana="http://www.wikidata.org/entity/Q7207">
+          <person xml:id="QueenElizabeth_3H6" sex="FEMALE" ana="http://www.wikidata.org/entity/Q229214">
             <persName>Queen Elizabeth</persName>
           </person>
-          <person xml:id="Buckingham_R3" sex="MALE">
+          <person xml:id="Buckingham_R3" sex="MALE" ana="http://www.wikidata.org/entity/Q714480">
             <persName>Duke of Buckingham</persName>
           </person>
-          <person xml:id="Stanley_R3" sex="MALE">
+          <person xml:id="Stanley_R3" sex="MALE" ana="http://www.wikidata.org/entity/Q335295">
             <persName>Lord Stanley</persName>
           </person>
           <person xml:id="QueenMargaret_1H6" ana="http://www.wikidata.org/entity/Q231145">
             <persName>Queen Margaret</persName>
           </person>
-          <person xml:id="Dorset_R3" sex="MALE">
+          <person xml:id="Dorset_R3" sex="MALE" ana="http://www.wikidata.org/entity/Q277577">
             <persName>Marquess of Dorset</persName>
           </person>
           <person xml:id="Catesby_R3" ana="http://www.wikidata.org/entity/Q3568489">
@@ -154,13 +154,13 @@
           <person xml:id="EdwardIV_3H6" ana="http://www.wikidata.org/entity/Q160341">
             <persName>King Edward IV</persName>
           </person>
-          <person xml:id="ClarencesBoy_R3" sex="MALE">
+          <person xml:id="ClarencesBoy_R3" sex="MALE" ana="http://www.wikidata.org/entity/Q725833">
             <persName>Boy</persName>
           </person>
-          <person xml:id="DuchessOfYork_R3" sex="FEMALE">
+          <person xml:id="DuchessOfYork_R3" sex="FEMALE" ana="http://www.wikidata.org/entity/Q238004">
             <persName>Duchess of York</persName>
           </person>
-          <person xml:id="ClarencesDaughter_R3" sex="FEMALE">
+          <person xml:id="ClarencesDaughter_R3" sex="FEMALE" ana="http://www.wikidata.org/entity/Q241806">
             <persName>Daughter</persName>
           </person>
           <personGrp xml:id="CITIZENS.1_R3" sex="UNKNOWN">
@@ -172,22 +172,22 @@
           <personGrp xml:id="CITIZENS.3_R3" sex="UNKNOWN">
             <name>CITIZENS.3_R3</name>
           </personGrp>
-          <person xml:id="Archbishop_R3" sex="MALE">
+          <person xml:id="Archbishop_R3" sex="MALE" ana="http://www.wikidata.org/entity/Q3525529">
             <persName>Archbishop</persName>
           </person>
-          <person xml:id="York_R3" sex="MALE">
+          <person xml:id="York_R3" sex="MALE" ana="http://www.wikidata.org/entity/Q221367">
             <persName>Richard, Duke of York</persName>
           </person>
           <personGrp xml:id="MESSENGERS.X.1_R3" sex="UNKNOWN">
             <name>MESSENGERS.X.1_R3</name>
           </personGrp>
-          <person xml:id="EdwardV_R3" ana="http://www.wikidata.org/entity/Q160341">
+          <person xml:id="EdwardV_R3" sex="MALE" ana="http://www.wikidata.org/entity/Q170470">
             <persName>Prince Edward</persName>
           </person>
-          <person xml:id="MayorOfLondon_R3" sex="MALE">
+          <person xml:id="MayorOfLondon_R3" sex="MALE" ana="http://www.wikidata.org/entity/Q5339819">
             <persName>Lord Mayor</persName>
           </person>
-          <person xml:id="Cardinal_R3" sex="MALE">
+          <person xml:id="Cardinal_R3" sex="MALE" ana="http://www.wikidata.org/entity/Q1968450">
             <persName>Cardinal</persName>
           </person>
           <personGrp xml:id="MESSENGERS.X.2_R3" sex="UNKNOWN">
@@ -199,16 +199,16 @@
           <person xml:id="SirJohn_R3" sex="MALE">
             <persName>Sir John</persName>
           </person>
-          <person xml:id="Vaughan_R3" sex="MALE">
+          <person xml:id="Vaughan_R3" sex="MALE" ana="http://www.wikidata.org/entity/Q6223054">
             <persName>Sir Thomas Vaughan</persName>
           </person>
-          <person xml:id="Ratcliffe_R3" sex="MALE">
+          <person xml:id="Ratcliffe_R3" sex="MALE" ana="http://www.wikidata.org/entity/Q7328600">
             <persName>Sir Richard Ratcliffe</persName>
           </person>
-          <person xml:id="BishopOfEly_R3" sex="MALE">
+          <person xml:id="BishopOfEly_R3" sex="MALE" ana="http://www.wikidata.org/entity/Q672779">
             <persName>John Morton, Bishop of Ely</persName>
           </person>
-          <person xml:id="Lovell_R3" sex="MALE">
+          <person xml:id="Lovell_R3" sex="MALE" ana="http://www.wikidata.org/entity/Q5481762">
             <persName>Lord Lovell</persName>
           </person>
           <person xml:id="Scrivener_R3" sex="MALE">
@@ -223,7 +223,7 @@
           <person xml:id="ATTENDANTS.0.1_R3" sex="MALE">
             <persName>Page</persName>
           </person>
-          <person xml:id="Tyrrel_R3" sex="MALE">
+          <person xml:id="Tyrrel_R3" sex="MALE" ana="http://www.wikidata.org/entity/Q1439554">
             <persName>James Tyrrel</persName>
           </person>
           <personGrp xml:id="MESSENGERS.1_R3" sex="UNKNOWN">
@@ -238,28 +238,28 @@
           <personGrp xml:id="MESSENGERS.4_R3" sex="UNKNOWN">
             <name>MESSENGERS.4_R3</name>
           </personGrp>
-          <person xml:id="SirChristopher_R3" sex="MALE">
+          <person xml:id="SirChristopher_R3" sex="MALE" ana="http://www.wikidata.org/entity/Q5113359">
             <persName>Sir Christopher</persName>
           </person>
-          <person xml:id="Sheriff_R3" sex="MALE">
+          <person xml:id="Sheriff_R3" sex="MALE" ana="http://www.wikidata.org/entity/Q5725046">
             <persName>Sheriff</persName>
           </person>
-          <person xml:id="HenryVII_R3" sex="MALE">
+          <person xml:id="HenryVII_R3" sex="MALE" ana="http://www.wikidata.org/entity/Q675493">
             <persName>Earl of Richmond</persName>
           </person>
-          <person xml:id="Oxford_3H6" sex="MALE">
+          <person xml:id="Oxford_3H6" sex="MALE" ana="http://www.wikidata.org/entity/Q1332495">
             <persName>Earl of Oxford</persName>
           </person>
-          <person xml:id="Herbert_R3" sex="MALE">
+          <person xml:id="Herbert_R3" sex="MALE" ana="http://www.wikidata.org/entity/Q75387604">
             <persName>Sir Walter Herbert</persName>
           </person>
-          <person xml:id="Blunt_R3" sex="MALE">
+          <person xml:id="Blunt_R3" sex="MALE" ana="http://www.wikidata.org/entity/Q6129895">
             <persName>Sir James Blunt</persName>
           </person>
-          <person xml:id="Surrey_R3" sex="MALE">
+          <person xml:id="Surrey_R3" sex="MALE" ana="http://www.wikidata.org/entity/Q709340">
             <persName>Earl of Surrey</persName>
           </person>
-          <person xml:id="Norfolk_R3" sex="MALE">
+          <person xml:id="Norfolk_R3" sex="MALE" ana="http://www.wikidata.org/entity/Q953120">
             <persName>Duke of Norfolk</persName>
           </person>
           <person xml:id="PrinceEdward_3H6" sex="MALE">

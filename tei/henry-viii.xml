@@ -103,16 +103,16 @@
           <person xml:id="Prologue_H8">
             <persName>Prologue</persName>
           </person>
-          <person xml:id="Buckingham_H8" sex="MALE">
+          <person xml:id="Buckingham_H8" sex="MALE" ana="http://www.wikidata.org/entity/Q726243">
             <persName>Duke of Buckingham</persName>
           </person>
-          <person xml:id="Norfolk_H8" sex="MALE">
+          <person xml:id="Norfolk_H8" sex="MALE" ana="http://www.wikidata.org/entity/Q709340">
             <persName>Duke of Norfolk</persName>
           </person>
-          <person xml:id="Abergavenny_H8" sex="MALE">
+          <person xml:id="Abergavenny_H8" sex="MALE" ana="http://www.wikidata.org/entity/Q1507985">
             <persName>Lord Abergavenny</persName>
           </person>
-          <person xml:id="Wolsey_H8" sex="MALE">
+          <person xml:id="Wolsey_H8" sex="MALE" ana="http://www.wikidata.org/entity/Q206512">
             <persName>Cardinal Wolsey</persName>
           </person>
           <person xml:id="SECRETARIES.0.1_H8" sex="MALE">
@@ -127,22 +127,22 @@
           <person xml:id="HenryVIII_H8" ana="http://www.wikidata.org/entity/Q38370">
             <persName>King Henry the Eighth</persName>
           </person>
-          <person xml:id="Katherine_H8" sex="FEMALE">
+          <person xml:id="Katherine_H8" sex="FEMALE" ana="http://www.wikidata.org/entity/Q162819">
             <persName>Queen Katherine</persName>
           </person>
           <person xml:id="Surveyor_H8" sex="MALE">
             <persName>Knevet, former Surveyor to Buckingham</persName>
           </person>
-          <person xml:id="Chamberlain_H8" sex="MALE">
+          <person xml:id="Chamberlain_H8" sex="MALE" ana="http://www.wikidata.org/entity/Q549866">
             <persName>Lord Chamberlain</persName>
           </person>
-          <person xml:id="Sands_H8" sex="MALE">
+          <person xml:id="Sands_H8" sex="MALE" ana="http://www.wikidata.org/entity/Q8018111">
             <persName>Lord Sands (also Sir Walter Sands)</persName>
           </person>
-          <person xml:id="Lovell_H8" sex="MALE">
+          <person xml:id="Lovell_H8" sex="MALE" ana="http://www.wikidata.org/entity/Q7791938">
             <persName>Sir Thomas Lovell</persName>
           </person>
-          <person xml:id="Guilford_H8" sex="MALE">
+          <person xml:id="Guilford_H8" sex="MALE" ana="http://www.wikidata.org/entity/Q5722296">
             <persName>Sir Henry Guilford</persName>
           </person>
           <person xml:id="Anne_H8" ana="http://www.wikidata.org/entity/Q80823">
@@ -157,16 +157,16 @@
           <person xml:id="GENTLEMEN.2_H8" sex="MALE">
             <persName>Second Gentleman</persName>
           </person>
-          <person xml:id="Vaux_H8" sex="MALE">
+          <person xml:id="Vaux_H8" sex="MALE" ana="http://www.wikidata.org/entity/Q8205978">
             <persName>Sir Nicholas Vaux</persName>
           </person>
-          <person xml:id="Suffolk_H8" sex="MALE">
+          <person xml:id="Suffolk_H8" sex="MALE" ana="http://www.wikidata.org/entity/Q337635">
             <persName>Duke of Suffolk</persName>
           </person>
           <person xml:id="Campeius_H8" ana="http://www.wikidata.org/entity/Q222941">
             <persName>Cardinal Campeius</persName>
           </person>
-          <person xml:id="Gardiner_H8" sex="MALE">
+          <person xml:id="Gardiner_H8" sex="MALE" ana="http://www.wikidata.org/entity/Q719423">
             <persName>Gardiner</persName>
           </person>
           <person xml:id="OldLady_H8" sex="FEMALE">
@@ -181,7 +181,7 @@
           <person xml:id="Usher_H8" sex="MALE">
             <persName>Queen’s Gentleman Usher</persName>
           </person>
-          <person xml:id="BishopOfLincoln_H8" sex="MALE">
+          <person xml:id="BishopOfLincoln_H8" sex="MALE" ana="http://www.wikidata.org/entity/Q6245217">
             <persName>Bishop of Lincoln</persName>
           </person>
           <personGrp xml:id="LADIES.KATHERINE.0.1_H8" sex="UNKNOWN">
@@ -190,7 +190,7 @@
           <personGrp xml:id="GENTLEMEN.X_H8" sex="UNKNOWN">
             <name>Spirits, Princess Elizabeth as an infant, Duchess of Norfolk, Marquess and Marchioness of Dorset, Lords, Nobles, Countesses, Bishops, Judges, Priests, Ladies, Gentlemen, Gentlemen Ushers, Lord Mayor, Four Representatives of the Cinque Ports, Aldermen, Women, Musicians, Choristers, Guards, Tipstaves, Halberds, Vergers, Attendants, Servants, Messenger, Pages, Footboys, Grooms</name>
           </personGrp>
-          <person xml:id="Surrey_H8" sex="MALE">
+          <person xml:id="Surrey_H8" sex="MALE" ana="http://www.wikidata.org/entity/Q503816">
             <persName>Earl of Surrey</persName>
           </person>
           <person xml:id="Cromwell_H8" ana="http://www.wikidata.org/entity/Q44279">
@@ -208,25 +208,25 @@
           <personGrp xml:id="Messenger_H8" sex="UNKNOWN">
             <name>Spirits, Princess Elizabeth as an infant, Duchess of Norfolk, Marquess and Marchioness of Dorset, Lords, Nobles, Countesses, Bishops, Judges, Priests, Ladies, Gentlemen, Gentlemen Ushers, Lord Mayor, Four Representatives of the Cinque Ports, Aldermen, Women, Musicians, Choristers, Guards, Tipstaves, Halberds, Vergers, Attendants, Servants, Messenger, Pages, Footboys, Grooms</name>
           </personGrp>
-          <person xml:id="Capuchius_H8" sex="MALE">
+          <person xml:id="Capuchius_H8" sex="MALE" ana="http://www.wikidata.org/entity/Q602596">
             <persName>Capuchius</persName>
           </person>
           <person xml:id="Page_H8" sex="FEMALE">
             <persName>Page to Gardiner</persName>
           </person>
-          <person xml:id="Denny_H8" sex="MALE">
+          <person xml:id="Denny_H8" sex="MALE" ana="http://www.wikidata.org/entity/Q3888459">
             <persName>Sir Anthony Denny</persName>
           </person>
-          <person xml:id="Cranmer_H8" sex="MALE">
+          <person xml:id="Cranmer_H8" sex="MALE" ana="http://www.wikidata.org/entity/Q199894">
             <persName>Cranmer</persName>
           </person>
           <person xml:id="Keeper_H8" sex="MALE">
             <persName>Keeper</persName>
           </person>
-          <person xml:id="Butts_H8" sex="MALE">
+          <person xml:id="Butts_H8" sex="MALE" ana="http://www.wikidata.org/entity/Q8006232">
             <persName>Doctor Butts</persName>
           </person>
-          <person xml:id="Chancellor_H8" sex="MALE">
+          <person xml:id="Chancellor_H8" sex="MALE" ana="http://www.wikidata.org/entity/Q42544">
             <persName>Lord Chancellor</persName>
           </person>
           <person xml:id="Porter_H8" sex="MALE">

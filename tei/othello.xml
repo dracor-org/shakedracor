@@ -100,25 +100,25 @@
       </langUsage>
       <particDesc>
         <listPerson>
-          <person xml:id="Roderigo_Oth" sex="MALE">
+          <person xml:id="Roderigo_Oth" sex="MALE" ana="http://www.wikidata.org/entity/Q7356703">
             <persName>Roderigo</persName>
           </person>
-          <person xml:id="Iago_Oth" sex="MALE">
+          <person xml:id="Iago_Oth" sex="MALE" ana="http://www.wikidata.org/entity/Q1655364">
             <persName>Iago</persName>
           </person>
-          <person xml:id="Brabantio_Oth" sex="MALE">
+          <person xml:id="Brabantio_Oth" sex="MALE" ana="http://www.wikidata.org/entity/Q4953161">
             <persName>Brabantio</persName>
           </person>
-          <person xml:id="Othello_Oth" sex="MALE">
+          <person xml:id="Othello_Oth" sex="MALE" ana="http://www.wikidata.org/entity/Q1966171">
             <persName>Othello</persName>
           </person>
-          <person xml:id="Cassio_Oth" sex="MALE">
+          <person xml:id="Cassio_Oth" sex="MALE" ana="http://www.wikidata.org/entity/Q6829164">
             <persName>Cassio</persName>
           </person>
           <personGrp xml:id="OFFICERS_Oth" sex="UNKNOWN">
             <name>Servants, Attendants, Officers, Messengers, Herald, Musicians, Torchbearers.</name>
           </personGrp>
-          <person xml:id="Duke_Oth" sex="MALE">
+          <person xml:id="Duke_Oth" sex="MALE" ana="http://www.wikidata.org/entity/Q63115870">
             <persName>Duke_Oth</persName>
           </person>
           <person xml:id="SENATORS.0.1_Oth" sex="MALE">
@@ -139,10 +139,10 @@
           <personGrp xml:id="SENATORS_Oth" sex="UNKNOWN">
             <name>Venetian senators</name>
           </personGrp>
-          <person xml:id="Desdemona_Oth" sex="FEMALE">
+          <person xml:id="Desdemona_Oth" sex="FEMALE" ana="http://www.wikidata.org/entity/Q3272719">
             <persName>Desdemona</persName>
           </person>
-          <person xml:id="Montano_Oth" sex="MALE">
+          <person xml:id="Montano_Oth" sex="MALE" ana="http://www.wikidata.org/entity/Q61636065">
             <persName>Montano</persName>
           </person>
           <person xml:id="GENTLEMEN.1_Oth" sex="MALE">
@@ -157,7 +157,7 @@
           <personGrp xml:id="MESSENGERS.X.2_Oth" sex="UNKNOWN">
             <name>Servants, Attendants, Officers, Messengers, Herald, Musicians, Torchbearers.</name>
           </personGrp>
-          <person xml:id="Emilia_Oth" sex="FEMALE">
+          <person xml:id="Emilia_Oth" sex="FEMALE" ana="http://www.wikidata.org/entity/Q5371628">
             <persName>Emilia</persName>
           </person>
           <personGrp xml:id="Herald_Oth" sex="UNKNOWN">
@@ -175,13 +175,13 @@
           <personGrp xml:id="GENTLEMEN.0.1_Oth" sex="UNKNOWN">
             <name>GENTLEMEN.0.1_Oth</name>
           </personGrp>
-          <person xml:id="Bianca_Oth" sex="FEMALE">
+          <person xml:id="Bianca_Oth" sex="FEMALE" ana="http://www.wikidata.org/entity/Q5371628">
             <persName>Bianca</persName>
           </person>
-          <person xml:id="Lodovico_Oth" sex="MALE">
+          <person xml:id="Lodovico_Oth" sex="MALE" ana="http://www.wikidata.org/entity/Q61636041">
             <persName>Lodovico</persName>
           </person>
-          <person xml:id="Gratiano_Oth" sex="MALE">
+          <person xml:id="Gratiano_Oth" sex="MALE" ana="http://www.wikidata.org/entity/Q61635995">
             <persName>Gratiano</persName>
           </person>
         </listPerson>

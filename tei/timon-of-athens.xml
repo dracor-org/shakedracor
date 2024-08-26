@@ -112,7 +112,7 @@
           <person xml:id="Jeweler_Tim" sex="MALE">
             <persName>Jeweler</persName>
           </person>
-          <person xml:id="Timon_Tim" ana="http://www.wikidata.org/entity/Q1747004">
+          <person xml:id="Timon_Tim" sex="MALE" ana="http://www.wikidata.org/entity/Q1747004">
             <persName>Timon</persName>
           </person>
           <personGrp xml:id="MESSENGERS.X.1_Tim" sex="UNKNOWN">
@@ -124,13 +124,13 @@
           <person xml:id="SERVANTS.TIMON.Lucilius_Tim" sex="MALE">
             <persName>Lucilius</persName>
           </person>
-          <person xml:id="Apemantus_Tim" sex="MALE">
+          <person xml:id="Apemantus_Tim" sex="MALE" ana="http://www.wikidata.org/entity/Q4779338">
             <persName>Apemantus</persName>
           </person>
           <personGrp xml:id="MESSENGERS.X.2_Tim" sex="UNKNOWN">
             <name>Soldiers, Servants, Messengers, Attendants, Musicians</name>
           </personGrp>
-          <person xml:id="Alcibiades_Tim" ana="http://www.wikidata.org/entity/Q187982">
+          <person xml:id="Alcibiades_Tim" sex="MALE" ana="http://www.wikidata.org/entity/Q187982">
             <persName>Alcibiades</persName>
           </person>
           <personGrp xml:id="LORDS.0.1_Tim" sex="UNKNOWN">
@@ -148,7 +148,7 @@
           <person xml:id="SERVANTS.TIMON.X.1_Tim" sex="MALE">
             <persName>SERVANTS.TIMON.X.1_Tim</persName>
           </person>
-          <personGrp xml:id="Cupid_Tim" sex="UNKNOWN">
+          <personGrp xml:id="Cupid_Tim" sex="MALE" ana="http://www.wikidata.org/entity/Q26904354">
             <name>“Cupid” and other Maskers (as Amazons)</name>
           </personGrp>
           <person xml:id="FRIENDS.Lucius_Tim" sex="MALE">

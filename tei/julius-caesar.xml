@@ -100,13 +100,13 @@
       </langUsage>
       <particDesc>
         <listPerson>
-          <person xml:id="Flavius_JC" sex="MALE">
+          <person xml:id="Flavius_JC" sex="MALE" ana="http://www.wikidata.org/entity/Q3621464">
             <persName>Flavius</persName>
           </person>
           <person xml:id="COMMONERS.Carpenter_JC" sex="MALE">
             <persName>COMMONERS.Carpenter_JC</persName>
           </person>
-          <person xml:id="Marullus_JC" sex="MALE">
+          <person xml:id="Marullus_JC" sex="MALE" ana="http://www.wikidata.org/entity/Q3462675">
             <persName>Marullus</persName>
           </person>
           <person xml:id="COMMONERS.Cobbler_JC" sex="MALE">
@@ -115,10 +115,10 @@
           <person xml:id="Caesar_JC" ana="http://www.wikidata.org/entity/Q1048">
             <persName>Julius Caesar</persName>
           </person>
-          <person xml:id="Casca_JC" sex="MALE">
+          <person xml:id="Casca_JC" sex="MALE" ana="http://www.wikidata.org/entity/Q1243545">
             <persName>Casca</persName>
           </person>
-          <person xml:id="Calphurnia_JC" sex="FEMALE">
+          <person xml:id="Calphurnia_JC" sex="FEMALE" ana="http://www.wikidata.org/entity/Q235627">
             <persName>Calphurnia</persName>
           </person>
           <person xml:id="Antony_JC" ana="http://www.wikidata.org/entity/Q51673">
@@ -133,37 +133,37 @@
           <person xml:id="Cassius_JC" ana="http://www.wikidata.org/entity/Q207370">
             <persName>Caius Cassius</persName>
           </person>
-          <person xml:id="Cicero_JC" sex="MALE">
+          <person xml:id="Cicero_JC" sex="MALE" ana="http://www.wikidata.org/entity/Q1541">
             <persName>Cicero</persName>
           </person>
-          <person xml:id="Cinna_JC" sex="MALE">
+          <person xml:id="Cinna_JC" sex="MALE" ana="http://www.wikidata.org/entity/Q646993">
             <persName>Cinna</persName>
           </person>
           <person xml:id="Lucius_JC" sex="MALE">
             <persName>Lucius</persName>
           </person>
-          <person xml:id="Decius_JC" sex="MALE">
+          <person xml:id="Decius_JC" sex="MALE" ana="http://www.wikidata.org/entity/Q294846">
             <persName>Decius Brutus</persName>
           </person>
-          <person xml:id="Metellus_JC" sex="MALE">
+          <person xml:id="Metellus_JC" sex="MALE" ana="http://www.wikidata.org/entity/Q1228715">
             <persName>Metellus Cimber</persName>
           </person>
-          <person xml:id="Trebonius_JC" sex="MALE">
+          <person xml:id="Trebonius_JC" sex="MALE" ana="http://www.wikidata.org/entity/Q550560">
             <persName>Trebonius</persName>
           </person>
-          <person xml:id="Portia_JC" sex="FEMALE">
+          <person xml:id="Portia_JC" sex="FEMALE" ana="http://www.wikidata.org/entity/Q255448">
             <persName>Portia</persName>
           </person>
-          <person xml:id="Ligarius_JC" sex="MALE">
+          <person xml:id="Ligarius_JC" sex="MALE" ana="http://www.wikidata.org/entity/Q773742">
             <persName>Caius Ligarius</persName>
           </person>
           <person xml:id="SERVANTS.CAESAR.1_JC" sex="MALE">
             <persName>SERVANTS.CAESAR.1_JC</persName>
           </person>
-          <person xml:id="Publius_JC" ana="http://www.wikidata.org/entity/Q214765">
+          <person xml:id="Publius_JC">
             <persName>Publius</persName>
           </person>
-          <person xml:id="Artemidorus_JC" sex="MALE">
+          <person xml:id="Artemidorus_JC" sex="MALE" ana="http://www.wikidata.org/entity/Q11906742">
             <persName>Artemidorus</persName>
           </person>
           <person xml:id="Popilius_JC" ana="http://www.wikidata.org/entity/Q464897">
@@ -190,13 +190,13 @@
           <person xml:id="PLEBEIANS.0.4_JC" sex="MALE">
             <persName>PLEBEIANS.0.4_JC</persName>
           </person>
-          <person xml:id="CinnaPoet_JC" sex="MALE">
+          <person xml:id="CinnaPoet_JC" sex="MALE" ana="http://www.wikidata.org/entity/Q372100">
             <persName>Cinna</persName>
           </person>
-          <person xml:id="Octavius_JC" ana="http://www.wikidata.org/entity/Q363084">
+          <person xml:id="Octavius_JC" ana="http://www.wikidata.org/entity/Q1405">
             <persName>Octavius</persName>
           </person>
-          <person xml:id="Lepidus_JC" sex="MALE">
+          <person xml:id="Lepidus_JC" sex="MALE" ana="http://www.wikidata.org/entity/Q105452">
             <persName>Lepidus</persName>
           </person>
           <person xml:id="SOLDIERS.BRUTUS.Lucilius_JC" sex="MALE">
@@ -217,22 +217,22 @@
           <person xml:id="Poet_JC" sex="MALE">
             <persName>Poet_JC</persName>
           </person>
-          <person xml:id="SOLDIERS.BRUTUS.Messala_JC" sex="MALE">
+          <person xml:id="SOLDIERS.BRUTUS.Messala_JC" sex="MALE" ana="http://www.wikidata.org/entity/Q508117">
             <persName>Messala</persName>
           </person>
-          <person xml:id="SOLDIERS.BRUTUS.Titinius_JC" sex="MALE">
+          <person xml:id="SOLDIERS.BRUTUS.Titinius_JC" sex="MALE" ana="http://www.wikidata.org/entity/Q20102068">
             <persName>Titinius</persName>
           </person>
-          <person xml:id="SOLDIERS.BRUTUS.Varro_JC" sex="MALE">
+          <person xml:id="SOLDIERS.BRUTUS.Varro_JC" sex="MALE" ana="http://www.wikidata.org/entity/Q214765">
             <persName>Varro</persName>
           </person>
-          <person xml:id="SOLDIERS.BRUTUS.Claudius_JC" ana="http://www.wikidata.org/entity/Q1411">
+          <person xml:id="SOLDIERS.BRUTUS.Claudius_JC">
             <persName>Claudius</persName>
           </person>
           <person xml:id="Messenger_JC" sex="MALE">
             <persName>Messenger_JC</persName>
           </person>
-          <person xml:id="SOLDIERS.BRUTUS.Cato_JC" sex="MALE">
+          <person xml:id="SOLDIERS.BRUTUS.Cato_JC" sex="MALE" ana="http://www.wikidata.org/entity/Q1359509">
             <persName>Young Cato</persName>
           </person>
           <personGrp xml:id="SOLDIERS.ANTONY.0.1_JC" sex="UNKNOWN">
@@ -247,7 +247,7 @@
           <person xml:id="SOLDIERS.BRUTUS.Dardanus_JC" sex="MALE">
             <persName>Dardanus</persName>
           </person>
-          <person xml:id="SOLDIERS.BRUTUS.Volumnius_JC" sex="MALE">
+          <person xml:id="SOLDIERS.BRUTUS.Volumnius_JC" sex="MALE" ana="http://www.wikidata.org/entity/Q7258146">
             <persName>Volumnius</persName>
           </person>
           <person xml:id="SOLDIERS.BRUTUS.Strato_JC" sex="MALE">

@@ -109,46 +109,46 @@
           <personGrp xml:id="WITCHES.3_Mac" sex="UNKNOWN">
             <name>WITCHES.3_Mac</name>
           </personGrp>
-          <person xml:id="Duncan_Mac" ana="http://www.wikidata.org/entity/Q26326">
+          <person xml:id="Duncan_Mac" ana="http://www.wikidata.org/entity/Q15698348">
             <persName>Duncan</persName>
           </person>
-          <person xml:id="Malcolm_Mac" ana="http://www.wikidata.org/entity/Q68508">
+          <person xml:id="Malcolm_Mac" ana="http://www.wikidata.org/entity/Q16203840">
             <persName>Malcolm</persName>
           </person>
-          <personGrp xml:id="SOLDIERS.Captain_Mac" sex="UNKNOWN">
+          <personGrp xml:id="SOLDIERS.Captain_Mac" sex="MALE" ana="http://www.wikidata.org/entity/Q64145671">
             <name>SOLDIERS.Captain_Mac</name>
           </personGrp>
-          <person xml:id="Lennox_Mac" sex="MALE">
+          <person xml:id="Lennox_Mac" sex="MALE" ana="http://www.wikidata.org/entity/Q64145662">
             <persName>Lennox</persName>
           </person>
-          <person xml:id="Ross_Mac" sex="MALE">
+          <person xml:id="Ross_Mac" sex="MALE" ana="http://www.wikidata.org/entity/Q64145659">
             <persName>Ross</persName>
           </person>
-          <person xml:id="Macbeth_Mac" ana="http://www.wikidata.org/entity/Q244403">
+          <person xml:id="Macbeth_Mac" ana="http://www.wikidata.org/entity/Q10322723">
             <persName>Macbeth</persName>
           </person>
-          <person xml:id="Banquo_Mac" sex="MALE">
+          <person xml:id="Banquo_Mac" sex="MALE" ana="http://www.wikidata.org/entity/Q806945">
             <persName>Banquo</persName>
           </person>
-          <person xml:id="Angus_Mac" sex="MALE">
+          <person xml:id="Angus_Mac" sex="MALE" ana="http://www.wikidata.org/entity/Q64145663">
             <persName>Angus</persName>
           </person>
-          <person xml:id="LadyMacbeth_Mac" ana="http://www.wikidata.org/entity/Q272390">
+          <person xml:id="LadyMacbeth_Mac" ana="http://www.wikidata.org/entity/Q2454065">
             <persName>Lady Macbeth</persName>
           </person>
           <personGrp xml:id="MESSENGERS.1_Mac" sex="UNKNOWN">
             <name>Three Messengers, Three Servants, a Lord, a Soldier</name>
           </personGrp>
-          <person xml:id="Fleance_Mac" sex="MALE">
+          <person xml:id="Fleance_Mac" sex="MALE" ana="http://www.wikidata.org/entity/Q3429667">
             <persName>Fleance</persName>
           </person>
-          <person xml:id="Porter_Mac" sex="MALE">
+          <person xml:id="Porter_Mac" sex="MALE" ana="http://www.wikidata.org/entity/Q64145679">
             <persName>Porter_Mac</persName>
           </person>
-          <person xml:id="Macduff_Mac" sex="MALE">
+          <person xml:id="Macduff_Mac" sex="MALE" ana="http://www.wikidata.org/entity/Q3842048">
             <persName>Macduff</persName>
           </person>
-          <person xml:id="Donalbain_Mac" ana="http://www.wikidata.org/entity/Q356602">
+          <person xml:id="Donalbain_Mac" ana="http://www.wikidata.org/entity/Q5293903">
             <persName>Donalbain</persName>
           </person>
           <person xml:id="OldMan_Mac" sex="MALE">
@@ -157,22 +157,22 @@
           <personGrp xml:id="SERVANTS.X.2_Mac" sex="UNKNOWN">
             <name>Three Messengers, Three Servants, a Lord, a Soldier</name>
           </personGrp>
-          <personGrp xml:id="MURDERERS.1_Mac" sex="UNKNOWN">
+          <personGrp xml:id="MURDERERS.1_Mac" sex="MALE" ana="http://www.wikidata.org/entity/Q64145673">
             <name>MURDERERS.1_Mac</name>
           </personGrp>
-          <personGrp xml:id="MURDERERS.2_Mac" sex="UNKNOWN">
+          <personGrp xml:id="MURDERERS.2_Mac" sex="MALE" ana="http://www.wikidata.org/entity/Q64145675">
             <name>MURDERERS.2_Mac</name>
           </personGrp>
           <personGrp xml:id="SERVANTS.X.3_Mac" sex="UNKNOWN">
             <name>Three Messengers, Three Servants, a Lord, a Soldier</name>
           </personGrp>
-          <personGrp xml:id="MURDERERS.3_Mac" sex="UNKNOWN">
+          <personGrp xml:id="MURDERERS.3_Mac" sex="MALE" ana="http://www.wikidata.org/entity/Q64145677">
             <name>MURDERERS.3_Mac</name>
           </personGrp>
           <personGrp xml:id="ATTENDANTS_Mac" sex="UNKNOWN">
             <name>Attendants, a Sewer, Servants, Lords, Thanes, Soldiers (all nonspeaking)</name>
           </personGrp>
-          <person xml:id="Hecate_Mac" sex="FEMALE">
+          <person xml:id="Hecate_Mac" sex="FEMALE" ana="http://www.wikidata.org/entity/Q64145668">
             <persName>Hecate</persName>
           </person>
           <personGrp xml:id="Lord_Mac" sex="UNKNOWN">
@@ -187,10 +187,10 @@
           <personGrp xml:id="SPIRITS.3_Mac" sex="UNKNOWN">
             <name>SPIRITS.3_Mac</name>
           </personGrp>
-          <person xml:id="LadyMacduff_Mac" sex="FEMALE">
+          <person xml:id="LadyMacduff_Mac" sex="FEMALE" ana="http://www.wikidata.org/entity/Q6470383">
             <persName>Lady Macduff</persName>
           </person>
-          <person xml:id="MacduffsSon_Mac" sex="MALE">
+          <person xml:id="MacduffsSon_Mac" sex="MALE" ana="http://www.wikidata.org/entity/Q6723008">
             <persName>MacduffsSon_Mac</persName>
           </person>
           <personGrp xml:id="MESSENGERS.2_Mac" sex="UNKNOWN">
@@ -199,28 +199,28 @@
           <personGrp xml:id="MURDERERS.0.1_Mac" sex="UNKNOWN">
             <name>MURDERERS.0.1_Mac</name>
           </personGrp>
-          <person xml:id="Doctor1_Mac" sex="MALE">
+          <person xml:id="Doctor1_Mac" sex="MALE" ana="http://www.wikidata.org/entity/Q64145681">
             <persName>Doctor1_Mac</persName>
           </person>
-          <person xml:id="Doctor2_Mac">
+          <person xml:id="Doctor2_Mac" ana="http://www.wikidata.org/entity/Q64145683">
             <persName>both attending upon Lady Macbeth</persName>
           </person>
-          <person xml:id="Gentlewoman_Mac">
+          <person xml:id="Gentlewoman_Mac" ana="http://www.wikidata.org/entity/Q64145684">
             <persName>both attending upon Lady Macbeth</persName>
           </person>
-          <person xml:id="Menteith_Mac" sex="MALE">
+          <person xml:id="Menteith_Mac" sex="MALE" ana="http://www.wikidata.org/entity/Q64145664">
             <persName>Menteith</persName>
           </person>
-          <person xml:id="Caithness_Mac" sex="MALE">
+          <person xml:id="Caithness_Mac" sex="MALE" ana="http://www.wikidata.org/entity/Q64145665">
             <persName>Caithness</persName>
           </person>
           <personGrp xml:id="SERVANTS.X.4_Mac" sex="UNKNOWN">
             <name>Three Messengers, Three Servants, a Lord, a Soldier</name>
           </personGrp>
-          <person xml:id="Seyton_Mac" sex="MALE">
+          <person xml:id="Seyton_Mac" sex="MALE" ana="http://www.wikidata.org/entity/Q64145666">
             <persName>Seyton</persName>
           </person>
-          <person xml:id="Siward_Mac" ana="http://www.wikidata.org/entity/Q68366">
+          <person xml:id="Siward_Mac" sex="MALE" ana="http://www.wikidata.org/entity/Q68366">
             <persName>Siward</persName>
           </person>
           <personGrp xml:id="SOLDIERS.MALCOLM.0.1_Mac" sex="UNKNOWN">
@@ -229,7 +229,7 @@
           <personGrp xml:id="MESSENGERS.3_Mac" sex="UNKNOWN">
             <name>Three Messengers, Three Servants, a Lord, a Soldier</name>
           </personGrp>
-          <person xml:id="YoungSiward_Mac" ana="http://www.wikidata.org/entity/Q68366">
+          <person xml:id="YoungSiward_Mac" sex="MALE" ana="http://www.wikidata.org/entity/Q16205679">
             <persName>Young Siward</persName>
           </person>
           <personGrp xml:id="SOLDIERS.MALCOLM_Mac" sex="UNKNOWN">

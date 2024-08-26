@@ -112,7 +112,7 @@
           <person xml:id="Captain_Tit" sex="MALE">
             <persName>Captain</persName>
           </person>
-          <person xml:id="Titus_Tit" sex="MALE">
+          <person xml:id="Titus_Tit" sex="MALE" ana="http://www.wikidata.org/entity/Q16930950">
             <persName>Titus Andronicus</persName>
           </person>
           <person xml:id="Lucius_Tit" sex="MALE">

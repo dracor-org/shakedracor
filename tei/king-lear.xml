@@ -106,19 +106,19 @@
           <person xml:id="Gloucester_Lr" sex="MALE">
             <persName>Earl of Gloucester</persName>
           </person>
-          <person xml:id="Edmund_Lr" sex="MALE">
+          <person xml:id="Edmund_Lr" sex="MALE" ana="http://www.wikidata.org/entity/Q5339222">
             <persName>Edmund</persName>
           </person>
-          <person xml:id="Lear_Lr" ana="http://www.wikidata.org/entity/Q1800394">
+          <person xml:id="Lear_Lr" ana="http://www.wikidata.org/entity/Q28469410">
             <persName>Lear</persName>
           </person>
-          <person xml:id="Goneril_Lr" sex="FEMALE">
+          <person xml:id="Goneril_Lr" sex="FEMALE" ana="http://www.wikidata.org/entity/Q16385853">
             <persName>Goneril</persName>
           </person>
-          <person xml:id="Cordelia_Lr" sex="FEMALE">
+          <person xml:id="Cordelia_Lr" sex="FEMALE" ana="http://www.wikidata.org/entity/Q5169921">
             <persName>Cordelia</persName>
           </person>
-          <person xml:id="Regan_Lr" sex="FEMALE">
+          <person xml:id="Regan_Lr" sex="FEMALE" ana="http://www.wikidata.org/entity/Q7307943">
             <persName>Regan</persName>
           </person>
           <person xml:id="Albany_Lr" sex="MALE">

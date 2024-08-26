@@ -100,45 +100,43 @@
       </langUsage>
       <particDesc>
         <listPerson>
-          <person xml:id="Warwick_2H6" ana="http://www.wikidata.org/entity/Q923162">
+          <person xml:id="Warwick_2H6" ana="http://www.wikidata.org/entity/Q437571">
             <persName>Warwick</persName>
           </person>
-          <person xml:id="York_1H6" sex="MALE ">
+          <person xml:id="York_1H6" sex="MALE" ana="http://www.wikidata.org/entity/Q312137">
             <persName>York</persName>
           </person>
           <person xml:id="EdwardIV_3H6" ana="http://www.wikidata.org/entity/Q160341">
             <persName>Edward King Edward IV</persName>
-            <persName>Edward King Edward IV</persName>
           </person>
-          <person xml:id="Montague_3H6" sex="MALE ">
+          <person xml:id="Montague_3H6" sex="MALE" ana="http://www.wikidata.org/entity/Q384856">
             <persName>Montague</persName>
           </person>
-          <person xml:id="RichardIII_R3" ana="http://www.wikidata.org/entity/Q7323515">
-            <persName>Richard Gloucester</persName>
+          <person xml:id="RichardIII_R3" ana="http://www.wikidata.org/entity/Q133028">
             <persName>Richard Gloucester</persName>
           </person>
-          <person xml:id="Norfolk_3H6" sex="MALE ">
+          <person xml:id="Norfolk_3H6" sex="MALE" ana="http://www.wikidata.org/entity/Q326769">
             <persName>Norfolk</persName>
           </person>
           <person xml:id="HenryVI_1H6" ana="http://www.wikidata.org/entity/Q160337">
             <persName>King Henry VI</persName>
           </person>
-          <person xml:id="Northumberland_3H6" sex="MALE ">
+          <person xml:id="Northumberland_3H6" sex="MALE" ana="http://www.wikidata.org/entity/Q2521911">
             <persName>Northumberland</persName>
           </person>
-          <person xml:id="Clifford_3H6" sex="MALE ">
+          <person xml:id="Clifford_3H6" sex="MALE" ana="http://www.wikidata.org/entity/Q647319">
             <persName>Clifford</persName>
           </person>
           <person xml:id="Westmorland_3H6" ana="http://www.wikidata.org/entity/Q1972589">
             <persName>Westmorland</persName>
           </person>
-          <person xml:id="Exeter_3H6" sex="MALE ">
+          <person xml:id="Exeter_3H6" sex="MALE" ana="http://www.wikidata.org/entity/Q1452585">
             <persName>Exeter</persName>
           </person>
-          <person xml:id="QueenMargaret_1H6" ana="http://www.wikidata.org/entity/Q229159">
+          <person xml:id="QueenMargaret_1H6" sex="FEMALE" ana="http://www.wikidata.org/entity/Q231145">
             <persName>Queen Margaret</persName>
           </person>
-          <person xml:id="PrinceEdward_3H6" sex="MALE ">
+          <person xml:id="PrinceEdward_3H6" sex="MALE" ana="http://www.wikidata.org/entity/Q313262">
             <persName>Prince Edward</persName>
           </person>
           <personGrp xml:id="MESSENGERS.X.1_3H6" sex="UNKNOWN">
@@ -147,7 +145,7 @@
           <person xml:id="JohnMortimer_3H6" sex="MALE">
             <persName>Sir John</persName>
           </person>
-          <person xml:id="Rutland_3H6" sex="MALE">
+          <person xml:id="Rutland_3H6" sex="MALE" ana="http://www.wikidata.org/entity/Q1285898">
             <persName>Rutland</persName>
           </person>
           <person xml:id="Tutor_3H6" sex="MALE">
@@ -162,8 +160,7 @@
           <personGrp xml:id="MESSENGERS.X.4_3H6" sex="UNKNOWN">
             <name>MESSENGERS.X.4_3H6</name>
           </personGrp>
-          <person xml:id="Clarence_3H6" sex="MALE">
-            <persName>George Clarence</persName>
+          <person xml:id="Clarence_3H6" sex="MALE" ana="http://www.wikidata.org/entity/Q356173">
             <persName>George Clarence</persName>
           </person>
           <person xml:id="Son_3H6" sex="MALE">
@@ -178,29 +175,28 @@
           <person xml:id="GAMEKEEPERS.2_3H6" sex="MALE">
             <persName>Second Gamekeeper</persName>
           </person>
-          <person xml:id="QueenElizabeth_3H6" sex="FEMALE">
-            <persName>Lady Grey Queen Elizabeth</persName>
+          <person xml:id="QueenElizabeth_3H6" sex="FEMALE" ana="http://www.wikidata.org/entity/Q229214">
             <persName>Lady Grey Queen Elizabeth</persName>
           </person>
           <person xml:id="ATTENDANTS.EDWARD.1_3H6" sex="MALE">
             <persName>Nobleman</persName>
           </person>
-          <person xml:id="KingLewis_3H6" sex="MALE">
+          <person xml:id="KingLewis_3H6" sex="MALE" ana="http://www.wikidata.org/entity/Q8058">
             <persName>King Lewis</persName>
           </person>
-          <person xml:id="Oxford_3H6" sex="MALE">
+          <person xml:id="Oxford_3H6" sex="MALE" ana="http://www.wikidata.org/entity/Q1332495">
             <persName>Oxford</persName>
           </person>
-          <person xml:id="LadyBona_3H6" sex="FEMALE">
+          <person xml:id="LadyBona_3H6" sex="FEMALE" ana="http://www.wikidata.org/entity/Q2721001">
             <persName>Lady Bona</persName>
           </person>
           <person xml:id="MESSENGERS.Post_3H6" sex="MALE">
             <persName>Post</persName>
           </person>
-          <person xml:id="Somerset_3H6" sex="MALE">
+          <person xml:id="Somerset_3H6" sex="MALE" ana="http://www.wikidata.org/entity/Q714475">
             <persName>Somerset</persName>
           </person>
-          <person xml:id="Hastings_3H6" sex="MALE">
+          <person xml:id="Hastings_3H6" sex="MALE" ana="http://www.wikidata.org/entity/Q1396340">
             <persName>Hastings</persName>
           </person>
           <person xml:id="WATCHMEN.1_3H6" sex="MALE">
@@ -212,7 +208,7 @@
           <person xml:id="WATCHMEN.3_3H6" sex="MALE">
             <persName>Third Watch</persName>
           </person>
-          <person xml:id="Rivers_3H6" sex="MALE">
+          <person xml:id="Rivers_3H6" sex="MALE" ana="http://www.wikidata.org/entity/Q574171">
             <persName>Rivers</persName>
           </person>
           <person xml:id="Huntsman_3H6" sex="MALE">

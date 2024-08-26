@@ -105,7 +105,6 @@
           </person>
           <personGrp xml:id="CITIZENS.ROMAN_Cor" sex="UNKNOWN">
             <name>Citizens Plebeians</name>
-            <name>Citizens Plebeians</name>
           </personGrp>
           <person xml:id="CITIZENS.ROMAN.0.2_Cor" sex="MALE">
             <persName>CITIZENS.ROMAN.0.2_Cor</persName>
@@ -114,7 +113,6 @@
             <persName>Menenius</persName>
           </person>
           <person xml:id="Coriolanus_Cor" ana="http://www.wikidata.org/entity/Q570532">
-            <persName>Martius Coriolanus</persName>
             <persName>Martius Coriolanus</persName>
           </person>
           <person xml:id="MESSENGERS.X.1_Cor" sex="MALE">
@@ -129,7 +127,7 @@
           <person xml:id="Lartius_Cor" ana="http://www.wikidata.org/entity/Q529867">
             <persName>Lartius</persName>
           </person>
-          <person xml:id="TRIBUNES.Sicinius_Cor" ana="http://www.wikidata.org/entity/Q1235782">
+          <person xml:id="TRIBUNES.Sicinius_Cor" ana="http://www.wikidata.org/entity/Q11934167">
             <persName>Sicinius</persName>
           </person>
           <person xml:id="TRIBUNES.Brutus_Cor" ana="http://www.wikidata.org/entity/Q223440">
@@ -147,10 +145,10 @@
           <person xml:id="SENATORS.VOLSCIAN_Cor" sex="MALE">
             <persName>SENATORS.VOLSCIAN_Cor</persName>
           </person>
-          <person xml:id="Volumnia_Cor" sex="FEMALE">
+          <person xml:id="Volumnia_Cor" sex="FEMALE" ana="http://www.wikidata.org/entity/Q7940930">
             <persName>Volumnia</persName>
           </person>
-          <person xml:id="Virgilia_Cor" ana="http://www.wikidata.org/entity/Q543615">
+          <person xml:id="Virgilia_Cor" ana="http://www.wikidata.org/entity/Q17043438">
             <persName>Virgilia</persName>
           </person>
           <person xml:id="Gentlewoman_Cor" sex="FEMALE">
