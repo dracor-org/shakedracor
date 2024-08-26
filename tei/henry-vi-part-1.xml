@@ -145,7 +145,7 @@
           <personGrp xml:id="WARDERS.2_1H6" sex="UNKNOWN">
             <name>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</name>
           </personGrp>
-          <person xml:id="Woodville_1H6" sex="MALE">
+          <person xml:id="Woodville_1H6" sex="MALE" ana="http://www.wikidata.org/entity/Q934384">
             <persName>Woodville</persName>
           </person>
           <personGrp xml:id="SERVANTS.GLOUCESTER_1H6" sex="UNKNOWN">
@@ -196,7 +196,7 @@
           <personGrp xml:id="SOLDIERS.ENGLISH.0.1_1H6" sex="UNKNOWN">
             <name>Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors</name>
           </personGrp>
-          <person xml:id="Countess_1H6" sex="FEMALE">
+          <person xml:id="Countess_1H6" sex="FEMALE" ana="http://www.wikidata.org/entity/Q1254053">
             <persName>Countess</persName>
           </person>
           <person xml:id="Porter_1H6" sex="MALE">
@@ -204,12 +204,11 @@
           </person>
           <person xml:id="York_1H6" ana="http://www.wikidata.org/entity/Q312137">
             <persName>Plantagenet York</persName>
-            <persName>Plantagenet York</persName>
           </person>
           <person xml:id="Suffolk_1H6" ana="http://www.wikidata.org/entity/Q584430">
             <persName>Suffolk</persName>
           </person>
-          <person xml:id="Somerset_1H6" sex="MALE">
+          <person xml:id="Somerset_1H6" sex="MALE" ana="http://www.wikidata.org/entity/Q919338">
             <persName>Somerset</persName>
           </person>
           <person xml:id="Warwick_2H4" ana="http://www.wikidata.org/entity/Q592988">
@@ -221,7 +220,7 @@
           <person xml:id="Lawyer_1H6" sex="MALE">
             <persName>Lawyer</persName>
           </person>
-          <person xml:id="Mortimer_1H4" sex="MALE">
+          <person xml:id="Mortimer_1H4" sex="MALE" ana="http://www.wikidata.org/entity/Q3402270">
             <persName>Mortimer</persName>
           </person>
           <personGrp xml:id="JAILERS.0.1_1H6" sex="UNKNOWN">
@@ -284,10 +283,10 @@
           <personGrp xml:id="SOLDIERS.FRENCH.Scout_1H6" sex="UNKNOWN">
             <name>Drummer, Soldiers, two Sentinels, Messenger, Soldiers, Governor of Paris, Herald, Scout, Fiends accompanying Pucelle</name>
           </personGrp>
-          <person xml:id="QueenMargaret_1H6" ana="http://www.wikidata.org/entity/Q231145">
+          <person xml:id="QueenMargaret_1H6" sex="FEMALE" ana="http://www.wikidata.org/entity/Q231145">
             <persName>Margaret</persName>
           </person>
-          <person xml:id="Shepherd_1H6" ana="http://www.wikidata.org/entity/Q3160219">
+          <person xml:id="Shepherd_1H6" sex="MALE" ana="http://www.wikidata.org/entity/Q3160219">
             <persName>Shepherd</persName>
           </person>
         </listPerson>
