@@ -2675,10 +2675,10 @@
                       who="#Stephano_Tmp">Enter Stephano singing. </stage>
           <sp xml:id="sp-1104" who="#Stephano_Tmp">
             <speaker xml:id="spk-1104">STEPHANO </speaker>
-            <q xml:id="q-1104" type="song">
+            <p><q xml:id="q-1104" type="song">
               <l xml:id="ftln-1104" n="2.2.43">I shall no more to sea, to sea. </l>
               <l xml:id="ftln-1105" n="2.2.44">Here shall I die ashore— </l>
-            </q>
+            </q></p>
             <p xml:id="p-1106">
               <lb xml:id="ftln-1106" n="2.2.45"/>This is a very scurvy tune to sing at a man’s funeral. <lb xml:id="ftln-1107" n="2.2.46"/>Well, here’s my comfort. </p>
             <stage xml:id="stg-1107"

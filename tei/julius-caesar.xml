@@ -2656,8 +2656,8 @@
                       who="#Artemidorus_JC">Enter Artemidorus reading a paper. </stage>
           <sp xml:id="sp-1084" who="#Artemidorus_JC">
             <speaker xml:id="spk-1084">ARTEMIDORUS </speaker>
-            <q type="letter" xml:id="p-1084">
-              <lb xml:id="ftln-1084" n="2.3.1"/>Caesar, beware of Brutus, take heed of <lb xml:id="ftln-1085" n="2.3.2"/>Cassius, come not near Casca, have an eye to Cinna, <lb xml:id="ftln-1086" n="2.3.3"/>trust not Trebonius, mark well Metellus Cimber. <lb xml:id="ftln-1087" n="2.3.4"/>Decius Brutus loves thee not. Thou hast wronged <lb xml:id="ftln-1088" n="2.3.5"/>Caius Ligarius. There is but one mind in all these <lb xml:id="ftln-1089" n="2.3.6"/>men, and it is bent against Caesar. If thou beest not <lb xml:id="ftln-1090" n="2.3.7"/>immortal, look about you. Security gives way to <lb xml:id="ftln-1091" n="2.3.8"/>conspiracy. The mighty gods defend thee! <lb xml:id="ftln-1092" n="2.3.9"/>Thy lover, <lb xml:id="ftln-1093" n="2.3.10"/>Artemidorus </q>
+            <l><q type="letter" xml:id="p-1084">
+              <lb xml:id="ftln-1084" n="2.3.1"/>Caesar, beware of Brutus, take heed of <lb xml:id="ftln-1085" n="2.3.2"/>Cassius, come not near Casca, have an eye to Cinna, <lb xml:id="ftln-1086" n="2.3.3"/>trust not Trebonius, mark well Metellus Cimber. <lb xml:id="ftln-1087" n="2.3.4"/>Decius Brutus loves thee not. Thou hast wronged <lb xml:id="ftln-1088" n="2.3.5"/>Caius Ligarius. There is but one mind in all these <lb xml:id="ftln-1089" n="2.3.6"/>men, and it is bent against Caesar. If thou beest not <lb xml:id="ftln-1090" n="2.3.7"/>immortal, look about you. Security gives way to <lb xml:id="ftln-1091" n="2.3.8"/>conspiracy. The mighty gods defend thee! <lb xml:id="ftln-1092" n="2.3.9"/>Thy lover, <lb xml:id="ftln-1093" n="2.3.10"/>Artemidorus </q></l>
             <l xml:id="ftln-1094" n="2.3.11">Here will I stand till Caesar pass along, </l>
             <l xml:id="ftln-1095" n="2.3.12">And as a suitor will I give him this. </l>
             <l xml:id="ftln-1096" n="2.3.13">My heart laments that virtue cannot live </l>

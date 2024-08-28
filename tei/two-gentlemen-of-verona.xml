@@ -3232,7 +3232,7 @@
                          n="SD 3.1.141.1"
                          type="delivery"
                          rendition="indentProse">( Reads.) </stage>
-            <q xml:id="q-1209" type="letter">
+            <ab><q xml:id="q-1209" type="letter">
               <lg xml:id="stz-1209" type="quatrain">
                 <l xml:id="ftln-1209" n="3.1.142">My thoughts do harbor with my Sylvia nightly, </l>
                 <l xml:id="ftln-1210" n="3.1.143">And slaves they are to me that send them flying. </l>
@@ -3249,12 +3249,12 @@
                 <l xml:id="ftln-1219" n="3.1.152">I curse myself, for they are sent by me, </l>
                 <l xml:id="ftln-1220" n="3.1.153">That they should harbor where their lord should be. </l>
               </lg>
-            </q>
+            </q></ab>
             <l xml:id="ftln-1221" n="3.1.154" ana="#short">What’s here? </l>
             <stage xml:id="stg-1222" n="SD 3.1.155" type="delivery">( Reads.) </stage>
-            <q xml:id="q-1222" type="letter">
+            <ab><q xml:id="q-1222" type="letter">
               <l xml:id="ftln-1222" n="3.1.155">Sylvia, this night I will enfranchise thee. </l>
-            </q>
+            </q></ab>
             <l xml:id="ftln-1223" n="3.1.156">’Tis so. And here’s the ladder for the purpose. </l>
             <l xml:id="ftln-1224" n="3.1.157">Why, Phaëton— for thou art Merops’ son— </l>
             <l xml:id="ftln-1225" n="3.1.158">Wilt thou aspire to guide the heavenly car </l>
@@ -3597,8 +3597,8 @@
           </sp>
           <sp xml:id="sp-1372" who="#Speed_TGV">
             <speaker xml:id="spk-1372">SPEED </speaker>
-            <q xml:id="p-1372" type="letter">
-              <lb xml:id="ftln-1372" n="3.1.305"/>Item, She brews good ale. </q>
+            <p><q xml:id="p-1372" type="letter">
+              <lb xml:id="ftln-1372" n="3.1.305"/>Item, She brews good ale. </q></p>
           </sp>
           <sp xml:id="sp-1373" who="#Lance_TGV">
             <speaker xml:id="spk-1373">LANCE </speaker>
@@ -3607,8 +3607,8 @@
           </sp>
           <sp xml:id="sp-1375" who="#Speed_TGV">
             <speaker xml:id="spk-1375">SPEED </speaker>
-            <q xml:id="p-1375" type="letter">
-              <lb xml:id="ftln-1375" n="3.1.308"/>Item, She can sew. </q>
+            <p><q xml:id="p-1375" type="letter">
+              <lb xml:id="ftln-1375" n="3.1.308"/>Item, She can sew. </q></p>
           </sp>
           <sp xml:id="sp-1376" who="#Lance_TGV">
             <speaker xml:id="spk-1376">LANCE </speaker>
@@ -3617,8 +3617,8 @@
           </sp>
           <sp xml:id="sp-1377" who="#Speed_TGV">
             <speaker xml:id="spk-1377">SPEED </speaker>
-            <q xml:id="p-1377" type="letter">
-              <lb xml:id="ftln-1377" n="3.1.310"/>Item, She can knit. </q>
+            <p><q xml:id="p-1377" type="letter">
+              <lb xml:id="ftln-1377" n="3.1.310"/>Item, She can knit. </q></p>
           </sp>
           <sp xml:id="sp-1378" who="#Lance_TGV">
             <speaker xml:id="spk-1378">LANCE </speaker>
@@ -3627,8 +3627,8 @@
           </sp>
           <sp xml:id="sp-1380" who="#Speed_TGV">
             <speaker xml:id="spk-1380">SPEED </speaker>
-            <q xml:id="p-1380" type="letter">
-              <lb xml:id="ftln-1380" n="3.1.313"/>Item, She can wash and scour. </q>
+            <p><q xml:id="p-1380" type="letter">
+              <lb xml:id="ftln-1380" n="3.1.313"/>Item, She can wash and scour. </q></p>
           </sp>
           <sp xml:id="sp-1381" who="#Lance_TGV">
             <speaker xml:id="spk-1381">LANCE </speaker>
@@ -3637,8 +3637,8 @@
           </sp>
           <sp xml:id="sp-1383" who="#Speed_TGV">
             <speaker xml:id="spk-1383">SPEED </speaker>
-            <q xml:id="p-1383" type="letter">
-              <lb xml:id="ftln-1383" n="3.1.316"/>Item, She can spin. </q>
+            <p><q xml:id="p-1383" type="letter">
+              <lb xml:id="ftln-1383" n="3.1.316"/>Item, She can spin. </q></p>
           </sp>
           <sp xml:id="sp-1384" who="#Lance_TGV">
             <speaker xml:id="spk-1384">LANCE </speaker>
@@ -3647,8 +3647,8 @@
           </sp>
           <sp xml:id="sp-1386" who="#Speed_TGV">
             <speaker xml:id="spk-1386">SPEED </speaker>
-            <q xml:id="p-1386" type="letter">
-              <lb xml:id="ftln-1386" n="3.1.319"/>Item, She hath many nameless virtues. </q>
+            <p><q xml:id="p-1386" type="letter">
+              <lb xml:id="ftln-1386" n="3.1.319"/>Item, She hath many nameless virtues. </q></p>
           </sp>
           <sp xml:id="sp-1387" who="#Lance_TGV">
             <speaker xml:id="spk-1387">LANCE </speaker>
@@ -3667,8 +3667,8 @@
           </sp>
           <sp xml:id="sp-1392" who="#Speed_TGV">
             <speaker xml:id="spk-1392">SPEED </speaker>
-            <q xml:id="p-1392" type="letter">
-              <lb xml:id="ftln-1392" n="3.1.325"/>Item, She is not to be kissed fasting in respect of <lb xml:id="ftln-1393" n="3.1.326"/>her breath. </q>
+            <p><q xml:id="p-1392" type="letter">
+              <lb xml:id="ftln-1392" n="3.1.325"/>Item, She is not to be kissed fasting in respect of <lb xml:id="ftln-1393" n="3.1.326"/>her breath. </q></p>
           </sp>
           <sp xml:id="sp-1394" who="#Lance_TGV">
             <speaker xml:id="spk-1394">LANCE </speaker>
@@ -3677,8 +3677,8 @@
           </sp>
           <sp xml:id="sp-1396" who="#Speed_TGV">
             <speaker xml:id="spk-1396">SPEED </speaker>
-            <q xml:id="p-1396" type="letter">
-              <lb xml:id="ftln-1396" n="3.1.329"/>Item, She hath a sweet mouth. </q>
+            <p><q xml:id="p-1396" type="letter">
+              <lb xml:id="ftln-1396" n="3.1.329"/>Item, She hath a sweet mouth. </q></p>
           </sp>
           <sp xml:id="sp-1397" who="#Lance_TGV">
             <speaker xml:id="spk-1397">LANCE </speaker>
@@ -3687,8 +3687,8 @@
           </sp>
           <sp xml:id="sp-1398" who="#Speed_TGV">
             <speaker xml:id="spk-1398">SPEED </speaker>
-            <q xml:id="p-1398" type="letter">
-              <lb xml:id="ftln-1398" n="3.1.331"/>Item, She doth talk in her sleep. </q>
+            <p><q xml:id="p-1398" type="letter">
+              <lb xml:id="ftln-1398" n="3.1.331"/>Item, She doth talk in her sleep. </q></p>
           </sp>
           <sp xml:id="sp-1399" who="#Lance_TGV">
             <speaker xml:id="spk-1399">LANCE </speaker>
@@ -3697,8 +3697,8 @@
           </sp>
           <sp xml:id="sp-1401" who="#Speed_TGV">
             <speaker xml:id="spk-1401">SPEED </speaker>
-            <q xml:id="p-1401" type="letter">
-              <lb xml:id="ftln-1401" n="3.1.334"/>Item, She is slow in words. </q>
+            <p><q xml:id="p-1401" type="letter">
+              <lb xml:id="ftln-1401" n="3.1.334"/>Item, She is slow in words. </q></p>
           </sp>
           <sp xml:id="sp-1402" who="#Lance_TGV">
             <speaker xml:id="spk-1402">LANCE </speaker>
@@ -3707,8 +3707,8 @@
           </sp>
           <sp xml:id="sp-1405" who="#Speed_TGV">
             <speaker xml:id="spk-1405">SPEED </speaker>
-            <q xml:id="p-1405" type="letter">
-              <lb xml:id="ftln-1405" n="3.1.338"/>Item, She is proud. </q>
+            <p><q xml:id="p-1405" type="letter">
+              <lb xml:id="ftln-1405" n="3.1.338"/>Item, She is proud. </q></p>
           </sp>
           <sp xml:id="sp-1406" who="#Lance_TGV">
             <speaker xml:id="spk-1406">LANCE </speaker>
@@ -3717,8 +3717,8 @@
           </sp>
           <sp xml:id="sp-1408" who="#Speed_TGV">
             <speaker xml:id="spk-1408">SPEED </speaker>
-            <q xml:id="p-1408" type="letter">
-              <lb xml:id="ftln-1408" n="3.1.341"/>Item, She hath no teeth. </q>
+            <p><q xml:id="p-1408" type="letter">
+              <lb xml:id="ftln-1408" n="3.1.341"/>Item, She hath no teeth. </q></p>
           </sp>
           <sp xml:id="sp-1409" who="#Lance_TGV">
             <speaker xml:id="spk-1409">LANCE </speaker>
@@ -3727,8 +3727,8 @@
           </sp>
           <sp xml:id="sp-1410" who="#Speed_TGV">
             <speaker xml:id="spk-1410">SPEED </speaker>
-            <q xml:id="p-1410" type="letter">
-              <lb xml:id="ftln-1410" n="3.1.343"/>Item, She is curst. </q>
+            <p><q xml:id="p-1410" type="letter">
+              <lb xml:id="ftln-1410" n="3.1.343"/>Item, She is curst. </q></p>
           </sp>
           <sp xml:id="sp-1411" who="#Lance_TGV">
             <speaker xml:id="spk-1411">LANCE </speaker>
@@ -3737,8 +3737,8 @@
           </sp>
           <sp xml:id="sp-1412" who="#Speed_TGV">
             <speaker xml:id="spk-1412">SPEED </speaker>
-            <q xml:id="p-1412" type="letter">
-              <lb xml:id="ftln-1412" n="3.1.345"/>Item, She will often praise her liquor. </q>
+            <p><q xml:id="p-1412" type="letter">
+              <lb xml:id="ftln-1412" n="3.1.345"/>Item, She will often praise her liquor. </q></p>
           </sp>
           <sp xml:id="sp-1413" who="#Lance_TGV">
             <speaker xml:id="spk-1413">LANCE </speaker>
@@ -3747,8 +3747,8 @@
           </sp>
           <sp xml:id="sp-1415" who="#Speed_TGV">
             <speaker xml:id="spk-1415">SPEED </speaker>
-            <q xml:id="p-1415" type="letter">
-              <lb xml:id="ftln-1415" n="3.1.348"/>Item, She is too liberal. </q>
+            <p><q xml:id="p-1415" type="letter">
+              <lb xml:id="ftln-1415" n="3.1.348"/>Item, She is too liberal. </q></p>
           </sp>
           <sp xml:id="sp-1416" who="#Lance_TGV">
             <speaker xml:id="spk-1416">LANCE </speaker>
@@ -3757,8 +3757,8 @@
           </sp>
           <sp xml:id="sp-1420" who="#Speed_TGV">
             <speaker xml:id="spk-1420">SPEED </speaker>
-            <q xml:id="p-1420" type="letter">
-              <lb xml:id="ftln-1420" n="3.1.353"/>Item, She hath more hair than wit, and more <lb xml:id="ftln-1421" n="3.1.354"/>faults than hairs, and more wealth than faults. </q>
+            <p><q xml:id="p-1420" type="letter">
+              <lb xml:id="ftln-1420" n="3.1.353"/>Item, She hath more hair than wit, and more <lb xml:id="ftln-1421" n="3.1.354"/>faults than hairs, and more wealth than faults. </q></p>
           </sp>
           <sp xml:id="sp-1422" who="#Lance_TGV">
             <speaker xml:id="spk-1422">LANCE </speaker>
@@ -3767,8 +3767,8 @@
           </sp>
           <sp xml:id="sp-1425" who="#Speed_TGV">
             <speaker xml:id="spk-1425">SPEED </speaker>
-            <q xml:id="p-1425" type="letter">
-              <lb xml:id="ftln-1425" n="3.1.358"/>Item, She hath more hair than wit. </q>
+            <p><q xml:id="p-1425" type="letter">
+              <lb xml:id="ftln-1425" n="3.1.358"/>Item, She hath more hair than wit. </q></p>
           </sp>
           <sp xml:id="sp-1426" who="#Lance_TGV">
             <speaker xml:id="spk-1426">LANCE </speaker>
@@ -3778,8 +3778,8 @@
           </sp>
           <sp xml:id="sp-1431" who="#Speed_TGV">
             <speaker xml:id="spk-1431">SPEED </speaker>
-            <q xml:id="p-1431" type="letter">
-              <lb xml:id="ftln-1431" n="3.1.364"/>And more faults than hairs. </q>
+            <p><q xml:id="p-1431" type="letter">
+              <lb xml:id="ftln-1431" n="3.1.364"/>And more faults than hairs. </q></p>
           </sp>
           <sp xml:id="sp-1432" who="#Lance_TGV">
             <speaker xml:id="spk-1432">LANCE </speaker>
@@ -3788,8 +3788,8 @@
           </sp>
           <sp xml:id="sp-1433" who="#Speed_TGV">
             <speaker xml:id="spk-1433">SPEED </speaker>
-            <q xml:id="p-1433" type="letter">
-              <lb xml:id="ftln-1433" n="3.1.366"/>And more wealth than faults. </q>
+            <p><q xml:id="p-1433" type="letter">
+              <lb xml:id="ftln-1433" n="3.1.366"/>And more wealth than faults. </q></p>
           </sp>
           <sp xml:id="sp-1434" who="#Lance_TGV">
             <speaker xml:id="spk-1434">LANCE </speaker>

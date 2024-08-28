@@ -2421,8 +2421,8 @@
                       who="#Chamberlain_H8">Enter Lord Chamberlain, reading this letter. </stage>
           <sp xml:id="sp-0974" who="#Chamberlain_H8">
             <speaker xml:id="spk-0974">CHAMBERLAIN </speaker>
-            <q xml:id="p-0974" type="letter">
-              <lb xml:id="ftln-0974" n="2.2.1"/>My lord, the horses your Lordship sent <lb xml:id="ftln-0975" n="2.2.2"/>for, with all the care I had I saw well chosen, ridden, <lb xml:id="ftln-0976" n="2.2.3"/>and furnished. They were young and handsome and <lb xml:id="ftln-0977" n="2.2.4"/>of the best breed in the north. When they were ready <lb xml:id="ftln-0978" n="2.2.5"/>to set out for London, a man of my Lord Cardinal’s, <lb xml:id="ftln-0979" n="2.2.6"/>by commission and main power, took ’em from me <lb xml:id="ftln-0980" n="2.2.7"/>with this reason: his master would be served before <lb xml:id="ftln-0981" n="2.2.8"/>a subject, if not before the King, which stopped our <lb xml:id="ftln-0982" n="2.2.9"/>mouths, sir. </q>
+            <l><q xml:id="p-0974" type="letter">
+              <lb xml:id="ftln-0974" n="2.2.1"/>My lord, the horses your Lordship sent <lb xml:id="ftln-0975" n="2.2.2"/>for, with all the care I had I saw well chosen, ridden, <lb xml:id="ftln-0976" n="2.2.3"/>and furnished. They were young and handsome and <lb xml:id="ftln-0977" n="2.2.4"/>of the best breed in the north. When they were ready <lb xml:id="ftln-0978" n="2.2.5"/>to set out for London, a man of my Lord Cardinal’s, <lb xml:id="ftln-0979" n="2.2.6"/>by commission and main power, took ’em from me <lb xml:id="ftln-0980" n="2.2.7"/>with this reason: his master would be served before <lb xml:id="ftln-0981" n="2.2.8"/>a subject, if not before the King, which stopped our <lb xml:id="ftln-0982" n="2.2.9"/>mouths, sir. </q></l>
             <l xml:id="ftln-0983" n="2.2.10">I fear he will indeed; well, let him have them. </l>
             <l xml:id="ftln-0984" n="2.2.11" ana="#short">He will have all, I think. </l>
           </sp>

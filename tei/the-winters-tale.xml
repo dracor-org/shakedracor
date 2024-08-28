@@ -3274,7 +3274,7 @@
                       who="#Autolycus_WT">Enter Autolycus singing. </stage>
           <sp xml:id="sp-1706" who="#Autolycus_WT">
             <speaker xml:id="spk-1706">AUTOLYCUS </speaker>
-            <q xml:id="q-1706" type="song">
+            <ab><q xml:id="q-1706" type="song">
               <lg xml:id="stz-1706" type="quatrain">
                 <l xml:id="ftln-1706" n="4.3.1">When daffodils begin to peer, </l>
                 <l xml:id="ftln-1707" n="4.3.2">With heigh, the doxy over the dale, </l>
@@ -3293,7 +3293,7 @@
                 <l xml:id="ftln-1716" n="4.3.11">Are summer songs for me and my aunts, </l>
                 <l xml:id="ftln-1717" n="4.3.12">While we lie tumbling in the hay. </l>
               </lg>
-            </q>
+            </q></ab>
             <p xml:id="p-1718">
               <lb xml:id="ftln-1718" n="4.3.13"/>I have served Prince Florizell and in my time wore <lb xml:id="ftln-1719" n="4.3.14"/>three-pile, but now I am out of service. </p>
             <q type="song">
