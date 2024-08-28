@@ -1,11 +1,21 @@
 # ShakeDraCor
-This corpus comprises 37 Shakespeare plays. Our source is the fantastic [Folger Shakespeare Library](https://www.folgerdigitaltexts.org/) (released under the [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/deed.en_US) licence).
 
-The texts were prepared to seemlessly integrate with the DraCor pipeline. Network extraction works out of the box. Click on any play at https://dracor.org/shake and see what happens (e.g., *[Macbeth](https://dracor.org/shake/macbeth)*).
+This corpus comprises 37 Shakespeare plays. Our source is the fantastic
+[Folger Shakespeare Library](https://www.folgerdigitaltexts.org/) (released
+under the
+[CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/deed.en_US)
+licence).
+
+The texts were prepared to seemlessly integrate with the DraCor pipeline. We
+removed tokenization and linguistic markup not relevant for our purposes to
+speed up processing. Network extraction works out of the box. Click on any play
+at https://dracor.org/shake and see what happens (e.g.,
+_[Macbeth](https://dracor.org/shake/macbeth)_).
 
 We also added Wikidata IDs per play.
 
 # Documentation
+
 The Folger documentation is **[here](http://www.folgerdigitaltexts.org/fdt_documentation.pdf)** (PDF).
 
 Excerpt (regarding the encoding of characters):
@@ -15,15 +25,14 @@ Excerpt (regarding the encoding of characters):
 # Additional markup
 
 For the gender markup of the characters, for the distinguishing between group and individual characters, as well as the linking of the characters to the wikidata, we are grateful to
-* Бурушева Алия Асфатовна 
-* Городецкая Яна	Юрьевна
-* Дараган Карина	Михайловна
-* Жбанова Анастасия	Михайловна
-* Курышова Алина	Геннадьевна
-* Павлова Анастасия	Дмитриевна
-* Подлесная Екатерина	Марковна
-* Полякова Карина	Валерьевна
-* Рагулина Виктория	Евгеньевна
-* Синявская Нина	Игоревна
 
-
+- Бурушева Алия Асфатовна
+- Городецкая Яна Юрьевна
+- Дараган Карина Михайловна
+- Жбанова Анастасия Михайловна
+- Курышова Алина Геннадьевна
+- Павлова Анастасия Дмитриевна
+- Подлесная Екатерина Марковна
+- Полякова Карина Валерьевна
+- Рагулина Виктория Евгеньевна
+- Синявская Нина Игоревна
