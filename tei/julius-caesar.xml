@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shake000030">
   <teiHeader>
     <fileDesc>
@@ -99,17 +100,13 @@
       </langUsage>
       <particDesc>
         <listPerson>
-          <person xml:id="Flavius_JC"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q3621464">
+          <person xml:id="Flavius_JC" sex="MALE" ana="http://www.wikidata.org/entity/Q3621464">
             <persName>Flavius</persName>
           </person>
           <person xml:id="COMMONERS.Carpenter_JC" sex="MALE">
             <persName>COMMONERS.Carpenter_JC</persName>
           </person>
-          <person xml:id="Marullus_JC"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q3462675">
+          <person xml:id="Marullus_JC" sex="MALE" ana="http://www.wikidata.org/entity/Q3462675">
             <persName>Marullus</persName>
           </person>
           <person xml:id="COMMONERS.Cobbler_JC" sex="MALE">
@@ -118,14 +115,10 @@
           <person xml:id="Caesar_JC" ana="http://www.wikidata.org/entity/Q1048">
             <persName>Julius Caesar</persName>
           </person>
-          <person xml:id="Casca_JC"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q1243545">
+          <person xml:id="Casca_JC" sex="MALE" ana="http://www.wikidata.org/entity/Q1243545">
             <persName>Casca</persName>
           </person>
-          <person xml:id="Calphurnia_JC"
-                       sex="FEMALE"
-                       ana="http://www.wikidata.org/entity/Q235627">
+          <person xml:id="Calphurnia_JC" sex="FEMALE" ana="http://www.wikidata.org/entity/Q235627">
             <persName>Calphurnia</persName>
           </person>
           <person xml:id="Antony_JC" ana="http://www.wikidata.org/entity/Q51673">
@@ -140,42 +133,28 @@
           <person xml:id="Cassius_JC" ana="http://www.wikidata.org/entity/Q207370">
             <persName>Caius Cassius</persName>
           </person>
-          <person xml:id="Cicero_JC"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q1541">
+          <person xml:id="Cicero_JC" sex="MALE" ana="http://www.wikidata.org/entity/Q1541">
             <persName>Cicero</persName>
           </person>
-          <person xml:id="Cinna_JC"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q646993">
+          <person xml:id="Cinna_JC" sex="MALE" ana="http://www.wikidata.org/entity/Q646993">
             <persName>Cinna</persName>
           </person>
           <person xml:id="Lucius_JC" sex="MALE">
             <persName>Lucius</persName>
           </person>
-          <person xml:id="Decius_JC"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q294846">
+          <person xml:id="Decius_JC" sex="MALE" ana="http://www.wikidata.org/entity/Q294846">
             <persName>Decius Brutus</persName>
           </person>
-          <person xml:id="Metellus_JC"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q1228715">
+          <person xml:id="Metellus_JC" sex="MALE" ana="http://www.wikidata.org/entity/Q1228715">
             <persName>Metellus Cimber</persName>
           </person>
-          <person xml:id="Trebonius_JC"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q550560">
+          <person xml:id="Trebonius_JC" sex="MALE" ana="http://www.wikidata.org/entity/Q550560">
             <persName>Trebonius</persName>
           </person>
-          <person xml:id="Portia_JC"
-                       sex="FEMALE"
-                       ana="http://www.wikidata.org/entity/Q255448">
+          <person xml:id="Portia_JC" sex="FEMALE" ana="http://www.wikidata.org/entity/Q255448">
             <persName>Portia</persName>
           </person>
-          <person xml:id="Ligarius_JC"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q773742">
+          <person xml:id="Ligarius_JC" sex="MALE" ana="http://www.wikidata.org/entity/Q773742">
             <persName>Caius Ligarius</persName>
           </person>
           <person xml:id="SERVANTS.CAESAR.1_JC" sex="MALE">
@@ -184,9 +163,7 @@
           <person xml:id="Publius_JC">
             <persName>Publius</persName>
           </person>
-          <person xml:id="Artemidorus_JC"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q11906742">
+          <person xml:id="Artemidorus_JC" sex="MALE" ana="http://www.wikidata.org/entity/Q11906742">
             <persName>Artemidorus</persName>
           </person>
           <person xml:id="Popilius_JC" ana="http://www.wikidata.org/entity/Q464897">
@@ -213,17 +190,13 @@
           <person xml:id="PLEBEIANS.0.4_JC" sex="MALE">
             <persName>PLEBEIANS.0.4_JC</persName>
           </person>
-          <person xml:id="CinnaPoet_JC"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q372100">
+          <person xml:id="CinnaPoet_JC" sex="MALE" ana="http://www.wikidata.org/entity/Q372100">
             <persName>Cinna</persName>
           </person>
           <person xml:id="Octavius_JC" ana="http://www.wikidata.org/entity/Q1405">
             <persName>Octavius</persName>
           </person>
-          <person xml:id="Lepidus_JC"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q105452">
+          <person xml:id="Lepidus_JC" sex="MALE" ana="http://www.wikidata.org/entity/Q105452">
             <persName>Lepidus</persName>
           </person>
           <person xml:id="SOLDIERS.BRUTUS.Lucilius_JC" sex="MALE">
@@ -244,19 +217,13 @@
           <person xml:id="Poet_JC" sex="MALE">
             <persName>Poet_JC</persName>
           </person>
-          <person xml:id="SOLDIERS.BRUTUS.Messala_JC"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q508117">
+          <person xml:id="SOLDIERS.BRUTUS.Messala_JC" sex="MALE" ana="http://www.wikidata.org/entity/Q508117">
             <persName>Messala</persName>
           </person>
-          <person xml:id="SOLDIERS.BRUTUS.Titinius_JC"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q20102068">
+          <person xml:id="SOLDIERS.BRUTUS.Titinius_JC" sex="MALE" ana="http://www.wikidata.org/entity/Q20102068">
             <persName>Titinius</persName>
           </person>
-          <person xml:id="SOLDIERS.BRUTUS.Varro_JC"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q214765">
+          <person xml:id="SOLDIERS.BRUTUS.Varro_JC" sex="MALE" ana="http://www.wikidata.org/entity/Q214765">
             <persName>Varro</persName>
           </person>
           <person xml:id="SOLDIERS.BRUTUS.Claudius_JC">
@@ -265,9 +232,7 @@
           <person xml:id="Messenger_JC" sex="MALE">
             <persName>Messenger_JC</persName>
           </person>
-          <person xml:id="SOLDIERS.BRUTUS.Cato_JC"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q1359509">
+          <person xml:id="SOLDIERS.BRUTUS.Cato_JC" sex="MALE" ana="http://www.wikidata.org/entity/Q1359509">
             <persName>Young Cato</persName>
           </person>
           <personGrp xml:id="SOLDIERS.ANTONY.0.1_JC" sex="UNKNOWN">
@@ -282,9 +247,7 @@
           <person xml:id="SOLDIERS.BRUTUS.Dardanus_JC" sex="MALE">
             <persName>Dardanus</persName>
           </person>
-          <person xml:id="SOLDIERS.BRUTUS.Volumnius_JC"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q7258146">
+          <person xml:id="SOLDIERS.BRUTUS.Volumnius_JC" sex="MALE" ana="http://www.wikidata.org/entity/Q7258146">
             <persName>Volumnius</persName>
           </person>
           <person xml:id="SOLDIERS.BRUTUS.Strato_JC" sex="MALE">
@@ -301,9 +264,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/shake000030"
-                   passive="http://www.wikidata.org/entity/Q215750"/>
+      <relation name="wikidata" active="https://dracor.org/entity/shake000030" passive="http://www.wikidata.org/entity/Q215750"/>
     </listRelation>
   </standOff>
   <text>
@@ -576,10 +537,7 @@
         <head>ACT 1 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-0000"
-                      n="SD 1.1.0"
-                      type="entrance"
-                      who="#Flavius_JC #Marullus_JC #COMMONERS.Carpenter_JC #COMMONERS.Cobbler_JC #COMMONERS_JC">Enter Flavius, Marullus, and certain Commoners, including a Carpenter and a Cobbler, over the stage. </stage>
+          <stage xml:id="stg-0000" n="SD 1.1.0" type="entrance" who="#Flavius_JC #Marullus_JC #COMMONERS.Carpenter_JC #COMMONERS.Cobbler_JC #COMMONERS_JC">Enter Flavius, Marullus, and certain Commoners, including a Carpenter and a Cobbler, over the stage. </stage>
           <sp xml:id="sp-0001" who="#Flavius_JC">
             <speaker xml:id="spk-0001">FLAVIUS </speaker>
             <l xml:id="ftln-0001" n="1.1.1">Hence! Home, you idle creatures, get you home! </l>
@@ -685,10 +643,7 @@
             <l xml:id="ftln-0063" n="1.1.63">Draw them to Tiber banks, and weep your tears </l>
             <l xml:id="ftln-0064" n="1.1.64">Into the channel, till the lowest stream </l>
             <l xml:id="ftln-0065" n="1.1.65">Do kiss the most exalted shores of all. </l>
-            <stage xml:id="stg-0065.1"
-                         n="SD 1.1.61.1"
-                         type="exit"
-                         who="#COMMONERS.Carpenter_JC #COMMONERS.Cobbler_JC #COMMONERS_JC">All the Commoners exit. </stage>
+            <stage xml:id="stg-0065.1" n="SD 1.1.61.1" type="exit" who="#COMMONERS.Carpenter_JC #COMMONERS.Cobbler_JC #COMMONERS_JC">All the Commoners exit. </stage>
             <l xml:id="ftln-0066" n="1.1.66">See whe’er their basest mettle be not moved. </l>
             <l xml:id="ftln-0067" n="1.1.67">They vanish tongue-tied in their guiltiness. </l>
             <l xml:id="ftln-0068" n="1.1.68">Go you down that way towards the Capitol. </l>
@@ -711,17 +666,11 @@
             <l xml:id="ftln-0079" n="1.1.79">Who else would soar above the view of men </l>
             <l xml:id="ftln-0080" n="1.1.80">And keep us all in servile fearfulness. </l>
           </sp>
-          <stage xml:id="stg-0080.1"
-                      n="SD 1.1.80.1"
-                      type="exit"
-                      who="#Flavius_JC #Marullus_JC">They exit in different directions. </stage>
+          <stage xml:id="stg-0080.1" n="SD 1.1.80.1" type="exit" who="#Flavius_JC #Marullus_JC">They exit in different directions. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-0080.2"
-                      n="SD 1.2.0"
-                      type="entrance"
-                      who="#Caesar_JC #Antony_JC #Calphurnia_JC #Portia_JC #Decius_JC #Cicero_JC #Brutus_JC #Cassius_JC #Casca_JC #Soothsayer_JC #Marullus_JC #Flavius_JC #COMMONERS_JC">Enter Caesar, Antony for the course, Calphurnia, Portia, Decius, Cicero, Brutus, Cassius, Casca, a Soothsayer; after them Marullus and Flavius and Commoners. </stage>
+          <stage xml:id="stg-0080.2" n="SD 1.2.0" type="entrance" who="#Caesar_JC #Antony_JC #Calphurnia_JC #Portia_JC #Decius_JC #Cicero_JC #Brutus_JC #Cassius_JC #Casca_JC #Soothsayer_JC #Marullus_JC #Flavius_JC #COMMONERS_JC">Enter Caesar, Antony for the course, Calphurnia, Portia, Decius, Cicero, Brutus, Cassius, Casca, a Soothsayer; after them Marullus and Flavius and Commoners. </stage>
           <sp xml:id="sp-0081" who="#Caesar_JC">
             <speaker xml:id="spk-0081">CAESAR </speaker>
             <l xml:id="ftln-0081" n="1.2.1" part="I">Calphurnia. </l>
@@ -807,10 +756,7 @@
           <sp xml:id="sp-0105" who="#Cassius_JC">
             <speaker xml:id="spk-0105">CASSIUS </speaker>
             <l xml:id="ftln-0105" n="1.2.25" part="I">Fellow, come from the throng. </l>
-            <stage xml:id="stg-0105.1"
-                         n="SD 1.2.25.1"
-                         type="business"
-                         who="#Soothsayer_JC">The Soothsayer comes forward. </stage>
+            <stage xml:id="stg-0105.1" n="SD 1.2.25.1" type="business" who="#Soothsayer_JC">The Soothsayer comes forward. </stage>
             <l xml:id="ftln-0106" n="1.2.26" part="F">Look upon Caesar. </l>
           </sp>
           <sp xml:id="sp-0107" who="#Caesar_JC">
@@ -825,10 +771,7 @@
             <speaker xml:id="spk-0109">CAESAR </speaker>
             <l xml:id="ftln-0109" n="1.2.29">He is a dreamer. Let us leave him. Pass. </l>
           </sp>
-          <stage xml:id="stg-0109.1"
-                      n="SD 1.2.29.1"
-                      type="exit"
-                      who="#Caesar_JC #Antony_JC #Calphurnia_JC #Portia_JC #Decius_JC #Cicero_JC #Casca_JC #Soothsayer_JC #Flavius_JC #Marullus_JC #COMMONERS_JC">
+          <stage xml:id="stg-0109.1" n="SD 1.2.29.1" type="exit" who="#Caesar_JC #Antony_JC #Calphurnia_JC #Portia_JC #Decius_JC #Cicero_JC #Casca_JC #Soothsayer_JC #Flavius_JC #Marullus_JC #COMMONERS_JC">
             <stage xml:id="snd-0109.1" n="SD 1.2.29.1" type="sound" ana="sennet">Sennet. </stage> All but Brutus and Cassius exit. </stage>
           <sp xml:id="sp-0110" who="#Cassius_JC">
             <speaker xml:id="spk-0110">CASSIUS </speaker>
@@ -986,10 +929,7 @@
             <l xml:id="ftln-0217" n="1.2.137">So get the start of the majestic world </l>
             <l xml:id="ftln-0218" n="1.2.138" ana="#short">And bear the palm alone. </l>
           </sp>
-          <stage xml:id="stg-0218.1" n="SD 1.2.138.1" type="business">Shout. <stage xml:id="snd-0218.1"
-                         n="SD 1.2.138.1"
-                         type="sound"
-                         ana="flourish">Flourish. </stage>
+          <stage xml:id="stg-0218.1" n="SD 1.2.138.1" type="business">Shout. <stage xml:id="snd-0218.1" n="SD 1.2.138.1" type="sound" ana="flourish">Flourish. </stage>
           </stage>
           <sp xml:id="sp-0219" who="#Brutus_JC">
             <speaker xml:id="spk-0219">BRUTUS </speaker>
@@ -1049,10 +989,7 @@
             <l xml:id="ftln-0265" n="1.2.185" ana="#short">I am glad that my weak words </l>
             <l xml:id="ftln-0266" n="1.2.186">Have struck but thus much show of fire from Brutus. </l>
           </sp>
-          <stage xml:id="stg-0267.1"
-                      n="SD 1.2.187.1"
-                      type="entrance"
-                      who="#Caesar_JC #Antony_JC #Calphurnia_JC #Portia_JC #Decius_JC #Cicero_JC #Casca_JC #Flavius_JC #Marullus_JC">Enter Caesar and his train. </stage>
+          <stage xml:id="stg-0267.1" n="SD 1.2.187.1" type="entrance" who="#Caesar_JC #Antony_JC #Calphurnia_JC #Portia_JC #Decius_JC #Cicero_JC #Casca_JC #Flavius_JC #Marullus_JC">Enter Caesar and his train. </stage>
           <sp xml:id="sp-0268" who="#Brutus_JC">
             <speaker xml:id="spk-0268">BRUTUS </speaker>
             <l xml:id="ftln-0268" n="1.2.188">The games are done, and Caesar is returning. </l>
@@ -1117,10 +1054,7 @@
             <l xml:id="ftln-0303" n="1.2.223">Come on my right hand, for this ear is deaf, </l>
             <l xml:id="ftln-0304" n="1.2.224">And tell me truly what thou think’st of him. </l>
           </sp>
-          <stage xml:id="stg-0304.1"
-                      n="SD 1.2.224.1"
-                      type="exit"
-                      who="#Caesar_JC #Antony_JC #Calphurnia_JC #Portia_JC #Decius_JC #Cicero_JC #Flavius_JC #Marullus_JC">
+          <stage xml:id="stg-0304.1" n="SD 1.2.224.1" type="exit" who="#Caesar_JC #Antony_JC #Calphurnia_JC #Portia_JC #Decius_JC #Cicero_JC #Flavius_JC #Marullus_JC">
             <stage xml:id="snd-0304.1" n="SD 1.2.224.1" type="sound" ana="sennet">Sennet. </stage> Caesar and his train exit but Casca remains behind. </stage>
           <sp xml:id="sp-0305" who="#Casca_JC">
             <speaker xml:id="spk-0305">CASCA </speaker>
@@ -1310,10 +1244,7 @@
           <sp xml:id="sp-0399" who="#Cassius_JC">
             <speaker xml:id="spk-0399">CASSIUS </speaker>
             <l xml:id="ftln-0399" n="1.2.319">I will do so. Till then, think of the world. </l>
-            <stage xml:id="stg-0399.1"
-                         n="SD 1.2.319.1"
-                         type="exit"
-                         who="#Brutus_JC">Brutus exits. </stage>
+            <stage xml:id="stg-0399.1" n="SD 1.2.319.1" type="exit" who="#Brutus_JC">Brutus exits. </stage>
             <l xml:id="ftln-0400" n="1.2.320">Well, Brutus, thou art noble. Yet I see </l>
             <l xml:id="ftln-0401" n="1.2.321">Thy honorable mettle may be wrought </l>
             <l xml:id="ftln-0402" n="1.2.322">From that it is disposed. Therefore it is meet </l>
@@ -1330,20 +1261,14 @@
             <l xml:id="ftln-0413" n="1.2.333">And after this, let Caesar seat him sure, </l>
             <l xml:id="ftln-0414" n="1.2.334">For we will shake him, or worse days endure. </l>
           </sp>
-          <stage xml:id="stg-0414.1"
-                      n="SD 1.2.334.1"
-                      type="exit"
-                      who="#Cassius_JC">He exits. </stage>
+          <stage xml:id="stg-0414.1" n="SD 1.2.334.1" type="exit" who="#Cassius_JC">He exits. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
           <stage xml:id="stg-0414.2" n="SD 1.3.0" type="mixed">
             <stage xml:id="stg-0414.2a" n="SD 1.3.0" type="business">
               <stage xml:id="snd-0414.2a" n="SD 1.3.0" type="sound" ana="thunder">Thunder </stage> and lightning. </stage>
-            <stage xml:id="stg-0414.2b"
-                         n="SD 1.3.0"
-                         type="entrance"
-                         who="#Casca_JC #Cicero_JC">Enter Casca and Cicero. </stage>
+            <stage xml:id="stg-0414.2b" n="SD 1.3.0" type="entrance" who="#Casca_JC #Cicero_JC">Enter Casca and Cicero. </stage>
           </stage>
           <sp xml:id="sp-0415" who="#Cicero_JC">
             <speaker xml:id="spk-0415">CICERO </speaker>
@@ -1411,10 +1336,7 @@
             <l xml:id="ftln-0455" n="1.3.41" part="F">Farewell, Cicero </l>
           </sp>
           <stage xml:id="stg-0455" n="SD 1.3.41" type="exit" who="#Cicero_JC">Cicero exits. </stage>
-          <stage xml:id="stg-0455.1"
-                      n="SD 1.3.41.1"
-                      type="entrance"
-                      who="#Cassius_JC">Enter Cassius. </stage>
+          <stage xml:id="stg-0455.1" n="SD 1.3.41.1" type="entrance" who="#Cassius_JC">Enter Cassius. </stage>
           <sp xml:id="sp-0456" who="#Cassius_JC">
             <speaker xml:id="spk-0456">CASSIUS </speaker>
             <l xml:id="ftln-0456" n="1.3.42" part="I">Who’s there? </l>
@@ -1545,10 +1467,7 @@
             <speaker xml:id="spk-0534">CASCA </speaker>
             <l xml:id="ftln-0534" n="1.3.120">You speak to Casca, and to such a man </l>
             <l xml:id="ftln-0535" n="1.3.121">That is no fleering telltale. Hold. My hand. </l>
-            <stage xml:id="stg-0535.1"
-                         n="SD 1.3.121.1"
-                         type="business"
-                         who="#Casca_JC #Cassius_JC">They shake hands. </stage>
+            <stage xml:id="stg-0535.1" n="SD 1.3.121.1" type="business" who="#Casca_JC #Cassius_JC">They shake hands. </stage>
             <l xml:id="ftln-0536" n="1.3.122">Be factious for redress of all these griefs, </l>
             <l xml:id="ftln-0537" n="1.3.123">And I will set this foot of mine as far </l>
             <l xml:id="ftln-0538" n="1.3.124" part="I">As who goes farthest. </l>
@@ -1567,10 +1486,7 @@
             <l xml:id="ftln-0548" n="1.3.134">In favor ’s like the work we have in hand, </l>
             <l xml:id="ftln-0549" n="1.3.135">Most bloody, fiery, and most terrible. </l>
           </sp>
-          <stage xml:id="stg-0549.1"
-                      n="SD 1.3.135.1"
-                      type="entrance"
-                      who="#Cinna_JC">Enter Cinna. </stage>
+          <stage xml:id="stg-0549.1" n="SD 1.3.135.1" type="entrance" who="#Cinna_JC">Enter Cinna. </stage>
           <sp xml:id="sp-0550" who="#Casca_JC">
             <speaker xml:id="spk-0550">CASCA </speaker>
             <l xml:id="ftln-0550" n="1.3.136">Stand close awhile, for here comes one in haste. </l>
@@ -1605,10 +1521,7 @@
           </sp>
           <sp xml:id="sp-0561" who="#Cassius_JC">
             <speaker xml:id="spk-0561">CASSIUS </speaker>
-            <stage xml:id="stg-0561.0"
-                         n="SD 1.3.147.0"
-                         type="business"
-                         who="#Cassius_JC #Cinna_JC">, handing him papers </stage>
+            <stage xml:id="stg-0561.0" n="SD 1.3.147.0" type="business" who="#Cassius_JC #Cinna_JC">, handing him papers </stage>
             <l xml:id="ftln-0561" n="1.3.147">Be you content. Good Cinna, take this paper, </l>
             <l xml:id="ftln-0562" n="1.3.148">And look you lay it in the Praetor’s chair, </l>
             <l xml:id="ftln-0563" n="1.3.149">Where Brutus may but find it; and throw this </l>
@@ -1626,10 +1539,7 @@
           <sp xml:id="sp-0571" who="#Cassius_JC">
             <speaker xml:id="spk-0571">CASSIUS </speaker>
             <l xml:id="ftln-0571" n="1.3.157">That done, repair to Pompey’s Theater. </l>
-            <stage xml:id="stg-0571.1"
-                         n="SD 1.3.157.1"
-                         type="exit"
-                         who="#Cinna_JC">Cinna exits. </stage>
+            <stage xml:id="stg-0571.1" n="SD 1.3.157.1" type="exit" who="#Cinna_JC">Cinna exits. </stage>
             <l xml:id="ftln-0572" n="1.3.158">Come, Casca, you and I will yet ere day </l>
             <l xml:id="ftln-0573" n="1.3.159">See Brutus at his house. Three parts of him </l>
             <l xml:id="ftln-0574" n="1.3.160">Is ours already, and the man entire </l>
@@ -1649,20 +1559,14 @@
             <l xml:id="ftln-0582" n="1.3.168">For it is after midnight, and ere day </l>
             <l xml:id="ftln-0583" n="1.3.169">We will awake him and be sure of him. </l>
           </sp>
-          <stage xml:id="stg-0583.1"
-                      n="SD 1.3.169.1"
-                      type="exit"
-                      who="#Casca_JC #Cassius_JC">They exit. </stage>
+          <stage xml:id="stg-0583.1" n="SD 1.3.169.1" type="exit" who="#Casca_JC #Cassius_JC">They exit. </stage>
         </div>
       </div>
       <div type="act" n="2">
         <head>ACT 2 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-0583.2"
-                      n="SD 2.1.0"
-                      type="entrance"
-                      who="#Brutus_JC">Enter Brutus in his orchard. </stage>
+          <stage xml:id="stg-0583.2" n="SD 2.1.0" type="entrance" who="#Brutus_JC">Enter Brutus in his orchard. </stage>
           <sp xml:id="sp-0584" who="#Brutus_JC">
             <speaker xml:id="spk-0584">BRUTUS </speaker>
             <l xml:id="ftln-0584" n="2.1.1" ana="#short">What, Lucius, ho!— </l>
@@ -1671,10 +1575,7 @@
             <l xml:id="ftln-0587" n="2.1.4">I would it were my fault to sleep so soundly.— </l>
             <l xml:id="ftln-0588" n="2.1.5">When, Lucius, when? Awake, I say! What, Lucius! </l>
           </sp>
-          <stage xml:id="stg-0588.1"
-                      n="SD 2.1.5.1"
-                      type="entrance"
-                      who="#Lucius_JC">Enter Lucius. </stage>
+          <stage xml:id="stg-0588.1" n="SD 2.1.5.1" type="entrance" who="#Lucius_JC">Enter Lucius. </stage>
           <sp xml:id="sp-0589" who="#Lucius_JC">
             <speaker xml:id="spk-0589">LUCIUS </speaker>
             <p xml:id="p-0589">
@@ -1719,10 +1620,7 @@
             <l xml:id="ftln-0617" n="2.1.34">Which, hatched, would, as his kind, grow mischievous, </l>
             <l xml:id="ftln-0619" n="2.1.36" ana="#short">And kill him in the shell. </l>
           </sp>
-          <stage xml:id="stg-0619.1"
-                      n="SD 2.1.36.1"
-                      type="entrance"
-                      who="#Lucius_JC">Enter Lucius. </stage>
+          <stage xml:id="stg-0619.1" n="SD 2.1.36.1" type="entrance" who="#Lucius_JC">Enter Lucius. </stage>
           <sp xml:id="sp-0620" who="#Lucius_JC">
             <speaker xml:id="spk-0620">LUCIUS </speaker>
             <l xml:id="ftln-0620" n="2.1.37">The taper burneth in your closet, sir. </l>
@@ -1730,10 +1628,7 @@
             <l xml:id="ftln-0622" n="2.1.39">This paper, thus sealed up, and I am sure </l>
             <l xml:id="ftln-0623" n="2.1.40">It did not lie there when I went to bed. </l>
           </sp>
-          <stage xml:id="stg-0623.1"
-                      n="SD 2.1.40.1"
-                      type="business"
-                      who="#Lucius_JC #Brutus_JC">Gives him the letter. </stage>
+          <stage xml:id="stg-0623.1" n="SD 2.1.40.1" type="business" who="#Lucius_JC #Brutus_JC">Gives him the letter. </stage>
           <sp xml:id="sp-0624" who="#Brutus_JC">
             <speaker xml:id="spk-0624">BRUTUS </speaker>
             <l xml:id="ftln-0624" n="2.1.41">Get you to bed again. It is not day. </l>
@@ -1758,10 +1653,7 @@
             <speaker xml:id="spk-0629">BRUTUS </speaker>
             <l xml:id="ftln-0629" n="2.1.46">The exhalations, whizzing in the air, </l>
             <l xml:id="ftln-0630" n="2.1.47">Give so much light that I may read by them. </l>
-            <stage xml:id="stg-0630.1"
-                         n="SD 2.1.47.1"
-                         type="business"
-                         who="#Brutus_JC">Opens the letter and reads. </stage>
+            <stage xml:id="stg-0630.1" n="SD 2.1.47.1" type="business" who="#Brutus_JC">Opens the letter and reads. </stage>
             <q type="letter" xml:id="q-0631">
               <l xml:id="ftln-0631" n="2.1.48">Brutus, thou sleep’st. Awake, and see thyself! </l>
               <l xml:id="ftln-0632" n="2.1.49">Shall Rome, etc. Speak, strike, redress! </l>
@@ -1778,10 +1670,7 @@
             <l xml:id="ftln-0643" n="2.1.60">If the redress will follow, thou receivest </l>
             <l xml:id="ftln-0644" n="2.1.61">Thy full petition at the hand of Brutus. </l>
           </sp>
-          <stage xml:id="stg-0644.1"
-                      n="SD 2.1.61.1"
-                      type="entrance"
-                      who="#Lucius_JC">Enter Lucius. </stage>
+          <stage xml:id="stg-0644.1" n="SD 2.1.61.1" type="entrance" who="#Lucius_JC">Enter Lucius. </stage>
           <sp xml:id="sp-0645" who="#Lucius_JC">
             <speaker xml:id="spk-0645">LUCIUS </speaker>
             <l xml:id="ftln-0645" n="2.1.62" ana="#short">Sir, March is wasted fifteen days. </l>
@@ -1790,10 +1679,7 @@
           <sp xml:id="sp-0646" who="#Brutus_JC">
             <speaker xml:id="spk-0646">BRUTUS </speaker>
             <l xml:id="ftln-0646" n="2.1.63">’Tis good. Go to the gate; somebody knocks. </l>
-            <stage xml:id="stg-0646.1"
-                         n="SD 2.1.63.1"
-                         type="exit"
-                         who="#Lucius_JC">Lucius exits. </stage>
+            <stage xml:id="stg-0646.1" n="SD 2.1.63.1" type="exit" who="#Lucius_JC">Lucius exits. </stage>
             <l xml:id="ftln-0647" n="2.1.64">Since Cassius first did whet me against Caesar, </l>
             <l xml:id="ftln-0648" n="2.1.65" ana="#short">I have not slept. </l>
             <l xml:id="ftln-0649" n="2.1.66">Between the acting of a dreadful thing </l>
@@ -1804,10 +1690,7 @@
             <l xml:id="ftln-0654" n="2.1.71">Like to a little kingdom, suffers then </l>
             <l xml:id="ftln-0655" n="2.1.72">The nature of an insurrection. </l>
           </sp>
-          <stage xml:id="stg-0655.1"
-                      n="SD 2.1.72.1"
-                      type="entrance"
-                      who="#Lucius_JC">Enter Lucius. </stage>
+          <stage xml:id="stg-0655.1" n="SD 2.1.72.1" type="entrance" who="#Lucius_JC">Enter Lucius. </stage>
           <sp xml:id="sp-0656" who="#Lucius_JC">
             <speaker xml:id="spk-0656">LUCIUS </speaker>
             <l xml:id="ftln-0656" n="2.1.73">Sir, ’tis your brother Cassius at the door, </l>
@@ -1846,10 +1729,7 @@
             <l xml:id="ftln-0675" n="2.1.92">Not Erebus itself were dim enough </l>
             <l xml:id="ftln-0676" n="2.1.93">To hide thee from prevention. </l>
           </sp>
-          <stage xml:id="stg-0676.1"
-                      n="SD 2.1.93.1"
-                      type="entrance"
-                      who="#Cassius_JC #Casca_JC #Decius_JC #Cinna_JC #Metellus_JC #Trebonius_JC">Enter the conspirators, Cassius, Casca, Decius, Cinna, Metellus, and Trebonius. </stage>
+          <stage xml:id="stg-0676.1" n="SD 2.1.93.1" type="entrance" who="#Cassius_JC #Casca_JC #Decius_JC #Cinna_JC #Metellus_JC #Trebonius_JC">Enter the conspirators, Cassius, Casca, Decius, Cinna, Metellus, and Trebonius. </stage>
           <sp xml:id="sp-0677" who="#Cassius_JC">
             <speaker xml:id="spk-0677">CASSIUS </speaker>
             <l xml:id="ftln-0677" n="2.1.94">I think we are too bold upon your rest. </l>
@@ -1894,10 +1774,7 @@
             <speaker xml:id="spk-0693">CASSIUS </speaker>
             <l xml:id="ftln-0693" n="2.1.110" ana="#short">Shall I entreat a word? </l>
           </sp>
-          <stage xml:id="stg-0693.1"
-                      n="SD 2.1.110.1"
-                      type="business"
-                      who="#Brutus_JC #Cassius_JC">Brutus and Cassius whisper. </stage>
+          <stage xml:id="stg-0693.1" n="SD 2.1.110.1" type="business" who="#Brutus_JC #Cassius_JC">Brutus and Cassius whisper. </stage>
           <sp xml:id="sp-0694" who="#Decius_JC">
             <speaker xml:id="spk-0694">DECIUS </speaker>
             <l xml:id="ftln-0694" n="2.1.111">Here lies the east; doth not the day break here? </l>
@@ -1924,10 +1801,7 @@
           </sp>
           <sp xml:id="sp-0706" who="#Brutus_JC">
             <speaker xml:id="spk-0706">BRUTUS </speaker>
-            <stage xml:id="stg-0706.0"
-                         n="SD 2.1.123.0"
-                         type="business"
-                         who="#Brutus_JC #Cassius_JC">, coming forward with Cassius </stage>
+            <stage xml:id="stg-0706.0" n="SD 2.1.123.0" type="business" who="#Brutus_JC #Cassius_JC">, coming forward with Cassius </stage>
             <l xml:id="ftln-0706" n="2.1.123">Give me your hands all over, one by one. </l>
           </sp>
           <sp xml:id="sp-0707" who="#Cassius_JC">
@@ -2132,20 +2006,14 @@
             <l xml:id="ftln-0828" n="2.1.245">But bear it, as our Roman actors do, </l>
             <l xml:id="ftln-0829" n="2.1.246">With untired spirits and formal constancy. </l>
             <l xml:id="ftln-0830" n="2.1.247">And so good morrow to you every one. </l>
-            <stage xml:id="stg-0830.1"
-                         n="SD 2.1.247.1"
-                         type="exit"
-                         who="#Cassius_JC #Casca_JC #Decius_JC #Cinna_JC #Metellus_JC #Trebonius_JC">All but Brutus exit. </stage>
+            <stage xml:id="stg-0830.1" n="SD 2.1.247.1" type="exit" who="#Cassius_JC #Casca_JC #Decius_JC #Cinna_JC #Metellus_JC #Trebonius_JC">All but Brutus exit. </stage>
             <l xml:id="ftln-0831" n="2.1.248">Boy! Lucius!— Fast asleep? It is no matter. </l>
             <l xml:id="ftln-0832" n="2.1.249">Enjoy the honey-heavy dew of slumber. </l>
             <l xml:id="ftln-0833" n="2.1.250">Thou hast no figures nor no fantasies </l>
             <l xml:id="ftln-0834" n="2.1.251">Which busy care draws in the brains of men. </l>
             <l xml:id="ftln-0835" n="2.1.252" part="I">Therefore thou sleep’st so sound. </l>
           </sp>
-          <stage xml:id="stg-0835.1"
-                      n="SD 2.1.252.1"
-                      type="entrance"
-                      who="#Portia_JC">Enter Portia. </stage>
+          <stage xml:id="stg-0835.1" n="SD 2.1.252.1" type="entrance" who="#Portia_JC">Enter Portia. </stage>
           <sp xml:id="sp-0836" who="#Portia_JC">
             <speaker xml:id="spk-0836">PORTIA </speaker>
             <l xml:id="ftln-0836" n="2.1.253" part="F">Brutus, my lord. </l>
@@ -2203,11 +2071,7 @@
             <l xml:id="ftln-0870" n="2.1.287">To add unto his sickness? No, my Brutus, </l>
             <l xml:id="ftln-0871" n="2.1.288">You have some sick offense within your mind, </l>
             <l xml:id="ftln-0872" n="2.1.289">Which by the right and virtue of my place </l>
-            <l xml:id="ftln-0873" n="2.1.290">I ought to know of. <stage xml:id="stg-0873"
-                            n="SD 2.1.290"
-                            type="business"
-                            rendition="inline"
-                            who="#Portia_JC"> She kneels. </stage> And upon my knees </l>
+            <l xml:id="ftln-0873" n="2.1.290">I ought to know of. <stage xml:id="stg-0873" n="SD 2.1.290" type="business" rendition="inline" who="#Portia_JC"> She kneels. </stage> And upon my knees </l>
             <l xml:id="ftln-0875" n="2.1.292">I charm you, by my once commended beauty, </l>
             <l xml:id="ftln-0876" n="2.1.293">By all your vows of love, and that great vow </l>
             <l xml:id="ftln-0877" n="2.1.294">Which did incorporate and make us one, </l>
@@ -2221,10 +2085,7 @@
             <speaker xml:id="spk-0883">BRUTUS </speaker>
             <l xml:id="ftln-0883" n="2.1.300" part="F">Kneel not, gentle Portia. </l>
           </sp>
-          <stage xml:id="stg-0883.1"
-                      n="SD 2.1.300.1"
-                      type="business"
-                      who="#Brutus_JC #Portia_JC">He lifts her up. </stage>
+          <stage xml:id="stg-0883.1" n="SD 2.1.300.1" type="business" who="#Brutus_JC #Portia_JC">He lifts her up. </stage>
           <sp xml:id="sp-0884" who="#Portia_JC">
             <speaker xml:id="spk-0884">PORTIA </speaker>
             <l xml:id="ftln-0884" n="2.1.301">I should not need, if you were gentle Brutus. </l>
@@ -2272,10 +2133,7 @@
             <stage xml:id="stg-0916" n="SD 2.1.333" type="exit" who="#Portia_JC">Portia exits. </stage>
             <l xml:id="ftln-0917" n="2.1.334" part="F">Lucius, who ’s that knocks? </l>
           </sp>
-          <stage xml:id="stg-0917.1"
-                      n="SD 2.1.334.1"
-                      type="entrance"
-                      who="#Lucius_JC #Ligarius_JC">Enter Lucius and Ligarius. </stage>
+          <stage xml:id="stg-0917.1" n="SD 2.1.334.1" type="entrance" who="#Lucius_JC #Ligarius_JC">Enter Lucius and Ligarius. </stage>
           <sp xml:id="sp-0918" who="#Lucius_JC">
             <speaker xml:id="spk-0918">LUCIUS </speaker>
             <l xml:id="ftln-0918" n="2.1.335">Here is a sick man that would speak with you. </l>
@@ -2310,10 +2168,7 @@
             <speaker xml:id="spk-0929">LIGARIUS </speaker>
             <l xml:id="ftln-0929" n="2.1.346">By all the gods that Romans bow before, </l>
             <l xml:id="ftln-0930" n="2.1.347" part="I">I here discard my sickness. </l>
-            <stage xml:id="stg-0930.1"
-                         n="SD 2.1.347.1"
-                         type="business"
-                         who="#Ligarius_JC">He takes off his kerchief. </stage>
+            <stage xml:id="stg-0930.1" n="SD 2.1.347.1" type="business" who="#Ligarius_JC">He takes off his kerchief. </stage>
             <l xml:id="ftln-0931" n="2.1.348" part="F">Soul of Rome, </l>
             <l xml:id="ftln-0932" n="2.1.349">Brave son derived from honorable loins, </l>
             <l xml:id="ftln-0933" n="2.1.350">Thou like an exorcist hast conjured up </l>
@@ -2349,20 +2204,14 @@
             <speaker xml:id="spk-0946">BRUTUS </speaker>
             <l xml:id="ftln-0946" n="2.1.363" part="F">Follow me then. </l>
           </sp>
-          <stage xml:id="stg-0946.1"
-                      n="SD 2.1.363.1"
-                      type="exit"
-                      who="#Brutus_JC #Ligarius_JC">They exit. </stage>
+          <stage xml:id="stg-0946.1" n="SD 2.1.363.1" type="exit" who="#Brutus_JC #Ligarius_JC">They exit. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
           <stage xml:id="stg-0946.2" n="SD 2.2.0" type="mixed">
             <stage xml:id="stg-0946.2a" n="SD 2.2.0" type="business">
               <stage xml:id="snd-0946.2a" n="SD 2.2.0" type="sound" ana="thunder">Thunder </stage> and lightning. </stage>
-            <stage xml:id="stg-0946.2b"
-                         n="SD 2.2.0"
-                         type="entrance"
-                         who="#Caesar_JC">Enter Julius Caesar in his nightgown. </stage>
+            <stage xml:id="stg-0946.2b" n="SD 2.2.0" type="entrance" who="#Caesar_JC">Enter Julius Caesar in his nightgown. </stage>
           </stage>
           <sp xml:id="sp-0947" who="#Caesar_JC">
             <speaker xml:id="spk-0947">CAESAR </speaker>
@@ -2370,10 +2219,7 @@
             <l xml:id="ftln-0948" n="2.2.2">Thrice hath Calphurnia in her sleep cried out </l>
             <l xml:id="ftln-0949" n="2.2.3">“ Help ho, they murder Caesar!”— Who’s within? </l>
           </sp>
-          <stage xml:id="stg-0949.1"
-                      n="SD 2.2.3.1"
-                      type="entrance"
-                      who="#SERVANTS.CAESAR.1_JC">Enter a Servant. </stage>
+          <stage xml:id="stg-0949.1" n="SD 2.2.3.1" type="entrance" who="#SERVANTS.CAESAR.1_JC">Enter a Servant. </stage>
           <sp xml:id="sp-0950" who="#SERVANTS.CAESAR.1_JC">
             <speaker xml:id="spk-0950">SERVANT </speaker>
             <p xml:id="p-0950">
@@ -2389,14 +2235,8 @@
             <p xml:id="p-0953">
               <lb xml:id="ftln-0953" n="2.2.7"/>I will, my lord. </p>
           </sp>
-          <stage xml:id="stg-0953"
-                      n="SD 2.2.7"
-                      type="exit"
-                      who="#SERVANTS.CAESAR.1_JC">He exits. </stage>
-          <stage xml:id="stg-0953.1"
-                      n="SD 2.2.7.1"
-                      type="entrance"
-                      who="#Calphurnia_JC">Enter Calphurnia. </stage>
+          <stage xml:id="stg-0953" n="SD 2.2.7" type="exit" who="#SERVANTS.CAESAR.1_JC">He exits. </stage>
+          <stage xml:id="stg-0953.1" n="SD 2.2.7.1" type="entrance" who="#Calphurnia_JC">Enter Calphurnia. </stage>
           <sp xml:id="sp-0954" who="#Calphurnia_JC">
             <speaker xml:id="spk-0954">CALPHURNIA </speaker>
             <l xml:id="ftln-0954" n="2.2.8">What mean you, Caesar? Think you to walk forth? </l>
@@ -2445,10 +2285,7 @@
             <l xml:id="ftln-0983" n="2.2.37">It seems to me most strange that men should fear, </l>
             <l xml:id="ftln-0984" n="2.2.38">Seeing that death, a necessary end, </l>
             <l xml:id="ftln-0985" n="2.2.39" part="I">Will come when it will come. </l>
-            <stage xml:id="stg-0985.1"
-                         n="SD 2.2.39.1"
-                         type="entrance"
-                         who="#SERVANTS.CAESAR.1_JC">Enter a Servant. </stage>
+            <stage xml:id="stg-0985.1" n="SD 2.2.39.1" type="entrance" who="#SERVANTS.CAESAR.1_JC">Enter a Servant. </stage>
             <l xml:id="ftln-0986" n="2.2.40" part="F">What say the augurers? </l>
           </sp>
           <sp xml:id="sp-0987" who="#SERVANTS.CAESAR.1_JC">
@@ -2478,22 +2315,13 @@
             <l xml:id="ftln-1003" n="2.2.57">And he shall say you are not well today. </l>
             <l xml:id="ftln-1004" n="2.2.58">Let me, upon my knee, prevail in this. </l>
           </sp>
-          <stage xml:id="stg-1004"
-                      n="SD 2.2.58"
-                      type="business"
-                      who="#Calphurnia_JC">She kneels. </stage>
+          <stage xml:id="stg-1004" n="SD 2.2.58" type="business" who="#Calphurnia_JC">She kneels. </stage>
           <sp xml:id="sp-1005" who="#Caesar_JC">
             <speaker xml:id="spk-1005">CAESAR </speaker>
             <l xml:id="ftln-1005" n="2.2.59">Mark Antony shall say I am not well, </l>
             <l xml:id="ftln-1006" n="2.2.60">And for thy humor I will stay at home. </l>
-            <stage xml:id="stg-1006.1"
-                         n="SD 2.2.60.1"
-                         type="business"
-                         who="#Caesar_JC #Calphurnia_JC">He lifts her up. </stage>
-            <stage xml:id="stg-1006.2"
-                         n="SD 2.2.60.2"
-                         type="entrance"
-                         who="#Decius_JC">Enter Decius. </stage>
+            <stage xml:id="stg-1006.1" n="SD 2.2.60.1" type="business" who="#Caesar_JC #Calphurnia_JC">He lifts her up. </stage>
+            <stage xml:id="stg-1006.2" n="SD 2.2.60.2" type="entrance" who="#Decius_JC">Enter Decius. </stage>
             <l xml:id="ftln-1007" n="2.2.61">Here’s Decius Brutus; he shall tell them so. </l>
           </sp>
           <sp xml:id="sp-1008" who="#Decius_JC">
@@ -2576,10 +2404,7 @@
             <l xml:id="ftln-1056" n="2.2.110">How foolish do your fears seem now, Calphurnia! </l>
             <l xml:id="ftln-1057" n="2.2.111">I am ashamèd I did yield to them. </l>
             <l xml:id="ftln-1058" n="2.2.112">Give me my robe, for I will go. </l>
-            <stage xml:id="stg-1058.1"
-                         n="SD 2.2.112.1"
-                         type="entrance"
-                         who="#Brutus_JC #Ligarius_JC #Metellus_JC #Casca_JC #Trebonius_JC #Cinna_JC #Publius_JC">Enter Brutus, Ligarius, Metellus, Casca, Trebonius, Cinna, and Publius. </stage>
+            <stage xml:id="stg-1058.1" n="SD 2.2.112.1" type="entrance" who="#Brutus_JC #Ligarius_JC #Metellus_JC #Casca_JC #Trebonius_JC #Cinna_JC #Publius_JC">Enter Brutus, Ligarius, Metellus, Casca, Trebonius, Cinna, and Publius. </stage>
             <l xml:id="ftln-1059" n="2.2.113">And look where Publius is come to fetch me. </l>
           </sp>
           <sp xml:id="sp-1060" who="#Publius_JC">
@@ -2602,10 +2427,7 @@
           <sp xml:id="sp-1068" who="#Caesar_JC">
             <speaker xml:id="spk-1068">CAESAR </speaker>
             <l xml:id="ftln-1068" n="2.2.122">I thank you for your pains and courtesy. </l>
-            <stage xml:id="stg-1068.1"
-                         n="SD 2.2.122.1"
-                         type="entrance"
-                         who="#Antony_JC">Enter Antony. </stage>
+            <stage xml:id="stg-1068.1" n="SD 2.2.122.1" type="entrance" who="#Antony_JC">Enter Antony. </stage>
             <l xml:id="ftln-1069" n="2.2.123">See, Antony that revels long a-nights </l>
             <l xml:id="ftln-1070" n="2.2.124">Is notwithstanding up.— Good morrow, Antony. </l>
           </sp>
@@ -2618,10 +2440,7 @@
             <stage xml:id="stg-1072" n="SD 2.2.126" type="delivery">, to Servant </stage>
             <l xml:id="ftln-1072" n="2.2.126" ana="#short">Bid them prepare within.— </l>
             <l xml:id="ftln-1073" n="2.2.127">I am to blame to be thus waited for. </l>
-            <stage xml:id="stg-1073"
-                         n="SD 2.2.127"
-                         type="exit"
-                         who="#SERVANTS.CAESAR.1_JC">Servant exits. </stage>
+            <stage xml:id="stg-1073" n="SD 2.2.127" type="exit" who="#SERVANTS.CAESAR.1_JC">Servant exits. </stage>
             <l xml:id="ftln-1074" n="2.2.128">Now, Cinna.— Now, Metellus.— What, Trebonius, </l>
             <l xml:id="ftln-1075" n="2.2.129">I have an hour’s talk in store for you. </l>
             <l xml:id="ftln-1076" n="2.2.130">Remember that you call on me today; </l>
@@ -2643,17 +2462,11 @@
             <l xml:id="ftln-1082" n="2.2.136">That every like is not the same, O Caesar, </l>
             <l xml:id="ftln-1083" n="2.2.137">The heart of Brutus earns to think upon. </l>
           </sp>
-          <stage xml:id="stg-1083.1"
-                      n="SD 2.2.137.1"
-                      type="exit"
-                      who="#Caesar_JC #Calphurnia_JC #Decius_JC #Brutus_JC #Ligarius_JC #Metellus_JC #Casca_JC #Trebonius_JC #Cinna_JC #Publius_JC #Antony_JC">They exit. </stage>
+          <stage xml:id="stg-1083.1" n="SD 2.2.137.1" type="exit" who="#Caesar_JC #Calphurnia_JC #Decius_JC #Brutus_JC #Ligarius_JC #Metellus_JC #Casca_JC #Trebonius_JC #Cinna_JC #Publius_JC #Antony_JC">They exit. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-1083.2"
-                      n="SD 2.3.0"
-                      type="entrance"
-                      who="#Artemidorus_JC">Enter Artemidorus reading a paper. </stage>
+          <stage xml:id="stg-1083.2" n="SD 2.3.0" type="entrance" who="#Artemidorus_JC">Enter Artemidorus reading a paper. </stage>
           <sp xml:id="sp-1084" who="#Artemidorus_JC">
             <speaker xml:id="spk-1084">ARTEMIDORUS </speaker>
             <l><q type="letter" xml:id="p-1084">
@@ -2665,17 +2478,11 @@
             <l xml:id="ftln-1098" n="2.3.15">If thou read this, O Caesar, thou mayest live; </l>
             <l xml:id="ftln-1099" n="2.3.16">If not, the Fates with traitors do contrive. </l>
           </sp>
-          <stage xml:id="stg-1099.1"
-                      n="SD 2.3.16.1"
-                      type="exit"
-                      who="#Artemidorus_JC">He exits. </stage>
+          <stage xml:id="stg-1099.1" n="SD 2.3.16.1" type="exit" who="#Artemidorus_JC">He exits. </stage>
         </div>
         <div type="scene" n="4">
           <head>Scene 4 </head>
-          <stage xml:id="stg-1099.2"
-                      n="SD 2.4.0"
-                      type="entrance"
-                      who="#Portia_JC #Lucius_JC">Enter Portia and Lucius. </stage>
+          <stage xml:id="stg-1099.2" n="SD 2.4.0" type="entrance" who="#Portia_JC #Lucius_JC">Enter Portia and Lucius. </stage>
           <sp xml:id="sp-1100" who="#Portia_JC">
             <speaker xml:id="spk-1100">PORTIA </speaker>
             <l xml:id="ftln-1100" n="2.4.1">I prithee, boy, run to the Senate House. </l>
@@ -2725,10 +2532,7 @@
             <p xml:id="p-1122">
               <lb xml:id="ftln-1122" n="2.4.23"/>Sooth, madam, I hear nothing. </p>
           </sp>
-          <stage xml:id="stg-1122.1"
-                      n="SD 2.4.23.1"
-                      type="entrance"
-                      who="#Soothsayer_JC">Enter the Soothsayer. </stage>
+          <stage xml:id="stg-1122.1" n="SD 2.4.23.1" type="entrance" who="#Soothsayer_JC">Enter the Soothsayer. </stage>
           <sp xml:id="sp-1123" who="#Portia_JC">
             <speaker xml:id="spk-1123">PORTIA </speaker>
             <l xml:id="ftln-1123" n="2.4.24">Come hither, fellow. Which way hast thou been? </l>
@@ -2781,10 +2585,7 @@
             <l xml:id="ftln-1142" n="2.4.43">I’ll get me to a place more void, and there </l>
             <l xml:id="ftln-1143" n="2.4.44">Speak to great Caesar as he comes along. </l>
           </sp>
-          <stage xml:id="stg-1143"
-                      n="SD 2.4.44"
-                      type="exit"
-                      who="#Soothsayer_JC">He exits. </stage>
+          <stage xml:id="stg-1143" n="SD 2.4.44" type="exit" who="#Soothsayer_JC">He exits. </stage>
           <sp xml:id="sp-1144" who="#Portia_JC">
             <speaker xml:id="spk-1144">PORTIA </speaker>
             <l xml:id="ftln-1144" n="2.4.45">I must go in. <stage xml:id="stg-1144" n="SD 2.4.45" type="delivery"> Aside. </stage> Ay me, how weak a thing </l>
@@ -2796,20 +2597,14 @@
             <l xml:id="ftln-1152" n="2.4.53">Say I am merry. Come to me again </l>
             <l xml:id="ftln-1153" n="2.4.54">And bring me word what he doth say to thee. </l>
           </sp>
-          <stage xml:id="stg-1153.1"
-                      n="SD 2.4.54.1"
-                      type="exit"
-                      who="#Lucius_JC #Portia_JC">They exit separately. </stage>
+          <stage xml:id="stg-1153.1" n="SD 2.4.54.1" type="exit" who="#Lucius_JC #Portia_JC">They exit separately. </stage>
         </div>
       </div>
       <div type="act" n="3">
         <head>ACT 3 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-1153.2"
-                      n="SD 3.1.0"
-                      type="entrance"
-                      who="#Caesar_JC #Antony_JC #Lepidus_JC #Brutus_JC #Cassius_JC #Casca_JC #Decius_JC #Metellus_JC #Trebonius_JC #Cinna_JC #Publius_JC #Popilius_JC #Artemidorus_JC #Soothsayer_JC #SENATORS_JC #PETITIONERS_JC">
+          <stage xml:id="stg-1153.2" n="SD 3.1.0" type="entrance" who="#Caesar_JC #Antony_JC #Lepidus_JC #Brutus_JC #Cassius_JC #Casca_JC #Decius_JC #Metellus_JC #Trebonius_JC #Cinna_JC #Publius_JC #Popilius_JC #Artemidorus_JC #Soothsayer_JC #SENATORS_JC #PETITIONERS_JC">
             <stage xml:id="snd-1153.2" n="SD 3.1.0" type="sound" ana="flourish">Flourish. </stage> Enter Caesar, Antony, Lepidus; Brutus, Cassius, Casca, Decius, Metellus, Trebonius, Cinna; Publius, Popilius, Artemidorus, the Soothsayer, and other Senators and Petitioners. </stage>
           <sp xml:id="sp-1154" who="#Caesar_JC">
             <speaker xml:id="spk-1154">CAESAR </speaker>
@@ -2857,10 +2652,7 @@
             <l xml:id="ftln-1165" n="3.1.12">What, urge you your petitions in the street? </l>
             <l xml:id="ftln-1166" n="3.1.13" ana="#short">Come to the Capitol. </l>
           </sp>
-          <stage xml:id="stg-1166.1"
-                      n="SD 3.1.13.1"
-                      type="business"
-                      who="#Caesar_JC #Antony_JC #Lepidus_JC #Brutus_JC #Cassius_JC #Casca_JC #Decius_JC #Metellus_JC #Trebonius_JC #Cinna_JC #Publius_JC #Popilius_JC #Artemidorus_JC #Soothsayer_JC #SENATORS_JC #PETITIONERS_JC">Caesar goes forward, the rest following. </stage>
+          <stage xml:id="stg-1166.1" n="SD 3.1.13.1" type="business" who="#Caesar_JC #Antony_JC #Lepidus_JC #Brutus_JC #Cassius_JC #Casca_JC #Decius_JC #Metellus_JC #Trebonius_JC #Cinna_JC #Publius_JC #Popilius_JC #Artemidorus_JC #Soothsayer_JC #SENATORS_JC #PETITIONERS_JC">Caesar goes forward, the rest following. </stage>
           <sp xml:id="sp-1167" who="#Popilius_JC">
             <speaker xml:id="spk-1167">POPILIUS </speaker>
             <stage xml:id="stg-1167.0" n="SD 3.1.14.0" type="delivery">, to Cassius </stage>
@@ -2906,10 +2698,7 @@
             <l xml:id="ftln-1181" n="3.1.28">Trebonius knows his time, for look you, Brutus, </l>
             <l xml:id="ftln-1182" n="3.1.29">He draws Mark Antony out of the way. </l>
           </sp>
-          <stage xml:id="stg-1182.1"
-                      n="SD 3.1.29.1"
-                      type="exit"
-                      who="#Trebonius_JC #Antony_JC">Trebonius and Antony exit. </stage>
+          <stage xml:id="stg-1182.1" n="SD 3.1.29.1" type="exit" who="#Trebonius_JC #Antony_JC">Trebonius and Antony exit. </stage>
           <sp xml:id="sp-1183" who="#Decius_JC">
             <speaker xml:id="spk-1183">DECIUS </speaker>
             <l xml:id="ftln-1183" n="3.1.30">Where is Metellus Cimber? Let him go </l>
@@ -2930,10 +2719,7 @@
           </sp>
           <sp xml:id="sp-1189" who="#Metellus_JC">
             <speaker xml:id="spk-1189">METELLUS </speaker>
-            <stage xml:id="stg-1189.0"
-                         n="SD 3.1.36.0"
-                         type="business"
-                         who="#Metellus_JC">, kneeling </stage>
+            <stage xml:id="stg-1189.0" n="SD 3.1.36.0" type="business" who="#Metellus_JC">, kneeling </stage>
             <l xml:id="ftln-1189" n="3.1.36">Most high, most mighty, and most puissant Caesar, </l>
             <l xml:id="ftln-1190" n="3.1.37">Metellus Cimber throws before thy seat </l>
             <l xml:id="ftln-1191" n="3.1.38" part="I">An humble heart. </l>
@@ -2963,10 +2749,7 @@
           </sp>
           <sp xml:id="sp-1210" who="#Brutus_JC">
             <speaker xml:id="spk-1210">BRUTUS </speaker>
-            <stage xml:id="stg-1210.0"
-                         n="SD 3.1.57.0"
-                         type="business"
-                         who="#Brutus_JC">, kneeling </stage>
+            <stage xml:id="stg-1210.0" n="SD 3.1.57.0" type="business" who="#Brutus_JC">, kneeling </stage>
             <l xml:id="ftln-1210" n="3.1.57">I kiss thy hand, but not in flattery, Caesar, </l>
             <l xml:id="ftln-1211" n="3.1.58">Desiring thee that Publius Cimber may </l>
             <l xml:id="ftln-1212" n="3.1.59">Have an immediate freedom of repeal. </l>
@@ -2977,10 +2760,7 @@
           </sp>
           <sp xml:id="sp-1214" who="#Cassius_JC">
             <speaker xml:id="spk-1214">CASSIUS </speaker>
-            <stage xml:id="stg-1214.0"
-                         n="SD 3.1.61.0"
-                         type="business"
-                         who="#Cassius_JC">, kneeling </stage>
+            <stage xml:id="stg-1214.0" n="SD 3.1.61.0" type="business" who="#Cassius_JC">, kneeling </stage>
             <l xml:id="ftln-1214" n="3.1.61" part="F">Pardon, Caesar; Caesar, pardon! </l>
             <l xml:id="ftln-1215" n="3.1.62">As low as to thy foot doth Cassius fall </l>
             <l xml:id="ftln-1216" n="3.1.63">To beg enfranchisement for Publius Cimber. </l>
@@ -3006,10 +2786,7 @@
           </sp>
           <sp xml:id="sp-1233" who="#Cinna_JC">
             <speaker xml:id="spk-1233">CINNA </speaker>
-            <stage xml:id="stg-1233.0"
-                         n="SD 3.1.80.0"
-                         type="business"
-                         who="#Cinna_JC">, kneeling </stage>
+            <stage xml:id="stg-1233.0" n="SD 3.1.80.0" type="business" who="#Cinna_JC">, kneeling </stage>
             <l xml:id="ftln-1233" n="3.1.80" part="I">O Caesar— </l>
           </sp>
           <sp xml:id="sp-1234" who="#Caesar_JC">
@@ -3018,10 +2795,7 @@
           </sp>
           <sp xml:id="sp-1235" who="#Decius_JC">
             <speaker xml:id="spk-1235">DECIUS </speaker>
-            <stage xml:id="stg-1235.0"
-                         n="SD 3.1.82.0"
-                         type="business"
-                         who="#Decius_JC">, kneeling </stage>
+            <stage xml:id="stg-1235.0" n="SD 3.1.82.0" type="business" who="#Decius_JC">, kneeling </stage>
             <l xml:id="ftln-1235" n="3.1.82" part="I">Great Caesar— </l>
           </sp>
           <sp xml:id="sp-1236" who="#Caesar_JC">
@@ -3032,18 +2806,12 @@
             <speaker xml:id="spk-1237">CASCA </speaker>
             <l xml:id="ftln-1237" n="3.1.84" ana="#short">Speak, hands, for me! </l>
           </sp>
-          <stage xml:id="stg-1237.1"
-                      n="SD 3.1.84.1"
-                      type="business"
-                      who="#Casca_JC #Metellus_JC #Cassius_JC #Cinna_JC #Decius_JC #Brutus_JC #Caesar_JC">As Casca strikes, the others rise up and stab Caesar. </stage>
+          <stage xml:id="stg-1237.1" n="SD 3.1.84.1" type="business" who="#Casca_JC #Metellus_JC #Cassius_JC #Cinna_JC #Decius_JC #Brutus_JC #Caesar_JC">As Casca strikes, the others rise up and stab Caesar. </stage>
           <sp xml:id="sp-1238" who="#Caesar_JC">
             <speaker xml:id="spk-1238">CAESAR </speaker>
             <l xml:id="ftln-1238" n="3.1.85" ana="#short">Et tu, Brutè?— Then fall, Caesar. </l>
           </sp>
-          <stage xml:id="stg-1238.1"
-                      n="SD 3.1.85.1"
-                      type="business"
-                      who="#Caesar_JC">He dies. </stage>
+          <stage xml:id="stg-1238.1" n="SD 3.1.85.1" type="business" who="#Caesar_JC">He dies. </stage>
           <sp xml:id="sp-1239" who="#Cinna_JC">
             <speaker xml:id="spk-1239">CINNA </speaker>
             <l xml:id="ftln-1239" n="3.1.86">Liberty! Freedom! Tyranny is dead! </l>
@@ -3096,14 +2864,8 @@
             <l xml:id="ftln-1256" n="3.1.103">Do so, and let no man abide this deed </l>
             <l xml:id="ftln-1257" n="3.1.104" ana="#short">But we the doers. </l>
           </sp>
-          <stage xml:id="stg-1257.1"
-                      n="SD 3.1.104.1"
-                      type="exit"
-                      who="#Publius_JC #Lepidus_JC #Soothsayer_JC #Artemidorus_JC #SENATORS_JC #PETITIONERS_JC">All but the Conspirators exit. </stage>
-          <stage xml:id="stg-1257.2"
-                      n="SD 3.1.104.2"
-                      type="entrance"
-                      who="#Trebonius_JC">Enter Trebonius. </stage>
+          <stage xml:id="stg-1257.1" n="SD 3.1.104.1" type="exit" who="#Publius_JC #Lepidus_JC #Soothsayer_JC #Artemidorus_JC #SENATORS_JC #PETITIONERS_JC">All but the Conspirators exit. </stage>
+          <stage xml:id="stg-1257.2" n="SD 3.1.104.2" type="entrance" who="#Trebonius_JC">Enter Trebonius. </stage>
           <sp xml:id="sp-1258" who="#Cassius_JC">
             <speaker xml:id="spk-1258">CASSIUS </speaker>
             <l xml:id="ftln-1258" n="3.1.105" ana="#short">Where is Antony? </l>
@@ -3139,10 +2901,7 @@
           <sp xml:id="sp-1276" who="#Cassius_JC">
             <speaker xml:id="spk-1276">CASSIUS </speaker>
             <l xml:id="ftln-1276" n="3.1.123" part="I">Stoop then, and wash. </l>
-            <stage xml:id="stg-1276.1"
-                         n="SD 3.1.123.1"
-                         type="business"
-                         who="#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC">They smear their hands and swords with Caesar’s blood. </stage>
+            <stage xml:id="stg-1276.1" n="SD 3.1.123.1" type="business" who="#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC">They smear their hands and swords with Caesar’s blood. </stage>
             <l xml:id="ftln-1277" n="3.1.124" part="F">How many ages hence </l>
             <l xml:id="ftln-1278" n="3.1.125">Shall this our lofty scene be acted over </l>
             <l xml:id="ftln-1279" n="3.1.126">In states unborn and accents yet unknown! </l>
@@ -3169,20 +2928,14 @@
             <l xml:id="ftln-1288" n="3.1.135">Brutus shall lead, and we will grace his heels </l>
             <l xml:id="ftln-1289" n="3.1.136">With the most boldest and best hearts of Rome. </l>
           </sp>
-          <stage xml:id="stg-1289.1"
-                      n="SD 3.1.136.1"
-                      type="entrance"
-                      who="#SERVANTS.ANTONY.1_JC">Enter a Servant. </stage>
+          <stage xml:id="stg-1289.1" n="SD 3.1.136.1" type="entrance" who="#SERVANTS.ANTONY.1_JC">Enter a Servant. </stage>
           <sp xml:id="sp-1290" who="#Brutus_JC">
             <speaker xml:id="spk-1290">BRUTUS </speaker>
             <l xml:id="ftln-1290" n="3.1.137">Soft, who comes here? A friend of Antony’s. </l>
           </sp>
           <sp xml:id="sp-1291" who="#SERVANTS.ANTONY.1_JC">
             <speaker xml:id="spk-1291">SERVANT </speaker>
-            <stage xml:id="stg-1291.0"
-                         n="SD 3.1.138.0"
-                         type="business"
-                         who="#SERVANTS.ANTONY.1_JC">, kneeling </stage>
+            <stage xml:id="stg-1291.0" n="SD 3.1.138.0" type="business" who="#SERVANTS.ANTONY.1_JC">, kneeling </stage>
             <l xml:id="ftln-1291" n="3.1.138">Thus, Brutus, did my master bid me kneel. </l>
             <l xml:id="ftln-1292" n="3.1.139">Thus did Mark Antony bid me fall down, </l>
             <l xml:id="ftln-1293" n="3.1.140">And, being prostrate, thus he bade me say: </l>
@@ -3211,10 +2964,7 @@
             <speaker xml:id="spk-1311">SERVANT </speaker>
             <l xml:id="ftln-1311" n="3.1.158" part="F">I’ll fetch him presently. </l>
           </sp>
-          <stage xml:id="stg-1311.1"
-                      n="SD 3.1.158.1"
-                      type="exit"
-                      who="#SERVANTS.ANTONY.1_JC">Servant exits. </stage>
+          <stage xml:id="stg-1311.1" n="SD 3.1.158.1" type="exit" who="#SERVANTS.ANTONY.1_JC">Servant exits. </stage>
           <sp xml:id="sp-1312" who="#Brutus_JC">
             <speaker xml:id="spk-1312">BRUTUS </speaker>
             <l xml:id="ftln-1312" n="3.1.159">I know that we shall have him well to friend. </l>
@@ -3225,10 +2975,7 @@
             <l xml:id="ftln-1314" n="3.1.161">That fears him much, and my misgiving still </l>
             <l xml:id="ftln-1315" n="3.1.162" ana="#short">Falls shrewdly to the purpose. </l>
           </sp>
-          <stage xml:id="stg-1315.1"
-                      n="SD 3.1.162.1"
-                      type="entrance"
-                      who="#Antony_JC">Enter Antony. </stage>
+          <stage xml:id="stg-1315.1" n="SD 3.1.162.1" type="entrance" who="#Antony_JC">Enter Antony. </stage>
           <sp xml:id="sp-1316" who="#Brutus_JC">
             <speaker xml:id="spk-1316">BRUTUS </speaker>
             <l xml:id="ftln-1316" n="3.1.163">But here comes Antony.— Welcome, Mark Antony! </l>
@@ -3402,10 +3149,7 @@
             <speaker xml:id="spk-1432">BRUTUS </speaker>
             <l xml:id="ftln-1432" n="3.1.279">Prepare the body, then, and follow us. </l>
           </sp>
-          <stage xml:id="stg-1432.1"
-                      n="SD 3.1.278.1"
-                      type="exit"
-                      who="#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC">All but Antony exit. </stage>
+          <stage xml:id="stg-1432.1" n="SD 3.1.278.1" type="exit" who="#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC">All but Antony exit. </stage>
           <sp xml:id="sp-1433" who="#Antony_JC">
             <speaker xml:id="spk-1433">ANTONY </speaker>
             <l xml:id="ftln-1433" n="3.1.280">O pardon me, thou bleeding piece of earth, </l>
@@ -3430,10 +3174,7 @@
             <l xml:id="ftln-1452" n="3.1.299">Cry “ Havoc!” and let slip the dogs of war, </l>
             <l xml:id="ftln-1453" n="3.1.300">That this foul deed shall smell above the earth </l>
             <l xml:id="ftln-1454" n="3.1.301">With carrion men groaning for burial. </l>
-            <stage xml:id="stg-1454.1"
-                         n="SD 3.1.301.1"
-                         type="entrance"
-                         who="#SERVANTS.OCTAVIUS.1_JC">Enter Octavius’ Servant. </stage>
+            <stage xml:id="stg-1454.1" n="SD 3.1.301.1" type="entrance" who="#SERVANTS.OCTAVIUS.1_JC">Enter Octavius’ Servant. </stage>
             <l xml:id="ftln-1455" n="3.1.302">You serve Octavius Caesar, do you not? </l>
           </sp>
           <sp xml:id="sp-1456" who="#SERVANTS.OCTAVIUS.1_JC">
@@ -3475,17 +3216,11 @@
             <l xml:id="ftln-1476" n="3.1.323">To young Octavius of the state of things. </l>
             <l xml:id="ftln-1477" n="3.1.324" ana="#short">Lend me your hand. </l>
           </sp>
-          <stage xml:id="stg-1477.1"
-                      n="SD 3.1.324.1"
-                      type="exit"
-                      who="#Antony_JC #SERVANTS.OCTAVIUS.1_JC #Caesar_JC">They exit with Caesar’s body. </stage>
+          <stage xml:id="stg-1477.1" n="SD 3.1.324.1" type="exit" who="#Antony_JC #SERVANTS.OCTAVIUS.1_JC #Caesar_JC">They exit with Caesar’s body. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-1477.2"
-                      n="SD 3.2.0"
-                      type="entrance"
-                      who="#Brutus_JC #Cassius_JC #PLEBEIANS_JC">Enter Brutus and Cassius with the Plebeians. </stage>
+          <stage xml:id="stg-1477.2" n="SD 3.2.0" type="entrance" who="#Brutus_JC #Cassius_JC #PLEBEIANS_JC">Enter Brutus and Cassius with the Plebeians. </stage>
           <sp xml:id="sp-1478" who="#PLEBEIANS_JC">
             <speaker xml:id="spk-1478">PLEBEIANS </speaker>
             <l xml:id="ftln-1478" n="3.2.1">We will be satisfied! Let us be satisfied! </l>
@@ -3510,14 +3245,8 @@
             <l xml:id="ftln-1488" n="3.2.11">When severally we hear them renderèd. </l>
           </sp>
           <stage xml:id="stg-1488.1" n="SD 3.2.11.1" type="mixed">
-            <stage xml:id="stg-1488.1a"
-                         n="SD 3.2.11.1"
-                         type="exit"
-                         who="#Cassius_JC #PLEBEIANS.0_JC">Cassius exits with some of the Plebeians. </stage>
-            <stage xml:id="stg-1488.1b"
-                         n="SD 3.2.11.1"
-                         type="business"
-                         who="#Brutus_JC">Brutus goes into the pulpit. </stage>
+            <stage xml:id="stg-1488.1a" n="SD 3.2.11.1" type="exit" who="#Cassius_JC #PLEBEIANS.0_JC">Cassius exits with some of the Plebeians. </stage>
+            <stage xml:id="stg-1488.1b" n="SD 3.2.11.1" type="business" who="#Brutus_JC">Brutus goes into the pulpit. </stage>
           </stage>
           <sp xml:id="sp-1489" who="#PLEBEIANS.0.3_JC">
             <speaker xml:id="spk-1489">THIRD PLEBEIAN </speaker>
@@ -3538,10 +3267,7 @@
             <speaker xml:id="spk-1515">BRUTUS </speaker>
             <p xml:id="p-1515">
               <lb xml:id="ftln-1515" n="3.2.38"/>Then none have I offended. I have done no <lb xml:id="ftln-1516" n="3.2.39"/>more to Caesar than you shall do to Brutus. The <lb xml:id="ftln-1517" n="3.2.40"/>question of his death is enrolled in the Capitol, his <lb xml:id="ftln-1518" n="3.2.41"/>glory not extenuated wherein he was worthy, nor <lb xml:id="ftln-1519" n="3.2.42"/>his offenses enforced for which he suffered death. </p>
-            <stage xml:id="stg-1519.1"
-                         n="SD 3.2.42.1"
-                         type="entrance"
-                         who="#Antony_JC #Caesar_JC #PLEBEIANS.0_JC">Enter Mark Antony and others with Caesar’s body. </stage>
+            <stage xml:id="stg-1519.1" n="SD 3.2.42.1" type="entrance" who="#Antony_JC #Caesar_JC #PLEBEIANS.0_JC">Enter Mark Antony and others with Caesar’s body. </stage>
             <p xml:id="p-1520">
               <lb xml:id="ftln-1520" n="3.2.43"/>Here comes his body, mourned by Mark Antony, <lb xml:id="ftln-1521" n="3.2.44"/>who, though he had no hand in his death, shall <lb xml:id="ftln-1522" n="3.2.45"/>receive the benefit of his dying— a place in the <lb xml:id="ftln-1523" n="3.2.46"/>commonwealth— as which of you shall not? With <lb xml:id="ftln-1524" n="3.2.47"/>this I depart: that, as I slew my best lover for the <lb xml:id="ftln-1525" n="3.2.48"/>good of Rome, I have the same dagger for myself <lb xml:id="ftln-1526" n="3.2.49"/>when it shall please my country to need my death. </p>
           </sp>
@@ -3594,10 +3320,7 @@
             <l xml:id="ftln-1543" n="3.2.66">I do entreat you, not a man depart, </l>
             <l xml:id="ftln-1544" n="3.2.67">Save I alone, till Antony have spoke. </l>
           </sp>
-          <stage xml:id="stg-1544.1"
-                      n="SD 3.2.67.1"
-                      type="exit"
-                      who="#Brutus_JC">He descends and exits. </stage>
+          <stage xml:id="stg-1544.1" n="SD 3.2.67.1" type="exit" who="#Brutus_JC">He descends and exits. </stage>
           <sp xml:id="sp-1545" who="#PLEBEIANS.0.1_JC">
             <speaker xml:id="spk-1545">FIRST PLEBEIAN </speaker>
             <l xml:id="ftln-1545" n="3.2.68">Stay, ho, and let us hear Mark Antony! </l>
@@ -3614,10 +3337,7 @@
             <speaker xml:id="spk-1548">ANTONY </speaker>
             <l xml:id="ftln-1548" n="3.2.71">For Brutus’ sake, I am beholding to you. </l>
           </sp>
-          <stage xml:id="stg-1548.1"
-                      n="SD 3.2.71.1"
-                      type="business"
-                      who="#Antony_JC">He goes into the pulpit. </stage>
+          <stage xml:id="stg-1548.1" n="SD 3.2.71.1" type="business" who="#Antony_JC">He goes into the pulpit. </stage>
           <sp xml:id="sp-1549" who="#PLEBEIANS.0.4_JC">
             <speaker xml:id="spk-1549">FOURTH PLEBEIAN </speaker>
             <l xml:id="ftln-1549" n="3.2.72" ana="#short">What does he say of Brutus? </l>
@@ -3690,10 +3410,7 @@
             <l xml:id="ftln-1593" n="3.2.116">My heart is in the coffin there with Caesar, </l>
             <l xml:id="ftln-1594" n="3.2.117">And I must pause till it come back to me. </l>
           </sp>
-          <stage xml:id="stg-1594"
-                      n="SD 3.2.117"
-                      type="business"
-                      who="#Antony_JC">He weeps. </stage>
+          <stage xml:id="stg-1594" n="SD 3.2.117" type="business" who="#Antony_JC">He weeps. </stage>
           <sp xml:id="sp-1595" who="#PLEBEIANS.0.1_JC">
             <speaker xml:id="spk-1595">FIRST PLEBEIAN </speaker>
             <l xml:id="ftln-1595" n="3.2.118">Methinks there is much reason in his sayings. </l>
@@ -3819,10 +3536,7 @@
             <speaker xml:id="spk-1652">THIRD PLEBEIAN </speaker>
             <l xml:id="ftln-1652" n="3.2.175" ana="#short">You shall have leave. </l>
           </sp>
-          <stage xml:id="stg-1652.1"
-                      n="SD 3.2.175.1"
-                      type="business"
-                      who="#Antony_JC">Antony descends. </stage>
+          <stage xml:id="stg-1652.1" n="SD 3.2.175.1" type="business" who="#Antony_JC">Antony descends. </stage>
           <sp xml:id="sp-1653" who="#PLEBEIANS.0.4_JC">
             <speaker xml:id="spk-1653">FOURTH PLEBEIAN </speaker>
             <l xml:id="ftln-1653" n="3.2.176" ana="#short">A ring; stand round. </l>
@@ -3874,10 +3588,7 @@
             <l xml:id="ftln-1683" n="3.2.206">The dint of pity. These are gracious drops. </l>
             <l xml:id="ftln-1684" n="3.2.207">Kind souls, what, weep you when you but behold </l>
             <l xml:id="ftln-1685" n="3.2.208">Our Caesar’s vesture wounded? Look you here, </l>
-            <stage xml:id="stg-1685.1"
-                         n="SD 3.2.208.1"
-                         type="business"
-                         who="#Antony_JC">Antony lifts Caesar’s cloak. </stage>
+            <stage xml:id="stg-1685.1" n="SD 3.2.208.1" type="business" who="#Antony_JC">Antony lifts Caesar’s cloak. </stage>
             <l xml:id="ftln-1686" n="3.2.209">Here is himself, marred as you see with traitors. </l>
           </sp>
           <sp xml:id="sp-1687" who="#PLEBEIANS.0.1_JC">
@@ -4037,18 +3748,12 @@
             <p xml:id="p-1751">
               <lb xml:id="ftln-1751" n="3.2.274"/>anything. </p>
           </sp>
-          <stage xml:id="stg-1751.1"
-                      n="SD 3.2.274.1"
-                      type="exit"
-                      who="#PLEBEIANS_JC #Caesar_JC">Plebeians exit with Caesar’s body. </stage>
+          <stage xml:id="stg-1751.1" n="SD 3.2.274.1" type="exit" who="#PLEBEIANS_JC #Caesar_JC">Plebeians exit with Caesar’s body. </stage>
           <sp xml:id="sp-1752" who="#Antony_JC">
             <speaker xml:id="spk-1752">ANTONY </speaker>
             <l xml:id="ftln-1752" n="3.2.275">Now let it work. Mischief, thou art afoot; </l>
             <l xml:id="ftln-1753" n="3.2.276" part="I">Take thou what course thou wilt. </l>
-            <stage xml:id="stg-1753.1"
-                         n="SD 3.2.276.1"
-                         type="entrance"
-                         who="#SERVANTS.OCTAVIUS.1_JC">Enter Servant. </stage>
+            <stage xml:id="stg-1753.1" n="SD 3.2.276.1" type="entrance" who="#SERVANTS.OCTAVIUS.1_JC">Enter Servant. </stage>
             <l xml:id="ftln-1754" n="3.2.277" part="F">How now, fellow? </l>
           </sp>
           <sp xml:id="sp-1755" who="#SERVANTS.OCTAVIUS.1_JC">
@@ -4080,17 +3785,11 @@
             <l xml:id="ftln-1763" n="3.2.286">Belike they had some notice of the people </l>
             <l xml:id="ftln-1764" n="3.2.287">How I had moved them. Bring me to Octavius. </l>
           </sp>
-          <stage xml:id="stg-1764.1"
-                      n="SD 3.2.287.1"
-                      type="exit"
-                      who="#Antony_JC #SERVANTS.OCTAVIUS.1_JC">They exit. </stage>
+          <stage xml:id="stg-1764.1" n="SD 3.2.287.1" type="exit" who="#Antony_JC #SERVANTS.OCTAVIUS.1_JC">They exit. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-1764.2"
-                      n="SD 3.3.0"
-                      type="entrance"
-                      who="#CinnaPoet_JC #PLEBEIANS_JC">Enter Cinna the poet and after him the Plebeians. </stage>
+          <stage xml:id="stg-1764.2" n="SD 3.3.0" type="entrance" who="#CinnaPoet_JC #PLEBEIANS_JC">Enter Cinna the poet and after him the Plebeians. </stage>
           <sp xml:id="sp-1765" who="#CinnaPoet_JC">
             <speaker xml:id="spk-1765">CINNA </speaker>
             <l xml:id="ftln-1765" n="3.3.1">I dreamt tonight that I did feast with Caesar, </l>
@@ -4218,20 +3917,14 @@
             <p xml:id="p-1801">
               <lb xml:id="ftln-1801" n="3.3.37"/>Tear him, tear him! Come, brands, ho, <lb xml:id="ftln-1802" n="3.3.38"/>firebrands! To Brutus’, to Cassius’, burn all! Some <lb xml:id="ftln-1803" n="3.3.39"/>to Decius’ house, and some to Casca’s, some to <lb xml:id="ftln-1804" n="3.3.40"/>Ligarius’. Away, go! </p>
           </sp>
-          <stage xml:id="stg-1804.1"
-                      n="SD 3.3.40.1"
-                      type="exit"
-                      who="#PLEBEIANS_JC #CinnaPoet_JC">All the Plebeians exit, carrying off Cinna. </stage>
+          <stage xml:id="stg-1804.1" n="SD 3.3.40.1" type="exit" who="#PLEBEIANS_JC #CinnaPoet_JC">All the Plebeians exit, carrying off Cinna. </stage>
         </div>
       </div>
       <div type="act" n="4">
         <head>ACT 4 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-1804.2"
-                      n="SD 4.1.0"
-                      type="entrance"
-                      who="#Antony_JC #Octavius_JC #Lepidus_JC">Enter Antony, Octavius, and Lepidus. </stage>
+          <stage xml:id="stg-1804.2" n="SD 4.1.0" type="entrance" who="#Antony_JC #Octavius_JC #Lepidus_JC">Enter Antony, Octavius, and Lepidus. </stage>
           <sp xml:id="sp-1805" who="#Antony_JC">
             <speaker xml:id="spk-1805">ANTONY </speaker>
             <l xml:id="ftln-1805" n="4.1.1">These many, then, shall die; their names are pricked. </l>
@@ -4329,17 +4022,11 @@
             <l xml:id="ftln-1858" n="4.1.54">And some that smile have in their hearts, I fear, </l>
             <l xml:id="ftln-1859" n="4.1.55" ana="#short">Millions of mischiefs. </l>
           </sp>
-          <stage xml:id="stg-1859.1"
-                      n="SD 4.1.55.1"
-                      type="exit"
-                      who="#Antony_JC #Octavius_JC">They exit. </stage>
+          <stage xml:id="stg-1859.1" n="SD 4.1.55.1" type="exit" who="#Antony_JC #Octavius_JC">They exit. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-1859.2"
-                      n="SD 4.2.0"
-                      type="entrance"
-                      who="#Brutus_JC #SOLDIERS.BRUTUS.Lucilius_JC #Lucius_JC #SOLDIERS.BRUTUS_JC #SOLDIERS.BRUTUS.Titinius_JC #Pindarus_JC">
+          <stage xml:id="stg-1859.2" n="SD 4.2.0" type="entrance" who="#Brutus_JC #SOLDIERS.BRUTUS.Lucilius_JC #Lucius_JC #SOLDIERS.BRUTUS_JC #SOLDIERS.BRUTUS.Titinius_JC #Pindarus_JC">
             <stage xml:id="snd-1859.2" n="SD 4.2.0" type="sound" ana="drum">Drum. </stage> Enter Brutus, Lucilius, Lucius, and the Army. Titinius and Pindarus meet them. </stage>
           <sp xml:id="sp-1860" who="#Brutus_JC">
             <speaker xml:id="spk-1860">BRUTUS </speaker>
@@ -4377,10 +4064,7 @@
           <sp xml:id="sp-1873" who="#Brutus_JC">
             <speaker xml:id="spk-1873">BRUTUS </speaker>
             <l xml:id="ftln-1873" n="4.2.14" part="I">He is not doubted. </l>
-            <stage xml:id="stg-1873"
-                         n="SD 4.2.14"
-                         type="business"
-                         who="#Brutus_JC #SOLDIERS.BRUTUS.Lucilius_JC">Brutus and Lucilius walk aside. </stage>
+            <stage xml:id="stg-1873" n="SD 4.2.14" type="business" who="#Brutus_JC #SOLDIERS.BRUTUS.Lucilius_JC">Brutus and Lucilius walk aside. </stage>
             <l xml:id="ftln-1874" n="4.2.15" part="F">A word, Lucilius, </l>
             <l xml:id="ftln-1875" n="4.2.16">How he received you. Let me be resolved. </l>
           </sp>
@@ -4401,10 +4085,7 @@
             <l xml:id="ftln-1885" n="4.2.26">But hollow men, like horses hot at hand, </l>
             <l xml:id="ftln-1886" n="4.2.27">Make gallant show and promise of their mettle, </l>
             <stage xml:id="stg-1886.1" n="SD 4.2.27.1" type="business">
-              <stage xml:id="snd-1886.1"
-                            n="SD 4.2.27.1"
-                            type="sound"
-                            ana="march drum">Low march within. </stage>
+              <stage xml:id="snd-1886.1" n="SD 4.2.27.1" type="sound" ana="march drum">Low march within. </stage>
             </stage>
             <l xml:id="ftln-1887" n="4.2.28">But when they should endure the bloody spur, </l>
             <l xml:id="ftln-1888" n="4.2.29">They fall their crests and, like deceitful jades, </l>
@@ -4416,10 +4097,7 @@
             <l xml:id="ftln-1891" n="4.2.32">The greater part, the horse in general, </l>
             <l xml:id="ftln-1892" n="4.2.33" part="I">Are come with Cassius. </l>
           </sp>
-          <stage xml:id="stg-1892.1"
-                      n="SD 4.2.33.1"
-                      type="entrance"
-                      who="#Cassius_JC #SOLDIERS.CASSIUS_JC">Enter Cassius and his powers. </stage>
+          <stage xml:id="stg-1892.1" n="SD 4.2.33.1" type="entrance" who="#Cassius_JC #SOLDIERS.CASSIUS_JC">Enter Cassius and his powers. </stage>
           <sp xml:id="sp-1893" who="#Brutus_JC">
             <speaker xml:id="spk-1893">BRUTUS </speaker>
             <l xml:id="ftln-1893" n="4.2.34" part="F">Hark, he is arrived. </l>
@@ -4486,10 +4164,7 @@
             <l xml:id="ftln-1916" n="4.2.57">Come to our tent till we have done our conference. </l>
             <l xml:id="ftln-1917" n="4.2.58">Let Lucilius and Titinius guard our door. </l>
           </sp>
-          <stage xml:id="stg-1917.1"
-                      n="SD 4.2.58.1"
-                      type="exit"
-                      who="#Lucius_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC #Pindarus_JC #SOLDIERS.BRUTUS_JC #SOLDIERS.CASSIUS_JC">All but Brutus and Cassius exit. </stage>
+          <stage xml:id="stg-1917.1" n="SD 4.2.58.1" type="exit" who="#Lucius_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC #Pindarus_JC #SOLDIERS.BRUTUS_JC #SOLDIERS.CASSIUS_JC">All but Brutus and Cassius exit. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
@@ -4724,10 +4399,7 @@
             <l xml:id="ftln-2026" n="4.3.109">Set in a notebook, learned and conned by rote </l>
             <l xml:id="ftln-2027" n="4.3.110">To cast into my teeth. O, I could weep </l>
             <l xml:id="ftln-2028" n="4.3.111">My spirit from mine eyes! There is my dagger, </l>
-            <stage xml:id="stg-2028.1"
-                         n="SD 4.3.111.1"
-                         type="business"
-                         who="#Cassius_JC">Offering his dagger to Brutus. </stage>
+            <stage xml:id="stg-2028.1" n="SD 4.3.111.1" type="business" who="#Cassius_JC">Offering his dagger to Brutus. </stage>
             <l xml:id="ftln-2029" n="4.3.112">And here my naked breast; within, a heart </l>
             <l xml:id="ftln-2030" n="4.3.113">Dearer than Pluto’s mine, richer than gold. </l>
             <l xml:id="ftln-2031" n="4.3.114">If that thou be’st a Roman, take it forth. </l>
@@ -4764,10 +4436,7 @@
             <speaker xml:id="spk-2050">BRUTUS </speaker>
             <l xml:id="ftln-2050" n="4.3.133" part="I">And my heart too. </l>
           </sp>
-          <stage xml:id="stg-2050"
-                      n="SD 4.3.133"
-                      type="business"
-                      who="#Brutus_JC #Cassius_JC">They clasp hands. </stage>
+          <stage xml:id="stg-2050" n="SD 4.3.133" type="business" who="#Brutus_JC #Cassius_JC">They clasp hands. </stage>
           <sp xml:id="sp-2051" who="#Cassius_JC">
             <speaker xml:id="spk-2051">CASSIUS </speaker>
             <l xml:id="ftln-2051" n="4.3.134" prev="#ftln-2050" part="I">O Brutus! </l>
@@ -4788,10 +4457,7 @@
             <l xml:id="ftln-2058" n="4.3.141">When you are over-earnest with your Brutus, </l>
             <l xml:id="ftln-2059" n="4.3.142">He’ll think your mother chides, and leave you so. </l>
           </sp>
-          <stage xml:id="stg-2059.1"
-                      n="SD 4.3.142.1"
-                      type="entrance"
-                      who="#Poet_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC #Lucius_JC">Enter a Poet followed by Lucilius, Titinius, and Lucius. </stage>
+          <stage xml:id="stg-2059.1" n="SD 4.3.142.1" type="entrance" who="#Poet_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC #Lucius_JC">Enter a Poet followed by Lucilius, Titinius, and Lucius. </stage>
           <sp xml:id="sp-2060" who="#Poet_JC">
             <speaker xml:id="spk-2060">POET </speaker>
             <l xml:id="ftln-2060" n="4.3.143">Let me go in to see the Generals. </l>
@@ -4851,10 +4517,7 @@
             <l xml:id="ftln-2078" n="4.3.161">And come yourselves, and bring Messala with you </l>
             <l xml:id="ftln-2079" n="4.3.162" ana="#short">Immediately to us. </l>
           </sp>
-          <stage xml:id="stg-2079"
-                      n="SD 4.3.162"
-                      type="exit"
-                      who="#SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC">Lucilius and Titinius exit. </stage>
+          <stage xml:id="stg-2079" n="SD 4.3.162" type="exit" who="#SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC">Lucilius and Titinius exit. </stage>
           <sp xml:id="sp-2080" who="#Brutus_JC">
             <speaker xml:id="spk-2080">BRUTUS </speaker>
             <l xml:id="ftln-2080" n="4.3.163" ana="#short">Lucius, a bowl of wine. </l>
@@ -4913,47 +4576,29 @@
             <speaker xml:id="spk-2099">CASSIUS </speaker>
             <l xml:id="ftln-2099" n="4.3.182" ana="#short">O you immortal gods! </l>
           </sp>
-          <stage xml:id="stg-2099.1"
-                      n="SD 4.3.182.1"
-                      type="entrance"
-                      who="#Lucius_JC">Enter Lucius with wine and tapers. </stage>
+          <stage xml:id="stg-2099.1" n="SD 4.3.182.1" type="entrance" who="#Lucius_JC">Enter Lucius with wine and tapers. </stage>
           <sp xml:id="sp-2100" who="#Brutus_JC">
             <speaker xml:id="spk-2100">BRUTUS </speaker>
             <l xml:id="ftln-2100" n="4.3.183">Speak no more of her.— Give me a bowl of wine.— </l>
             <l xml:id="ftln-2101" n="4.3.184">In this I bury all unkindness, Cassius. </l>
           </sp>
-          <stage xml:id="stg-2101"
-                      n="SD 4.3.184"
-                      type="business"
-                      who="#Brutus_JC">He drinks. </stage>
+          <stage xml:id="stg-2101" n="SD 4.3.184" type="business" who="#Brutus_JC">He drinks. </stage>
           <sp xml:id="sp-2102" who="#Cassius_JC">
             <speaker xml:id="spk-2102">CASSIUS </speaker>
             <l xml:id="ftln-2102" n="4.3.185">My heart is thirsty for that noble pledge.— </l>
             <l xml:id="ftln-2103" n="4.3.186">Fill, Lucius, till the wine o’erswell the cup; </l>
             <l xml:id="ftln-2104" n="4.3.187">I cannot drink too much of Brutus’ love. </l>
           </sp>
-          <stage xml:id="stg-2104"
-                      n="SD 4.3.187"
-                      type="business"
-                      who="#Cassius_JC">He drinks. </stage>
-          <stage xml:id="stg-2104.1"
-                      n="SD 4.3.187.1"
-                      type="exit"
-                      who="#Lucius_JC">Lucius exits. </stage>
-          <stage xml:id="stg-2104.2"
-                      n="SD 4.3.187.2"
-                      type="entrance"
-                      who="#SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS.Messala_JC">Enter Titinius and Messala. </stage>
+          <stage xml:id="stg-2104" n="SD 4.3.187" type="business" who="#Cassius_JC">He drinks. </stage>
+          <stage xml:id="stg-2104.1" n="SD 4.3.187.1" type="exit" who="#Lucius_JC">Lucius exits. </stage>
+          <stage xml:id="stg-2104.2" n="SD 4.3.187.2" type="entrance" who="#SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS.Messala_JC">Enter Titinius and Messala. </stage>
           <sp xml:id="sp-2105" who="#Brutus_JC">
             <speaker xml:id="spk-2105">BRUTUS </speaker>
             <l xml:id="ftln-2105" n="4.3.188">Come in, Titinius. Welcome, good Messala. </l>
             <l xml:id="ftln-2106" n="4.3.189">Now sit we close about this taper here, </l>
             <l xml:id="ftln-2107" n="4.3.190">And call in question our necessities. </l>
           </sp>
-          <stage xml:id="stg-2107"
-                      n="SD 4.3.190"
-                      type="business"
-                      who="#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS.Messala_JC">They sit. </stage>
+          <stage xml:id="stg-2107" n="SD 4.3.190" type="business" who="#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS.Messala_JC">They sit. </stage>
           <sp xml:id="sp-2108" who="#Cassius_JC">
             <speaker xml:id="spk-2108">CASSIUS </speaker>
             <l xml:id="ftln-2108" n="4.3.191" part="I">Portia, art thou gone? </l>
@@ -5114,19 +4759,13 @@
           <sp xml:id="sp-2179" who="#Cassius_JC">
             <speaker xml:id="spk-2179">CASSIUS </speaker>
             <l xml:id="ftln-2179" n="4.3.262" part="F">No more. Good night. </l>
-            <stage xml:id="stg-2179.1"
-                         n="SD 4.3.262.1"
-                         type="business"
-                         who="#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS.Messala_JC">They stand. </stage>
+            <stage xml:id="stg-2179.1" n="SD 4.3.262.1" type="business" who="#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS.Messala_JC">They stand. </stage>
             <l xml:id="ftln-2180" n="4.3.263">Early tomorrow will we rise and hence. </l>
           </sp>
           <sp xml:id="sp-2181" who="#Brutus_JC">
             <speaker xml:id="spk-2181">BRUTUS </speaker>
             <l xml:id="ftln-2181" n="4.3.264" part="I">Lucius. </l>
-            <stage xml:id="stg-2181.1"
-                         n="SD 4.3.264.1"
-                         type="entrance"
-                         who="#Lucius_JC">Enter Lucius. </stage>
+            <stage xml:id="stg-2181.1" n="SD 4.3.264.1" type="entrance" who="#Lucius_JC">Enter Lucius. </stage>
             <l xml:id="ftln-2182" n="4.3.265" prev="#ftln-2181" part="I">My gown. </l>
             <stage xml:id="stg-2182" n="SD 4.3.265" type="exit" who="#Lucius_JC">Lucius exits. </stage>
             <l xml:id="ftln-2183" n="4.3.266" part="F">Farewell, good Messala.— </l>
@@ -5140,10 +4779,7 @@
             <l xml:id="ftln-2188" n="4.3.271">Never come such division ’tween our souls! </l>
             <l xml:id="ftln-2189" n="4.3.272" part="I">Let it not, Brutus. </l>
           </sp>
-          <stage xml:id="stg-2189.1"
-                      n="SD 4.3.272.1"
-                      type="entrance"
-                      who="#Lucius_JC">Enter Lucius with the gown. </stage>
+          <stage xml:id="stg-2189.1" n="SD 4.3.272.1" type="entrance" who="#Lucius_JC">Enter Lucius with the gown. </stage>
           <sp xml:id="sp-2190" who="#Brutus_JC">
             <speaker xml:id="spk-2190">BRUTUS </speaker>
             <l xml:id="ftln-2190" n="4.3.273" part="F">Everything is well. </l>
@@ -5158,18 +4794,14 @@
             <p xml:id="p-2192">
               <lb xml:id="ftln-2192" n="4.3.275"/>Good night, good brother. </p>
           </sp>
-          <sp xml:id="sp-2193"
-                   who="#SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS.Messala_JC">
+          <sp xml:id="sp-2193" who="#SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS.Messala_JC">
             <speaker xml:id="spk-2193">TITINIUS/ MESSALA </speaker>
             <l xml:id="ftln-2193" n="4.3.276" part="I">Good night, Lord Brutus. </l>
           </sp>
           <sp xml:id="sp-2194" who="#Brutus_JC">
             <speaker xml:id="spk-2194">BRUTUS </speaker>
             <l xml:id="ftln-2194" n="4.3.277" part="F">Farewell, everyone. </l>
-            <stage xml:id="stg-2194.1"
-                         n="SD 4.3.277.1"
-                         type="exit"
-                         who="#Cassius_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS.Messala_JC">All but Brutus and Lucius exit. </stage>
+            <stage xml:id="stg-2194.1" n="SD 4.3.277.1" type="exit" who="#Cassius_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS.Messala_JC">All but Brutus and Lucius exit. </stage>
             <l xml:id="ftln-2195" n="4.3.278">Give me the gown. Where is thy instrument? </l>
           </sp>
           <sp xml:id="sp-2196" who="#Lucius_JC">
@@ -5188,10 +4820,7 @@
             <p xml:id="p-2201">
               <lb xml:id="ftln-2201" n="4.3.284"/>Varro and Claudius. </p>
           </sp>
-          <stage xml:id="stg-2201.1"
-                      n="SD 4.3.284.1"
-                      type="entrance"
-                      who="#SOLDIERS.BRUTUS.Varro_JC #SOLDIERS.BRUTUS.Claudius_JC">Enter Varro and Claudius. </stage>
+          <stage xml:id="stg-2201.1" n="SD 4.3.284.1" type="entrance" who="#SOLDIERS.BRUTUS.Varro_JC #SOLDIERS.BRUTUS.Claudius_JC">Enter Varro and Claudius. </stage>
           <sp xml:id="sp-2202" who="#SOLDIERS.BRUTUS.Varro_JC">
             <speaker xml:id="spk-2202">VARRO </speaker>
             <p xml:id="p-2202">
@@ -5211,10 +4840,7 @@
             <speaker xml:id="spk-2208">BRUTUS </speaker>
             <l xml:id="ftln-2208" n="4.3.291">I will not have it so. Lie down, good sirs. </l>
             <l xml:id="ftln-2209" n="4.3.292">It may be I shall otherwise bethink me. </l>
-            <stage xml:id="stg-2209.1"
-                         n="SD 4.3.292.1"
-                         type="business"
-                         who="#SOLDIERS.BRUTUS.Varro_JC #SOLDIERS.BRUTUS.Claudius_JC">They lie down. </stage>
+            <stage xml:id="stg-2209.1" n="SD 4.3.292.1" type="business" who="#SOLDIERS.BRUTUS.Varro_JC #SOLDIERS.BRUTUS.Claudius_JC">They lie down. </stage>
             <l xml:id="ftln-2210" n="4.3.293">Look, Lucius, here’s the book I sought for so. </l>
             <l xml:id="ftln-2211" n="4.3.294">I put it in the pocket of my gown. </l>
           </sp>
@@ -5260,10 +4886,7 @@
               <stage xml:id="stg-2225.1a" n="SD 4.3.301.1" type="business">
                 <stage xml:id="snd-2225.1a" n="SD 4.3.301.1" type="sound">Music and a song. </stage>
               </stage>
-              <stage xml:id="stg-2225.1b"
-                            n="SD 4.3.301.1"
-                            type="business"
-                            who="#Lucius_JC">Lucius then falls asleep. </stage>
+              <stage xml:id="stg-2225.1b" n="SD 4.3.301.1" type="business" who="#Lucius_JC">Lucius then falls asleep. </stage>
             </stage>
             <l xml:id="ftln-2226" n="4.3.309">This is a sleepy tune. O murd’rous slumber, </l>
             <l xml:id="ftln-2227" n="4.3.310">Layest thou thy leaden mace upon my boy, </l>
@@ -5271,17 +4894,11 @@
             <l xml:id="ftln-2229" n="4.3.312">I will not do thee so much wrong to wake thee. </l>
             <l xml:id="ftln-2230" n="4.3.313">If thou dost nod, thou break’st thy instrument. </l>
             <l xml:id="ftln-2231" n="4.3.314">I’ll take it from thee and, good boy, good night. </l>
-            <stage xml:id="stg-2231.1"
-                         n="SD 4.3.314.1"
-                         type="business"
-                         who="#Brutus_JC">He moves the instrument. </stage>
+            <stage xml:id="stg-2231.1" n="SD 4.3.314.1" type="business" who="#Brutus_JC">He moves the instrument. </stage>
             <l xml:id="ftln-2232" n="4.3.315">Let me see, let me see; is not the leaf turned down </l>
             <l xml:id="ftln-2233" n="4.3.316">Where I left reading? Here it is, I think. </l>
             <l xml:id="ftln-2234" n="4.3.317" part="I">How ill this taper burns. </l>
-            <stage xml:id="stg-2234.1"
-                         n="SD 4.3.317.1"
-                         type="entrance"
-                         who="#Caesar_JC">Enter the Ghost of Caesar. </stage>
+            <stage xml:id="stg-2234.1" n="SD 4.3.317.1" type="entrance" who="#Caesar_JC">Enter the Ghost of Caesar. </stage>
             <l xml:id="ftln-2235" n="4.3.318" part="F">Ha, who comes here?— </l>
             <l xml:id="ftln-2236" n="4.3.319">I think it is the weakness of mine eyes </l>
             <l xml:id="ftln-2237" n="4.3.320">That shapes this monstrous apparition. </l>
@@ -5356,10 +4973,7 @@
             <l xml:id="ftln-2261" n="4.3.344" ana="#short">
               <stage xml:id="stg-2261a" n="SD 4.3.344a" type="delivery">To Varro. </stage>Fellow thou, awake! </l>
           </sp>
-          <stage xml:id="stg-2261b"
-                      n="SD 4.3.344b"
-                      type="business"
-                      who="#SOLDIERS.BRUTUS.Varro_JC #SOLDIERS.BRUTUS.Claudius_JC">They rise up. </stage>
+          <stage xml:id="stg-2261b" n="SD 4.3.344b" type="business" who="#SOLDIERS.BRUTUS.Varro_JC #SOLDIERS.BRUTUS.Claudius_JC">They rise up. </stage>
           <sp xml:id="sp-2262" who="#SOLDIERS.BRUTUS.Varro_JC">
             <speaker xml:id="spk-2262">VARRO </speaker>
             <l xml:id="ftln-2262" n="4.3.345" ana="#short">My lord? </l>
@@ -5372,8 +4986,7 @@
             <speaker xml:id="spk-2264">BRUTUS </speaker>
             <l xml:id="ftln-2264" n="4.3.347">Why did you so cry out, sirs, in your sleep? </l>
           </sp>
-          <sp xml:id="sp-2265"
-                   who="#SOLDIERS.BRUTUS.Varro_JC #SOLDIERS.BRUTUS.Claudius_JC">
+          <sp xml:id="sp-2265" who="#SOLDIERS.BRUTUS.Varro_JC #SOLDIERS.BRUTUS.Claudius_JC">
             <speaker xml:id="spk-2265">BOTH </speaker>
             <l xml:id="ftln-2265" n="4.3.348" part="I">Did we, my lord? </l>
           </sp>
@@ -5396,25 +5009,18 @@
             <l xml:id="ftln-2270" n="4.3.353">Bid him set on his powers betimes before, </l>
             <l xml:id="ftln-2271" n="4.3.354" part="I">And we will follow. </l>
           </sp>
-          <sp xml:id="sp-2272"
-                   who="#SOLDIERS.BRUTUS.Varro_JC #SOLDIERS.BRUTUS.Claudius_JC">
+          <sp xml:id="sp-2272" who="#SOLDIERS.BRUTUS.Varro_JC #SOLDIERS.BRUTUS.Claudius_JC">
             <speaker xml:id="spk-2272">BOTH </speaker>
             <l xml:id="ftln-2272" n="4.3.355" part="F">It shall be done, my lord. </l>
           </sp>
-          <stage xml:id="stg-2272.1"
-                      n="SD 4.3.355.1"
-                      type="exit"
-                      who="#Brutus_JC #Lucius_JC #SOLDIERS.BRUTUS.Varro_JC #SOLDIERS.BRUTUS.Claudius_JC">They exit. </stage>
+          <stage xml:id="stg-2272.1" n="SD 4.3.355.1" type="exit" who="#Brutus_JC #Lucius_JC #SOLDIERS.BRUTUS.Varro_JC #SOLDIERS.BRUTUS.Claudius_JC">They exit. </stage>
         </div>
       </div>
       <div type="act" n="5">
         <head>ACT 5 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-2272.2"
-                      n="SD 5.1.0"
-                      type="entrance"
-                      who="#Octavius_JC #Antony_JC #SOLDIERS.ANTONY_JC">Enter Octavius, Antony, and their army. </stage>
+          <stage xml:id="stg-2272.2" n="SD 5.1.0" type="entrance" who="#Octavius_JC #Antony_JC #SOLDIERS.ANTONY_JC">Enter Octavius, Antony, and their army. </stage>
           <sp xml:id="sp-2273" who="#Octavius_JC">
             <speaker xml:id="spk-2273">OCTAVIUS </speaker>
             <l xml:id="ftln-2273" n="5.1.1">Now, Antony, our hopes are answerèd. </l>
@@ -5433,10 +5039,7 @@
             <l xml:id="ftln-2283" n="5.1.11">To fasten in our thoughts that they have courage. </l>
             <l xml:id="ftln-2284" n="5.1.12" part="I">But ’tis not so. </l>
           </sp>
-          <stage xml:id="stg-2284.1"
-                      n="SD 5.1.12.1"
-                      type="entrance"
-                      who="#Messenger_JC">Enter a Messenger. </stage>
+          <stage xml:id="stg-2284.1" n="SD 5.1.12.1" type="entrance" who="#Messenger_JC">Enter a Messenger. </stage>
           <sp xml:id="sp-2285" who="#Messenger_JC">
             <speaker xml:id="spk-2285">MESSENGER </speaker>
             <l xml:id="ftln-2285" n="5.1.13" part="F">Prepare you, generals. </l>
@@ -5464,10 +5067,7 @@
           <stage xml:id="stg-2293" n="SD 5.1.21" type="business">
             <stage xml:id="snd-2293" n="SD 5.1.21" type="sound" ana="march drum">March. </stage>
           </stage>
-          <stage xml:id="stg-2293.1b"
-                      n="SD 5.1.21.1"
-                      type="entrance"
-                      who="#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS_JC">
+          <stage xml:id="stg-2293.1b" n="SD 5.1.21.1" type="entrance" who="#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS_JC">
             <stage xml:id="snd-2293.1" n="SD 5.1.21.1" type="sound" ana="drum">Drum. </stage> Enter Brutus, Cassius, and their army including Lucilius, Titinius, and Messala. </stage>
           <sp xml:id="sp-2294" who="#Brutus_JC">
             <speaker xml:id="spk-2294">BRUTUS </speaker>
@@ -5493,10 +5093,7 @@
             <p xml:id="p-2299">
               <lb xml:id="ftln-2299" n="5.1.27"/>Stir not until the signal. </p>
           </sp>
-          <stage xml:id="stg-2299.1"
-                      n="SD 5.1.27.1"
-                      type="business"
-                      who="#Octavius_JC #Antony_JC #Brutus_JC #Cassius_JC">The Generals step forward. </stage>
+          <stage xml:id="stg-2299.1" n="SD 5.1.27.1" type="business" who="#Octavius_JC #Antony_JC #Brutus_JC #Cassius_JC">The Generals step forward. </stage>
           <sp xml:id="sp-2300" who="#Brutus_JC">
             <speaker xml:id="spk-2300">BRUTUS </speaker>
             <l xml:id="ftln-2300" n="5.1.28">Words before blows; is it so, countrymen? </l>
@@ -5552,10 +5149,7 @@
             <l xml:id="ftln-2324" n="5.1.52">Come, come, the cause. If arguing make us sweat, </l>
             <l xml:id="ftln-2325" n="5.1.53">The proof of it will turn to redder drops. </l>
             <l xml:id="ftln-2326" n="5.1.54">Look, I draw a sword against conspirators; </l>
-            <stage xml:id="stg-2326.1"
-                         n="SD 5.1.54.1"
-                         type="business"
-                         who="#Octavius_JC">He draws. </stage>
+            <stage xml:id="stg-2326.1" n="SD 5.1.54.1" type="business" who="#Octavius_JC">He draws. </stage>
             <l xml:id="ftln-2327" n="5.1.55">When think you that the sword goes up again? </l>
             <l xml:id="ftln-2328" n="5.1.56">Never, till Caesar’s three and thirty wounds </l>
             <l xml:id="ftln-2329" n="5.1.57">Be well avenged, or till another Caesar </l>
@@ -5592,10 +5186,7 @@
             <l xml:id="ftln-2342" n="5.1.70">If you dare fight today, come to the field; </l>
             <l xml:id="ftln-2343" n="5.1.71" ana="#short">If not, when you have stomachs. </l>
           </sp>
-          <stage xml:id="stg-2343.1"
-                      n="SD 5.1.71.1"
-                      type="exit"
-                      who="#Octavius_JC #Antony_JC #SOLDIERS.ANTONY_JC #Messenger_JC">Octavius, Antony, and their army exit. </stage>
+          <stage xml:id="stg-2343.1" n="SD 5.1.71.1" type="exit" who="#Octavius_JC #Antony_JC #SOLDIERS.ANTONY_JC #Messenger_JC">Octavius, Antony, and their army exit. </stage>
           <sp xml:id="sp-2344" who="#Cassius_JC">
             <speaker xml:id="spk-2344">CASSIUS </speaker>
             <l xml:id="ftln-2344" n="5.1.72">Why now, blow wind, swell billow, and swim bark! </l>
@@ -5605,19 +5196,13 @@
             <speaker xml:id="spk-2346">BRUTUS </speaker>
             <l xml:id="ftln-2346" n="5.1.74">Ho, Lucilius, hark, a word with you. </l>
           </sp>
-          <stage xml:id="stg-2346.1"
-                      n="SD 5.1.74.1"
-                      type="business"
-                      who="#SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC">Lucilius and Messala stand forth. </stage>
+          <stage xml:id="stg-2346.1" n="SD 5.1.74.1" type="business" who="#SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC">Lucilius and Messala stand forth. </stage>
           <sp xml:id="sp-2347" who="#SOLDIERS.BRUTUS.Lucilius_JC">
             <speaker xml:id="spk-2347">LUCILIUS </speaker>
             <p xml:id="p-2347">
               <lb xml:id="ftln-2347" n="5.1.75"/>My lord? </p>
           </sp>
-          <stage xml:id="stg-2347.1"
-                      n="SD 5.1.75.1"
-                      type="business"
-                      who="#Brutus_JC #SOLDIERS.BRUTUS.Lucilius_JC">Brutus and Lucilius step aside together. </stage>
+          <stage xml:id="stg-2347.1" n="SD 5.1.75.1" type="business" who="#Brutus_JC #SOLDIERS.BRUTUS.Lucilius_JC">Brutus and Lucilius step aside together. </stage>
           <sp xml:id="sp-2348" who="#Cassius_JC">
             <speaker xml:id="spk-2348">CASSIUS </speaker>
             <l xml:id="ftln-2348" n="5.1.76" part="I">Messala. </l>
@@ -5662,10 +5247,7 @@
             <speaker xml:id="spk-2373">BRUTUS </speaker>
             <l xml:id="ftln-2373" n="5.1.101" part="I">Even so, Lucilius. </l>
           </sp>
-          <stage xml:id="stg-2373"
-                      n="SD 5.1.101"
-                      type="business"
-                      who="#Brutus_JC">Brutus returns to Cassius. </stage>
+          <stage xml:id="stg-2373" n="SD 5.1.101" type="business" who="#Brutus_JC">Brutus returns to Cassius. </stage>
           <sp xml:id="sp-2374" who="#Cassius_JC">
             <speaker xml:id="spk-2374">CASSIUS </speaker>
             <l xml:id="ftln-2374" n="5.1.102" part="F">Now, most noble Brutus, </l>
@@ -5719,26 +5301,17 @@
             <l xml:id="ftln-2407" n="5.1.135">But it sufficeth that the day will end, </l>
             <l xml:id="ftln-2408" n="5.1.136">And then the end is known.— Come ho, away! </l>
           </sp>
-          <stage xml:id="stg-2408.1"
-                      n="SD 5.1.136.1"
-                      type="exit"
-                      who="#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS_JC">They exit. </stage>
+          <stage xml:id="stg-2408.1" n="SD 5.1.136.1" type="exit" who="#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS_JC">They exit. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-2408.2"
-                      n="SD 5.2.0"
-                      type="entrance"
-                      who="#Brutus_JC #SOLDIERS.BRUTUS.Messala_JC">
+          <stage xml:id="stg-2408.2" n="SD 5.2.0" type="entrance" who="#Brutus_JC #SOLDIERS.BRUTUS.Messala_JC">
             <stage xml:id="snd-2408.2" n="SD 5.2.0" type="sound" ana="alarum">Alarum. </stage> Enter Brutus and Messala. </stage>
           <sp xml:id="sp-2409" who="#Brutus_JC">
             <speaker xml:id="spk-2409">BRUTUS </speaker>
             <l xml:id="ftln-2409" n="5.2.1">Ride, ride, Messala, ride, and give these bills </l>
             <l xml:id="ftln-2410" n="5.2.2">Unto the legions on the other side! </l>
-            <stage xml:id="stg-2410.1"
-                         n="SD 5.2.2.1"
-                         type="business"
-                         who="#Brutus_JC #SOLDIERS.BRUTUS.Messala_JC">He hands Messala papers. </stage>
+            <stage xml:id="stg-2410.1" n="SD 5.2.2.1" type="business" who="#Brutus_JC #SOLDIERS.BRUTUS.Messala_JC">He hands Messala papers. </stage>
             <stage xml:id="stg-2410.2" n="SD 5.2.2.2" type="business">
               <stage xml:id="snd-2410.2" n="SD 5.2.2.2" type="sound" ana="alarum">Loud alarum. </stage>
             </stage>
@@ -5747,17 +5320,11 @@
             <l xml:id="ftln-2413" n="5.2.5">And sudden push gives them the overthrow. </l>
             <l xml:id="ftln-2414" n="5.2.6">Ride, ride, Messala! Let them all come down. </l>
           </sp>
-          <stage xml:id="stg-2414.1"
-                      n="SD 5.2.6.1"
-                      type="exit"
-                      who="#Brutus_JC #SOLDIERS.BRUTUS.Messala_JC">They exit. </stage>
+          <stage xml:id="stg-2414.1" n="SD 5.2.6.1" type="exit" who="#Brutus_JC #SOLDIERS.BRUTUS.Messala_JC">They exit. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-2414.2"
-                      n="SD 5.3.0"
-                      type="entrance"
-                      who="#Cassius_JC #SOLDIERS.BRUTUS.Titinius_JC">
+          <stage xml:id="stg-2414.2" n="SD 5.3.0" type="entrance" who="#Cassius_JC #SOLDIERS.BRUTUS.Titinius_JC">
             <stage xml:id="snd-2414.2" n="SD 5.3.0" type="sound" ana="alarum">Alarums. </stage> Enter Cassius carrying a standard and Titinius. </stage>
           <sp xml:id="sp-2415" who="#Cassius_JC">
             <speaker xml:id="spk-2415">CASSIUS </speaker>
@@ -5773,10 +5340,7 @@
             <l xml:id="ftln-2421" n="5.3.7">Took it too eagerly. His soldiers fell to spoil, </l>
             <l xml:id="ftln-2422" n="5.3.8">Whilst we by Antony are all enclosed. </l>
           </sp>
-          <stage xml:id="stg-2422.1"
-                      n="SD 5.3.8.1"
-                      type="entrance"
-                      who="#Pindarus_JC">Enter Pindarus. </stage>
+          <stage xml:id="stg-2422.1" n="SD 5.3.8.1" type="entrance" who="#Pindarus_JC">Enter Pindarus. </stage>
           <sp xml:id="sp-2423" who="#Pindarus_JC">
             <speaker xml:id="spk-2423">PINDARUS </speaker>
             <l xml:id="ftln-2423" n="5.3.9">Fly further off, my lord, fly further off! </l>
@@ -5804,19 +5368,13 @@
             <speaker xml:id="spk-2434">TITINIUS </speaker>
             <l xml:id="ftln-2434" n="5.3.20">I will be here again even with a thought. </l>
           </sp>
-          <stage xml:id="stg-2434"
-                      n="SD 5.3.20"
-                      type="exit"
-                      who="#SOLDIERS.BRUTUS.Titinius_JC">He exits. </stage>
+          <stage xml:id="stg-2434" n="SD 5.3.20" type="exit" who="#SOLDIERS.BRUTUS.Titinius_JC">He exits. </stage>
           <sp xml:id="sp-2435" who="#Cassius_JC">
             <speaker xml:id="spk-2435">CASSIUS </speaker>
             <l xml:id="ftln-2435" n="5.3.21">Go, Pindarus, get higher on that hill. </l>
             <l xml:id="ftln-2436" n="5.3.22">My sight was ever thick. Regard Titinius </l>
             <l xml:id="ftln-2437" n="5.3.23">And tell me what thou not’st about the field. </l>
-            <stage xml:id="stg-2437.1"
-                         n="SD 5.3.23.1"
-                         type="business"
-                         who="#Pindarus_JC">Pindarus goes up. </stage>
+            <stage xml:id="stg-2437.1" n="SD 5.3.23.1" type="business" who="#Pindarus_JC">Pindarus goes up. </stage>
             <l xml:id="ftln-2438" n="5.3.24">This day I breathèd first. Time is come round, </l>
             <l xml:id="ftln-2439" n="5.3.25">And where I did begin, there shall I end; </l>
             <l xml:id="ftln-2440" n="5.3.26">My life is run his compass.— Sirrah, what news? </l>
@@ -5845,10 +5403,7 @@
             <l xml:id="ftln-2449" n="5.3.35" ana="#short">Come down, behold no more.— </l>
             <l xml:id="ftln-2450" n="5.3.36">O, coward that I am to live so long </l>
             <l xml:id="ftln-2451" n="5.3.37">To see my best friend ta’en before my face! </l>
-            <stage xml:id="stg-2451.1"
-                         n="SD 5.3.37.1"
-                         type="business"
-                         who="#Pindarus_JC">Pindarus comes down. </stage>
+            <stage xml:id="stg-2451.1" n="SD 5.3.37.1" type="business" who="#Pindarus_JC">Pindarus comes down. </stage>
             <l xml:id="ftln-2452" n="5.3.38" ana="#short">Come hither, sirrah. </l>
             <l xml:id="ftln-2453" n="5.3.39">In Parthia did I take thee prisoner, </l>
             <l xml:id="ftln-2454" n="5.3.40">And then I swore thee, saving of thy life, </l>
@@ -5859,17 +5414,11 @@
             <l xml:id="ftln-2461" n="5.3.47">Stand not to answer. Here, take thou the hilts, </l>
             <l xml:id="ftln-2462" n="5.3.48">And, when my face is covered, as ’tis now, </l>
             <l xml:id="ftln-2463" n="5.3.49" part="I">Guide thou the sword. </l>
-            <stage xml:id="stg-2463"
-                         n="SD 5.3.49"
-                         type="business"
-                         who="#Pindarus_JC #Cassius_JC">Pindarus stabs him. </stage>
+            <stage xml:id="stg-2463" n="SD 5.3.49" type="business" who="#Pindarus_JC #Cassius_JC">Pindarus stabs him. </stage>
             <l xml:id="ftln-2464" n="5.3.50" part="F">Caesar, thou art revenged </l>
             <l xml:id="ftln-2465" n="5.3.51">Even with the sword that killed thee. </l>
           </sp>
-          <stage xml:id="stg-2465"
-                      n="SD 5.3.51"
-                      type="business"
-                      who="#Cassius_JC">He dies. </stage>
+          <stage xml:id="stg-2465" n="SD 5.3.51" type="business" who="#Cassius_JC">He dies. </stage>
           <sp xml:id="sp-2466" who="#Pindarus_JC">
             <speaker xml:id="spk-2466">PINDARUS </speaker>
             <l xml:id="ftln-2466" n="5.3.52">So I am free, yet would not so have been, </l>
@@ -5877,14 +5426,8 @@
             <l xml:id="ftln-2468" n="5.3.54">Far from this country Pindarus shall run, </l>
             <l xml:id="ftln-2469" n="5.3.55">Where never Roman shall take note of him. </l>
           </sp>
-          <stage xml:id="stg-2469.1"
-                      n="SD 5.3.55.1"
-                      type="exit"
-                      who="#Pindarus_JC">He exits. </stage>
-          <stage xml:id="stg-2469.2"
-                      n="SD 5.3.55.2"
-                      type="entrance"
-                      who="#SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS.Messala_JC">Enter Titinius and Messala. </stage>
+          <stage xml:id="stg-2469.1" n="SD 5.3.55.1" type="exit" who="#Pindarus_JC">He exits. </stage>
+          <stage xml:id="stg-2469.2" n="SD 5.3.55.2" type="entrance" who="#SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS.Messala_JC">Enter Titinius and Messala. </stage>
           <sp xml:id="sp-2470" who="#SOLDIERS.BRUTUS.Messala_JC">
             <speaker xml:id="spk-2470">MESSALA </speaker>
             <l xml:id="ftln-2470" n="5.3.56">It is but change, Titinius, for Octavius </l>
@@ -5952,34 +5495,22 @@
             <speaker xml:id="spk-2501">TITINIUS </speaker>
             <l xml:id="ftln-2501" n="5.3.87" part="F">Hie you, Messala, </l>
             <l xml:id="ftln-2502" n="5.3.88">And I will seek for Pindarus the while. </l>
-            <stage xml:id="stg-2502.1"
-                         n="SD 5.3.88.1"
-                         type="exit"
-                         who="#SOLDIERS.BRUTUS.Messala_JC">Messala exits. </stage>
+            <stage xml:id="stg-2502.1" n="SD 5.3.88.1" type="exit" who="#SOLDIERS.BRUTUS.Messala_JC">Messala exits. </stage>
             <l xml:id="ftln-2503" n="5.3.89">Why didst thou send me forth, brave Cassius? </l>
             <l xml:id="ftln-2504" n="5.3.90">Did I not meet thy friends, and did not they </l>
             <l xml:id="ftln-2505" n="5.3.91">Put on my brows this wreath of victory </l>
             <l xml:id="ftln-2506" n="5.3.92">And bid me give it thee? Didst thou not hear their shouts? </l>
             <l xml:id="ftln-2508" n="5.3.94">Alas, thou hast misconstrued everything. </l>
             <l xml:id="ftln-2509" n="5.3.95">But hold thee, take this garland on thy brow. </l>
-            <stage xml:id="stg-2509.1"
-                         n="SD 5.3.95.1"
-                         type="business"
-                         who="#SOLDIERS.BRUTUS.Titinius_JC #Cassius_JC">Laying the garland on Cassius’ brow. </stage>
+            <stage xml:id="stg-2509.1" n="SD 5.3.95.1" type="business" who="#SOLDIERS.BRUTUS.Titinius_JC #Cassius_JC">Laying the garland on Cassius’ brow. </stage>
             <l xml:id="ftln-2510" n="5.3.96">Thy Brutus bid me give it thee, and I </l>
             <l xml:id="ftln-2511" n="5.3.97">Will do his bidding.— Brutus, come apace, </l>
             <l xml:id="ftln-2512" n="5.3.98">And see how I regarded Caius Cassius.— </l>
             <l xml:id="ftln-2513" n="5.3.99">By your leave, gods, this is a Roman’s part. </l>
             <l xml:id="ftln-2514" n="5.3.100">Come, Cassius’ sword, and find Titinius’ heart! </l>
           </sp>
-          <stage xml:id="stg-2514.1"
-                      n="SD 5.3.100.1"
-                      type="business"
-                      who="#SOLDIERS.BRUTUS.Titinius_JC">He dies on Cassius’ sword. </stage>
-          <stage xml:id="stg-2514.2"
-                      n="SD 5.3.100.2"
-                      type="entrance"
-                      who="#Brutus_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Cato_JC #SOLDIERS.BRUTUS.Strato_JC #SOLDIERS.BRUTUS.Volumnius_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Labeo_JC #SOLDIERS.BRUTUS.Flavius_JC">
+          <stage xml:id="stg-2514.1" n="SD 5.3.100.1" type="business" who="#SOLDIERS.BRUTUS.Titinius_JC">He dies on Cassius’ sword. </stage>
+          <stage xml:id="stg-2514.2" n="SD 5.3.100.2" type="entrance" who="#Brutus_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Cato_JC #SOLDIERS.BRUTUS.Strato_JC #SOLDIERS.BRUTUS.Volumnius_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Labeo_JC #SOLDIERS.BRUTUS.Flavius_JC">
             <stage xml:id="snd-2514.2" n="SD 5.3.100.2" type="sound" ana="alarum">Alarum. </stage> Enter Brutus, Messala, young Cato, Strato, Volumnius, and Lucilius, Labeo, and Flavius. </stage>
           <sp xml:id="sp-2515" who="#Brutus_JC">
             <speaker xml:id="spk-2515">BRUTUS </speaker>
@@ -6027,26 +5558,17 @@
             <l xml:id="ftln-2536" n="5.3.122">’Tis three o’clock, and, Romans, yet ere night </l>
             <l xml:id="ftln-2537" n="5.3.123">We shall try fortune in a second fight. </l>
           </sp>
-          <stage xml:id="stg-2537.1"
-                      n="SD 5.3.123.1"
-                      type="exit"
-                      who="#Brutus_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Cato_JC #SOLDIERS.BRUTUS.Strato_JC #SOLDIERS.BRUTUS.Volumnius_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Labeo_JC #SOLDIERS.BRUTUS.Flavius_JC #Cassius_JC #SOLDIERS.BRUTUS.Titinius_JC">They exit. </stage>
+          <stage xml:id="stg-2537.1" n="SD 5.3.123.1" type="exit" who="#Brutus_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Cato_JC #SOLDIERS.BRUTUS.Strato_JC #SOLDIERS.BRUTUS.Volumnius_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Labeo_JC #SOLDIERS.BRUTUS.Flavius_JC #Cassius_JC #SOLDIERS.BRUTUS.Titinius_JC">They exit. </stage>
         </div>
         <div type="scene" n="4">
           <head>Scene 4 </head>
-          <stage xml:id="stg-2537.2"
-                      n="SD 5.4.0"
-                      type="entrance"
-                      who="#Brutus_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Cato_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Flavius_JC">
+          <stage xml:id="stg-2537.2" n="SD 5.4.0" type="entrance" who="#Brutus_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Cato_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Flavius_JC">
             <stage xml:id="snd-2537.2" n="SD 5.4.0" type="sound" ana="alarum">Alarum. </stage> Enter Brutus, Messala, Cato, Lucilius, and Flavius. </stage>
           <sp xml:id="sp-2538" who="#Brutus_JC">
             <speaker xml:id="spk-2538">BRUTUS </speaker>
             <l xml:id="ftln-2538" n="5.4.1">Yet, countrymen, O, yet hold up your heads! </l>
           </sp>
-          <stage xml:id="stg-2538.1"
-                      n="SD 5.4.1.1"
-                      type="exit"
-                      who="#Brutus_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Flavius_JC">Brutus, Messala, and Flavius exit. </stage>
+          <stage xml:id="stg-2538.1" n="SD 5.4.1.1" type="exit" who="#Brutus_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Flavius_JC">Brutus, Messala, and Flavius exit. </stage>
           <sp xml:id="sp-2539" who="#SOLDIERS.BRUTUS.Cato_JC">
             <speaker xml:id="spk-2539">CATO </speaker>
             <l xml:id="ftln-2539" n="5.4.2">What bastard doth not? Who will go with me? </l>
@@ -6056,53 +5578,35 @@
             <l xml:id="ftln-2543" n="5.4.6">I am the son of Marcus Cato, ho! </l>
           </sp>
           <stage xml:id="stg-2543.1" n="SD 5.4.6.1" type="mixed">
-            <stage xml:id="stg-2543.1a"
-                         n="SD 5.4.6.1"
-                         type="entrance"
-                         who="#SOLDIERS.ANTONY_JC">Enter Soldiers </stage>
-            <stage xml:id="stg-2543.1b"
-                         n="SD 5.4.6.1"
-                         type="business"
-                         who="#SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Cato_JC #SOLDIERS.BRUTUS.Lucilius_JC">and fight. </stage>
+            <stage xml:id="stg-2543.1a" n="SD 5.4.6.1" type="entrance" who="#SOLDIERS.ANTONY_JC">Enter Soldiers </stage>
+            <stage xml:id="stg-2543.1b" n="SD 5.4.6.1" type="business" who="#SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Cato_JC #SOLDIERS.BRUTUS.Lucilius_JC">and fight. </stage>
           </stage>
           <sp xml:id="sp-2544" who="#SOLDIERS.BRUTUS.Lucilius_JC">
             <speaker xml:id="spk-2544">LUCILIUS </speaker>
             <l xml:id="ftln-2544" n="5.4.7">And I am Brutus, Marcus Brutus, I! </l>
             <l xml:id="ftln-2545" n="5.4.8">Brutus, my country’s friend! Know me for Brutus. </l>
-            <stage xml:id="stg-2545.1"
-                         n="SD 5.4.8.1"
-                         type="business"
-                         who="#SOLDIERS.BRUTUS.Cato_JC">Cato is killed. </stage>
+            <stage xml:id="stg-2545.1" n="SD 5.4.8.1" type="business" who="#SOLDIERS.BRUTUS.Cato_JC">Cato is killed. </stage>
             <l xml:id="ftln-2546" n="5.4.9">O young and noble Cato, art thou down? </l>
             <l xml:id="ftln-2547" n="5.4.10">Why, now thou diest as bravely as Titinius </l>
             <l xml:id="ftln-2548" n="5.4.11">And mayst be honored, being Cato’s son. </l>
           </sp>
           <sp xml:id="sp-2549" who="#SOLDIERS.ANTONY.0.1_JC">
             <speaker xml:id="spk-2549">FIRST SOLDIER </speaker>
-            <stage xml:id="stg-2549.0"
-                         n="SD 5.4.12.0"
-                         type="business"
-                         who="#SOLDIERS.ANTONY.0.1_JC #SOLDIERS.BRUTUS.Lucilius_JC">, seizing Lucilius </stage>
+            <stage xml:id="stg-2549.0" n="SD 5.4.12.0" type="business" who="#SOLDIERS.ANTONY.0.1_JC #SOLDIERS.BRUTUS.Lucilius_JC">, seizing Lucilius </stage>
             <l xml:id="ftln-2549" n="5.4.12" part="I">Yield, or thou diest. </l>
           </sp>
           <sp xml:id="sp-2550" who="#SOLDIERS.BRUTUS.Lucilius_JC">
             <speaker xml:id="spk-2550">LUCILIUS </speaker>
             <l xml:id="ftln-2550" n="5.4.13" part="F">Only I yield to die. </l>
             <l xml:id="ftln-2551" n="5.4.14">There is so much that thou wilt kill me straight. </l>
-            <stage xml:id="stg-2551.1"
-                         n="SD 5.4.14.1"
-                         type="business"
-                         who="#SOLDIERS.BRUTUS.Lucilius_JC">Offering money. </stage>
+            <stage xml:id="stg-2551.1" n="SD 5.4.14.1" type="business" who="#SOLDIERS.BRUTUS.Lucilius_JC">Offering money. </stage>
             <l xml:id="ftln-2552" n="5.4.15">Kill Brutus and be honored in his death. </l>
           </sp>
           <sp xml:id="sp-2553" who="#SOLDIERS.ANTONY.0.1_JC">
             <speaker xml:id="spk-2553">FIRST SOLDIER </speaker>
             <l xml:id="ftln-2553" n="5.4.16">We must not. A noble prisoner! </l>
           </sp>
-          <stage xml:id="stg-2553.1"
-                      n="SD 5.4.16.1"
-                      type="entrance"
-                      who="#Antony_JC">Enter Antony. </stage>
+          <stage xml:id="stg-2553.1" n="SD 5.4.16.1" type="entrance" who="#Antony_JC">Enter Antony. </stage>
           <sp xml:id="sp-2554" who="#SOLDIERS.ANTONY.0.2_JC">
             <speaker xml:id="spk-2554">SECOND SOLDIER </speaker>
             <l xml:id="ftln-2554" n="5.4.17">Room, ho! Tell Antony Brutus is ta’en. </l>
@@ -6136,25 +5640,16 @@
             <l xml:id="ftln-2569" n="5.4.32">And bring us word unto Octavius’ tent </l>
             <l xml:id="ftln-2570" n="5.4.33" ana="#short">How everything is chanced. </l>
           </sp>
-          <stage xml:id="stg-2570.1"
-                      n="SD 5.4.33.1"
-                      type="exit"
-                      who="#Antony_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Cato_JC">They exit in different directions. </stage>
+          <stage xml:id="stg-2570.1" n="SD 5.4.33.1" type="exit" who="#Antony_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Cato_JC">They exit in different directions. </stage>
         </div>
         <div type="scene" n="5">
           <head>Scene 5 </head>
-          <stage xml:id="stg-2570.2"
-                      n="SD 5.5.0"
-                      type="entrance"
-                      who="#Brutus_JC #SOLDIERS.BRUTUS.Dardanus_JC #SOLDIERS.BRUTUS.Clitus_JC #SOLDIERS.BRUTUS.Strato_JC #SOLDIERS.BRUTUS.Volumnius_JC">Enter Brutus, Dardanus, Clitus, Strato, and Volumnius. </stage>
+          <stage xml:id="stg-2570.2" n="SD 5.5.0" type="entrance" who="#Brutus_JC #SOLDIERS.BRUTUS.Dardanus_JC #SOLDIERS.BRUTUS.Clitus_JC #SOLDIERS.BRUTUS.Strato_JC #SOLDIERS.BRUTUS.Volumnius_JC">Enter Brutus, Dardanus, Clitus, Strato, and Volumnius. </stage>
           <sp xml:id="sp-2571" who="#Brutus_JC">
             <speaker xml:id="spk-2571">BRUTUS </speaker>
             <l xml:id="ftln-2571" n="5.5.1">Come, poor remains of friends, rest on this rock. </l>
           </sp>
-          <stage xml:id="stg-2571.1"
-                      n="SD 5.5.1.1"
-                      type="business"
-                      who="#Brutus_JC">He sits down. </stage>
+          <stage xml:id="stg-2571.1" n="SD 5.5.1.1" type="business" who="#Brutus_JC">He sits down. </stage>
           <sp xml:id="sp-2572" who="#SOLDIERS.BRUTUS.Clitus_JC">
             <speaker xml:id="spk-2572">CLITUS </speaker>
             <l xml:id="ftln-2572" n="5.5.2">Statilius showed the torchlight, but, my lord, </l>
@@ -6165,10 +5660,7 @@
             <l xml:id="ftln-2574" n="5.5.4">Sit thee down, Clitus. Slaying is the word; </l>
             <l xml:id="ftln-2575" n="5.5.5">It is a deed in fashion. Hark thee, Clitus. </l>
           </sp>
-          <stage xml:id="stg-2575.1"
-                      n="SD 5.5.5.1"
-                      type="business"
-                      who="#Brutus_JC #SOLDIERS.BRUTUS.Clitus_JC">He whispers to Clitus. </stage>
+          <stage xml:id="stg-2575.1" n="SD 5.5.5.1" type="business" who="#Brutus_JC #SOLDIERS.BRUTUS.Clitus_JC">He whispers to Clitus. </stage>
           <sp xml:id="sp-2576" who="#SOLDIERS.BRUTUS.Clitus_JC">
             <speaker xml:id="spk-2576">CLITUS </speaker>
             <l xml:id="ftln-2576" n="5.5.6">What, I, my lord? No, not for all the world. </l>
@@ -6185,10 +5677,7 @@
             <speaker xml:id="spk-2579">BRUTUS </speaker>
             <l xml:id="ftln-2579" n="5.5.9" part="I">Hark thee, Dardanus. </l>
           </sp>
-          <stage xml:id="stg-2579"
-                      n="SD 5.5.9"
-                      type="business"
-                      who="#Brutus_JC #SOLDIERS.BRUTUS.Dardanus_JC">He whispers to Dardanus. </stage>
+          <stage xml:id="stg-2579" n="SD 5.5.9" type="business" who="#Brutus_JC #SOLDIERS.BRUTUS.Dardanus_JC">He whispers to Dardanus. </stage>
           <sp xml:id="sp-2580" who="#SOLDIERS.BRUTUS.Dardanus_JC">
             <speaker xml:id="spk-2580">DARDANUS </speaker>
             <l xml:id="ftln-2580" n="5.5.10" part="F">Shall I do such a deed? </l>
@@ -6203,10 +5692,7 @@
             <p xml:id="p-2582">
               <lb xml:id="ftln-2582" n="5.5.12"/>O Clitus! </p>
           </sp>
-          <stage xml:id="stg-2582.1"
-                      n="SD 5.5.12.1"
-                      type="business"
-                      who="#SOLDIERS.BRUTUS.Dardanus_JC #SOLDIERS.BRUTUS.Clitus_JC">Dardanus and Clitus step aside. </stage>
+          <stage xml:id="stg-2582.1" n="SD 5.5.12.1" type="business" who="#SOLDIERS.BRUTUS.Dardanus_JC #SOLDIERS.BRUTUS.Clitus_JC">Dardanus and Clitus step aside. </stage>
           <sp xml:id="sp-2583" who="#SOLDIERS.BRUTUS.Clitus_JC">
             <speaker xml:id="spk-2583">CLITUS </speaker>
             <l xml:id="ftln-2583" n="5.5.13">What ill request did Brutus make to thee? </l>
@@ -6289,10 +5775,7 @@
           <sp xml:id="sp-2618" who="#Brutus_JC">
             <speaker xml:id="spk-2618">BRUTUS </speaker>
             <l xml:id="ftln-2618" n="5.5.48" part="F">Hence. I will follow. </l>
-            <stage xml:id="stg-2618.1"
-                         n="SD 5.5.48.1"
-                         type="exit"
-                         who="#SOLDIERS.BRUTUS.Dardanus_JC #SOLDIERS.BRUTUS.Clitus_JC #SOLDIERS.BRUTUS.Volumnius_JC">All exit but Brutus and Strato. </stage>
+            <stage xml:id="stg-2618.1" n="SD 5.5.48.1" type="exit" who="#SOLDIERS.BRUTUS.Dardanus_JC #SOLDIERS.BRUTUS.Clitus_JC #SOLDIERS.BRUTUS.Volumnius_JC">All exit but Brutus and Strato. </stage>
             <l xml:id="ftln-2619" n="5.5.49">I prithee, Strato, stay thou by thy lord. </l>
             <l xml:id="ftln-2620" n="5.5.50">Thou art a fellow of a good respect; </l>
             <l xml:id="ftln-2621" n="5.5.51">Thy life hath had some smatch of honor in it. </l>
@@ -6306,25 +5789,13 @@
           <sp xml:id="sp-2625" who="#Brutus_JC">
             <speaker xml:id="spk-2625">BRUTUS </speaker>
             <l xml:id="ftln-2625" n="5.5.55" part="I">Farewell, good Strato. </l>
-            <stage xml:id="stg-2625.1"
-                         n="SD 5.5.55.1"
-                         type="business"
-                         who="#Brutus_JC #SOLDIERS.BRUTUS.Strato_JC">Brutus runs on his sword. </stage>
+            <stage xml:id="stg-2625.1" n="SD 5.5.55.1" type="business" who="#Brutus_JC #SOLDIERS.BRUTUS.Strato_JC">Brutus runs on his sword. </stage>
             <l xml:id="ftln-2626" n="5.5.56" part="F">Caesar, now be still. </l>
             <l xml:id="ftln-2627" n="5.5.57">I killed not thee with half so good a will. </l>
           </sp>
-          <stage xml:id="stg-2627"
-                      n="SD 5.5.57"
-                      type="business"
-                      who="#Brutus_JC">He dies. </stage>
-          <stage xml:id="stg-2627.1"
-                      n="SD 5.5.57.1"
-                      type="entrance"
-                      who="#Antony_JC #Octavius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.ANTONY_JC">
-            <stage xml:id="snd-2627.1"
-                         n="SD 5.5.57.1"
-                         type="sound"
-                         ana="alarum retreat">Alarum. Retreat. </stage> Enter Antony, Octavius, Messala, Lucilius, and the army. </stage>
+          <stage xml:id="stg-2627" n="SD 5.5.57" type="business" who="#Brutus_JC">He dies. </stage>
+          <stage xml:id="stg-2627.1" n="SD 5.5.57.1" type="entrance" who="#Antony_JC #Octavius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.ANTONY_JC">
+            <stage xml:id="snd-2627.1" n="SD 5.5.57.1" type="sound" ana="alarum retreat">Alarum. Retreat. </stage> Enter Antony, Octavius, Messala, Lucilius, and the army. </stage>
           <sp xml:id="sp-2628" who="#Octavius_JC">
             <speaker xml:id="spk-2628">OCTAVIUS </speaker>
             <p xml:id="p-2628">
@@ -6392,10 +5863,7 @@
             <l xml:id="ftln-2656" n="5.5.86">So call the field to rest, and let’s away </l>
             <l xml:id="ftln-2657" n="5.5.87">To part the glories of this happy day. </l>
           </sp>
-          <stage xml:id="stg-2657.1"
-                      n="SD 5.5.87.1"
-                      type="exit"
-                      who="#Antony_JC #Octavius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Strato_JC #SOLDIERS.ANTONY_JC #Brutus_JC">They all exit. </stage>
+          <stage xml:id="stg-2657.1" n="SD 5.5.87.1" type="exit" who="#Antony_JC #Octavius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Strato_JC #SOLDIERS.ANTONY_JC #Brutus_JC">They all exit. </stage>
         </div>
       </div>
     </body>

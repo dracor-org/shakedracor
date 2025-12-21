@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shake000008">
   <teiHeader>
     <fileDesc>
@@ -185,9 +186,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/shake000008"
-                   passive="http://www.wikidata.org/entity/Q104871"/>
+      <relation name="wikidata" active="https://dracor.org/entity/shake000008" passive="http://www.wikidata.org/entity/Q104871"/>
     </listRelation>
   </standOff>
   <text>
@@ -309,8 +308,7 @@
           </castItem>
           <castGroup>
             <head>fairies attending upon Titania</head>
-            <castItem corresp="#FAIRIES.TITANIA_MND"
-                            sameAs="#FAIRIES.TITANIA.Peaseblossom_MND">
+            <castItem corresp="#FAIRIES.TITANIA_MND" sameAs="#FAIRIES.TITANIA.Peaseblossom_MND">
               <role>
                 <name>Peaseblossom</name>
               </role>
@@ -325,8 +323,7 @@
                 <name>Mote</name>
               </role>
             </castItem>
-            <castItem corresp="#FAIRIES.TITANIA_MND"
-                            sameAs="#FAIRIES.TITANIA.Mustardseed_MND">
+            <castItem corresp="#FAIRIES.TITANIA_MND" sameAs="#FAIRIES.TITANIA.Mustardseed_MND">
               <role>
                 <name>Mustardseed</name>
               </role>
@@ -354,10 +351,7 @@
         <head>ACT 1 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-0000"
-                      n="SD 1.1.0"
-                      type="entrance"
-                      who="#Theseus_MND #Hippolyta_MND #Philostrate_MND #ATTENDANTS_MND">Enter Theseus, Hippolyta, and Philostrate, with others. </stage>
+          <stage xml:id="stg-0000" n="SD 1.1.0" type="entrance" who="#Theseus_MND #Hippolyta_MND #Philostrate_MND #ATTENDANTS_MND">Enter Theseus, Hippolyta, and Philostrate, with others. </stage>
           <sp xml:id="sp-0001" who="#Theseus_MND">
             <speaker xml:id="spk-0001">THESEUS </speaker>
             <l xml:id="ftln-0001" n="1.1.1">Now, fair Hippolyta, our nuptial hour </l>
@@ -382,19 +376,13 @@
             <l xml:id="ftln-0014" n="1.1.14">Awake the pert and nimble spirit of mirth. </l>
             <l xml:id="ftln-0015" n="1.1.15">Turn melancholy forth to funerals; </l>
             <l xml:id="ftln-0016" n="1.1.16">The pale companion is not for our pomp. </l>
-            <stage xml:id="stg-0016.1"
-                         n="SD 1.1.16.1"
-                         type="exit"
-                         who="#Philostrate_MND">Philostrate exits. </stage>
+            <stage xml:id="stg-0016.1" n="SD 1.1.16.1" type="exit" who="#Philostrate_MND">Philostrate exits. </stage>
             <l xml:id="ftln-0017" n="1.1.17">Hippolyta, I wooed thee with my sword </l>
             <l xml:id="ftln-0018" n="1.1.18">And won thy love doing thee injuries, </l>
             <l xml:id="ftln-0019" n="1.1.19">But I will wed thee in another key, </l>
             <l xml:id="ftln-0020" n="1.1.20">With pomp, with triumph, and with reveling. </l>
           </sp>
-          <stage xml:id="stg-0020.1"
-                      n="SD 1.1.20.1"
-                      type="entrance"
-                      who="#Egeus_MND #Hermia_MND #Lysander_MND #Demetrius_MND">Enter Egeus and his daughter Hermia, and Lysander and Demetrius. </stage>
+          <stage xml:id="stg-0020.1" n="SD 1.1.20.1" type="entrance" who="#Egeus_MND #Hermia_MND #Lysander_MND #Demetrius_MND">Enter Egeus and his daughter Hermia, and Lysander and Demetrius. </stage>
           <sp xml:id="sp-0021" who="#Egeus_MND">
             <speaker xml:id="spk-0021">EGEUS </speaker>
             <l xml:id="ftln-0021" n="1.1.21">Happy be Theseus, our renownèd duke! </l>
@@ -559,10 +547,7 @@
             <speaker xml:id="spk-0129">EGEUS </speaker>
             <l xml:id="ftln-0129" n="1.1.129">With duty and desire we follow you. </l>
           </sp>
-          <stage xml:id="stg-0129.1"
-                      n="SD 1.1.129.1"
-                      type="exit"
-                      who="#Theseus_MND #Hippolyta_MND #Egeus_MND #Demetrius_MND #ATTENDANTS_MND">All but Hermia and Lysander exit. </stage>
+          <stage xml:id="stg-0129.1" n="SD 1.1.129.1" type="exit" who="#Theseus_MND #Hippolyta_MND #Egeus_MND #Demetrius_MND #ATTENDANTS_MND">All but Hermia and Lysander exit. </stage>
           <sp xml:id="sp-0130" who="#Lysander_MND">
             <speaker xml:id="spk-0130">LYSANDER </speaker>
             <l xml:id="ftln-0130" n="1.1.130">How now, my love? Why is your cheek so pale? </l>
@@ -655,10 +640,7 @@
             <speaker xml:id="spk-0182">LYSANDER </speaker>
             <l xml:id="ftln-0182" n="1.1.182">Keep promise, love. Look, here comes Helena. </l>
           </sp>
-          <stage xml:id="stg-0182.1"
-                      n="SD 1.1.182.1"
-                      type="entrance"
-                      who="#Helena_MND">Enter Helena. </stage>
+          <stage xml:id="stg-0182.1" n="SD 1.1.182.1" type="entrance" who="#Helena_MND">Enter Helena. </stage>
           <sp xml:id="sp-0183" who="#Hermia_MND">
             <speaker xml:id="spk-0183">HERMIA </speaker>
             <l xml:id="ftln-0183" n="1.1.183">Godspeed, fair Helena. Whither away? </l>
@@ -749,10 +731,7 @@
             <l xml:id="ftln-0230" n="1.1.230" part="F">Helena, adieu. </l>
             <l xml:id="ftln-0231" n="1.1.231">As you on him, Demetrius dote on you! </l>
           </sp>
-          <stage xml:id="stg-0231.1"
-                      n="SD 1.1.231.1"
-                      type="exit"
-                      who="#Lysander_MND">Lysander exits. </stage>
+          <stage xml:id="stg-0231.1" n="SD 1.1.231.1" type="exit" who="#Lysander_MND">Lysander exits. </stage>
           <sp xml:id="sp-0232" who="#Helena_MND">
             <speaker xml:id="spk-0232">HELENA </speaker>
             <l xml:id="ftln-0232" n="1.1.232">How happy some o’er other some can be! </l>
@@ -782,17 +761,11 @@
             <l xml:id="ftln-0256" n="1.1.256">But herein mean I to enrich my pain, </l>
             <l xml:id="ftln-0257" n="1.1.257">To have his sight thither and back again. </l>
           </sp>
-          <stage xml:id="stg-0257.1"
-                      n="SD 1.1.257.1"
-                      type="exit"
-                      who="#Helena_MND">She exits. </stage>
+          <stage xml:id="stg-0257.1" n="SD 1.1.257.1" type="exit" who="#Helena_MND">She exits. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-0257.2"
-                      n="SD 1.2.0"
-                      type="entrance"
-                      who="#Quince_MND #Snug_MND #Bottom_MND #Flute_MND #Snout_MND #Starveling_MND">Enter Quince the carpenter, and Snug the joiner, and Bottom the weaver, and Flute the bellows-mender, and Snout the tinker, and Starveling the tailor. </stage>
+          <stage xml:id="stg-0257.2" n="SD 1.2.0" type="entrance" who="#Quince_MND #Snug_MND #Bottom_MND #Flute_MND #Snout_MND #Starveling_MND">Enter Quince the carpenter, and Snug the joiner, and Bottom the weaver, and Flute the bellows-mender, and Snout the tinker, and Starveling the tailor. </stage>
           <sp xml:id="sp-0258" who="#Quince_MND">
             <speaker xml:id="spk-0258">QUINCE </speaker>
             <p xml:id="p-0258">
@@ -960,8 +933,7 @@
             <p xml:id="p-0329">
               <lb xml:id="ftln-0329" n="1.2.72"/>An you should do it too terribly, you would <lb xml:id="ftln-0330" n="1.2.73"/>fright the Duchess and the ladies that they would <lb xml:id="ftln-0331" n="1.2.74"/>shriek, and that were enough to hang us all. </p>
           </sp>
-          <sp xml:id="sp-0332"
-                   who="#Quince_MND #Bottom_MND #Flute_MND #Snout_MND #Snug_MND #Starveling_MND">
+          <sp xml:id="sp-0332" who="#Quince_MND #Bottom_MND #Flute_MND #Snout_MND #Snug_MND #Starveling_MND">
             <speaker xml:id="spk-0332">ALL </speaker>
             <p xml:id="p-0332">
               <lb xml:id="ftln-0332" n="1.2.75"/>That would hang us, every mother’s son. </p>
@@ -994,11 +966,7 @@
           <sp xml:id="sp-0350" who="#Quince_MND">
             <speaker xml:id="spk-0350">QUINCE </speaker>
             <p xml:id="p-0350">
-              <lb xml:id="ftln-0350" n="1.2.93"/>Some of your French crowns have no hair at <lb xml:id="ftln-0351" n="1.2.94"/>all, and then you will play barefaced. But, masters, <lb xml:id="ftln-0352" n="1.2.95"/>here are your parts, <stage xml:id="stg-0352"
-                            n="SD 1.2.95"
-                            type="business"
-                            rendition="inline"
-                            who="#Quince_MND"> giving out the parts, </stage> and I am <lb xml:id="ftln-0353" n="1.2.96"/>to entreat you, request you, and desire you to con <lb xml:id="ftln-0354" n="1.2.97"/>them by tomorrow night and meet me in the palace <lb xml:id="ftln-0355" n="1.2.98"/>wood, a mile without the town, by moonlight. There <lb xml:id="ftln-0356" n="1.2.99"/>will we rehearse, for if we meet in the city, we shall <lb xml:id="ftln-0357" n="1.2.100"/>be dogged with company and our devices known. In <lb xml:id="ftln-0358" n="1.2.101"/>the meantime I will draw a bill of properties such as <lb xml:id="ftln-0359" n="1.2.102"/>our play wants. I pray you fail me not. </p>
+              <lb xml:id="ftln-0350" n="1.2.93"/>Some of your French crowns have no hair at <lb xml:id="ftln-0351" n="1.2.94"/>all, and then you will play barefaced. But, masters, <lb xml:id="ftln-0352" n="1.2.95"/>here are your parts, <stage xml:id="stg-0352" n="SD 1.2.95" type="business" rendition="inline" who="#Quince_MND"> giving out the parts, </stage> and I am <lb xml:id="ftln-0353" n="1.2.96"/>to entreat you, request you, and desire you to con <lb xml:id="ftln-0354" n="1.2.97"/>them by tomorrow night and meet me in the palace <lb xml:id="ftln-0355" n="1.2.98"/>wood, a mile without the town, by moonlight. There <lb xml:id="ftln-0356" n="1.2.99"/>will we rehearse, for if we meet in the city, we shall <lb xml:id="ftln-0357" n="1.2.100"/>be dogged with company and our devices known. In <lb xml:id="ftln-0358" n="1.2.101"/>the meantime I will draw a bill of properties such as <lb xml:id="ftln-0359" n="1.2.102"/>our play wants. I pray you fail me not. </p>
           </sp>
           <sp xml:id="sp-0360" who="#Bottom_MND">
             <speaker xml:id="spk-0360">BOTTOM </speaker>
@@ -1015,20 +983,14 @@
             <p xml:id="p-0364">
               <lb xml:id="ftln-0364" n="1.2.107"/>Enough. Hold or cut bowstrings. </p>
           </sp>
-          <stage xml:id="stg-0364.1"
-                      n="SD 1.2.107.1"
-                      type="exit"
-                      who="#Quince_MND #Bottom_MND #Flute_MND #Snout_MND #Snug_MND #Starveling_MND">They exit. </stage>
+          <stage xml:id="stg-0364.1" n="SD 1.2.107.1" type="exit" who="#Quince_MND #Bottom_MND #Flute_MND #Snout_MND #Snug_MND #Starveling_MND">They exit. </stage>
         </div>
       </div>
       <div type="act" n="2">
         <head>ACT 2 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-0364.2"
-                      n="SD 2.1.0"
-                      type="entrance"
-                      who="#RobinGoodfellow_MND #FAIRIES.TITANIA.1_MND">Enter a Fairy at one door and Robin Goodfellow at another. </stage>
+          <stage xml:id="stg-0364.2" n="SD 2.1.0" type="entrance" who="#RobinGoodfellow_MND #FAIRIES.TITANIA.1_MND">Enter a Fairy at one door and Robin Goodfellow at another. </stage>
           <sp xml:id="sp-0365" who="#RobinGoodfellow_MND">
             <speaker xml:id="spk-0365">ROBIN </speaker>
             <l xml:id="ftln-0365" n="2.1.1">How now, spirit? Whither wander you? </l>
@@ -1117,10 +1079,7 @@
             <speaker xml:id="spk-0425">FAIRY </speaker>
             <l xml:id="ftln-0425" n="2.1.61">And here my mistress. Would that he were gone! </l>
           </sp>
-          <stage xml:id="stg-0425.1"
-                      n="SD 2.1.61.1"
-                      type="entrance"
-                      who="#Oberon_MND #FAIRIES.OBERON_MND #Titania_MND #FAIRIES.TITANIA_MND">Enter Oberon the King of Fairies at one door, with his train, and Titania the Queen at another, with hers. </stage>
+          <stage xml:id="stg-0425.1" n="SD 2.1.61.1" type="entrance" who="#Oberon_MND #FAIRIES.OBERON_MND #Titania_MND #FAIRIES.TITANIA_MND">Enter Oberon the King of Fairies at one door, with his train, and Titania the Queen at another, with hers. </stage>
           <sp xml:id="sp-0426" who="#Oberon_MND">
             <speaker xml:id="spk-0426">OBERON </speaker>
             <l xml:id="ftln-0426" n="2.1.62">Ill met by moonlight, proud Titania. </l>
@@ -1244,10 +1203,7 @@
             <l xml:id="ftln-0513" n="2.1.149">Not for thy fairy kingdom. Fairies, away. </l>
             <l xml:id="ftln-0514" n="2.1.150">We shall chide downright if I longer stay. </l>
           </sp>
-          <stage xml:id="stg-0514.1"
-                      n="SD 2.1.150.1"
-                      type="exit"
-                      who="#Titania_MND #FAIRIES.TITANIA_MND #FAIRIES.TITANIA.1_MND">Titania and her fairies exit. </stage>
+          <stage xml:id="stg-0514.1" n="SD 2.1.150.1" type="exit" who="#Titania_MND #FAIRIES.TITANIA_MND #FAIRIES.TITANIA.1_MND">Titania and her fairies exit. </stage>
           <sp xml:id="sp-0515" who="#Oberon_MND">
             <speaker xml:id="spk-0515">OBERON </speaker>
             <l xml:id="ftln-0515" n="2.1.151">Well, go thy way. Thou shalt not from this grove </l>
@@ -1292,10 +1248,7 @@
             <l xml:id="ftln-0545" n="2.1.181">I’ll put a girdle round about the Earth </l>
             <l xml:id="ftln-0546" n="2.1.182" part="I">In forty minutes. </l>
           </sp>
-          <stage xml:id="stg-0546"
-                      n="SD 2.1.182"
-                      type="exit"
-                      who="#RobinGoodfellow_MND">He exits. </stage>
+          <stage xml:id="stg-0546" n="SD 2.1.182" type="exit" who="#RobinGoodfellow_MND">He exits. </stage>
           <sp xml:id="sp-0547" who="#Oberon_MND">
             <speaker xml:id="spk-0547">OBERON </speaker>
             <l xml:id="ftln-0547" n="2.1.183" part="F">Having once this juice, </l>
@@ -1311,10 +1264,7 @@
             <l xml:id="ftln-0557" n="2.1.193">But who comes here? I am invisible, </l>
             <l xml:id="ftln-0558" n="2.1.194">And I will overhear their conference. </l>
           </sp>
-          <stage xml:id="stg-0558.1"
-                      n="SD 2.1.194.1"
-                      type="entrance"
-                      who="#Demetrius_MND #Helena_MND">Enter Demetrius, Helena following him. </stage>
+          <stage xml:id="stg-0558.1" n="SD 2.1.194.1" type="entrance" who="#Demetrius_MND #Helena_MND">Enter Demetrius, Helena following him. </stage>
           <sp xml:id="sp-0559" who="#Demetrius_MND">
             <speaker xml:id="spk-0559">DEMETRIUS </speaker>
             <l xml:id="ftln-0559" n="2.1.195">I love thee not; therefore pursue me not. </l>
@@ -1405,10 +1355,7 @@
             <l xml:id="ftln-0611" n="2.1.247">Your wrongs do set a scandal on my sex. </l>
             <l xml:id="ftln-0612" n="2.1.248">We cannot fight for love as men may do. </l>
             <l xml:id="ftln-0613" n="2.1.249">We should be wooed and were not made to woo. </l>
-            <stage xml:id="stg-0613.1"
-                         n="SD 2.1.249.1"
-                         type="exit"
-                         who="#Demetrius_MND">Demetrius exits. </stage>
+            <stage xml:id="stg-0613.1" n="SD 2.1.249.1" type="exit" who="#Demetrius_MND">Demetrius exits. </stage>
             <l xml:id="ftln-0614" n="2.1.250">I’ll follow thee and make a heaven of hell </l>
             <l xml:id="ftln-0615" n="2.1.251">To die upon the hand I love so well. </l>
           </sp>
@@ -1417,10 +1364,7 @@
             <speaker xml:id="spk-0616">OBERON </speaker>
             <l xml:id="ftln-0616" n="2.1.252">Fare thee well, nymph. Ere he do leave this grove, </l>
             <l xml:id="ftln-0617" n="2.1.253">Thou shalt fly him, and he shall seek thy love. </l>
-            <stage xml:id="stg-0617.1"
-                         n="SD 2.1.253.1"
-                         type="entrance"
-                         who="#RobinGoodfellow_MND">Enter Robin. </stage>
+            <stage xml:id="stg-0617.1" n="SD 2.1.253.1" type="entrance" who="#RobinGoodfellow_MND">Enter Robin. </stage>
             <l xml:id="ftln-0618" n="2.1.254">Hast thou the flower there? Welcome, wanderer. </l>
           </sp>
           <sp xml:id="sp-0619" who="#RobinGoodfellow_MND">
@@ -1430,10 +1374,7 @@
           <sp xml:id="sp-0620" who="#Oberon_MND">
             <speaker xml:id="spk-0620">OBERON </speaker>
             <l xml:id="ftln-0620" n="2.1.256" part="F">I pray thee give it me. </l>
-            <stage xml:id="stg-0620.1"
-                         n="SD 2.1.256.1"
-                         type="business"
-                         who="#RobinGoodfellow_MND #Oberon_MND">Robin gives him the flower. </stage>
+            <stage xml:id="stg-0620.1" n="SD 2.1.256.1" type="business" who="#RobinGoodfellow_MND #Oberon_MND">Robin gives him the flower. </stage>
             <l xml:id="ftln-0621" n="2.1.257">I know a bank where the wild thyme blows, </l>
             <l xml:id="ftln-0622" n="2.1.258">Where oxlips and the nodding violet grows, </l>
             <l xml:id="ftln-0623" n="2.1.259">Quite overcanopied with luscious woodbine, </l>
@@ -1445,10 +1386,7 @@
             <l xml:id="ftln-0629" n="2.1.265">And with the juice of this I’ll streak her eyes </l>
             <l xml:id="ftln-0630" n="2.1.266">And make her full of hateful fantasies. </l>
             <l xml:id="ftln-0631" n="2.1.267">Take thou some of it, and seek through this grove. </l>
-            <stage xml:id="stg-0631.1"
-                         n="SD 2.1.267.1"
-                         type="business"
-                         who="#Oberon_MND #RobinGoodfellow_MND">He gives Robin part of the flower. </stage>
+            <stage xml:id="stg-0631.1" n="SD 2.1.267.1" type="business" who="#Oberon_MND #RobinGoodfellow_MND">He gives Robin part of the flower. </stage>
             <l xml:id="ftln-0632" n="2.1.268">A sweet Athenian lady is in love </l>
             <l xml:id="ftln-0633" n="2.1.269">With a disdainful youth. Anoint his eyes, </l>
             <l xml:id="ftln-0634" n="2.1.270">But do it when the next thing he espies </l>
@@ -1462,17 +1400,11 @@
             <speaker xml:id="spk-0640">ROBIN </speaker>
             <l xml:id="ftln-0640" n="2.1.276">Fear not, my lord. Your servant shall do so. </l>
           </sp>
-          <stage xml:id="stg-0640.1"
-                      n="SD 2.1.276.1"
-                      type="exit"
-                      who="#Oberon_MND #RobinGoodfellow_MND #FAIRIES.OBERON_MND">They exit. </stage>
+          <stage xml:id="stg-0640.1" n="SD 2.1.276.1" type="exit" who="#Oberon_MND #RobinGoodfellow_MND #FAIRIES.OBERON_MND">They exit. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-0640.2"
-                      n="SD 2.2.0"
-                      type="entrance"
-                      who="#Titania_MND #FAIRIES.TITANIA_MND">Enter Titania, Queen of Fairies, with her train. </stage>
+          <stage xml:id="stg-0640.2" n="SD 2.2.0" type="entrance" who="#Titania_MND #FAIRIES.TITANIA_MND">Enter Titania, Queen of Fairies, with her train. </stage>
           <sp xml:id="sp-0641" who="#Titania_MND">
             <speaker xml:id="spk-0641">TITANIA </speaker>
             <l xml:id="ftln-0641" n="2.2.1">Come, now a roundel and a fairy song; </l>
@@ -1484,15 +1416,8 @@
             <l xml:id="ftln-0647" n="2.2.7">At our quaint spirits. Sing me now asleep. </l>
             <l xml:id="ftln-0648" n="2.2.8">Then to your offices and let me rest. </l>
           </sp>
-          <stage xml:id="stg-0648"
-                      n="SD 2.2.8"
-                      type="business"
-                      who="#Titania_MND">She lies down. </stage>
-          <stage xml:id="stg-0648.1"
-                      n="SD 2.2.8.1"
-                      type="business"
-                      rendition="centered"
-                      who="#FAIRIES.TITANIA_MND">Fairies sing. </stage>
+          <stage xml:id="stg-0648" n="SD 2.2.8" type="business" who="#Titania_MND">She lies down. </stage>
+          <stage xml:id="stg-0648.1" n="SD 2.2.8.1" type="business" rendition="centered" who="#FAIRIES.TITANIA_MND">Fairies sing. </stage>
           <sp xml:id="sp-0649" who="#FAIRIES.TITANIA.0.1_MND">
             <speaker xml:id="spk-0649">FIRST FAIRY </speaker>
             <lg xml:id="stz-0649" type="quatrain">
@@ -1535,28 +1460,16 @@
               <l xml:id="ftln-0670" n="2.2.30">So good night, with lullaby. </l>
             </lg>
           </sp>
-          <stage xml:id="stg-0670.1"
-                      n="SD 2.2.30.1"
-                      type="business"
-                      who="#Titania_MND">Titania sleeps. </stage>
+          <stage xml:id="stg-0670.1" n="SD 2.2.30.1" type="business" who="#Titania_MND">Titania sleeps. </stage>
           <sp xml:id="sp-0671" who="#FAIRIES.TITANIA.0.2_MND">
             <speaker xml:id="spk-0671">SECOND FAIRY </speaker>
             <l xml:id="ftln-0671" n="2.2.31">Hence, away! Now all is well. </l>
             <l xml:id="ftln-0672" n="2.2.32">One aloof stand sentinel. </l>
           </sp>
-          <stage xml:id="stg-0672"
-                      n="SD 2.2.32"
-                      type="exit"
-                      who="#FAIRIES.TITANIA_MND"> Fairies exit. </stage>
+          <stage xml:id="stg-0672" n="SD 2.2.32" type="exit" who="#FAIRIES.TITANIA_MND"> Fairies exit. </stage>
           <stage xml:id="stg-0672.1" n="SD 2.2.32.1" type="mixed">
-            <stage xml:id="stg-0672.1a"
-                         n="SD 2.2.32.1"
-                         type="entrance"
-                         who="#Oberon_MND">Enter Oberon, </stage>
-            <stage xml:id="stg-0672.1b"
-                         n="SD 2.2.32.1"
-                         type="business"
-                         who="#Oberon_MND #Titania_MND">who anoints Titania’s eyelids with the nectar. </stage>
+            <stage xml:id="stg-0672.1a" n="SD 2.2.32.1" type="entrance" who="#Oberon_MND">Enter Oberon, </stage>
+            <stage xml:id="stg-0672.1b" n="SD 2.2.32.1" type="business" who="#Oberon_MND #Titania_MND">who anoints Titania’s eyelids with the nectar. </stage>
           </stage>
           <sp xml:id="sp-0673" who="#Oberon_MND">
             <speaker xml:id="spk-0673">OBERON </speaker>
@@ -1570,10 +1483,7 @@
             <l xml:id="ftln-0680" n="2.2.40">Wake when some vile thing is near. </l>
           </sp>
           <stage xml:id="stg-0680" n="SD 2.2.40" type="exit" who="#Oberon_MND">He exits. </stage>
-          <stage xml:id="stg-0680.1"
-                      n="SD 2.2.40.1"
-                      type="entrance"
-                      who="#Lysander_MND #Hermia_MND">Enter Lysander and Hermia. </stage>
+          <stage xml:id="stg-0680.1" n="SD 2.2.40.1" type="entrance" who="#Lysander_MND #Hermia_MND">Enter Lysander and Hermia. </stage>
           <sp xml:id="sp-0681" who="#Lysander_MND">
             <speaker xml:id="spk-0681">LYSANDER </speaker>
             <lg xml:id="stz-0681" type="quatrain">
@@ -1631,14 +1541,8 @@
             <speaker xml:id="spk-0711">HERMIA </speaker>
             <l xml:id="ftln-0711" n="2.2.71">With half that wish the wisher’s eyes be pressed! </l>
           </sp>
-          <stage xml:id="stg-0711.1"
-                      n="SD 2.2.71.1"
-                      type="business"
-                      who="#Lysander_MND #Hermia_MND">They sleep. </stage>
-          <stage xml:id="stg-0711.2"
-                      n="SD 2.2.71.2"
-                      type="entrance"
-                      who="#RobinGoodfellow_MND">Enter Robin. </stage>
+          <stage xml:id="stg-0711.1" n="SD 2.2.71.1" type="business" who="#Lysander_MND #Hermia_MND">They sleep. </stage>
+          <stage xml:id="stg-0711.2" n="SD 2.2.71.2" type="entrance" who="#RobinGoodfellow_MND">Enter Robin. </stage>
           <sp xml:id="sp-0712" who="#RobinGoodfellow_MND">
             <speaker xml:id="spk-0712">ROBIN </speaker>
             <lg xml:id="stz-0712" type="couplet">
@@ -1649,10 +1553,7 @@
               <l xml:id="ftln-0714" n="2.2.74">On whose eyes I might approve </l>
               <l xml:id="ftln-0715" n="2.2.75">This flower’s force in stirring love. </l>
             </lg>
-            <stage xml:id="stg-0715.1"
-                         n="SD 2.2.75.1"
-                         type="business"
-                         who="#RobinGoodfellow_MND">He sees Lysander. </stage>
+            <stage xml:id="stg-0715.1" n="SD 2.2.75.1" type="business" who="#RobinGoodfellow_MND">He sees Lysander. </stage>
             <lg xml:id="stz-0716" type="couplet">
               <l xml:id="ftln-0716" n="2.2.76">Night and silence! Who is here? </l>
               <l xml:id="ftln-0717" n="2.2.77">Weeds of Athens he doth wear. </l>
@@ -1673,10 +1574,7 @@
               <l xml:id="ftln-0724" n="2.2.84">Churl, upon thy eyes I throw </l>
               <l xml:id="ftln-0725" n="2.2.85">All the power this charm doth owe. </l>
             </lg>
-            <stage xml:id="stg-0725.1"
-                         n="SD 2.2.85.1"
-                         type="business"
-                         who="#RobinGoodfellow_MND #Lysander_MND">He anoints Lysander’s eyelids with the nectar. </stage>
+            <stage xml:id="stg-0725.1" n="SD 2.2.85.1" type="business" who="#RobinGoodfellow_MND #Lysander_MND">He anoints Lysander’s eyelids with the nectar. </stage>
             <lg xml:id="stz-0726" type="couplet">
               <l xml:id="ftln-0726" n="2.2.86">When thou wak’st, let love forbid </l>
               <l xml:id="ftln-0727" n="2.2.87">Sleep his seat on thy eyelid. </l>
@@ -1686,14 +1584,8 @@
               <l xml:id="ftln-0729" n="2.2.89">For I must now to Oberon. </l>
             </lg>
           </sp>
-          <stage xml:id="stg-0729"
-                      n="SD 2.2.89"
-                      type="exit"
-                      who="#RobinGoodfellow_MND">He exits. </stage>
-          <stage xml:id="stg-0729.1"
-                      n="SD 2.2.89.1"
-                      type="entrance"
-                      who="#Demetrius_MND #Helena_MND">Enter Demetrius and Helena, running. </stage>
+          <stage xml:id="stg-0729" n="SD 2.2.89" type="exit" who="#RobinGoodfellow_MND">He exits. </stage>
+          <stage xml:id="stg-0729.1" n="SD 2.2.89.1" type="entrance" who="#Demetrius_MND #Helena_MND">Enter Demetrius and Helena, running. </stage>
           <sp xml:id="sp-0730" who="#Helena_MND">
             <speaker xml:id="spk-0730">HELENA </speaker>
             <l xml:id="ftln-0730" n="2.2.90">Stay, though thou kill me, sweet Demetrius. </l>
@@ -1710,10 +1602,7 @@
             <speaker xml:id="spk-0733">DEMETRIUS </speaker>
             <l xml:id="ftln-0733" n="2.2.93">Stay, on thy peril. I alone will go. </l>
           </sp>
-          <stage xml:id="stg-0733"
-                      n="SD 2.2.93"
-                      type="exit"
-                      who="#Demetrius_MND">Demetrius exits. </stage>
+          <stage xml:id="stg-0733" n="SD 2.2.93" type="exit" who="#Demetrius_MND">Demetrius exits. </stage>
           <sp xml:id="sp-0734" who="#Helena_MND">
             <speaker xml:id="spk-0734">HELENA </speaker>
             <l xml:id="ftln-0734" n="2.2.94">O, I am out of breath in this fond chase. </l>
@@ -1734,10 +1623,7 @@
           </sp>
           <sp xml:id="sp-0749" who="#Lysander_MND">
             <speaker xml:id="spk-0749">LYSANDER </speaker>
-            <stage xml:id="stg-0749.0"
-                         n="SD 2.2.109.0"
-                         type="business"
-                         who="#Lysander_MND">, waking up </stage>
+            <stage xml:id="stg-0749.0" n="SD 2.2.109.0" type="business" who="#Lysander_MND">, waking up </stage>
             <l xml:id="ftln-0749" n="2.2.109">And run through fire I will for thy sweet sake. </l>
             <l xml:id="ftln-0750" n="2.2.110">Transparent Helena! Nature shows art, </l>
             <l xml:id="ftln-0751" n="2.2.111">That through thy bosom makes me see thy heart. </l>
@@ -1794,16 +1680,10 @@
             <l xml:id="ftln-0790" n="2.2.150">And, all my powers, address your love and might </l>
             <l xml:id="ftln-0791" n="2.2.151">To honor Helen and to be her knight. </l>
           </sp>
-          <stage xml:id="stg-0791"
-                      n="SD 2.2.151"
-                      type="exit"
-                      who="#Lysander_MND">He exits. </stage>
+          <stage xml:id="stg-0791" n="SD 2.2.151" type="exit" who="#Lysander_MND">He exits. </stage>
           <sp xml:id="sp-0792" who="#Hermia_MND">
             <speaker xml:id="spk-0792">HERMIA </speaker>
-            <stage xml:id="stg-0792.0"
-                         n="SD 2.2.152.0"
-                         type="business"
-                         who="#Hermia_MND">, waking up </stage>
+            <stage xml:id="stg-0792.0" n="SD 2.2.152.0" type="business" who="#Hermia_MND">, waking up </stage>
             <l xml:id="ftln-0792" n="2.2.152">Help me, Lysander, help me! Do thy best </l>
             <l xml:id="ftln-0793" n="2.2.153">To pluck this crawling serpent from my breast. </l>
             <l xml:id="ftln-0794" n="2.2.154">Ay me, for pity! What a dream was here! </l>
@@ -1817,20 +1697,14 @@
             <l xml:id="ftln-0802" n="2.2.162">No? Then I well perceive you are not nigh. </l>
             <l xml:id="ftln-0803" n="2.2.163">Either death or you I’ll find immediately. </l>
           </sp>
-          <stage xml:id="stg-0803.1"
-                      n="SD 2.2.163.1"
-                      type="exit"
-                      who="#Hermia_MND">She exits. </stage>
+          <stage xml:id="stg-0803.1" n="SD 2.2.163.1" type="exit" who="#Hermia_MND">She exits. </stage>
         </div>
       </div>
       <div type="act" n="3">
         <head>ACT 3 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-0803.2"
-                      n="SD 3.1.0"
-                      type="entrance"
-                      who="#Bottom_MND #Quince_MND #Snout_MND #Starveling_MND #Snug_MND #Flute_MND">With Titania still asleep onstage, enter the Clowns, Bottom, Quince, Snout, Starveling, Snug, and Flute. </stage>
+          <stage xml:id="stg-0803.2" n="SD 3.1.0" type="entrance" who="#Bottom_MND #Quince_MND #Snout_MND #Starveling_MND #Snug_MND #Flute_MND">With Titania still asleep onstage, enter the Clowns, Bottom, Quince, Snout, Starveling, Snug, and Flute. </stage>
           <sp xml:id="sp-0804" who="#Bottom_MND">
             <speaker xml:id="spk-0804">BOTTOM </speaker>
             <p xml:id="p-0804">
@@ -1921,10 +1795,7 @@
             <p xml:id="p-0855">
               <lb xml:id="ftln-0855" n="3.1.52"/>A calendar, a calendar! Look in the almanac. <lb xml:id="ftln-0856" n="3.1.53"/>Find out moonshine, find out moonshine. </p>
           </sp>
-          <stage xml:id="stg-0856.1"
-                      n="SD 3.1.53.1"
-                      type="business"
-                      who="#Quince_MND">Quince takes out a book. </stage>
+          <stage xml:id="stg-0856.1" n="SD 3.1.53.1" type="business" who="#Quince_MND">Quince takes out a book. </stage>
           <sp xml:id="sp-0857" who="#Quince_MND">
             <speaker xml:id="spk-0857">QUINCE </speaker>
             <p xml:id="p-0857">
@@ -1955,10 +1826,7 @@
             <p xml:id="p-0874">
               <lb xml:id="ftln-0874" n="3.1.71"/>If that may be, then all is well. Come, sit down, <lb xml:id="ftln-0875" n="3.1.72"/>every mother’s son, and rehearse your parts. Pyramus, <lb xml:id="ftln-0876" n="3.1.73"/>you begin. When you have spoken your <lb xml:id="ftln-0877" n="3.1.74"/>speech, enter into that brake, and so everyone <lb xml:id="ftln-0878" n="3.1.75"/>according to his cue. </p>
           </sp>
-          <stage xml:id="stg-0878.1"
-                      n="SD 3.1.75.1"
-                      type="entrance"
-                      who="#RobinGoodfellow_MND">Enter Robin invisible to those onstage. </stage>
+          <stage xml:id="stg-0878.1" n="SD 3.1.75.1" type="entrance" who="#RobinGoodfellow_MND">Enter Robin invisible to those onstage. </stage>
           <sp xml:id="sp-0879" who="#RobinGoodfellow_MND">
             <speaker xml:id="spk-0879">ROBIN </speaker>
             <stage xml:id="stg-0879.0" n="SD 3.1.76.0" type="delivery">, aside </stage>
@@ -1996,10 +1864,7 @@
             <stage xml:id="stg-0890.0" n="SD 3.1.87.0" type="delivery">, aside </stage>
             <l xml:id="ftln-0890" n="3.1.87">A stranger Pyramus than e’er played here. </l>
           </sp>
-          <stage xml:id="stg-0890"
-                      n="SD 3.1.87"
-                      type="exit"
-                      who="#RobinGoodfellow_MND">He exits. </stage>
+          <stage xml:id="stg-0890" n="SD 3.1.87" type="exit" who="#RobinGoodfellow_MND">He exits. </stage>
           <sp xml:id="sp-0891" who="#Flute_MND">
             <speaker xml:id="spk-0891">FLUTE </speaker>
             <p xml:id="p-0891">
@@ -2031,10 +1896,7 @@
             <l xml:id="ftln-0905" n="3.1.102">
               <stage xml:id="stg-0905" n="SD 3.1.102" type="delivery">As Thisbe. </stage>As true as truest horse, that yet would never tire. </l>
           </sp>
-          <stage xml:id="stg-0906.1"
-                      n="SD 3.1.102.1"
-                      type="entrance"
-                      who="#RobinGoodfellow_MND #Bottom_MND">Enter Robin, and Bottom as Pyramus with the ass-head. </stage>
+          <stage xml:id="stg-0906.1" n="SD 3.1.102.1" type="entrance" who="#RobinGoodfellow_MND #Bottom_MND">Enter Robin, and Bottom as Pyramus with the ass-head. </stage>
           <sp xml:id="sp-0907" who="#Bottom_MND">
             <speaker xml:id="spk-0907">BOTTOM </speaker>
             <stage xml:id="stg-0907.0" n="SD 3.1.104.0" type="delivery">, as Pyramus </stage>
@@ -2045,10 +1907,7 @@
             <p xml:id="p-0908">
               <lb xml:id="ftln-0908" n="3.1.105"/>O monstrous! O strange! We are haunted. Pray, <lb xml:id="ftln-0909" n="3.1.106"/>masters, fly, masters! Help! </p>
           </sp>
-          <stage xml:id="stg-0909.1"
-                      n="SD 3.1.106.1"
-                      type="exit"
-                      who="#Quince_MND #Flute_MND #Snout_MND #Snug_MND #Starveling_MND">Quince, Flute, Snout, Snug, and Starveling exit. </stage>
+          <stage xml:id="stg-0909.1" n="SD 3.1.106.1" type="exit" who="#Quince_MND #Flute_MND #Snout_MND #Snug_MND #Starveling_MND">Quince, Flute, Snout, Snug, and Starveling exit. </stage>
           <sp xml:id="sp-0910" who="#RobinGoodfellow_MND">
             <speaker xml:id="spk-0910">ROBIN </speaker>
             <lg xml:id="stz-0910" type="quatrain">
@@ -2062,19 +1921,13 @@
               <l xml:id="ftln-0916" n="3.1.113">Like horse, hound, hog, bear, fire, at every turn. </l>
             </lg>
           </sp>
-          <stage xml:id="stg-0916.1"
-                      n="SD 3.1.113.1"
-                      type="exit"
-                      who="#RobinGoodfellow_MND">He exits. </stage>
+          <stage xml:id="stg-0916.1" n="SD 3.1.113.1" type="exit" who="#RobinGoodfellow_MND">He exits. </stage>
           <sp xml:id="sp-0917" who="#Bottom_MND">
             <speaker xml:id="spk-0917">BOTTOM </speaker>
             <p xml:id="p-0917">
               <lb xml:id="ftln-0917" n="3.1.114"/>Why do they run away? This is a knavery of <lb xml:id="ftln-0918" n="3.1.115"/>them to make me afeard. </p>
           </sp>
-          <stage xml:id="stg-0918.1"
-                      n="SD 3.1.115.1"
-                      type="entrance"
-                      who="#Snout_MND">Enter Snout. </stage>
+          <stage xml:id="stg-0918.1" n="SD 3.1.115.1" type="entrance" who="#Snout_MND">Enter Snout. </stage>
           <sp xml:id="sp-0919" who="#Snout_MND">
             <speaker xml:id="spk-0919">SNOUT </speaker>
             <p xml:id="p-0919">
@@ -2086,10 +1939,7 @@
               <lb xml:id="ftln-0921" n="3.1.118"/>What do you see? You see an ass-head of your <lb xml:id="ftln-0922" n="3.1.119"/>own, do you? </p>
           </sp>
           <stage xml:id="stg-0922" n="SD 3.1.119" type="exit" who="#Snout_MND">Snout exits. </stage>
-          <stage xml:id="stg-0922.1"
-                      n="SD 3.1.119.1"
-                      type="entrance"
-                      who="#Quince_MND">Enter Quince. </stage>
+          <stage xml:id="stg-0922.1" n="SD 3.1.119.1" type="entrance" who="#Quince_MND">Enter Quince. </stage>
           <sp xml:id="sp-0923" who="#Quince_MND">
             <speaker xml:id="spk-0923">QUINCE </speaker>
             <p xml:id="p-0923">
@@ -2100,10 +1950,7 @@
             <speaker xml:id="spk-0925">BOTTOM </speaker>
             <p xml:id="p-0925">
               <lb xml:id="ftln-0925" n="3.1.122"/>I see their knavery. This is to make an ass of <lb xml:id="ftln-0926" n="3.1.123"/>me, to fright me, if they could. But I will not stir <lb xml:id="ftln-0927" n="3.1.124"/>from this place, do what they can. I will walk up <lb xml:id="ftln-0928" n="3.1.125"/>and down here, and I will sing, that they shall hear <lb xml:id="ftln-0929" n="3.1.126"/>I am not afraid. </p>
-            <stage xml:id="stg-0930"
-                         n="SD 3.1.127"
-                         type="delivery"
-                         rendition="indentProse">He sings. </stage>
+            <stage xml:id="stg-0930" n="SD 3.1.127" type="delivery" rendition="indentProse">He sings. </stage>
             <lg xml:id="stz-0930" type="quatrain">
               <l xml:id="ftln-0930" n="3.1.127">The ouzel cock, so black of hue, </l>
               <l xml:id="ftln-0931" n="3.1.128">With orange-tawny bill, </l>
@@ -2113,10 +1960,7 @@
           </sp>
           <sp xml:id="sp-0934" who="#Titania_MND">
             <speaker xml:id="spk-0934">TITANIA </speaker>
-            <stage xml:id="stg-0934.0"
-                         n="SD 3.1.131.0"
-                         type="business"
-                         who="#Titania_MND">, waking up </stage>
+            <stage xml:id="stg-0934.0" n="SD 3.1.131.0" type="business" who="#Titania_MND">, waking up </stage>
             <l xml:id="ftln-0934" n="3.1.131">What angel wakes me from my flow’ry bed? </l>
           </sp>
           <sp xml:id="sp-0935" who="#Bottom_MND">
@@ -2167,10 +2011,7 @@
             <l xml:id="ftln-0966" n="3.1.163">That thou shalt like an airy spirit go.— </l>
             <l xml:id="ftln-0967" n="3.1.164">Peaseblossom, Cobweb, Mote, and Mustardseed! </l>
           </sp>
-          <stage xml:id="stg-0967.1"
-                      n="SD 3.1.164.1"
-                      type="entrance"
-                      who="#FAIRIES.TITANIA.Peaseblossom_MND #FAIRIES.TITANIA.Cobweb_MND #FAIRIES.TITANIA.Mote_MND #FAIRIES.TITANIA.Mustardseed_MND">Enter four Fairies: Peaseblossom, Cobweb, Mote, and Mustardseed. </stage>
+          <stage xml:id="stg-0967.1" n="SD 3.1.164.1" type="entrance" who="#FAIRIES.TITANIA.Peaseblossom_MND #FAIRIES.TITANIA.Cobweb_MND #FAIRIES.TITANIA.Mote_MND #FAIRIES.TITANIA.Mustardseed_MND">Enter four Fairies: Peaseblossom, Cobweb, Mote, and Mustardseed. </stage>
           <sp xml:id="sp-0968" who="#FAIRIES.TITANIA.Peaseblossom_MND">
             <speaker xml:id="spk-0968">PEASEBLOSSOM </speaker>
             <p xml:id="p-0968">
@@ -2191,8 +2032,7 @@
             <p xml:id="p-0971">
               <lb xml:id="ftln-0971" n="3.1.168"/>And I. </p>
           </sp>
-          <sp xml:id="sp-0972"
-                   who="#FAIRIES.TITANIA.Peaseblossom_MND #FAIRIES.TITANIA.Cobweb_MND #FAIRIES.TITANIA.Mote_MND #FAIRIES.TITANIA.Mustardseed_MND">
+          <sp xml:id="sp-0972" who="#FAIRIES.TITANIA.Peaseblossom_MND #FAIRIES.TITANIA.Cobweb_MND #FAIRIES.TITANIA.Mote_MND #FAIRIES.TITANIA.Mustardseed_MND">
             <speaker xml:id="spk-0972">ALL </speaker>
             <p xml:id="p-0972">
               <lb xml:id="ftln-0972" n="3.1.169"/>Where shall we go? </p>
@@ -2276,26 +2116,17 @@
             </lg>
             <l xml:id="ftln-1011" n="3.1.208">Tie up my lover’s tongue. Bring him silently. </l>
           </sp>
-          <stage xml:id="stg-1011.1"
-                      n="SD 3.1.208.1"
-                      type="exit"
-                      who="#Bottom_MND #Titania_MND #FAIRIES.TITANIA.Mustardseed_MND #FAIRIES.TITANIA.Mote_MND #FAIRIES.TITANIA.Cobweb_MND #FAIRIES.TITANIA.Peaseblossom_MND">They exit. </stage>
+          <stage xml:id="stg-1011.1" n="SD 3.1.208.1" type="exit" who="#Bottom_MND #Titania_MND #FAIRIES.TITANIA.Mustardseed_MND #FAIRIES.TITANIA.Mote_MND #FAIRIES.TITANIA.Cobweb_MND #FAIRIES.TITANIA.Peaseblossom_MND">They exit. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-1011.2"
-                      n="SD 3.2.0"
-                      type="entrance"
-                      who="#Oberon_MND">Enter Oberon, King of Fairies. </stage>
+          <stage xml:id="stg-1011.2" n="SD 3.2.0" type="entrance" who="#Oberon_MND">Enter Oberon, King of Fairies. </stage>
           <sp xml:id="sp-1012" who="#Oberon_MND">
             <speaker xml:id="spk-1012">OBERON </speaker>
             <l xml:id="ftln-1012" n="3.2.1">I wonder if Titania be awaked; </l>
             <l xml:id="ftln-1013" n="3.2.2">Then what it was that next came in her eye, </l>
             <l xml:id="ftln-1014" n="3.2.3">Which she must dote on in extremity. </l>
-            <stage xml:id="stg-1014.1"
-                         n="SD 3.2.3.1"
-                         type="entrance"
-                         who="#RobinGoodfellow_MND">Enter Robin Goodfellow. </stage>
+            <stage xml:id="stg-1014.1" n="SD 3.2.3.1" type="entrance" who="#RobinGoodfellow_MND">Enter Robin Goodfellow. </stage>
             <l xml:id="ftln-1015" n="3.2.4">Here comes my messenger. How now, mad spirit? </l>
             <l xml:id="ftln-1016" n="3.2.5">What night-rule now about this haunted grove? </l>
           </sp>
@@ -2343,10 +2174,7 @@
             <l xml:id="ftln-1052" n="3.2.41">And the Athenian woman by his side, </l>
             <l xml:id="ftln-1053" n="3.2.42">That, when he waked, of force she must be eyed. </l>
           </sp>
-          <stage xml:id="stg-1053.1"
-                      n="SD 3.2.42.1"
-                      type="entrance"
-                      who="#Demetrius_MND #Hermia_MND">Enter Demetrius and Hermia. </stage>
+          <stage xml:id="stg-1053.1" n="SD 3.2.42.1" type="entrance" who="#Demetrius_MND #Hermia_MND">Enter Demetrius and Hermia. </stage>
           <sp xml:id="sp-1054" who="#Oberon_MND">
             <speaker xml:id="spk-1054">OBERON </speaker>
             <l xml:id="ftln-1054" n="3.2.43">Stand close. This is the same Athenian. </l>
@@ -2355,10 +2183,7 @@
             <speaker xml:id="spk-1055">ROBIN </speaker>
             <l xml:id="ftln-1055" n="3.2.44">This is the woman, but not this the man. </l>
           </sp>
-          <stage xml:id="stg-1055.1"
-                      n="SD 3.2.44.1"
-                      type="business"
-                      who="#Oberon_MND #RobinGoodfellow_MND">They step aside. </stage>
+          <stage xml:id="stg-1055.1" n="SD 3.2.44.1" type="business" who="#Oberon_MND #RobinGoodfellow_MND">They step aside. </stage>
           <sp xml:id="sp-1056" who="#Demetrius_MND">
             <speaker xml:id="spk-1056">DEMETRIUS </speaker>
             <l xml:id="ftln-1056" n="3.2.45">O, why rebuke you him that loves you so? </l>
@@ -2428,10 +2253,7 @@
             <l xml:id="ftln-1093" n="3.2.82">And from thy hated presence part I so. </l>
             <l xml:id="ftln-1094" n="3.2.83">See me no more, whether he be dead or no. </l>
           </sp>
-          <stage xml:id="stg-1094.1"
-                      n="SD 3.2.83.1"
-                      type="exit"
-                      who="#Hermia_MND">She exits. </stage>
+          <stage xml:id="stg-1094.1" n="SD 3.2.83.1" type="exit" who="#Hermia_MND">She exits. </stage>
           <sp xml:id="sp-1095" who="#Demetrius_MND">
             <speaker xml:id="spk-1095">DEMETRIUS </speaker>
             <l xml:id="ftln-1095" n="3.2.84">There is no following her in this fierce vein. </l>
@@ -2441,10 +2263,7 @@
             <l xml:id="ftln-1099" n="3.2.88">Which now in some slight measure it will pay, </l>
             <l xml:id="ftln-1100" n="3.2.89">If for his tender here I make some stay. </l>
           </sp>
-          <stage xml:id="stg-1100.1"
-                      n="SD 3.2.89.1"
-                      type="business"
-                      who="#Demetrius_MND">He lies down and falls asleep. </stage>
+          <stage xml:id="stg-1100.1" n="SD 3.2.89.1" type="business" who="#Demetrius_MND">He lies down and falls asleep. </stage>
           <sp xml:id="sp-1101" who="#Oberon_MND">
             <speaker xml:id="spk-1101">OBERON </speaker>
             <stage xml:id="stg-1101.0" n="SD 3.2.90.0" type="delivery">, to Robin </stage>
@@ -2472,16 +2291,10 @@
             <l xml:id="ftln-1113" n="3.2.102" ana="#short">I go, I go, look how I go, </l>
             <l xml:id="ftln-1114" n="3.2.103">Swifter than arrow from the Tartar’s bow. </l>
           </sp>
-          <stage xml:id="stg-1114"
-                      n="SD 3.2.103"
-                      type="exit"
-                      who="#RobinGoodfellow_MND">He exits. </stage>
+          <stage xml:id="stg-1114" n="SD 3.2.103" type="exit" who="#RobinGoodfellow_MND">He exits. </stage>
           <sp xml:id="sp-1115" who="#Oberon_MND">
             <speaker xml:id="spk-1115">OBERON </speaker>
-            <stage xml:id="stg-1115.0"
-                         n="SD 3.2.104.0"
-                         type="business"
-                         who="#Oberon_MND #Demetrius_MND">, applying the nectar to Demetrius’ eyes </stage>
+            <stage xml:id="stg-1115.0" n="SD 3.2.104.0" type="business" who="#Oberon_MND #Demetrius_MND">, applying the nectar to Demetrius’ eyes </stage>
             <l xml:id="ftln-1115" n="3.2.104">Flower of this purple dye, </l>
             <l xml:id="ftln-1116" n="3.2.105">Hit with Cupid’s archery, </l>
             <l xml:id="ftln-1117" n="3.2.106">Sink in apple of his eye. </l>
@@ -2491,10 +2304,7 @@
             <l xml:id="ftln-1121" n="3.2.110">When thou wak’st, if she be by, </l>
             <l xml:id="ftln-1122" n="3.2.111">Beg of her for remedy. </l>
           </sp>
-          <stage xml:id="stg-1122.1"
-                      n="SD 3.2.111.1"
-                      type="entrance"
-                      who="#RobinGoodfellow_MND">Enter Robin. </stage>
+          <stage xml:id="stg-1122.1" n="SD 3.2.111.1" type="entrance" who="#RobinGoodfellow_MND">Enter Robin. </stage>
           <sp xml:id="sp-1123" who="#RobinGoodfellow_MND">
             <speaker xml:id="spk-1123">ROBIN </speaker>
             <l xml:id="ftln-1123" n="3.2.112">Captain of our fairy band, </l>
@@ -2516,14 +2326,8 @@
             <l xml:id="ftln-1133" n="3.2.122">And those things do best please me </l>
             <l xml:id="ftln-1134" n="3.2.123">That befall prepost’rously. </l>
           </sp>
-          <stage xml:id="stg-1134.1"
-                      n="SD 3.2.123.1"
-                      type="business"
-                      who="#Oberon_MND #RobinGoodfellow_MND">They step aside. </stage>
-          <stage xml:id="stg-1134.2"
-                      n="SD 3.2.123.2"
-                      type="entrance"
-                      who="#Lysander_MND #Helena_MND">Enter Lysander and Helena. </stage>
+          <stage xml:id="stg-1134.1" n="SD 3.2.123.1" type="business" who="#Oberon_MND #RobinGoodfellow_MND">They step aside. </stage>
+          <stage xml:id="stg-1134.2" n="SD 3.2.123.2" type="entrance" who="#Lysander_MND #Helena_MND">Enter Lysander and Helena. </stage>
           <sp xml:id="sp-1135" who="#Lysander_MND">
             <speaker xml:id="spk-1135">LYSANDER </speaker>
             <lg xml:id="stz-1135" type="quatrain">
@@ -2564,10 +2368,7 @@
           </sp>
           <sp xml:id="sp-1151" who="#Demetrius_MND">
             <speaker xml:id="spk-1151">DEMETRIUS </speaker>
-            <stage xml:id="stg-1151.0"
-                         n="SD 3.2.140.0"
-                         type="business"
-                         who="#Demetrius_MND">, waking up </stage>
+            <stage xml:id="stg-1151.0" n="SD 3.2.140.0" type="business" who="#Demetrius_MND">, waking up </stage>
             <l xml:id="ftln-1151" n="3.2.140">O Helen, goddess, nymph, perfect, divine! </l>
             <l xml:id="ftln-1152" n="3.2.141">To what, my love, shall I compare thine eyne? </l>
             <l xml:id="ftln-1153" n="3.2.142">Crystal is muddy. O, how ripe in show </l>
@@ -2628,10 +2429,7 @@
             <l xml:id="ftln-1190" n="3.2.179">Lest to thy peril thou aby it dear. </l>
             <l xml:id="ftln-1191" n="3.2.180">Look where thy love comes. Yonder is thy dear. </l>
           </sp>
-          <stage xml:id="stg-1191.1"
-                      n="SD 3.2.180.1"
-                      type="entrance"
-                      who="#Hermia_MND">Enter Hermia. </stage>
+          <stage xml:id="stg-1191.1" n="SD 3.2.180.1" type="entrance" who="#Hermia_MND">Enter Hermia. </stage>
           <sp xml:id="sp-1192" who="#Hermia_MND">
             <speaker xml:id="spk-1192">HERMIA </speaker>
             <stage xml:id="stg-1192.0" n="SD 3.2.181.0" type="delivery">, to Lysander </stage>
@@ -2774,10 +2572,7 @@
             <speaker xml:id="spk-1275">HERMIA </speaker>
             <l xml:id="ftln-1275" n="3.2.264" part="F">Lysander, whereto tends all this? </l>
           </sp>
-          <stage xml:id="stg-1275.1"
-                      n="SD 3.2.264.1"
-                      type="business"
-                      who="#Hermia_MND #Lysander_MND">She takes hold of Lysander. </stage>
+          <stage xml:id="stg-1275.1" n="SD 3.2.264.1" type="business" who="#Hermia_MND #Lysander_MND">She takes hold of Lysander. </stage>
           <sp xml:id="sp-1276" who="#Lysander_MND">
             <speaker xml:id="spk-1276">LYSANDER </speaker>
             <l xml:id="ftln-1276" n="3.2.265" part="I">Away, you Ethiop! </l>
@@ -2845,10 +2640,7 @@
             <l xml:id="ftln-1305" n="3.2.294">Be certain, nothing truer, ’tis no jest </l>
             <l xml:id="ftln-1306" n="3.2.295">That I do hate thee and love Helena. </l>
           </sp>
-          <stage xml:id="stg-1306.1"
-                      n="SD 3.2.295.1"
-                      type="business"
-                      who="#Hermia_MND #Lysander_MND">Hermia turns him loose. </stage>
+          <stage xml:id="stg-1306.1" n="SD 3.2.295.1" type="business" who="#Hermia_MND #Lysander_MND">Hermia turns him loose. </stage>
           <sp xml:id="sp-1307" who="#Hermia_MND">
             <speaker xml:id="spk-1307">HERMIA </speaker>
             <l xml:id="ftln-1307" n="3.2.296">O me! <stage xml:id="stg-1307" n="SD 3.2.296" type="delivery"> To Helena. </stage> You juggler, you cankerblossom, </l>
@@ -2966,17 +2758,11 @@
             <speaker xml:id="spk-1369">DEMETRIUS </speaker>
             <l xml:id="ftln-1369" n="3.2.358">“ Follow”? Nay, I’ll go with thee, cheek by jowl. </l>
           </sp>
-          <stage xml:id="stg-1369.1"
-                      n="SD 3.2.358.1"
-                      type="exit"
-                      who="#Demetrius_MND #Lysander_MND">Demetrius and Lysander exit. </stage>
+          <stage xml:id="stg-1369.1" n="SD 3.2.358.1" type="exit" who="#Demetrius_MND #Lysander_MND">Demetrius and Lysander exit. </stage>
           <sp xml:id="sp-1370" who="#Hermia_MND">
             <speaker xml:id="spk-1370">HERMIA </speaker>
             <l xml:id="ftln-1370" n="3.2.359">You, mistress, all this coil is long of you. </l>
-            <stage xml:id="stg-1370.1"
-                         n="SD 3.2.259.1"
-                         type="business"
-                         who="#Helena_MND">Helena retreats. </stage>
+            <stage xml:id="stg-1370.1" n="SD 3.2.259.1" type="business" who="#Helena_MND">Helena retreats. </stage>
             <l xml:id="ftln-1371" n="3.2.360" part="I">Nay, go not back. </l>
           </sp>
           <sp xml:id="sp-1372" who="#Helena_MND">
@@ -3023,10 +2809,7 @@
             <l xml:id="ftln-1396" n="3.2.385">Till o’er their brows death-counterfeiting sleep </l>
             <l xml:id="ftln-1397" n="3.2.386">With leaden legs and batty wings doth creep. </l>
             <l xml:id="ftln-1398" n="3.2.387">Then crush this herb into Lysander’s eye, </l>
-            <stage xml:id="stg-1398.1"
-                         n="SD 3.2.387.1"
-                         type="business"
-                         who="#Oberon_MND #RobinGoodfellow_MND">He gives a flower to Robin. </stage>
+            <stage xml:id="stg-1398.1" n="SD 3.2.387.1" type="business" who="#Oberon_MND #RobinGoodfellow_MND">He gives a flower to Robin. </stage>
             <l xml:id="ftln-1399" n="3.2.388">Whose liquor hath this virtuous property, </l>
             <l xml:id="ftln-1400" n="3.2.389">To take from thence all error with his might </l>
             <l xml:id="ftln-1401" n="3.2.390">And make his eyeballs roll with wonted sight. </l>
@@ -3072,10 +2855,7 @@
             <l xml:id="ftln-1432" n="3.2.421">Goblin, lead them up and down. </l>
             <l xml:id="ftln-1433" n="3.2.422" ana="#short">Here comes one. </l>
           </sp>
-          <stage xml:id="stg-1433.1"
-                      n="SD 3.2.422.1"
-                      type="entrance"
-                      who="#Lysander_MND">Enter Lysander. </stage>
+          <stage xml:id="stg-1433.1" n="SD 3.2.422.1" type="entrance" who="#Lysander_MND">Enter Lysander. </stage>
           <sp xml:id="sp-1434" who="#Lysander_MND">
             <speaker xml:id="spk-1434">LYSANDER </speaker>
             <l xml:id="ftln-1434" n="3.2.423">Where art thou, proud Demetrius? Speak thou now. </l>
@@ -3095,14 +2875,8 @@
             <l xml:id="ftln-1437" n="3.2.426" ana="#short">Follow me, then, to </l>
             <l xml:id="ftln-1438" n="3.2.427" ana="#short">plainer ground. </l>
           </sp>
-          <stage xml:id="stg-1438"
-                      n="SD 3.2.427"
-                      type="exit"
-                      who="#Lysander_MND">Lysander exits. </stage>
-          <stage xml:id="stg-1438.1"
-                      n="SD 3.2.427.1"
-                      type="entrance"
-                      who="#Demetrius_MND">Enter Demetrius. </stage>
+          <stage xml:id="stg-1438" n="SD 3.2.427" type="exit" who="#Lysander_MND">Lysander exits. </stage>
+          <stage xml:id="stg-1438.1" n="SD 3.2.427.1" type="entrance" who="#Demetrius_MND">Enter Demetrius. </stage>
           <sp xml:id="sp-1439" who="#Demetrius_MND">
             <speaker xml:id="spk-1439">DEMETRIUS </speaker>
             <l xml:id="ftln-1439" n="3.2.428" ana="#short">Lysander, speak again. </l>
@@ -3127,14 +2901,8 @@
             <stage xml:id="stg-1450.0" n="SD 3.2.439.0" type="delivery">, in Lysander’s voice </stage>
             <l xml:id="ftln-1450" n="3.2.439">Follow my voice. We’ll try no manhood here. </l>
           </sp>
-          <stage xml:id="stg-1450.1"
-                      n="SD 3.2.439.1"
-                      type="exit"
-                      who="#Demetrius_MND #RobinGoodfellow_MND">They exit. </stage>
-          <stage xml:id="stg-1450.2"
-                      n="SD 3.2.439.2"
-                      type="entrance"
-                      who="#Lysander_MND">Enter Lysander. </stage>
+          <stage xml:id="stg-1450.1" n="SD 3.2.439.1" type="exit" who="#Demetrius_MND #RobinGoodfellow_MND">They exit. </stage>
+          <stage xml:id="stg-1450.2" n="SD 3.2.439.2" type="entrance" who="#Lysander_MND">Enter Lysander. </stage>
           <sp xml:id="sp-1451" who="#Lysander_MND">
             <speaker xml:id="spk-1451">LYSANDER </speaker>
             <l xml:id="ftln-1451" n="3.2.440">He goes before me and still dares me on. </l>
@@ -3146,14 +2914,8 @@
             <l xml:id="ftln-1457" n="3.2.446">For if but once thou show me thy gray light, </l>
             <l xml:id="ftln-1458" n="3.2.447">I’ll find Demetrius and revenge this spite. </l>
           </sp>
-          <stage xml:id="stg-1458.1"
-                      n="SD 3.2.447.1"
-                      type="business"
-                      who="#Lysander_MND">He lies down and sleeps. </stage>
-          <stage xml:id="stg-1458.2"
-                      n="SD 3.2.447.2"
-                      type="entrance"
-                      who="#RobinGoodfellow_MND #Demetrius_MND">Enter Robin and Demetrius. </stage>
+          <stage xml:id="stg-1458.1" n="SD 3.2.447.1" type="business" who="#Lysander_MND">He lies down and sleeps. </stage>
+          <stage xml:id="stg-1458.2" n="SD 3.2.447.2" type="entrance" who="#RobinGoodfellow_MND #Demetrius_MND">Enter Robin and Demetrius. </stage>
           <sp xml:id="sp-1459" who="#RobinGoodfellow_MND">
             <speaker xml:id="spk-1459">ROBIN </speaker>
             <stage xml:id="stg-1459.0" n="SD 3.2.448.0" type="delivery">, in Lysander’s voice </stage>
@@ -3179,14 +2941,8 @@
             <l xml:id="ftln-1469" n="3.2.458">To measure out my length on this cold bed. </l>
             <l xml:id="ftln-1470" n="3.2.459">By day’s approach look to be visited. </l>
           </sp>
-          <stage xml:id="stg-1470.1"
-                      n="SD 3.2.459.1"
-                      type="business"
-                      who="#Demetrius_MND">He lies down and sleeps. </stage>
-          <stage xml:id="stg-1470.2"
-                      n="SD 3.2.459.2"
-                      type="entrance"
-                      who="#Helena_MND">Enter Helena. </stage>
+          <stage xml:id="stg-1470.1" n="SD 3.2.459.1" type="business" who="#Demetrius_MND">He lies down and sleeps. </stage>
+          <stage xml:id="stg-1470.2" n="SD 3.2.459.2" type="entrance" who="#Helena_MND">Enter Helena. </stage>
           <sp xml:id="sp-1471" who="#Helena_MND">
             <speaker xml:id="spk-1471">HELENA </speaker>
             <lg xml:id="stz-1471" type="quatrain">
@@ -3200,10 +2956,7 @@
               <l xml:id="ftln-1476" n="3.2.465">Steal me awhile from mine own company. </l>
             </lg>
           </sp>
-          <stage xml:id="stg-1476.1"
-                      n="SD 3.2.465.1"
-                      type="business"
-                      who="#Helena_MND">She lies down and sleeps. </stage>
+          <stage xml:id="stg-1476.1" n="SD 3.2.465.1" type="business" who="#Helena_MND">She lies down and sleeps. </stage>
           <sp xml:id="sp-1477" who="#RobinGoodfellow_MND">
             <speaker xml:id="spk-1477">ROBIN </speaker>
             <l xml:id="ftln-1477" n="3.2.466">Yet but three? Come one more. </l>
@@ -3212,10 +2965,7 @@
             <l xml:id="ftln-1480" n="3.2.469">Cupid is a knavish lad </l>
             <l xml:id="ftln-1481" n="3.2.470">Thus to make poor females mad. </l>
           </sp>
-          <stage xml:id="stg-1481.1"
-                      n="SD 3.2.470.1"
-                      type="entrance"
-                      who="#Hermia_MND">Enter Hermia. </stage>
+          <stage xml:id="stg-1481.1" n="SD 3.2.470.1" type="entrance" who="#Hermia_MND">Enter Hermia. </stage>
           <sp xml:id="sp-1482" who="#Hermia_MND">
             <speaker xml:id="spk-1482">HERMIA </speaker>
             <lg xml:id="stz-1482" type="quatrain">
@@ -3229,10 +2979,7 @@
               <l xml:id="ftln-1487" n="3.2.476">Heavens shield Lysander if they mean a fray! </l>
             </lg>
           </sp>
-          <stage xml:id="stg-1487.1"
-                      n="SD 3.2.476.1"
-                      type="business"
-                      who="#Hermia_MND">She lies down and sleeps. </stage>
+          <stage xml:id="stg-1487.1" n="SD 3.2.476.1" type="business" who="#Hermia_MND">She lies down and sleeps. </stage>
           <sp xml:id="sp-1488" who="#RobinGoodfellow_MND">
             <speaker xml:id="spk-1488">ROBIN </speaker>
             <lg xml:id="stz-1488" type="AABBbCCDDb">
@@ -3241,10 +2988,7 @@
               <l xml:id="ftln-1490" n="3.2.479">I’ll apply </l>
               <l xml:id="ftln-1491" n="3.2.480">To your eye, </l>
               <l xml:id="ftln-1492" n="3.2.481">Gentle lover, remedy. </l>
-              <stage xml:id="stg-1492.1"
-                            n="SD 3.2.481.1"
-                            type="business"
-                            who="#RobinGoodfellow_MND #Lysander_MND">Robin applies the nectar to Lysander’s eyes. </stage>
+              <stage xml:id="stg-1492.1" n="SD 3.2.481.1" type="business" who="#RobinGoodfellow_MND #Lysander_MND">Robin applies the nectar to Lysander’s eyes. </stage>
               <l xml:id="ftln-1493" n="3.2.482">When thou wak’st, </l>
               <l xml:id="ftln-1494" n="3.2.483">Thou tak’st </l>
               <l xml:id="ftln-1495" n="3.2.484">True delight </l>
@@ -3258,20 +3002,14 @@
             <l xml:id="ftln-1502" n="3.2.491" rendition="indent">Naught shall go ill; </l>
             <l xml:id="ftln-1503" n="3.2.492">The man shall have his mare again, and all shall be well. </l>
           </sp>
-          <stage xml:id="stg-1504.1"
-                      n="SD 3.2.492.1"
-                      type="exit"
-                      who="#RobinGoodfellow_MND">He exits. </stage>
+          <stage xml:id="stg-1504.1" n="SD 3.2.492.1" type="exit" who="#RobinGoodfellow_MND">He exits. </stage>
         </div>
       </div>
       <div type="act" n="4">
         <head>ACT 4 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-1504.2"
-                      n="SD 4.1.0"
-                      type="entrance"
-                      who="#Titania_MND #Bottom_MND #Oberon_MND #FAIRIES.TITANIA.Peaseblossom_MND #FAIRIES.TITANIA.Cobweb_MND #FAIRIES.TITANIA.Mustardseed_MND #FAIRIES.TITANIA.Mote_MND">With the four lovers still asleep onstage, enter Titania, Queen of Fairies, and Bottom and Fairies, and Oberon, the King, behind them unseen by those onstage. </stage>
+          <stage xml:id="stg-1504.2" n="SD 4.1.0" type="entrance" who="#Titania_MND #Bottom_MND #Oberon_MND #FAIRIES.TITANIA.Peaseblossom_MND #FAIRIES.TITANIA.Cobweb_MND #FAIRIES.TITANIA.Mustardseed_MND #FAIRIES.TITANIA.Mote_MND">With the four lovers still asleep onstage, enter Titania, Queen of Fairies, and Bottom and Fairies, and Oberon, the King, behind them unseen by those onstage. </stage>
           <sp xml:id="sp-1505" who="#Titania_MND">
             <speaker xml:id="spk-1505">TITANIA </speaker>
             <lg xml:id="stz-1505" type="quatrain">
@@ -3304,11 +3042,7 @@
           <sp xml:id="sp-1514" who="#Bottom_MND">
             <speaker xml:id="spk-1514">BOTTOM </speaker>
             <p xml:id="p-1514">
-              <lb xml:id="ftln-1514" n="4.1.10"/>Monsieur Cobweb, good monsieur, get you <lb xml:id="ftln-1515" n="4.1.11"/>your weapons in your hand and kill me a red-hipped <lb xml:id="ftln-1516" n="4.1.12"/>humble-bee on the top of a thistle, and, good <lb xml:id="ftln-1517" n="4.1.13"/>monsieur, bring me the honey-bag. Do not fret <lb xml:id="ftln-1518" n="4.1.14"/>yourself too much in the action, monsieur, and, <lb xml:id="ftln-1519" n="4.1.15"/>good monsieur, have a care the honey-bag break <lb xml:id="ftln-1520" n="4.1.16"/>not; I would be loath to have you overflown with a <lb xml:id="ftln-1521" n="4.1.17"/>honey-bag, signior. <stage xml:id="stg-1521"
-                            n="SD 4.1.17"
-                            type="exit"
-                            rendition="inline"
-                            who="#FAIRIES.TITANIA.Cobweb_MND"> Cobweb exits. </stage> Where’s Monsieur <lb xml:id="ftln-1522" n="4.1.18"/>Mustardseed? </p>
+              <lb xml:id="ftln-1514" n="4.1.10"/>Monsieur Cobweb, good monsieur, get you <lb xml:id="ftln-1515" n="4.1.11"/>your weapons in your hand and kill me a red-hipped <lb xml:id="ftln-1516" n="4.1.12"/>humble-bee on the top of a thistle, and, good <lb xml:id="ftln-1517" n="4.1.13"/>monsieur, bring me the honey-bag. Do not fret <lb xml:id="ftln-1518" n="4.1.14"/>yourself too much in the action, monsieur, and, <lb xml:id="ftln-1519" n="4.1.15"/>good monsieur, have a care the honey-bag break <lb xml:id="ftln-1520" n="4.1.16"/>not; I would be loath to have you overflown with a <lb xml:id="ftln-1521" n="4.1.17"/>honey-bag, signior. <stage xml:id="stg-1521" n="SD 4.1.17" type="exit" rendition="inline" who="#FAIRIES.TITANIA.Cobweb_MND"> Cobweb exits. </stage> Where’s Monsieur <lb xml:id="ftln-1522" n="4.1.18"/>Mustardseed? </p>
           </sp>
           <sp xml:id="sp-1523" who="#FAIRIES.TITANIA.Mustardseed_MND">
             <speaker xml:id="spk-1523">MUSTARDSEED </speaker>
@@ -3362,23 +3096,14 @@
             <speaker xml:id="spk-1545">TITANIA </speaker>
             <l xml:id="ftln-1545" n="4.1.41">Sleep thou, and I will wind thee in my arms.— </l>
             <l xml:id="ftln-1546" n="4.1.42">Fairies, begone, and be all ways away. </l>
-            <stage xml:id="stg-1546.1"
-                         n="SD 4.1.42.1"
-                         type="exit"
-                         who="#FAIRIES.TITANIA.Peaseblossom_MND #FAIRIES.TITANIA.Mustardseed_MND #FAIRIES.TITANIA.Mote_MND">Fairies exit. </stage>
+            <stage xml:id="stg-1546.1" n="SD 4.1.42.1" type="exit" who="#FAIRIES.TITANIA.Peaseblossom_MND #FAIRIES.TITANIA.Mustardseed_MND #FAIRIES.TITANIA.Mote_MND">Fairies exit. </stage>
             <l xml:id="ftln-1547" n="4.1.43">So doth the woodbine the sweet honeysuckle </l>
             <l xml:id="ftln-1548" n="4.1.44">Gently entwist; the female ivy so </l>
             <l xml:id="ftln-1549" n="4.1.45">Enrings the barky fingers of the elm. </l>
             <l xml:id="ftln-1550" n="4.1.46">O, how I love thee! How I dote on thee! </l>
           </sp>
-          <stage xml:id="stg-1550.1"
-                      n="SD 4.1.46.1"
-                      type="business"
-                      who="#Bottom_MND #Titania_MND">Bottom and Titania sleep. </stage>
-          <stage xml:id="stg-1550.2"
-                      n="SD 4.1.46.2"
-                      type="entrance"
-                      who="#RobinGoodfellow_MND">Enter Robin Goodfellow. </stage>
+          <stage xml:id="stg-1550.1" n="SD 4.1.46.1" type="business" who="#Bottom_MND #Titania_MND">Bottom and Titania sleep. </stage>
+          <stage xml:id="stg-1550.2" n="SD 4.1.46.2" type="entrance" who="#RobinGoodfellow_MND">Enter Robin Goodfellow. </stage>
           <sp xml:id="sp-1551" who="#Oberon_MND">
             <speaker xml:id="spk-1551">OBERON </speaker>
             <l xml:id="ftln-1551" n="4.1.47">Welcome, good Robin. Seest thou this sweet sight? </l>
@@ -3406,10 +3131,7 @@
             <l xml:id="ftln-1573" n="4.1.69">And think no more of this night’s accidents </l>
             <l xml:id="ftln-1574" n="4.1.70">But as the fierce vexation of a dream. </l>
             <l xml:id="ftln-1575" n="4.1.71">But first I will release the Fairy Queen. </l>
-            <stage xml:id="stg-1575.1"
-                         n="SD 4.1.71.1"
-                         type="business"
-                         who="#Oberon_MND #Titania_MND">He applies the nectar to her eyes. </stage>
+            <stage xml:id="stg-1575.1" n="SD 4.1.71.1" type="business" who="#Oberon_MND #Titania_MND">He applies the nectar to her eyes. </stage>
             <l xml:id="ftln-1576" n="4.1.72">Be as thou wast wont to be. </l>
             <l xml:id="ftln-1577" n="4.1.73">See as thou wast wont to see. </l>
             <l xml:id="ftln-1578" n="4.1.74">Dian’s bud o’er Cupid’s flower </l>
@@ -3418,10 +3140,7 @@
           </sp>
           <sp xml:id="sp-1581" who="#Titania_MND">
             <speaker xml:id="spk-1581">TITANIA </speaker>
-            <stage xml:id="stg-1581.0"
-                         n="SD 4.1.77.0"
-                         type="business"
-                         who="#Titania_MND">, waking </stage>
+            <stage xml:id="stg-1581.0" n="SD 4.1.77.0" type="business" who="#Titania_MND">, waking </stage>
             <l xml:id="ftln-1581" n="4.1.77">My Oberon, what visions have I seen! </l>
             <l xml:id="ftln-1582" n="4.1.78">Methought I was enamored of an ass. </l>
           </sp>
@@ -3446,10 +3165,7 @@
           </sp>
           <sp xml:id="sp-1590" who="#RobinGoodfellow_MND">
             <speaker xml:id="spk-1590">ROBIN </speaker>
-            <stage xml:id="stg-1590.0"
-                         n="SD 4.1.86.0"
-                         type="business"
-                         who="#RobinGoodfellow_MND #Bottom_MND">, removing the ass-head from Bottom </stage>
+            <stage xml:id="stg-1590.0" n="SD 4.1.86.0" type="business" who="#RobinGoodfellow_MND #Bottom_MND">, removing the ass-head from Bottom </stage>
             <l xml:id="ftln-1590" n="4.1.86">Now, when thou wak’st, with thine own fool’s eyes peep. </l>
           </sp>
           <sp xml:id="sp-1592" who="#Oberon_MND">
@@ -3460,10 +3176,7 @@
             </stage>
             <l xml:id="ftln-1593" n="4.1.89" part="F">Come, my queen, take hands with me, </l>
             <l xml:id="ftln-1594" n="4.1.90">And rock the ground whereon these sleepers be. </l>
-            <stage xml:id="stg-1594.1"
-                         n="SD 4.1.90.1"
-                         type="business"
-                         who="#Titania_MND #Oberon_MND">Titania and Oberon dance. </stage>
+            <stage xml:id="stg-1594.1" n="SD 4.1.90.1" type="business" who="#Titania_MND #Oberon_MND">Titania and Oberon dance. </stage>
             <l xml:id="ftln-1595" n="4.1.91">Now thou and I are new in amity, </l>
             <l xml:id="ftln-1596" n="4.1.92">And will tomorrow midnight solemnly </l>
             <l xml:id="ftln-1597" n="4.1.93">Dance in Duke Theseus’ house triumphantly, </l>
@@ -3490,14 +3203,8 @@
             <l xml:id="ftln-1609" n="4.1.105">That I sleeping here was found </l>
             <l xml:id="ftln-1610" n="4.1.106">With these mortals on the ground. </l>
           </sp>
-          <stage xml:id="stg-1610.1"
-                      n="SD 4.1.106.1"
-                      type="exit"
-                      who="#Oberon_MND #RobinGoodfellow_MND #Titania_MND">Oberon, Robin, and Titania exit. </stage>
-          <stage xml:id="stg-1610.2"
-                      n="SD 4.1.106.2"
-                      type="entrance"
-                      who="#Theseus_MND #Hippolyta_MND #Egeus_MND #ATTENDANTS_MND">
+          <stage xml:id="stg-1610.1" n="SD 4.1.106.1" type="exit" who="#Oberon_MND #RobinGoodfellow_MND #Titania_MND">Oberon, Robin, and Titania exit. </stage>
+          <stage xml:id="stg-1610.2" n="SD 4.1.106.2" type="entrance" who="#Theseus_MND #Hippolyta_MND #Egeus_MND #ATTENDANTS_MND">
             <stage xml:id="snd-1610.2" n="SD 4.1.106.2" type="sound" ana="horn">Wind horn. </stage> Enter Theseus and all his train, Hippolyta, Egeus. </stage>
           <sp xml:id="sp-1611" who="#Theseus_MND">
             <speaker xml:id="spk-1611">THESEUS </speaker>
@@ -3507,10 +3214,7 @@
             <l xml:id="ftln-1614" n="4.1.110">My love shall hear the music of my hounds. </l>
             <l xml:id="ftln-1615" n="4.1.111">Uncouple in the western valley; let them go. </l>
             <l xml:id="ftln-1616" n="4.1.112">Dispatch, I say, and find the Forester. </l>
-            <stage xml:id="stg-1616.1"
-                         n="SD 4.1.112.1"
-                         type="exit"
-                         who="#ATTENDANTS.0.1_MND">A Servant exits. </stage>
+            <stage xml:id="stg-1616.1" n="SD 4.1.112.1" type="exit" who="#ATTENDANTS.0.1_MND">A Servant exits. </stage>
             <l xml:id="ftln-1617" n="4.1.113">We will, fair queen, up to the mountain’s top </l>
             <l xml:id="ftln-1618" n="4.1.114">And mark the musical confusion </l>
             <l xml:id="ftln-1619" n="4.1.115">Of hounds and echo in conjunction. </l>
@@ -3560,27 +3264,18 @@
             <speaker xml:id="spk-1647">THESEUS </speaker>
             <l xml:id="ftln-1647" n="4.1.143">Go, bid the huntsmen wake them with their horns. </l>
           </sp>
-          <stage xml:id="stg-1647.1"
-                      n="SD 4.1.143.1"
-                      type="exit"
-                      who="#ATTENDANTS.0.2_MND">A Servant exits. </stage>
+          <stage xml:id="stg-1647.1" n="SD 4.1.143.1" type="exit" who="#ATTENDANTS.0.2_MND">A Servant exits. </stage>
           <stage xml:id="stg-1647.2" n="SD 4.1.143.2" type="mixed">
             <stage xml:id="stg-1647.2a" n="SD 4.1.143.2" type="business">Shout within. <stage xml:id="snd-1647.2a" n="SD 4.1.143.2" type="sound" ana="horn">Wind horns. </stage>
             </stage>
-            <stage xml:id="stg-1647.2b"
-                         n="SD 4.1.143.2"
-                         type="business"
-                         who="#Demetrius_MND #Helena_MND #Hermia_MND #Lysander_MND">They all start up. </stage>
+            <stage xml:id="stg-1647.2b" n="SD 4.1.143.2" type="business" who="#Demetrius_MND #Helena_MND #Hermia_MND #Lysander_MND">They all start up. </stage>
           </stage>
           <sp xml:id="sp-1648" who="#Theseus_MND">
             <speaker xml:id="spk-1648">THESEUS </speaker>
             <l xml:id="ftln-1648" n="4.1.144">Good morrow, friends. Saint Valentine is past. </l>
             <l xml:id="ftln-1649" n="4.1.145">Begin these woodbirds but to couple now? </l>
           </sp>
-          <stage xml:id="stg-1649.1"
-                      n="SD 4.1.145.1"
-                      type="business"
-                      who="#Demetrius_MND #Helena_MND #Hermia_MND #Lysander_MND">Demetrius, Helena, Hermia, and Lysander kneel. </stage>
+          <stage xml:id="stg-1649.1" n="SD 4.1.145.1" type="business" who="#Demetrius_MND #Helena_MND #Hermia_MND #Lysander_MND">Demetrius, Helena, Hermia, and Lysander kneel. </stage>
           <sp xml:id="sp-1650" who="#Lysander_MND">
             <speaker xml:id="spk-1650">LYSANDER </speaker>
             <l xml:id="ftln-1650" n="4.1.146" part="I">Pardon, my lord. </l>
@@ -3588,10 +3283,7 @@
           <sp xml:id="sp-1651" who="#Theseus_MND">
             <speaker xml:id="spk-1651">THESEUS </speaker>
             <l xml:id="ftln-1651" n="4.1.147" part="F">I pray you all, stand up. </l>
-            <stage xml:id="stg-1651.1"
-                         n="SD 4.1.147.1"
-                         type="business"
-                         who="#Demetrius_MND #Helena_MND #Hermia_MND #Lysander_MND">They rise. </stage>
+            <stage xml:id="stg-1651.1" n="SD 4.1.147.1" type="business" who="#Demetrius_MND #Helena_MND #Hermia_MND #Lysander_MND">They rise. </stage>
             <l xml:id="ftln-1652" n="4.1.148">I know you two are rival enemies. </l>
             <l xml:id="ftln-1653" n="4.1.149">How comes this gentle concord in the world, </l>
             <l xml:id="ftln-1654" n="4.1.150">That hatred is so far from jealousy </l>
@@ -3650,10 +3342,7 @@
             <l xml:id="ftln-1696" n="4.1.192">We’ll hold a feast in great solemnity. </l>
             <l xml:id="ftln-1697" n="4.1.193">Come, Hippolyta. </l>
           </sp>
-          <stage xml:id="stg-1697.1"
-                      n="SD 4.1.193.1"
-                      type="exit"
-                      who="#Theseus_MND #Hippolyta_MND #Egeus_MND #ATTENDANTS_MND">Theseus and his train, including Hippolyta and Egeus, exit. </stage>
+          <stage xml:id="stg-1697.1" n="SD 4.1.193.1" type="exit" who="#Theseus_MND #Hippolyta_MND #Egeus_MND #ATTENDANTS_MND">Theseus and his train, including Hippolyta and Egeus, exit. </stage>
           <sp xml:id="sp-1698" who="#Demetrius_MND">
             <speaker xml:id="spk-1698">DEMETRIUS </speaker>
             <l xml:id="ftln-1698" n="4.1.194">These things seem small and undistinguishable, </l>
@@ -3694,30 +3383,18 @@
             <l xml:id="ftln-1712" n="4.1.208">Why, then, we are awake. Let’s follow him, </l>
             <l xml:id="ftln-1713" n="4.1.209">And by the way let us recount our dreams. </l>
           </sp>
-          <stage xml:id="stg-1713.1"
-                      n="SD 4.1.209.1"
-                      type="exit"
-                      who="#Demetrius_MND #Hermia_MND #Helena_MND #Lysander_MND">Lovers exit. </stage>
+          <stage xml:id="stg-1713.1" n="SD 4.1.209.1" type="exit" who="#Demetrius_MND #Hermia_MND #Helena_MND #Lysander_MND">Lovers exit. </stage>
           <sp xml:id="sp-1714" who="#Bottom_MND">
             <speaker xml:id="spk-1714">BOTTOM </speaker>
-            <stage xml:id="stg-1714"
-                         n="SD 4.1.210"
-                         type="business"
-                         who="#Bottom_MND">, waking up </stage>
+            <stage xml:id="stg-1714" n="SD 4.1.210" type="business" who="#Bottom_MND">, waking up </stage>
             <p xml:id="p-1714">
               <lb xml:id="ftln-1714" n="4.1.210"/> When my cue comes, call me, <lb xml:id="ftln-1715" n="4.1.211"/>and I will answer. My next is “ Most fair Pyramus.” <lb xml:id="ftln-1716" n="4.1.212"/>Hey-ho! Peter Quince! Flute the bellows-mender! <lb xml:id="ftln-1717" n="4.1.213"/>Snout the tinker! Starveling! God’s my life! Stolen <lb xml:id="ftln-1718" n="4.1.214"/>hence and left me asleep! I have had a most rare <lb xml:id="ftln-1719" n="4.1.215"/>vision. I have had a dream past the wit of man to say <lb xml:id="ftln-1720" n="4.1.216"/>what dream it was. Man is but an ass if he go about <lb xml:id="ftln-1721" n="4.1.217"/>to expound this dream. Methought I was— there <lb xml:id="ftln-1722" n="4.1.218"/>is no man can tell what. Methought I was and <lb xml:id="ftln-1723" n="4.1.219"/>methought I had— but man is but a patched fool if <lb xml:id="ftln-1724" n="4.1.220"/>he will offer to say what methought I had. The eye of <lb xml:id="ftln-1725" n="4.1.221"/>man hath not heard, the ear of man hath not seen, <lb xml:id="ftln-1726" n="4.1.222"/>man’s hand is not able to taste, his tongue to <lb xml:id="ftln-1727" n="4.1.223"/>conceive, nor his heart to report what my dream <lb xml:id="ftln-1728" n="4.1.224"/>was. I will get Peter Quince to write a ballad of this <lb xml:id="ftln-1729" n="4.1.225"/>dream. It shall be called “ Bottom’s Dream” because <lb xml:id="ftln-1730" n="4.1.226"/>it hath no bottom; and I will sing it in the <lb xml:id="ftln-1731" n="4.1.227"/>latter end of a play, before the Duke. Peradventure, <lb xml:id="ftln-1732" n="4.1.228"/>to make it the more gracious, I shall sing it at her <lb xml:id="ftln-1733" n="4.1.229"/>death. </p>
           </sp>
-          <stage xml:id="stg-1733.1"
-                      n="SD 4.1.229.1"
-                      type="exit"
-                      who="#Bottom_MND">He exits. </stage>
+          <stage xml:id="stg-1733.1" n="SD 4.1.229.1" type="exit" who="#Bottom_MND">He exits. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-1733.2"
-                      n="SD 4.2.0"
-                      type="entrance"
-                      who="#Quince_MND #Flute_MND #Snout_MND #Starveling_MND">Enter Quince, Flute, Snout, and Starveling. </stage>
+          <stage xml:id="stg-1733.2" n="SD 4.2.0" type="entrance" who="#Quince_MND #Flute_MND #Snout_MND #Starveling_MND">Enter Quince, Flute, Snout, and Starveling. </stage>
           <sp xml:id="sp-1734" who="#Quince_MND">
             <speaker xml:id="spk-1734">QUINCE </speaker>
             <p xml:id="p-1734">
@@ -3753,10 +3430,7 @@
             <p xml:id="p-1746">
               <lb xml:id="ftln-1746" n="4.2.13"/>You must say “ paragon.” A “ paramour” is ( God <lb xml:id="ftln-1747" n="4.2.14"/>bless us) a thing of naught. </p>
           </sp>
-          <stage xml:id="stg-1747.1"
-                      n="SD 4.2.14.1"
-                      type="entrance"
-                      who="#Snug_MND">Enter Snug the joiner. </stage>
+          <stage xml:id="stg-1747.1" n="SD 4.2.14.1" type="entrance" who="#Snug_MND">Enter Snug the joiner. </stage>
           <sp xml:id="sp-1748" who="#Snug_MND">
             <speaker xml:id="spk-1748">SNUG </speaker>
             <p xml:id="p-1748">
@@ -3767,10 +3441,7 @@
             <p xml:id="p-1752">
               <lb xml:id="ftln-1752" n="4.2.19"/>O, sweet bully Bottom! Thus hath he lost sixpence <lb xml:id="ftln-1753" n="4.2.20"/>a day during his life. He could not have <lb xml:id="ftln-1754" n="4.2.21"/>’scaped sixpence a day. An the Duke had not given <lb xml:id="ftln-1755" n="4.2.22"/>him sixpence a day for playing Pyramus, I’ll be <lb xml:id="ftln-1756" n="4.2.23"/>hanged. He would have deserved it. Sixpence a day <lb xml:id="ftln-1757" n="4.2.24"/>in Pyramus, or nothing! </p>
           </sp>
-          <stage xml:id="stg-1757.1"
-                      n="SD 4.2.24.1"
-                      type="entrance"
-                      who="#Bottom_MND">Enter Bottom. </stage>
+          <stage xml:id="stg-1757.1" n="SD 4.2.24.1" type="entrance" who="#Bottom_MND">Enter Bottom. </stage>
           <sp xml:id="sp-1758" who="#Bottom_MND">
             <speaker xml:id="spk-1758">BOTTOM </speaker>
             <p xml:id="p-1758">
@@ -3796,20 +3467,14 @@
             <p xml:id="p-1767">
               <lb xml:id="ftln-1767" n="4.2.34"/>Not a word of me. All that I will tell you is that <lb xml:id="ftln-1768" n="4.2.35"/>the Duke hath dined. Get your apparel together, <lb xml:id="ftln-1769" n="4.2.36"/>good strings to your beards, new ribbons to your <lb xml:id="ftln-1770" n="4.2.37"/>pumps. Meet presently at the palace. Every man <lb xml:id="ftln-1771" n="4.2.38"/>look o’er his part. For the short and the long is, our <lb xml:id="ftln-1772" n="4.2.39"/>play is preferred. In any case, let Thisbe have clean <lb xml:id="ftln-1773" n="4.2.40"/>linen, and let not him that plays the lion pare his <lb xml:id="ftln-1774" n="4.2.41"/>nails, for they shall hang out for the lion’s claws. <lb xml:id="ftln-1775" n="4.2.42"/>And, most dear actors, eat no onions nor garlic, for <lb xml:id="ftln-1776" n="4.2.43"/>we are to utter sweet breath, and I do not doubt but <lb xml:id="ftln-1777" n="4.2.44"/>to hear them say it is a sweet comedy. No more <lb xml:id="ftln-1778" n="4.2.45"/>words. Away! Go, away! </p>
           </sp>
-          <stage xml:id="stg-1778.1"
-                      n="SD 4.2.45.1"
-                      type="exit"
-                      who="#Quince_MND #Bottom_MND #Starveling_MND #Snout_MND #Flute_MND #Snug_MND">They exit. </stage>
+          <stage xml:id="stg-1778.1" n="SD 4.2.45.1" type="exit" who="#Quince_MND #Bottom_MND #Starveling_MND #Snout_MND #Flute_MND #Snug_MND">They exit. </stage>
         </div>
       </div>
       <div type="act" n="5">
         <head>ACT 5 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-1778.2"
-                      n="SD 5.1.0"
-                      type="entrance"
-                      who="#Theseus_MND #Hippolyta_MND #Philostrate_MND #ATTENDANTS_MND">Enter Theseus, Hippolyta, and Philostrate, Lords, and Attendants. </stage>
+          <stage xml:id="stg-1778.2" n="SD 5.1.0" type="entrance" who="#Theseus_MND #Hippolyta_MND #Philostrate_MND #ATTENDANTS_MND">Enter Theseus, Hippolyta, and Philostrate, Lords, and Attendants. </stage>
           <sp xml:id="sp-1779" who="#Hippolyta_MND">
             <speaker xml:id="spk-1779">HIPPOLYTA </speaker>
             <l xml:id="ftln-1779" n="5.1.1">’Tis strange, my Theseus, that these lovers speak of. </l>
@@ -3846,10 +3511,7 @@
             <l xml:id="ftln-1805" n="5.1.27">And grows to something of great constancy, </l>
             <l xml:id="ftln-1806" n="5.1.28">But, howsoever, strange and admirable. </l>
           </sp>
-          <stage xml:id="stg-1806.1"
-                      n="SD 5.1.28.1"
-                      type="entrance"
-                      who="#Demetrius_MND #Helena_MND #Hermia_MND #Lysander_MND">Enter Lovers: Lysander, Demetrius, Hermia, and Helena. </stage>
+          <stage xml:id="stg-1806.1" n="SD 5.1.28.1" type="entrance" who="#Demetrius_MND #Helena_MND #Hermia_MND #Lysander_MND">Enter Lovers: Lysander, Demetrius, Hermia, and Helena. </stage>
           <sp xml:id="sp-1807" who="#Theseus_MND">
             <speaker xml:id="spk-1807">THESEUS </speaker>
             <l xml:id="ftln-1807" n="5.1.29">Here come the lovers full of joy and mirth.— </l>
@@ -3873,10 +3535,7 @@
           </sp>
           <sp xml:id="sp-1820" who="#Philostrate_MND">
             <speaker xml:id="spk-1820">PHILOSTRATE </speaker>
-            <stage xml:id="stg-1820.0"
-                         n="SD 5.1.42.0"
-                         type="business"
-                         who="#Philostrate_MND">, coming forward </stage>
+            <stage xml:id="stg-1820.0" n="SD 5.1.42.0" type="business" who="#Philostrate_MND">, coming forward </stage>
             <l xml:id="ftln-1820" n="5.1.42" part="F">Here, mighty Theseus. </l>
           </sp>
           <sp xml:id="sp-1821" who="#Theseus_MND">
@@ -3887,10 +3546,7 @@
           </sp>
           <sp xml:id="sp-1824" who="#Philostrate_MND">
             <speaker xml:id="spk-1824">PHILOSTRATE </speaker>
-            <stage xml:id="stg-1824.0"
-                         n="SD 5.1.46.0"
-                         type="business"
-                         who="#Philostrate_MND #Theseus_MND">, giving Theseus a paper </stage>
+            <stage xml:id="stg-1824.0" n="SD 5.1.46.0" type="business" who="#Philostrate_MND #Theseus_MND">, giving Theseus a paper </stage>
             <l xml:id="ftln-1824" n="5.1.46">There is a brief how many sports are ripe. </l>
             <l xml:id="ftln-1825" n="5.1.47">Make choice of which your Highness will see first. </l>
           </sp>
@@ -3958,10 +3614,7 @@
             <l xml:id="ftln-1867" n="5.1.89">When simpleness and duty tender it. </l>
             <l xml:id="ftln-1868" n="5.1.90">Go, bring them in— and take your places, ladies. </l>
           </sp>
-          <stage xml:id="stg-1868.1"
-                      n="SD 5.1.90.1"
-                      type="exit"
-                      who="#Philostrate_MND">Philostrate exits. </stage>
+          <stage xml:id="stg-1868.1" n="SD 5.1.90.1" type="exit" who="#Philostrate_MND">Philostrate exits. </stage>
           <sp xml:id="sp-1869" who="#Hippolyta_MND">
             <speaker xml:id="spk-1869">HIPPOLYTA </speaker>
             <l xml:id="ftln-1869" n="5.1.91">I love not to see wretchedness o’ercharged, </l>
@@ -3994,10 +3647,7 @@
             <l xml:id="ftln-1887" n="5.1.109">Of saucy and audacious eloquence. </l>
             <l xml:id="ftln-1888" n="5.1.110">Love, therefore, and tongue-tied simplicity </l>
             <l xml:id="ftln-1889" n="5.1.111">In least speak most, to my capacity. </l>
-            <stage xml:id="stg-1889.1"
-                         n="SD 5.1.111.1"
-                         type="entrance"
-                         who="#Philostrate_MND">Enter Philostrate. </stage>
+            <stage xml:id="stg-1889.1" n="SD 5.1.111.1" type="entrance" who="#Philostrate_MND">Enter Philostrate. </stage>
           </sp>
           <sp xml:id="sp-1890" who="#Philostrate_MND">
             <speaker xml:id="spk-1890">PHILOSTRATE </speaker>
@@ -4007,10 +3657,7 @@
             <speaker xml:id="spk-1891">THESEUS </speaker>
             <l xml:id="ftln-1891" n="5.1.113" ana="#short">Let him approach. </l>
           </sp>
-          <stage xml:id="stg-1891.1"
-                      n="SD 5.1.113.1"
-                      type="entrance"
-                      who="#Quince_MND">Enter the Prologue. </stage>
+          <stage xml:id="stg-1891.1" n="SD 5.1.113.1" type="entrance" who="#Quince_MND">Enter the Prologue. </stage>
           <sp xml:id="sp-1892" who="#Quince_MND">
             <speaker xml:id="spk-1892">PROLOGUE </speaker>
             <lg xml:id="stz-1892" type="quatrain">
@@ -4030,10 +3677,7 @@
               <l xml:id="ftln-1902" n="5.1.124">You shall know all that you are like to know. </l>
             </lg>
           </sp>
-          <stage xml:id="stg-1902.1"
-                      n="SD 5.1.124.1"
-                      type="exit"
-                      who="#Quince_MND">Prologue exits. </stage>
+          <stage xml:id="stg-1902.1" n="SD 5.1.124.1" type="exit" who="#Quince_MND">Prologue exits. </stage>
           <sp xml:id="sp-1903" who="#Theseus_MND">
             <speaker xml:id="spk-1903">THESEUS </speaker>
             <p xml:id="p-1903">
@@ -4054,10 +3698,7 @@
             <p xml:id="p-1910">
               <lb xml:id="ftln-1910" n="5.1.132"/>His speech was like a tangled chain— nothing <lb xml:id="ftln-1911" n="5.1.133"/>impaired, but all disordered. Who is next? </p>
           </sp>
-          <stage xml:id="stg-1911.1"
-                      n="SD 5.1.133.1"
-                      type="entrance"
-                      who="#Bottom_MND #Flute_MND #Snout_MND #Starveling_MND #Snug_MND #Quince_MND">Enter Pyramus ( Bottom), and Thisbe ( Flute), and Wall ( Snout), and Moonshine ( Starveling), and Lion( Snug), and Prologue ( Quince). </stage>
+          <stage xml:id="stg-1911.1" n="SD 5.1.133.1" type="entrance" who="#Bottom_MND #Flute_MND #Snout_MND #Starveling_MND #Snug_MND #Quince_MND">Enter Pyramus ( Bottom), and Thisbe ( Flute), and Wall ( Snout), and Moonshine ( Starveling), and Lion( Snug), and Prologue ( Quince). </stage>
           <sp xml:id="sp-1912" who="#Quince_MND">
             <speaker xml:id="spk-1912">QUINCE </speaker>
             <stage xml:id="stg-1912.0" n="SD 5.1.134.0" type="modifier">, as Prologue </stage>
@@ -4111,10 +3752,7 @@
             <p xml:id="p-1940">
               <lb xml:id="ftln-1940" n="5.1.162"/>No wonder, my lord. One lion may when <lb xml:id="ftln-1941" n="5.1.163"/>many asses do. </p>
           </sp>
-          <stage xml:id="stg-1941.1"
-                      n="SD 5.1.163.1"
-                      type="exit"
-                      who="#Snug_MND #Flute_MND #Starveling_MND #Quince_MND">Lion, Thisbe, Moonshine, and Prologue exit. </stage>
+          <stage xml:id="stg-1941.1" n="SD 5.1.163.1" type="exit" who="#Snug_MND #Flute_MND #Starveling_MND #Quince_MND">Lion, Thisbe, Moonshine, and Prologue exit. </stage>
           <sp xml:id="sp-1942" who="#Snout_MND">
             <speaker xml:id="spk-1942">SNOUT </speaker>
             <stage xml:id="stg-1942.0" n="SD 5.1.164.0" type="modifier">, as Wall </stage>
@@ -4176,10 +3814,7 @@
             <p xml:id="p-1974">
               <lb xml:id="ftln-1974" n="5.1.196"/>No, in truth, sir, he should not. “ Deceiving <lb xml:id="ftln-1975" n="5.1.197"/>me” is Thisbe’s cue. She is to enter now, and I am <lb xml:id="ftln-1976" n="5.1.198"/>to spy her through the wall. You shall see it will fall <lb xml:id="ftln-1977" n="5.1.199"/>pat as I told you. Yonder she comes. </p>
           </sp>
-          <stage xml:id="stg-1977.1"
-                      n="SD 5.1.199.1"
-                      type="entrance"
-                      who="#Flute_MND">Enter Thisbe ( Flute). </stage>
+          <stage xml:id="stg-1977.1" n="SD 5.1.199.1" type="entrance" who="#Flute_MND">Enter Thisbe ( Flute). </stage>
           <sp xml:id="sp-1978" who="#Flute_MND">
             <speaker xml:id="spk-1978">FLUTE </speaker>
             <stage xml:id="stg-1978.0" n="SD 5.1.200.0" type="modifier">, as Thisbe </stage>
@@ -4265,10 +3900,7 @@
               <l xml:id="ftln-1994" n="5.1.216">’Tide life, ’tide death, I come without delay. </l>
             </lg>
           </sp>
-          <stage xml:id="stg-1994.1"
-                      n="SD 5.1.216.1"
-                      type="exit"
-                      who="#Bottom_MND #Flute_MND">Bottom and Flute exit. </stage>
+          <stage xml:id="stg-1994.1" n="SD 5.1.216.1" type="exit" who="#Bottom_MND #Flute_MND">Bottom and Flute exit. </stage>
           <sp xml:id="sp-1995" who="#Snout_MND">
             <speaker xml:id="spk-1995">SNOUT </speaker>
             <stage xml:id="stg-1995.0" n="SD 5.1.217.0" type="modifier">, as Wall </stage>
@@ -4308,10 +3940,7 @@
             <p xml:id="p-2007">
               <lb xml:id="ftln-2007" n="5.1.229"/>If we imagine no worse of them than they of <lb xml:id="ftln-2008" n="5.1.230"/>themselves, they may pass for excellent men. Here <lb xml:id="ftln-2009" n="5.1.231"/>come two noble beasts in, a man and a lion. </p>
           </sp>
-          <stage xml:id="stg-2009.1"
-                      n="SD 5.1.231.1"
-                      type="entrance"
-                      who="#Snug_MND #Starveling_MND">Enter Lion ( Snug) and Moonshine ( Starveling). </stage>
+          <stage xml:id="stg-2009.1" n="SD 5.1.231.1" type="entrance" who="#Snug_MND #Starveling_MND">Enter Lion ( Snug) and Moonshine ( Starveling). </stage>
           <sp xml:id="sp-2010" who="#Snug_MND">
             <speaker xml:id="spk-2010">SNUG </speaker>
             <stage xml:id="stg-2010.0" n="SD 5.1.232.0" type="modifier">, as Lion </stage>
@@ -4419,10 +4048,7 @@
             <p xml:id="p-2053">
               <lb xml:id="ftln-2053" n="5.1.275"/>Why, all these should be in the lanthorn, <lb xml:id="ftln-2054" n="5.1.276"/>for all these are in the moon. But silence. Here <lb xml:id="ftln-2055" n="5.1.277"/>comes Thisbe. </p>
           </sp>
-          <stage xml:id="stg-2055.1"
-                      n="SD 5.1.277.1"
-                      type="entrance"
-                      who="#Flute_MND">Enter Thisbe ( Flute). </stage>
+          <stage xml:id="stg-2055.1" n="SD 5.1.277.1" type="entrance" who="#Flute_MND">Enter Thisbe ( Flute). </stage>
           <sp xml:id="sp-2056" who="#Flute_MND">
             <speaker xml:id="spk-2056">FLUTE </speaker>
             <stage xml:id="stg-2056.0" n="SD 5.1.278.0" type="modifier">, as Thisbe </stage>
@@ -4435,14 +4061,8 @@
               <lb xml:id="ftln-2057" n="5.1.279"/>O! </p>
           </sp>
           <stage xml:id="stg-2057.1" n="SD 5.1.279.1" type="mixed">
-            <stage xml:id="stg-2057.1a"
-                         n="SD 5.1.279.1"
-                         type="business"
-                         who="#Snug_MND">The Lion roars. </stage>
-            <stage xml:id="stg-2057.1b"
-                         n="SD 5.1.279.1"
-                         type="exit"
-                         who="#Flute_MND">Thisbe runs off, dropping her mantle. </stage>
+            <stage xml:id="stg-2057.1a" n="SD 5.1.279.1" type="business" who="#Snug_MND">The Lion roars. </stage>
+            <stage xml:id="stg-2057.1b" n="SD 5.1.279.1" type="exit" who="#Flute_MND">Thisbe runs off, dropping her mantle. </stage>
           </stage>
           <sp xml:id="sp-2058" who="#Demetrius_MND">
             <speaker xml:id="spk-2058">DEMETRIUS </speaker>
@@ -4459,28 +4079,19 @@
             <p xml:id="p-2060">
               <lb xml:id="ftln-2060" n="5.1.282"/>Well shone, Moon. Truly, the Moon shines <lb xml:id="ftln-2061" n="5.1.283"/>with a good grace. </p>
           </sp>
-          <stage xml:id="stg-2061.1"
-                      n="SD 5.1.283.1"
-                      type="business"
-                      who="#Snug_MND">Lion worries the mantle. </stage>
+          <stage xml:id="stg-2061.1" n="SD 5.1.283.1" type="business" who="#Snug_MND">Lion worries the mantle. </stage>
           <sp xml:id="sp-2062" who="#Theseus_MND">
             <speaker xml:id="spk-2062">THESEUS </speaker>
             <p xml:id="p-2062">
               <lb xml:id="ftln-2062" n="5.1.284"/>Well moused, Lion. </p>
           </sp>
-          <stage xml:id="stg-2062.1"
-                      n="SD 5.1.284.1"
-                      type="entrance"
-                      who="#Bottom_MND">Enter Pyramus ( Bottom). </stage>
+          <stage xml:id="stg-2062.1" n="SD 5.1.284.1" type="entrance" who="#Bottom_MND">Enter Pyramus ( Bottom). </stage>
           <sp xml:id="sp-2063" who="#Demetrius_MND">
             <speaker xml:id="spk-2063">DEMETRIUS </speaker>
             <p xml:id="p-2063">
               <lb xml:id="ftln-2063" n="5.1.285"/>And then came Pyramus. </p>
           </sp>
-          <stage xml:id="stg-2063.1"
-                      n="SD 5.1.285.1"
-                      type="exit"
-                      who="#Snug_MND">Lion exits. </stage>
+          <stage xml:id="stg-2063.1" n="SD 5.1.285.1" type="exit" who="#Snug_MND">Lion exits. </stage>
           <sp xml:id="sp-2064" who="#Lysander_MND">
             <speaker xml:id="spk-2064">LYSANDER </speaker>
             <p xml:id="p-2064">
@@ -4536,10 +4147,7 @@
               <l xml:id="ftln-2090" n="5.1.312">Out, sword, and wound </l>
               <l xml:id="ftln-2091" n="5.1.313">The pap of Pyramus; </l>
               <l xml:id="ftln-2092" n="5.1.314">Ay, that left pap, </l>
-              <l xml:id="ftln-2093" n="5.1.315">Where heart doth hop. <stage xml:id="stg-2093"
-                               n="SD 5.1.315"
-                               type="business"
-                               who="#Bottom_MND">Pyramus stabs himself. </stage>
+              <l xml:id="ftln-2093" n="5.1.315">Where heart doth hop. <stage xml:id="stg-2093" n="SD 5.1.315" type="business" who="#Bottom_MND">Pyramus stabs himself. </stage>
               </l>
               <l xml:id="ftln-2094" n="5.1.316">Thus die I, thus, thus, thus. </l>
             </lg>
@@ -4548,17 +4156,11 @@
               <l xml:id="ftln-2096" n="5.1.318">Now am I fled; </l>
               <l xml:id="ftln-2097" n="5.1.319">My soul is in the sky. </l>
               <l xml:id="ftln-2098" n="5.1.320">Tongue, lose thy light! </l>
-              <l xml:id="ftln-2099" n="5.1.321">Moon, take thy flight! <stage xml:id="stg-2099"
-                               n="SD 5.1.321"
-                               type="exit"
-                               who="#Starveling_MND">Moonshine exits. </stage>
+              <l xml:id="ftln-2099" n="5.1.321">Moon, take thy flight! <stage xml:id="stg-2099" n="SD 5.1.321" type="exit" who="#Starveling_MND">Moonshine exits. </stage>
               </l>
               <l xml:id="ftln-2100" n="5.1.322">Now die, die, die, die, die. </l>
             </lg>
-            <stage xml:id="stg-2100"
-                         n="SD 5.1.322"
-                         type="business"
-                         who="#Bottom_MND">Pyramus falls. </stage>
+            <stage xml:id="stg-2100" n="SD 5.1.322" type="business" who="#Bottom_MND">Pyramus falls. </stage>
           </sp>
           <sp xml:id="sp-2101" who="#Demetrius_MND">
             <speaker xml:id="spk-2101">DEMETRIUS </speaker>
@@ -4584,10 +4186,7 @@
             <speaker xml:id="spk-2109">THESEUS </speaker>
             <p xml:id="p-2109">
               <lb xml:id="ftln-2109" n="5.1.331"/>She will find him by starlight. </p>
-            <stage xml:id="stg-2109.1"
-                         n="SD 5.1.331.1"
-                         type="entrance"
-                         who="#Flute_MND">Enter Thisbe ( Flute). </stage>
+            <stage xml:id="stg-2109.1" n="SD 5.1.331.1" type="entrance" who="#Flute_MND">Enter Thisbe ( Flute). </stage>
             <p xml:id="p-2110">
               <lb xml:id="ftln-2110" n="5.1.332"/>Here she comes, and her passion ends the play. </p>
           </sp>
@@ -4641,17 +4240,11 @@
             <lg xml:id="stz-2137" type="AAbCCb">
               <l xml:id="ftln-2137" n="5.1.359">Tongue, not a word! </l>
               <l xml:id="ftln-2138" n="5.1.360">Come, trusty sword, </l>
-              <l xml:id="ftln-2139" n="5.1.361">Come, blade, my breast imbrue! <stage xml:id="stg-2139.1"
-                               n="SD 5.1.361.1"
-                               type="business"
-                               who="#Flute_MND">Thisbe stabs herself. </stage>
+              <l xml:id="ftln-2139" n="5.1.361">Come, blade, my breast imbrue! <stage xml:id="stg-2139.1" n="SD 5.1.361.1" type="business" who="#Flute_MND">Thisbe stabs herself. </stage>
               </l>
               <l xml:id="ftln-2140" n="5.1.362">And farewell, friends. </l>
               <l xml:id="ftln-2141" n="5.1.363">Thus Thisbe ends. </l>
-              <l xml:id="ftln-2142" n="5.1.364">Adieu, adieu, adieu. <stage xml:id="stg-2142"
-                               n="SD 5.1.364"
-                               type="business"
-                               who="#Flute_MND">Thisbe falls. </stage>
+              <l xml:id="ftln-2142" n="5.1.364">Adieu, adieu, adieu. <stage xml:id="stg-2142" n="SD 5.1.364" type="business" who="#Flute_MND">Thisbe falls. </stage>
               </l>
             </lg>
           </sp>
@@ -4665,10 +4258,7 @@
             <p xml:id="p-2145">
               <lb xml:id="ftln-2145" n="5.1.367"/>Ay, and Wall too. </p>
           </sp>
-          <stage xml:id="stg-2145.1"
-                      n="SD 5.1.367.1"
-                      type="business"
-                      who="#Bottom_MND #Flute_MND">Bottom and Flute arise. </stage>
+          <stage xml:id="stg-2145.1" n="SD 5.1.367.1" type="business" who="#Bottom_MND #Flute_MND">Bottom and Flute arise. </stage>
           <sp xml:id="sp-2146" who="#Bottom_MND">
             <speaker xml:id="spk-2146">BOTTOM </speaker>
             <p xml:id="p-2146">
@@ -4678,10 +4268,7 @@
             <speaker xml:id="spk-2150">THESEUS </speaker>
             <p xml:id="p-2150">
               <lb xml:id="ftln-2150" n="5.1.372"/>No epilogue, I pray you. For your play needs <lb xml:id="ftln-2151" n="5.1.373"/>no excuse. Never excuse. For when the players are <lb xml:id="ftln-2152" n="5.1.374"/>all dead, there need none to be blamed. Marry, if <lb xml:id="ftln-2153" n="5.1.375"/>he that writ it had played Pyramus and hanged <lb xml:id="ftln-2154" n="5.1.376"/>himself in Thisbe’s garter, it would have been a fine <lb xml:id="ftln-2155" n="5.1.377"/>tragedy; and so it is, truly, and very notably discharged. <lb xml:id="ftln-2156" n="5.1.378"/>But, come, your Bergomask. Let your <lb xml:id="ftln-2157" n="5.1.379"/>epilogue alone. </p>
-            <stage xml:id="stg-2157.1"
-                         n="SD 5.1.379.1"
-                         type="exit"
-                         who="#Bottom_MND #Flute_MND">Dance, and the players exit. </stage>
+            <stage xml:id="stg-2157.1" n="SD 5.1.379.1" type="exit" who="#Bottom_MND #Flute_MND">Dance, and the players exit. </stage>
             <l xml:id="ftln-2158" n="5.1.380">The iron tongue of midnight hath told twelve. </l>
             <l xml:id="ftln-2159" n="5.1.381">Lovers, to bed! ’Tis almost fairy time. </l>
             <l xml:id="ftln-2160" n="5.1.382">I fear we shall outsleep the coming morn </l>
@@ -4690,15 +4277,9 @@
             <l xml:id="ftln-2163" n="5.1.385">The heavy gait of night. Sweet friends, to bed. </l>
             <l xml:id="ftln-2164" n="5.1.386">A fortnight hold we this solemnity </l>
             <l xml:id="ftln-2165" n="5.1.387">In nightly revels and new jollity. </l>
-            <stage xml:id="stg-2165.1"
-                         n="SD 5.1.387.1"
-                         type="exit"
-                         who="#Theseus_MND #Hippolyta_MND #Philostrate_MND #Demetrius_MND #Helena_MND #Lysander_MND #Hermia_MND #ATTENDANTS_MND">They exit. </stage>
+            <stage xml:id="stg-2165.1" n="SD 5.1.387.1" type="exit" who="#Theseus_MND #Hippolyta_MND #Philostrate_MND #Demetrius_MND #Helena_MND #Lysander_MND #Hermia_MND #ATTENDANTS_MND">They exit. </stage>
           </sp>
-          <stage xml:id="stg-2165.2"
-                      n="SD 5.1.387.2"
-                      type="entrance"
-                      who="#RobinGoodfellow_MND">Enter Robin Goodfellow. </stage>
+          <stage xml:id="stg-2165.2" n="SD 5.1.387.2" type="entrance" who="#RobinGoodfellow_MND">Enter Robin Goodfellow. </stage>
           <sp xml:id="sp-2166" who="#RobinGoodfellow_MND">
             <speaker xml:id="spk-2166">ROBIN </speaker>
             <lg xml:id="stz-2166" type="quatrain">
@@ -4734,10 +4315,7 @@
               <l xml:id="ftln-2185" n="5.1.407">To sweep the dust behind the door. </l>
             </lg>
           </sp>
-          <stage xml:id="stg-2185.1"
-                      n="SD 5.1.407.1"
-                      type="entrance"
-                      who="#Oberon_MND #Titania_MND #FAIRIES_MND">Enter Oberon and Titania, King and Queen of Fairies, with all their train. </stage>
+          <stage xml:id="stg-2185.1" n="SD 5.1.407.1" type="entrance" who="#Oberon_MND #Titania_MND #FAIRIES_MND">Enter Oberon and Titania, King and Queen of Fairies, with all their train. </stage>
           <sp xml:id="sp-2186" who="#Oberon_MND">
             <speaker xml:id="spk-2186">OBERON </speaker>
             <lg xml:id="stz-2186" type="quatrain">
@@ -4762,10 +4340,7 @@
               <l xml:id="ftln-2195" n="5.1.417">Will we sing and bless this place. </l>
             </lg>
           </sp>
-          <stage xml:id="stg-2195.1"
-                      n="SD 5.1.417.1"
-                      type="business"
-                      who="#Oberon_MND #Titania_MND #FAIRIES_MND">Oberon leads the Fairies in song and dance. </stage>
+          <stage xml:id="stg-2195.1" n="SD 5.1.417.1" type="business" who="#Oberon_MND #Titania_MND #FAIRIES_MND">Oberon leads the Fairies in song and dance. </stage>
           <sp xml:id="sp-2196" who="#Oberon_MND">
             <speaker xml:id="spk-2196">OBERON </speaker>
             <lg xml:id="stz-2196" type="couplet">
@@ -4813,10 +4388,7 @@
               <l xml:id="ftln-2217" n="5.1.439">Meet me all by break of day. </l>
             </lg>
           </sp>
-          <stage xml:id="stg-2217.1"
-                      n="SD 5.1.439.1"
-                      type="exit"
-                      who="#Oberon_MND #Titania_MND #FAIRIES_MND">All but Robin exit. </stage>
+          <stage xml:id="stg-2217.1" n="SD 5.1.439.1" type="exit" who="#Oberon_MND #Titania_MND #FAIRIES_MND">All but Robin exit. </stage>
           <sp xml:id="sp-2218" who="#RobinGoodfellow_MND">
             <speaker xml:id="spk-2218">ROBIN </speaker>
             <lg xml:id="stz-2218" type="couplet">
@@ -4852,10 +4424,7 @@
               <l xml:id="ftln-2233" n="5.1.455">And Robin shall restore amends. </l>
             </lg>
           </sp>
-          <stage xml:id="stg-2233.1"
-                      n="SD 5.1.455.1"
-                      type="exit"
-                      who="#RobinGoodfellow_MND">He exits. </stage>
+          <stage xml:id="stg-2233.1" n="SD 5.1.455.1" type="exit" who="#RobinGoodfellow_MND">He exits. </stage>
         </div>
       </div>
     </body>

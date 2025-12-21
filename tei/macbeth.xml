@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shake000031">
   <teiHeader>
     <fileDesc>
@@ -114,32 +115,22 @@
           <person xml:id="Malcolm_Mac" ana="http://www.wikidata.org/entity/Q16203840">
             <persName>Malcolm</persName>
           </person>
-          <personGrp xml:id="SOLDIERS.Captain_Mac"
-                          sex="MALE"
-                          ana="http://www.wikidata.org/entity/Q64145671">
+          <personGrp xml:id="SOLDIERS.Captain_Mac" sex="MALE" ana="http://www.wikidata.org/entity/Q64145671">
             <name>SOLDIERS.Captain_Mac</name>
           </personGrp>
-          <person xml:id="Lennox_Mac"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q64145662">
+          <person xml:id="Lennox_Mac" sex="MALE" ana="http://www.wikidata.org/entity/Q64145662">
             <persName>Lennox</persName>
           </person>
-          <person xml:id="Ross_Mac"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q64145659">
+          <person xml:id="Ross_Mac" sex="MALE" ana="http://www.wikidata.org/entity/Q64145659">
             <persName>Ross</persName>
           </person>
           <person xml:id="Macbeth_Mac" ana="http://www.wikidata.org/entity/Q10322723">
             <persName>Macbeth</persName>
           </person>
-          <person xml:id="Banquo_Mac"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q806945">
+          <person xml:id="Banquo_Mac" sex="MALE" ana="http://www.wikidata.org/entity/Q806945">
             <persName>Banquo</persName>
           </person>
-          <person xml:id="Angus_Mac"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q64145663">
+          <person xml:id="Angus_Mac" sex="MALE" ana="http://www.wikidata.org/entity/Q64145663">
             <persName>Angus</persName>
           </person>
           <person xml:id="LadyMacbeth_Mac" ana="http://www.wikidata.org/entity/Q2454065">
@@ -148,19 +139,13 @@
           <personGrp xml:id="MESSENGERS.1_Mac" sex="UNKNOWN">
             <name>Three Messengers, Three Servants, a Lord, a Soldier</name>
           </personGrp>
-          <person xml:id="Fleance_Mac"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q3429667">
+          <person xml:id="Fleance_Mac" sex="MALE" ana="http://www.wikidata.org/entity/Q3429667">
             <persName>Fleance</persName>
           </person>
-          <person xml:id="Porter_Mac"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q64145679">
+          <person xml:id="Porter_Mac" sex="MALE" ana="http://www.wikidata.org/entity/Q64145679">
             <persName>Porter_Mac</persName>
           </person>
-          <person xml:id="Macduff_Mac"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q3842048">
+          <person xml:id="Macduff_Mac" sex="MALE" ana="http://www.wikidata.org/entity/Q3842048">
             <persName>Macduff</persName>
           </person>
           <person xml:id="Donalbain_Mac" ana="http://www.wikidata.org/entity/Q5293903">
@@ -172,30 +157,22 @@
           <personGrp xml:id="SERVANTS.X.2_Mac" sex="UNKNOWN">
             <name>Three Messengers, Three Servants, a Lord, a Soldier</name>
           </personGrp>
-          <personGrp xml:id="MURDERERS.1_Mac"
-                          sex="MALE"
-                          ana="http://www.wikidata.org/entity/Q64145673">
+          <personGrp xml:id="MURDERERS.1_Mac" sex="MALE" ana="http://www.wikidata.org/entity/Q64145673">
             <name>MURDERERS.1_Mac</name>
           </personGrp>
-          <personGrp xml:id="MURDERERS.2_Mac"
-                          sex="MALE"
-                          ana="http://www.wikidata.org/entity/Q64145675">
+          <personGrp xml:id="MURDERERS.2_Mac" sex="MALE" ana="http://www.wikidata.org/entity/Q64145675">
             <name>MURDERERS.2_Mac</name>
           </personGrp>
           <personGrp xml:id="SERVANTS.X.3_Mac" sex="UNKNOWN">
             <name>Three Messengers, Three Servants, a Lord, a Soldier</name>
           </personGrp>
-          <personGrp xml:id="MURDERERS.3_Mac"
-                          sex="MALE"
-                          ana="http://www.wikidata.org/entity/Q64145677">
+          <personGrp xml:id="MURDERERS.3_Mac" sex="MALE" ana="http://www.wikidata.org/entity/Q64145677">
             <name>MURDERERS.3_Mac</name>
           </personGrp>
           <personGrp xml:id="ATTENDANTS_Mac" sex="UNKNOWN">
             <name>Attendants, a Sewer, Servants, Lords, Thanes, Soldiers (all nonspeaking)</name>
           </personGrp>
-          <person xml:id="Hecate_Mac"
-                       sex="FEMALE"
-                       ana="http://www.wikidata.org/entity/Q64145668">
+          <person xml:id="Hecate_Mac" sex="FEMALE" ana="http://www.wikidata.org/entity/Q64145668">
             <persName>Hecate</persName>
           </person>
           <personGrp xml:id="Lord_Mac" sex="UNKNOWN">
@@ -210,14 +187,10 @@
           <personGrp xml:id="SPIRITS.3_Mac" sex="UNKNOWN">
             <name>SPIRITS.3_Mac</name>
           </personGrp>
-          <person xml:id="LadyMacduff_Mac"
-                       sex="FEMALE"
-                       ana="http://www.wikidata.org/entity/Q6470383">
+          <person xml:id="LadyMacduff_Mac" sex="FEMALE" ana="http://www.wikidata.org/entity/Q6470383">
             <persName>Lady Macduff</persName>
           </person>
-          <person xml:id="MacduffsSon_Mac"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q6723008">
+          <person xml:id="MacduffsSon_Mac" sex="MALE" ana="http://www.wikidata.org/entity/Q6723008">
             <persName>MacduffsSon_Mac</persName>
           </person>
           <personGrp xml:id="MESSENGERS.2_Mac" sex="UNKNOWN">
@@ -226,9 +199,7 @@
           <personGrp xml:id="MURDERERS.0.1_Mac" sex="UNKNOWN">
             <name>MURDERERS.0.1_Mac</name>
           </personGrp>
-          <person xml:id="Doctor1_Mac"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q64145681">
+          <person xml:id="Doctor1_Mac" sex="MALE" ana="http://www.wikidata.org/entity/Q64145681">
             <persName>Doctor1_Mac</persName>
           </person>
           <person xml:id="Doctor2_Mac" ana="http://www.wikidata.org/entity/Q64145683">
@@ -237,27 +208,19 @@
           <person xml:id="Gentlewoman_Mac" ana="http://www.wikidata.org/entity/Q64145684">
             <persName>both attending upon Lady Macbeth</persName>
           </person>
-          <person xml:id="Menteith_Mac"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q64145664">
+          <person xml:id="Menteith_Mac" sex="MALE" ana="http://www.wikidata.org/entity/Q64145664">
             <persName>Menteith</persName>
           </person>
-          <person xml:id="Caithness_Mac"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q64145665">
+          <person xml:id="Caithness_Mac" sex="MALE" ana="http://www.wikidata.org/entity/Q64145665">
             <persName>Caithness</persName>
           </person>
           <personGrp xml:id="SERVANTS.X.4_Mac" sex="UNKNOWN">
             <name>Three Messengers, Three Servants, a Lord, a Soldier</name>
           </personGrp>
-          <person xml:id="Seyton_Mac"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q64145666">
+          <person xml:id="Seyton_Mac" sex="MALE" ana="http://www.wikidata.org/entity/Q64145666">
             <persName>Seyton</persName>
           </person>
-          <person xml:id="Siward_Mac"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q68366">
+          <person xml:id="Siward_Mac" sex="MALE" ana="http://www.wikidata.org/entity/Q68366">
             <persName>Siward</persName>
           </person>
           <personGrp xml:id="SOLDIERS.MALCOLM.0.1_Mac" sex="UNKNOWN">
@@ -266,9 +229,7 @@
           <personGrp xml:id="MESSENGERS.3_Mac" sex="UNKNOWN">
             <name>Three Messengers, Three Servants, a Lord, a Soldier</name>
           </personGrp>
-          <person xml:id="YoungSiward_Mac"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q16205679">
+          <person xml:id="YoungSiward_Mac" sex="MALE" ana="http://www.wikidata.org/entity/Q16205679">
             <persName>Young Siward</persName>
           </person>
           <personGrp xml:id="SOLDIERS.MALCOLM_Mac" sex="UNKNOWN">
@@ -288,9 +249,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/shake000031"
-                   passive="http://www.wikidata.org/entity/Q130283"/>
+      <relation name="wikidata" active="https://dracor.org/entity/shake000031" passive="http://www.wikidata.org/entity/Q130283"/>
     </listRelation>
   </standOff>
   <text>
@@ -491,10 +450,7 @@
         <head>ACT 1 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-0000"
-                      n="SD 1.1.0"
-                      type="entrance"
-                      who="#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac">
+          <stage xml:id="stg-0000" n="SD 1.1.0" type="entrance" who="#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac">
             <stage xml:id="snd-0000a" n="SD 1.1.0" type="sound" ana="thunder">Thunder </stage> and Lightning. Enter three Witches. </stage>
           <sp xml:id="sp-0001" who="#WITCHES.1_Mac">
             <speaker xml:id="spk-0001">FIRST WITCH </speaker>
@@ -542,17 +498,11 @@
             <l xml:id="ftln-0012" n="1.1.12">Fair is foul, and foul is fair; </l>
             <l xml:id="ftln-0013" n="1.1.13">Hover through the fog and filthy air. </l>
           </sp>
-          <stage xml:id="stg-0013.1"
-                      n="SD 1.1.13.1"
-                      type="exit"
-                      who="#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac">They exit. </stage>
+          <stage xml:id="stg-0013.1" n="SD 1.1.13.1" type="exit" who="#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac">They exit. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-0013.2"
-                      n="SD 1.2.0"
-                      type="entrance"
-                      who="#Duncan_Mac #Malcolm_Mac #Donalbain_Mac #Lennox_Mac #ATTENDANTS_Mac #SOLDIERS.Captain_Mac">
+          <stage xml:id="stg-0013.2" n="SD 1.2.0" type="entrance" who="#Duncan_Mac #Malcolm_Mac #Donalbain_Mac #Lennox_Mac #ATTENDANTS_Mac #SOLDIERS.Captain_Mac">
             <stage xml:id="snd-0013.2" n="SD 1.2.0" type="sound" ana="alarum">Alarum within. </stage> Enter King Duncan, Malcolm, Donalbain, Lennox, with Attendants, meeting a bleeding Captain. </stage>
           <sp xml:id="sp-0014" who="#Duncan_Mac">
             <speaker xml:id="spk-0014">DUNCAN </speaker>
@@ -623,14 +573,8 @@
             <speaker xml:id="spk-0060">DUNCAN </speaker>
             <l xml:id="ftln-0060" n="1.2.47">So well thy words become thee as thy wounds: </l>
             <l xml:id="ftln-0061" n="1.2.48">They smack of honor both.— Go, get him surgeons. </l>
-            <stage xml:id="stg-0061.1"
-                         n="SD 1.2.48.1"
-                         type="exit"
-                         who="#SOLDIERS.Captain_Mac #ATTENDANTS.0_Mac">The Captain is led off by Attendants. </stage>
-            <stage xml:id="stg-0061.2"
-                         n="SD 1.2.48.2"
-                         type="entrance"
-                         who="#Ross_Mac #Angus_Mac">Enter Ross and Angus. </stage>
+            <stage xml:id="stg-0061.1" n="SD 1.2.48.1" type="exit" who="#SOLDIERS.Captain_Mac #ATTENDANTS.0_Mac">The Captain is led off by Attendants. </stage>
+            <stage xml:id="stg-0061.2" n="SD 1.2.48.2" type="entrance" who="#Ross_Mac #Angus_Mac">Enter Ross and Angus. </stage>
             <l xml:id="ftln-0062" n="1.2.49" part="I">Who comes here? </l>
           </sp>
           <sp xml:id="sp-0063" who="#Malcolm_Mac">
@@ -690,17 +634,11 @@
             <speaker xml:id="spk-0091">DUNCAN </speaker>
             <l xml:id="ftln-0091" n="1.2.78">What he hath lost, noble Macbeth hath won. </l>
           </sp>
-          <stage xml:id="stg-0091.1"
-                      n="SD 1.2.78.1"
-                      type="exit"
-                      who="#Duncan_Mac #Malcolm_Mac #Lennox_Mac #Donalbain_Mac #Ross_Mac #Angus_Mac #ATTENDANTS_Mac">They exit. </stage>
+          <stage xml:id="stg-0091.1" n="SD 1.2.78.1" type="exit" who="#Duncan_Mac #Malcolm_Mac #Lennox_Mac #Donalbain_Mac #Ross_Mac #Angus_Mac #ATTENDANTS_Mac">They exit. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-0091.2"
-                      n="SD 1.3.0"
-                      type="entrance"
-                      who="#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac">
+          <stage xml:id="stg-0091.2" n="SD 1.3.0" type="entrance" who="#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac">
             <stage xml:id="snd-0091.2" n="SD 1.3.0" type="sound" ana="thunder">Thunder. </stage> Enter the three Witches. </stage>
           <sp xml:id="sp-0092" who="#WITCHES.1_Mac">
             <speaker xml:id="spk-0092">FIRST WITCH </speaker>
@@ -772,10 +710,7 @@
           </sp>
           <sp xml:id="sp-0124" who="#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac">
             <speaker xml:id="spk-0124">ALL </speaker>
-            <stage xml:id="stg-0124.0"
-                         n="SD 1.3.33.0"
-                         type="business"
-                         who="#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac">, dancing in a circle </stage>
+            <stage xml:id="stg-0124.0" n="SD 1.3.33.0" type="business" who="#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac">, dancing in a circle </stage>
             <l xml:id="ftln-0124" n="1.3.33">The Weïrd Sisters, hand in hand, </l>
             <l xml:id="ftln-0125" n="1.3.34">Posters of the sea and land, </l>
             <l xml:id="ftln-0126" n="1.3.35">Thus do go about, about, </l>
@@ -783,10 +718,7 @@
             <l xml:id="ftln-0128" n="1.3.37">And thrice again, to make up nine. </l>
             <l xml:id="ftln-0129" n="1.3.38">Peace, the charm’s wound up. </l>
           </sp>
-          <stage xml:id="stg-0129.1"
-                      n="SD 1.3.38.1"
-                      type="entrance"
-                      who="#Macbeth_Mac #Banquo_Mac">Enter Macbeth and Banquo. </stage>
+          <stage xml:id="stg-0129.1" n="SD 1.3.38.1" type="entrance" who="#Macbeth_Mac #Banquo_Mac">Enter Macbeth and Banquo. </stage>
           <sp xml:id="sp-0130" who="#Macbeth_Mac">
             <speaker xml:id="spk-0130">MACBETH </speaker>
             <l xml:id="ftln-0130" n="1.3.39">So foul and fair a day I have not seen. </l>
@@ -877,10 +809,7 @@
             <l xml:id="ftln-0171" n="1.3.80">Upon this blasted heath you stop our way </l>
             <l xml:id="ftln-0172" n="1.3.81">With such prophetic greeting. Speak, I charge you. </l>
           </sp>
-          <stage xml:id="stg-0172.1"
-                      n="SD 1.3.81.1"
-                      type="exit"
-                      who="#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac">Witches vanish. </stage>
+          <stage xml:id="stg-0172.1" n="SD 1.3.81.1" type="exit" who="#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac">Witches vanish. </stage>
           <sp xml:id="sp-0173" who="#Banquo_Mac">
             <speaker xml:id="spk-0173">BANQUO </speaker>
             <l xml:id="ftln-0173" n="1.3.82">The earth hath bubbles, as the water has, </l>
@@ -913,10 +842,7 @@
             <speaker xml:id="spk-0183">BANQUO </speaker>
             <l xml:id="ftln-0183" n="1.3.92">To th’ selfsame tune and words.— Who’s here? </l>
           </sp>
-          <stage xml:id="stg-0183.1"
-                      n="SD 1.3.92.1"
-                      type="entrance"
-                      who="#Ross_Mac #Angus_Mac">Enter Ross and Angus. </stage>
+          <stage xml:id="stg-0183.1" n="SD 1.3.92.1" type="entrance" who="#Ross_Mac #Angus_Mac">Enter Ross and Angus. </stage>
           <sp xml:id="sp-0184" who="#Ross_Mac">
             <speaker xml:id="spk-0184">ROSS </speaker>
             <l xml:id="ftln-0184" n="1.3.93">The King hath happily received, Macbeth, </l>
@@ -986,10 +912,7 @@
             <l xml:id="ftln-0228" n="1.3.137">Win us with honest trifles, to betray ’s </l>
             <l xml:id="ftln-0229" n="1.3.138" ana="#short">In deepest consequence.— </l>
             <l xml:id="ftln-0230" n="1.3.139" part="I">Cousins, a word, I pray you. </l>
-            <stage xml:id="stg-0230"
-                         n="SD 1.3.139"
-                         type="business"
-                         who="#Banquo_Mac #Angus_Mac #Ross_Mac">They step aside. </stage>
+            <stage xml:id="stg-0230" n="SD 1.3.139" type="business" who="#Banquo_Mac #Angus_Mac #Ross_Mac">They step aside. </stage>
           </sp>
           <sp xml:id="sp-0231" who="#Macbeth_Mac">
             <speaker xml:id="spk-0231">MACBETH </speaker>
@@ -1057,17 +980,11 @@
             <speaker xml:id="spk-0266">MACBETH </speaker>
             <l xml:id="ftln-0266" n="1.3.175" ana="#short">Till then, enough.— Come, friends. </l>
           </sp>
-          <stage xml:id="stg-0266.1"
-                      n="SD 1.3.175.1"
-                      type="exit"
-                      who="#Macbeth_Mac #Banquo_Mac #Ross_Mac #Angus_Mac">They exit. </stage>
+          <stage xml:id="stg-0266.1" n="SD 1.3.175.1" type="exit" who="#Macbeth_Mac #Banquo_Mac #Ross_Mac #Angus_Mac">They exit. </stage>
         </div>
         <div type="scene" n="4">
           <head>Scene 4 </head>
-          <stage xml:id="stg-0266.2b"
-                      n="SD 1.4.0"
-                      type="entrance"
-                      who="#Duncan_Mac #Lennox_Mac #Malcolm_Mac #Donalbain_Mac #ATTENDANTS_Mac">
+          <stage xml:id="stg-0266.2b" n="SD 1.4.0" type="entrance" who="#Duncan_Mac #Lennox_Mac #Malcolm_Mac #Donalbain_Mac #ATTENDANTS_Mac">
             <stage xml:id="snd-0266.2" n="SD 1.4.0" type="sound" ana="flourish">Flourish. </stage> Enter King Duncan, Lennox, Malcolm, Donalbain, and Attendants. </stage>
           <sp xml:id="sp-0267" who="#Duncan_Mac">
             <speaker xml:id="spk-0267">DUNCAN </speaker>
@@ -1093,10 +1010,7 @@
             <l xml:id="ftln-0280" n="1.4.14">To find the mind’s construction in the face. </l>
             <l xml:id="ftln-0281" n="1.4.15">He was a gentleman on whom I built </l>
             <l xml:id="ftln-0282" n="1.4.16" part="I">An absolute trust. </l>
-            <stage xml:id="stg-0282.1"
-                         n="SD 1.4.16.1"
-                         type="entrance"
-                         who="#Macbeth_Mac #Banquo_Mac #Ross_Mac #Angus_Mac">Enter Macbeth, Banquo, Ross, and Angus. </stage>
+            <stage xml:id="stg-0282.1" n="SD 1.4.16.1" type="entrance" who="#Macbeth_Mac #Banquo_Mac #Ross_Mac #Angus_Mac">Enter Macbeth, Banquo, Ross, and Angus. </stage>
             <l xml:id="ftln-0283" n="1.4.17" part="F">O worthiest cousin, </l>
             <l xml:id="ftln-0284" n="1.4.18">The sin of my ingratitude even now </l>
             <l xml:id="ftln-0285" n="1.4.19">Was heavy on me. Thou art so far before </l>
@@ -1164,10 +1078,7 @@
             <l xml:id="ftln-0325" n="1.4.59">The eye wink at the hand, yet let that be </l>
             <l xml:id="ftln-0326" n="1.4.60">Which the eye fears, when it is done, to see. </l>
           </sp>
-          <stage xml:id="stg-0326.1"
-                      n="SD 1.4.60.1"
-                      type="exit"
-                      who="#Macbeth_Mac">He exits. </stage>
+          <stage xml:id="stg-0326.1" n="SD 1.4.60.1" type="exit" who="#Macbeth_Mac">He exits. </stage>
           <sp xml:id="sp-0327" who="#Duncan_Mac">
             <speaker xml:id="spk-0327">DUNCAN </speaker>
             <l xml:id="ftln-0327" n="1.4.61">True, worthy Banquo. He is full so valiant, </l>
@@ -1176,18 +1087,12 @@
             <l xml:id="ftln-0330" n="1.4.64">Whose care is gone before to bid us welcome. </l>
             <l xml:id="ftln-0331" n="1.4.65" ana="#short">It is a peerless kinsman. </l>
           </sp>
-          <stage xml:id="stg-0331.1b"
-                      n="SD 1.4.65.1"
-                      type="exit"
-                      who="#Duncan_Mac #Lennox_Mac #Malcolm_Mac #Donalbain_Mac #ATTENDANTS_Mac #Ross_Mac #Angus_Mac #Banquo_Mac">
+          <stage xml:id="stg-0331.1b" n="SD 1.4.65.1" type="exit" who="#Duncan_Mac #Lennox_Mac #Malcolm_Mac #Donalbain_Mac #ATTENDANTS_Mac #Ross_Mac #Angus_Mac #Banquo_Mac">
             <stage xml:id="snd-0331.1" n="SD 1.4.65.1" type="sound" ana="flourish">Flourish. </stage> They exit. </stage>
         </div>
         <div type="scene" n="5">
           <head>Scene 5 </head>
-          <stage xml:id="stg-0331.2"
-                      n="SD 1.5.0"
-                      type="entrance"
-                      who="#LadyMacbeth_Mac">Enter Macbeth’s Wife, alone, with a letter. </stage>
+          <stage xml:id="stg-0331.2" n="SD 1.5.0" type="entrance" who="#LadyMacbeth_Mac">Enter Macbeth’s Wife, alone, with a letter. </stage>
           <sp xml:id="sp-0332" who="#LadyMacbeth_Mac">
             <speaker xml:id="spk-0332">LADY MACBETH </speaker>
             <stage xml:id="stg-0331" n="SD 1.5.1" type="delivery">, reading the letter </stage>
@@ -1209,10 +1114,7 @@
             <l xml:id="ftln-0362" n="1.5.31">All that impedes thee from the golden round, </l>
             <l xml:id="ftln-0363" n="1.5.32">Which fate and metaphysical aid doth seem </l>
             <l xml:id="ftln-0364" n="1.5.33" part="I">To have thee crowned withal. </l>
-            <stage xml:id="stg-0364.1"
-                         n="SD 1.5.33.1"
-                         type="entrance"
-                         who="#MESSENGERS.1_Mac">Enter Messenger. </stage>
+            <stage xml:id="stg-0364.1" n="SD 1.5.33.1" type="entrance" who="#MESSENGERS.1_Mac">Enter Messenger. </stage>
             <l xml:id="ftln-0365" n="1.5.34" part="F">What is your tidings? </l>
           </sp>
           <sp xml:id="sp-0366" who="#MESSENGERS.1_Mac">
@@ -1236,10 +1138,7 @@
             <speaker xml:id="spk-0374">LADY MACBETH </speaker>
             <l xml:id="ftln-0374" n="1.5.43" part="F">Give him tending. </l>
             <l xml:id="ftln-0375" n="1.5.44" part="I">He brings great news. </l>
-            <stage xml:id="stg-0375"
-                         n="SD 1.5.44"
-                         type="exit"
-                         who="#MESSENGERS.1_Mac">Messenger exits. </stage>
+            <stage xml:id="stg-0375" n="SD 1.5.44" type="exit" who="#MESSENGERS.1_Mac">Messenger exits. </stage>
             <l xml:id="ftln-0376" n="1.5.45" part="F">The raven himself is hoarse </l>
             <l xml:id="ftln-0377" n="1.5.46">That croaks the fatal entrance of Duncan </l>
             <l xml:id="ftln-0378" n="1.5.47">Under my battlements. Come, you spirits </l>
@@ -1257,10 +1156,7 @@
             <l xml:id="ftln-0390" n="1.5.59">That my keen knife see not the wound it makes, </l>
             <l xml:id="ftln-0391" n="1.5.60">Nor heaven peep through the blanket of the dark </l>
             <l xml:id="ftln-0392" n="1.5.61" part="I">To cry “ Hold, hold!” </l>
-            <stage xml:id="stg-0392.1"
-                         n="Sd 1.5.61.1"
-                         type="entrance"
-                         who="#Macbeth_Mac">Enter Macbeth. </stage>
+            <stage xml:id="stg-0392.1" n="Sd 1.5.61.1" type="entrance" who="#Macbeth_Mac">Enter Macbeth. </stage>
             <l xml:id="ftln-0393" n="1.5.62" part="F">Great Glamis, worthy Cawdor, </l>
             <l xml:id="ftln-0394" n="1.5.63">Greater than both by the all-hail hereafter! </l>
             <l xml:id="ftln-0395" n="1.5.64">Thy letters have transported me beyond </l>
@@ -1304,17 +1200,11 @@
             <l xml:id="ftln-0416" n="1.5.85">To alter favor ever is to fear. </l>
             <l xml:id="ftln-0417" n="1.5.86">Leave all the rest to me. </l>
           </sp>
-          <stage xml:id="stg-0417.1"
-                      n="SD 1.5.86.1"
-                      type="exit"
-                      who="#Macbeth_Mac #LadyMacbeth_Mac">They exit. </stage>
+          <stage xml:id="stg-0417.1" n="SD 1.5.86.1" type="exit" who="#Macbeth_Mac #LadyMacbeth_Mac">They exit. </stage>
         </div>
         <div type="scene" n="6">
           <head>Scene 6 </head>
-          <stage xml:id="stg-0417.2"
-                      n="SD 1.6.0"
-                      type="entrance"
-                      who="#Duncan_Mac #Malcolm_Mac #Donalbain_Mac #Banquo_Mac #Lennox_Mac #Macduff_Mac #Ross_Mac #Angus_Mac #ATTENDANTS_Mac">
+          <stage xml:id="stg-0417.2" n="SD 1.6.0" type="entrance" who="#Duncan_Mac #Malcolm_Mac #Donalbain_Mac #Banquo_Mac #Lennox_Mac #Macduff_Mac #Ross_Mac #Angus_Mac #ATTENDANTS_Mac">
             <stage xml:id="snd-0417.2" n="SD 1.6.0" type="sound" ana="hautboys">Hautboys </stage> and Torches. Enter King Duncan, Malcolm, Donalbain, Banquo, Lennox, Macduff, Ross, Angus, and Attendants. </stage>
           <sp xml:id="sp-0418" who="#Duncan_Mac">
             <speaker xml:id="spk-0418">DUNCAN </speaker>
@@ -1333,10 +1223,7 @@
             <l xml:id="ftln-0427" n="1.6.10">Where they most breed and haunt, I have observed, </l>
             <l xml:id="ftln-0429" n="1.6.12" ana="#short">The air is delicate. </l>
           </sp>
-          <stage xml:id="stg-0429.1"
-                      n="SD 1.6.12.1"
-                      type="entrance"
-                      who="#LadyMacbeth_Mac">Enter Lady Macbeth. </stage>
+          <stage xml:id="stg-0429.1" n="SD 1.6.12.1" type="entrance" who="#LadyMacbeth_Mac">Enter Lady Macbeth. </stage>
           <sp xml:id="sp-0430" who="#Duncan_Mac">
             <speaker xml:id="spk-0430">DUNCAN </speaker>
             <l xml:id="ftln-0430" n="1.6.13" ana="#short">See, see our honored hostess!— </l>
@@ -1374,31 +1261,19 @@
           <sp xml:id="sp-0453" who="#Duncan_Mac">
             <speaker xml:id="spk-0453">DUNCAN </speaker>
             <l xml:id="ftln-0453" n="1.6.36" part="F">Give me your hand. </l>
-            <stage xml:id="stg-0453.1"
-                         n="SD 1.6.36.1"
-                         type="business"
-                         who="#Duncan_Mac #LadyMacbeth_Mac">Taking her hand. </stage>
+            <stage xml:id="stg-0453.1" n="SD 1.6.36.1" type="business" who="#Duncan_Mac #LadyMacbeth_Mac">Taking her hand. </stage>
             <l xml:id="ftln-0454" n="1.6.37">Conduct me to mine host. We love him highly </l>
             <l xml:id="ftln-0455" n="1.6.38">And shall continue our graces towards him. </l>
             <l xml:id="ftln-0456" n="1.6.39" ana="#short">By your leave, hostess. </l>
           </sp>
-          <stage xml:id="stg-0456.1"
-                      n="SD 1.6.39.1"
-                      type="exit"
-                      who="#Duncan_Mac #Malcolm_Mac #Donalbain_Mac #Banquo_Mac #Lennox_Mac #Macduff_Mac #Ross_Mac #Angus_Mac #ATTENDANTS_Mac #LadyMacbeth_Mac">They exit. </stage>
+          <stage xml:id="stg-0456.1" n="SD 1.6.39.1" type="exit" who="#Duncan_Mac #Malcolm_Mac #Donalbain_Mac #Banquo_Mac #Lennox_Mac #Macduff_Mac #Ross_Mac #Angus_Mac #ATTENDANTS_Mac #LadyMacbeth_Mac">They exit. </stage>
         </div>
         <div type="scene" n="7">
           <head>Scene 7 </head>
           <stage xml:id="stg-0456.2" n="SD 1.7.0" type="mixed">
-            <stage xml:id="stg-0456.2a"
-                         n="SD 1.7.0"
-                         type="business"
-                         who="#SERVANTS_Mac">
+            <stage xml:id="stg-0456.2a" n="SD 1.7.0" type="business" who="#SERVANTS_Mac">
               <stage xml:id="snd-0456.2a" n="SD 1.7.0" type="sound" ana="hautboys">Hautboys. </stage> Torches. Enter a Sewer and divers Servants with dishes and service over the stage. </stage>
-            <stage xml:id="stg-0456.2b"
-                         n="SD 1.7.0"
-                         type="entrance"
-                         who="#Macbeth_Mac">Then enter Macbeth. </stage>
+            <stage xml:id="stg-0456.2b" n="SD 1.7.0" type="entrance" who="#Macbeth_Mac">Then enter Macbeth. </stage>
           </stage>
           <sp xml:id="sp-0457" who="#Macbeth_Mac">
             <speaker xml:id="spk-0457">MACBETH </speaker>
@@ -1430,10 +1305,7 @@
             <l xml:id="ftln-0482" n="1.7.26">To prick the sides of my intent, but only </l>
             <l xml:id="ftln-0483" n="1.7.27">Vaulting ambition, which o’erleaps itself </l>
             <l xml:id="ftln-0484" n="1.7.28" ana="#short">And falls on th’ other— </l>
-            <stage xml:id="stg-0484.1"
-                         n="SD 1.7.28.1"
-                         type="entrance"
-                         who="#LadyMacbeth_Mac">Enter Lady Macbeth. </stage>
+            <stage xml:id="stg-0484.1" n="SD 1.7.28.1" type="entrance" who="#LadyMacbeth_Mac">Enter Lady Macbeth. </stage>
             <l xml:id="ftln-0485" n="1.7.29" ana="#short">How now, what news? </l>
           </sp>
           <sp xml:id="sp-0486" who="#LadyMacbeth_Mac">
@@ -1535,20 +1407,14 @@
             <l xml:id="ftln-0550" n="1.7.94">Away, and mock the time with fairest show. </l>
             <l xml:id="ftln-0551" n="1.7.95">False face must hide what the false heart doth know. </l>
           </sp>
-          <stage xml:id="stg-0552.1"
-                      n="SD 1.7.96.1"
-                      type="exit"
-                      who="#Macbeth_Mac #LadyMacbeth_Mac">They exit. </stage>
+          <stage xml:id="stg-0552.1" n="SD 1.7.96.1" type="exit" who="#Macbeth_Mac #LadyMacbeth_Mac">They exit. </stage>
         </div>
       </div>
       <div type="act" n="2">
         <head>ACT 2 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-0552.2"
-                      n="SD 2.1.0"
-                      type="entrance"
-                      who="#Banquo_Mac #Fleance_Mac">Enter Banquo, and Fleance with a torch before him. </stage>
+          <stage xml:id="stg-0552.2" n="SD 2.1.0" type="entrance" who="#Banquo_Mac #Fleance_Mac">Enter Banquo, and Fleance with a torch before him. </stage>
           <sp xml:id="sp-0553" who="#Banquo_Mac">
             <speaker xml:id="spk-0553">BANQUO </speaker>
             <p xml:id="p-0553">
@@ -1571,20 +1437,14 @@
           <sp xml:id="sp-0557" who="#Banquo_Mac">
             <speaker xml:id="spk-0557">BANQUO </speaker>
             <l xml:id="ftln-0557" n="2.1.5" part="I">Hold, take my sword. </l>
-            <stage xml:id="stg-0557"
-                         n="SD 2.1.5"
-                         type="business"
-                         who="#Banquo_Mac #Fleance_Mac">He gives his sword to Fleance. </stage>
+            <stage xml:id="stg-0557" n="SD 2.1.5" type="business" who="#Banquo_Mac #Fleance_Mac">He gives his sword to Fleance. </stage>
             <l xml:id="ftln-0558" n="2.1.6" part="F">There’s husbandry in heaven; </l>
             <l xml:id="ftln-0559" n="2.1.7">Their candles are all out. Take thee that too. </l>
             <l xml:id="ftln-0560" n="2.1.8">A heavy summons lies like lead upon me, </l>
             <l xml:id="ftln-0561" n="2.1.9">And yet I would not sleep. Merciful powers, </l>
             <l xml:id="ftln-0562" n="2.1.10">Restrain in me the cursèd thoughts that nature </l>
             <l xml:id="ftln-0563" n="2.1.11" part="I">Gives way to in repose. </l>
-            <stage xml:id="stg-0563.1"
-                         n="SD 2.1.11.1"
-                         type="entrance"
-                         who="#Macbeth_Mac #SERVANTS.X.1_Mac">Enter Macbeth, and a Servant with a torch. </stage>
+            <stage xml:id="stg-0563.1" n="SD 2.1.11.1" type="entrance" who="#Macbeth_Mac #SERVANTS.X.1_Mac">Enter Macbeth, and a Servant with a torch. </stage>
             <l xml:id="ftln-0564" n="2.1.12" prev="#ftln-0563">Give me my sword.— Who’s there? </l>
           </sp>
           <sp xml:id="sp-0566" who="#Macbeth_Mac">
@@ -1600,10 +1460,7 @@
             <l xml:id="ftln-0571" n="2.1.19">By the name of most kind hostess, and shut up </l>
             <l xml:id="ftln-0572" n="2.1.20" part="I">In measureless content. </l>
           </sp>
-          <stage xml:id="stg-0572.1"
-                      n="SD 2.1.20.1"
-                      type="business"
-                      who="#Banquo_Mac #Macbeth_Mac">He gives Macbeth a jewel. </stage>
+          <stage xml:id="stg-0572.1" n="SD 2.1.20.1" type="business" who="#Banquo_Mac #Macbeth_Mac">He gives Macbeth a jewel. </stage>
           <sp xml:id="sp-0573" who="#Macbeth_Mac">
             <speaker xml:id="spk-0573">MACBETH </speaker>
             <l xml:id="ftln-0573" n="2.1.21" part="F">Being unprepared, </l>
@@ -1647,18 +1504,12 @@
             <speaker xml:id="spk-0593">BANQUO </speaker>
             <l xml:id="ftln-0593" n="2.1.41" ana="#short">Thanks, sir. The like to you. </l>
           </sp>
-          <stage xml:id="stg-0593.1"
-                      n="SD 2.1.41.1"
-                      type="exit"
-                      who="#Banquo_Mac #Fleance_Mac">Banquo and Fleance exit. </stage>
+          <stage xml:id="stg-0593.1" n="SD 2.1.41.1" type="exit" who="#Banquo_Mac #Fleance_Mac">Banquo and Fleance exit. </stage>
           <sp xml:id="sp-0594" who="#Macbeth_Mac">
             <speaker xml:id="spk-0594">MACBETH </speaker>
             <l xml:id="ftln-0594" n="2.1.42">Go bid thy mistress, when my drink is ready, </l>
             <l xml:id="ftln-0595" n="2.1.43">She strike upon the bell. Get thee to bed. </l>
-            <stage xml:id="stg-0595.1"
-                         n="SD 2.1.43.1"
-                         type="exit"
-                         who="#SERVANTS.X.1_Mac">Servant exits. </stage>
+            <stage xml:id="stg-0595.1" n="SD 2.1.43.1" type="exit" who="#SERVANTS.X.1_Mac">Servant exits. </stage>
             <l xml:id="ftln-0596" n="2.1.44">Is this a dagger which I see before me, </l>
             <l xml:id="ftln-0597" n="2.1.45">The handle toward my hand? Come, let me clutch thee. </l>
             <l xml:id="ftln-0599" n="2.1.47">I have thee not, and yet I see thee still. </l>
@@ -1668,10 +1519,7 @@
             <l xml:id="ftln-0603" n="2.1.51">Proceeding from the heat-oppressèd brain? </l>
             <l xml:id="ftln-0604" n="2.1.52">I see thee yet, in form as palpable </l>
             <l xml:id="ftln-0605" n="2.1.53">As this which now I draw. </l>
-            <stage xml:id="stg-0605"
-                         n="SD 2.1.53"
-                         type="business"
-                         who="#Macbeth_Mac">He draws his dagger. </stage>
+            <stage xml:id="stg-0605" n="SD 2.1.53" type="business" who="#Macbeth_Mac">He draws his dagger. </stage>
             <l xml:id="ftln-0606" n="2.1.54">Thou marshal’st me the way that I was going, </l>
             <l xml:id="ftln-0607" n="2.1.55">And such an instrument I was to use. </l>
             <l xml:id="ftln-0608" n="2.1.56">Mine eyes are made the fools o’ th’ other senses </l>
@@ -1699,17 +1547,11 @@
             <l xml:id="ftln-0628" n="2.1.76">Hear it not, Duncan, for it is a knell </l>
             <l xml:id="ftln-0629" n="2.1.77">That summons thee to heaven or to hell. </l>
           </sp>
-          <stage xml:id="stg-0629.1"
-                      n="SD 2.1.77.1"
-                      type="exit"
-                      who="#Macbeth_Mac">He exits. </stage>
+          <stage xml:id="stg-0629.1" n="SD 2.1.77.1" type="exit" who="#Macbeth_Mac">He exits. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-0629.2"
-                      n="SD 2.2.0"
-                      type="entrance"
-                      who="#LadyMacbeth_Mac">Enter Lady Macbeth. </stage>
+          <stage xml:id="stg-0629.2" n="SD 2.2.0" type="entrance" who="#LadyMacbeth_Mac">Enter Lady Macbeth. </stage>
           <sp xml:id="sp-0630" who="#LadyMacbeth_Mac">
             <speaker xml:id="spk-0630">LADY MACBETH </speaker>
             <l xml:id="ftln-0630" n="2.2.1">That which hath made them drunk hath made me bold. </l>
@@ -1733,10 +1575,7 @@
             <l xml:id="ftln-0644" n="2.2.15">Confounds us. Hark!— I laid their daggers ready; </l>
             <l xml:id="ftln-0645" n="2.2.16">He could not miss ’em. Had he not resembled </l>
             <l xml:id="ftln-0646" n="2.2.17" ana="#short">My father as he slept, I had done ’t. </l>
-            <stage xml:id="stg-0646.1"
-                         n="SD 2.2.17.1"
-                         type="entrance"
-                         who="#Macbeth_Mac">Enter Macbeth with bloody daggers. </stage>
+            <stage xml:id="stg-0646.1" n="SD 2.2.17.1" type="entrance" who="#Macbeth_Mac">Enter Macbeth with bloody daggers. </stage>
             <l xml:id="ftln-0647" n="2.2.18" ana="#short">My husband? </l>
           </sp>
           <sp xml:id="sp-0648" who="#Macbeth_Mac">
@@ -1858,10 +1697,7 @@
             <l xml:id="ftln-0702" n="2.2.73" part="I">For it must seem their guilt. </l>
           </sp>
           <stage xml:id="stg-0702.1" n="SD 2.2.73.1" type="mixed">
-            <stage xml:id="stg-0702.1a"
-                         n="SD 2.2.71.1"
-                         type="exit"
-                         who="#LadyMacbeth_Mac">She exits with the daggers. </stage>
+            <stage xml:id="stg-0702.1a" n="SD 2.2.71.1" type="exit" who="#LadyMacbeth_Mac">She exits with the daggers. </stage>
             <stage xml:id="stg-0702.1b" n="SD 2.2.71.1" type="business">Knock within. </stage>
           </stage>
           <sp xml:id="sp-0703" who="#Macbeth_Mac">
@@ -1874,10 +1710,7 @@
             <l xml:id="ftln-0709" n="2.2.80">The multitudinous seas incarnadine, </l>
             <l xml:id="ftln-0710" n="2.2.81" ana="#short">Making the green one red. </l>
           </sp>
-          <stage xml:id="stg-0710.1"
-                      n="SD 2.2.81.1"
-                      type="entrance"
-                      who="#LadyMacbeth_Mac">Enter Lady Macbeth. </stage>
+          <stage xml:id="stg-0710.1" n="SD 2.2.81.1" type="entrance" who="#LadyMacbeth_Mac">Enter Lady Macbeth. </stage>
           <sp xml:id="sp-0711" who="#LadyMacbeth_Mac">
             <speaker xml:id="spk-0711">LADY MACBETH </speaker>
             <l xml:id="ftln-0711" n="2.2.82">My hands are of your color, but I shame </l>
@@ -1900,51 +1733,24 @@
             <stage xml:id="stg-0722.1" n="SD 2.2.93.1" type="business">Knock. </stage>
             <l xml:id="ftln-0723" n="2.2.94">Wake Duncan with thy knocking. I would thou couldst. </l>
           </sp>
-          <stage xml:id="stg-0724.1"
-                      n="SD 2.2.95.1"
-                      type="exit"
-                      who="#Macbeth_Mac #LadyMacbeth_Mac">They exit. </stage>
+          <stage xml:id="stg-0724.1" n="SD 2.2.95.1" type="exit" who="#Macbeth_Mac #LadyMacbeth_Mac">They exit. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
           <stage xml:id="stg-0724.2" n="SD 2.3.0" type="mixed">
             <stage xml:id="stg-0724.2a" n="SD 2.3.0" type="business">Knocking within. </stage>
-            <stage xml:id="stg-0724.2b"
-                         n="SD 2.3.0"
-                         type="entrance"
-                         who="#Porter_Mac">Enter a Porter. </stage>
+            <stage xml:id="stg-0724.2b" n="SD 2.3.0" type="entrance" who="#Porter_Mac">Enter a Porter. </stage>
           </stage>
           <sp xml:id="sp-0725" who="#Porter_Mac">
             <speaker xml:id="spk-0725">PORTER </speaker>
             <p xml:id="p-0725">
-              <lb xml:id="ftln-0725" n="2.3.1"/>Here’s a knocking indeed! If a man were <lb xml:id="ftln-0726" n="2.3.2"/>porter of hell gate, he should have old turning the <lb xml:id="ftln-0727" n="2.3.3"/>key. <stage xml:id="stg-0727"
-                            n="SD 2.3.3"
-                            type="business"
-                            rendition="inline"> ( Knock.) </stage> Knock, knock, knock! Who’s there, i’ <lb xml:id="ftln-0728" n="2.3.4"/>th’ name of Beelzebub? Here’s a farmer that hanged <lb xml:id="ftln-0729" n="2.3.5"/>himself on th’ expectation of plenty. Come in time! <lb xml:id="ftln-0730" n="2.3.6"/>Have napkins enough about you; here you’ll sweat <lb xml:id="ftln-0731" n="2.3.7"/>for ’t. <stage xml:id="stg-0731"
-                            n="SD 2.3.7"
-                            type="business"
-                            rendition="inline"> ( Knock.) </stage> Knock, knock! Who’s there, in th’ <lb xml:id="ftln-0732" n="2.3.8"/>other devil’s name? Faith, here’s an equivocator <lb xml:id="ftln-0733" n="2.3.9"/>that could swear in both the scales against either <lb xml:id="ftln-0734" n="2.3.10"/>scale, who committed treason enough for God’s <lb xml:id="ftln-0735" n="2.3.11"/>sake yet could not equivocate to heaven. O, come in, <lb xml:id="ftln-0736" n="2.3.12"/>equivocator. <stage xml:id="stg-0736"
-                            n="SD 2.3.12"
-                            type="business"
-                            rendition="inline"> ( Knock.) </stage> Knock, knock, knock! Who’s <lb xml:id="ftln-0737" n="2.3.13"/>there? Faith, here’s an English tailor come hither for <lb xml:id="ftln-0738" n="2.3.14"/>stealing out of a French hose. Come in, tailor. Here <lb xml:id="ftln-0739" n="2.3.15"/>you may roast your goose. <stage xml:id="stg-0739"
-                            n="SD 2.3.15"
-                            type="business"
-                            rendition="inline">( Knock.) </stage> Knock, knock! <lb xml:id="ftln-0740" n="2.3.16"/>Never at quiet.— What are you?— But this place is <lb xml:id="ftln-0741" n="2.3.17"/>too cold for hell. I’ll devil-porter it no further. I had <lb xml:id="ftln-0742" n="2.3.18"/>thought to have let in some of all professions that go <lb xml:id="ftln-0743" n="2.3.19"/>the primrose way to th’ everlasting bonfire. </p>
-            <stage xml:id="stg-0743"
-                         n="SD 2.3.19"
-                         type="business"
-                         rendition="inline"> ( Knock.) </stage>
+              <lb xml:id="ftln-0725" n="2.3.1"/>Here’s a knocking indeed! If a man were <lb xml:id="ftln-0726" n="2.3.2"/>porter of hell gate, he should have old turning the <lb xml:id="ftln-0727" n="2.3.3"/>key. <stage xml:id="stg-0727" n="SD 2.3.3" type="business" rendition="inline"> ( Knock.) </stage> Knock, knock, knock! Who’s there, i’ <lb xml:id="ftln-0728" n="2.3.4"/>th’ name of Beelzebub? Here’s a farmer that hanged <lb xml:id="ftln-0729" n="2.3.5"/>himself on th’ expectation of plenty. Come in time! <lb xml:id="ftln-0730" n="2.3.6"/>Have napkins enough about you; here you’ll sweat <lb xml:id="ftln-0731" n="2.3.7"/>for ’t. <stage xml:id="stg-0731" n="SD 2.3.7" type="business" rendition="inline"> ( Knock.) </stage> Knock, knock! Who’s there, in th’ <lb xml:id="ftln-0732" n="2.3.8"/>other devil’s name? Faith, here’s an equivocator <lb xml:id="ftln-0733" n="2.3.9"/>that could swear in both the scales against either <lb xml:id="ftln-0734" n="2.3.10"/>scale, who committed treason enough for God’s <lb xml:id="ftln-0735" n="2.3.11"/>sake yet could not equivocate to heaven. O, come in, <lb xml:id="ftln-0736" n="2.3.12"/>equivocator. <stage xml:id="stg-0736" n="SD 2.3.12" type="business" rendition="inline"> ( Knock.) </stage> Knock, knock, knock! Who’s <lb xml:id="ftln-0737" n="2.3.13"/>there? Faith, here’s an English tailor come hither for <lb xml:id="ftln-0738" n="2.3.14"/>stealing out of a French hose. Come in, tailor. Here <lb xml:id="ftln-0739" n="2.3.15"/>you may roast your goose. <stage xml:id="stg-0739" n="SD 2.3.15" type="business" rendition="inline">( Knock.) </stage> Knock, knock! <lb xml:id="ftln-0740" n="2.3.16"/>Never at quiet.— What are you?— But this place is <lb xml:id="ftln-0741" n="2.3.17"/>too cold for hell. I’ll devil-porter it no further. I had <lb xml:id="ftln-0742" n="2.3.18"/>thought to have let in some of all professions that go <lb xml:id="ftln-0743" n="2.3.19"/>the primrose way to th’ everlasting bonfire. </p>
+            <stage xml:id="stg-0743" n="SD 2.3.19" type="business" rendition="inline"> ( Knock.) </stage>
             <p xml:id="p-0744">
               <lb xml:id="ftln-0744" n="2.3.20"/>Anon, anon! </p>
             <stage xml:id="stg-0744.1" n="SD 2.3.20.1" type="mixed">
-              <stage xml:id="stg-0744.1a"
-                            n="SD 2.3.20.1"
-                            type="business"
-                            who="#Porter_Mac">The Porter opens the door </stage>
-              <stage xml:id="stg-0744.1b"
-                            n="SD 2.3.20.1"
-                            type="entrance"
-                            who="#Lennox_Mac #Macduff_Mac">to Macduff and Lennox. </stage>
+              <stage xml:id="stg-0744.1a" n="SD 2.3.20.1" type="business" who="#Porter_Mac">The Porter opens the door </stage>
+              <stage xml:id="stg-0744.1b" n="SD 2.3.20.1" type="entrance" who="#Lennox_Mac #Macduff_Mac">to Macduff and Lennox. </stage>
             </stage>
             <p xml:id="p-0745">
               <lb xml:id="ftln-0745" n="2.3.21"/>I pray you, remember the porter. </p>
@@ -1982,16 +1788,10 @@
           <sp xml:id="sp-0768" who="#Macduff_Mac">
             <speaker xml:id="spk-0768">MACDUFF </speaker>
             <l xml:id="ftln-0768" n="2.3.44" ana="#short">Is thy master stirring? </l>
-            <stage xml:id="stg-0768.1"
-                         n="SD 2.3.44.1"
-                         type="entrance"
-                         who="#Macbeth_Mac">Enter Macbeth. </stage>
+            <stage xml:id="stg-0768.1" n="SD 2.3.44.1" type="entrance" who="#Macbeth_Mac">Enter Macbeth. </stage>
             <l xml:id="ftln-0769" n="2.3.45">Our knocking has awaked him. Here he comes. </l>
           </sp>
-          <stage xml:id="stg-0769.1"
-                      n="SD 2.3.45.1"
-                      type="exit"
-                      who="#Porter_Mac">Porter exits. </stage>
+          <stage xml:id="stg-0769.1" n="SD 2.3.45.1" type="exit" who="#Porter_Mac">Porter exits. </stage>
           <sp xml:id="sp-0770" who="#Lennox_Mac">
             <speaker xml:id="spk-0770">LENNOX </speaker>
             <l xml:id="ftln-0770" n="2.3.46" part="I">Good morrow, noble sir. </l>
@@ -2061,10 +1861,7 @@
             <l xml:id="ftln-0795" n="2.3.71">My young remembrance cannot parallel </l>
             <l xml:id="ftln-0796" n="2.3.72" part="I">A fellow to it. </l>
           </sp>
-          <stage xml:id="stg-0796.1"
-                      n="SD 2.3.72.1"
-                      type="entrance"
-                      who="#Macduff_Mac">Enter Macduff. </stage>
+          <stage xml:id="stg-0796.1" n="SD 2.3.72.1" type="entrance" who="#Macduff_Mac">Enter Macduff. </stage>
           <sp xml:id="sp-0797" who="#Macduff_Mac">
             <speaker xml:id="spk-0797">MACDUFF </speaker>
             <l xml:id="ftln-0797" n="2.3.73" part="F">O horror, horror, horror! </l>
@@ -2094,10 +1891,7 @@
             <l xml:id="ftln-0806" n="2.3.82">Approach the chamber and destroy your sight </l>
             <l xml:id="ftln-0807" n="2.3.83">With a new Gorgon. Do not bid me speak. </l>
             <l xml:id="ftln-0808" n="2.3.84" part="I">See and then speak yourselves. </l>
-            <stage xml:id="stg-0808.1"
-                         n="SD 2.3.84.1"
-                         type="exit"
-                         who="#Macbeth_Mac #Lennox_Mac">Macbeth and Lennox exit. </stage>
+            <stage xml:id="stg-0808.1" n="SD 2.3.84.1" type="exit" who="#Macbeth_Mac #Lennox_Mac">Macbeth and Lennox exit. </stage>
             <l xml:id="ftln-0809" n="2.3.85" part="F">Awake, awake! </l>
             <l xml:id="ftln-0810" n="2.3.86">Ring the alarum bell.— Murder and treason! </l>
             <l xml:id="ftln-0811" n="2.3.87">Banquo and Donalbain, Malcolm, awake! </l>
@@ -2110,10 +1904,7 @@
           <stage xml:id="stg-0816.1" n="SD 2.3.92.1" type="business">
             <stage xml:id="snd-0816.1" n="SD 2.3.92.1" type="sound" ana="bell">Bell rings. </stage>
           </stage>
-          <stage xml:id="stg-0816.2"
-                      n="SD 2.3.92.2"
-                      type="entrance"
-                      who="#LadyMacbeth_Mac">Enter Lady Macbeth. </stage>
+          <stage xml:id="stg-0816.2" n="SD 2.3.92.2" type="entrance" who="#LadyMacbeth_Mac">Enter Lady Macbeth. </stage>
           <sp xml:id="sp-0817" who="#LadyMacbeth_Mac">
             <speaker xml:id="spk-0817">LADY MACBETH </speaker>
             <l xml:id="ftln-0817" n="2.3.93" ana="#short">What’s the business, </l>
@@ -2126,10 +1917,7 @@
             <l xml:id="ftln-0821" n="2.3.97">’Tis not for you to hear what I can speak. </l>
             <l xml:id="ftln-0822" n="2.3.98">The repetition in a woman’s ear </l>
             <l xml:id="ftln-0823" n="2.3.99" part="I">Would murder as it fell. </l>
-            <stage xml:id="stg-0823.1"
-                         n="SD 2.3.99.1"
-                         type="entrance"
-                         who="#Banquo_Mac">Enter Banquo. </stage>
+            <stage xml:id="stg-0823.1" n="SD 2.3.99.1" type="entrance" who="#Banquo_Mac">Enter Banquo. </stage>
             <l xml:id="ftln-0824" n="2.3.100" part="F">O Banquo, Banquo, </l>
             <l xml:id="ftln-0825" n="2.3.101" part="I">Our royal master’s murdered. </l>
           </sp>
@@ -2144,10 +1932,7 @@
             <l xml:id="ftln-0829" n="2.3.105">Dear Duff, I prithee, contradict thyself </l>
             <l xml:id="ftln-0830" n="2.3.106" ana="#short">And say it is not so. </l>
           </sp>
-          <stage xml:id="stg-0830.1"
-                      n="SD 2.3.106.1"
-                      type="entrance"
-                      who="#Macbeth_Mac #Lennox_Mac #Ross_Mac">Enter Macbeth, Lennox, and Ross. </stage>
+          <stage xml:id="stg-0830.1" n="SD 2.3.106.1" type="entrance" who="#Macbeth_Mac #Lennox_Mac #Ross_Mac">Enter Macbeth, Lennox, and Ross. </stage>
           <sp xml:id="sp-0831" who="#Macbeth_Mac">
             <speaker xml:id="spk-0831">MACBETH </speaker>
             <l xml:id="ftln-0831" n="2.3.107">Had I but died an hour before this chance, </l>
@@ -2157,10 +1942,7 @@
             <l xml:id="ftln-0835" n="2.3.111">The wine of life is drawn, and the mere lees </l>
             <l xml:id="ftln-0836" n="2.3.112" ana="#short">Is left this vault to brag of. </l>
           </sp>
-          <stage xml:id="stg-0836.1"
-                      n="SD 2.3.112.1"
-                      type="entrance"
-                      who="#Malcolm_Mac #Donalbain_Mac">Enter Malcolm and Donalbain. </stage>
+          <stage xml:id="stg-0836.1" n="SD 2.3.112.1" type="entrance" who="#Malcolm_Mac #Donalbain_Mac">Enter Malcolm and Donalbain. </stage>
           <sp xml:id="sp-0837" who="#Donalbain_Mac">
             <speaker xml:id="spk-0837">DONALBAIN </speaker>
             <l xml:id="ftln-0837" n="2.3.113" ana="#short">What is amiss? </l>
@@ -2239,10 +2021,7 @@
           <sp xml:id="sp-0871" who="#Banquo_Mac">
             <speaker xml:id="spk-0871">BANQUO </speaker>
             <l xml:id="ftln-0871" n="2.3.147" ana="#short">Look to the lady. </l>
-            <stage xml:id="stg-0871.1"
-                         n="SD 2.3.147.1"
-                         type="exit"
-                         who="#LadyMacbeth_Mac">Lady Macbeth is assisted to leave. </stage>
+            <stage xml:id="stg-0871.1" n="SD 2.3.147.1" type="exit" who="#LadyMacbeth_Mac">Lady Macbeth is assisted to leave. </stage>
             <l xml:id="ftln-0872" n="2.3.148">And when we have our naked frailties hid, </l>
             <l xml:id="ftln-0873" n="2.3.149">That suffer in exposure, let us meet </l>
             <l xml:id="ftln-0874" n="2.3.150">And question this most bloody piece of work </l>
@@ -2255,8 +2034,7 @@
             <speaker xml:id="spk-0879">MACDUFF </speaker>
             <l xml:id="ftln-0879" n="2.3.155" prev="#ftln-0878" part="I">And so do I. </l>
           </sp>
-          <sp xml:id="sp-0880"
-                   who="#Macbeth_Mac #Lennox_Mac #Ross_Mac #Donalbain_Mac #Malcolm_Mac">
+          <sp xml:id="sp-0880" who="#Macbeth_Mac #Lennox_Mac #Ross_Mac #Donalbain_Mac #Malcolm_Mac">
             <speaker xml:id="spk-0880">ALL </speaker>
             <l xml:id="ftln-0880" n="2.3.156" part="F">So all. </l>
           </sp>
@@ -2265,15 +2043,11 @@
             <l xml:id="ftln-0881" n="2.3.157">Let’s briefly put on manly readiness </l>
             <l xml:id="ftln-0882" n="2.3.158" part="I">And meet i’ th’ hall together. </l>
           </sp>
-          <sp xml:id="sp-0883"
-                   who="#Macduff_Mac #Banquo_Mac #Lennox_Mac #Ross_Mac #Donalbain_Mac #Malcolm_Mac">
+          <sp xml:id="sp-0883" who="#Macduff_Mac #Banquo_Mac #Lennox_Mac #Ross_Mac #Donalbain_Mac #Malcolm_Mac">
             <speaker xml:id="spk-0883">ALL </speaker>
             <l xml:id="ftln-0883" n="2.3.159" part="F">Well contented. </l>
           </sp>
-          <stage xml:id="stg-0883.1"
-                      n="SD 2.3.159.1"
-                      type="exit"
-                      who="#Macduff_Mac #Banquo_Mac #Macbeth_Mac #Lennox_Mac #Ross_Mac">All but Malcolm and Donalbain exit. </stage>
+          <stage xml:id="stg-0883.1" n="SD 2.3.159.1" type="exit" who="#Macduff_Mac #Banquo_Mac #Macbeth_Mac #Lennox_Mac #Ross_Mac">All but Malcolm and Donalbain exit. </stage>
           <sp xml:id="sp-0884" who="#Malcolm_Mac">
             <speaker xml:id="spk-0884">MALCOLM </speaker>
             <l xml:id="ftln-0884" n="2.3.160">What will you do? Let’s not consort with them. </l>
@@ -2296,17 +2070,11 @@
             <l xml:id="ftln-0895" n="2.3.171">But shift away. There’s warrant in that theft </l>
             <l xml:id="ftln-0896" n="2.3.172">Which steals itself when there’s no mercy left. </l>
           </sp>
-          <stage xml:id="stg-0896.1"
-                      n="SD 2.3.172.1"
-                      type="exit"
-                      who="#Malcolm_Mac #Donalbain_Mac">They exit. </stage>
+          <stage xml:id="stg-0896.1" n="SD 2.3.172.1" type="exit" who="#Malcolm_Mac #Donalbain_Mac">They exit. </stage>
         </div>
         <div type="scene" n="4">
           <head>Scene 4 </head>
-          <stage xml:id="stg-0896.2"
-                      n="SD 2.4.0"
-                      type="entrance"
-                      who="#Ross_Mac #OldMan_Mac">Enter Ross with an Old Man. </stage>
+          <stage xml:id="stg-0896.2" n="SD 2.4.0" type="entrance" who="#Ross_Mac #OldMan_Mac">Enter Ross with an Old Man. </stage>
           <sp xml:id="sp-0897" who="#OldMan_Mac">
             <speaker xml:id="spk-0897">OLD MAN </speaker>
             <l xml:id="ftln-0897" n="2.4.1">Threescore and ten I can remember well, </l>
@@ -2347,10 +2115,7 @@
             <speaker xml:id="spk-0921">ROSS </speaker>
             <l xml:id="ftln-0921" n="2.4.25">They did so, to th’ amazement of mine eyes </l>
             <l xml:id="ftln-0922" n="2.4.26" part="I">That looked upon ’t. </l>
-            <stage xml:id="stg-0922.1"
-                         n="SD 2.4.26.1"
-                         type="entrance"
-                         who="#Macduff_Mac">Enter Macduff. </stage>
+            <stage xml:id="stg-0922.1" n="SD 2.4.26.1" type="entrance" who="#Macduff_Mac">Enter Macduff. </stage>
             <l xml:id="ftln-0923" n="2.4.27" prev="#ftln-0922">Here comes the good Macduff.— </l>
             <l xml:id="ftln-0925" n="2.4.29" part="I">How goes the world, sir, now? </l>
           </sp>
@@ -2426,20 +2191,14 @@
             <l xml:id="ftln-0951" n="2.4.55">God’s benison go with you and with those </l>
             <l xml:id="ftln-0952" n="2.4.56">That would make good of bad and friends of foes. </l>
           </sp>
-          <stage xml:id="stg-0952.1"
-                      n="SD 2.4.56.1"
-                      type="exit"
-                      who="#Ross_Mac #OldMan_Mac #Macduff_Mac">All exit. </stage>
+          <stage xml:id="stg-0952.1" n="SD 2.4.56.1" type="exit" who="#Ross_Mac #OldMan_Mac #Macduff_Mac">All exit. </stage>
         </div>
       </div>
       <div type="act" n="3">
         <head>ACT 3 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-0952.2"
-                      n="SD 3.1.0"
-                      type="entrance"
-                      who="#Banquo_Mac">Enter Banquo. </stage>
+          <stage xml:id="stg-0952.2" n="SD 3.1.0" type="entrance" who="#Banquo_Mac">Enter Banquo. </stage>
           <sp xml:id="sp-0953" who="#Banquo_Mac">
             <speaker xml:id="spk-0953">BANQUO </speaker>
             <l xml:id="ftln-0953" n="3.1.1">Thou hast it now— king, Cawdor, Glamis, all </l>
@@ -2453,10 +2212,7 @@
             <l xml:id="ftln-0961" n="3.1.9">May they not be my oracles as well, </l>
             <l xml:id="ftln-0962" n="3.1.10">And set me up in hope? But hush, no more. </l>
           </sp>
-          <stage xml:id="stg-0962.1"
-                      n="SD 3.1.10.1"
-                      type="entrance"
-                      who="#Macbeth_Mac #LadyMacbeth_Mac #Lennox_Mac #Ross_Mac #ATTENDANTS_Mac #SERVANTS.X.2_Mac">
+          <stage xml:id="stg-0962.1" n="SD 3.1.10.1" type="entrance" who="#Macbeth_Mac #LadyMacbeth_Mac #Lennox_Mac #Ross_Mac #ATTENDANTS_Mac #SERVANTS.X.2_Mac">
             <stage xml:id="snd-0962.1" n="SD 3.1.10.1" type="sound" ana="sennet">Sennet sounded. </stage> Enter Macbeth as King, Lady Macbeth, Lennox, Ross, Lords, and Attendants. </stage>
           <sp xml:id="sp-0963" who="#Macbeth_Mac">
             <speaker xml:id="spk-0963">MACBETH </speaker>
@@ -2534,10 +2290,7 @@
             <l xml:id="ftln-0997" n="3.1.45">Till seven at night. To make society </l>
             <l xml:id="ftln-0998" n="3.1.46">The sweeter welcome, we will keep ourself </l>
             <l xml:id="ftln-0999" n="3.1.47">Till suppertime alone. While then, God be with you. </l>
-            <stage xml:id="stg-0999.1"
-                         n="SD 3.1.47.1"
-                         type="exit"
-                         who="#LadyMacbeth_Mac #Lennox_Mac #Ross_Mac #ATTENDANTS_Mac">Lords and all but Macbeth and a Servant exit. </stage>
+            <stage xml:id="stg-0999.1" n="SD 3.1.47.1" type="exit" who="#LadyMacbeth_Mac #Lennox_Mac #Ross_Mac #ATTENDANTS_Mac">Lords and all but Macbeth and a Servant exit. </stage>
             <l xml:id="ftln-1000" n="3.1.48">Sirrah, a word with you. Attend those men </l>
             <l xml:id="ftln-1001" n="3.1.49" ana="#short">Our pleasure? </l>
           </sp>
@@ -2548,10 +2301,7 @@
           <sp xml:id="sp-1003" who="#Macbeth_Mac">
             <speaker xml:id="spk-1003">MACBETH </speaker>
             <l xml:id="ftln-1003" n="3.1.51" part="I">Bring them before us. </l>
-            <stage xml:id="stg-1003"
-                         n="SD 3.1.51"
-                         type="exit"
-                         who="#SERVANTS.X.2_Mac">Servant exits. </stage>
+            <stage xml:id="stg-1003" n="SD 3.1.51" type="exit" who="#SERVANTS.X.2_Mac">Servant exits. </stage>
             <l xml:id="ftln-1004" n="3.1.52" part="F">To be thus is nothing, </l>
             <l xml:id="ftln-1005" n="3.1.53">But to be safely thus. Our fears in Banquo </l>
             <l xml:id="ftln-1006" n="3.1.54">Stick deep, and in his royalty of nature </l>
@@ -2577,16 +2327,10 @@
             <l xml:id="ftln-1027" n="3.1.75">To make them kings, the seeds of Banquo kings. </l>
             <l xml:id="ftln-1028" n="3.1.76">Rather than so, come fate into the list, </l>
             <l xml:id="ftln-1029" n="3.1.77">And champion me to th’ utterance.— Who’s there? </l>
-            <stage xml:id="stg-1029.1"
-                         n="SD 3.1.77.1"
-                         type="entrance"
-                         who="#SERVANTS.X.2_Mac #MURDERERS.1_Mac #MURDERERS.2_Mac">Enter Servant and two Murderers. </stage>
+            <stage xml:id="stg-1029.1" n="SD 3.1.77.1" type="entrance" who="#SERVANTS.X.2_Mac #MURDERERS.1_Mac #MURDERERS.2_Mac">Enter Servant and two Murderers. </stage>
             <l xml:id="ftln-1030" n="3.1.78">
               <stage xml:id="stg-1030" n="SD 3.1.78" type="delivery">To the Servant. </stage>Now go to the door, and stay there till we call. </l>
-            <stage xml:id="stg-1031"
-                         n="SD 3.1.79"
-                         type="exit"
-                         who="#SERVANTS.X.2_Mac">Servant exits. </stage>
+            <stage xml:id="stg-1031" n="SD 3.1.79" type="exit" who="#SERVANTS.X.2_Mac">Servant exits. </stage>
             <l xml:id="ftln-1032" n="3.1.80">Was it not yesterday we spoke together? </l>
           </sp>
           <sp xml:id="sp-1033" who="#MURDERERS.1_Mac #MURDERERS.2_Mac">
@@ -2712,24 +2456,15 @@
           <sp xml:id="sp-1112" who="#Macbeth_Mac">
             <speaker xml:id="spk-1112">MACBETH </speaker>
             <l xml:id="ftln-1112" n="3.1.160">I’ll call upon you straight. Abide within. </l>
-            <stage xml:id="stg-1112.1"
-                         n="SD 3.1.160.1"
-                         type="exit"
-                         who="#MURDERERS.1_Mac #MURDERERS.2_Mac">Murderers exit. </stage>
+            <stage xml:id="stg-1112.1" n="SD 3.1.160.1" type="exit" who="#MURDERERS.1_Mac #MURDERERS.2_Mac">Murderers exit. </stage>
             <l xml:id="ftln-1113" n="3.1.161">It is concluded. Banquo, thy soul’s flight, </l>
             <l xml:id="ftln-1114" n="3.1.162">If it find heaven, must find it out tonight. </l>
           </sp>
-          <stage xml:id="stg-1114.1"
-                      n="SD 3.1.162.1"
-                      type="exit"
-                      who="#Macbeth_Mac">He exits. </stage>
+          <stage xml:id="stg-1114.1" n="SD 3.1.162.1" type="exit" who="#Macbeth_Mac">He exits. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-1114.2"
-                      n="SD 3.2.0"
-                      type="entrance"
-                      who="#LadyMacbeth_Mac #SERVANTS.X.3_Mac">Enter Macbeth’s Lady and a Servant. </stage>
+          <stage xml:id="stg-1114.2" n="SD 3.2.0" type="entrance" who="#LadyMacbeth_Mac #SERVANTS.X.3_Mac">Enter Macbeth’s Lady and a Servant. </stage>
           <sp xml:id="sp-1115" who="#LadyMacbeth_Mac">
             <speaker xml:id="spk-1115">LADY MACBETH </speaker>
             <l xml:id="ftln-1115" n="3.2.1" ana="#short">Is Banquo gone from court? </l>
@@ -2746,10 +2481,7 @@
           <sp xml:id="sp-1119" who="#SERVANTS.X.3_Mac">
             <speaker xml:id="spk-1119">SERVANT </speaker>
             <l xml:id="ftln-1119" n="3.2.5" ana="#short">Madam, I will. </l>
-            <stage xml:id="stg-1119"
-                         n="SD 3.2.5"
-                         type="exit"
-                         who="#SERVANTS.X.3_Mac">He exits. </stage>
+            <stage xml:id="stg-1119" n="SD 3.2.5" type="exit" who="#SERVANTS.X.3_Mac">He exits. </stage>
           </sp>
           <sp xml:id="sp-1120" who="#LadyMacbeth_Mac">
             <speaker xml:id="spk-1120">LADY MACBETH </speaker>
@@ -2757,10 +2489,7 @@
             <l xml:id="ftln-1121" n="3.2.7">Where our desire is got without content. </l>
             <l xml:id="ftln-1122" n="3.2.8">’Tis safer to be that which we destroy </l>
             <l xml:id="ftln-1123" n="3.2.9">Than by destruction dwell in doubtful joy. </l>
-            <stage xml:id="stg-1123.1"
-                         n="SD 3.2.9.1"
-                         type="entrance"
-                         who="#Macbeth_Mac">Enter Macbeth. </stage>
+            <stage xml:id="stg-1123.1" n="SD 3.2.9.1" type="entrance" who="#Macbeth_Mac">Enter Macbeth. </stage>
             <l xml:id="ftln-1124" n="3.2.10">How now, my lord, why do you keep alone, </l>
             <l xml:id="ftln-1125" n="3.2.11">Of sorriest fancies your companions making, </l>
             <l xml:id="ftln-1126" n="3.2.12">Using those thoughts which should indeed have died </l>
@@ -2841,17 +2570,11 @@
             <l xml:id="ftln-1176" n="3.2.62">Things bad begun make strong themselves by ill. </l>
             <l xml:id="ftln-1177" n="3.2.63">So prithee go with me. </l>
           </sp>
-          <stage xml:id="stg-1177.1"
-                      n="SD 3.2.63.1"
-                      type="exit"
-                      who="#Macbeth_Mac #LadyMacbeth_Mac">They exit. </stage>
+          <stage xml:id="stg-1177.1" n="SD 3.2.63.1" type="exit" who="#Macbeth_Mac #LadyMacbeth_Mac">They exit. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-1177.2"
-                      n="SD 3.3.0"
-                      type="entrance"
-                      who="#MURDERERS.1_Mac #MURDERERS.2_Mac #MURDERERS.3_Mac">Enter three Murderers. </stage>
+          <stage xml:id="stg-1177.2" n="SD 3.3.0" type="entrance" who="#MURDERERS.1_Mac #MURDERERS.2_Mac #MURDERERS.3_Mac">Enter three Murderers. </stage>
           <sp xml:id="sp-1178" who="#MURDERERS.1_Mac">
             <speaker xml:id="spk-1178">FIRST MURDERER </speaker>
             <l xml:id="ftln-1178" n="3.3.1" part="I">But who did bid thee join with us? </l>
@@ -2900,10 +2623,7 @@
             <l xml:id="ftln-1195" n="3.3.18">( So all men do) from hence to th’ palace gate </l>
             <l xml:id="ftln-1196" n="3.3.19" ana="#short">Make it their walk. </l>
           </sp>
-          <stage xml:id="stg-1196.1"
-                      n="SD 3.3.19.1"
-                      type="entrance"
-                      who="#Banquo_Mac #Fleance_Mac">Enter Banquo and Fleance, with a torch. </stage>
+          <stage xml:id="stg-1196.1" n="SD 3.3.19.1" type="entrance" who="#Banquo_Mac #Fleance_Mac">Enter Banquo and Fleance, with a torch. </stage>
           <sp xml:id="sp-1197" who="#MURDERERS.2_Mac">
             <speaker xml:id="spk-1197">SECOND MURDERER </speaker>
             <l xml:id="ftln-1197" n="3.3.20" ana="#short">A light, a light! </l>
@@ -2925,24 +2645,15 @@
             <speaker xml:id="spk-1201">FIRST MURDERER </speaker>
             <l xml:id="ftln-1201" n="3.3.24" ana="#short">Let it come down! </l>
           </sp>
-          <stage xml:id="stg-1201.1"
-                      n="SD 3.3.24.1"
-                      type="business"
-                      who="#MURDERERS.1_Mac #MURDERERS.2_Mac #MURDERERS.3_Mac #Banquo_Mac">The three Murderers attack. </stage>
+          <stage xml:id="stg-1201.1" n="SD 3.3.24.1" type="business" who="#MURDERERS.1_Mac #MURDERERS.2_Mac #MURDERERS.3_Mac #Banquo_Mac">The three Murderers attack. </stage>
           <sp xml:id="sp-1202" who="#Banquo_Mac">
             <speaker xml:id="spk-1202">BANQUO </speaker>
             <l xml:id="ftln-1202" n="3.3.25">O treachery! Fly, good Fleance, fly, fly, fly! </l>
             <l xml:id="ftln-1203" n="3.3.26" ana="#short">Thou mayst revenge— O slave! </l>
           </sp>
           <stage xml:id="stg-1203.1" n="SD 3.3.26.1" type="mixed">
-            <stage xml:id="stg-1203.1a"
-                         n="SD 3.3.26.1"
-                         type="business"
-                         who="#Banquo_Mac">He dies. </stage>
-            <stage xml:id="stg-1203.1b"
-                         n="SD 3.3.26.1"
-                         type="exit"
-                         who="#Fleance_Mac">Fleance exits. </stage>
+            <stage xml:id="stg-1203.1a" n="SD 3.3.26.1" type="business" who="#Banquo_Mac">He dies. </stage>
+            <stage xml:id="stg-1203.1b" n="SD 3.3.26.1" type="exit" who="#Fleance_Mac">Fleance exits. </stage>
           </stage>
           <sp xml:id="sp-1204" who="#MURDERERS.3_Mac">
             <speaker xml:id="spk-1204">THIRD MURDERER </speaker>
@@ -2966,26 +2677,17 @@
             <speaker xml:id="spk-1210">FIRST MURDERER </speaker>
             <l xml:id="ftln-1210" n="3.3.33">Well, let’s away and say how much is done. </l>
           </sp>
-          <stage xml:id="stg-1210.1"
-                      n="SD 3.3.33.1"
-                      type="exit"
-                      who="#MURDERERS.1_Mac #MURDERERS.2_Mac #MURDERERS.3_Mac #Banquo_Mac">They exit. </stage>
+          <stage xml:id="stg-1210.1" n="SD 3.3.33.1" type="exit" who="#MURDERERS.1_Mac #MURDERERS.2_Mac #MURDERERS.3_Mac #Banquo_Mac">They exit. </stage>
         </div>
         <div type="scene" n="4">
           <head>Scene 4 </head>
-          <stage xml:id="stg-1210.2"
-                      n="SD 3.4.0"
-                      type="entrance"
-                      who="#Macbeth_Mac #LadyMacbeth_Mac #Ross_Mac #Lennox_Mac #ATTENDANTS_Mac">Banquet prepared. Enter Macbeth, Lady Macbeth, Ross, Lennox, Lords, and Attendants. </stage>
+          <stage xml:id="stg-1210.2" n="SD 3.4.0" type="entrance" who="#Macbeth_Mac #LadyMacbeth_Mac #Ross_Mac #Lennox_Mac #ATTENDANTS_Mac">Banquet prepared. Enter Macbeth, Lady Macbeth, Ross, Lennox, Lords, and Attendants. </stage>
           <sp xml:id="sp-1211" who="#Macbeth_Mac">
             <speaker xml:id="spk-1211">MACBETH </speaker>
             <l xml:id="ftln-1211" n="3.4.1">You know your own degrees; sit down. At first </l>
             <l xml:id="ftln-1212" n="3.4.2" ana="#short">And last, the hearty welcome. </l>
           </sp>
-          <stage xml:id="stg-1212"
-                      n="SD 3.4.2"
-                      type="business"
-                      who="#Macbeth_Mac #LadyMacbeth_Mac #Ross_Mac #Lennox_Mac #ATTENDANTS_Mac">They sit. </stage>
+          <stage xml:id="stg-1212" n="SD 3.4.2" type="business" who="#Macbeth_Mac #LadyMacbeth_Mac #Ross_Mac #Lennox_Mac #ATTENDANTS_Mac">They sit. </stage>
           <sp xml:id="sp-1213" who="#ATTENDANTS_Mac">
             <speaker xml:id="spk-1213">LORDS </speaker>
             <l xml:id="ftln-1213" n="3.4.3" ana="#short">Thanks to your Majesty. </l>
@@ -3002,20 +2704,13 @@
             <l xml:id="ftln-1218" n="3.4.8">Pronounce it for me, sir, to all our friends, </l>
             <l xml:id="ftln-1219" n="3.4.9">For my heart speaks they are welcome. </l>
           </sp>
-          <stage xml:id="stg-1219.1"
-                      n="SD 3.4.9.1"
-                      type="entrance"
-                      who="#MURDERERS.1_Mac">Enter First Murderer to the door. </stage>
+          <stage xml:id="stg-1219.1" n="SD 3.4.9.1" type="entrance" who="#MURDERERS.1_Mac">Enter First Murderer to the door. </stage>
           <sp xml:id="sp-1220" who="#Macbeth_Mac">
             <speaker xml:id="spk-1220">MACBETH </speaker>
             <l xml:id="ftln-1220" n="3.4.10">See, they encounter thee with their hearts’ thanks. </l>
             <l xml:id="ftln-1221" n="3.4.11">Both sides are even. Here I’ll sit i’ th’ midst. </l>
             <l xml:id="ftln-1222" n="3.4.12">Be large in mirth. Anon we’ll drink a measure </l>
-            <l xml:id="ftln-1223" n="3.4.13">The table round. <stage xml:id="stg-1223"
-                            n="SD 3.4.13"
-                            type="business"
-                            rendition="inline"
-                            who="#Macbeth_Mac"> He approaches the Murderer. </stage> There’s blood upon thy face. </l>
+            <l xml:id="ftln-1223" n="3.4.13">The table round. <stage xml:id="stg-1223" n="SD 3.4.13" type="business" rendition="inline" who="#Macbeth_Mac"> He approaches the Murderer. </stage> There’s blood upon thy face. </l>
           </sp>
           <sp xml:id="sp-1225" who="#MURDERERS.1_Mac">
             <speaker xml:id="spk-1225">MURDERER </speaker>
@@ -3063,10 +2758,7 @@
             <l xml:id="ftln-1244" n="3.4.34">No teeth for th’ present. Get thee gone. Tomorrow </l>
             <l xml:id="ftln-1245" n="3.4.35" part="I">We’ll hear ourselves again. </l>
           </sp>
-          <stage xml:id="stg-1245"
-                      n="SD 3.4.35"
-                      type="exit"
-                      who="#MURDERERS.1_Mac">Murderer exits. </stage>
+          <stage xml:id="stg-1245" n="SD 3.4.35" type="exit" who="#MURDERERS.1_Mac">Murderer exits. </stage>
           <sp xml:id="sp-1246" who="#LadyMacbeth_Mac">
             <speaker xml:id="spk-1246">LADY MACBETH </speaker>
             <l xml:id="ftln-1246" n="3.4.36" part="F">My royal lord, </l>
@@ -3076,10 +2768,7 @@
             <l xml:id="ftln-1250" n="3.4.40">From thence, the sauce to meat is ceremony; </l>
             <l xml:id="ftln-1251" n="3.4.41" ana="#short">Meeting were bare without it. </l>
           </sp>
-          <stage xml:id="stg-1251.1"
-                      n="SD 3.4.41.1"
-                      type="entrance"
-                      who="#Banquo_Mac">Enter the Ghost of Banquo, and sits in Macbeth’s place. </stage>
+          <stage xml:id="stg-1251.1" n="SD 3.4.41.1" type="entrance" who="#Banquo_Mac">Enter the Ghost of Banquo, and sits in Macbeth’s place. </stage>
           <sp xml:id="sp-1252" who="#Macbeth_Mac">
             <speaker xml:id="spk-1252">MACBETH </speaker>
             <stage xml:id="stg-1252" n="SD 3.3.42" type="delivery">, to Lady Macbeth </stage>
@@ -3146,10 +2835,7 @@
             <l xml:id="ftln-1277" n="3.4.67">He will again be well. If much you note him </l>
             <l xml:id="ftln-1278" n="3.4.68">You shall offend him and extend his passion. </l>
             <l xml:id="ftln-1279" n="3.4.69" part="I">Feed and regard him not. </l>
-            <stage xml:id="stg-1279"
-                         n="SD 3.4.69"
-                         type="business"
-                         who="#LadyMacbeth_Mac #Macbeth_Mac">Drawing Macbeth aside. </stage>
+            <stage xml:id="stg-1279" n="SD 3.4.69" type="business" who="#LadyMacbeth_Mac #Macbeth_Mac">Drawing Macbeth aside. </stage>
             <l xml:id="ftln-1280" n="3.4.70" part="F">Are you a man? </l>
           </sp>
           <sp xml:id="sp-1281" who="#Macbeth_Mac">
@@ -3214,10 +2900,7 @@
             <l xml:id="ftln-1314" n="3.4.104">I have a strange infirmity, which is nothing </l>
             <l xml:id="ftln-1315" n="3.4.105">To those that know me. Come, love and health to all. </l>
             <l xml:id="ftln-1317" n="3.4.107">Then I’ll sit down.— Give me some wine. Fill full. </l>
-            <stage xml:id="stg-1317.1"
-                         n="SD 3.4.107.1"
-                         type="entrance"
-                         who="#Banquo_Mac">Enter Ghost. </stage>
+            <stage xml:id="stg-1317.1" n="SD 3.4.107.1" type="entrance" who="#Banquo_Mac">Enter Ghost. </stage>
             <l xml:id="ftln-1318" n="3.4.108">I drink to th’ general joy o’ th’ whole table </l>
             <l xml:id="ftln-1319" n="3.4.109">And to our dear friend Banquo, whom we miss. </l>
             <l xml:id="ftln-1320" n="3.4.110">Would he were here! To all, and him we thirst, </l>
@@ -3227,10 +2910,7 @@
             <speaker xml:id="spk-1322">LORDS </speaker>
             <l xml:id="ftln-1322" n="3.4.112" part="F">Our duties, and the pledge. </l>
           </sp>
-          <stage xml:id="stg-1322.1"
-                      n="SD 3.4.112.1"
-                      type="business"
-                      who="#Ross_Mac #Lennox_Mac #ATTENDANTS_Mac #LadyMacbeth_Mac">They raise their drinking cups. </stage>
+          <stage xml:id="stg-1322.1" n="SD 3.4.112.1" type="business" who="#Ross_Mac #Lennox_Mac #ATTENDANTS_Mac #LadyMacbeth_Mac">They raise their drinking cups. </stage>
           <sp xml:id="sp-1323" who="#Macbeth_Mac">
             <speaker xml:id="spk-1323">MACBETH </speaker>
             <stage xml:id="stg-1323.0" n="SD 3.4.113.0" type="delivery">, to the Ghost </stage>
@@ -3296,10 +2976,7 @@
             <speaker xml:id="spk-1360">LADY MACBETH </speaker>
             <l xml:id="ftln-1360" n="3.4.150" ana="#short">A kind good night to all. </l>
           </sp>
-          <stage xml:id="stg-1360.1"
-                      n="SD 3.4.150.1"
-                      type="exit"
-                      who="#Ross_Mac #Lennox_Mac #ATTENDANTS_Mac">Lords and all but Macbeth and Lady Macbeth exit. </stage>
+          <stage xml:id="stg-1360.1" n="SD 3.4.150.1" type="exit" who="#Ross_Mac #Lennox_Mac #ATTENDANTS_Mac">Lords and all but Macbeth and Lady Macbeth exit. </stage>
           <sp xml:id="sp-1361" who="#Macbeth_Mac">
             <speaker xml:id="spk-1361">MACBETH </speaker>
             <l xml:id="ftln-1361" n="3.4.151">It will have blood, they say; blood will have blood. </l>
@@ -3345,17 +3022,11 @@
             <l xml:id="ftln-1385" n="3.4.175">Is the initiate fear that wants hard use. </l>
             <l xml:id="ftln-1386" n="3.4.176" ana="#short">We are yet but young in deed. </l>
           </sp>
-          <stage xml:id="stg-1386.1"
-                      n="SD 3.4.176.1"
-                      type="exit"
-                      who="#Macbeth_Mac #LadyMacbeth_Mac">They exit. </stage>
+          <stage xml:id="stg-1386.1" n="SD 3.4.176.1" type="exit" who="#Macbeth_Mac #LadyMacbeth_Mac">They exit. </stage>
         </div>
         <div type="scene" n="5">
           <head>Scene 5 </head>
-          <stage xml:id="stg-1386.2"
-                      n="SD 3.5.0"
-                      type="entrance"
-                      who="#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac #Hecate_Mac">
+          <stage xml:id="stg-1386.2" n="SD 3.5.0" type="entrance" who="#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac #Hecate_Mac">
             <stage xml:id="snd-1386.2" n="SD 3.5.0" type="sound" ana="thunder">Thunder. </stage> Enter the three Witches, meeting Hecate. </stage>
           <sp xml:id="sp-1387" who="#WITCHES.1_Mac">
             <speaker xml:id="spk-1387">FIRST WITCH </speaker>
@@ -3407,17 +3078,11 @@
             <speaker xml:id="spk-1422">FIRST WITCH </speaker>
             <l xml:id="ftln-1422" n="3.5.36">Come, let’s make haste. She’ll soon be back again. </l>
           </sp>
-          <stage xml:id="stg-1422.1"
-                      n="SD 3.5.36.1"
-                      type="exit"
-                      who="#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac">They exit. </stage>
+          <stage xml:id="stg-1422.1" n="SD 3.5.36.1" type="exit" who="#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac">They exit. </stage>
         </div>
         <div type="scene" n="6">
           <head>Scene 6 </head>
-          <stage xml:id="stg-1422.2"
-                      n="SD 3.6.0"
-                      type="entrance"
-                      who="#Lennox_Mac #Lord_Mac">Enter Lennox and another Lord. </stage>
+          <stage xml:id="stg-1422.2" n="SD 3.6.0" type="entrance" who="#Lennox_Mac #Lord_Mac">Enter Lennox and another Lord. </stage>
           <sp xml:id="sp-1423" who="#Lennox_Mac">
             <speaker xml:id="spk-1423">LENNOX </speaker>
             <l xml:id="ftln-1423" n="3.6.1">My former speeches have but hit your thoughts, </l>
@@ -3489,20 +3154,14 @@
             <speaker xml:id="spk-1478">LORD </speaker>
             <l xml:id="ftln-1478" n="3.6.56" ana="#short">I’ll send my prayers with him. </l>
           </sp>
-          <stage xml:id="stg-1478.1"
-                      n="SD 3.6.56.1"
-                      type="exit"
-                      who="#Lennox_Mac #Lord_Mac">They exit. </stage>
+          <stage xml:id="stg-1478.1" n="SD 3.6.56.1" type="exit" who="#Lennox_Mac #Lord_Mac">They exit. </stage>
         </div>
       </div>
       <div type="act" n="4">
         <head>ACT 4 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-1478.2"
-                      n="SD 4.1.0"
-                      type="entrance"
-                      who="#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac">
+          <stage xml:id="stg-1478.2" n="SD 4.1.0" type="entrance" who="#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac">
             <stage xml:id="snd-1478.2" n="SD 4.1.0" type="sound" ana="thunder">Thunder. </stage> Enter the three Witches. </stage>
           <sp xml:id="sp-1479" who="#WITCHES.1_Mac">
             <speaker xml:id="spk-1479">FIRST WITCH </speaker>
@@ -3525,10 +3184,7 @@
             <l xml:id="ftln-1486" n="4.1.8">Sweltered venom sleeping got, </l>
             <l xml:id="ftln-1487" n="4.1.9">Boil thou first i’ th’ charmèd pot. </l>
           </sp>
-          <stage xml:id="stg-1487.1"
-                      n="SD 4.1.9.1"
-                      type="business"
-                      who="#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac">The Witches circle the cauldron. </stage>
+          <stage xml:id="stg-1487.1" n="SD 4.1.9.1" type="business" who="#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac">The Witches circle the cauldron. </stage>
           <sp xml:id="sp-1488" who="#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac">
             <speaker xml:id="spk-1488">ALL </speaker>
             <l xml:id="ftln-1488" n="4.1.10">Double, double toil and trouble; </l>
@@ -3576,10 +3232,7 @@
             <l xml:id="ftln-1515" n="4.1.37">Cool it with a baboon’s blood. </l>
             <l xml:id="ftln-1516" n="4.1.38">Then the charm is firm and good. </l>
           </sp>
-          <stage xml:id="stg-1516.1"
-                      n="SD 4.1.38.1"
-                      type="entrance"
-                      who="#Hecate_Mac">Enter Hecate to the other three Witches. </stage>
+          <stage xml:id="stg-1516.1" n="SD 4.1.38.1" type="entrance" who="#Hecate_Mac">Enter Hecate to the other three Witches. </stage>
           <sp xml:id="sp-1517" who="#Hecate_Mac">
             <speaker xml:id="spk-1517">HECATE </speaker>
             <l xml:id="ftln-1517" n="4.1.39">O, well done! I commend your pains, </l>
@@ -3592,10 +3245,7 @@
             <stage xml:id="stg-1521.1a" n="SD 4.1.43.1" type="business">
               <stage xml:id="snd-1521.1a" n="SD 4.1.43.1" type="sound">Music and a song: “ Black Spirits,” etc. </stage>
             </stage>
-            <stage xml:id="stg-1521.1b"
-                         n="SD 4.1.43.1"
-                         type="exit"
-                         who="#Hecate_Mac">Hecate exits. </stage>
+            <stage xml:id="stg-1521.1b" n="SD 4.1.43.1" type="exit" who="#Hecate_Mac">Hecate exits. </stage>
           </stage>
           <sp xml:id="sp-1522" who="#WITCHES.2_Mac">
             <speaker xml:id="spk-1522">SECOND WITCH </speaker>
@@ -3604,10 +3254,7 @@
             <l xml:id="ftln-1524" n="4.1.46">Open, locks, </l>
             <l xml:id="ftln-1525" n="4.1.47">Whoever knocks. </l>
           </sp>
-          <stage xml:id="stg-1525.1"
-                      n="SD 4.1.47.1"
-                      type="entrance"
-                      who="#Macbeth_Mac">Enter Macbeth. </stage>
+          <stage xml:id="stg-1525.1" n="SD 4.1.47.1" type="entrance" who="#Macbeth_Mac">Enter Macbeth. </stage>
           <sp xml:id="sp-1526" who="#Macbeth_Mac">
             <speaker xml:id="spk-1526">MACBETH </speaker>
             <l xml:id="ftln-1526" n="4.1.48">How now, you secret, black, and midnight hags? </l>
@@ -3665,10 +3312,7 @@
             <l xml:id="ftln-1553" n="4.1.75" part="F">Come high or low; </l>
             <l xml:id="ftln-1554" n="4.1.76">Thyself and office deftly show. </l>
           </sp>
-          <stage xml:id="stg-1554.1"
-                      n="SD 4.1.76.1"
-                      type="entrance"
-                      who="#SPIRITS.1_Mac">
+          <stage xml:id="stg-1554.1" n="SD 4.1.76.1" type="entrance" who="#SPIRITS.1_Mac">
             <stage xml:id="snd-1554.1a" n="SD 4.1.76.1" type="sound" ana="thunder">Thunder. </stage> First Apparition, an Armed Head. </stage>
           <sp xml:id="sp-1555" who="#Macbeth_Mac">
             <speaker xml:id="spk-1555">MACBETH </speaker>
@@ -3684,10 +3328,7 @@
             <l xml:id="ftln-1559" n="4.1.81">Macbeth! Macbeth! Macbeth! Beware Macduff! </l>
             <l xml:id="ftln-1560" n="4.1.82">Beware the Thane of Fife! Dismiss me. Enough. </l>
           </sp>
-          <stage xml:id="stg-1560.1"
-                      n="SD 4.1.82.1"
-                      type="exit"
-                      who="#SPIRITS.1_Mac">He descends. </stage>
+          <stage xml:id="stg-1560.1" n="SD 4.1.82.1" type="exit" who="#SPIRITS.1_Mac">He descends. </stage>
           <sp xml:id="sp-1561" who="#Macbeth_Mac">
             <speaker xml:id="spk-1561">MACBETH </speaker>
             <l xml:id="ftln-1561" n="4.1.83">Whate’er thou art, for thy good caution, thanks. </l>
@@ -3698,10 +3339,7 @@
             <l xml:id="ftln-1564" n="4.1.86">He will not be commanded. Here’s another </l>
             <l xml:id="ftln-1565" n="4.1.87" ana="#short">More potent than the first. </l>
           </sp>
-          <stage xml:id="stg-1565.1"
-                      n="SD 4.1.87.1"
-                      type="entrance"
-                      who="#SPIRITS.2_Mac">
+          <stage xml:id="stg-1565.1" n="SD 4.1.87.1" type="entrance" who="#SPIRITS.2_Mac">
             <stage xml:id="snd-1565.1" n="SD 4.1.87.1" type="sound" ana="thunder">Thunder. </stage> Second Apparition, a Bloody Child. </stage>
           <sp xml:id="sp-1566" who="#SPIRITS.2_Mac">
             <speaker xml:id="spk-1566">SECOND APPARITION </speaker>
@@ -3717,10 +3355,7 @@
             <l xml:id="ftln-1569" n="4.1.91">The power of man, for none of woman born </l>
             <l xml:id="ftln-1570" n="4.1.92" ana="#short">Shall harm Macbeth. </l>
           </sp>
-          <stage xml:id="stg-1570"
-                      n="SD 4.1.92"
-                      type="exit"
-                      who="#SPIRITS.2_Mac">He descends. </stage>
+          <stage xml:id="stg-1570" n="SD 4.1.92" type="exit" who="#SPIRITS.2_Mac">He descends. </stage>
           <sp xml:id="sp-1571" who="#Macbeth_Mac">
             <speaker xml:id="spk-1571">MACBETH </speaker>
             <l xml:id="ftln-1571" n="4.1.93">Then live, Macduff; what need I fear of thee? </l>
@@ -3728,10 +3363,7 @@
             <l xml:id="ftln-1573" n="4.1.95">And take a bond of fate. Thou shalt not live, </l>
             <l xml:id="ftln-1574" n="4.1.96">That I may tell pale-hearted fear it lies, </l>
             <l xml:id="ftln-1575" n="4.1.97" part="I">And sleep in spite of thunder. </l>
-            <stage xml:id="stg-1575.1"
-                         n="SD 4.1.97.1"
-                         type="entrance"
-                         who="#SPIRITS.3_Mac">
+            <stage xml:id="stg-1575.1" n="SD 4.1.97.1" type="entrance" who="#SPIRITS.3_Mac">
               <stage xml:id="snd-1575.1" n="SD 4.1.97.1" type="sound" ana="thunder">Thunder. </stage> Third Apparition, a Child Crowned, with a tree in his hand. </stage>
             <l xml:id="ftln-1576" n="4.1.98" part="F">What is this </l>
             <l xml:id="ftln-1577" n="4.1.99">That rises like the issue of a king </l>
@@ -3750,10 +3382,7 @@
             <l xml:id="ftln-1584" n="4.1.106">Great Birnam Wood to high Dunsinane Hill </l>
             <l xml:id="ftln-1585" n="4.1.107" part="I">Shall come against him. </l>
           </sp>
-          <stage xml:id="stg-1585"
-                      n="SD 4.1.107"
-                      type="exit"
-                      who="#SPIRITS.3_Mac">He descends. </stage>
+          <stage xml:id="stg-1585" n="SD 4.1.107" type="exit" who="#SPIRITS.3_Mac">He descends. </stage>
           <sp xml:id="sp-1586" who="#Macbeth_Mac">
             <speaker xml:id="spk-1586">MACBETH </speaker>
             <l xml:id="ftln-1586" n="4.1.108" part="F">That will never be. </l>
@@ -3775,10 +3404,7 @@
             <speaker xml:id="spk-1597">MACBETH </speaker>
             <l xml:id="ftln-1597" n="4.1.119">I will be satisfied. Deny me this, </l>
             <l xml:id="ftln-1598" n="4.1.120">And an eternal curse fall on you! Let me know! </l>
-            <stage xml:id="stg-1598.1" n="SD 4.1.120.1" type="business">Cauldron sinks. <stage xml:id="snd-1598.1"
-                            n="SD 4.1.120.1"
-                            type="sound"
-                            ana="hautboys">Hautboys. </stage>
+            <stage xml:id="stg-1598.1" n="SD 4.1.120.1" type="business">Cauldron sinks. <stage xml:id="snd-1598.1" n="SD 4.1.120.1" type="sound" ana="hautboys">Hautboys. </stage>
             </stage>
             <l xml:id="ftln-1599" n="4.1.121">Why sinks that cauldron? And what noise is this? </l>
           </sp>
@@ -3799,10 +3425,7 @@
             <l xml:id="ftln-1603" n="4.1.125">Show his eyes and grieve his heart. </l>
             <l xml:id="ftln-1604" n="4.1.126">Come like shadows; so depart. </l>
           </sp>
-          <stage xml:id="stg-1604.1"
-                      n="SD 4.1.126.1"
-                      type="entrance"
-                      who="#SPIRITS.KINGS_Mac #Banquo_Mac">A show of eight kings, the eighth king with a glass in his hand, and Banquo last. </stage>
+          <stage xml:id="stg-1604.1" n="SD 4.1.126.1" type="entrance" who="#SPIRITS.KINGS_Mac #Banquo_Mac">A show of eight kings, the eighth king with a glass in his hand, and Banquo last. </stage>
           <sp xml:id="sp-1605" who="#Macbeth_Mac">
             <speaker xml:id="spk-1605">MACBETH </speaker>
             <l xml:id="ftln-1605" n="4.1.127">Thou art too like the spirit of Banquo. Down! </l>
@@ -3818,10 +3441,7 @@
             <l xml:id="ftln-1615" n="4.1.137">Horrible sight! Now I see ’tis true, </l>
             <l xml:id="ftln-1616" n="4.1.138">For the blood-boltered Banquo smiles upon me </l>
             <l xml:id="ftln-1617" n="4.1.139" part="I">And points at them for his. </l>
-            <stage xml:id="stg-1617.1"
-                         n="SD 4.1.139.1"
-                         type="exit"
-                         who="#SPIRITS.KINGS_Mac #Banquo_Mac">The Apparitions disappear. </stage>
+            <stage xml:id="stg-1617.1" n="SD 4.1.139.1" type="exit" who="#SPIRITS.KINGS_Mac #Banquo_Mac">The Apparitions disappear. </stage>
             <l xml:id="ftln-1618" n="4.1.140" part="F">What, is this so? </l>
           </sp>
           <sp xml:id="sp-1619" who="#WITCHES.1_Mac">
@@ -3835,10 +3455,7 @@
             <l xml:id="ftln-1625" n="4.1.147">That this great king may kindly say </l>
             <l xml:id="ftln-1626" n="4.1.148">Our duties did his welcome pay. </l>
           </sp>
-          <stage xml:id="stg-1626.1"
-                      n="SD 4.1.148.1"
-                      type="exit"
-                      who="#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac">
+          <stage xml:id="stg-1626.1" n="SD 4.1.148.1" type="exit" who="#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac">
             <stage xml:id="snd-1626.1" n="SD 4.1.148.1" type="sound">Music. </stage> The Witches dance and vanish. </stage>
           <sp xml:id="sp-1627" who="#Macbeth_Mac">
             <speaker xml:id="spk-1627">MACBETH </speaker>
@@ -3846,10 +3463,7 @@
             <l xml:id="ftln-1628" n="4.1.150">Stand aye accursèd in the calendar!— </l>
             <l xml:id="ftln-1629" n="4.1.151" part="I">Come in, without there. </l>
           </sp>
-          <stage xml:id="stg-1629.1"
-                      n="SD 4.1.151.1"
-                      type="entrance"
-                      who="#Lennox_Mac">Enter Lennox. </stage>
+          <stage xml:id="stg-1629.1" n="SD 4.1.151.1" type="entrance" who="#Lennox_Mac">Enter Lennox. </stage>
           <sp xml:id="sp-1630" who="#Lennox_Mac">
             <speaker xml:id="spk-1630">LENNOX </speaker>
             <l xml:id="ftln-1630" n="4.1.152" part="F">What’s your Grace’s will? </l>
@@ -3906,17 +3520,11 @@
             <l xml:id="ftln-1654" n="4.1.176">But no more sights!— Where are these gentlemen? </l>
             <l xml:id="ftln-1655" n="4.1.177" ana="#short">Come bring me where they are. </l>
           </sp>
-          <stage xml:id="stg-1655.1"
-                      n="SD 4.1.177.1"
-                      type="exit"
-                      who="#Macbeth_Mac #Lennox_Mac">They exit. </stage>
+          <stage xml:id="stg-1655.1" n="SD 4.1.177.1" type="exit" who="#Macbeth_Mac #Lennox_Mac">They exit. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-1655.2"
-                      n="SD 4.2.0"
-                      type="entrance"
-                      who="#LadyMacduff_Mac #MacduffsSon_Mac #Ross_Mac">Enter Macduff’s Wife, her Son, and Ross. </stage>
+          <stage xml:id="stg-1655.2" n="SD 4.2.0" type="entrance" who="#LadyMacduff_Mac #MacduffsSon_Mac #Ross_Mac">Enter Macduff’s Wife, her Son, and Ross. </stage>
           <sp xml:id="sp-1656" who="#LadyMacduff_Mac">
             <speaker xml:id="spk-1656">LADY MACDUFF </speaker>
             <l xml:id="ftln-1656" n="4.2.1">What had he done to make him fly the land? </l>
@@ -4093,10 +3701,7 @@
             <p xml:id="p-1725">
               <lb xml:id="ftln-1725" n="4.2.70"/>Poor prattler, how thou talk’st! </p>
           </sp>
-          <stage xml:id="stg-1725.1"
-                      n="SD 4.2.70.1"
-                      type="entrance"
-                      who="#MESSENGERS.2_Mac">Enter a Messenger. </stage>
+          <stage xml:id="stg-1725.1" n="SD 4.2.70.1" type="entrance" who="#MESSENGERS.2_Mac">Enter a Messenger. </stage>
           <sp xml:id="sp-1726" who="#MESSENGERS.2_Mac">
             <speaker xml:id="spk-1726">MESSENGER </speaker>
             <l xml:id="ftln-1726" n="4.2.71">Bless you, fair dame. I am not to you known, </l>
@@ -4109,10 +3714,7 @@
             <l xml:id="ftln-1733" n="4.2.78">Which is too nigh your person. Heaven preserve you! </l>
             <l xml:id="ftln-1735" n="4.2.80" part="I">I dare abide no longer. </l>
           </sp>
-          <stage xml:id="stg-1735"
-                      n="SD 4.2.80"
-                      type="exit"
-                      who="#MESSENGERS.2_Mac">Messenger exits. </stage>
+          <stage xml:id="stg-1735" n="SD 4.2.80" type="exit" who="#MESSENGERS.2_Mac">Messenger exits. </stage>
           <sp xml:id="sp-1736" who="#LadyMacduff_Mac">
             <speaker xml:id="spk-1736">LADY MACDUFF </speaker>
             <l xml:id="ftln-1736" n="4.2.81" part="F">Whither should I fly? </l>
@@ -4122,10 +3724,7 @@
             <l xml:id="ftln-1740" n="4.2.85">Accounted dangerous folly. Why then, alas, </l>
             <l xml:id="ftln-1741" n="4.2.86">Do I put up that womanly defense </l>
             <l xml:id="ftln-1742" n="4.2.87" part="I">To say I have done no harm? </l>
-            <stage xml:id="stg-1742.1"
-                         n="SD 4.2.87.1"
-                         type="entrance"
-                         who="#MURDERERS_Mac">Enter Murderers. </stage>
+            <stage xml:id="stg-1742.1" n="SD 4.2.87.1" type="entrance" who="#MURDERERS_Mac">Enter Murderers. </stage>
             <l xml:id="ftln-1743" n="4.2.88" part="F">What are these faces? </l>
           </sp>
           <sp xml:id="sp-1744" who="#MURDERERS.0.1_Mac">
@@ -4149,28 +3748,18 @@
             <speaker xml:id="spk-1749">MURDERER </speaker>
             <l xml:id="ftln-1749" n="4.2.94" part="F">What, you egg? </l>
             <l xml:id="ftln-1750" n="4.2.95" part="I">
-              <stage xml:id="stg-1750"
-                            n="SD 4.2.95"
-                            type="business"
-                            rendition="inline"
-                            who="#MURDERERS.0.1_Mac #MacduffsSon_Mac">Stabbing him. </stage>Young fry of treachery! </l>
+              <stage xml:id="stg-1750" n="SD 4.2.95" type="business" rendition="inline" who="#MURDERERS.0.1_Mac #MacduffsSon_Mac">Stabbing him. </stage>Young fry of treachery! </l>
           </sp>
           <sp xml:id="sp-1751" who="#MacduffsSon_Mac">
             <speaker xml:id="spk-1751">SON </speaker>
             <l xml:id="ftln-1751" n="4.2.96" prev="#ftln-1750">He has killed me, mother. </l>
             <l xml:id="ftln-1753" n="4.2.98" ana="#short">Run away, I pray you. </l>
           </sp>
-          <stage xml:id="stg-1753.1"
-                      n="SD 4.2.98.1"
-                      type="exit"
-                      who="#LadyMacduff_Mac #MURDERERS_Mac #MacduffsSon_Mac">Lady Macduff exits, crying “ Murder!” followed by the Murderers bearing the Son’s body. </stage>
+          <stage xml:id="stg-1753.1" n="SD 4.2.98.1" type="exit" who="#LadyMacduff_Mac #MURDERERS_Mac #MacduffsSon_Mac">Lady Macduff exits, crying “ Murder!” followed by the Murderers bearing the Son’s body. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-1753.2"
-                      n="SD 4.3.0"
-                      type="entrance"
-                      who="#Malcolm_Mac #Macduff_Mac">Enter Malcolm and Macduff. </stage>
+          <stage xml:id="stg-1753.2" n="SD 4.3.0" type="entrance" who="#Malcolm_Mac #Macduff_Mac">Enter Malcolm and Macduff. </stage>
           <sp xml:id="sp-1754" who="#Malcolm_Mac">
             <speaker xml:id="spk-1754">MALCOLM </speaker>
             <l xml:id="ftln-1754" n="4.3.1">Let us seek out some desolate shade and there </l>
@@ -4391,10 +3980,7 @@
             <l xml:id="ftln-1910" n="4.3.157">Such welcome and unwelcome things at once </l>
             <l xml:id="ftln-1911" n="4.3.158" part="I">’Tis hard to reconcile. </l>
           </sp>
-          <stage xml:id="stg-1911.1"
-                      n="SD 4.3.158.1"
-                      type="entrance"
-                      who="#Doctor1_Mac">Enter a Doctor. </stage>
+          <stage xml:id="stg-1911.1" n="SD 4.3.158.1" type="entrance" who="#Doctor1_Mac">Enter a Doctor. </stage>
           <sp xml:id="sp-1912" who="#Malcolm_Mac">
             <speaker xml:id="spk-1912">MALCOLM </speaker>
             <l xml:id="ftln-1912" n="4.3.159" part="F">Well, more anon.— </l>
@@ -4412,10 +3998,7 @@
             <speaker xml:id="spk-1919">MALCOLM </speaker>
             <l xml:id="ftln-1919" n="4.3.166" part="F">I thank you, doctor. </l>
           </sp>
-          <stage xml:id="stg-1919.1"
-                      n="SD 4.3.166.1"
-                      type="exit"
-                      who="#Doctor1_Mac">Doctor exits. </stage>
+          <stage xml:id="stg-1919.1" n="SD 4.3.166.1" type="exit" who="#Doctor1_Mac">Doctor exits. </stage>
           <sp xml:id="sp-1920" who="#Macduff_Mac">
             <speaker xml:id="spk-1920">MACDUFF </speaker>
             <l xml:id="ftln-1920" n="4.3.167" part="I">What’s the disease he means? </l>
@@ -4437,10 +4020,7 @@
             <l xml:id="ftln-1933" n="4.3.180">And sundry blessings hang about his throne </l>
             <l xml:id="ftln-1934" n="4.3.181" part="I">That speak him full of grace. </l>
           </sp>
-          <stage xml:id="stg-1934.1"
-                      n="SD 4.3.181.1"
-                      type="entrance"
-                      who="#Ross_Mac">Enter Ross. </stage>
+          <stage xml:id="stg-1934.1" n="SD 4.3.181.1" type="entrance" who="#Ross_Mac">Enter Ross. </stage>
           <sp xml:id="sp-1935" who="#Macduff_Mac">
             <speaker xml:id="spk-1935">MACDUFF </speaker>
             <l xml:id="ftln-1935" n="4.3.182" part="F">See who comes here. </l>
@@ -4654,20 +4234,14 @@
             <l xml:id="ftln-2033" n="4.3.280">Put on their instruments. Receive what cheer you may. </l>
             <l xml:id="ftln-2035" n="4.3.282">The night is long that never finds the day. </l>
           </sp>
-          <stage xml:id="stg-2035.1"
-                      n="SD 4.3.282.1"
-                      type="exit"
-                      who="#Ross_Mac #Malcolm_Mac #Macduff_Mac">They exit. </stage>
+          <stage xml:id="stg-2035.1" n="SD 4.3.282.1" type="exit" who="#Ross_Mac #Malcolm_Mac #Macduff_Mac">They exit. </stage>
         </div>
       </div>
       <div type="act" n="5">
         <head>ACT 5 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-2035.2"
-                      n="SD 5.1.0"
-                      type="entrance"
-                      who="#Doctor2_Mac #Gentlewoman_Mac">Enter a Doctor of Physic and a Waiting-Gentlewoman. </stage>
+          <stage xml:id="stg-2035.2" n="SD 5.1.0" type="entrance" who="#Doctor2_Mac #Gentlewoman_Mac">Enter a Doctor of Physic and a Waiting-Gentlewoman. </stage>
           <sp xml:id="sp-2036" who="#Doctor2_Mac">
             <speaker xml:id="spk-2036">DOCTOR </speaker>
             <p xml:id="p-2036">
@@ -4697,10 +4271,7 @@
             <speaker xml:id="spk-2054">GENTLEWOMAN </speaker>
             <p xml:id="p-2054">
               <lb xml:id="ftln-2054" n="5.1.19"/>Neither to you nor anyone, having no <lb xml:id="ftln-2055" n="5.1.20"/>witness to confirm my speech. </p>
-            <stage xml:id="stg-2055.1"
-                         n="SD 5.1.20.1"
-                         type="entrance"
-                         who="#LadyMacbeth_Mac">Enter Lady Macbeth with a taper. </stage>
+            <stage xml:id="stg-2055.1" n="SD 5.1.20.1" type="entrance" who="#LadyMacbeth_Mac">Enter Lady Macbeth with a taper. </stage>
             <p xml:id="p-2056">
               <lb xml:id="ftln-2056" n="5.1.21"/>Lo you, here she comes. This is her very guise and, <lb xml:id="ftln-2057" n="5.1.22"/>upon my life, fast asleep. Observe her; stand close. </p>
           </sp>
@@ -4814,10 +4385,7 @@
             <p xml:id="p-2104">
               <lb xml:id="ftln-2104" n="5.1.69"/>To bed, to bed. There’s knocking at the <lb xml:id="ftln-2105" n="5.1.70"/>gate. Come, come, come, come. Give me your <lb xml:id="ftln-2106" n="5.1.71"/>hand. What’s done cannot be undone. To bed, to <lb xml:id="ftln-2107" n="5.1.72"/>bed, to bed. </p>
           </sp>
-          <stage xml:id="stg-2107"
-                      n="SD 5.1.72"
-                      type="exit"
-                      who="#LadyMacbeth_Mac">Lady Macbeth exits. </stage>
+          <stage xml:id="stg-2107" n="SD 5.1.72" type="exit" who="#LadyMacbeth_Mac">Lady Macbeth exits. </stage>
           <sp xml:id="sp-2108" who="#Doctor2_Mac">
             <speaker xml:id="spk-2108">DOCTOR </speaker>
             <p xml:id="p-2108">
@@ -4844,17 +4412,11 @@
             <speaker xml:id="spk-2119">GENTLEWOMAN </speaker>
             <l xml:id="ftln-2119" n="5.1.84" part="F">Good night, good doctor. </l>
           </sp>
-          <stage xml:id="stg-2119.1"
-                      n="SD 5.1.84.1"
-                      type="exit"
-                      who="#Doctor2_Mac #Gentlewoman_Mac">They exit. </stage>
+          <stage xml:id="stg-2119.1" n="SD 5.1.84.1" type="exit" who="#Doctor2_Mac #Gentlewoman_Mac">They exit. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-2119.2"
-                      n="SD 5.2.0"
-                      type="entrance"
-                      who="#Menteith_Mac #Caithness_Mac #Angus_Mac #Lennox_Mac #SOLDIERS.MALCOLM_Mac">
+          <stage xml:id="stg-2119.2" n="SD 5.2.0" type="entrance" who="#Menteith_Mac #Caithness_Mac #Angus_Mac #Lennox_Mac #SOLDIERS.MALCOLM_Mac">
             <stage xml:id="snd-2119.2" n="SD 5.2.0" type="sound" ana="drum">Drum </stage> and Colors. Enter Menteith, Caithness, Angus, Lennox, and Soldiers. </stage>
           <sp xml:id="sp-2120" who="#Menteith_Mac">
             <speaker xml:id="spk-2120">MENTEITH </speaker>
@@ -4923,17 +4485,11 @@
             <l xml:id="ftln-2155" n="5.2.36">To dew the sovereign flower and drown the weeds. </l>
             <l xml:id="ftln-2156" n="5.2.37" ana="#short">Make we our march towards Birnam. </l>
           </sp>
-          <stage xml:id="stg-2156.1"
-                      n="SD 5.2.37.1"
-                      type="exit"
-                      who="#Menteith_Mac #Caithness_Mac #Angus_Mac #Lennox_Mac #SOLDIERS.MALCOLM_Mac">They exit marching. </stage>
+          <stage xml:id="stg-2156.1" n="SD 5.2.37.1" type="exit" who="#Menteith_Mac #Caithness_Mac #Angus_Mac #Lennox_Mac #SOLDIERS.MALCOLM_Mac">They exit marching. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-2156.2"
-                      n="SD 5.3.0"
-                      type="entrance"
-                      who="#Macbeth_Mac #Doctor2_Mac #ATTENDANTS_Mac">Enter Macbeth, the Doctor, and Attendants. </stage>
+          <stage xml:id="stg-2156.2" n="SD 5.3.0" type="entrance" who="#Macbeth_Mac #Doctor2_Mac #ATTENDANTS_Mac">Enter Macbeth, the Doctor, and Attendants. </stage>
           <sp xml:id="sp-2157" who="#Macbeth_Mac">
             <speaker xml:id="spk-2157">MACBETH </speaker>
             <l xml:id="ftln-2157" n="5.3.1">Bring me no more reports. Let them fly all. </l>
@@ -4946,10 +4502,7 @@
             <l xml:id="ftln-2165" n="5.3.9">And mingle with the English epicures. </l>
             <l xml:id="ftln-2166" n="5.3.10">The mind I sway by and the heart I bear </l>
             <l xml:id="ftln-2167" n="5.3.11">Shall never sag with doubt nor shake with fear. </l>
-            <stage xml:id="stg-2167.1"
-                         n="SD 5.3.11.1"
-                         type="entrance"
-                         who="#SERVANTS.X.4_Mac">Enter Servant. </stage>
+            <stage xml:id="stg-2167.1" n="SD 5.3.11.1" type="entrance" who="#SERVANTS.X.4_Mac">Enter Servant. </stage>
             <l xml:id="ftln-2168" n="5.3.12">The devil damn thee black, thou cream-faced loon! </l>
             <l xml:id="ftln-2169" n="5.3.13" ana="#short">Where got’st thou that goose-look? </l>
           </sp>
@@ -4979,10 +4532,7 @@
           <sp xml:id="sp-2178" who="#Macbeth_Mac">
             <speaker xml:id="spk-2178">MACBETH </speaker>
             <l xml:id="ftln-2178" n="5.3.22" part="I">Take thy face hence. </l>
-            <stage xml:id="stg-2178"
-                         n="SD 5.3.22"
-                         type="exit"
-                         who="#SERVANTS.X.4_Mac">Servant exits. </stage>
+            <stage xml:id="stg-2178" n="SD 5.3.22" type="exit" who="#SERVANTS.X.4_Mac">Servant exits. </stage>
             <l xml:id="ftln-2179" n="5.3.23" part="F">Seyton!— I am sick at heart </l>
             <l xml:id="ftln-2180" n="5.3.24">When I behold— Seyton, I say!— This push </l>
             <l xml:id="ftln-2181" n="5.3.25">Will cheer me ever or disseat me now. </l>
@@ -4995,10 +4545,7 @@
             <l xml:id="ftln-2188" n="5.3.32">Which the poor heart would fain deny and dare not.— </l>
             <l xml:id="ftln-2190" n="5.3.34" ana="#short">Seyton! </l>
           </sp>
-          <stage xml:id="stg-2190.1"
-                      n="SD 5.3.34.1"
-                      type="entrance"
-                      who="#Seyton_Mac">Enter Seyton. </stage>
+          <stage xml:id="stg-2190.1" n="SD 5.3.34.1" type="entrance" who="#Seyton_Mac">Enter Seyton. </stage>
           <sp xml:id="sp-2191" who="#Seyton_Mac">
             <speaker xml:id="spk-2191">SEYTON </speaker>
             <l xml:id="ftln-2191" n="5.3.35" part="I">What’s your gracious pleasure? </l>
@@ -5052,10 +4599,7 @@
             <speaker xml:id="spk-2214">MACBETH </speaker>
             <l xml:id="ftln-2214" n="5.3.58">Throw physic to the dogs. I’ll none of it.— </l>
             <l xml:id="ftln-2215" n="5.3.59">Come, put mine armor on. Give me my staff. </l>
-            <stage xml:id="stg-2215.1"
-                         n="SD 5.3.59.1"
-                         type="business"
-                         who="#Macbeth_Mac #ATTENDANTS_Mac">Attendants begin to arm him. </stage>
+            <stage xml:id="stg-2215.1" n="SD 5.3.59.1" type="business" who="#Macbeth_Mac #ATTENDANTS_Mac">Attendants begin to arm him. </stage>
             <l xml:id="ftln-2216" n="5.3.60">Seyton, send out.— Doctor, the thanes fly from me.— </l>
             <l xml:id="ftln-2218" n="5.3.62">Come, sir, dispatch.— If thou couldst, doctor, cast </l>
             <l xml:id="ftln-2219" n="5.3.63">The water of my land, find her disease, </l>
@@ -5082,17 +4626,11 @@
             <l xml:id="ftln-2231" n="5.3.75">Were I from Dunsinane away and clear, </l>
             <l xml:id="ftln-2232" n="5.3.76">Profit again should hardly draw me here. </l>
           </sp>
-          <stage xml:id="stg-2232.1"
-                      n="SD 5.3.76.1"
-                      type="exit"
-                      who="#Doctor2_Mac #Macbeth_Mac #ATTENDANTS_Mac #Seyton_Mac">They exit. </stage>
+          <stage xml:id="stg-2232.1" n="SD 5.3.76.1" type="exit" who="#Doctor2_Mac #Macbeth_Mac #ATTENDANTS_Mac #Seyton_Mac">They exit. </stage>
         </div>
         <div type="scene" n="4">
           <head>Scene 4 </head>
-          <stage xml:id="stg-2232.2"
-                      n="SD 5.4.0"
-                      type="entrance"
-                      who="#Malcolm_Mac #Siward_Mac #Macduff_Mac #YoungSiward_Mac #Menteith_Mac #Caithness_Mac #Angus_Mac #SOLDIERS.MALCOLM_Mac">
+          <stage xml:id="stg-2232.2" n="SD 5.4.0" type="entrance" who="#Malcolm_Mac #Siward_Mac #Macduff_Mac #YoungSiward_Mac #Menteith_Mac #Caithness_Mac #Angus_Mac #SOLDIERS.MALCOLM_Mac">
             <stage xml:id="snd-2232.2" n="SD 5.4.0" type="sound" ana="drum">Drum </stage> and Colors. Enter Malcolm, Siward, Macduff, Siward’s son, Menteith, Caithness, Angus, and Soldiers, marching. </stage>
           <sp xml:id="sp-2233" who="#Malcolm_Mac">
             <speaker xml:id="spk-2233">MALCOLM </speaker>
@@ -5151,17 +4689,11 @@
             <l xml:id="ftln-2258" n="5.4.26">But certain issue strokes must arbitrate; </l>
             <l xml:id="ftln-2259" n="5.4.27" ana="#short">Towards which, advance the war. </l>
           </sp>
-          <stage xml:id="stg-2259.1"
-                      n="SD 5.4.27.1"
-                      type="exit"
-                      who="#Malcolm_Mac #Siward_Mac #Macduff_Mac #YoungSiward_Mac #Menteith_Mac #Caithness_Mac #Angus_Mac #SOLDIERS.MALCOLM_Mac">They exit marching. </stage>
+          <stage xml:id="stg-2259.1" n="SD 5.4.27.1" type="exit" who="#Malcolm_Mac #Siward_Mac #Macduff_Mac #YoungSiward_Mac #Menteith_Mac #Caithness_Mac #Angus_Mac #SOLDIERS.MALCOLM_Mac">They exit marching. </stage>
         </div>
         <div type="scene" n="5">
           <head>Scene 5 </head>
-          <stage xml:id="stg-2259.2"
-                      n="SD 5.5.0"
-                      type="entrance"
-                      who="#Macbeth_Mac #Seyton_Mac #SOLDIERS.MACBETH_Mac">Enter Macbeth, Seyton, and Soldiers, with <stage xml:id="snd-2259.2" n="SD 5.5.0" type="sound" ana="drum">Drum </stage> and Colors. </stage>
+          <stage xml:id="stg-2259.2" n="SD 5.5.0" type="entrance" who="#Macbeth_Mac #Seyton_Mac #SOLDIERS.MACBETH_Mac">Enter Macbeth, Seyton, and Soldiers, with <stage xml:id="snd-2259.2" n="SD 5.5.0" type="sound" ana="drum">Drum </stage> and Colors. </stage>
           <sp xml:id="sp-2260" who="#Macbeth_Mac">
             <speaker xml:id="spk-2260">MACBETH </speaker>
             <l xml:id="ftln-2260" n="5.5.1">Hang out our banners on the outward walls. </l>
@@ -5188,10 +4720,7 @@
             <l xml:id="ftln-2274" n="5.5.15">As life were in ’t. I have supped full with horrors. </l>
             <l xml:id="ftln-2275" n="5.5.16">Direness, familiar to my slaughterous thoughts, </l>
             <l xml:id="ftln-2276" n="5.5.17" part="I">Cannot once start me. </l>
-            <stage xml:id="stg-2276.1"
-                         n="SD 5.5.17.1"
-                         type="entrance"
-                         who="#Seyton_Mac">Enter Seyton. </stage>
+            <stage xml:id="stg-2276.1" n="SD 5.5.17.1" type="entrance" who="#Seyton_Mac">Enter Seyton. </stage>
             <l xml:id="ftln-2277" n="5.5.18" part="F">Wherefore was that cry? </l>
           </sp>
           <sp xml:id="sp-2278" who="#Seyton_Mac">
@@ -5212,10 +4741,7 @@
             <l xml:id="ftln-2288" n="5.5.29">And then is heard no more. It is a tale </l>
             <l xml:id="ftln-2289" n="5.5.30">Told by an idiot, full of sound and fury, </l>
             <l xml:id="ftln-2290" n="5.5.31" ana="#short">Signifying nothing. </l>
-            <stage xml:id="stg-2290.1"
-                         n="SD 5.5.31.1"
-                         type="entrance"
-                         who="#MESSENGERS.3_Mac">Enter a Messenger. </stage>
+            <stage xml:id="stg-2290.1" n="SD 5.5.31.1" type="entrance" who="#MESSENGERS.3_Mac">Enter a Messenger. </stage>
             <l xml:id="ftln-2291" n="5.5.32">Thou com’st to use thy tongue: thy story quickly. </l>
           </sp>
           <sp xml:id="sp-2292" who="#MESSENGERS.3_Mac">
@@ -5262,17 +4788,11 @@
             <l xml:id="ftln-2317" n="5.5.58">Ring the alarum bell!— Blow wind, come wrack, </l>
             <l xml:id="ftln-2318" n="5.5.59">At least we’ll die with harness on our back. </l>
           </sp>
-          <stage xml:id="stg-2318.1"
-                      n="SD 5.5.59.1"
-                      type="exit"
-                      who="#Macbeth_Mac #Seyton_Mac #SOLDIERS.MACBETH_Mac #MESSENGERS.3_Mac">They exit. </stage>
+          <stage xml:id="stg-2318.1" n="SD 5.5.59.1" type="exit" who="#Macbeth_Mac #Seyton_Mac #SOLDIERS.MACBETH_Mac #MESSENGERS.3_Mac">They exit. </stage>
         </div>
         <div type="scene" n="6">
           <head>Scene 6 </head>
-          <stage xml:id="stg-2318.2"
-                      n="SD 5.6.0"
-                      type="entrance"
-                      who="#Malcolm_Mac #Siward_Mac #Macduff_Mac #YoungSiward_Mac #Menteith_Mac #Caithness_Mac #Angus_Mac #SOLDIERS.MALCOLM_Mac">
+          <stage xml:id="stg-2318.2" n="SD 5.6.0" type="entrance" who="#Malcolm_Mac #Siward_Mac #Macduff_Mac #YoungSiward_Mac #Menteith_Mac #Caithness_Mac #Angus_Mac #SOLDIERS.MALCOLM_Mac">
             <stage xml:id="snd-2318.2" n="SD 5.6.0" type="sound" ana="drum">Drum </stage> and Colors. Enter Malcolm, Siward, Macduff, and their army, with boughs. </stage>
           <sp xml:id="sp-2319" who="#Malcolm_Mac">
             <speaker xml:id="spk-2319">MALCOLM </speaker>
@@ -5294,20 +4814,14 @@
             <l xml:id="ftln-2328" n="5.6.10">Make all our trumpets speak; give them all breath, </l>
             <l xml:id="ftln-2329" n="5.6.11">Those clamorous harbingers of blood and death. </l>
           </sp>
-          <stage xml:id="stg-2329.1"
-                      n="SD 5.6.11.1"
-                      type="exit"
-                      who="#Malcolm_Mac #Siward_Mac #Macduff_Mac #YoungSiward_Mac #Menteith_Mac #Caithness_Mac #Angus_Mac #SOLDIERS.MALCOLM_Mac">They exit. </stage>
+          <stage xml:id="stg-2329.1" n="SD 5.6.11.1" type="exit" who="#Malcolm_Mac #Siward_Mac #Macduff_Mac #YoungSiward_Mac #Menteith_Mac #Caithness_Mac #Angus_Mac #SOLDIERS.MALCOLM_Mac">They exit. </stage>
           <stage xml:id="stg-2329.2" n="SD 5.6.11.2" type="business">
             <stage xml:id="snd-2329.2" n="SD 5.6.11.2" type="sound" ana="alarum">Alarums continued. </stage>
           </stage>
         </div>
         <div type="scene" n="7">
           <head>Scene 7 </head>
-          <stage xml:id="stg-2329.3"
-                      n="SD 5.7.0"
-                      type="entrance"
-                      who="#Macbeth_Mac">Enter Macbeth. </stage>
+          <stage xml:id="stg-2329.3" n="SD 5.7.0" type="entrance" who="#Macbeth_Mac">Enter Macbeth. </stage>
           <sp xml:id="sp-2330" who="#Macbeth_Mac">
             <speaker xml:id="spk-2330">MACBETH </speaker>
             <l xml:id="ftln-2330" n="5.7.1">They have tied me to a stake. I cannot fly, </l>
@@ -5315,10 +4829,7 @@
             <l xml:id="ftln-2332" n="5.7.3">That was not born of woman? Such a one </l>
             <l xml:id="ftln-2333" n="5.7.4" ana="#short">Am I to fear, or none. </l>
           </sp>
-          <stage xml:id="stg-2333.1"
-                      n="SD 5.7.4.1"
-                      type="entrance"
-                      who="#YoungSiward_Mac">Enter young Siward. </stage>
+          <stage xml:id="stg-2333.1" n="SD 5.7.4.1" type="entrance" who="#YoungSiward_Mac">Enter young Siward. </stage>
           <sp xml:id="sp-2334" who="#YoungSiward_Mac">
             <speaker xml:id="spk-2334">YOUNG SIWARD </speaker>
             <l xml:id="ftln-2334" n="5.7.5" ana="#short">What is thy name? </l>
@@ -5350,24 +4861,15 @@
             <l xml:id="ftln-2342" n="5.7.13">Thou liest, abhorrèd tyrant. With my sword </l>
             <l xml:id="ftln-2343" n="5.7.14" part="I">I’ll prove the lie thou speak’st. </l>
           </sp>
-          <stage xml:id="stg-2343.1"
-                      n="SD 5.7.14.1"
-                      type="business"
-                      who="#Macbeth_Mac #YoungSiward_Mac">They fight, and young Siward is slain. </stage>
+          <stage xml:id="stg-2343.1" n="SD 5.7.14.1" type="business" who="#Macbeth_Mac #YoungSiward_Mac">They fight, and young Siward is slain. </stage>
           <sp xml:id="sp-2344" who="#Macbeth_Mac">
             <speaker xml:id="spk-2344">MACBETH </speaker>
             <l xml:id="ftln-2344" n="5.7.15" prev="#ftln-2343">Thou wast born of woman. </l>
             <l xml:id="ftln-2346" n="5.7.17">But swords I smile at, weapons laugh to scorn, </l>
             <l xml:id="ftln-2347" n="5.7.18">Brandished by man that’s of a woman born. </l>
           </sp>
-          <stage xml:id="stg-2347.1"
-                      n="SD 5.7.18.1"
-                      type="exit"
-                      who="#Macbeth_Mac #YoungSiward_Mac">He exits. </stage>
-          <stage xml:id="stg-2347.2"
-                      n="SD 5.7.18.2"
-                      type="entrance"
-                      who="#Macduff_Mac">
+          <stage xml:id="stg-2347.1" n="SD 5.7.18.1" type="exit" who="#Macbeth_Mac #YoungSiward_Mac">He exits. </stage>
+          <stage xml:id="stg-2347.2" n="SD 5.7.18.2" type="entrance" who="#Macduff_Mac">
             <stage xml:id="snd-2347.2" n="SD 5.7.18.2" type="sound" ana="alarum">Alarums. </stage> Enter Macduff. </stage>
           <sp xml:id="sp-2348" who="#Macduff_Mac">
             <speaker xml:id="spk-2348">MACDUFF </speaker>
@@ -5383,10 +4885,7 @@
             <l xml:id="ftln-2357" n="5.7.28" ana="#short">And more I beg not. </l>
             <stage xml:id="stg-2357" n="SD 5.7.28" type="exit" who="#Macduff_Mac">He exits. <stage xml:id="snd-2357" n="SD 5.7.28" type="sound" ana="alarum">Alarums. </stage>
             </stage>
-            <stage xml:id="stg-2357.1"
-                         n="SD 5.7.28.1"
-                         type="entrance"
-                         who="#Malcolm_Mac #Siward_Mac">Enter Malcolm and Siward. </stage>
+            <stage xml:id="stg-2357.1" n="SD 5.7.28.1" type="entrance" who="#Malcolm_Mac #Siward_Mac">Enter Malcolm and Siward. </stage>
           </sp>
           <sp xml:id="sp-2358" who="#Siward_Mac">
             <speaker xml:id="spk-2358">SIWARD </speaker>
@@ -5405,28 +4904,19 @@
             <speaker xml:id="spk-2365">SIWARD </speaker>
             <l xml:id="ftln-2365" n="5.7.36" part="F">Enter, sir, the castle. </l>
           </sp>
-          <stage xml:id="stg-2365.1"
-                      n="SD 5.7.36.1"
-                      type="exit"
-                      who="#Malcolm_Mac #Siward_Mac">They exit. <stage xml:id="snd-2365.1" n="SD 5.7.36.1" type="sound" ana="alarum">Alarum. </stage>
+          <stage xml:id="stg-2365.1" n="SD 5.7.36.1" type="exit" who="#Malcolm_Mac #Siward_Mac">They exit. <stage xml:id="snd-2365.1" n="SD 5.7.36.1" type="sound" ana="alarum">Alarum. </stage>
           </stage>
         </div>
         <div type="scene" n="8">
           <head>Scene 8 </head>
-          <stage xml:id="stg-2365.2"
-                      n="SD 5.8.0"
-                      type="entrance"
-                      who="#Macbeth_Mac">Enter Macbeth. </stage>
+          <stage xml:id="stg-2365.2" n="SD 5.8.0" type="entrance" who="#Macbeth_Mac">Enter Macbeth. </stage>
           <sp xml:id="sp-2366" who="#Macbeth_Mac">
             <speaker xml:id="spk-2366">MACBETH </speaker>
             <l xml:id="ftln-2366" n="5.8.1">Why should I play the Roman fool and die </l>
             <l xml:id="ftln-2367" n="5.8.2">On mine own sword? Whiles I see lives, the gashes </l>
             <l xml:id="ftln-2368" n="5.8.3" part="I">Do better upon them. </l>
           </sp>
-          <stage xml:id="stg-2368.1"
-                      n="SD 5.8.3.1"
-                      type="entrance"
-                      who="#Macduff_Mac">Enter Macduff. </stage>
+          <stage xml:id="stg-2368.1" n="SD 5.8.3.1" type="entrance" who="#Macduff_Mac">Enter Macduff. </stage>
           <sp xml:id="sp-2369" who="#Macduff_Mac">
             <speaker xml:id="spk-2369">MACDUFF </speaker>
             <l xml:id="ftln-2369" n="5.8.4" part="F">Turn, hellhound, turn! </l>
@@ -5443,10 +4933,7 @@
             <l xml:id="ftln-2374" n="5.8.9">My voice is in my sword, thou bloodier villain </l>
             <l xml:id="ftln-2375" n="5.8.10" part="I">Than terms can give thee out. </l>
           </sp>
-          <stage xml:id="stg-2375"
-                      n="SD 5.8.10"
-                      type="business"
-                      who="#Macbeth_Mac #Macduff_Mac">Fight. <stage xml:id="snd-2375" n="SD 5.8.10" type="sound" ana="alarum">Alarum. </stage>
+          <stage xml:id="stg-2375" n="SD 5.8.10" type="business" who="#Macbeth_Mac #Macduff_Mac">Fight. <stage xml:id="snd-2375" n="SD 5.8.10" type="sound" ana="alarum">Alarum. </stage>
           </stage>
           <sp xml:id="sp-2376" who="#Macbeth_Mac">
             <speaker xml:id="spk-2376">MACBETH </speaker>
@@ -5492,24 +4979,12 @@
             <l xml:id="ftln-2403" n="5.8.38">I throw my warlike shield. Lay on, Macduff, </l>
             <l xml:id="ftln-2404" n="5.8.39">And damned be him that first cries “ Hold! Enough!” </l>
           </sp>
-          <stage xml:id="stg-2404.1"
-                      n="SD 5.8.39.1"
-                      type="exit"
-                      who="#Macbeth_Mac #Macduff_Mac">They exit fighting. <stage xml:id="snd-2404.1" n="SD 5.8.39.1" type="sound" ana="alarum">Alarums. </stage>
+          <stage xml:id="stg-2404.1" n="SD 5.8.39.1" type="exit" who="#Macbeth_Mac #Macduff_Mac">They exit fighting. <stage xml:id="snd-2404.1" n="SD 5.8.39.1" type="sound" ana="alarum">Alarums. </stage>
           </stage>
           <stage xml:id="stg-2404.2" n="SD 5.8.39.2" type="mixed">
-            <stage xml:id="stg-2404.2a"
-                         n="SD 5.8.39.2"
-                         type="business"
-                         who="#Macbeth_Mac #Macduff_Mac">They enter fighting, and Macbeth is slain. Macduff exits carrying off Macbeth’s body. <stage xml:id="snd-2404.2a" n="SD 5.8.39.2" type="sound" ana="retreat">Retreat </stage> and <stage xml:id="snd-2404.2b"
-                            n="SD 5.8.39.2"
-                            type="sound"
-                            ana="flourish">flourish. </stage>
+            <stage xml:id="stg-2404.2a" n="SD 5.8.39.2" type="business" who="#Macbeth_Mac #Macduff_Mac">They enter fighting, and Macbeth is slain. Macduff exits carrying off Macbeth’s body. <stage xml:id="snd-2404.2a" n="SD 5.8.39.2" type="sound" ana="retreat">Retreat </stage> and <stage xml:id="snd-2404.2b" n="SD 5.8.39.2" type="sound" ana="flourish">flourish. </stage>
             </stage>
-            <stage xml:id="stg-2404.2b"
-                         n="SD 5.8.39.2"
-                         type="entrance"
-                         who="#Malcolm_Mac #Siward_Mac #Ross_Mac #ATTENDANTS_Mac #SOLDIERS.MALCOLM_Mac">Enter, with <stage xml:id="snd-2404.2c" n="SD 5.8.39.2" type="sound" ana="drum">Drum </stage> and Colors, Malcolm, Siward, Ross, Thanes, and Soldiers. </stage>
+            <stage xml:id="stg-2404.2b" n="SD 5.8.39.2" type="entrance" who="#Malcolm_Mac #Siward_Mac #Ross_Mac #ATTENDANTS_Mac #SOLDIERS.MALCOLM_Mac">Enter, with <stage xml:id="snd-2404.2c" n="SD 5.8.39.2" type="sound" ana="drum">Drum </stage> and Colors, Malcolm, Siward, Ross, Thanes, and Soldiers. </stage>
           </stage>
           <sp xml:id="sp-2405" who="#Malcolm_Mac">
             <speaker xml:id="spk-2405">MALCOLM </speaker>
@@ -5567,10 +5042,7 @@
             <l xml:id="ftln-2427" n="5.8.62">They say he parted well and paid his score, </l>
             <l xml:id="ftln-2428" n="5.8.63">And so, God be with him. Here comes newer comfort. </l>
           </sp>
-          <stage xml:id="stg-2429.1"
-                      n="SD 5.8.64.1"
-                      type="entrance"
-                      who="#Macduff_Mac">Enter Macduff with Macbeth’s head. </stage>
+          <stage xml:id="stg-2429.1" n="SD 5.8.64.1" type="entrance" who="#Macduff_Mac">Enter Macduff with Macbeth’s head. </stage>
           <sp xml:id="sp-2430" who="#Macduff_Mac">
             <speaker xml:id="spk-2430">MACDUFF </speaker>
             <l xml:id="ftln-2430" n="5.8.65">Hail, King! for so thou art. Behold where stands </l>
@@ -5580,8 +5052,7 @@
             <l xml:id="ftln-2434" n="5.8.69">Whose voices I desire aloud with mine. </l>
             <l xml:id="ftln-2435" n="5.8.70" ana="#short">Hail, King of Scotland! </l>
           </sp>
-          <sp xml:id="sp-2436"
-                   who="#Macduff_Mac #Siward_Mac #Ross_Mac #ATTENDANTS_Mac #SOLDIERS.MALCOLM_Mac">
+          <sp xml:id="sp-2436" who="#Macduff_Mac #Siward_Mac #Ross_Mac #ATTENDANTS_Mac #SOLDIERS.MALCOLM_Mac">
             <speaker xml:id="spk-2436">ALL </speaker>
             <l xml:id="ftln-2436" n="5.8.71" ana="#short">Hail, King of Scotland! </l>
           </sp>
@@ -5607,10 +5078,7 @@
             <l xml:id="ftln-2452" n="5.8.87">So thanks to all at once and to each one, </l>
             <l xml:id="ftln-2453" n="5.8.88">Whom we invite to see us crowned at Scone. </l>
           </sp>
-          <stage xml:id="stg-2453.1b"
-                      n="SD 5.8.88.1"
-                      type="exit"
-                      who="#Macduff_Mac #Malcolm_Mac #Siward_Mac #Ross_Mac #ATTENDANTS_Mac #SOLDIERS.MALCOLM_Mac">
+          <stage xml:id="stg-2453.1b" n="SD 5.8.88.1" type="exit" who="#Macduff_Mac #Malcolm_Mac #Siward_Mac #Ross_Mac #ATTENDANTS_Mac #SOLDIERS.MALCOLM_Mac">
             <stage xml:id="snd-2453.1" n="SD 5.8.88.1" type="sound" ana="flourish">Flourish. </stage> All exit. </stage>
         </div>
       </div>

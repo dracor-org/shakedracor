@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shake000005">
   <teiHeader>
     <fileDesc>
@@ -167,9 +168,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/shake000005"
-                   passive="http://www.wikidata.org/entity/Q506505"/>
+      <relation name="wikidata" active="https://dracor.org/entity/shake000005" passive="http://www.wikidata.org/entity/Q506505"/>
     </listRelation>
   </standOff>
   <text>
@@ -344,10 +343,7 @@
         <head>ACT 1 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-0000"
-                      n="SD 1.1.0"
-                      type="entrance"
-                      who="#Duke_Err #Egeon_Err #OFFICERS.Jailer_Err #ATTENDANTS_Err">Enter Solinus the Duke of Ephesus, with Egeon the Merchant of Syracuse, Jailer, and other Attendants. </stage>
+          <stage xml:id="stg-0000" n="SD 1.1.0" type="entrance" who="#Duke_Err #Egeon_Err #OFFICERS.Jailer_Err #ATTENDANTS_Err">Enter Solinus the Duke of Ephesus, with Egeon the Merchant of Syracuse, Jailer, and other Attendants. </stage>
           <sp xml:id="sp-0001" who="#Egeon_Err">
             <speaker xml:id="spk-0001">EGEON </speaker>
             <l xml:id="ftln-0001" n="1.1.1">Proceed, Solinus, to procure my fall, </l>
@@ -542,17 +538,11 @@
             <l xml:id="ftln-0157" n="1.1.157">Hopeless and helpless doth Egeon wend, </l>
             <l xml:id="ftln-0158" n="1.1.158">But to procrastinate his lifeless end. </l>
           </sp>
-          <stage xml:id="stg-0158.1"
-                      n="SD 1.1.158.1"
-                      type="exit"
-                      who="#Duke_Err #Egeon_Err #OFFICERS.Jailer_Err #ATTENDANTS_Err">They exit. </stage>
+          <stage xml:id="stg-0158.1" n="SD 1.1.158.1" type="exit" who="#Duke_Err #Egeon_Err #OFFICERS.Jailer_Err #ATTENDANTS_Err">They exit. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-0158.2"
-                      n="SD 1.2.0"
-                      type="entrance"
-                      who="#AntipholusOfSyracuse_Err #Merchant1_Err #DromioOfSyracuse_Err">Enter Antipholus of Syracuse, First Merchant, and Dromio of Syracuse. </stage>
+          <stage xml:id="stg-0158.2" n="SD 1.2.0" type="entrance" who="#AntipholusOfSyracuse_Err #Merchant1_Err #DromioOfSyracuse_Err">Enter Antipholus of Syracuse, First Merchant, and Dromio of Syracuse. </stage>
           <sp xml:id="sp-0159" who="#Merchant1_Err">
             <speaker xml:id="spk-0159">FIRST MERCHANT </speaker>
             <l xml:id="ftln-0159" n="1.2.1">Therefore give out you are of Epidamium, </l>
@@ -564,16 +554,10 @@
             <l xml:id="ftln-0165" n="1.2.7">Dies ere the weary sun set in the west. </l>
             <l xml:id="ftln-0166" n="1.2.8">There is your money that I had to keep. </l>
           </sp>
-          <stage xml:id="stg-0166.1"
-                      n="SD 1.2.8.1"
-                      type="business"
-                      who="#Merchant1_Err #AntipholusOfSyracuse_Err">He gives money. </stage>
+          <stage xml:id="stg-0166.1" n="SD 1.2.8.1" type="business" who="#Merchant1_Err #AntipholusOfSyracuse_Err">He gives money. </stage>
           <sp xml:id="sp-0167" who="#AntipholusOfSyracuse_Err">
             <speaker xml:id="spk-0167">ANTIPHOLUS OF SYRACUSE </speaker>
-            <stage xml:id="stg-0167.0"
-                         n="SD 1.2.9.0"
-                         type="business"
-                         who="#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err">, handing money to Dromio </stage>
+            <stage xml:id="stg-0167.0" n="SD 1.2.9.0" type="business" who="#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err">, handing money to Dromio </stage>
             <l xml:id="ftln-0167" n="1.2.9">Go bear it to the Centaur, where we host, </l>
             <l xml:id="ftln-0168" n="1.2.10">And stay there, Dromio, till I come to thee. </l>
             <l xml:id="ftln-0169" n="1.2.11">Within this hour it will be dinnertime. </l>
@@ -588,10 +572,7 @@
             <l xml:id="ftln-0175" n="1.2.17">Many a man would take you at your word </l>
             <l xml:id="ftln-0176" n="1.2.18">And go indeed, having so good a mean. </l>
           </sp>
-          <stage xml:id="stg-0176.1"
-                      n="SD 1.2.18.1"
-                      type="exit"
-                      who="#DromioOfSyracuse_Err">Dromio of Syracuse exits. </stage>
+          <stage xml:id="stg-0176.1" n="SD 1.2.18.1" type="exit" who="#DromioOfSyracuse_Err">Dromio of Syracuse exits. </stage>
           <sp xml:id="sp-0177" who="#AntipholusOfSyracuse_Err">
             <speaker xml:id="spk-0177">ANTIPHOLUS OF SYRACUSE </speaker>
             <l xml:id="ftln-0177" n="1.2.19">A trusty villain, sir, that very oft, </l>
@@ -618,10 +599,7 @@
             <speaker xml:id="spk-0190">FIRST MERCHANT </speaker>
             <l xml:id="ftln-0190" n="1.2.32">Sir, I commend you to your own content. </l>
           </sp>
-          <stage xml:id="stg-0190"
-                      n="SD 1.2.32"
-                      type="exit"
-                      who="#Merchant1_Err">He exits. </stage>
+          <stage xml:id="stg-0190" n="SD 1.2.32" type="exit" who="#Merchant1_Err">He exits. </stage>
           <sp xml:id="sp-0191" who="#AntipholusOfSyracuse_Err">
             <speaker xml:id="spk-0191">ANTIPHOLUS OF SYRACUSE </speaker>
             <l xml:id="ftln-0191" n="1.2.33">He that commends me to mine own content </l>
@@ -632,10 +610,7 @@
             <l xml:id="ftln-0196" n="1.2.38">Unseen, inquisitive, confounds himself. </l>
             <l xml:id="ftln-0197" n="1.2.39">So I, to find a mother and a brother, </l>
             <l xml:id="ftln-0198" n="1.2.40">In quest of them, unhappy, lose myself. </l>
-            <stage xml:id="stg-0198.1"
-                         n="SD 1.2.40.1"
-                         type="entrance"
-                         who="#DromioOfEphesus_Err">Enter Dromio of Ephesus. </stage>
+            <stage xml:id="stg-0198.1" n="SD 1.2.40.1" type="entrance" who="#DromioOfEphesus_Err">Enter Dromio of Ephesus. </stage>
             <l xml:id="ftln-0199" n="1.2.41">Here comes the almanac of my true date.— </l>
             <l xml:id="ftln-0200" n="1.2.42">What now? How chance thou art returned so soon? </l>
           </sp>
@@ -728,10 +703,7 @@
           </sp>
           <sp xml:id="sp-0251" who="#AntipholusOfSyracuse_Err">
             <speaker xml:id="spk-0251">ANTIPHOLUS OF SYRACUSE </speaker>
-            <stage xml:id="stg-0251.0"
-                         n="SD 1.2.93.0"
-                         type="business"
-                         who="#AntipholusOfSyracuse_Err #DromioOfEphesus_Err">, beating Dromio </stage>
+            <stage xml:id="stg-0251.0" n="SD 1.2.93.0" type="business" who="#AntipholusOfSyracuse_Err #DromioOfEphesus_Err">, beating Dromio </stage>
             <l xml:id="ftln-0251" n="1.2.93">What, wilt thou flout me thus unto my face, </l>
             <l xml:id="ftln-0252" n="1.2.94">Being forbid? There, take you that, sir knave. </l>
           </sp>
@@ -740,10 +712,7 @@
             <l xml:id="ftln-0253" n="1.2.95">What mean you, sir? For God’s sake, hold your hands. </l>
             <l xml:id="ftln-0255" n="1.2.97">Nay, an you will not, sir, I’ll take my heels. </l>
           </sp>
-          <stage xml:id="stg-0255.1"
-                      n="SD 1.2.97.1"
-                      type="exit"
-                      who="#DromioOfEphesus_Err">Dromio of Ephesus exits. </stage>
+          <stage xml:id="stg-0255.1" n="SD 1.2.97.1" type="exit" who="#DromioOfEphesus_Err">Dromio of Ephesus exits. </stage>
           <sp xml:id="sp-0256" who="#AntipholusOfSyracuse_Err">
             <speaker xml:id="spk-0256">ANTIPHOLUS OF SYRACUSE </speaker>
             <l xml:id="ftln-0256" n="1.2.98">Upon my life, by some device or other </l>
@@ -758,20 +727,14 @@
             <l xml:id="ftln-0265" n="1.2.107">I’ll to the Centaur to go seek this slave. </l>
             <l xml:id="ftln-0266" n="1.2.108">I greatly fear my money is not safe. </l>
           </sp>
-          <stage xml:id="stg-0266.1"
-                      n="SD 1.2.108.1"
-                      type="exit"
-                      who="#AntipholusOfSyracuse_Err">He exits. </stage>
+          <stage xml:id="stg-0266.1" n="SD 1.2.108.1" type="exit" who="#AntipholusOfSyracuse_Err">He exits. </stage>
         </div>
       </div>
       <div type="act" n="2">
         <head>ACT 2 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-0266.2"
-                      n="SD 2.1.0"
-                      type="entrance"
-                      who="#Adriana_Err #Luciana_Err">Enter Adriana, wife to Antipholus of Ephesus, with Luciana, her sister. </stage>
+          <stage xml:id="stg-0266.2" n="SD 2.1.0" type="entrance" who="#Adriana_Err #Luciana_Err">Enter Adriana, wife to Antipholus of Ephesus, with Luciana, her sister. </stage>
           <sp xml:id="sp-0267" who="#Adriana_Err">
             <speaker xml:id="spk-0267">ADRIANA </speaker>
             <l xml:id="ftln-0267" n="2.1.1">Neither my husband nor the slave returned </l>
@@ -863,10 +826,7 @@
             <l xml:id="ftln-0308" n="2.1.42">Well, I will marry one day, but to try. </l>
             <l xml:id="ftln-0309" n="2.1.43">Here comes your man. Now is your husband nigh. </l>
           </sp>
-          <stage xml:id="stg-0309.1"
-                      n="SD 2.1.43.1"
-                      type="entrance"
-                      who="#DromioOfEphesus_Err">Enter Dromio of Ephesus. </stage>
+          <stage xml:id="stg-0309.1" n="SD 2.1.43.1" type="entrance" who="#DromioOfEphesus_Err">Enter Dromio of Ephesus. </stage>
           <sp xml:id="sp-0310" who="#Adriana_Err">
             <speaker xml:id="spk-0310">ADRIANA </speaker>
             <l xml:id="ftln-0310" n="2.1.44">Say, is your tardy master now at hand? </l>
@@ -963,10 +923,7 @@
             <l xml:id="ftln-0355" n="2.1.89">You spurn me hence, and he will spurn me hither. </l>
             <l xml:id="ftln-0356" n="2.1.90">If I last in this service, you must case me in leather. </l>
           </sp>
-          <stage xml:id="stg-0356.1"
-                      n="SD 2.1.90.1"
-                      type="exit"
-                      who="#DromioOfEphesus_Err">He exits. </stage>
+          <stage xml:id="stg-0356.1" n="SD 2.1.90.1" type="exit" who="#DromioOfEphesus_Err">He exits. </stage>
           <sp xml:id="sp-0357" who="#Luciana_Err">
             <speaker xml:id="spk-0357">LUCIANA </speaker>
             <l xml:id="ftln-0357" n="2.1.91">Fie, how impatience loureth in your face. </l>
@@ -1013,17 +970,11 @@
             <speaker xml:id="spk-0387">LUCIANA </speaker>
             <l xml:id="ftln-0387" n="2.1.121">How many fond fools serve mad jealousy! </l>
           </sp>
-          <stage xml:id="stg-0387.1"
-                      n="SD 2.1.121.1"
-                      type="exit"
-                      who="#Adriana_Err #Luciana_Err">They exit. </stage>
+          <stage xml:id="stg-0387.1" n="SD 2.1.121.1" type="exit" who="#Adriana_Err #Luciana_Err">They exit. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-0387.2"
-                      n="SD 2.2.0"
-                      type="entrance"
-                      who="#AntipholusOfSyracuse_Err">Enter Antipholus of Syracuse. </stage>
+          <stage xml:id="stg-0387.2" n="SD 2.2.0" type="entrance" who="#AntipholusOfSyracuse_Err">Enter Antipholus of Syracuse. </stage>
           <sp xml:id="sp-0388" who="#AntipholusOfSyracuse_Err">
             <speaker xml:id="spk-0388">ANTIPHOLUS OF SYRACUSE </speaker>
             <l xml:id="ftln-0388" n="2.2.1">The gold I gave to Dromio is laid up </l>
@@ -1032,10 +983,7 @@
             <l xml:id="ftln-0391" n="2.2.4">By computation and mine host’s report, </l>
             <l xml:id="ftln-0392" n="2.2.5">I could not speak with Dromio since at first </l>
             <l xml:id="ftln-0393" n="2.2.6">I sent him from the mart. See, here he comes. </l>
-            <stage xml:id="stg-0393.1"
-                         n="SD 2.2.6.1"
-                         type="entrance"
-                         who="#DromioOfSyracuse_Err">Enter Dromio of Syracuse. </stage>
+            <stage xml:id="stg-0393.1" n="SD 2.2.6.1" type="entrance" who="#DromioOfSyracuse_Err">Enter Dromio of Syracuse. </stage>
             <l xml:id="ftln-0394" n="2.2.7">How now, sir? Is your merry humor altered? </l>
             <l xml:id="ftln-0395" n="2.2.8">As you love strokes, so jest with me again. </l>
             <l xml:id="ftln-0396" n="2.2.9">You know no Centaur? You received no gold? </l>
@@ -1072,10 +1020,7 @@
             <l xml:id="ftln-0409" n="2.2.22">Yea, dost thou jeer and flout me in the teeth? </l>
             <l xml:id="ftln-0410" n="2.2.23">Think’st thou I jest? Hold, take thou that and that. </l>
           </sp>
-          <stage xml:id="stg-0410.1"
-                      n="SD 2.2.23.1"
-                      type="business"
-                      who="#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err">Beats Dromio. </stage>
+          <stage xml:id="stg-0410.1" n="SD 2.2.23.1" type="business" who="#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err">Beats Dromio. </stage>
           <sp xml:id="sp-0411" who="#DromioOfSyracuse_Err">
             <speaker xml:id="spk-0411">DROMIO OF SYRACUSE </speaker>
             <l xml:id="ftln-0411" n="2.2.24">Hold, sir, for God’s sake! Now your jest is earnest. </l>
@@ -1314,10 +1259,7 @@
             <p xml:id="p-0505">
               <lb xml:id="ftln-0505" n="2.2.118"/>I knew ’twould be a bald <lb xml:id="ftln-0506" n="2.2.119"/>conclusion. But soft, who wafts us yonder? </p>
           </sp>
-          <stage xml:id="stg-0506.1"
-                      n="SD 2.2.119.1"
-                      type="entrance"
-                      who="#Adriana_Err #Luciana_Err">Enter Adriana, beckoning them, and Luciana. </stage>
+          <stage xml:id="stg-0506.1" n="SD 2.2.119.1" type="entrance" who="#Adriana_Err #Luciana_Err">Enter Adriana, beckoning them, and Luciana. </stage>
           <sp xml:id="sp-0507" who="#Adriana_Err">
             <speaker xml:id="spk-0507">ADRIANA </speaker>
             <l xml:id="ftln-0507" n="2.2.120">Ay, ay, Antipholus, look strange and frown. </l>
@@ -1417,10 +1359,7 @@
             <l xml:id="ftln-0569" n="2.2.182">Be it my wrong you are from me exempt, </l>
             <l xml:id="ftln-0570" n="2.2.183">But wrong not that wrong with a more contempt. </l>
             <l xml:id="ftln-0571" n="2.2.184">Come, I will fasten on this sleeve of thine. </l>
-            <stage xml:id="stg-0571.1"
-                         n="SD 2.2.184.1"
-                         type="business"
-                         who="#Adriana_Err #AntipholusOfSyracuse_Err">She takes his arm. </stage>
+            <stage xml:id="stg-0571.1" n="SD 2.2.184.1" type="business" who="#Adriana_Err #AntipholusOfSyracuse_Err">She takes his arm. </stage>
             <l xml:id="ftln-0572" n="2.2.185">Thou art an elm, my husband, I a vine, </l>
             <l xml:id="ftln-0573" n="2.2.186">Whose weakness, married to thy stronger state, </l>
             <l xml:id="ftln-0574" n="2.2.187">Makes me with thy strength to communicate. </l>
@@ -1446,10 +1385,7 @@
           <sp xml:id="sp-0586" who="#DromioOfSyracuse_Err">
             <speaker xml:id="spk-0586">DROMIO OF SYRACUSE </speaker>
             <l xml:id="ftln-0586" n="2.2.199">O, for my beads! I cross me for a sinner. </l>
-            <stage xml:id="stg-0586.1"
-                         n="SD 2.2.199.1"
-                         type="business"
-                         who="#DromioOfSyracuse_Err">He crosses himself. </stage>
+            <stage xml:id="stg-0586.1" n="SD 2.2.199.1" type="business" who="#DromioOfSyracuse_Err">He crosses himself. </stage>
             <l xml:id="ftln-0587" n="2.2.200">This is the fairy land. O spite of spites! </l>
             <l xml:id="ftln-0588" n="2.2.201">We talk with goblins, owls, and sprites. </l>
             <l xml:id="ftln-0589" n="2.2.202">If we obey them not, this will ensue: </l>
@@ -1524,20 +1460,14 @@
             <speaker xml:id="spk-0619">LUCIANA </speaker>
             <l xml:id="ftln-0619" n="2.2.232">Come, come, Antipholus, we dine too late. </l>
           </sp>
-          <stage xml:id="stg-0619.1"
-                      n="SD 2.2.232.1"
-                      type="exit"
-                      who="#AntipholusOfSyracuse_Err #Adriana_Err #DromioOfSyracuse_Err #Luciana_Err">They exit. </stage>
+          <stage xml:id="stg-0619.1" n="SD 2.2.232.1" type="exit" who="#AntipholusOfSyracuse_Err #Adriana_Err #DromioOfSyracuse_Err #Luciana_Err">They exit. </stage>
         </div>
       </div>
       <div type="act" n="3">
         <head>ACT 3 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-0619.2"
-                      n="SD 3.1.0"
-                      type="entrance"
-                      who="#AntipholusOfEphesus_Err #DromioOfEphesus_Err #Angelo_Err #Balthasar_Err">Enter Antipholus of Ephesus, his man Dromio, Angelo the goldsmith, and Balthasar the merchant. </stage>
+          <stage xml:id="stg-0619.2" n="SD 3.1.0" type="entrance" who="#AntipholusOfEphesus_Err #DromioOfEphesus_Err #Angelo_Err #Balthasar_Err">Enter Antipholus of Ephesus, his man Dromio, Angelo the goldsmith, and Balthasar the merchant. </stage>
           <sp xml:id="sp-0620" who="#AntipholusOfEphesus_Err">
             <speaker xml:id="spk-0620">ANTIPHOLUS OF EPHESUS </speaker>
             <l xml:id="ftln-0620" n="3.1.1">Good Signior Angelo, you must excuse us all; </l>
@@ -1600,10 +1530,7 @@
             <l xml:id="ftln-0654" n="3.1.35">Ay, to a niggardly host and more sparing guest. </l>
             <l xml:id="ftln-0655" n="3.1.36">But though my cates be mean, take them in good part. </l>
             <l xml:id="ftln-0657" n="3.1.38">Better cheer may you have, but not with better heart. </l>
-            <stage xml:id="stg-0658"
-                         n="SD 3.1.39"
-                         type="business"
-                         who="#AntipholusOfEphesus_Err">He attempts to open the door. </stage>
+            <stage xml:id="stg-0658" n="SD 3.1.39" type="business" who="#AntipholusOfEphesus_Err">He attempts to open the door. </stage>
             <l xml:id="ftln-0659" n="3.1.40">But soft! My door is locked. <stage xml:id="stg-0659" n="SD 3.1.40" type="delivery"> To Dromio. </stage> Go, bid them let us in. </l>
           </sp>
           <sp xml:id="sp-0661" who="#DromioOfEphesus_Err">
@@ -1661,10 +1588,7 @@
             <l xml:id="ftln-0687" n="3.1.68">If thou hadst been Dromio today in my place, </l>
             <l xml:id="ftln-0688" n="3.1.69">Thou wouldst have changed thy face for a name, or thy name for an ass. </l>
           </sp>
-          <stage xml:id="stg-0689.1"
-                      n="SD 3.1.70.1"
-                      type="entrance"
-                      who="#Luce_Err">Enter Luce above, unseen by Antipholus of Ephesus and his company. </stage>
+          <stage xml:id="stg-0689.1" n="SD 3.1.70.1" type="entrance" who="#Luce_Err">Enter Luce above, unseen by Antipholus of Ephesus and his company. </stage>
           <sp xml:id="sp-0690" who="#Luce_Err">
             <speaker xml:id="spk-0690">LUCE </speaker>
             <l xml:id="ftln-0690" n="3.1.71">What a coil is there, Dromio! Who are those at the gate? </l>
@@ -1731,18 +1655,12 @@
             <speaker xml:id="spk-0710">ANTIPHOLUS OF EPHESUS </speaker>
             <l xml:id="ftln-0710" n="3.1.91">You’ll cry for this, minion, if I beat the door down. </l>
           </sp>
-          <stage xml:id="stg-0710.1"
-                      n="SD 3.1.91.1"
-                      type="business"
-                      who="#AntipholusOfEphesus_Err">He beats on the door. </stage>
+          <stage xml:id="stg-0710.1" n="SD 3.1.91.1" type="business" who="#AntipholusOfEphesus_Err">He beats on the door. </stage>
           <sp xml:id="sp-0711" who="#Luce_Err">
             <speaker xml:id="spk-0711">LUCE </speaker>
             <l xml:id="ftln-0711" n="3.1.92">What needs all that, and a pair of stocks in the town? </l>
           </sp>
-          <stage xml:id="stg-0712.1"
-                      n="SD 3.1.93.1"
-                      type="entrance"
-                      who="#Adriana_Err">Enter Adriana, above, unseen by Antipholus of Ephesus and his company. </stage>
+          <stage xml:id="stg-0712.1" n="SD 3.1.93.1" type="entrance" who="#Adriana_Err">Enter Adriana, above, unseen by Antipholus of Ephesus and his company. </stage>
           <sp xml:id="sp-0713" who="#Adriana_Err">
             <speaker xml:id="spk-0713">ADRIANA </speaker>
             <l xml:id="ftln-0713" n="3.1.94">Who is that at the door that keeps all this noise? </l>
@@ -1760,10 +1678,7 @@
             <speaker xml:id="spk-0717">ADRIANA </speaker>
             <l xml:id="ftln-0717" n="3.1.98">Your wife, sir knave? Go, get you from the door. </l>
           </sp>
-          <stage xml:id="stg-0717.1"
-                      n="SD 3.1.98.1"
-                      type="exit"
-                      who="#Adriana_Err #Luce_Err">Adriana and Luce exit. </stage>
+          <stage xml:id="stg-0717.1" n="SD 3.1.98.1" type="exit" who="#Adriana_Err #Luce_Err">Adriana and Luce exit. </stage>
           <sp xml:id="sp-0718" who="#DromioOfEphesus_Err">
             <speaker xml:id="spk-0718">DROMIO OF EPHESUS </speaker>
             <l xml:id="ftln-0718" n="3.1.99">If you went in pain, master, this knave would go sore. </l>
@@ -1885,17 +1800,11 @@
             <speaker xml:id="spk-0791">ANTIPHOLUS OF EPHESUS </speaker>
             <l xml:id="ftln-0791" n="3.1.172">Do so. This jest shall cost me some expense. </l>
           </sp>
-          <stage xml:id="stg-0791.1"
-                      n="SD 3.1.172.1"
-                      type="exit"
-                      who="#AntipholusOfEphesus_Err #DromioOfEphesus_Err #Angelo_Err #Balthasar_Err">They exit. </stage>
+          <stage xml:id="stg-0791.1" n="SD 3.1.172.1" type="exit" who="#AntipholusOfEphesus_Err #DromioOfEphesus_Err #Angelo_Err #Balthasar_Err">They exit. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-0791.2"
-                      n="SD 3.2.0"
-                      type="entrance"
-                      who="#Luciana_Err #AntipholusOfSyracuse_Err">Enter Luciana with Antipholus of Syracuse. </stage>
+          <stage xml:id="stg-0791.2" n="SD 3.2.0" type="entrance" who="#Luciana_Err #AntipholusOfSyracuse_Err">Enter Luciana with Antipholus of Syracuse. </stage>
           <sp xml:id="sp-0792" who="#Luciana_Err">
             <speaker xml:id="spk-0792">LUCIANA </speaker>
             <lg xml:id="stz-0792" type="quatrain">
@@ -2041,10 +1950,7 @@
             <l xml:id="ftln-0867" n="3.2.76">I’ll fetch my sister to get her goodwill. </l>
           </sp>
           <stage xml:id="stg-0867" n="SD 3.2.76" type="exit" who="#Luciana_Err">She exits. </stage>
-          <stage xml:id="stg-0867.1"
-                      n="SD 3.2.76.1"
-                      type="entrance"
-                      who="#DromioOfSyracuse_Err">Enter Dromio of Syracuse, running. </stage>
+          <stage xml:id="stg-0867.1" n="SD 3.2.76.1" type="entrance" who="#DromioOfSyracuse_Err">Enter Dromio of Syracuse, running. </stage>
           <sp xml:id="sp-0868" who="#AntipholusOfSyracuse_Err">
             <speaker xml:id="spk-0868">ANTIPHOLUS OF SYRACUSE </speaker>
             <p xml:id="p-0868">
@@ -2232,10 +2138,7 @@
             <l xml:id="ftln-0962" n="3.2.171">As from a bear a man would run for life, </l>
             <l xml:id="ftln-0963" n="3.2.172">So fly I from her that would be my wife. </l>
           </sp>
-          <stage xml:id="stg-0963"
-                      n="SD 3.2.172"
-                      type="exit"
-                      who="#DromioOfSyracuse_Err">He exits. </stage>
+          <stage xml:id="stg-0963" n="SD 3.2.172" type="exit" who="#DromioOfSyracuse_Err">He exits. </stage>
           <sp xml:id="sp-0964" who="#AntipholusOfSyracuse_Err">
             <speaker xml:id="spk-0964">ANTIPHOLUS OF SYRACUSE </speaker>
             <l xml:id="ftln-0964" n="3.2.173">There’s none but witches do inhabit here, </l>
@@ -2248,10 +2151,7 @@
             <l xml:id="ftln-0971" n="3.2.180">But lest myself be guilty to self wrong, </l>
             <l xml:id="ftln-0972" n="3.2.181">I’ll stop mine ears against the mermaid’s song. </l>
           </sp>
-          <stage xml:id="stg-0972.1"
-                      n="SD 3.2.181.1"
-                      type="entrance"
-                      who="#Angelo_Err">Enter Angelo with the chain. </stage>
+          <stage xml:id="stg-0972.1" n="SD 3.2.181.1" type="entrance" who="#Angelo_Err">Enter Angelo with the chain. </stage>
           <sp xml:id="sp-0973" who="#Angelo_Err">
             <speaker xml:id="spk-0973">ANGELO </speaker>
             <l xml:id="ftln-0973" n="3.2.182">Master Antipholus. </l>
@@ -2266,10 +2166,7 @@
             <l xml:id="ftln-0976" n="3.2.185">I thought to have ta’en you at the Porpentine; </l>
             <l xml:id="ftln-0977" n="3.2.186">The chain unfinished made me stay thus long. </l>
           </sp>
-          <stage xml:id="stg-0977.1"
-                      n="SD 3.2.186.1"
-                      type="business"
-                      who="#Angelo_Err #AntipholusOfSyracuse_Err">He gives Antipholus a chain. </stage>
+          <stage xml:id="stg-0977.1" n="SD 3.2.186.1" type="business" who="#Angelo_Err #AntipholusOfSyracuse_Err">He gives Antipholus a chain. </stage>
           <sp xml:id="sp-0978" who="#AntipholusOfSyracuse_Err">
             <speaker xml:id="spk-0978">ANTIPHOLUS OF SYRACUSE </speaker>
             <l xml:id="ftln-0978" n="3.2.187">What is your will that I shall do with this? </l>
@@ -2309,20 +2206,14 @@
             <l xml:id="ftln-0993" n="3.2.202">I’ll to the mart, and there for Dromio stay. </l>
             <l xml:id="ftln-0994" n="3.2.203">If any ship put out, then straight away. </l>
           </sp>
-          <stage xml:id="stg-0994.1"
-                      n="SD 3.2.203.1"
-                      type="exit"
-                      who="#AntipholusOfSyracuse_Err">He exits. </stage>
+          <stage xml:id="stg-0994.1" n="SD 3.2.203.1" type="exit" who="#AntipholusOfSyracuse_Err">He exits. </stage>
         </div>
       </div>
       <div type="act" n="4">
         <head>ACT 4 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-0994.2"
-                      n="SD 4.1.0"
-                      type="entrance"
-                      who="#Merchant2_Err #Angelo_Err #OFFICERS.X_Err">Enter a Second Merchant, Angelo the Goldsmith, and an Officer. </stage>
+          <stage xml:id="stg-0994.2" n="SD 4.1.0" type="entrance" who="#Merchant2_Err #Angelo_Err #OFFICERS.X_Err">Enter a Second Merchant, Angelo the Goldsmith, and an Officer. </stage>
           <sp xml:id="sp-0995" who="#Merchant2_Err">
             <speaker xml:id="spk-0995">SECOND MERCHANT </speaker>
             <stage xml:id="stg-0995.0" n="SD 4.1.1.0" type="delivery">, to Angelo </stage>
@@ -2343,10 +2234,7 @@
             <l xml:id="ftln-1006" n="4.1.12">Pleaseth you walk with me down to his house, </l>
             <l xml:id="ftln-1007" n="4.1.13">I will discharge my bond and thank you too. </l>
           </sp>
-          <stage xml:id="stg-1007.1"
-                      n="SD 4.1.13.1"
-                      type="entrance"
-                      who="#AntipholusOfEphesus_Err #DromioOfEphesus_Err">Enter Antipholus of Ephesus and Dromio of Ephesus from the Courtesan’s. </stage>
+          <stage xml:id="stg-1007.1" n="SD 4.1.13.1" type="entrance" who="#AntipholusOfEphesus_Err #DromioOfEphesus_Err">Enter Antipholus of Ephesus and Dromio of Ephesus from the Courtesan’s. </stage>
           <sp xml:id="sp-1008" who="#OFFICERS.X_Err">
             <speaker xml:id="spk-1008">OFFICER </speaker>
             <l xml:id="ftln-1008" n="4.1.14">That labor may you save. See where he comes. </l>
@@ -2365,10 +2253,7 @@
             <speaker xml:id="spk-1015">DROMIO OF EPHESUS </speaker>
             <l xml:id="ftln-1015" n="4.1.21">I buy a thousand pound a year! I buy a rope! </l>
           </sp>
-          <stage xml:id="stg-1015.1"
-                      n="SD 4.1.21.1"
-                      type="exit"
-                      who="#DromioOfEphesus_Err">Dromio exits. </stage>
+          <stage xml:id="stg-1015.1" n="SD 4.1.21.1" type="exit" who="#DromioOfEphesus_Err">Dromio exits. </stage>
           <sp xml:id="sp-1016" who="#AntipholusOfEphesus_Err">
             <speaker xml:id="spk-1016">ANTIPHOLUS OF EPHESUS </speaker>
             <stage xml:id="stg-1016.0" n="SD 4.1.22.0" type="delivery">, to Angelo </stage>
@@ -2380,10 +2265,7 @@
           </sp>
           <sp xml:id="sp-1021" who="#Angelo_Err">
             <speaker xml:id="spk-1021">ANGELO </speaker>
-            <stage xml:id="stg-1021.0"
-                         n="SD 4.1.27.0"
-                         type="business"
-                         who="#Angelo_Err #AntipholusOfEphesus_Err">, handing a paper to Antipholus of Ephesus </stage>
+            <stage xml:id="stg-1021.0" n="SD 4.1.27.0" type="business" who="#Angelo_Err #AntipholusOfEphesus_Err">, handing a paper to Antipholus of Ephesus </stage>
             <l xml:id="ftln-1021" n="4.1.27">Saving your merry humor, here’s the note </l>
             <l xml:id="ftln-1022" n="4.1.28">How much your chain weighs to the utmost carat, </l>
             <l xml:id="ftln-1023" n="4.1.29">The fineness of the gold, and chargeful fashion, </l>
@@ -2511,10 +2393,7 @@
             <speaker xml:id="spk-1071">ANGELO </speaker>
             <stage xml:id="stg-1071.0" n="SD 4.1.77.0" type="delivery">, to Officer </stage>
             <l xml:id="ftln-1071" n="4.1.77">Here is thy fee. Arrest him, officer. </l>
-            <stage xml:id="stg-1071"
-                         n="SD 4.1.77"
-                         type="business"
-                         who="#Angelo_Err #OFFICERS.X_Err">Giving money. </stage>
+            <stage xml:id="stg-1071" n="SD 4.1.77" type="business" who="#Angelo_Err #OFFICERS.X_Err">Giving money. </stage>
             <l xml:id="ftln-1072" n="4.1.78">I would not spare my brother in this case </l>
             <l xml:id="ftln-1073" n="4.1.79">If he should scorn me so apparently. </l>
           </sp>
@@ -2535,10 +2414,7 @@
             <l xml:id="ftln-1079" n="4.1.85">Sir, sir, I shall have law in Ephesus, </l>
             <l xml:id="ftln-1080" n="4.1.86">To your notorious shame, I doubt it not. </l>
           </sp>
-          <stage xml:id="stg-1080.1"
-                      n="SD 4.1.86.1"
-                      type="entrance"
-                      who="#DromioOfSyracuse_Err">Enter Dromio of Syracuse from the bay. </stage>
+          <stage xml:id="stg-1080.1" n="SD 4.1.86.1" type="entrance" who="#DromioOfSyracuse_Err">Enter Dromio of Syracuse from the bay. </stage>
           <sp xml:id="sp-1081" who="#DromioOfSyracuse_Err">
             <speaker xml:id="spk-1081">DROMIO OF SYRACUSE </speaker>
             <l xml:id="ftln-1081" n="4.1.87">Master, there’s a bark of Epidamium </l>
@@ -2574,10 +2450,7 @@
             <l xml:id="ftln-1096" n="4.1.102">I will debate this matter at more leisure </l>
             <l xml:id="ftln-1097" n="4.1.103">And teach your ears to list me with more heed. </l>
             <l xml:id="ftln-1098" n="4.1.104">To Adriana, villain, hie thee straight. </l>
-            <stage xml:id="stg-1098.1"
-                         n="SD 4.1.104.1"
-                         type="business"
-                         who="#AntipholusOfEphesus_Err #DromioOfSyracuse_Err">He gives a key. </stage>
+            <stage xml:id="stg-1098.1" n="SD 4.1.104.1" type="business" who="#AntipholusOfEphesus_Err #DromioOfSyracuse_Err">He gives a key. </stage>
             <l xml:id="ftln-1099" n="4.1.105">Give her this key, and tell her in the desk </l>
             <l xml:id="ftln-1100" n="4.1.106">That’s covered o’er with Turkish tapestry </l>
             <l xml:id="ftln-1101" n="4.1.107">There is a purse of ducats. Let her send it. </l>
@@ -2585,10 +2458,7 @@
             <l xml:id="ftln-1103" n="4.1.109">And that shall bail me. Hie thee, slave. Begone.— </l>
             <l xml:id="ftln-1104" n="4.1.110">On, officer, to prison till it come. </l>
           </sp>
-          <stage xml:id="stg-1104.1"
-                      n="SD 4.1.110.1"
-                      type="exit"
-                      who="#AntipholusOfEphesus_Err #OFFICERS.X_Err #Angelo_Err #Merchant2_Err">All but Dromio of Syracuse exit. </stage>
+          <stage xml:id="stg-1104.1" n="SD 4.1.110.1" type="exit" who="#AntipholusOfEphesus_Err #OFFICERS.X_Err #Angelo_Err #Merchant2_Err">All but Dromio of Syracuse exit. </stage>
           <sp xml:id="sp-1105" who="#DromioOfSyracuse_Err">
             <speaker xml:id="spk-1105">DROMIO OF SYRACUSE </speaker>
             <l xml:id="ftln-1105" n="4.1.111">To Adriana. That is where we dined, </l>
@@ -2597,17 +2467,11 @@
             <l xml:id="ftln-1108" n="4.1.114">Thither I must, although against my will, </l>
             <l xml:id="ftln-1109" n="4.1.115">For servants must their masters’ minds fulfill. </l>
           </sp>
-          <stage xml:id="stg-1109.1"
-                      n="SD 4.1.115.1"
-                      type="exit"
-                      who="#DromioOfSyracuse_Err">He exits. </stage>
+          <stage xml:id="stg-1109.1" n="SD 4.1.115.1" type="exit" who="#DromioOfSyracuse_Err">He exits. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-1109.2"
-                      n="SD 4.2.0"
-                      type="entrance"
-                      who="#Adriana_Err #Luciana_Err">Enter Adriana and Luciana. </stage>
+          <stage xml:id="stg-1109.2" n="SD 4.2.0" type="entrance" who="#Adriana_Err #Luciana_Err">Enter Adriana and Luciana. </stage>
           <sp xml:id="sp-1110" who="#Adriana_Err">
             <speaker xml:id="spk-1110">ADRIANA </speaker>
             <lg xml:id="stz-1110" type="quatrain">
@@ -2689,10 +2553,7 @@
               <l xml:id="ftln-1139" n="4.2.30">My heart prays for him, though my tongue do curse. </l>
             </lg>
           </sp>
-          <stage xml:id="stg-1140.1"
-                      n="SD 4.2.31.1"
-                      type="entrance"
-                      who="#DromioOfSyracuse_Err">Enter Dromio of Syracuse with the key. </stage>
+          <stage xml:id="stg-1140.1" n="SD 4.2.31.1" type="entrance" who="#DromioOfSyracuse_Err">Enter Dromio of Syracuse with the key. </stage>
           <sp xml:id="sp-1141" who="#DromioOfSyracuse_Err">
             <speaker xml:id="spk-1141">DROMIO OF SYRACUSE </speaker>
             <l xml:id="ftln-1141" n="4.2.32">Here, go— the desk, the purse! Sweet, now make haste. </l>
@@ -2741,11 +2602,7 @@
           </sp>
           <sp xml:id="sp-1166" who="#Adriana_Err">
             <speaker xml:id="spk-1166">ADRIANA </speaker>
-            <l xml:id="ftln-1166" n="4.2.57">Go fetch it, sister. <stage xml:id="stg-1166"
-                            n="SD 4.2.57"
-                            type="exit"
-                            rendition="inline"
-                            who="#Luciana_Err"> ( Luciana exits.) </stage> This I wonder at, </l>
+            <l xml:id="ftln-1166" n="4.2.57">Go fetch it, sister. <stage xml:id="stg-1166" n="SD 4.2.57" type="exit" rendition="inline" who="#Luciana_Err"> ( Luciana exits.) </stage> This I wonder at, </l>
             <l xml:id="ftln-1167" n="4.2.58">That he, unknown to me, should be in debt. </l>
             <l xml:id="ftln-1168" n="4.2.59">Tell me, was he arrested on a band? </l>
           </sp>
@@ -2783,32 +2640,20 @@
             <l xml:id="ftln-1184" n="4.2.75">If he be in debt and theft, and a sergeant in the way, </l>
             <l xml:id="ftln-1186" n="4.2.77">Hath he not reason to turn back an hour in a day? </l>
           </sp>
-          <stage xml:id="stg-1186.1"
-                      n="SD 4.2.77.1"
-                      type="entrance"
-                      who="#Luciana_Err">Enter Luciana, with the purse. </stage>
+          <stage xml:id="stg-1186.1" n="SD 4.2.77.1" type="entrance" who="#Luciana_Err">Enter Luciana, with the purse. </stage>
           <sp xml:id="sp-1187" who="#Adriana_Err">
             <speaker xml:id="spk-1187">ADRIANA </speaker>
             <l xml:id="ftln-1187" n="4.2.78">Go, Dromio. There’s the money. Bear it straight, </l>
             <l xml:id="ftln-1188" n="4.2.79">And bring thy master home immediately. </l>
-            <stage xml:id="stg-1188.1"
-                         n="SD 4.2.79.1"
-                         type="exit"
-                         who="#DromioOfSyracuse_Err">Dromio exits. </stage>
+            <stage xml:id="stg-1188.1" n="SD 4.2.79.1" type="exit" who="#DromioOfSyracuse_Err">Dromio exits. </stage>
             <l xml:id="ftln-1189" n="4.2.80">Come, sister, I am pressed down with conceit: </l>
             <l xml:id="ftln-1190" n="4.2.81">Conceit, my comfort and my injury. </l>
           </sp>
-          <stage xml:id="stg-1190.1"
-                      n="SD 4.2.81.1"
-                      type="exit"
-                      who="#Adriana_Err #Luciana_Err">They exit. </stage>
+          <stage xml:id="stg-1190.1" n="SD 4.2.81.1" type="exit" who="#Adriana_Err #Luciana_Err">They exit. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-1190.2"
-                      n="SD 4.3.0"
-                      type="entrance"
-                      who="#AntipholusOfSyracuse_Err">Enter Antipholus of Syracuse, wearing the chain. </stage>
+          <stage xml:id="stg-1190.2" n="SD 4.3.0" type="entrance" who="#AntipholusOfSyracuse_Err">Enter Antipholus of Syracuse, wearing the chain. </stage>
           <sp xml:id="sp-1191" who="#AntipholusOfSyracuse_Err">
             <speaker xml:id="spk-1191">ANTIPHOLUS OF SYRACUSE </speaker>
             <l xml:id="ftln-1191" n="4.3.1">There’s not a man I meet but doth salute me </l>
@@ -2823,10 +2668,7 @@
             <l xml:id="ftln-1200" n="4.3.10">Sure these are but imaginary wiles, </l>
             <l xml:id="ftln-1201" n="4.3.11">And Lapland sorcerers inhabit here. </l>
           </sp>
-          <stage xml:id="stg-1201.1"
-                      n="SD 4.3.11.1"
-                      type="entrance"
-                      who="#DromioOfSyracuse_Err">Enter Dromio of Syracuse with the purse. </stage>
+          <stage xml:id="stg-1201.1" n="SD 4.3.11.1" type="entrance" who="#DromioOfSyracuse_Err">Enter Dromio of Syracuse with the purse. </stage>
           <sp xml:id="sp-1202" who="#DromioOfSyracuse_Err">
             <speaker xml:id="spk-1202">DROMIO OF SYRACUSE </speaker>
             <p xml:id="p-1202">
@@ -2871,20 +2713,14 @@
             <p xml:id="p-1228">
               <lb xml:id="ftln-1228" n="4.3.38"/>Why, sir, I brought you word an <lb xml:id="ftln-1229" n="4.3.39"/>hour since that the bark “ Expedition” put forth tonight, <lb xml:id="ftln-1230" n="4.3.40"/>and then were you hindered by the sergeant <lb xml:id="ftln-1231" n="4.3.41"/>to tarry for the hoy “ Delay”. Here are the angels that <lb xml:id="ftln-1232" n="4.3.42"/>you sent for to deliver you. </p>
           </sp>
-          <stage xml:id="stg-1232"
-                      n="SD 4.3.42"
-                      type="business"
-                      who="#DromioOfSyracuse_Err #AntipholusOfSyracuse_Err">He gives the purse. </stage>
+          <stage xml:id="stg-1232" n="SD 4.3.42" type="business" who="#DromioOfSyracuse_Err #AntipholusOfSyracuse_Err">He gives the purse. </stage>
           <sp xml:id="sp-1233" who="#AntipholusOfSyracuse_Err">
             <speaker xml:id="spk-1233">ANTIPHOLUS OF SYRACUSE </speaker>
             <l xml:id="ftln-1233" n="4.3.43">The fellow is distract, and so am I, </l>
             <l xml:id="ftln-1234" n="4.3.44">And here we wander in illusions. </l>
             <l xml:id="ftln-1235" n="4.3.45">Some blessèd power deliver us from hence! </l>
           </sp>
-          <stage xml:id="stg-1235.1"
-                      n="SD 4.3.45.1"
-                      type="entrance"
-                      who="#Courtesan_Err">Enter a Courtesan. </stage>
+          <stage xml:id="stg-1235.1" n="SD 4.3.45.1" type="entrance" who="#Courtesan_Err">Enter a Courtesan. </stage>
           <sp xml:id="sp-1236" who="#Courtesan_Err">
             <speaker xml:id="spk-1236">COURTESAN </speaker>
             <l xml:id="ftln-1236" n="4.3.46">Well met, well met, Master Antipholus. </l>
@@ -2960,10 +2796,7 @@
             <l xml:id="ftln-1271" n="4.3.81" ana="#short">“ Fly pride,” says the peacock. </l>
             <l xml:id="ftln-1272" n="4.3.82" ana="#short">Mistress, that you know. </l>
           </sp>
-          <stage xml:id="stg-1272.1"
-                      n="SD 4.3.82.1"
-                      type="exit"
-                      who="#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err">Antipholus and Dromio exit. </stage>
+          <stage xml:id="stg-1272.1" n="SD 4.3.82.1" type="exit" who="#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err">Antipholus and Dromio exit. </stage>
           <sp xml:id="sp-1273" who="#Courtesan_Err">
             <speaker xml:id="spk-1273">COURTESAN </speaker>
             <l xml:id="ftln-1273" n="4.3.83">Now, out of doubt Antipholus is mad; </l>
@@ -2983,17 +2816,11 @@
             <l xml:id="ftln-1287" n="4.3.97">My ring away. This course I fittest choose, </l>
             <l xml:id="ftln-1288" n="4.3.98">For forty ducats is too much to lose. </l>
           </sp>
-          <stage xml:id="stg-1288.1"
-                      n="SD 4.3.98.1"
-                      type="exit"
-                      who="#Courtesan_Err">She exits. </stage>
+          <stage xml:id="stg-1288.1" n="SD 4.3.98.1" type="exit" who="#Courtesan_Err">She exits. </stage>
         </div>
         <div type="scene" n="4">
           <head>Scene 4 </head>
-          <stage xml:id="stg-1288.2"
-                      n="SD 4.4.0"
-                      type="entrance"
-                      who="#AntipholusOfEphesus_Err #OFFICERS.X_Err">Enter Antipholus of Ephesus with a Jailer, the Officer. </stage>
+          <stage xml:id="stg-1288.2" n="SD 4.4.0" type="entrance" who="#AntipholusOfEphesus_Err #OFFICERS.X_Err">Enter Antipholus of Ephesus with a Jailer, the Officer. </stage>
           <sp xml:id="sp-1289" who="#AntipholusOfEphesus_Err">
             <speaker xml:id="spk-1289">ANTIPHOLUS OF EPHESUS </speaker>
             <l xml:id="ftln-1289" n="4.4.1">Fear me not, man. I will not break away. </l>
@@ -3003,19 +2830,13 @@
             <l xml:id="ftln-1293" n="4.4.5">And will not lightly trust the messenger </l>
             <l xml:id="ftln-1294" n="4.4.6">That I should be attached in Ephesus. </l>
             <l xml:id="ftln-1295" n="4.4.7">I tell you, ’twill sound harshly in her ears. </l>
-            <stage xml:id="stg-1295.1"
-                         n="SD 4.4.7.1"
-                         type="entrance"
-                         who="#DromioOfEphesus_Err">Enter Dromio of Ephesus with a rope’s end. </stage>
+            <stage xml:id="stg-1295.1" n="SD 4.4.7.1" type="entrance" who="#DromioOfEphesus_Err">Enter Dromio of Ephesus with a rope’s end. </stage>
             <l xml:id="ftln-1296" n="4.4.8">Here comes my man. I think he brings the money. </l>
             <l xml:id="ftln-1298" n="4.4.10">How now, sir? Have you that I sent you for? </l>
           </sp>
           <sp xml:id="sp-1299" who="#DromioOfEphesus_Err">
             <speaker xml:id="spk-1299">DROMIO OF EPHESUS </speaker>
-            <stage xml:id="stg-1299.0"
-                         n="SD 4.4.11.0"
-                         type="business"
-                         who="#DromioOfEphesus_Err #AntipholusOfEphesus_Err">, handing over the rope’s end </stage>
+            <stage xml:id="stg-1299.0" n="SD 4.4.11.0" type="business" who="#DromioOfEphesus_Err #AntipholusOfEphesus_Err">, handing over the rope’s end </stage>
             <l xml:id="ftln-1299" n="4.4.11">Here’s that, I warrant you, will pay them all. </l>
           </sp>
           <sp xml:id="sp-1300" who="#AntipholusOfEphesus_Err">
@@ -3045,10 +2866,7 @@
           </sp>
           <sp xml:id="sp-1307" who="#AntipholusOfEphesus_Err">
             <speaker xml:id="spk-1307">ANTIPHOLUS OF EPHESUS </speaker>
-            <stage xml:id="stg-1307.0"
-                         n="SD 4.4.19.0"
-                         type="business"
-                         who="#AntipholusOfEphesus_Err #DromioOfEphesus_Err">, beating Dromio </stage>
+            <stage xml:id="stg-1307.0" n="SD 4.4.19.0" type="business" who="#AntipholusOfEphesus_Err #DromioOfEphesus_Err">, beating Dromio </stage>
             <l xml:id="ftln-1307" n="4.4.19">And to that end, sir, I will welcome you. </l>
           </sp>
           <sp xml:id="sp-1308" who="#OFFICERS.X_Err">
@@ -3090,10 +2908,7 @@
             <p xml:id="p-1320">
               <lb xml:id="ftln-1320" n="4.4.32"/>I am an ass, indeed; you may <lb xml:id="ftln-1321" n="4.4.33"/>prove it by my long ears.— I have served him from <lb xml:id="ftln-1322" n="4.4.34"/>the hour of my nativity to this instant, and have <lb xml:id="ftln-1323" n="4.4.35"/>nothing at his hands for my service but blows. <lb xml:id="ftln-1324" n="4.4.36"/>When I am cold, he heats me with beating; when I <lb xml:id="ftln-1325" n="4.4.37"/>am warm, he cools me with beating. I am waked <lb xml:id="ftln-1326" n="4.4.38"/>with it when I sleep, raised with it when I sit, <lb xml:id="ftln-1327" n="4.4.39"/>driven out of doors with it when I go from home, <lb xml:id="ftln-1328" n="4.4.40"/>welcomed home with it when I return. Nay, I bear it <lb xml:id="ftln-1329" n="4.4.41"/>on my shoulders as a beggar wont her brat, and I <lb xml:id="ftln-1330" n="4.4.42"/>think when he hath lamed me, I shall beg with it <lb xml:id="ftln-1331" n="4.4.43"/>from door to door. </p>
           </sp>
-          <stage xml:id="stg-1331.1"
-                      n="SD 4.4.43.1"
-                      type="entrance"
-                      who="#Adriana_Err #Luciana_Err #Courtesan_Err #Pinch_Err">Enter Adriana, Luciana, Courtesan, and a Schoolmaster called Pinch. </stage>
+          <stage xml:id="stg-1331.1" n="SD 4.4.43.1" type="entrance" who="#Adriana_Err #Luciana_Err #Courtesan_Err #Pinch_Err">Enter Adriana, Luciana, Courtesan, and a Schoolmaster called Pinch. </stage>
           <sp xml:id="sp-1332" who="#AntipholusOfEphesus_Err">
             <speaker xml:id="spk-1332">ANTIPHOLUS OF EPHESUS </speaker>
             <l xml:id="ftln-1332" n="4.4.44">Come, go along. My wife is coming yonder. </l>
@@ -3107,10 +2922,7 @@
             <speaker xml:id="spk-1336">ANTIPHOLUS OF EPHESUS </speaker>
             <l xml:id="ftln-1336" n="4.4.48" ana="#short">Wilt thou still talk? </l>
           </sp>
-          <stage xml:id="stg-1336.1"
-                      n="SD 4.4.48.1"
-                      type="business"
-                      who="#AntipholusOfEphesus_Err #DromioOfEphesus_Err">Beats Dromio. </stage>
+          <stage xml:id="stg-1336.1" n="SD 4.4.48.1" type="business" who="#AntipholusOfEphesus_Err #DromioOfEphesus_Err">Beats Dromio. </stage>
           <sp xml:id="sp-1337" who="#Courtesan_Err">
             <speaker xml:id="spk-1337">COURTESAN </speaker>
             <stage xml:id="stg-1337.0" n="SD 4.4.49.0" type="delivery">, to Adriana </stage>
@@ -3138,10 +2950,7 @@
           </sp>
           <sp xml:id="sp-1345" who="#AntipholusOfEphesus_Err">
             <speaker xml:id="spk-1345">ANTIPHOLUS OF EPHESUS </speaker>
-            <stage xml:id="stg-1345.0"
-                         n="SD 4.4.57.0"
-                         type="business"
-                         who="#AntipholusOfEphesus_Err #Pinch_Err">, striking Pinch </stage>
+            <stage xml:id="stg-1345.0" n="SD 4.4.57.0" type="business" who="#AntipholusOfEphesus_Err #Pinch_Err">, striking Pinch </stage>
             <l xml:id="ftln-1345" n="4.4.57">There is my hand, and let it feel your ear. </l>
           </sp>
           <sp xml:id="sp-1346" who="#Pinch_Err">
@@ -3295,13 +3104,7 @@
             <l xml:id="ftln-1400" n="4.4.112">O bind him, bind him! Let him not come near me. </l>
           </sp>
           <stage xml:id="stg-1400.1" n="SD 4.4.112.1" type="mixed">
-            <stage xml:id="stg-1400.1a"
-                         n="SD 4.4.112.1"
-                         type="entrance"
-                         who="#SERVANTS.PINCH_Err">Enter three or four, </stage> and <stage xml:id="stg-1400.1b"
-                         n="SD 4.4.112.1"
-                         type="business"
-                         who="#SERVANTS.PINCH_Err #AntipholusOfEphesus_Err">offer to bind him. He strives. </stage>
+            <stage xml:id="stg-1400.1a" n="SD 4.4.112.1" type="entrance" who="#SERVANTS.PINCH_Err">Enter three or four, </stage> and <stage xml:id="stg-1400.1b" n="SD 4.4.112.1" type="business" who="#SERVANTS.PINCH_Err #AntipholusOfEphesus_Err">offer to bind him. He strives. </stage>
           </stage>
           <sp xml:id="sp-1401" who="#Pinch_Err">
             <speaker xml:id="spk-1401">PINCH </speaker>
@@ -3326,10 +3129,7 @@
             <speaker xml:id="spk-1408">PINCH </speaker>
             <l xml:id="ftln-1408" n="4.4.120">Go, bind this man, for he is frantic too. </l>
           </sp>
-          <stage xml:id="stg-1408.1"
-                      n="SD 4.4.120.1"
-                      type="business"
-                      who="#SERVANTS.PINCH_Err #DromioOfEphesus_Err">Dromio is bound. </stage>
+          <stage xml:id="stg-1408.1" n="SD 4.4.120.1" type="business" who="#SERVANTS.PINCH_Err #DromioOfEphesus_Err">Dromio is bound. </stage>
           <sp xml:id="sp-1409" who="#Adriana_Err">
             <speaker xml:id="spk-1409">ADRIANA </speaker>
             <stage xml:id="stg-1409.0" n="SD 4.4.121.0" type="delivery">, to Officer </stage>
@@ -3375,10 +3175,7 @@
             <speaker xml:id="spk-1426">ADRIANA </speaker>
             <stage xml:id="stg-1426.0" n="SD 4.4.138.0" type="delivery">, to Pinch </stage>
             <l xml:id="ftln-1426" n="4.4.138" part="I">Go bear him hence. </l>
-            <stage xml:id="stg-1426.1"
-                         n="SD 4.4.138.1"
-                         type="exit"
-                         who="#Pinch_Err #SERVANTS.PINCH_Err #AntipholusOfEphesus_Err #DromioOfEphesus_Err">Pinch and his men exit with Antipholus and Dromio of Ephesus. Officer, Adriana, Luciana, Courtesan remain. </stage>
+            <stage xml:id="stg-1426.1" n="SD 4.4.138.1" type="exit" who="#Pinch_Err #SERVANTS.PINCH_Err #AntipholusOfEphesus_Err #DromioOfEphesus_Err">Pinch and his men exit with Antipholus and Dromio of Ephesus. Officer, Adriana, Luciana, Courtesan remain. </stage>
             <l xml:id="ftln-1427" n="4.4.139" part="F">Sister, go you with me. </l>
             <l xml:id="ftln-1428" n="4.4.140">
               <stage xml:id="stg-1428" n="SD 4.4.140" type="delivery">To Officer. </stage>Say now whose suit is he arrested at. </l>
@@ -3420,10 +3217,7 @@
             <l xml:id="ftln-1440" n="4.4.152">Come, jailer, bring me where the goldsmith is. </l>
             <l xml:id="ftln-1441" n="4.4.153">I long to know the truth hereof at large. </l>
           </sp>
-          <stage xml:id="stg-1441.1"
-                      n="SD 4.4.153.1"
-                      type="entrance"
-                      who="#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err">Enter Antipholus of Syracuse with his rapier drawn, and Dromio of Syracuse. </stage>
+          <stage xml:id="stg-1441.1" n="SD 4.4.153.1" type="entrance" who="#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err">Enter Antipholus of Syracuse with his rapier drawn, and Dromio of Syracuse. </stage>
           <sp xml:id="sp-1442" who="#Luciana_Err">
             <speaker xml:id="spk-1442">LUCIANA </speaker>
             <l xml:id="ftln-1442" n="4.4.154">God for Thy mercy, they are loose again! </l>
@@ -3437,10 +3231,7 @@
             <speaker xml:id="spk-1445">OFFICER </speaker>
             <l xml:id="ftln-1445" n="4.4.157" part="F">Away! They’ll kill us. </l>
           </sp>
-          <stage xml:id="stg-1445.1"
-                      n="SD 4.4.157.1"
-                      type="exit"
-                      who="#OFFICERS.X_Err #Adriana_Err #Luciana_Err #Courtesan_Err">Run all out as fast as may be, frighted. Antipholus and Dromio of Syracuse remain. </stage>
+          <stage xml:id="stg-1445.1" n="SD 4.4.157.1" type="exit" who="#OFFICERS.X_Err #Adriana_Err #Luciana_Err #Courtesan_Err">Run all out as fast as may be, frighted. Antipholus and Dromio of Syracuse remain. </stage>
           <sp xml:id="sp-1446" who="#AntipholusOfSyracuse_Err">
             <speaker xml:id="spk-1446">ANTIPHOLUS OF SYRACUSE </speaker>
             <l xml:id="ftln-1446" n="4.4.158">I see these witches are afraid of swords. </l>
@@ -3464,20 +3255,14 @@
             <l xml:id="ftln-1456" n="4.4.168">I will not stay tonight for all the town. </l>
             <l xml:id="ftln-1457" n="4.4.169">Therefore, away, to get our stuff aboard. </l>
           </sp>
-          <stage xml:id="stg-1457.1"
-                      n="SD 4.4.169.1"
-                      type="exit"
-                      who="#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err">They exit. </stage>
+          <stage xml:id="stg-1457.1" n="SD 4.4.169.1" type="exit" who="#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err">They exit. </stage>
         </div>
       </div>
       <div type="act" n="5">
         <head>ACT 5 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-1457.2"
-                      n="SD 5.1.0"
-                      type="entrance"
-                      who="#Merchant2_Err #Angelo_Err">Enter the Second Merchant and Angelo the Goldsmith. </stage>
+          <stage xml:id="stg-1457.2" n="SD 5.1.0" type="entrance" who="#Merchant2_Err #Angelo_Err">Enter the Second Merchant and Angelo the Goldsmith. </stage>
           <sp xml:id="sp-1458" who="#Angelo_Err">
             <speaker xml:id="spk-1458">ANGELO </speaker>
             <l xml:id="ftln-1458" n="5.1.1">I am sorry, sir, that I have hindered you, </l>
@@ -3499,10 +3284,7 @@
             <speaker xml:id="spk-1466">SECOND MERCHANT </speaker>
             <l xml:id="ftln-1466" n="5.1.9">Speak softly. Yonder, as I think, he walks. </l>
           </sp>
-          <stage xml:id="stg-1466.1"
-                      n="SD 5.1.9.1"
-                      type="entrance"
-                      who="#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err">Enter Antipholus and Dromio of Syracuse again, Antipholus wearing the chain. </stage>
+          <stage xml:id="stg-1466.1" n="SD 5.1.9.1" type="entrance" who="#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err">Enter Antipholus and Dromio of Syracuse again, Antipholus wearing the chain. </stage>
           <sp xml:id="sp-1467" who="#Angelo_Err">
             <speaker xml:id="spk-1467">ANGELO </speaker>
             <l xml:id="ftln-1467" n="5.1.10">’Tis so, and that self chain about his neck </l>
@@ -3547,14 +3329,8 @@
             <speaker xml:id="spk-1489">SECOND MERCHANT </speaker>
             <l xml:id="ftln-1489" n="5.1.32">I dare, and do defy thee for a villain. </l>
           </sp>
-          <stage xml:id="stg-1489"
-                      n="SD 5.1.32"
-                      type="business"
-                      who="#Merchant2_Err #AntipholusOfSyracuse_Err">They draw. </stage>
-          <stage xml:id="stg-1489.1"
-                      n="SD 5.1.32.1"
-                      type="entrance"
-                      who="#Adriana_Err #Luciana_Err #Courtesan_Err #OTHERS_Err">Enter Adriana, Luciana, Courtesan, and others. </stage>
+          <stage xml:id="stg-1489" n="SD 5.1.32" type="business" who="#Merchant2_Err #AntipholusOfSyracuse_Err">They draw. </stage>
+          <stage xml:id="stg-1489.1" n="SD 5.1.32.1" type="entrance" who="#Adriana_Err #Luciana_Err #Courtesan_Err #OTHERS_Err">Enter Adriana, Luciana, Courtesan, and others. </stage>
           <sp xml:id="sp-1490" who="#Adriana_Err">
             <speaker xml:id="spk-1490">ADRIANA </speaker>
             <l xml:id="ftln-1490" n="5.1.33">Hold, hurt him not, for God’s sake. He is mad.— </l>
@@ -3566,14 +3342,8 @@
             <l xml:id="ftln-1493" n="5.1.36">Run, master, run. For God’s sake, take a house. </l>
             <l xml:id="ftln-1494" n="5.1.37">This is some priory. In, or we are spoiled. </l>
           </sp>
-          <stage xml:id="stg-1494.1"
-                      n="SD 5.1.37.1"
-                      type="exit"
-                      who="#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err">Antipholus and Dromio of Syracuse exit to the Priory. </stage>
-          <stage xml:id="stg-1494.2"
-                      n="SD 5.1.37.2"
-                      type="entrance"
-                      who="#Abbess_Err">Enter Lady Abbess. </stage>
+          <stage xml:id="stg-1494.1" n="SD 5.1.37.1" type="exit" who="#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err">Antipholus and Dromio of Syracuse exit to the Priory. </stage>
+          <stage xml:id="stg-1494.2" n="SD 5.1.37.2" type="entrance" who="#Abbess_Err">Enter Lady Abbess. </stage>
           <sp xml:id="sp-1495" who="#Abbess_Err">
             <speaker xml:id="spk-1495">ABBESS </speaker>
             <l xml:id="ftln-1495" n="5.1.38">Be quiet, people. Wherefore throng you hither? </l>
@@ -3729,10 +3499,7 @@
             <speaker xml:id="spk-1573">ABBESS </speaker>
             <l xml:id="ftln-1573" n="5.1.116">Be quiet and depart. Thou shalt not have him. </l>
           </sp>
-          <stage xml:id="stg-1573.1"
-                      n="SD 5.1.116.1"
-                      type="exit"
-                      who="#Abbess_Err">She exits. </stage>
+          <stage xml:id="stg-1573.1" n="SD 5.1.116.1" type="exit" who="#Abbess_Err">She exits. </stage>
           <sp xml:id="sp-1574" who="#Luciana_Err">
             <speaker xml:id="spk-1574">LUCIANA </speaker>
             <stage xml:id="stg-1574.0" n="SD 5.1.117.0" type="delivery">, to Adriana </stage>
@@ -3773,10 +3540,7 @@
             <stage xml:id="stg-1590.0" n="SD 5.1.133.0" type="delivery">, to Adriana </stage>
             <l xml:id="ftln-1590" n="5.1.133">Kneel to the Duke before he pass the abbey. </l>
           </sp>
-          <stage xml:id="stg-1590.1"
-                      n="SD 5.1.133.1"
-                      type="entrance"
-                      who="#Duke_Err #Egeon_Err #Headsman_Err #OFFICERS_Err">Enter the Duke of Ephesus, and Egeon the Merchant of Syracuse, bare head, with the Headsman and other Officers. </stage>
+          <stage xml:id="stg-1590.1" n="SD 5.1.133.1" type="entrance" who="#Duke_Err #Egeon_Err #Headsman_Err #OFFICERS_Err">Enter the Duke of Ephesus, and Egeon the Merchant of Syracuse, bare head, with the Headsman and other Officers. </stage>
           <sp xml:id="sp-1591" who="#Duke_Err">
             <speaker xml:id="spk-1591">DUKE </speaker>
             <l xml:id="ftln-1591" n="5.1.134">Yet once again proclaim it publicly, </l>
@@ -3785,10 +3549,7 @@
           </sp>
           <sp xml:id="sp-1594" who="#Adriana_Err">
             <speaker xml:id="spk-1594">ADRIANA </speaker>
-            <stage xml:id="stg-1594.0"
-                         n="SD 5.1.137.0"
-                         type="business"
-                         who="#Adriana_Err">, kneeling </stage>
+            <stage xml:id="stg-1594.0" n="SD 5.1.137.0" type="business" who="#Adriana_Err">, kneeling </stage>
             <l xml:id="ftln-1594" n="5.1.137">Justice, most sacred duke, against the Abbess. </l>
           </sp>
           <sp xml:id="sp-1595" who="#Duke_Err">
@@ -3834,14 +3595,8 @@
             <l xml:id="ftln-1627" n="5.1.170">And bid the Lady Abbess come to me. </l>
             <l xml:id="ftln-1628" n="5.1.171">I will determine this before I stir. </l>
           </sp>
-          <stage xml:id="stg-1628"
-                      n="SD 5.1.171"
-                      type="business"
-                      who="#Adriana_Err">Adriana rises. </stage>
-          <stage xml:id="stg-1628.1"
-                      n="SD 5.1.171.1"
-                      type="entrance"
-                      who="#Messenger_Err">Enter a Messenger. </stage>
+          <stage xml:id="stg-1628" n="SD 5.1.171" type="business" who="#Adriana_Err">Adriana rises. </stage>
+          <stage xml:id="stg-1628.1" n="SD 5.1.171.1" type="entrance" who="#Messenger_Err">Enter a Messenger. </stage>
           <sp xml:id="sp-1629" who="#Messenger_Err">
             <speaker xml:id="spk-1629">MESSENGER </speaker>
             <l xml:id="ftln-1629" n="5.1.172">O mistress, mistress, shift and save yourself. </l>
@@ -3873,10 +3628,7 @@
             <speaker xml:id="spk-1647">DUKE </speaker>
             <l xml:id="ftln-1647" n="5.1.190">Come, stand by me. Fear nothing.— Guard with halberds. </l>
           </sp>
-          <stage xml:id="stg-1648.1"
-                      n="SD 5.1.191.1"
-                      type="entrance"
-                      who="#AntipholusOfEphesus_Err #DromioOfEphesus_Err">Enter Antipholus and Dromio of Ephesus. </stage>
+          <stage xml:id="stg-1648.1" n="SD 5.1.191.1" type="entrance" who="#AntipholusOfEphesus_Err #DromioOfEphesus_Err">Enter Antipholus and Dromio of Ephesus. </stage>
           <sp xml:id="sp-1649" who="#Adriana_Err">
             <speaker xml:id="spk-1649">ADRIANA </speaker>
             <l xml:id="ftln-1649" n="5.1.192">Ay me, it is my husband. Witness you </l>
@@ -3951,10 +3703,7 @@
             <l xml:id="ftln-1687" n="5.1.230">Our dinner done and he not coming thither, </l>
             <l xml:id="ftln-1688" n="5.1.231">I went to seek him. In the street I met him, </l>
             <l xml:id="ftln-1689" n="5.1.232">And in his company that gentleman. </l>
-            <stage xml:id="stg-1689.1"
-                         n="SD 5.1.232.1"
-                         type="business"
-                         who="#AntipholusOfEphesus_Err">He points to Second Merchant. </stage>
+            <stage xml:id="stg-1689.1" n="SD 5.1.232.1" type="business" who="#AntipholusOfEphesus_Err">He points to Second Merchant. </stage>
             <l xml:id="ftln-1690" n="5.1.233">There did this perjured goldsmith swear me down </l>
             <l xml:id="ftln-1691" n="5.1.234">That I this day of him received the chain, </l>
             <l xml:id="ftln-1692" n="5.1.235">Which, God He knows, I saw not; for the which </l>
@@ -4036,10 +3785,7 @@
           </sp>
           <sp xml:id="sp-1744" who="#AntipholusOfEphesus_Err">
             <speaker xml:id="spk-1744">ANTIPHOLUS OF EPHESUS </speaker>
-            <stage xml:id="stg-1744.0"
-                         n="SD 5.1.287.0"
-                         type="business"
-                         who="#AntipholusOfEphesus_Err">, showing a ring </stage>
+            <stage xml:id="stg-1744.0" n="SD 5.1.287.0" type="business" who="#AntipholusOfEphesus_Err">, showing a ring </stage>
             <l xml:id="ftln-1744" n="5.1.287">’Tis true, my liege, this ring I had of her. </l>
           </sp>
           <sp xml:id="sp-1745" who="#Duke_Err">
@@ -4054,10 +3800,7 @@
           <sp xml:id="sp-1747" who="#Duke_Err">
             <speaker xml:id="spk-1747">DUKE </speaker>
             <l xml:id="ftln-1747" n="5.1.290">Why, this is strange.— Go call the Abbess hither. </l>
-            <stage xml:id="stg-1747.1"
-                         n="SD 5.1.290.1"
-                         type="exit"
-                         who="#OFFICERS.0_Err">Exit one to the Abbess. </stage>
+            <stage xml:id="stg-1747.1" n="SD 5.1.290.1" type="exit" who="#OFFICERS.0_Err">Exit one to the Abbess. </stage>
             <l xml:id="ftln-1748" n="5.1.291">I think you are all mated or stark mad. </l>
           </sp>
           <sp xml:id="sp-1749" who="#Egeon_Err">
@@ -4171,18 +3914,12 @@
             <l xml:id="ftln-1796" n="5.1.339">During which time he ne’er saw Syracusa. </l>
             <l xml:id="ftln-1797" n="5.1.340">I see thy age and dangers make thee dote. </l>
           </sp>
-          <stage xml:id="stg-1797.1"
-                      n="SD 5.1.340.1"
-                      type="entrance"
-                      who="#Abbess_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err">Enter Emilia the Abbess, with Antipholus of Syracuse and Dromio of Syracuse. </stage>
+          <stage xml:id="stg-1797.1" n="SD 5.1.340.1" type="entrance" who="#Abbess_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err">Enter Emilia the Abbess, with Antipholus of Syracuse and Dromio of Syracuse. </stage>
           <sp xml:id="sp-1798" who="#Abbess_Err">
             <speaker xml:id="spk-1798">ABBESS </speaker>
             <l xml:id="ftln-1798" n="5.1.341">Most mighty duke, behold a man much wronged. </l>
           </sp>
-          <stage xml:id="stg-1798.1"
-                      n="SD 5.1.341.1"
-                      type="business"
-                      who="#Merchant2_Err #Angelo_Err #Adriana_Err #Luciana_Err #Courtesan_Err #OTHERS_Err #Duke_Err #Egeon_Err #Headsman_Err #OFFICERS_Err #Messenger_Err">All gather to see them. </stage>
+          <stage xml:id="stg-1798.1" n="SD 5.1.341.1" type="business" who="#Merchant2_Err #Angelo_Err #Adriana_Err #Luciana_Err #Courtesan_Err #OTHERS_Err #Duke_Err #Egeon_Err #Headsman_Err #OFFICERS_Err #Messenger_Err">All gather to see them. </stage>
           <sp xml:id="sp-1799" who="#Adriana_Err">
             <speaker xml:id="spk-1799">ADRIANA </speaker>
             <l xml:id="ftln-1799" n="5.1.342">I see two husbands, or mine eyes deceive me. </l>
@@ -4370,10 +4107,7 @@
             <speaker xml:id="spk-1877">DUKE </speaker>
             <l xml:id="ftln-1877" n="5.1.420">With all my heart I’ll gossip at this feast. </l>
           </sp>
-          <stage xml:id="stg-1877.1"
-                      n="SD 5.1.420.1"
-                      type="exit"
-                      who="#Abbess_Err #Adriana_Err #Angelo_Err #Courtesan_Err #Duke_Err #Egeon_Err #Luciana_Err #Messenger_Err #Merchant2_Err #OTHERS_Err #OFFICERS_Err #Headsman_Err">All exit except the two Dromios and the two brothers Antipholus. </stage>
+          <stage xml:id="stg-1877.1" n="SD 5.1.420.1" type="exit" who="#Abbess_Err #Adriana_Err #Angelo_Err #Courtesan_Err #Duke_Err #Egeon_Err #Luciana_Err #Messenger_Err #Merchant2_Err #OTHERS_Err #OFFICERS_Err #Headsman_Err">All exit except the two Dromios and the two brothers Antipholus. </stage>
           <sp xml:id="sp-1878" who="#DromioOfSyracuse_Err">
             <speaker xml:id="spk-1878">DROMIO OF SYRACUSE </speaker>
             <stage xml:id="stg-1878.0" n="SD 5.1.421.0" type="delivery">, to Antipholus of Ephesus </stage>
@@ -4394,10 +4128,7 @@
             <l xml:id="ftln-1882" n="5.1.425">Come, go with us. We’ll look to that anon. </l>
             <l xml:id="ftln-1883" n="5.1.426">Embrace thy brother there. Rejoice with him. </l>
           </sp>
-          <stage xml:id="stg-1883.1"
-                      n="SD 5.1.426.1"
-                      type="exit"
-                      who="#AntipholusOfSyracuse_Err #AntipholusOfEphesus_Err">The brothers Antipholus exit. </stage>
+          <stage xml:id="stg-1883.1" n="SD 5.1.426.1" type="exit" who="#AntipholusOfSyracuse_Err #AntipholusOfEphesus_Err">The brothers Antipholus exit. </stage>
           <sp xml:id="sp-1884" who="#DromioOfSyracuse_Err">
             <speaker xml:id="spk-1884">DROMIO OF SYRACUSE </speaker>
             <l xml:id="ftln-1884" n="5.1.427">There is a fat friend at your master’s house </l>
@@ -4431,10 +4162,7 @@
             <l xml:id="ftln-1896" n="5.1.439">We came into the world like brother and brother, </l>
             <l xml:id="ftln-1897" n="5.1.440">And now let’s go hand in hand, not one before another. </l>
           </sp>
-          <stage xml:id="stg-1898.1"
-                      n="SD 5.1.441.1"
-                      type="exit"
-                      who="#DromioOfSyracuse_Err #DromioOfEphesus_Err">They exit. </stage>
+          <stage xml:id="stg-1898.1" n="SD 5.1.441.1" type="exit" who="#DromioOfSyracuse_Err #DromioOfEphesus_Err">They exit. </stage>
         </div>
       </div>
     </body>

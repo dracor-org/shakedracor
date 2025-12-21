@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shake000025">
   <teiHeader>
     <fileDesc>
@@ -212,9 +213,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/shake000025"
-                   passive="http://www.wikidata.org/entity/Q183304"/>
+      <relation name="wikidata" active="https://dracor.org/entity/shake000025" passive="http://www.wikidata.org/entity/Q183304"/>
     </listRelation>
   </standOff>
   <text>
@@ -443,10 +442,7 @@
     </front>
     <body>
       <div type="prologue" n="PRO">
-        <stage xml:id="stg-0000.1"
-                   n="SD PRO.1"
-                   type="entrance"
-                   who="#Prologue_Tro">Enter the Prologue in armor. </stage>
+        <stage xml:id="stg-0000.1" n="SD PRO.1" type="entrance" who="#Prologue_Tro">Enter the Prologue in armor. </stage>
         <sp xml:id="sp-0001" who="#Prologue_Tro">
           <speaker xml:id="spk-0001">PROLOGUE </speaker>
           <l xml:id="ftln-0001" n="PRO.1">In Troy there lies the scene. From isles of Greece </l>
@@ -481,19 +477,13 @@
           <l xml:id="ftln-0030" n="PRO.30">Like, or find fault; do as your pleasures are. </l>
           <l xml:id="ftln-0031" n="PRO.31">Now, good or bad, ’tis but the chance of war. </l>
         </sp>
-        <stage xml:id="stg-0031.1"
-                   n="SD PRO.31.1"
-                   type="exit"
-                   who="#Prologue_Tro">Prologue exits. </stage>
+        <stage xml:id="stg-0031.1" n="SD PRO.31.1" type="exit" who="#Prologue_Tro">Prologue exits. </stage>
       </div>
       <div type="act" n="1">
         <head>ACT 1 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-0031.2"
-                      n="SD 1.1.0"
-                      type="entrance"
-                      who="#Pandarus_Tro #Troilus_Tro">Enter Pandarus and Troilus. </stage>
+          <stage xml:id="stg-0031.2" n="SD 1.1.0" type="entrance" who="#Pandarus_Tro #Troilus_Tro">Enter Pandarus and Troilus. </stage>
           <sp xml:id="sp-0032" who="#Troilus_Tro">
             <speaker xml:id="spk-0032">TROILUS </speaker>
             <l xml:id="ftln-0032" n="1.1.1">Call here my varlet; I’ll unarm again. </l>
@@ -686,10 +676,7 @@
             <l xml:id="ftln-0136" n="1.1.105">Ourself the merchant, and this sailing Pandar </l>
             <l xml:id="ftln-0137" n="1.1.106">Our doubtful hope, our convoy, and our bark. </l>
           </sp>
-          <stage xml:id="stg-0137.1"
-                      n="SD 1.1.106.1"
-                      type="entrance"
-                      who="#Aeneas_Tro">
+          <stage xml:id="stg-0137.1" n="SD 1.1.106.1" type="entrance" who="#Aeneas_Tro">
             <stage xml:id="snd-0137.1" n="SD 1.1.106.1" type="sound" ana="alarum">Alarum. </stage> Enter Aeneas. </stage>
           <sp xml:id="sp-0138" who="#Aeneas_Tro">
             <speaker xml:id="spk-0138">AENEAS </speaker>
@@ -738,17 +725,11 @@
             <speaker xml:id="spk-0151">TROILUS </speaker>
             <l xml:id="ftln-0151" n="1.1.120" part="F">Come, go we then together. </l>
           </sp>
-          <stage xml:id="stg-0151.1"
-                      n="SD 1.1.120.1"
-                      type="exit"
-                      who="#Troilus_Tro #Aeneas_Tro">They exit. </stage>
+          <stage xml:id="stg-0151.1" n="SD 1.1.120.1" type="exit" who="#Troilus_Tro #Aeneas_Tro">They exit. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-0151.2"
-                      n="SD 1.2.0"
-                      type="entrance"
-                      who="#Cressida_Tro #Alexander_Tro">Enter Cressida and her man Alexander. </stage>
+          <stage xml:id="stg-0151.2" n="SD 1.2.0" type="entrance" who="#Cressida_Tro #Alexander_Tro">Enter Cressida and her man Alexander. </stage>
           <sp xml:id="sp-0152" who="#Cressida_Tro">
             <speaker xml:id="spk-0152">CRESSIDA </speaker>
             <l xml:id="ftln-0152" n="1.2.1" part="I">Who were those went by? </l>
@@ -813,10 +794,7 @@
             <p xml:id="p-0188">
               <lb xml:id="ftln-0188" n="1.2.37"/>They say he yesterday coped Hector in the <lb xml:id="ftln-0189" n="1.2.38"/>battle and struck him down, the disdain and <lb xml:id="ftln-0190" n="1.2.39"/>shame whereof hath ever since kept Hector fasting <lb xml:id="ftln-0191" n="1.2.40"/>and waking. </p>
           </sp>
-          <stage xml:id="stg-0191.1"
-                      n="SD 1.2.40.1"
-                      type="entrance"
-                      who="#Pandarus_Tro">Enter Pandarus. </stage>
+          <stage xml:id="stg-0191.1" n="SD 1.2.40.1" type="entrance" who="#Pandarus_Tro">Enter Pandarus. </stage>
           <sp xml:id="sp-0192" who="#Cressida_Tro">
             <speaker xml:id="spk-0192">CRESSIDA </speaker>
             <p xml:id="p-0192">
@@ -1256,35 +1234,21 @@
               <lb xml:id="ftln-0337" n="1.2.186"/>Here, here, here’s an excellent place. Here <lb xml:id="ftln-0338" n="1.2.187"/>we may see most bravely. I’ll tell you them all by <lb xml:id="ftln-0339" n="1.2.188"/>their names as they pass by, but mark Troilus <lb xml:id="ftln-0340" n="1.2.189"/>above the rest. </p>
           </sp>
           <stage xml:id="stg-0340.1" n="SD 1.2.189.1" type="mixed">
-            <stage xml:id="stg-0340.1a"
-                         n="SD 1.2.189.1"
-                         type="business"
-                         who="#Cressida_Tro #Pandarus_Tro">They cross the stage; </stage>
-            <stage xml:id="stg-0340.1b"
-                         n="SD 1.2.189.1"
-                         type="exit"
-                         who="#Alexander_Tro">Alexander exits. </stage>
+            <stage xml:id="stg-0340.1a" n="SD 1.2.189.1" type="business" who="#Cressida_Tro #Pandarus_Tro">They cross the stage; </stage>
+            <stage xml:id="stg-0340.1b" n="SD 1.2.189.1" type="exit" who="#Alexander_Tro">Alexander exits. </stage>
           </stage>
           <sp xml:id="sp-0341" who="#Cressida_Tro">
             <speaker xml:id="spk-0341">CRESSIDA </speaker>
             <p xml:id="p-0341">
               <lb xml:id="ftln-0341" n="1.2.190"/>Speak not so loud. </p>
           </sp>
-          <stage xml:id="stg-0341.1"
-                      n="SD 1.2.190.1"
-                      type="business"
-                      rendition="centered"
-                      who="#Aeneas_Tro">Enter Aeneas and crosses the stage. </stage>
+          <stage xml:id="stg-0341.1" n="SD 1.2.190.1" type="business" rendition="centered" who="#Aeneas_Tro">Enter Aeneas and crosses the stage. </stage>
           <sp xml:id="sp-0342" who="#Pandarus_Tro">
             <speaker xml:id="spk-0342">PANDARUS </speaker>
             <p xml:id="p-0342">
               <lb xml:id="ftln-0342" n="1.2.191"/>That’s Aeneas. Is not that a brave man? He’s <lb xml:id="ftln-0343" n="1.2.192"/>one of the flowers of Troy, I can tell you. But mark <lb xml:id="ftln-0344" n="1.2.193"/>Troilus; you shall see anon. </p>
           </sp>
-          <stage xml:id="stg-0344.1"
-                      n="SD 1.2.193.1"
-                      type="business"
-                      rendition="centered"
-                      who="#Antenor_Tro">Enter Antenor and crosses the stage. </stage>
+          <stage xml:id="stg-0344.1" n="SD 1.2.193.1" type="business" rendition="centered" who="#Antenor_Tro">Enter Antenor and crosses the stage. </stage>
           <sp xml:id="sp-0345" who="#Cressida_Tro">
             <speaker xml:id="spk-0345">CRESSIDA </speaker>
             <p xml:id="p-0345">
@@ -1310,11 +1274,7 @@
             <p xml:id="p-0354">
               <lb xml:id="ftln-0354" n="1.2.203"/>If he do, the rich shall have more. </p>
           </sp>
-          <stage xml:id="stg-0354.1"
-                      n="SD 1.2.203.1"
-                      type="business"
-                      rendition="centered"
-                      who="#Hector_Tro">Enter Hector and crosses the stage. </stage>
+          <stage xml:id="stg-0354.1" n="SD 1.2.203.1" type="business" rendition="centered" who="#Hector_Tro">Enter Hector and crosses the stage. </stage>
           <sp xml:id="sp-0355" who="#Pandarus_Tro">
             <speaker xml:id="spk-0355">PANDARUS </speaker>
             <p xml:id="p-0355">
@@ -1339,19 +1299,11 @@
             <speaker xml:id="spk-0366">PANDARUS </speaker>
             <p xml:id="p-0366">
               <lb xml:id="ftln-0366" n="1.2.215"/>Swords, anything, he cares not. An the devil <lb xml:id="ftln-0367" n="1.2.216"/>come to him, it’s all one. By God’s lid, it does one’s <lb xml:id="ftln-0368" n="1.2.217"/>heart good. </p>
-            <stage xml:id="stg-0368.1"
-                         n="SD 1.2.217.1"
-                         type="business"
-                         rendition="centered"
-                         who="#Paris_Tro">Enter Paris and crosses the stage. </stage>
+            <stage xml:id="stg-0368.1" n="SD 1.2.217.1" type="business" rendition="centered" who="#Paris_Tro">Enter Paris and crosses the stage. </stage>
             <p xml:id="p-0369">
               <lb xml:id="ftln-0369" n="1.2.218"/>Yonder comes Paris, yonder comes Paris! Look you <lb xml:id="ftln-0370" n="1.2.219"/>yonder, niece. Is ’t not a gallant man too? Is ’t not? <lb xml:id="ftln-0371" n="1.2.220"/>Why, this is brave now. Who said he came hurt <lb xml:id="ftln-0372" n="1.2.221"/>home today? He’s not hurt. Why, this will do <lb xml:id="ftln-0373" n="1.2.222"/>Helen’s heart good now, ha? Would I could see <lb xml:id="ftln-0374" n="1.2.223"/>Troilus now! You shall see Troilus anon. </p>
           </sp>
-          <stage xml:id="stg-0374.1"
-                      n="SD 1.2.223.1"
-                      type="business"
-                      rendition="centered"
-                      who="#Helenus_Tro">Enter Helenus and crosses the stage. </stage>
+          <stage xml:id="stg-0374.1" n="SD 1.2.223.1" type="business" rendition="centered" who="#Helenus_Tro">Enter Helenus and crosses the stage. </stage>
           <sp xml:id="sp-0375" who="#Cressida_Tro">
             <speaker xml:id="spk-0375">CRESSIDA </speaker>
             <p xml:id="p-0375">
@@ -1372,11 +1324,7 @@
             <p xml:id="p-0380">
               <lb xml:id="ftln-0380" n="1.2.229"/>Helenus? No. Yes, he’ll fight indifferent <lb xml:id="ftln-0381" n="1.2.230"/>well. I marvel where Troilus is. Hark, do you not <lb xml:id="ftln-0382" n="1.2.231"/>hear the people cry “ Troilus”? Helenus is a priest. </p>
           </sp>
-          <stage xml:id="stg-0382.1"
-                      n="SD 1.2.231.1"
-                      type="business"
-                      rendition="centered"
-                      who="#Troilus_Tro">Enter Troilus and crosses the stage. </stage>
+          <stage xml:id="stg-0382.1" n="SD 1.2.231.1" type="business" rendition="centered" who="#Troilus_Tro">Enter Troilus and crosses the stage. </stage>
           <sp xml:id="sp-0383" who="#Cressida_Tro">
             <speaker xml:id="spk-0383">CRESSIDA </speaker>
             <p xml:id="p-0383">
@@ -1397,11 +1345,7 @@
             <p xml:id="p-0388">
               <lb xml:id="ftln-0388" n="1.2.237"/>Mark him. Note him. O brave Troilus! Look <lb xml:id="ftln-0389" n="1.2.238"/>well upon him, niece. Look you how his sword is <lb xml:id="ftln-0390" n="1.2.239"/>bloodied and his helm more hacked than Hector’s, <lb xml:id="ftln-0391" n="1.2.240"/>and how he looks, and how he goes. O admirable <lb xml:id="ftln-0392" n="1.2.241"/>youth! He never saw three and twenty.— Go thy <lb xml:id="ftln-0393" n="1.2.242"/>way, Troilus; go thy way!— Had I a sister were a <lb xml:id="ftln-0394" n="1.2.243"/>Grace, or a daughter a goddess, he should take his <lb xml:id="ftln-0395" n="1.2.244"/>choice. O admirable man! Paris? Paris is dirt to <lb xml:id="ftln-0396" n="1.2.245"/>him; and I warrant Helen, to change, would give <lb xml:id="ftln-0397" n="1.2.246"/>an eye to boot. </p>
           </sp>
-          <stage xml:id="stg-0397.1"
-                      n="SD 1.2.246.1"
-                      type="business"
-                      rendition="centered"
-                      who="#SOLDIERS.TROJAN_Tro">Enter Common Soldiers and cross the stage. </stage>
+          <stage xml:id="stg-0397.1" n="SD 1.2.246.1" type="business" rendition="centered" who="#SOLDIERS.TROJAN_Tro">Enter Common Soldiers and cross the stage. </stage>
           <sp xml:id="sp-0398" who="#Cressida_Tro">
             <speaker xml:id="spk-0398">CRESSIDA </speaker>
             <p xml:id="p-0398">
@@ -1462,10 +1406,7 @@
             <p xml:id="p-0429">
               <lb xml:id="ftln-0429" n="1.2.278"/>You are such another! </p>
           </sp>
-          <stage xml:id="stg-0429.1"
-                      n="SD 1.2.278.1"
-                      type="entrance"
-                      who="#Boy_Tro">Enter Troilus’s Boy. </stage>
+          <stage xml:id="stg-0429.1" n="SD 1.2.278.1" type="entrance" who="#Boy_Tro">Enter Troilus’s Boy. </stage>
           <sp xml:id="sp-0430" who="#Boy_Tro">
             <speaker xml:id="spk-0430">BOY </speaker>
             <p xml:id="p-0430">
@@ -1512,10 +1453,7 @@
           <sp xml:id="sp-0439" who="#Cressida_Tro">
             <speaker xml:id="spk-0439">CRESSIDA </speaker>
             <l xml:id="ftln-0439" n="1.2.288" ana="#short">By the same token, you are a bawd. </l>
-            <stage xml:id="stg-0439.1"
-                         n="SD 1.2.288.1"
-                         type="exit"
-                         who="#Pandarus_Tro">Pandarus exits. </stage>
+            <stage xml:id="stg-0439.1" n="SD 1.2.288.1" type="exit" who="#Pandarus_Tro">Pandarus exits. </stage>
             <l xml:id="ftln-0440" n="1.2.289">Words, vows, gifts, tears, and love’s full sacrifice </l>
             <l xml:id="ftln-0441" n="1.2.290">He offers in another’s enterprise; </l>
             <l xml:id="ftln-0442" n="1.2.291">But more in Troilus thousandfold I see </l>
@@ -1531,17 +1469,11 @@
             <l xml:id="ftln-0452" n="1.2.301">Then though my heart’s content firm love doth bear, </l>
             <l xml:id="ftln-0453" n="1.2.302">Nothing of that shall from mine eyes appear. </l>
           </sp>
-          <stage xml:id="stg-0453.1"
-                      n="SD 1.2.302.1"
-                      type="exit"
-                      who="#Cressida_Tro">She exits. </stage>
+          <stage xml:id="stg-0453.1" n="SD 1.2.302.1" type="exit" who="#Cressida_Tro">She exits. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-0453.2b"
-                      n="SD 1.3.0"
-                      type="entrance"
-                      who="#Agamemnon_Tro #Nestor_Tro #Ulysses_Tro #Diomedes_Tro #Menelaus_Tro #ATTENDANTS.GREEK_Tro">
+          <stage xml:id="stg-0453.2b" n="SD 1.3.0" type="entrance" who="#Agamemnon_Tro #Nestor_Tro #Ulysses_Tro #Diomedes_Tro #Menelaus_Tro #ATTENDANTS.GREEK_Tro">
             <stage xml:id="snd-0453.2" n="SD 1.3.0" type="sound" ana="sennet">Sennet. </stage> Enter Agamemnon, Nestor, Ulysses, Diomedes, Menelaus, with others. </stage>
           <sp xml:id="sp-0454" who="#Agamemnon_Tro">
             <speaker xml:id="spk-0454">AGAMEMNON </speaker>
@@ -1800,10 +1732,7 @@
             <speaker xml:id="spk-0671">MENELAUS </speaker>
             <l xml:id="ftln-0671" n="1.3.218" ana="#short">From Troy. </l>
           </sp>
-          <stage xml:id="stg-0671.1"
-                      n="SD 1.3.218.1"
-                      type="entrance"
-                      who="#Aeneas_Tro #Trumpeter_Tro">Enter Aeneas, with a Trumpeter. </stage>
+          <stage xml:id="stg-0671.1" n="SD 1.3.218.1" type="entrance" who="#Aeneas_Tro #Trumpeter_Tro">Enter Aeneas, with a Trumpeter. </stage>
           <sp xml:id="sp-0672" who="#Agamemnon_Tro">
             <speaker xml:id="spk-0672">AGAMEMNON </speaker>
             <l xml:id="ftln-0672" n="1.3.219" ana="#short">What would you ’fore our tent? </l>
@@ -1904,10 +1833,7 @@
             <l xml:id="ftln-0718" n="1.3.265">Send thy brass voice through all these lazy tents; </l>
             <l xml:id="ftln-0719" n="1.3.266">And every Greek of mettle, let him know </l>
             <l xml:id="ftln-0720" n="1.3.267">What Troy means fairly shall be spoke aloud. </l>
-            <stage xml:id="stg-0720.1"
-                         n="SD 1.3.267.1"
-                         type="business"
-                         who="#Trumpeter_Tro">
+            <stage xml:id="stg-0720.1" n="SD 1.3.267.1" type="business" who="#Trumpeter_Tro">
               <stage xml:id="snd-0720.1" n="SD 1.3.267.1" type="sound" ana="trumpet">Sound trumpet. </stage>
             </stage>
             <l xml:id="ftln-0721" n="1.3.268">We have, great Agamemnon, here in Troy </l>
@@ -1977,10 +1903,7 @@
             <l xml:id="ftln-0769" n="1.3.316">Yourself shall feast with us before you go, </l>
             <l xml:id="ftln-0770" n="1.3.317">And find the welcome of a noble foe. </l>
           </sp>
-          <stage xml:id="stg-0770.1"
-                      n="SD 1.3.317.1"
-                      type="exit"
-                      who="#Agamemnon_Tro #Diomedes_Tro #Menelaus_Tro #ATTENDANTS.GREEK_Tro #Aeneas_Tro #Trumpeter_Tro">All but Ulysses and Nestor exit. </stage>
+          <stage xml:id="stg-0770.1" n="SD 1.3.317.1" type="exit" who="#Agamemnon_Tro #Diomedes_Tro #Menelaus_Tro #ATTENDANTS.GREEK_Tro #Aeneas_Tro #Trumpeter_Tro">All but Ulysses and Nestor exit. </stage>
           <sp xml:id="sp-0771" who="#Ulysses_Tro">
             <speaker xml:id="spk-0771">ULYSSES </speaker>
             <l xml:id="ftln-0771" n="1.3.318" ana="#short">Nestor. </l>
@@ -2105,20 +2028,14 @@
             <l xml:id="ftln-0851" n="1.3.398">Two curs shall tame each other; pride alone </l>
             <l xml:id="ftln-0852" n="1.3.399">Must tar the mastiffs on, as ’twere a bone. </l>
           </sp>
-          <stage xml:id="stg-0852.1"
-                      n="SD 1.3.399.1"
-                      type="exit"
-                      who="#Nestor_Tro #Ulysses_Tro">They exit. </stage>
+          <stage xml:id="stg-0852.1" n="SD 1.3.399.1" type="exit" who="#Nestor_Tro #Ulysses_Tro">They exit. </stage>
         </div>
       </div>
       <div type="act" n="2">
         <head>ACT 2 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-0852.2"
-                      n="SD 2.1.0"
-                      type="entrance"
-                      who="#Ajax_Tro #Thersites_Tro">Enter Ajax and Thersites. </stage>
+          <stage xml:id="stg-0852.2" n="SD 2.1.0" type="entrance" who="#Ajax_Tro #Thersites_Tro">Enter Ajax and Thersites. </stage>
           <sp xml:id="sp-0853" who="#Ajax_Tro">
             <speaker xml:id="spk-0853">AJAX </speaker>
             <p xml:id="p-0853">
@@ -2154,10 +2071,7 @@
             <p xml:id="p-0862">
               <lb xml:id="ftln-0862" n="2.1.10"/>Thou bitchwolf’s son, canst thou not hear? Feel, <lb xml:id="ftln-0863" n="2.1.11"/>then. </p>
           </sp>
-          <stage xml:id="stg-0863"
-                      n="SD 2.1.11"
-                      type="business"
-                      who="#Ajax_Tro #Thersites_Tro">Strikes him. </stage>
+          <stage xml:id="stg-0863" n="SD 2.1.11" type="business" who="#Ajax_Tro #Thersites_Tro">Strikes him. </stage>
           <sp xml:id="sp-0864" who="#Thersites_Tro">
             <speaker xml:id="spk-0864">THERSITES </speaker>
             <p xml:id="p-0864">
@@ -2238,10 +2152,7 @@
             <p xml:id="p-0893">
               <lb xml:id="ftln-0893" n="2.1.41"/>You whoreson cur! </p>
           </sp>
-          <stage xml:id="stg-0893"
-                      n="SD 2.1.41"
-                      type="business"
-                      who="#Ajax_Tro #Thersites_Tro">Strikes him. </stage>
+          <stage xml:id="stg-0893" n="SD 2.1.41" type="business" who="#Ajax_Tro #Thersites_Tro">Strikes him. </stage>
           <sp xml:id="sp-0894" who="#Thersites_Tro">
             <speaker xml:id="spk-0894">THERSITES </speaker>
             <p xml:id="p-0894">
@@ -2272,19 +2183,13 @@
             <p xml:id="p-0906">
               <lb xml:id="ftln-0906" n="2.1.54"/>You cur! </p>
           </sp>
-          <stage xml:id="stg-0906"
-                      n="SD 2.1.54"
-                      type="business"
-                      who="#Ajax_Tro #Thersites_Tro">Strikes him. </stage>
+          <stage xml:id="stg-0906" n="SD 2.1.54" type="business" who="#Ajax_Tro #Thersites_Tro">Strikes him. </stage>
           <sp xml:id="sp-0907" who="#Thersites_Tro">
             <speaker xml:id="spk-0907">THERSITES </speaker>
             <p xml:id="p-0907">
               <lb xml:id="ftln-0907" n="2.1.55"/>Mars his idiot! Do, rudeness, do, camel, do, <lb xml:id="ftln-0908" n="2.1.56"/>do. </p>
           </sp>
-          <stage xml:id="stg-0908.1"
-                      n="SD 2.1.56.1"
-                      type="entrance"
-                      who="#Achilles_Tro #Patroclus_Tro">Enter Achilles and Patroclus. </stage>
+          <stage xml:id="stg-0908.1" n="SD 2.1.56.1" type="entrance" who="#Achilles_Tro #Patroclus_Tro">Enter Achilles and Patroclus. </stage>
           <sp xml:id="sp-0909" who="#Achilles_Tro">
             <speaker xml:id="spk-0909">ACHILLES </speaker>
             <p xml:id="p-0909">
@@ -2355,10 +2260,7 @@
             <p xml:id="p-0932">
               <lb xml:id="ftln-0932" n="2.1.80"/>I say, this Ajax— </p>
           </sp>
-          <stage xml:id="stg-0932"
-                      n="SD 2.1.80"
-                      type="business"
-                      who="#Ajax_Tro #Thersites_Tro">Ajax menaces him. </stage>
+          <stage xml:id="stg-0932" n="SD 2.1.80" type="business" who="#Ajax_Tro #Thersites_Tro">Ajax menaces him. </stage>
           <sp xml:id="sp-0933" who="#Achilles_Tro">
             <speaker xml:id="spk-0933">ACHILLES </speaker>
             <p xml:id="p-0933">
@@ -2496,10 +2398,7 @@
             <p xml:id="p-0973">
               <lb xml:id="ftln-0973" n="2.1.121"/>I will see you hanged like clodpolls ere I <lb xml:id="ftln-0974" n="2.1.122"/>come any more to your tents. I will keep where <lb xml:id="ftln-0975" n="2.1.123"/>there is wit stirring and leave the faction of fools. </p>
           </sp>
-          <stage xml:id="stg-0975.1"
-                      n="SD 2.1.123.1"
-                      type="exit"
-                      who="#Thersites_Tro">He exits. </stage>
+          <stage xml:id="stg-0975.1" n="SD 2.1.123.1" type="exit" who="#Thersites_Tro">He exits. </stage>
           <sp xml:id="sp-0976" who="#Patroclus_Tro">
             <speaker xml:id="spk-0976">PATROCLUS </speaker>
             <l xml:id="ftln-0976" n="2.1.124" ana="#short">A good riddance. </l>
@@ -2523,26 +2422,17 @@
             <l xml:id="ftln-0984" n="2.1.132">I know not. ’Tis put to lott’ry. Otherwise, </l>
             <l xml:id="ftln-0985" n="2.1.133" ana="#short">He knew his man. </l>
           </sp>
-          <stage xml:id="stg-0985"
-                      n="SD 2.1.133"
-                      type="exit"
-                      who="#Achilles_Tro #Patroclus_Tro">Achilles and Patroclus exit. </stage>
+          <stage xml:id="stg-0985" n="SD 2.1.133" type="exit" who="#Achilles_Tro #Patroclus_Tro">Achilles and Patroclus exit. </stage>
           <sp xml:id="sp-0986" who="#Ajax_Tro">
             <speaker xml:id="spk-0986">AJAX </speaker>
             <p xml:id="p-0986">
               <lb xml:id="ftln-0986" n="2.1.134"/>O, meaning you? I will go learn more of it. </p>
           </sp>
-          <stage xml:id="stg-0986.1"
-                      n="SD 2.1.134.1"
-                      type="exit"
-                      who="#Ajax_Tro">He exits. </stage>
+          <stage xml:id="stg-0986.1" n="SD 2.1.134.1" type="exit" who="#Ajax_Tro">He exits. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-0986.2"
-                      n="SD 2.2.0"
-                      type="entrance"
-                      who="#Priam_Tro #Hector_Tro #Troilus_Tro #Paris_Tro #Helenus_Tro">Enter Priam, Hector, Troilus, Paris and Helenas. </stage>
+          <stage xml:id="stg-0986.2" n="SD 2.2.0" type="entrance" who="#Priam_Tro #Hector_Tro #Troilus_Tro #Paris_Tro #Helenus_Tro">Enter Priam, Hector, Troilus, Paris and Helenas. </stage>
           <sp xml:id="sp-0987" who="#Priam_Tro">
             <speaker xml:id="spk-0987">PRIAM </speaker>
             <l xml:id="ftln-0987" n="2.2.1">After so many hours, lives, speeches spent, </l>
@@ -2690,10 +2580,7 @@
             <speaker xml:id="spk-1093">HECTOR </speaker>
             <l xml:id="ftln-1093" n="2.2.107" ana="#short">It is Cassandra. </l>
           </sp>
-          <stage xml:id="stg-1093.1"
-                      n="SD 2.2.107.1"
-                      type="entrance"
-                      who="#Cassandra_Tro">Enter Cassandra raving. </stage>
+          <stage xml:id="stg-1093.1" n="SD 2.2.107.1" type="entrance" who="#Cassandra_Tro">Enter Cassandra raving. </stage>
           <sp xml:id="sp-1094" who="#Cassandra_Tro">
             <speaker xml:id="spk-1094">CASSANDRA </speaker>
             <l xml:id="ftln-1094" n="2.2.108">Cry, Trojans, cry! Lend me ten thousand eyes, </l>
@@ -2715,10 +2602,7 @@
             <l xml:id="ftln-1104" n="2.2.118">Cry, Trojans, cry! A Helen and a woe! </l>
             <l xml:id="ftln-1105" n="2.2.119">Cry, cry! Troy burns, or else let Helen go. </l>
           </sp>
-          <stage xml:id="stg-1105"
-                      n="SD 2.2.119"
-                      type="exit"
-                      who="#Cassandra_Tro">She exits. </stage>
+          <stage xml:id="stg-1105" n="SD 2.2.119" type="exit" who="#Cassandra_Tro">She exits. </stage>
           <sp xml:id="sp-1106" who="#Hector_Tro">
             <speaker xml:id="spk-1106">HECTOR </speaker>
             <l xml:id="ftln-1106" n="2.2.120">Now, youthful Troilus, do not these high strains </l>
@@ -2847,17 +2731,11 @@
             <l xml:id="ftln-1208" n="2.2.222">Whilst emulation in the army crept. </l>
             <l xml:id="ftln-1209" n="2.2.223">This, I presume, will wake him. </l>
           </sp>
-          <stage xml:id="stg-1209.1"
-                      n="SD 2.2.223.1"
-                      type="exit"
-                      who="#Priam_Tro #Hector_Tro #Troilus_Tro #Paris_Tro #Helenus_Tro">They exit. </stage>
+          <stage xml:id="stg-1209.1" n="SD 2.2.223.1" type="exit" who="#Priam_Tro #Hector_Tro #Troilus_Tro #Paris_Tro #Helenus_Tro">They exit. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-1209.2"
-                      n="SD 2.3.0"
-                      type="entrance"
-                      who="#Thersites_Tro">Enter Thersites, alone. </stage>
+          <stage xml:id="stg-1209.2" n="SD 2.3.0" type="entrance" who="#Thersites_Tro">Enter Thersites, alone. </stage>
           <sp xml:id="sp-1210" who="#Thersites_Tro">
             <speaker xml:id="spk-1210">THERSITES </speaker>
             <p xml:id="p-1210">
@@ -2873,10 +2751,7 @@
             <speaker xml:id="spk-1235">THERSITES </speaker>
             <p xml:id="p-1235">
               <lb xml:id="ftln-1235" n="2.3.26"/>If I could ’a remembered a gilt counterfeit, <lb xml:id="ftln-1236" n="2.3.27"/>thou couldst not have slipped out of my contemplation. <lb xml:id="ftln-1237" n="2.3.28"/>But it is no matter. Thyself upon thyself! The <lb xml:id="ftln-1238" n="2.3.29"/>common curse of mankind, folly and ignorance, <lb xml:id="ftln-1239" n="2.3.30"/>be thine in great revenue! Heaven bless thee from <lb xml:id="ftln-1240" n="2.3.31"/>a tutor, and discipline come not near thee! Let thy <lb xml:id="ftln-1241" n="2.3.32"/>blood be thy direction till thy death; then if she <lb xml:id="ftln-1242" n="2.3.33"/>that lays thee out says thou art a fair corse, I’ll be <lb xml:id="ftln-1243" n="2.3.34"/>sworn and sworn upon ’t she never shrouded any <lb xml:id="ftln-1244" n="2.3.35"/>but lazars. Amen. </p>
-            <stage xml:id="stg-1244.1"
-                         n="SD 2.3.35.1"
-                         type="entrance"
-                         who="#Patroclus_Tro">Enter Patroclus. </stage>
+            <stage xml:id="stg-1244.1" n="SD 2.3.35.1" type="entrance" who="#Patroclus_Tro">Enter Patroclus. </stage>
             <p xml:id="p-1245">
               <lb xml:id="ftln-1245" n="2.3.36"/>Where’s Achilles? </p>
           </sp>
@@ -2911,10 +2786,7 @@
             <stage xml:id="stg-1252" n="SD 2.3.43" type="location">, within </stage>
             <p xml:id="p-1252">
               <lb xml:id="ftln-1252" n="2.3.43"/>Where? Where? O, where? </p>
-            <stage xml:id="stg-1252.1"
-                         n="SD 2.3.43.1"
-                         type="entrance"
-                         who="#Achilles_Tro">Enter Achilles. </stage>
+            <stage xml:id="stg-1252.1" n="SD 2.3.43.1" type="entrance" who="#Achilles_Tro">Enter Achilles. </stage>
             <p xml:id="p-1253">
               <lb xml:id="ftln-1253" n="2.3.44"/>
               <stage xml:id="stg-1253" n="SD 2.3.44" type="delivery">To Thersites. </stage> Art thou come? Why, my cheese, my <lb xml:id="ftln-1254" n="2.3.45"/>digestion, why hast thou not served thyself in to my <lb xml:id="ftln-1255" n="2.3.46"/>table so many meals? Come, what’s Agamemnon? </p>
@@ -2989,10 +2861,7 @@
             <speaker xml:id="spk-1280">THERSITES </speaker>
             <p xml:id="p-1280">
               <lb xml:id="ftln-1280" n="2.3.71"/>Make that demand of the creator. It suffices <lb xml:id="ftln-1281" n="2.3.72"/>me thou art. </p>
-            <stage xml:id="stg-1281.1"
-                         n="SD 2.3.72.1"
-                         type="entrance"
-                         who="#Agamemnon_Tro #Ulysses_Tro #Nestor_Tro #Diomedes_Tro #Ajax_Tro #Calchas_Tro">Enter at a distance Agamemnon, Ulysses, Nestor, Diomedes, Ajax, and Calchas. </stage>
+            <stage xml:id="stg-1281.1" n="SD 2.3.72.1" type="entrance" who="#Agamemnon_Tro #Ulysses_Tro #Nestor_Tro #Diomedes_Tro #Ajax_Tro #Calchas_Tro">Enter at a distance Agamemnon, Ulysses, Nestor, Diomedes, Ajax, and Calchas. </stage>
             <p xml:id="p-1282">
               <lb xml:id="ftln-1282" n="2.3.73"/>Look you, who comes here? </p>
           </sp>
@@ -3007,10 +2876,7 @@
             <p xml:id="p-1285">
               <lb xml:id="ftln-1285" n="2.3.76"/>Here is such patchery, such juggling, and <lb xml:id="ftln-1286" n="2.3.77"/>such knavery. All the argument is a whore and a <lb xml:id="ftln-1287" n="2.3.78"/>cuckold, a good quarrel to draw emulous factions <lb xml:id="ftln-1288" n="2.3.79"/>and bleed to death upon. Now the dry serpigo on <lb xml:id="ftln-1289" n="2.3.80"/>the subject, and war and lechery confound all! </p>
           </sp>
-          <stage xml:id="stg-1289.1"
-                      n="SD 2.3.80.1"
-                      type="exit"
-                      who="#Thersites_Tro">He exits. </stage>
+          <stage xml:id="stg-1289.1" n="SD 2.3.80.1" type="exit" who="#Thersites_Tro">He exits. </stage>
           <sp xml:id="sp-1290" who="#Agamemnon_Tro">
             <speaker xml:id="spk-1290">AGAMEMNON </speaker>
             <stage xml:id="stg-1290" n="SD 2.3.81" type="delivery">, to Patroclus </stage>
@@ -3033,10 +2899,7 @@
             <speaker xml:id="spk-1298">PATROCLUS </speaker>
             <l xml:id="ftln-1298" n="2.3.89" ana="#short">I shall say so to him. </l>
           </sp>
-          <stage xml:id="stg-1298"
-                      n="SD 2.3.89"
-                      type="exit"
-                      who="#Patroclus_Tro">He exits. </stage>
+          <stage xml:id="stg-1298" n="SD 2.3.89" type="exit" who="#Patroclus_Tro">He exits. </stage>
           <sp xml:id="sp-1299" who="#Ulysses_Tro">
             <speaker xml:id="spk-1299">ULYSSES </speaker>
             <l xml:id="ftln-1299" n="2.3.90">We saw him at the opening of his tent. </l>
@@ -3047,10 +2910,7 @@
             <p xml:id="p-1301">
               <lb xml:id="ftln-1301" n="2.3.92"/>Yes, lion-sick, sick of proud heart. You may call <lb xml:id="ftln-1302" n="2.3.93"/>it melancholy if you will favor the man, but, by my <lb xml:id="ftln-1303" n="2.3.94"/>head, ’tis pride. But, why, why? Let him show us a <lb xml:id="ftln-1304" n="2.3.95"/>cause.— A word, my lord. </p>
           </sp>
-          <stage xml:id="stg-1304.1"
-                      n="SD 2.3.95.1"
-                      type="business"
-                      who="#Ajax_Tro #Agamemnon_Tro">He and Agamemnon walk aside. </stage>
+          <stage xml:id="stg-1304.1" n="SD 2.3.95.1" type="business" who="#Ajax_Tro #Agamemnon_Tro">He and Agamemnon walk aside. </stage>
           <sp xml:id="sp-1305" who="#Nestor_Tro">
             <speaker xml:id="spk-1305">NESTOR </speaker>
             <p xml:id="p-1305">
@@ -3090,10 +2950,7 @@
             <speaker xml:id="spk-1316">ULYSSES </speaker>
             <p xml:id="p-1316">
               <lb xml:id="ftln-1316" n="2.3.107"/>The amity that wisdom knits not, folly may <lb xml:id="ftln-1317" n="2.3.108"/>easily untie. </p>
-            <stage xml:id="stg-1317.1"
-                         n="SD 2.3.108.1"
-                         type="entrance"
-                         who="#Patroclus_Tro">Enter Patroclus. </stage>
+            <stage xml:id="stg-1317.1" n="SD 2.3.108.1" type="entrance" who="#Patroclus_Tro">Enter Patroclus. </stage>
             <p xml:id="p-1318">
               <lb xml:id="ftln-1318" n="2.3.109"/>Here comes Patroclus. </p>
           </sp>
@@ -3156,10 +3013,7 @@
             <l xml:id="ftln-1357" n="2.3.148">In second voice we’ll not be satisfied; </l>
             <l xml:id="ftln-1358" n="2.3.149">We come to speak with him.— Ulysses, enter you. </l>
           </sp>
-          <stage xml:id="stg-1358.1"
-                      n="SD 2.3.149.1"
-                      type="exit"
-                      who="#Ulysses_Tro #Patroclus_Tro">Ulysses exits, with Patroclus. </stage>
+          <stage xml:id="stg-1358.1" n="SD 2.3.149.1" type="exit" who="#Ulysses_Tro #Patroclus_Tro">Ulysses exits, with Patroclus. </stage>
           <sp xml:id="sp-1359" who="#Ajax_Tro">
             <speaker xml:id="spk-1359">AJAX </speaker>
             <p xml:id="p-1359">
@@ -3210,10 +3064,7 @@
             <stage xml:id="stg-1377.0" n="SD 2.3.168.0" type="delivery">, aside </stage>
             <l xml:id="ftln-1377" n="2.3.168">And yet he loves himself. Is ’t not strange? </l>
           </sp>
-          <stage xml:id="stg-1377.1"
-                      n="SD 2.3.168.1"
-                      type="entrance"
-                      who="#Ulysses_Tro">Enter Ulysses. </stage>
+          <stage xml:id="stg-1377.1" n="SD 2.3.168.1" type="entrance" who="#Ulysses_Tro">Enter Ulysses. </stage>
           <sp xml:id="sp-1378" who="#Ulysses_Tro">
             <speaker xml:id="spk-1378">ULYSSES </speaker>
             <l xml:id="ftln-1378" n="2.3.169">Achilles will not to the field tomorrow. </l>
@@ -3483,20 +3334,14 @@
             <l xml:id="ftln-1486" n="2.3.277">Go we to council. Let Achilles sleep. </l>
             <l xml:id="ftln-1487" n="2.3.278">Light boats sail swift, though greater hulks draw deep. </l>
           </sp>
-          <stage xml:id="stg-1487.1"
-                      n="SD 2.3.278.1"
-                      type="exit"
-                      who="#Agamemnon_Tro #Ulysses_Tro #Nestor_Tro #Diomedes_Tro #Ajax_Tro #Calchas_Tro">They exit. </stage>
+          <stage xml:id="stg-1487.1" n="SD 2.3.278.1" type="exit" who="#Agamemnon_Tro #Ulysses_Tro #Nestor_Tro #Diomedes_Tro #Ajax_Tro #Calchas_Tro">They exit. </stage>
         </div>
       </div>
       <div type="act" n="3">
         <head>ACT 3 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-1487.2"
-                      n="SD 3.1.0"
-                      type="entrance"
-                      who="#Pandarus_Tro #SERVANTS.PARIS.1_Tro">
+          <stage xml:id="stg-1487.2" n="SD 3.1.0" type="entrance" who="#Pandarus_Tro #SERVANTS.PARIS.1_Tro">
             <stage xml:id="snd-1487.2" n="SD 3.1.0" type="sound">Music sounds within. </stage> Enter Pandarus and Paris’s Servingman. </stage>
           <sp xml:id="sp-1488" who="#Pandarus_Tro">
             <speaker xml:id="spk-1488">PANDARUS </speaker>
@@ -3638,10 +3483,7 @@
             <p xml:id="p-1528">
               <lb xml:id="ftln-1528" n="3.1.41"/>Sodden business! There’s a stewed phrase indeed. </p>
           </sp>
-          <stage xml:id="stg-1528.1"
-                      n="SD 3.1.41.1"
-                      type="entrance"
-                      who="#Paris_Tro #Helen_Tro #ATTENDANTS.TROJAN_Tro">Enter Paris and Helen with Attendants. </stage>
+          <stage xml:id="stg-1528.1" n="SD 3.1.41.1" type="entrance" who="#Paris_Tro #Helen_Tro #ATTENDANTS.TROJAN_Tro">Enter Paris and Helen with Attendants. </stage>
           <sp xml:id="sp-1529" who="#Pandarus_Tro">
             <speaker xml:id="spk-1529">PANDARUS </speaker>
             <p xml:id="p-1529">
@@ -3792,11 +3634,7 @@
             <speaker xml:id="spk-1579">PANDARUS </speaker>
             <p xml:id="p-1579">
               <lb xml:id="ftln-1579" n="3.1.92"/>You spy? What do you spy?— Come, give me <lb xml:id="ftln-1580" n="3.1.93"/>an instrument. </p>
-            <stage xml:id="stg-1580"
-                         n="SD 3.1.93"
-                         type="business"
-                         rendition="inline"
-                         who="#ATTENDANTS.TROJAN.0_Tro #Pandarus_Tro"> An Attendant gives him an instrument. </stage>
+            <stage xml:id="stg-1580" n="SD 3.1.93" type="business" rendition="inline" who="#ATTENDANTS.TROJAN.0_Tro #Pandarus_Tro"> An Attendant gives him an instrument. </stage>
             <p xml:id="p-1581">
               <lb xml:id="ftln-1581" n="3.1.94"/>Now, sweet queen. </p>
           </sp>
@@ -3928,10 +3766,7 @@
             <p xml:id="p-1633">
               <lb xml:id="ftln-1633" n="3.1.146"/>I will, sweet queen. </p>
           </sp>
-          <stage xml:id="stg-1633"
-                      n="SD 3.1.146"
-                      type="exit"
-                      who="#Pandarus_Tro">He exits. </stage>
+          <stage xml:id="stg-1633" n="SD 3.1.146" type="exit" who="#Pandarus_Tro">He exits. </stage>
           <stage xml:id="stg-1633.1" n="SD 3.1.146.1" type="business">
             <stage xml:id="snd-1633.1" n="SD 3.1.146.1" type="sound" ana="retreat">Sound a retreat. </stage>
           </stage>
@@ -3956,17 +3791,11 @@
             <speaker xml:id="spk-1645">PARIS </speaker>
             <l xml:id="ftln-1645" n="3.1.158" ana="#short">Sweet, above thought I love thee. </l>
           </sp>
-          <stage xml:id="stg-1645.1"
-                      n="SD 3.1.158.1"
-                      type="exit"
-                      who="#Paris_Tro #Helen_Tro #SERVANTS.PARIS.1_Tro #ATTENDANTS.TROJAN_Tro">They exit. </stage>
+          <stage xml:id="stg-1645.1" n="SD 3.1.158.1" type="exit" who="#Paris_Tro #Helen_Tro #SERVANTS.PARIS.1_Tro #ATTENDANTS.TROJAN_Tro">They exit. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-1645.2"
-                      n="SD 3.2.0"
-                      type="entrance"
-                      who="#Pandarus_Tro #SERVANTS.TROILUS.1_Tro">Enter Pandarus and Troilus’s Man, meeting. </stage>
+          <stage xml:id="stg-1645.2" n="SD 3.2.0" type="entrance" who="#Pandarus_Tro #SERVANTS.TROILUS.1_Tro">Enter Pandarus and Troilus’s Man, meeting. </stage>
           <sp xml:id="sp-1646" who="#Pandarus_Tro">
             <speaker xml:id="spk-1646">PANDARUS </speaker>
             <p xml:id="p-1646">
@@ -3977,10 +3806,7 @@
             <p xml:id="p-1648">
               <lb xml:id="ftln-1648" n="3.2.3"/>No, sir, he stays for you to conduct him thither. </p>
           </sp>
-          <stage xml:id="stg-1648.1"
-                      n="SD 3.2.3.1"
-                      type="entrance"
-                      who="#Troilus_Tro">Enter Troilus. </stage>
+          <stage xml:id="stg-1648.1" n="SD 3.2.3.1" type="entrance" who="#Troilus_Tro">Enter Troilus. </stage>
           <sp xml:id="sp-1649" who="#Pandarus_Tro">
             <speaker xml:id="spk-1649">PANDARUS </speaker>
             <p xml:id="p-1649">
@@ -3991,10 +3817,7 @@
             <stage xml:id="stg-1650a" n="SD 3.2.5a" type="delivery">, to his Man </stage>
             <l xml:id="ftln-1650" n="3.2.5" ana="#short">Sirrah, walk off. </l>
           </sp>
-          <stage xml:id="stg-1650b"
-                      n="SD 3.2.5b"
-                      type="exit"
-                      who="#SERVANTS.TROILUS.1_Tro">Man exits. </stage>
+          <stage xml:id="stg-1650b" n="SD 3.2.5b" type="exit" who="#SERVANTS.TROILUS.1_Tro">Man exits. </stage>
           <sp xml:id="sp-1651" who="#Pandarus_Tro">
             <speaker xml:id="spk-1651">PANDARUS </speaker>
             <p xml:id="p-1651">
@@ -4016,10 +3839,7 @@
             <p xml:id="p-1660">
               <lb xml:id="ftln-1660" n="3.2.15"/>Walk here i’ th’ orchard. I’ll bring her <lb xml:id="ftln-1661" n="3.2.16"/>straight. </p>
           </sp>
-          <stage xml:id="stg-1661.1"
-                      n="SD 3.2.16.1"
-                      type="exit"
-                      who="#Pandarus_Tro">Pandarus exits. </stage>
+          <stage xml:id="stg-1661.1" n="SD 3.2.16.1" type="exit" who="#Pandarus_Tro">Pandarus exits. </stage>
           <sp xml:id="sp-1662" who="#Troilus_Tro">
             <speaker xml:id="spk-1662">TROILUS </speaker>
             <l xml:id="ftln-1662" n="3.2.17">I am giddy; expectation whirls me round. </l>
@@ -4035,19 +3855,13 @@
             <l xml:id="ftln-1672" n="3.2.27">As doth a battle when they charge on heaps </l>
             <l xml:id="ftln-1673" n="3.2.28" ana="#short">The enemy flying. </l>
           </sp>
-          <stage xml:id="stg-1673.1"
-                      n="SD 3.2.28.1"
-                      type="entrance"
-                      who="#Pandarus_Tro">Enter Pandarus. </stage>
+          <stage xml:id="stg-1673.1" n="SD 3.2.28.1" type="entrance" who="#Pandarus_Tro">Enter Pandarus. </stage>
           <sp xml:id="sp-1674" who="#Pandarus_Tro">
             <speaker xml:id="spk-1674">PANDARUS </speaker>
             <p xml:id="p-1674">
               <lb xml:id="ftln-1674" n="3.2.29"/>She’s making her ready; she’ll come straight. <lb xml:id="ftln-1675" n="3.2.30"/>You must be witty now. She does so blush and <lb xml:id="ftln-1676" n="3.2.31"/>fetches her wind so short as if she were frayed with <lb xml:id="ftln-1677" n="3.2.32"/>a spirit. I’ll fetch her. It is the prettiest villain. She <lb xml:id="ftln-1678" n="3.2.33"/>fetches her breath as short as a new-ta’en sparrow. </p>
           </sp>
-          <stage xml:id="stg-1678.1"
-                      n="SD 3.2.33.1"
-                      type="exit"
-                      who="#Pandarus_Tro">Pandarus exits. </stage>
+          <stage xml:id="stg-1678.1" n="SD 3.2.33.1" type="exit" who="#Pandarus_Tro">Pandarus exits. </stage>
           <sp xml:id="sp-1679" who="#Troilus_Tro">
             <speaker xml:id="spk-1679">TROILUS </speaker>
             <l xml:id="ftln-1679" n="3.2.34">Even such a passion doth embrace my bosom. </l>
@@ -4056,31 +3870,16 @@
             <l xml:id="ftln-1682" n="3.2.37">Like vassalage at unawares encount’ring </l>
             <l xml:id="ftln-1683" n="3.2.38" ana="#short">The eye of majesty. </l>
           </sp>
-          <stage xml:id="stg-1683.1"
-                      n="SD 3.2.38.1"
-                      type="entrance"
-                      who="#Pandarus_Tro #Cressida_Tro">Enter Pandarus, and Cressida veiled. </stage>
+          <stage xml:id="stg-1683.1" n="SD 3.2.38.1" type="entrance" who="#Pandarus_Tro #Cressida_Tro">Enter Pandarus, and Cressida veiled. </stage>
           <sp xml:id="sp-1684" who="#Pandarus_Tro">
             <speaker xml:id="spk-1684">PANDARUS </speaker>
             <stage xml:id="stg-1684" n="SD 3.2.39" type="delivery">, to Cressida </stage>
             <p xml:id="p-1684">
               <lb xml:id="ftln-1684" n="3.2.39"/>Come, come, what need you <lb xml:id="ftln-1685" n="3.2.40"/>blush? Shame’s a baby.— Here she is now. Swear <lb xml:id="ftln-1686" n="3.2.41"/>the oaths now to her that you have sworn to me. <lb xml:id="ftln-1687" n="3.2.42"/>
-              <stage xml:id="stg-1687"
-                            n="SD 3.2.42"
-                            type="business"
-                            rendition="inline"
-                            who="#Cressida_Tro">Cressida offers to leave. </stage> What, are you gone again? <lb xml:id="ftln-1688" n="3.2.43"/>You must be watched ere you be made tame, must <lb xml:id="ftln-1689" n="3.2.44"/>you? Come your ways; come your ways. An you <lb xml:id="ftln-1690" n="3.2.45"/>draw backward, we’ll put you i’ th’ thills.— Why <lb xml:id="ftln-1691" n="3.2.46"/>do you not speak to her?— Come, draw this curtain <lb xml:id="ftln-1692" n="3.2.47"/>and let’s see your picture. </p>
-            <stage xml:id="stg-1692"
-                         n="SD 3.2.47"
-                         type="business"
-                         rendition="inline"
-                         who="#Pandarus_Tro #Cressida_Tro"> He draws back her veil. </stage>
+              <stage xml:id="stg-1687" n="SD 3.2.42" type="business" rendition="inline" who="#Cressida_Tro">Cressida offers to leave. </stage> What, are you gone again? <lb xml:id="ftln-1688" n="3.2.43"/>You must be watched ere you be made tame, must <lb xml:id="ftln-1689" n="3.2.44"/>you? Come your ways; come your ways. An you <lb xml:id="ftln-1690" n="3.2.45"/>draw backward, we’ll put you i’ th’ thills.— Why <lb xml:id="ftln-1691" n="3.2.46"/>do you not speak to her?— Come, draw this curtain <lb xml:id="ftln-1692" n="3.2.47"/>and let’s see your picture. </p>
+            <stage xml:id="stg-1692" n="SD 3.2.47" type="business" rendition="inline" who="#Pandarus_Tro #Cressida_Tro"> He draws back her veil. </stage>
             <p xml:id="p-1693">
-              <lb xml:id="ftln-1693" n="3.2.48"/>Alas the day, how loath you are to offend daylight! <lb xml:id="ftln-1694" n="3.2.49"/>An ’twere dark, you’d close sooner.— So, so, rub on, <lb xml:id="ftln-1695" n="3.2.50"/>and kiss the mistress. <stage xml:id="stg-1695"
-                            n="SD 3.2.50"
-                            type="business"
-                            rendition="inline"
-                            who="#Troilus_Tro #Cressida_Tro">( They kiss.</stage>) How now? A <lb xml:id="ftln-1696" n="3.2.51"/>kiss in fee-farm? Build there, carpenter; the air is <lb xml:id="ftln-1697" n="3.2.52"/>sweet. Nay, you shall fight your hearts out ere I <lb xml:id="ftln-1698" n="3.2.53"/>part you. The falcon as the tercel, for all the ducks <lb xml:id="ftln-1699" n="3.2.54"/>i’ th’ river. Go to, go to. </p>
+              <lb xml:id="ftln-1693" n="3.2.48"/>Alas the day, how loath you are to offend daylight! <lb xml:id="ftln-1694" n="3.2.49"/>An ’twere dark, you’d close sooner.— So, so, rub on, <lb xml:id="ftln-1695" n="3.2.50"/>and kiss the mistress. <stage xml:id="stg-1695" n="SD 3.2.50" type="business" rendition="inline" who="#Troilus_Tro #Cressida_Tro">( They kiss.</stage>) How now? A <lb xml:id="ftln-1696" n="3.2.51"/>kiss in fee-farm? Build there, carpenter; the air is <lb xml:id="ftln-1697" n="3.2.52"/>sweet. Nay, you shall fight your hearts out ere I <lb xml:id="ftln-1698" n="3.2.53"/>part you. The falcon as the tercel, for all the ducks <lb xml:id="ftln-1699" n="3.2.54"/>i’ th’ river. Go to, go to. </p>
           </sp>
           <sp xml:id="sp-1700" who="#Troilus_Tro">
             <speaker xml:id="spk-1700">TROILUS </speaker>
@@ -4090,16 +3889,9 @@
           <sp xml:id="sp-1701" who="#Pandarus_Tro">
             <speaker xml:id="spk-1701">PANDARUS </speaker>
             <p xml:id="p-1701">
-              <lb xml:id="ftln-1701" n="3.2.56"/>Words pay no debts; give her deeds. But <lb xml:id="ftln-1702" n="3.2.57"/>she’ll bereave you o’ th’ deeds too, if she call your <lb xml:id="ftln-1703" n="3.2.58"/>activity in question. <stage xml:id="stg-1703"
-                            n="SD 3.2.58"
-                            type="business"
-                            rendition="inline"
-                            who="#Troilus_Tro #Cressida_Tro"> ( They kiss.</stage>) What, billing <lb xml:id="ftln-1704" n="3.2.59"/>again? Here’s “ In witness whereof the parties <lb xml:id="ftln-1705" n="3.2.60"/>interchangeably—.” Come in, come in. I’ll go get a fire. </p>
+              <lb xml:id="ftln-1701" n="3.2.56"/>Words pay no debts; give her deeds. But <lb xml:id="ftln-1702" n="3.2.57"/>she’ll bereave you o’ th’ deeds too, if she call your <lb xml:id="ftln-1703" n="3.2.58"/>activity in question. <stage xml:id="stg-1703" n="SD 3.2.58" type="business" rendition="inline" who="#Troilus_Tro #Cressida_Tro"> ( They kiss.</stage>) What, billing <lb xml:id="ftln-1704" n="3.2.59"/>again? Here’s “ In witness whereof the parties <lb xml:id="ftln-1705" n="3.2.60"/>interchangeably—.” Come in, come in. I’ll go get a fire. </p>
           </sp>
-          <stage xml:id="stg-1705.1"
-                      n="SD 3.2.60.1"
-                      type="exit"
-                      who="#Pandarus_Tro">Pandarus exits. </stage>
+          <stage xml:id="stg-1705.1" n="SD 3.2.60.1" type="exit" who="#Pandarus_Tro">Pandarus exits. </stage>
           <sp xml:id="sp-1706" who="#Cressida_Tro">
             <speaker xml:id="spk-1706">CRESSIDA </speaker>
             <p xml:id="p-1706">
@@ -4165,10 +3957,7 @@
             <p xml:id="p-1744">
               <lb xml:id="ftln-1744" n="3.2.99"/>Will you walk in, my lord? </p>
           </sp>
-          <stage xml:id="stg-1744.1"
-                      n="SD 3.2.99.1"
-                      type="entrance"
-                      who="#Pandarus_Tro">Enter Pandarus. </stage>
+          <stage xml:id="stg-1744.1" n="SD 3.2.99.1" type="entrance" who="#Pandarus_Tro">Enter Pandarus. </stage>
           <sp xml:id="sp-1745" who="#Pandarus_Tro">
             <speaker xml:id="spk-1745">PANDARUS </speaker>
             <p xml:id="p-1745">
@@ -4229,10 +4018,7 @@
             <speaker xml:id="spk-1779">TROILUS </speaker>
             <l xml:id="ftln-1779" n="3.2.134">And shall, albeit sweet music issues thence. </l>
           </sp>
-          <stage xml:id="stg-1779.1"
-                      n="SD 3.2.134.1"
-                      type="business"
-                      who="#Troilus_Tro #Cressida_Tro">They kiss. </stage>
+          <stage xml:id="stg-1779.1" n="SD 3.2.134.1" type="business" who="#Troilus_Tro #Cressida_Tro">They kiss. </stage>
           <sp xml:id="sp-1780" who="#Pandarus_Tro">
             <speaker xml:id="spk-1780">PANDARUS </speaker>
             <p xml:id="p-1780">
@@ -4368,24 +4154,15 @@
             <speaker xml:id="spk-1854">PANDARUS </speaker>
             <p xml:id="p-1854">
               <lb xml:id="ftln-1854" n="3.2.209"/>Amen. Whereupon I will show you a chamber <lb xml:id="ftln-1855" n="3.2.210"/>with a bed, which bed, because it shall not <lb xml:id="ftln-1856" n="3.2.211"/>speak of your pretty encounters, press it to death. <lb xml:id="ftln-1857" n="3.2.212"/>Away. </p>
-            <stage xml:id="stg-1857"
-                         n="SD 3.2.212"
-                         type="exit"
-                         who="#Troilus_Tro #Cressida_Tro">Troilus and Cressida exit. </stage>
+            <stage xml:id="stg-1857" n="SD 3.2.212" type="exit" who="#Troilus_Tro #Cressida_Tro">Troilus and Cressida exit. </stage>
             <l xml:id="ftln-1858" n="3.2.213">And Cupid grant all tongue-tied maidens here </l>
             <l xml:id="ftln-1859" n="3.2.214">Bed, chamber, pander to provide this gear. </l>
           </sp>
-          <stage xml:id="stg-1859.1"
-                      n="SD 3.2.214.1"
-                      type="exit"
-                      who="#Pandarus_Tro">He exits. </stage>
+          <stage xml:id="stg-1859.1" n="SD 3.2.214.1" type="exit" who="#Pandarus_Tro">He exits. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-1859.2b"
-                      n="SD 3.3.0"
-                      type="entrance"
-                      who="#Ulysses_Tro #Diomedes_Tro #Nestor_Tro #Agamemnon_Tro #Calchas_Tro #Menelaus_Tro #Ajax_Tro">
+          <stage xml:id="stg-1859.2b" n="SD 3.3.0" type="entrance" who="#Ulysses_Tro #Diomedes_Tro #Nestor_Tro #Agamemnon_Tro #Calchas_Tro #Menelaus_Tro #Ajax_Tro">
             <stage xml:id="snd-1859.2" n="SD 3.3.0" type="sound" ana="flourish">Flourish. </stage> Enter Ulysses, Diomedes, Nestor, Agamemnon, Calchas, Menelaus, and Ajax. </stage>
           <sp xml:id="sp-1860" who="#Calchas_Tro">
             <speaker xml:id="spk-1860">CALCHAS </speaker>
@@ -4440,14 +4217,8 @@
             <l xml:id="ftln-1896" n="3.3.37">This shall I undertake, and ’tis a burden </l>
             <l xml:id="ftln-1897" n="3.3.38" ana="#short">Which I am proud to bear. </l>
           </sp>
-          <stage xml:id="stg-1897"
-                      n="SD 3.3.38"
-                      type="exit"
-                      who="#Diomedes_Tro #Calchas_Tro">He exits with Calchas. </stage>
-          <stage xml:id="stg-1897.1"
-                      n="SD 3.3.38.1"
-                      type="entrance"
-                      who="#Achilles_Tro #Patroclus_Tro">Achilles and Patroclus stand in their tent. </stage>
+          <stage xml:id="stg-1897" n="SD 3.3.38" type="exit" who="#Diomedes_Tro #Calchas_Tro">He exits with Calchas. </stage>
+          <stage xml:id="stg-1897.1" n="SD 3.3.38.1" type="entrance" who="#Achilles_Tro #Patroclus_Tro">Achilles and Patroclus stand in their tent. </stage>
           <sp xml:id="sp-1898" who="#Ulysses_Tro">
             <speaker xml:id="spk-1898">ULYSSES </speaker>
             <l xml:id="ftln-1898" n="3.3.39">Achilles stands i’ th’ entrance of his tent. </l>
@@ -4471,11 +4242,7 @@
             <l xml:id="ftln-1914" n="3.3.55">Or else disdainfully, which shall shake him more </l>
             <l xml:id="ftln-1915" n="3.3.56">Than if not looked on. I will lead the way. </l>
           </sp>
-          <stage xml:id="stg-1915.1"
-                      n="SD 3.3.56.1"
-                      type="business"
-                      rendition="centered"
-                      who="#Agamemnon_Tro #Nestor_Tro #Menelaus_Tro #Ajax_Tro #Ulysses_Tro">They pass before Achilles and Patroclus. Ulysses remains in place, reading. </stage>
+          <stage xml:id="stg-1915.1" n="SD 3.3.56.1" type="business" rendition="centered" who="#Agamemnon_Tro #Nestor_Tro #Menelaus_Tro #Ajax_Tro #Ulysses_Tro">They pass before Achilles and Patroclus. Ulysses remains in place, reading. </stage>
           <sp xml:id="sp-1916" who="#Achilles_Tro">
             <speaker xml:id="spk-1916">ACHILLES </speaker>
             <l xml:id="ftln-1916" n="3.3.57">What, comes the General to speak with me? </l>
@@ -4506,10 +4273,7 @@
             <p xml:id="p-1922">
               <lb xml:id="ftln-1922" n="3.3.63"/>The better. </p>
           </sp>
-          <stage xml:id="stg-1922"
-                      n="SD 3.3.63"
-                      type="exit"
-                      who="#Agamemnon_Tro #Nestor_Tro">Agamemnon and Nestor exit. </stage>
+          <stage xml:id="stg-1922" n="SD 3.3.63" type="exit" who="#Agamemnon_Tro #Nestor_Tro">Agamemnon and Nestor exit. </stage>
           <sp xml:id="sp-1923" who="#Achilles_Tro">
             <speaker xml:id="spk-1923">ACHILLES </speaker>
             <stage xml:id="stg-1923" n="SD 3.3.64" type="delivery">, to Menelaus </stage>
@@ -4746,10 +4510,7 @@
             <l xml:id="ftln-2082" n="3.3.223">Farewell, my lord. I as your lover speak. </l>
             <l xml:id="ftln-2083" n="3.3.224">The fool slides o’er the ice that you should break. </l>
           </sp>
-          <stage xml:id="stg-2083.1"
-                      n="SD 3.3.224.1"
-                      type="exit"
-                      who="#Ulysses_Tro">He exits. </stage>
+          <stage xml:id="stg-2083.1" n="SD 3.3.224.1" type="exit" who="#Ulysses_Tro">He exits. </stage>
           <sp xml:id="sp-2084" who="#Patroclus_Tro">
             <speaker xml:id="spk-2084">PATROCLUS </speaker>
             <l xml:id="ftln-2084" n="3.3.225">To this effect, Achilles, have I moved you. </l>
@@ -4795,10 +4556,7 @@
             <l xml:id="ftln-2109" n="3.3.250">To see great Hector in his weeds of peace, </l>
             <l xml:id="ftln-2110" n="3.3.251">To talk with him, and to behold his visage, </l>
             <l xml:id="ftln-2111" n="3.3.252" part="I">Even to my full of view. </l>
-            <stage xml:id="stg-2111.1"
-                         n="SD 3.3.252.1"
-                         type="entrance"
-                         who="#Thersites_Tro">Enter Thersites. </stage>
+            <stage xml:id="stg-2111.1" n="SD 3.3.252.1" type="entrance" who="#Thersites_Tro">Enter Thersites. </stage>
             <l xml:id="ftln-2112" n="3.3.253" part="F">A labor saved. </l>
           </sp>
           <sp xml:id="sp-2113" who="#Thersites_Tro">
@@ -4853,10 +4611,7 @@
           </sp>
           <sp xml:id="sp-2152" who="#Patroclus_Tro">
             <speaker xml:id="spk-2152">PATROCLUS </speaker>
-            <stage xml:id="stg-2152" n="SD 3.3.293" type="mixed">, <stage xml:id="stg-2152a" n="SD 3.3.293" type="delivery">to Thersites</stage>, <stage xml:id="stg-2152b"
-                            n="SD 3.3.293"
-                            type="business"
-                            who="#Thersites_Tro">who is playing Ajax </stage>
+            <stage xml:id="stg-2152" n="SD 3.3.293" type="mixed">, <stage xml:id="stg-2152a" n="SD 3.3.293" type="delivery">to Thersites</stage>, <stage xml:id="stg-2152b" n="SD 3.3.293" type="business" who="#Thersites_Tro">who is playing Ajax </stage>
             </stage>
             <p xml:id="p-2152">
               <lb xml:id="ftln-2152" n="3.3.293"/>Jove <lb xml:id="ftln-2153" n="3.3.294"/>bless great Ajax. </p>
@@ -4936,10 +4691,7 @@
             <p xml:id="p-2172">
               <lb xml:id="ftln-2172" n="3.3.313"/>Fare you well with all my heart. </p>
           </sp>
-          <stage xml:id="stg-2172.1"
-                      n="SD 3.3.313.1"
-                      type="business"
-                      who="#Thersites_Tro">He pretends to exit. </stage>
+          <stage xml:id="stg-2172.1" n="SD 3.3.313.1" type="business" who="#Thersites_Tro">He pretends to exit. </stage>
           <sp xml:id="sp-2173" who="#Achilles_Tro">
             <speaker xml:id="spk-2173">ACHILLES </speaker>
             <p xml:id="p-2173">
@@ -4965,29 +4717,20 @@
             <l xml:id="ftln-2182" n="3.3.323">My mind is troubled, like a fountain stirred, </l>
             <l xml:id="ftln-2183" n="3.3.324">And I myself see not the bottom of it. </l>
           </sp>
-          <stage xml:id="stg-2183.1"
-                      n="SD 3.3.324.1"
-                      type="exit"
-                      who="#Achilles_Tro #Patroclus_Tro">Achilles and Patroclus exit. </stage>
+          <stage xml:id="stg-2183.1" n="SD 3.3.324.1" type="exit" who="#Achilles_Tro #Patroclus_Tro">Achilles and Patroclus exit. </stage>
           <sp xml:id="sp-2184" who="#Thersites_Tro">
             <speaker xml:id="spk-2184">THERSITES </speaker>
             <p xml:id="p-2184">
               <lb xml:id="ftln-2184" n="3.3.325"/>Would the fountain of your mind were clear <lb xml:id="ftln-2185" n="3.3.326"/>again, that I might water an ass at it. I had rather <lb xml:id="ftln-2186" n="3.3.327"/>be a tick in a sheep than such a valiant ignorance. </p>
           </sp>
-          <stage xml:id="stg-2186.1"
-                      n="SD 3.3.327.1"
-                      type="exit"
-                      who="#Thersites_Tro">He exits. </stage>
+          <stage xml:id="stg-2186.1" n="SD 3.3.327.1" type="exit" who="#Thersites_Tro">He exits. </stage>
         </div>
       </div>
       <div type="act" n="4">
         <head>ACT 4 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-2186.2"
-                      n="SD 4.1.0"
-                      type="entrance"
-                      who="#Aeneas_Tro #SERVANTS.AENEAS.1_Tro #Paris_Tro #Deiphobus_Tro #Antenor_Tro #Diomedes_Tro #ATTENDANTS.GREEK_Tro">Enter at one door Aeneas with a Torchbearer, at another Paris, Deiphobus, Antenor, Diomedes and Grecians with torches. </stage>
+          <stage xml:id="stg-2186.2" n="SD 4.1.0" type="entrance" who="#Aeneas_Tro #SERVANTS.AENEAS.1_Tro #Paris_Tro #Deiphobus_Tro #Antenor_Tro #Diomedes_Tro #ATTENDANTS.GREEK_Tro">Enter at one door Aeneas with a Torchbearer, at another Paris, Deiphobus, Antenor, Diomedes and Grecians with torches. </stage>
           <sp xml:id="sp-2187" who="#Paris_Tro">
             <speaker xml:id="spk-2187">PARIS </speaker>
             <l xml:id="ftln-2187" n="4.1.1" ana="#short">See, ho! Who is that there? </l>
@@ -5096,10 +4839,7 @@
             <speaker xml:id="spk-2241">AENEAS </speaker>
             <l xml:id="ftln-2241" n="4.1.55" ana="#short">Good morrow, all. </l>
           </sp>
-          <stage xml:id="stg-2241.1"
-                      n="SD 4.1.55.1"
-                      type="exit"
-                      who="#Aeneas_Tro #SERVANTS.AENEAS.1_Tro">Aeneas exits with the Torchbearer. </stage>
+          <stage xml:id="stg-2241.1" n="SD 4.1.55.1" type="exit" who="#Aeneas_Tro #SERVANTS.AENEAS.1_Tro">Aeneas exits with the Torchbearer. </stage>
           <sp xml:id="sp-2242" who="#Paris_Tro">
             <speaker xml:id="spk-2242">PARIS </speaker>
             <l xml:id="ftln-2242" n="4.1.56">And tell me, noble Diomed, faith, tell me true, </l>
@@ -5145,17 +4885,11 @@
             <l xml:id="ftln-2270" n="4.1.84">We’ll not commend that not intend to sell. </l>
             <l xml:id="ftln-2271" n="4.1.85" ana="#short">Here lies our way. </l>
           </sp>
-          <stage xml:id="stg-2271.1"
-                      n="SD 4.1.85.1"
-                      type="exit"
-                      who="#Paris_Tro #Deiphobus_Tro #Antenor_Tro #Diomedes_Tro #ATTENDANTS.GREEK_Tro">They exit. </stage>
+          <stage xml:id="stg-2271.1" n="SD 4.1.85.1" type="exit" who="#Paris_Tro #Deiphobus_Tro #Antenor_Tro #Diomedes_Tro #ATTENDANTS.GREEK_Tro">They exit. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-2271.2"
-                      n="SD 4.2.0"
-                      type="entrance"
-                      who="#Troilus_Tro #Cressida_Tro">Enter Troilus and Cressida. </stage>
+          <stage xml:id="stg-2271.2" n="SD 4.2.0" type="entrance" who="#Troilus_Tro #Cressida_Tro">Enter Troilus and Cressida. </stage>
           <sp xml:id="sp-2272" who="#Troilus_Tro">
             <speaker xml:id="spk-2272">TROILUS </speaker>
             <l xml:id="ftln-2272" n="4.2.1">Dear, trouble not yourself. The morn is cold. </l>
@@ -5224,10 +4958,7 @@
             <l xml:id="ftln-2296" n="4.2.25">A pestilence on him! Now will he be mocking. </l>
             <l xml:id="ftln-2297" n="4.2.26" ana="#short">I shall have such a life! </l>
           </sp>
-          <stage xml:id="stg-2297.1"
-                      n="SD 4.2.26.1"
-                      type="entrance"
-                      who="#Pandarus_Tro">Enter Pandarus. </stage>
+          <stage xml:id="stg-2297.1" n="SD 4.2.26.1" type="entrance" who="#Pandarus_Tro">Enter Pandarus. </stage>
           <sp xml:id="sp-2298" who="#Pandarus_Tro">
             <speaker xml:id="spk-2298">PANDARUS </speaker>
             <p xml:id="p-2298">
@@ -5274,18 +5005,12 @@
             <l xml:id="ftln-2315" n="4.2.44">How earnestly they knock! Pray you, come in. </l>
             <l xml:id="ftln-2316" n="4.2.45">I would not for half Troy have you seen here. </l>
           </sp>
-          <stage xml:id="stg-2316.1"
-                      n="SD 4.2.45.1"
-                      type="exit"
-                      who="#Troilus_Tro #Cressida_Tro">Troilus and Cressida exit. </stage>
+          <stage xml:id="stg-2316.1" n="SD 4.2.45.1" type="exit" who="#Troilus_Tro #Cressida_Tro">Troilus and Cressida exit. </stage>
           <sp xml:id="sp-2317" who="#Pandarus_Tro">
             <speaker xml:id="spk-2317">PANDARUS </speaker>
             <p xml:id="p-2317">
               <lb xml:id="ftln-2317" n="4.2.46"/>Who’s there? What’s the matter? Will you <lb xml:id="ftln-2318" n="4.2.47"/>beat down the door? </p>
-            <stage xml:id="stg-2318.1"
-                         n="SD 4.2.47.1"
-                         type="entrance"
-                         who="#Aeneas_Tro">Enter Aeneas. </stage>
+            <stage xml:id="stg-2318.1" n="SD 4.2.47.1" type="entrance" who="#Aeneas_Tro">Enter Aeneas. </stage>
             <p xml:id="p-2319">
               <lb xml:id="ftln-2319" n="4.2.48"/>How now? What’s the matter? </p>
           </sp>
@@ -5324,10 +5049,7 @@
             <p xml:id="p-2330">
               <lb xml:id="ftln-2330" n="4.2.59"/>Ho, nay, then! Come, come, you’ll do him <lb xml:id="ftln-2331" n="4.2.60"/>wrong ere you are ware. You’ll be so true to him to <lb xml:id="ftln-2332" n="4.2.61"/>be false to him. Do not you know of him, but yet go <lb xml:id="ftln-2333" n="4.2.62"/>fetch him hither. Go. </p>
           </sp>
-          <stage xml:id="stg-2333.1"
-                      n="SD 4.2.62.1"
-                      type="entrance"
-                      who="#Troilus_Tro">Enter Troilus. </stage>
+          <stage xml:id="stg-2333.1" n="SD 4.2.62.1" type="entrance" who="#Troilus_Tro">Enter Troilus. </stage>
           <sp xml:id="sp-2334" who="#Troilus_Tro">
             <speaker xml:id="spk-2334">TROILUS </speaker>
             <l xml:id="ftln-2334" n="4.2.63" ana="#short">How now? What’s the matter? </l>
@@ -5363,19 +5085,13 @@
             <l xml:id="ftln-2349" n="4.2.78">Good, good, my lord; the secrets of nature </l>
             <l xml:id="ftln-2350" n="4.2.79">Have not more gift in taciturnity. </l>
           </sp>
-          <stage xml:id="stg-2350.1"
-                      n="SD 4.2.79.1"
-                      type="exit"
-                      who="#Troilus_Tro #Aeneas_Tro">Troilus and Aeneas exit. </stage>
+          <stage xml:id="stg-2350.1" n="SD 4.2.79.1" type="exit" who="#Troilus_Tro #Aeneas_Tro">Troilus and Aeneas exit. </stage>
           <sp xml:id="sp-2351" who="#Pandarus_Tro">
             <speaker xml:id="spk-2351">PANDARUS </speaker>
             <p xml:id="p-2351">
               <lb xml:id="ftln-2351" n="4.2.80"/>Is ’t possible? No sooner got but lost? The <lb xml:id="ftln-2352" n="4.2.81"/>devil take Antenor! The young prince will go mad. <lb xml:id="ftln-2353" n="4.2.82"/>A plague upon Antenor! I would they had broke ’s <lb xml:id="ftln-2354" n="4.2.83"/>neck! </p>
           </sp>
-          <stage xml:id="stg-2354.1"
-                      n="SD 4.2.83.1"
-                      type="entrance"
-                      who="#Cressida_Tro">Enter Cressida. </stage>
+          <stage xml:id="stg-2354.1" n="SD 4.2.83.1" type="entrance" who="#Cressida_Tro">Enter Cressida. </stage>
           <sp xml:id="sp-2355" who="#Cressida_Tro">
             <speaker xml:id="spk-2355">CRESSIDA </speaker>
             <l xml:id="ftln-2355" n="4.2.84">How now? What’s the matter? Who was here? </l>
@@ -5448,17 +5164,11 @@
             <l xml:id="ftln-2385" n="4.2.114">Crack my clear voice with sobs, and break my heart </l>
             <l xml:id="ftln-2386" n="4.2.115">With sounding “ Troilus.” I will not go from Troy. </l>
           </sp>
-          <stage xml:id="stg-2386.1"
-                      n="SD 4.2.115.1"
-                      type="exit"
-                      who="#Cressida_Tro #Pandarus_Tro">They exit. </stage>
+          <stage xml:id="stg-2386.1" n="SD 4.2.115.1" type="exit" who="#Cressida_Tro #Pandarus_Tro">They exit. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-2386.2"
-                      n="SD 4.3.0"
-                      type="entrance"
-                      who="#Paris_Tro #Troilus_Tro #Aeneas_Tro #Deiphobus_Tro #Antenor_Tro #Diomedes_Tro">Enter Paris, Troilus, Aeneas, Deiphobus, Antenor, and Diomedes. </stage>
+          <stage xml:id="stg-2386.2" n="SD 4.3.0" type="entrance" who="#Paris_Tro #Troilus_Tro #Aeneas_Tro #Deiphobus_Tro #Antenor_Tro #Diomedes_Tro">Enter Paris, Troilus, Aeneas, Deiphobus, Antenor, and Diomedes. </stage>
           <sp xml:id="sp-2387" who="#Paris_Tro">
             <speaker xml:id="spk-2387">PARIS </speaker>
             <l xml:id="ftln-2387" n="4.3.1">It is great morning, and the hour prefixed </l>
@@ -5482,17 +5192,11 @@
             <l xml:id="ftln-2398" n="4.3.12">And would, as I shall pity, I could help.— </l>
             <l xml:id="ftln-2399" n="4.3.13" ana="#short">Please you walk in, my lords? </l>
           </sp>
-          <stage xml:id="stg-2399.1"
-                      n="SD 4.3.13.1"
-                      type="exit"
-                      who="#Paris_Tro #Aeneas_Tro #Deiphobus_Tro #Antenor_Tro #Diomedes_Tro">They exit. </stage>
+          <stage xml:id="stg-2399.1" n="SD 4.3.13.1" type="exit" who="#Paris_Tro #Aeneas_Tro #Deiphobus_Tro #Antenor_Tro #Diomedes_Tro">They exit. </stage>
         </div>
         <div type="scene" n="4">
           <head>Scene 4 </head>
-          <stage xml:id="stg-2399.2"
-                      n="SD 4.4.0"
-                      type="entrance"
-                      who="#Pandarus_Tro #Cressida_Tro">Enter Pandarus and Cressida, weeping. </stage>
+          <stage xml:id="stg-2399.2" n="SD 4.4.0" type="entrance" who="#Pandarus_Tro #Cressida_Tro">Enter Pandarus and Cressida, weeping. </stage>
           <sp xml:id="sp-2400" who="#Pandarus_Tro">
             <speaker xml:id="spk-2400">PANDARUS </speaker>
             <p xml:id="p-2400">
@@ -5510,10 +5214,7 @@
             <l xml:id="ftln-2408" n="4.4.9">My love admits no qualifying dross; </l>
             <l xml:id="ftln-2409" n="4.4.10">No more my grief in such a precious loss. </l>
           </sp>
-          <stage xml:id="stg-2409.1"
-                      n="SD 4.4.10.1"
-                      type="entrance"
-                      who="#Troilus_Tro">Enter Troilus. </stage>
+          <stage xml:id="stg-2409.1" n="SD 4.4.10.1" type="entrance" who="#Troilus_Tro">Enter Troilus. </stage>
           <sp xml:id="sp-2410" who="#Pandarus_Tro">
             <speaker xml:id="spk-2410">PANDARUS </speaker>
             <p xml:id="p-2410">
@@ -5521,10 +5222,7 @@
           </sp>
           <sp xml:id="sp-2412" who="#Cressida_Tro">
             <speaker xml:id="spk-2412">CRESSIDA </speaker>
-            <stage xml:id="stg-2412"
-                         n="SD 4.4.13"
-                         type="business"
-                         who="#Cressida_Tro #Troilus_Tro">, embracing Troilus </stage>
+            <stage xml:id="stg-2412" n="SD 4.4.13" type="business" who="#Cressida_Tro #Troilus_Tro">, embracing Troilus </stage>
             <p xml:id="p-2412">
               <lb xml:id="ftln-2412" n="4.4.13"/>O Troilus, Troilus! </p>
           </sp>
@@ -5613,10 +5311,7 @@
             <p xml:id="p-2454">
               <lb xml:id="ftln-2454" n="4.4.55"/>Where are my tears? Rain, to lay this wind, <lb xml:id="ftln-2455" n="4.4.56"/>or my heart will be blown up by the root. </p>
           </sp>
-          <stage xml:id="stg-2455.1"
-                      n="SD 4.4.56.1"
-                      type="exit"
-                      who="#Pandarus_Tro">He exits. </stage>
+          <stage xml:id="stg-2455.1" n="SD 4.4.56.1" type="exit" who="#Pandarus_Tro">He exits. </stage>
           <sp xml:id="sp-2456" who="#Cressida_Tro">
             <speaker xml:id="spk-2456">CRESSIDA </speaker>
             <l xml:id="ftln-2456" n="4.4.57" part="I">I must, then, to the Grecians? </l>
@@ -5662,10 +5357,7 @@
             <speaker xml:id="spk-2473">CRESSIDA </speaker>
             <l xml:id="ftln-2473" n="4.4.74" ana="#short">And you this glove. When shall I see you? </l>
           </sp>
-          <stage xml:id="stg-2473.1"
-                      n="SD 4.4.74.1"
-                      type="business"
-                      who="#Cressida_Tro #Troilus_Tro">They exchange love-tokens. </stage>
+          <stage xml:id="stg-2473.1" n="SD 4.4.74.1" type="business" who="#Cressida_Tro #Troilus_Tro">They exchange love-tokens. </stage>
           <sp xml:id="sp-2474" who="#Troilus_Tro">
             <speaker xml:id="spk-2474">TROILUS </speaker>
             <l xml:id="ftln-2474" n="4.4.75">I will corrupt the Grecian sentinels, </l>
@@ -5724,10 +5416,7 @@
             <speaker xml:id="spk-2504">TROILUS </speaker>
             <l xml:id="ftln-2504" n="4.4.105" part="F">Come, kiss, and let us part. </l>
           </sp>
-          <stage xml:id="stg-2504.1"
-                      n="SD 4.4.105.1"
-                      type="business"
-                      who="#Cressida_Tro #Troilus_Tro">They kiss. </stage>
+          <stage xml:id="stg-2504.1" n="SD 4.4.105.1" type="business" who="#Cressida_Tro #Troilus_Tro">They kiss. </stage>
           <sp xml:id="sp-2505" who="#Paris_Tro">
             <speaker xml:id="spk-2505">PARIS </speaker>
             <stage xml:id="stg-2505.0" n="SD 4.4.106.0" type="location">, within </stage>
@@ -5752,10 +5441,7 @@
             <l xml:id="ftln-2513" n="4.4.114">With truth and plainness I do wear mine bare. </l>
             <l xml:id="ftln-2514" n="4.4.115">Fear not my truth. The moral of my wit </l>
             <l xml:id="ftln-2515" n="4.4.116">Is “ plain and true”; there’s all the reach of it. </l>
-            <stage xml:id="stg-2515.1"
-                         n="SD 4.4.116.1"
-                         type="entrance"
-                         who="#Aeneas_Tro #Paris_Tro #Antenor_Tro #Deiphobus_Tro #Diomedes_Tro">Enter Aeneas, Paris, Antenor, Deiphobus, and Diomedes. </stage>
+            <stage xml:id="stg-2515.1" n="SD 4.4.116.1" type="entrance" who="#Aeneas_Tro #Paris_Tro #Antenor_Tro #Deiphobus_Tro #Diomedes_Tro">Enter Aeneas, Paris, Antenor, Deiphobus, and Diomedes. </stage>
             <l xml:id="ftln-2516" n="4.4.117">Welcome, Sir Diomed. Here is the lady </l>
             <l xml:id="ftln-2517" n="4.4.118">Which for Antenor we deliver you. </l>
             <l xml:id="ftln-2518" n="4.4.119">At the port, lord, I’ll give her to thy hand </l>
@@ -5802,10 +5488,7 @@
             <l xml:id="ftln-2547" n="4.4.148">Lady, give me your hand, and, as we walk, </l>
             <l xml:id="ftln-2548" n="4.4.149">To our own selves bend we our needful talk. </l>
           </sp>
-          <stage xml:id="stg-2548.1"
-                      n="SD 4.4.149.1"
-                      type="exit"
-                      who="#Cressida_Tro #Diomedes_Tro #Troilus_Tro">Cressida, Diomedes, and Troilus exit. </stage>
+          <stage xml:id="stg-2548.1" n="SD 4.4.149.1" type="exit" who="#Cressida_Tro #Diomedes_Tro #Troilus_Tro">Cressida, Diomedes, and Troilus exit. </stage>
           <stage xml:id="stg-2548.2" n="SD 4.4.149.2" type="business">
             <stage xml:id="snd-2548.2" n="SD 4.4.149.2" type="sound" ana="trumpet">Sound trumpet within. </stage>
           </stage>
@@ -5834,17 +5517,11 @@
             <l xml:id="ftln-2558" n="4.4.159">The glory of our Troy doth this day lie </l>
             <l xml:id="ftln-2559" n="4.4.160">On his fair worth and single chivalry. </l>
           </sp>
-          <stage xml:id="stg-2559.1"
-                      n="SD 4.4.160.1"
-                      type="exit"
-                      who="#Aeneas_Tro #Paris_Tro #Antenor_Tro #Deiphobus_Tro">They exit. </stage>
+          <stage xml:id="stg-2559.1" n="SD 4.4.160.1" type="exit" who="#Aeneas_Tro #Paris_Tro #Antenor_Tro #Deiphobus_Tro">They exit. </stage>
         </div>
         <div type="scene" n="5">
           <head>Scene 5 </head>
-          <stage xml:id="stg-2559.2"
-                      n="SD 4.5.0"
-                      type="entrance"
-                      who="#Ajax_Tro #Achilles_Tro #Patroclus_Tro #Agamemnon_Tro #Menelaus_Tro #Ulysses_Tro #Nestor_Tro #ATTENDANTS.GREEK_Tro #Trumpeter_Tro">Enter Ajax, armed, Achilles, Patroclus, Agamemnon, Menelaus, Ulysses, Nestor, etc. and Trumpeter. </stage>
+          <stage xml:id="stg-2559.2" n="SD 4.5.0" type="entrance" who="#Ajax_Tro #Achilles_Tro #Patroclus_Tro #Agamemnon_Tro #Menelaus_Tro #Ulysses_Tro #Nestor_Tro #ATTENDANTS.GREEK_Tro #Trumpeter_Tro">Enter Ajax, armed, Achilles, Patroclus, Agamemnon, Menelaus, Ulysses, Nestor, etc. and Trumpeter. </stage>
           <sp xml:id="sp-2560" who="#Agamemnon_Tro">
             <speaker xml:id="spk-2560">AGAMEMNON </speaker>
             <stage xml:id="stg-2560.0" n="SD 4.5.1.0" type="delivery">, to Ajax </stage>
@@ -5858,20 +5535,14 @@
           <sp xml:id="sp-2566" who="#Ajax_Tro">
             <speaker xml:id="spk-2566">AJAX </speaker>
             <l xml:id="ftln-2566" n="4.5.7" part="F">Thou, trumpet, there’s my purse. </l>
-            <stage xml:id="stg-2566.1"
-                         n="SD 4.5.7.1"
-                         type="business"
-                         who="#Ajax_Tro #Trumpeter_Tro">He gives money to Trumpeter. </stage>
+            <stage xml:id="stg-2566.1" n="SD 4.5.7.1" type="business" who="#Ajax_Tro #Trumpeter_Tro">He gives money to Trumpeter. </stage>
             <l xml:id="ftln-2567" n="4.5.8">Now crack thy lungs and split thy brazen pipe. </l>
             <l xml:id="ftln-2568" n="4.5.9">Blow, villain, till thy spherèd bias cheek </l>
             <l xml:id="ftln-2569" n="4.5.10">Outswell the colic of puffed Aquilon. </l>
             <l xml:id="ftln-2570" n="4.5.11">Come, stretch thy chest, and let thy eyes spout blood. </l>
             <l xml:id="ftln-2571" n="4.5.12" ana="#short">Thou blowest for Hector. </l>
           </sp>
-          <stage xml:id="stg-2571"
-                      n="SD 4.5.12"
-                      type="business"
-                      who="#Trumpeter_Tro">
+          <stage xml:id="stg-2571" n="SD 4.5.12" type="business" who="#Trumpeter_Tro">
             <stage xml:id="snd-2571" n="SD 4.5.12" type="sound" ana="trumpet">Sound trumpet. </stage>
           </stage>
           <sp xml:id="sp-2572" who="#Ulysses_Tro">
@@ -5882,10 +5553,7 @@
             <speaker xml:id="spk-2573">ACHILLES </speaker>
             <l xml:id="ftln-2573" n="4.5.14" part="F">’Tis but early days. </l>
           </sp>
-          <stage xml:id="stg-2573.1"
-                      n="SD 4.5.14.1"
-                      type="entrance"
-                      who="#Cressida_Tro #Diomedes_Tro">Enter Cressida and Diomedes. </stage>
+          <stage xml:id="stg-2573.1" n="SD 4.5.14.1" type="entrance" who="#Cressida_Tro #Diomedes_Tro">Enter Cressida and Diomedes. </stage>
           <sp xml:id="sp-2574" who="#Agamemnon_Tro">
             <speaker xml:id="spk-2574">AGAMEMNON </speaker>
             <l xml:id="ftln-2574" n="4.5.15">Is not yond Diomed with Calchas’ daughter? </l>
@@ -5908,10 +5576,7 @@
             <speaker xml:id="spk-2580">AGAMEMNON </speaker>
             <l xml:id="ftln-2580" n="4.5.21">Most dearly welcome to the Greeks, sweet lady. </l>
           </sp>
-          <stage xml:id="stg-2580.1"
-                      n="SD 4.5.21.1"
-                      type="business"
-                      who="#Agamemnon_Tro #Cressida_Tro">He kisses her. </stage>
+          <stage xml:id="stg-2580.1" n="SD 4.5.21.1" type="business" who="#Agamemnon_Tro #Cressida_Tro">He kisses her. </stage>
           <sp xml:id="sp-2581" who="#Nestor_Tro">
             <speaker xml:id="spk-2581">NESTOR </speaker>
             <l xml:id="ftln-2581" n="4.5.22">Our general doth salute you with a kiss. </l>
@@ -5924,10 +5589,7 @@
           <sp xml:id="sp-2584" who="#Nestor_Tro">
             <speaker xml:id="spk-2584">NESTOR </speaker>
             <l xml:id="ftln-2584" n="4.5.25">And very courtly counsel. I’ll begin. </l>
-            <stage xml:id="stg-2584"
-                         n="SD 4.5.25"
-                         type="business"
-                         who="#Nestor_Tro #Cressida_Tro">He kisses her. </stage>
+            <stage xml:id="stg-2584" n="SD 4.5.25" type="business" who="#Nestor_Tro #Cressida_Tro">He kisses her. </stage>
             <l xml:id="ftln-2585" n="4.5.26" ana="#short">So much for Nestor. </l>
           </sp>
           <sp xml:id="sp-2586" who="#Achilles_Tro">
@@ -5935,28 +5597,19 @@
             <l xml:id="ftln-2586" n="4.5.27">I’ll take that winter from your lips, fair lady. </l>
             <l xml:id="ftln-2587" n="4.5.28" ana="#short">Achilles bids you welcome. </l>
           </sp>
-          <stage xml:id="stg-2587"
-                      n="SD 4.5.28"
-                      type="business"
-                      who="#Achilles_Tro #Cressida_Tro">He kisses her. </stage>
+          <stage xml:id="stg-2587" n="SD 4.5.28" type="business" who="#Achilles_Tro #Cressida_Tro">He kisses her. </stage>
           <sp xml:id="sp-2588" who="#Menelaus_Tro">
             <speaker xml:id="spk-2588">MENELAUS </speaker>
             <l xml:id="ftln-2588" n="4.5.29">I had good argument for kissing once. </l>
           </sp>
           <sp xml:id="sp-2589" who="#Patroclus_Tro">
             <speaker xml:id="spk-2589">PATROCLUS </speaker>
-            <stage xml:id="stg-2589.0"
-                         n="SD 4.5.30.0"
-                         type="business"
-                         who="#Patroclus_Tro">, stepping between Menelaus and Cressida </stage>
+            <stage xml:id="stg-2589.0" n="SD 4.5.30.0" type="business" who="#Patroclus_Tro">, stepping between Menelaus and Cressida </stage>
             <l xml:id="ftln-2589" n="4.5.30">But that’s no argument for kissing now, </l>
             <l xml:id="ftln-2590" n="4.5.31">For thus popped Paris in his hardiment </l>
             <l xml:id="ftln-2591" n="4.5.32">And parted thus you and your argument. </l>
           </sp>
-          <stage xml:id="stg-2591.1"
-                      n="SD 4.5.32.1"
-                      type="business"
-                      who="#Patroclus_Tro #Cressida_Tro">He kisses her. </stage>
+          <stage xml:id="stg-2591.1" n="SD 4.5.32.1" type="business" who="#Patroclus_Tro #Cressida_Tro">He kisses her. </stage>
           <sp xml:id="sp-2592" who="#Ulysses_Tro">
             <speaker xml:id="spk-2592">ULYSSES </speaker>
             <l xml:id="ftln-2592" n="4.5.33">O deadly gall and theme of all our scorns, </l>
@@ -5967,10 +5620,7 @@
             <l xml:id="ftln-2594" n="4.5.35">The first was Menelaus’ kiss; this mine. </l>
             <l xml:id="ftln-2595" n="4.5.36" part="I">Patroclus kisses you. </l>
           </sp>
-          <stage xml:id="stg-2595"
-                      n="SD 4.5.36"
-                      type="business"
-                      who="#Patroclus_Tro #Cressida_Tro">He kisses her again. </stage>
+          <stage xml:id="stg-2595" n="SD 4.5.36" type="business" who="#Patroclus_Tro #Cressida_Tro">He kisses her again. </stage>
           <sp xml:id="sp-2596" who="#Menelaus_Tro">
             <speaker xml:id="spk-2596">MENELAUS </speaker>
             <l xml:id="ftln-2596" n="4.5.37" part="F">O, this is trim! </l>
@@ -6056,10 +5706,7 @@
             <speaker xml:id="spk-2620">DIOMEDES </speaker>
             <l xml:id="ftln-2620" n="4.5.61">Lady, a word. I’ll bring you to your father. </l>
           </sp>
-          <stage xml:id="stg-2620.1"
-                      n="SD 4.5.61.1"
-                      type="business"
-                      who="#Diomedes_Tro #Cressida_Tro">Diomedes and Cressida talk aside. </stage>
+          <stage xml:id="stg-2620.1" n="SD 4.5.61.1" type="business" who="#Diomedes_Tro #Cressida_Tro">Diomedes and Cressida talk aside. </stage>
           <sp xml:id="sp-2621" who="#Nestor_Tro">
             <speaker xml:id="spk-2621">NESTOR </speaker>
             <l xml:id="ftln-2621" n="4.5.62" part="I">A woman of quick sense. </l>
@@ -6077,22 +5724,15 @@
             <l xml:id="ftln-2630" n="4.5.71">For sluttish spoils of opportunity </l>
             <l xml:id="ftln-2631" n="4.5.72" ana="#short">And daughters of the game. </l>
           </sp>
-          <stage xml:id="stg-2631.1"
-                      n="SD 4.5.72.1"
-                      type="exit"
-                      who="#Diomedes_Tro #Cressida_Tro">Diomedes and Cressida exit. </stage>
+          <stage xml:id="stg-2631.1" n="SD 4.5.72.1" type="exit" who="#Diomedes_Tro #Cressida_Tro">Diomedes and Cressida exit. </stage>
           <stage xml:id="stg-2631.2" n="SD 4.5.72.2" type="business">
             <stage xml:id="snd-2631.2" n="SD 4.5.72.2" type="sound" ana="flourish">Flourish. </stage>
           </stage>
-          <sp xml:id="sp-2632"
-                   who="#Ajax_Tro #Achilles_Tro #Patroclus_Tro #Agamemnon_Tro #Menelaus_Tro #Ulysses_Tro #Nestor_Tro #ATTENDANTS.GREEK_Tro">
+          <sp xml:id="sp-2632" who="#Ajax_Tro #Achilles_Tro #Patroclus_Tro #Agamemnon_Tro #Menelaus_Tro #Ulysses_Tro #Nestor_Tro #ATTENDANTS.GREEK_Tro">
             <speaker xml:id="spk-2632">ALL </speaker>
             <l xml:id="ftln-2632" n="4.5.73" part="I">The Trojan’s trumpet. </l>
           </sp>
-          <stage xml:id="stg-2632.1"
-                      n="SD 4.5.73.1"
-                      type="entrance"
-                      who="#Hector_Tro #Paris_Tro #Aeneas_Tro #Helenus_Tro #Troilus_Tro #ATTENDANTS.TROJAN_Tro">Enter all of Troy: Hector, armed, Paris, Aeneas, Helenus, Troilus, and Attendants. </stage>
+          <stage xml:id="stg-2632.1" n="SD 4.5.73.1" type="entrance" who="#Hector_Tro #Paris_Tro #Aeneas_Tro #Helenus_Tro #Troilus_Tro #ATTENDANTS.TROJAN_Tro">Enter all of Troy: Hector, armed, Paris, Aeneas, Helenus, Troilus, and Attendants. </stage>
           <sp xml:id="sp-2633" who="#Agamemnon_Tro">
             <speaker xml:id="spk-2633">AGAMEMNON </speaker>
             <l xml:id="ftln-2633" n="4.5.74" part="F">Yonder comes the troop. </l>
@@ -6151,10 +5791,7 @@
             <speaker xml:id="spk-2660">ACHILLES </speaker>
             <l xml:id="ftln-2660" n="4.5.101">A maiden battle, then? O, I perceive you. </l>
           </sp>
-          <stage xml:id="stg-2660.1"
-                      n="SD 4.5.101.1"
-                      type="entrance"
-                      who="#Diomedes_Tro">Enter Diomedes. </stage>
+          <stage xml:id="stg-2660.1" n="SD 4.5.101.1" type="entrance" who="#Diomedes_Tro">Enter Diomedes. </stage>
           <sp xml:id="sp-2661" who="#Agamemnon_Tro">
             <speaker xml:id="spk-2661">AGAMEMNON </speaker>
             <l xml:id="ftln-2661" n="4.5.102">Here is Sir Diomed.— Go, gentle knight; </l>
@@ -6164,10 +5801,7 @@
             <l xml:id="ftln-2665" n="4.5.106">Or else a breath. The combatants being kin </l>
             <l xml:id="ftln-2666" n="4.5.107">Half stints their strife before their strokes begin. </l>
           </sp>
-          <stage xml:id="stg-2666.1"
-                      n="SD 4.5.107.1"
-                      type="business"
-                      who="#Hector_Tro #Ajax_Tro">Hector and Ajax enter the lists. </stage>
+          <stage xml:id="stg-2666.1" n="SD 4.5.107.1" type="business" who="#Hector_Tro #Ajax_Tro">Hector and Ajax enter the lists. </stage>
           <sp xml:id="sp-2667" who="#Ulysses_Tro">
             <speaker xml:id="spk-2667">ULYSSES </speaker>
             <l xml:id="ftln-2667" n="4.5.108" ana="#short">They are opposed already. </l>
@@ -6196,10 +5830,7 @@
             <l xml:id="ftln-2684" n="4.5.125">Even to his inches, and with private soul </l>
             <l xml:id="ftln-2685" n="4.5.126">Did in great Ilium thus translate him to me. </l>
           </sp>
-          <stage xml:id="stg-2685.1"
-                      n="SD 4.5.126.1"
-                      type="business"
-                      who="#Hector_Tro #Ajax_Tro">
+          <stage xml:id="stg-2685.1" n="SD 4.5.126.1" type="business" who="#Hector_Tro #Ajax_Tro">
             <stage xml:id="snd-2685.1" n="SD 4.5.126.1" type="sound" ana="alarum">Alarum. </stage> The fight begins. </stage>
           <sp xml:id="sp-2686" who="#Agamemnon_Tro">
             <speaker xml:id="spk-2686">AGAMEMNON </speaker>
@@ -6259,10 +5890,7 @@
             <l xml:id="ftln-2712" n="4.5.153">Hector would have them fall upon him thus. </l>
             <l xml:id="ftln-2713" n="4.5.154" part="I">Cousin, all honor to thee! </l>
           </sp>
-          <stage xml:id="stg-2713"
-                      n="SD 4.5.154"
-                      type="business"
-                      who="#Hector_Tro #Ajax_Tro">They embrace. </stage>
+          <stage xml:id="stg-2713" n="SD 4.5.154" type="business" who="#Hector_Tro #Ajax_Tro">They embrace. </stage>
           <sp xml:id="sp-2714" who="#Ajax_Tro">
             <speaker xml:id="spk-2714">AJAX </speaker>
             <l xml:id="ftln-2714" n="4.5.155" part="F">I thank thee, Hector. </l>
@@ -6287,10 +5915,7 @@
             <l xml:id="ftln-2724" n="4.5.165" part="F">We’ll answer it; </l>
             <l xml:id="ftln-2725" n="4.5.166">The issue is embracement.— Ajax, farewell. </l>
           </sp>
-          <stage xml:id="stg-2725.1"
-                      n="SD 4.5.166.1"
-                      type="business"
-                      who="#Hector_Tro #Ajax_Tro">They embrace again. </stage>
+          <stage xml:id="stg-2725.1" n="SD 4.5.166.1" type="business" who="#Hector_Tro #Ajax_Tro">They embrace again. </stage>
           <sp xml:id="sp-2726" who="#Ajax_Tro">
             <speaker xml:id="spk-2726">AJAX </speaker>
             <l xml:id="ftln-2726" n="4.5.167">If I might in entreaties find success, </l>
@@ -6309,27 +5934,15 @@
             <l xml:id="ftln-2733" n="4.5.174">To the expecters of our Trojan part; </l>
             <l xml:id="ftln-2734" n="4.5.175" part="I">Desire them home. </l>
             <stage xml:id="stg-2734.1" n="SD 4.5.175.1" type="mixed">
-              <stage xml:id="stg-2734.1a"
-                            n="SD 4.5.175.1"
-                            type="business"
-                            who="#Aeneas_Tro">Aeneas speaks to Trojans, </stage>
-              <stage xml:id="stg-2734.1b"
-                            n="SD 4.5.175.1"
-                            type="exit"
-                            who="#Paris_Tro #Helenus_Tro #ATTENDANTS.TROJAN_Tro">who exit; </stage>
-              <stage xml:id="stg-2734.1c"
-                            n="SD 4.5.175.1"
-                            type="business"
-                            who="#Aeneas_Tro #Troilus_Tro">he then returns with Troilus. </stage>
+              <stage xml:id="stg-2734.1a" n="SD 4.5.175.1" type="business" who="#Aeneas_Tro">Aeneas speaks to Trojans, </stage>
+              <stage xml:id="stg-2734.1b" n="SD 4.5.175.1" type="exit" who="#Paris_Tro #Helenus_Tro #ATTENDANTS.TROJAN_Tro">who exit; </stage>
+              <stage xml:id="stg-2734.1c" n="SD 4.5.175.1" type="business" who="#Aeneas_Tro #Troilus_Tro">he then returns with Troilus. </stage>
             </stage>
             <l xml:id="ftln-2735" n="4.5.176" part="F">
               <stage xml:id="stg-2735" n="SD 4.5.176" type="delivery">To Ajax. </stage>Give me thy hand, my cousin. </l>
             <l xml:id="ftln-2736" n="4.5.177">I will go eat with thee and see your knights. </l>
           </sp>
-          <stage xml:id="stg-2736.1"
-                      n="SD 4.5.177.1"
-                      type="business"
-                      who="#Agamemnon_Tro #Menelaus_Tro #Nestor_Tro #Ulysses_Tro #Ajax_Tro #Achilles_Tro #Patroclus_Tro #Diomedes_Tro #ATTENDANTS.GREEK_Tro">Agamemnon and the rest come forward. </stage>
+          <stage xml:id="stg-2736.1" n="SD 4.5.177.1" type="business" who="#Agamemnon_Tro #Menelaus_Tro #Nestor_Tro #Ulysses_Tro #Ajax_Tro #Achilles_Tro #Patroclus_Tro #Diomedes_Tro #ATTENDANTS.GREEK_Tro">Agamemnon and the rest come forward. </stage>
           <sp xml:id="sp-2737" who="#Ajax_Tro">
             <speaker xml:id="spk-2737">AJAX </speaker>
             <l xml:id="ftln-2737" n="4.5.178">Great Agamemnon comes to meet us here. </l>
@@ -6423,10 +6036,7 @@
             <l xml:id="ftln-2783" n="4.5.224">That hast so long walked hand in hand with time. </l>
             <l xml:id="ftln-2784" n="4.5.225">Most reverend Nestor, I am glad to clasp thee. </l>
           </sp>
-          <stage xml:id="stg-2784.1"
-                      n="SD 4.5.225.1"
-                      type="business"
-                      who="#Hector_Tro #Nestor_Tro">They embrace. </stage>
+          <stage xml:id="stg-2784.1" n="SD 4.5.225.1" type="business" who="#Hector_Tro #Nestor_Tro">They embrace. </stage>
           <sp xml:id="sp-2785" who="#Nestor_Tro">
             <speaker xml:id="spk-2785">NESTOR </speaker>
             <l xml:id="ftln-2785" n="4.5.226">I would my arms could match thee in contention </l>
@@ -6583,15 +6193,9 @@
             <l xml:id="ftln-2864" n="4.5.305">That this great soldier may his welcome know. </l>
           </sp>
           <stage xml:id="stg-2864.1" n="SD 4.5.305.1" type="business">
-            <stage xml:id="snd-2864.1"
-                         n="SD 4.5.305.1"
-                         type="sound"
-                         ana="flourish">Flourish. </stage>
+            <stage xml:id="snd-2864.1" n="SD 4.5.305.1" type="sound" ana="flourish">Flourish. </stage>
           </stage>
-          <stage xml:id="stg-2864.2"
-                      n="SD 4.5.305.2"
-                      type="exit"
-                      who="#Ajax_Tro #Achilles_Tro #Patroclus_Tro #Agamemnon_Tro #Menelaus_Tro #Nestor_Tro #Diomedes_Tro #ATTENDANTS.GREEK_Tro #Trumpeter_Tro #Hector_Tro #Aeneas_Tro">All but Troilus and Ulysses exit. </stage>
+          <stage xml:id="stg-2864.2" n="SD 4.5.305.2" type="exit" who="#Ajax_Tro #Achilles_Tro #Patroclus_Tro #Agamemnon_Tro #Menelaus_Tro #Nestor_Tro #Diomedes_Tro #ATTENDANTS.GREEK_Tro #Trumpeter_Tro #Hector_Tro #Aeneas_Tro">All but Troilus and Ulysses exit. </stage>
           <sp xml:id="sp-2865" who="#Troilus_Tro">
             <speaker xml:id="spk-2865">TROILUS </speaker>
             <l xml:id="ftln-2865" n="4.5.306">My Lord Ulysses, tell me, I beseech you, </l>
@@ -6625,20 +6229,14 @@
             <l xml:id="ftln-2881" n="4.5.322">She was beloved, she loved; she is, and doth; </l>
             <l xml:id="ftln-2882" n="4.5.323">But still sweet love is food for Fortune’s tooth. </l>
           </sp>
-          <stage xml:id="stg-2882.1"
-                      n="SD 4.5.323.1"
-                      type="exit"
-                      who="#Troilus_Tro #Ulysses_Tro">They exit. </stage>
+          <stage xml:id="stg-2882.1" n="SD 4.5.323.1" type="exit" who="#Troilus_Tro #Ulysses_Tro">They exit. </stage>
         </div>
       </div>
       <div type="act" n="5">
         <head>ACT 5 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-2882.2"
-                      n="SD 5.1.0"
-                      type="entrance"
-                      who="#Achilles_Tro #Patroclus_Tro">Enter Achilles and Patroclus. </stage>
+          <stage xml:id="stg-2882.2" n="SD 5.1.0" type="entrance" who="#Achilles_Tro #Patroclus_Tro">Enter Achilles and Patroclus. </stage>
           <sp xml:id="sp-2883" who="#Achilles_Tro">
             <speaker xml:id="spk-2883">ACHILLES </speaker>
             <l xml:id="ftln-2883" n="5.1.1">I’ll heat his blood with Greekish wine tonight, </l>
@@ -6649,10 +6247,7 @@
             <speaker xml:id="spk-2886">PATROCLUS </speaker>
             <l xml:id="ftln-2886" n="5.1.4" part="I">Here comes Thersites. </l>
           </sp>
-          <stage xml:id="stg-2886.1"
-                      n="SD 5.1.4.1"
-                      type="entrance"
-                      who="#Thersites_Tro">Enter Thersites. </stage>
+          <stage xml:id="stg-2886.1" n="SD 5.1.4.1" type="entrance" who="#Thersites_Tro">Enter Thersites. </stage>
           <sp xml:id="sp-2887" who="#Achilles_Tro">
             <speaker xml:id="spk-2887">ACHILLES </speaker>
             <l xml:id="ftln-2887" n="5.1.5" part="F">How now, thou core of envy? </l>
@@ -6673,10 +6268,7 @@
             <p xml:id="p-2892">
               <lb xml:id="ftln-2892" n="5.1.10"/>Why, thou full dish of fool, from Troy. </p>
           </sp>
-          <stage xml:id="stg-2892.1"
-                      n="SD 5.1.10.1"
-                      type="business"
-                      who="#Achilles_Tro">Achilles takes the letter and moves aside to read it. </stage>
+          <stage xml:id="stg-2892.1" n="SD 5.1.10.1" type="business" who="#Achilles_Tro">Achilles takes the letter and moves aside to read it. </stage>
           <sp xml:id="sp-2893" who="#Patroclus_Tro">
             <speaker xml:id="spk-2893">PATROCLUS </speaker>
             <p xml:id="p-2893">
@@ -6739,10 +6331,7 @@
           </sp>
           <sp xml:id="sp-2920" who="#Achilles_Tro">
             <speaker xml:id="spk-2920">ACHILLES </speaker>
-            <stage xml:id="stg-2920.0"
-                         n="SD 5.1.38.0"
-                         type="business"
-                         who="#Achilles_Tro">, coming forward </stage>
+            <stage xml:id="stg-2920.0" n="SD 5.1.38.0" type="business" who="#Achilles_Tro">, coming forward </stage>
             <l xml:id="ftln-2920" n="5.1.38">My sweet Patroclus, I am thwarted quite </l>
             <l xml:id="ftln-2921" n="5.1.39">From my great purpose in tomorrow’s battle. </l>
             <l xml:id="ftln-2922" n="5.1.40">Here is a letter from Queen Hecuba, </l>
@@ -6755,18 +6344,12 @@
             <l xml:id="ftln-2929" n="5.1.47">This night in banqueting must all be spent. </l>
             <l xml:id="ftln-2930" n="5.1.48" ana="#short">Away, Patroclus. </l>
           </sp>
-          <stage xml:id="stg-2930"
-                      n="SD 5.1.48"
-                      type="exit"
-                      who="#Achilles_Tro #Patroclus_Tro">He exits with Patroclus. </stage>
+          <stage xml:id="stg-2930" n="SD 5.1.48" type="exit" who="#Achilles_Tro #Patroclus_Tro">He exits with Patroclus. </stage>
           <sp xml:id="sp-2931" who="#Thersites_Tro">
             <speaker xml:id="spk-2931">THERSITES </speaker>
             <p xml:id="p-2931">
               <lb xml:id="ftln-2931" n="5.1.49"/>With too much blood and too little brain, <lb xml:id="ftln-2932" n="5.1.50"/>these two may run mad; but if with too much brain <lb xml:id="ftln-2933" n="5.1.51"/>and too little blood they do, I’ll be a curer of madmen. <lb xml:id="ftln-2934" n="5.1.52"/>Here’s Agamemnon, an honest fellow enough <lb xml:id="ftln-2935" n="5.1.53"/>and one that loves quails, but he has not so much <lb xml:id="ftln-2936" n="5.1.54"/>brain as earwax. And the goodly transformation <lb xml:id="ftln-2937" n="5.1.55"/>of Jupiter there, his brother, the bull— the primitive <lb xml:id="ftln-2938" n="5.1.56"/>statue and oblique memorial of cuckolds, a <lb xml:id="ftln-2939" n="5.1.57"/>thrifty shoeing-horn in a chain, hanging at his <lb xml:id="ftln-2940" n="5.1.58"/>brother’s leg— to what form but that he is should <lb xml:id="ftln-2941" n="5.1.59"/>wit larded with malice and malice forced with <lb xml:id="ftln-2942" n="5.1.60"/>wit turn him to? To an ass were nothing; he is both <lb xml:id="ftln-2943" n="5.1.61"/>ass and ox. To an ox were nothing; he is both ox <lb xml:id="ftln-2944" n="5.1.62"/>and ass. To be a dog, a mule, a cat, a fitchew, a <lb xml:id="ftln-2945" n="5.1.63"/>toad, a lizard, an owl, a puttock, or a herring without <lb xml:id="ftln-2946" n="5.1.64"/>a roe, I would not care; but to be Menelaus! I <lb xml:id="ftln-2947" n="5.1.65"/>would conspire against destiny. Ask me not what I <lb xml:id="ftln-2948" n="5.1.66"/>would be, if I were not Thersites, for I care not to be <lb xml:id="ftln-2949" n="5.1.67"/>the louse of a lazar so I were not Menelaus. </p>
-            <stage xml:id="stg-2949.1"
-                         n="SD 5.1.67.1"
-                         type="entrance"
-                         who="#Hector_Tro #Troilus_Tro #Ajax_Tro #Agamemnon_Tro #Ulysses_Tro #Nestor_Tro #Menelaus_Tro #Diomedes_Tro">Enter Hector, Troilus, Ajax, Agamemnon, Ulysses, Nestor, Menelaus, and Diomedes, with lights. </stage>
+            <stage xml:id="stg-2949.1" n="SD 5.1.67.1" type="entrance" who="#Hector_Tro #Troilus_Tro #Ajax_Tro #Agamemnon_Tro #Ulysses_Tro #Nestor_Tro #Menelaus_Tro #Diomedes_Tro">Enter Hector, Troilus, Ajax, Agamemnon, Ulysses, Nestor, Menelaus, and Diomedes, with lights. </stage>
             <p xml:id="p-2950">
               <lb xml:id="ftln-2950" n="5.1.68"/>Heyday! Sprites and fires! </p>
           </sp>
@@ -6787,10 +6370,7 @@
             <speaker xml:id="spk-2954">AJAX </speaker>
             <l xml:id="ftln-2954" n="5.1.72" ana="#short">No, not a whit. </l>
           </sp>
-          <stage xml:id="stg-2954.1"
-                      n="SD 5.1.72.1"
-                      type="entrance"
-                      who="#Achilles_Tro">Enter Achilles. </stage>
+          <stage xml:id="stg-2954.1" n="SD 5.1.72.1" type="entrance" who="#Achilles_Tro">Enter Achilles. </stage>
           <sp xml:id="sp-2955" who="#Ulysses_Tro">
             <speaker xml:id="spk-2955">ULYSSES </speaker>
             <stage xml:id="stg-2955" n="SD 5.1.73" type="delivery">, to Hector </stage>
@@ -6833,10 +6413,7 @@
             <speaker xml:id="spk-2967">AGAMEMNON </speaker>
             <l xml:id="ftln-2967" n="5.1.85" ana="#short">Good night. </l>
           </sp>
-          <stage xml:id="stg-2967.1"
-                      n="SD 5.1.85.1"
-                      type="exit"
-                      who="#Agamemnon_Tro #Menelaus_Tro">Agamemnon and Menelaus exit. </stage>
+          <stage xml:id="stg-2967.1" n="SD 5.1.85.1" type="exit" who="#Agamemnon_Tro #Menelaus_Tro">Agamemnon and Menelaus exit. </stage>
           <sp xml:id="sp-2968" who="#Achilles_Tro">
             <speaker xml:id="spk-2968">ACHILLES </speaker>
             <l xml:id="ftln-2968" n="5.1.86">Old Nestor tarries, and you too, Diomed. </l>
@@ -6865,34 +6442,22 @@
             <speaker xml:id="spk-2976">HECTOR </speaker>
             <l xml:id="ftln-2976" n="5.1.94" part="I">And so, good night. </l>
           </sp>
-          <stage xml:id="stg-2976.1"
-                      n="SD 5.1.94.1"
-                      type="exit"
-                      who="#Diomedes_Tro #Troilus_Tro #Ulysses_Tro">Diomedes exits, followed by Troilus and Ulysses. </stage>
+          <stage xml:id="stg-2976.1" n="SD 5.1.94.1" type="exit" who="#Diomedes_Tro #Troilus_Tro #Ulysses_Tro">Diomedes exits, followed by Troilus and Ulysses. </stage>
           <sp xml:id="sp-2977" who="#Achilles_Tro">
             <speaker xml:id="spk-2977">ACHILLES </speaker>
             <l xml:id="ftln-2977" n="5.1.95" part="F">Come, come, enter my tent. </l>
           </sp>
-          <stage xml:id="stg-2977.1"
-                      n="SD 5.1.95.1"
-                      type="exit"
-                      who="#Achilles_Tro #Ajax_Tro #Nestor_Tro #Hector_Tro">Achilles, Ajax, Nestor, and Hector exit. </stage>
+          <stage xml:id="stg-2977.1" n="SD 5.1.95.1" type="exit" who="#Achilles_Tro #Ajax_Tro #Nestor_Tro #Hector_Tro">Achilles, Ajax, Nestor, and Hector exit. </stage>
           <sp xml:id="sp-2978" who="#Thersites_Tro">
             <speaker xml:id="spk-2978">THERSITES </speaker>
             <p xml:id="p-2978">
               <lb xml:id="ftln-2978" n="5.1.96"/>That same Diomed’s a false-hearted rogue, <lb xml:id="ftln-2979" n="5.1.97"/>a most unjust knave. I will no more trust him when <lb xml:id="ftln-2980" n="5.1.98"/>he leers than I will a serpent when he hisses. He <lb xml:id="ftln-2981" n="5.1.99"/>will spend his mouth and promise like Brabbler <lb xml:id="ftln-2982" n="5.1.100"/>the hound, but when he performs, astronomers <lb xml:id="ftln-2983" n="5.1.101"/>foretell it; it is prodigious, there will come some <lb xml:id="ftln-2984" n="5.1.102"/>change. The sun borrows of the moon when <lb xml:id="ftln-2985" n="5.1.103"/>Diomed keeps his word. I will rather leave to see <lb xml:id="ftln-2986" n="5.1.104"/>Hector than not to dog him. They say he keeps a <lb xml:id="ftln-2987" n="5.1.105"/>Trojan drab and uses the traitor Calchas his tent. <lb xml:id="ftln-2988" n="5.1.106"/>I’ll after. Nothing but lechery! All incontinent varlets! </p>
           </sp>
-          <stage xml:id="stg-2988.1"
-                      n="SD 5.1.106.1"
-                      type="exit"
-                      who="#Thersites_Tro">He exits. </stage>
+          <stage xml:id="stg-2988.1" n="SD 5.1.106.1" type="exit" who="#Thersites_Tro">He exits. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-2988.2"
-                      n="SD 5.2.0"
-                      type="entrance"
-                      who="#Diomedes_Tro">Enter Diomedes. </stage>
+          <stage xml:id="stg-2988.2" n="SD 5.2.0" type="entrance" who="#Diomedes_Tro">Enter Diomedes. </stage>
           <sp xml:id="sp-2989" who="#Diomedes_Tro">
             <speaker xml:id="spk-2989">DIOMEDES </speaker>
             <p xml:id="p-2989">
@@ -6915,19 +6480,13 @@
             <p xml:id="p-2993">
               <lb xml:id="ftln-2993" n="5.2.5"/>She comes to you. </p>
           </sp>
-          <stage xml:id="stg-2993.1"
-                      n="SD 5.2.5.1"
-                      type="entrance"
-                      who="#Troilus_Tro #Ulysses_Tro #Thersites_Tro">Enter Troilus and Ulysses, at a distance, and then, apart from them, Thersites. </stage>
+          <stage xml:id="stg-2993.1" n="SD 5.2.5.1" type="entrance" who="#Troilus_Tro #Ulysses_Tro #Thersites_Tro">Enter Troilus and Ulysses, at a distance, and then, apart from them, Thersites. </stage>
           <sp xml:id="sp-2994" who="#Ulysses_Tro">
             <speaker xml:id="spk-2994">ULYSSES </speaker>
             <stage xml:id="stg-2994.0" n="SD 5.2.6.0" type="delivery">, aside to Troilus </stage>
             <l xml:id="ftln-2994" n="5.2.6">Stand where the torch may not discover us. </l>
           </sp>
-          <stage xml:id="stg-2994.1"
-                      n="SD 5.2.6.1"
-                      type="entrance"
-                      who="#Cressida_Tro">Enter Cressida. </stage>
+          <stage xml:id="stg-2994.1" n="SD 5.2.6.1" type="entrance" who="#Cressida_Tro">Enter Cressida. </stage>
           <sp xml:id="sp-2995" who="#Troilus_Tro">
             <speaker xml:id="spk-2995">TROILUS </speaker>
             <stage xml:id="stg-2995.0" n="SD 5.2.7.0" type="delivery">, aside to Ulysses </stage>
@@ -6941,10 +6500,7 @@
             <speaker xml:id="spk-2997">CRESSIDA </speaker>
             <l xml:id="ftln-2997" n="5.2.9">Now, my sweet guardian. Hark, a word with you. </l>
           </sp>
-          <stage xml:id="stg-2997.1"
-                      n="SD 5.2.9.1"
-                      type="business"
-                      who="#Cressida_Tro #Diomedes_Tro">She whispers to him. </stage>
+          <stage xml:id="stg-2997.1" n="SD 5.2.9.1" type="business" who="#Cressida_Tro #Diomedes_Tro">She whispers to him. </stage>
           <sp xml:id="sp-2998" who="#Troilus_Tro">
             <speaker xml:id="spk-2998">TROILUS </speaker>
             <stage xml:id="stg-2998" n="SD 5.2.10" type="delivery">, aside </stage>
@@ -7064,10 +6620,7 @@
             <speaker xml:id="spk-3025">CRESSIDA </speaker>
             <l xml:id="ftln-3025" n="5.2.37" ana="#short">Hark, a word in your ear. </l>
           </sp>
-          <stage xml:id="stg-3025.1"
-                      n="SD 5.2.37.1"
-                      type="business"
-                      who="#Cressida_Tro #Diomedes_Tro">She whispers to him. </stage>
+          <stage xml:id="stg-3025.1" n="SD 5.2.37.1" type="business" who="#Cressida_Tro #Diomedes_Tro">She whispers to him. </stage>
           <sp xml:id="sp-3026" who="#Troilus_Tro">
             <speaker xml:id="spk-3026">TROILUS </speaker>
             <stage xml:id="stg-3026" n="SD 5.2.38" type="delivery">, aside </stage>
@@ -7112,10 +6665,7 @@
             <speaker xml:id="spk-3038">DIOMEDES </speaker>
             <l xml:id="ftln-3038" n="5.2.50" part="I">And so good night. </l>
           </sp>
-          <stage xml:id="stg-3038"
-                      n="SD 5.2.50"
-                      type="business"
-                      who="#Diomedes_Tro">He starts to leave. </stage>
+          <stage xml:id="stg-3038" n="SD 5.2.50" type="business" who="#Diomedes_Tro">He starts to leave. </stage>
           <sp xml:id="sp-3039" who="#Cressida_Tro">
             <speaker xml:id="spk-3039">CRESSIDA </speaker>
             <l xml:id="ftln-3039" n="5.2.51" part="F">Nay, but you part in anger. </l>
@@ -7205,10 +6755,7 @@
             <l xml:id="ftln-3063" n="5.2.75">I will not be myself nor have cognition </l>
             <l xml:id="ftln-3064" n="5.2.76">Of what I feel. I am all patience. </l>
           </sp>
-          <stage xml:id="stg-3064.1"
-                      n="SD 5.2.76.1"
-                      type="entrance"
-                      who="#Cressida_Tro">Enter Cressida with Troilus’s sleeve. </stage>
+          <stage xml:id="stg-3064.1" n="SD 5.2.76.1" type="entrance" who="#Cressida_Tro">Enter Cressida with Troilus’s sleeve. </stage>
           <sp xml:id="sp-3065" who="#Thersites_Tro">
             <speaker xml:id="spk-3065">THERSITES </speaker>
             <stage xml:id="stg-3065" n="SD 5.2.77" type="delivery">, aside </stage>
@@ -7217,10 +6764,7 @@
           </sp>
           <sp xml:id="sp-3066" who="#Cressida_Tro">
             <speaker xml:id="spk-3066">CRESSIDA </speaker>
-            <stage xml:id="stg-3066"
-                         n="SD 5.2.78"
-                         type="business"
-                         who="#Cressida_Tro #Diomedes_Tro">, giving the sleeve </stage>
+            <stage xml:id="stg-3066" n="SD 5.2.78" type="business" who="#Cressida_Tro #Diomedes_Tro">, giving the sleeve </stage>
             <l xml:id="ftln-3066" n="5.2.78" ana="#short" next="#ftln-3067">Here, Diomed. Keep this sleeve. </l>
           </sp>
           <sp xml:id="sp-3068" who="#Troilus_Tro">
@@ -7243,10 +6787,7 @@
             <l xml:id="ftln-3071" n="5.2.83">You look upon that sleeve? Behold it well. </l>
             <l xml:id="ftln-3072" n="5.2.84">He loved me— O false wench!— Give ’t me again. </l>
           </sp>
-          <stage xml:id="stg-3072.1"
-                      n="SD 5.2.84.1"
-                      type="business"
-                      who="#Cressida_Tro #Diomedes_Tro">She snatches the sleeve from Diomedes. </stage>
+          <stage xml:id="stg-3072.1" n="SD 5.2.84.1" type="business" who="#Cressida_Tro #Diomedes_Tro">She snatches the sleeve from Diomedes. </stage>
           <sp xml:id="sp-3073" who="#Diomedes_Tro">
             <speaker xml:id="spk-3073">DIOMEDES </speaker>
             <l xml:id="ftln-3073" n="5.2.85" ana="#short">Whose was ’t? </l>
@@ -7283,10 +6824,7 @@
             <l xml:id="ftln-3085" n="5.2.97">And gives memorial dainty kisses to it </l>
             <l xml:id="ftln-3086" n="5.2.98" part="I">As I kiss thee. </l>
           </sp>
-          <stage xml:id="stg-3086.1"
-                      n="SD 5.2.98.1"
-                      type="business"
-                      who="#Diomedes_Tro #Cressida_Tro">He grabs the sleeve, and she tries to retrieve it. </stage>
+          <stage xml:id="stg-3086.1" n="SD 5.2.98.1" type="business" who="#Diomedes_Tro #Cressida_Tro">He grabs the sleeve, and she tries to retrieve it. </stage>
           <sp xml:id="sp-3087" who="#Diomedes_Tro">
             <speaker xml:id="spk-3087">DIOMEDES </speaker>
             <l xml:id="ftln-3087" n="5.2.99" part="F">Nay, do not snatch it from me. </l>
@@ -7356,10 +6894,7 @@
             <l xml:id="ftln-3107" n="5.2.119" part="F">Why, then, farewell. </l>
             <l xml:id="ftln-3108" n="5.2.120">Thou never shalt mock Diomed again. </l>
           </sp>
-          <stage xml:id="stg-3108.1"
-                      n="SD 5.2.120.1"
-                      type="business"
-                      who="#Diomedes_Tro">He starts to leave. </stage>
+          <stage xml:id="stg-3108.1" n="SD 5.2.120.1" type="business" who="#Diomedes_Tro">He starts to leave. </stage>
           <sp xml:id="sp-3109" who="#Cressida_Tro">
             <speaker xml:id="spk-3109">CRESSIDA </speaker>
             <l xml:id="ftln-3109" n="5.2.121">You shall not go. One cannot speak a word </l>
@@ -7390,10 +6925,7 @@
           <sp xml:id="sp-3117" who="#Cressida_Tro">
             <speaker xml:id="spk-3117">CRESSIDA </speaker>
             <l xml:id="ftln-3117" n="5.2.129" part="F">Good night. I prithee, come.— </l>
-            <stage xml:id="stg-3117.1"
-                         n="SD 5.2.129.1"
-                         type="exit"
-                         who="#Diomedes_Tro">He exits. </stage>
+            <stage xml:id="stg-3117.1" n="SD 5.2.129.1" type="exit" who="#Diomedes_Tro">He exits. </stage>
             <l xml:id="ftln-3118" n="5.2.130">Troilus, farewell. One eye yet looks on thee, </l>
             <l xml:id="ftln-3119" n="5.2.131">But with my heart the other eye doth see. </l>
             <l xml:id="ftln-3120" n="5.2.132">Ah, poor our sex! This fault in us I find: </l>
@@ -7401,10 +6933,7 @@
             <l xml:id="ftln-3122" n="5.2.134">What error leads must err. O, then conclude: </l>
             <l xml:id="ftln-3123" n="5.2.135">Minds swayed by eyes are full of turpitude. </l>
           </sp>
-          <stage xml:id="stg-3123"
-                      n="SD 5.2.135"
-                      type="exit"
-                      who="#Cressida_Tro">She exits. </stage>
+          <stage xml:id="stg-3123" n="SD 5.2.135" type="exit" who="#Cressida_Tro">She exits. </stage>
           <sp xml:id="sp-3124" who="#Thersites_Tro">
             <speaker xml:id="spk-3124">THERSITES </speaker>
             <stage xml:id="stg-3124.0" n="SD 5.2.136.0" type="delivery">, aside </stage>
@@ -7544,10 +7073,7 @@
             <l xml:id="ftln-3199" n="5.2.211" part="F">O, contain yourself. </l>
             <l xml:id="ftln-3200" n="5.2.212" ana="#short">Your passion draws ears hither. </l>
           </sp>
-          <stage xml:id="stg-3200.1"
-                      n="SD 5.2.212.1"
-                      type="entrance"
-                      who="#Aeneas_Tro">Enter Aeneas. </stage>
+          <stage xml:id="stg-3200.1" n="SD 5.2.212.1" type="entrance" who="#Aeneas_Tro">Enter Aeneas. </stage>
           <sp xml:id="sp-3201" who="#Aeneas_Tro">
             <speaker xml:id="spk-3201">AENEAS </speaker>
             <stage xml:id="stg-3201.0" n="SD 5.2.213.0" type="delivery">, to Troilus </stage>
@@ -7569,26 +7095,17 @@
             <speaker xml:id="spk-3208">TROILUS </speaker>
             <l xml:id="ftln-3208" n="5.2.220" ana="#short">Accept distracted thanks. </l>
           </sp>
-          <stage xml:id="stg-3208.1"
-                      n="SD 5.2.220.1"
-                      type="exit"
-                      who="#Troilus_Tro #Aeneas_Tro #Ulysses_Tro">Troilus, Aeneas, and Ulysses exit. </stage>
+          <stage xml:id="stg-3208.1" n="SD 5.2.220.1" type="exit" who="#Troilus_Tro #Aeneas_Tro #Ulysses_Tro">Troilus, Aeneas, and Ulysses exit. </stage>
           <sp xml:id="sp-3209" who="#Thersites_Tro">
             <speaker xml:id="spk-3209">THERSITES </speaker>
             <p xml:id="p-3209">
               <lb xml:id="ftln-3209" n="5.2.221"/>Would I could meet that rogue Diomed! I <lb xml:id="ftln-3210" n="5.2.222"/>would croak like a raven; I would bode, I would <lb xml:id="ftln-3211" n="5.2.223"/>bode. Patroclus will give me anything for the intelligence <lb xml:id="ftln-3212" n="5.2.224"/>of this whore. The parrot will not do more <lb xml:id="ftln-3213" n="5.2.225"/>for an almond than he for a commodious drab. <lb xml:id="ftln-3214" n="5.2.226"/>Lechery, lechery, still wars and lechery! Nothing <lb xml:id="ftln-3215" n="5.2.227"/>else holds fashion. A burning devil take them! </p>
           </sp>
-          <stage xml:id="stg-3215.1"
-                      n="SD 5.2.227.1"
-                      type="exit"
-                      who="#Thersites_Tro">He exits. </stage>
+          <stage xml:id="stg-3215.1" n="SD 5.2.227.1" type="exit" who="#Thersites_Tro">He exits. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-3215.2"
-                      n="SD 5.3.0"
-                      type="entrance"
-                      who="#Hector_Tro #Andromache_Tro">Enter Hector, armed, and Andromache. </stage>
+          <stage xml:id="stg-3215.2" n="SD 5.3.0" type="entrance" who="#Hector_Tro #Andromache_Tro">Enter Hector, armed, and Andromache. </stage>
           <sp xml:id="sp-3216" who="#Andromache_Tro">
             <speaker xml:id="spk-3216">ANDROMACHE </speaker>
             <l xml:id="ftln-3216" n="5.3.1">When was my lord so much ungently tempered </l>
@@ -7608,10 +7125,7 @@
             <speaker xml:id="spk-3222">HECTOR </speaker>
             <l xml:id="ftln-3222" n="5.3.7" part="I">No more, I say. </l>
           </sp>
-          <stage xml:id="stg-3222.1"
-                      n="SD 5.3.7.1"
-                      type="entrance"
-                      who="#Cassandra_Tro">Enter Cassandra. </stage>
+          <stage xml:id="stg-3222.1" n="SD 5.3.7.1" type="entrance" who="#Cassandra_Tro">Enter Cassandra. </stage>
           <sp xml:id="sp-3223" who="#Cassandra_Tro">
             <speaker xml:id="spk-3223">CASSANDRA </speaker>
             <l xml:id="ftln-3223" n="5.3.8" part="F">Where is my brother Hector? </l>
@@ -7667,20 +7181,14 @@
             <l xml:id="ftln-3244" n="5.3.29">Mine honor keeps the weather of my fate. </l>
             <l xml:id="ftln-3245" n="5.3.30">Life every man holds dear, but the dear man </l>
             <l xml:id="ftln-3246" n="5.3.31">Holds honor far more precious-dear than life. </l>
-            <stage xml:id="stg-3246.1"
-                         n="SD 5.3.31.1"
-                         type="entrance"
-                         who="#Troilus_Tro">Enter Troilus, armed. </stage>
+            <stage xml:id="stg-3246.1" n="SD 5.3.31.1" type="entrance" who="#Troilus_Tro">Enter Troilus, armed. </stage>
             <l xml:id="ftln-3247" n="5.3.32">How now, young man? Meanest thou to fight today? </l>
           </sp>
           <sp xml:id="sp-3248" who="#Andromache_Tro">
             <speaker xml:id="spk-3248">ANDROMACHE </speaker>
             <l xml:id="ftln-3248" n="5.3.33">Cassandra, call my father to persuade. </l>
           </sp>
-          <stage xml:id="stg-3248.1"
-                      n="SD 5.3.33.1"
-                      type="exit"
-                      who="#Cassandra_Tro">Cassandra exits. </stage>
+          <stage xml:id="stg-3248.1" n="SD 5.3.33.1" type="exit" who="#Cassandra_Tro">Cassandra exits. </stage>
           <sp xml:id="sp-3249" who="#Hector_Tro">
             <speaker xml:id="spk-3249">HECTOR </speaker>
             <l xml:id="ftln-3249" n="5.3.34">No, faith, young Troilus, doff thy harness, youth. </l>
@@ -7748,10 +7256,7 @@
             <l xml:id="ftln-3278" n="5.3.63">Opposed to hinder me, should stop my way, </l>
             <l xml:id="ftln-3279" n="5.3.64" ana="#short">But by my ruin. </l>
           </sp>
-          <stage xml:id="stg-3279.1"
-                      n="SD 5.3.64.1"
-                      type="entrance"
-                      who="#Priam_Tro #Cassandra_Tro">Enter Priam and Cassandra. </stage>
+          <stage xml:id="stg-3279.1" n="SD 5.3.64.1" type="entrance" who="#Priam_Tro #Cassandra_Tro">Enter Priam and Cassandra. </stage>
           <sp xml:id="sp-3280" who="#Cassandra_Tro">
             <speaker xml:id="spk-3280">CASSANDRA </speaker>
             <stage xml:id="stg-3280.0" n="SD 5.3.65.0" type="delivery">, indicating Hector </stage>
@@ -7801,10 +7306,7 @@
             <l xml:id="ftln-3302" n="5.3.87">Andromache, I am offended with you. </l>
             <l xml:id="ftln-3303" n="5.3.88">Upon the love you bear me, get you in. </l>
           </sp>
-          <stage xml:id="stg-3303.1"
-                      n="SD 5.3.88.1"
-                      type="exit"
-                      who="#Andromache_Tro">Andromache exits. </stage>
+          <stage xml:id="stg-3303.1" n="SD 5.3.88.1" type="exit" who="#Andromache_Tro">Andromache exits. </stage>
           <sp xml:id="sp-3304" who="#Troilus_Tro">
             <speaker xml:id="spk-3304">TROILUS </speaker>
             <l xml:id="ftln-3304" n="5.3.89">This foolish, dreaming, superstitious girl </l>
@@ -7830,10 +7332,7 @@
             <l xml:id="ftln-3315" n="5.3.100">Farewell.— Yet soft! Hector, I take my leave. </l>
             <l xml:id="ftln-3316" n="5.3.101">Thou dost thyself and all our Troy deceive. </l>
           </sp>
-          <stage xml:id="stg-3316"
-                      n="SD 5.3.101"
-                      type="exit"
-                      who="#Cassandra_Tro">She exits. </stage>
+          <stage xml:id="stg-3316" n="SD 5.3.101" type="exit" who="#Cassandra_Tro">She exits. </stage>
           <sp xml:id="sp-3317" who="#Hector_Tro">
             <speaker xml:id="spk-3317">HECTOR </speaker>
             <l xml:id="ftln-3317" n="5.3.102">You are amazed, my liege, at her exclaim. </l>
@@ -7844,10 +7343,7 @@
             <speaker xml:id="spk-3320">PRIAM </speaker>
             <l xml:id="ftln-3320" n="5.3.105">Farewell. The gods with safety stand about thee! </l>
           </sp>
-          <stage xml:id="stg-3320.1"
-                      n="SD 5.3.105.1"
-                      type="exit"
-                      who="#Hector_Tro #Priam_Tro">Hector and Priam exit at separate doors. </stage>
+          <stage xml:id="stg-3320.1" n="SD 5.3.105.1" type="exit" who="#Hector_Tro #Priam_Tro">Hector and Priam exit at separate doors. </stage>
           <stage xml:id="stg-3320.2" n="SD 5.3.105.2" type="business">
             <stage xml:id="snd-3320.2" n="SD 5.3.105.2" type="sound" ana="alarum">Alarum. </stage>
           </stage>
@@ -7856,10 +7352,7 @@
             <l xml:id="ftln-3321" n="5.3.106">They are at it, hark! Proud Diomed, believe, </l>
             <l xml:id="ftln-3322" n="5.3.107">I come to lose my arm or win my sleeve. </l>
           </sp>
-          <stage xml:id="stg-3322.1"
-                      n="SD 5.3.107.1"
-                      type="entrance"
-                      who="#Pandarus_Tro">Enter Pandarus, with a paper. </stage>
+          <stage xml:id="stg-3322.1" n="SD 5.3.107.1" type="entrance" who="#Pandarus_Tro">Enter Pandarus, with a paper. </stage>
           <sp xml:id="sp-3323" who="#Pandarus_Tro">
             <speaker xml:id="spk-3323">PANDARUS </speaker>
             <p xml:id="p-3323">
@@ -7880,10 +7373,7 @@
             <p xml:id="p-3326">
               <lb xml:id="ftln-3326" n="5.3.111"/>Let me read. </p>
           </sp>
-          <stage xml:id="stg-3326"
-                      n="SD 5.3.111"
-                      type="business"
-                      who="#Troilus_Tro">He reads. </stage>
+          <stage xml:id="stg-3326" n="SD 5.3.111" type="business" who="#Troilus_Tro">He reads. </stage>
           <sp xml:id="sp-3327" who="#Pandarus_Tro">
             <speaker xml:id="spk-3327">PANDARUS </speaker>
             <p xml:id="p-3327">
@@ -7894,46 +7384,28 @@
             <l xml:id="ftln-3334" n="5.3.119">Words, words, mere words, no matter from the heart. </l>
             <l xml:id="ftln-3335" n="5.3.120">Th’ effect doth operate another way. </l>
             <l xml:id="ftln-3336" n="5.3.121">Go, wind, to wind! There turn and change together. </l>
-            <stage xml:id="stg-3336.1"
-                         n="SD 5.3.121.1"
-                         type="business"
-                         who="#Troilus_Tro">He tears up the paper and throws the pieces in the air. </stage>
+            <stage xml:id="stg-3336.1" n="SD 5.3.121.1" type="business" who="#Troilus_Tro">He tears up the paper and throws the pieces in the air. </stage>
             <l xml:id="ftln-3337" n="5.3.122">My love with words and errors still she feeds, </l>
             <l xml:id="ftln-3338" n="5.3.123">But edifies another with her deeds. </l>
           </sp>
-          <stage xml:id="stg-3338.1"
-                      n="SD 5.3.123.1"
-                      type="exit"
-                      who="#Troilus_Tro #Pandarus_Tro">They exit. </stage>
+          <stage xml:id="stg-3338.1" n="SD 5.3.123.1" type="exit" who="#Troilus_Tro #Pandarus_Tro">They exit. </stage>
         </div>
         <div type="scene" n="4">
           <head>Scene 4 </head>
           <stage xml:id="stg-3338.2" n="SD 5.4.0" type="mixed">
-            <stage xml:id="stg-3338.2a"
-                         n="SD 5.4.0"
-                         type="business"
-                         who="#SOLDIERS.GREEK_Tro #SOLDIERS.TROJAN_Tro">
+            <stage xml:id="stg-3338.2a" n="SD 5.4.0" type="business" who="#SOLDIERS.GREEK_Tro #SOLDIERS.TROJAN_Tro">
               <stage xml:id="snd-3338.2a" n="SD 5.4.0" type="sound" ana="alarum">Alarum. </stage> Excursions. </stage>
-            <stage xml:id="stg-3338.2b"
-                         n="SD 5.4.0"
-                         type="entrance"
-                         who="#Thersites_Tro">Enter Thersites. </stage>
+            <stage xml:id="stg-3338.2b" n="SD 5.4.0" type="entrance" who="#Thersites_Tro">Enter Thersites. </stage>
           </stage>
           <sp xml:id="sp-3339" who="#Thersites_Tro">
             <speaker xml:id="spk-3339">THERSITES </speaker>
             <p xml:id="p-3339">
               <lb xml:id="ftln-3339" n="5.4.1"/>Now they are clapper-clawing one another. <lb xml:id="ftln-3340" n="5.4.2"/>I’ll go look on. That dissembling abominable varlet, <lb xml:id="ftln-3341" n="5.4.3"/>Diomed, has got that same scurvy doting foolish <lb xml:id="ftln-3342" n="5.4.4"/>young knave’s sleeve of Troy there in his helm. <lb xml:id="ftln-3343" n="5.4.5"/>I would fain see them meet, that that same young <lb xml:id="ftln-3344" n="5.4.6"/>Trojan ass that loves the whore there might send <lb xml:id="ftln-3345" n="5.4.7"/>that Greekish whoremasterly villain with the sleeve <lb xml:id="ftln-3346" n="5.4.8"/>back to the dissembling luxurious drab, of a sleeveless <lb xml:id="ftln-3347" n="5.4.9"/>errand. O’ th’ t’other side, the policy of those <lb xml:id="ftln-3348" n="5.4.10"/>crafty swearing rascals— that stale old mouse-eaten <lb xml:id="ftln-3349" n="5.4.11"/>dry cheese, Nestor, and that same dog-fox, <lb xml:id="ftln-3350" n="5.4.12"/>Ulysses— is proved not worth a blackberry. They <lb xml:id="ftln-3351" n="5.4.13"/>set me up, in policy, that mongrel cur, Ajax, against <lb xml:id="ftln-3352" n="5.4.14"/>that dog of as bad a kind, Achilles. And now is the <lb xml:id="ftln-3353" n="5.4.15"/>cur Ajax prouder than the cur Achilles, and will <lb xml:id="ftln-3354" n="5.4.16"/>not arm today, whereupon the Grecians begin to <lb xml:id="ftln-3355" n="5.4.17"/>proclaim barbarism, and policy grows into an ill <lb xml:id="ftln-3356" n="5.4.18"/>opinion. </p>
-            <stage xml:id="stg-3356.1"
-                         n="SD 5.4.18.1"
-                         type="entrance"
-                         who="#Diomedes_Tro #Troilus_Tro">Enter Diomedes, and Troilus pursuing him. </stage>
+            <stage xml:id="stg-3356.1" n="SD 5.4.18.1" type="entrance" who="#Diomedes_Tro #Troilus_Tro">Enter Diomedes, and Troilus pursuing him. </stage>
             <p xml:id="p-3357">
               <lb xml:id="ftln-3357" n="5.4.19"/>Soft! Here comes sleeve and t’ other. </p>
           </sp>
-          <stage xml:id="stg-3357.1"
-                      n="SD 5.4.19.1"
-                      type="business"
-                      who="#Thersites_Tro">Thersites moves aside. </stage>
+          <stage xml:id="stg-3357.1" n="SD 5.4.19.1" type="business" who="#Thersites_Tro">Thersites moves aside. </stage>
           <sp xml:id="sp-3358" who="#Troilus_Tro">
             <speaker xml:id="spk-3358">TROILUS </speaker>
             <stage xml:id="stg-3358.0" n="SD 5.4.20.0" type="delivery">, to Diomedes </stage>
@@ -7947,23 +7419,14 @@
             <l xml:id="ftln-3362" n="5.4.24">Withdrew me from the odds of multitude. </l>
             <l xml:id="ftln-3363" n="5.4.25" ana="#short">Have at thee! </l>
           </sp>
-          <stage xml:id="stg-3363"
-                      n="SD 5.4.25"
-                      type="business"
-                      who="#Troilus_Tro #Diomedes_Tro">They fight. </stage>
+          <stage xml:id="stg-3363" n="SD 5.4.25" type="business" who="#Troilus_Tro #Diomedes_Tro">They fight. </stage>
           <sp xml:id="sp-3364" who="#Thersites_Tro">
             <speaker xml:id="spk-3364">THERSITES </speaker>
             <p xml:id="p-3364">
               <lb xml:id="ftln-3364" n="5.4.26"/>Hold thy whore, Grecian! Now for thy <lb xml:id="ftln-3365" n="5.4.27"/>whore, Trojan! Now the sleeve, now the sleeve! </p>
           </sp>
-          <stage xml:id="stg-3365.1"
-                      n="SD 5.4.27.1"
-                      type="exit"
-                      who="#Troilus_Tro #Diomedes_Tro">Diomedes and Troilus exit fighting. </stage>
-          <stage xml:id="stg-3365.2"
-                      n="SD 5.4.27.2"
-                      type="entrance"
-                      who="#Hector_Tro">Enter Hector. </stage>
+          <stage xml:id="stg-3365.1" n="SD 5.4.27.1" type="exit" who="#Troilus_Tro #Diomedes_Tro">Diomedes and Troilus exit fighting. </stage>
+          <stage xml:id="stg-3365.2" n="SD 5.4.27.2" type="entrance" who="#Hector_Tro">Enter Hector. </stage>
           <sp xml:id="sp-3366" who="#Hector_Tro">
             <speaker xml:id="spk-3366">HECTOR </speaker>
             <l xml:id="ftln-3366" n="5.4.28">What art thou, Greek? Art thou for Hector’s match? </l>
@@ -7985,17 +7448,11 @@
             <p xml:id="p-3371">
               <lb xml:id="ftln-3371" n="5.4.33"/>God-a-mercy, that thou wilt believe me! <lb xml:id="ftln-3372" n="5.4.34"/>But a plague break thy neck for frighting me! <lb xml:id="ftln-3373" n="5.4.35"/>What’s become of the wenching rogues? I think <lb xml:id="ftln-3374" n="5.4.36"/>they have swallowed one another. I would laugh at <lb xml:id="ftln-3375" n="5.4.37"/>that miracle— yet, in a sort, lechery eats itself. I’ll <lb xml:id="ftln-3376" n="5.4.38"/>seek them. </p>
           </sp>
-          <stage xml:id="stg-3376.1"
-                      n="SD 5.4.38.1"
-                      type="exit"
-                      who="#Thersites_Tro">He exits. </stage>
+          <stage xml:id="stg-3376.1" n="SD 5.4.38.1" type="exit" who="#Thersites_Tro">He exits. </stage>
         </div>
         <div type="scene" n="5">
           <head>Scene 5 </head>
-          <stage xml:id="stg-3376.2"
-                      n="SD 5.5.0"
-                      type="entrance"
-                      who="#Diomedes_Tro #SERVANTS.DIOMEDES.1_Tro">Enter Diomedes and Servingman. </stage>
+          <stage xml:id="stg-3376.2" n="SD 5.5.0" type="entrance" who="#Diomedes_Tro #SERVANTS.DIOMEDES.1_Tro">Enter Diomedes and Servingman. </stage>
           <sp xml:id="sp-3377" who="#Diomedes_Tro">
             <speaker xml:id="spk-3377">DIOMEDES </speaker>
             <l xml:id="ftln-3377" n="5.5.1">Go, go, my servant, take thou Troilus’ horse; </l>
@@ -8008,14 +7465,8 @@
             <speaker xml:id="spk-3382">MAN </speaker>
             <l xml:id="ftln-3382" n="5.5.6" part="F">I go, my lord. </l>
           </sp>
-          <stage xml:id="stg-3382"
-                      n="SD 5.5.6"
-                      type="exit"
-                      who="#SERVANTS.DIOMEDES.1_Tro">He exits. </stage>
-          <stage xml:id="stg-3382.1"
-                      n="SD 5.5.6.1"
-                      type="entrance"
-                      who="#Agamemnon_Tro">Enter Agamemnon. </stage>
+          <stage xml:id="stg-3382" n="SD 5.5.6" type="exit" who="#SERVANTS.DIOMEDES.1_Tro">He exits. </stage>
+          <stage xml:id="stg-3382.1" n="SD 5.5.6.1" type="entrance" who="#Agamemnon_Tro">Enter Agamemnon. </stage>
           <sp xml:id="sp-3383" who="#Agamemnon_Tro">
             <speaker xml:id="spk-3383">AGAMEMNON </speaker>
             <l xml:id="ftln-3383" n="5.5.7">Renew, renew! The fierce Polydamas </l>
@@ -8030,18 +7481,12 @@
             <l xml:id="ftln-3392" n="5.5.16">Appals our numbers. Haste we, Diomed, </l>
             <l xml:id="ftln-3393" n="5.5.17">To reinforcement, or we perish all. </l>
           </sp>
-          <stage xml:id="stg-3393.1"
-                      n="SD 5.5.17.1"
-                      type="entrance"
-                      who="#Nestor_Tro #SOLDIERS.GREEK_Tro #Patroclus_Tro">Enter Nestor, with Soldiers bearing the body of Patroclus. </stage>
+          <stage xml:id="stg-3393.1" n="SD 5.5.17.1" type="entrance" who="#Nestor_Tro #SOLDIERS.GREEK_Tro #Patroclus_Tro">Enter Nestor, with Soldiers bearing the body of Patroclus. </stage>
           <sp xml:id="sp-3394" who="#Nestor_Tro">
             <speaker xml:id="spk-3394">NESTOR </speaker>
             <l xml:id="ftln-3394" n="5.5.18">Go, bear Patroclus’ body to Achilles, </l>
             <l xml:id="ftln-3395" n="5.5.19">And bid the snail-paced Ajax arm for shame. </l>
-            <stage xml:id="stg-3395.1"
-                         n="SD 5.5.19.1"
-                         type="exit"
-                         who="#SOLDIERS.GREEK_Tro #Patroclus_Tro">Soldiers exit with Patroclus’s body. </stage>
+            <stage xml:id="stg-3395.1" n="SD 5.5.19.1" type="exit" who="#SOLDIERS.GREEK_Tro #Patroclus_Tro">Soldiers exit with Patroclus’s body. </stage>
             <l xml:id="ftln-3396" n="5.5.20">There is a thousand Hectors in the field. </l>
             <l xml:id="ftln-3397" n="5.5.21">Now here he fights on Galathe his horse, </l>
             <l xml:id="ftln-3398" n="5.5.22">And here lacks work; anon he’s there afoot </l>
@@ -8054,10 +7499,7 @@
             <l xml:id="ftln-3405" n="5.5.29">That what he will he does, and does so much </l>
             <l xml:id="ftln-3406" n="5.5.30">That proof is called impossibility. </l>
           </sp>
-          <stage xml:id="stg-3406.1"
-                      n="SD 5.5.30.1"
-                      type="entrance"
-                      who="#Ulysses_Tro">Enter Ulysses. </stage>
+          <stage xml:id="stg-3406.1" n="SD 5.5.30.1" type="entrance" who="#Ulysses_Tro">Enter Ulysses. </stage>
           <sp xml:id="sp-3407" who="#Ulysses_Tro">
             <speaker xml:id="spk-3407">ULYSSES </speaker>
             <l xml:id="ftln-3407" n="5.5.31">O, courage, courage, princes! Great Achilles </l>
@@ -8074,10 +7516,7 @@
             <l xml:id="ftln-3419" n="5.5.43">As if that luck, in very spite of cunning, </l>
             <l xml:id="ftln-3420" n="5.5.44" ana="#short">Bade him win all. </l>
           </sp>
-          <stage xml:id="stg-3420.1"
-                      n="SD 5.5.44.1"
-                      type="entrance"
-                      who="#Ajax_Tro">Enter Ajax. </stage>
+          <stage xml:id="stg-3420.1" n="SD 5.5.44.1" type="entrance" who="#Ajax_Tro">Enter Ajax. </stage>
           <sp xml:id="sp-3421" who="#Ajax_Tro">
             <speaker xml:id="spk-3421">AJAX </speaker>
             <l xml:id="ftln-3421" n="5.5.45" ana="#short">Troilus, thou coward Troilus! </l>
@@ -8092,10 +7531,7 @@
             <speaker xml:id="spk-3423">NESTOR </speaker>
             <l xml:id="ftln-3423" n="5.5.47" ana="#short">So, so, we draw together. </l>
           </sp>
-          <stage xml:id="stg-3423.1"
-                      n="SD 5.5.47.1"
-                      type="entrance"
-                      who="#Achilles_Tro">Enter Achilles. </stage>
+          <stage xml:id="stg-3423.1" n="SD 5.5.47.1" type="entrance" who="#Achilles_Tro">Enter Achilles. </stage>
           <sp xml:id="sp-3424" who="#Achilles_Tro">
             <speaker xml:id="spk-3424">ACHILLES </speaker>
             <l xml:id="ftln-3424" n="5.5.48" ana="#short">Where is this Hector?— </l>
@@ -8103,25 +7539,16 @@
             <l xml:id="ftln-3426" n="5.5.50">Know what it is to meet Achilles angry. </l>
             <l xml:id="ftln-3427" n="5.5.51">Hector! Where’s Hector? I will none but Hector. </l>
           </sp>
-          <stage xml:id="stg-3427.1"
-                      n="SD 5.5.51.1"
-                      type="exit"
-                      who="#Achilles_Tro #Agamemnon_Tro #Nestor_Tro #Ulysses_Tro">He exits, with the others. </stage>
+          <stage xml:id="stg-3427.1" n="SD 5.5.51.1" type="exit" who="#Achilles_Tro #Agamemnon_Tro #Nestor_Tro #Ulysses_Tro">He exits, with the others. </stage>
         </div>
         <div type="scene" n="6">
           <head>Scene 6 </head>
-          <stage xml:id="stg-3427.2"
-                      n="SD 5.6.0"
-                      type="entrance"
-                      who="#Ajax_Tro">Enter Ajax. </stage>
+          <stage xml:id="stg-3427.2" n="SD 5.6.0" type="entrance" who="#Ajax_Tro">Enter Ajax. </stage>
           <sp xml:id="sp-3428" who="#Ajax_Tro">
             <speaker xml:id="spk-3428">AJAX </speaker>
             <l xml:id="ftln-3428" n="5.6.1">Troilus, thou coward Troilus, show thy head! </l>
           </sp>
-          <stage xml:id="stg-3428.1"
-                      n="SD 5.6.1.1"
-                      type="entrance"
-                      who="#Diomedes_Tro">Enter Diomedes. </stage>
+          <stage xml:id="stg-3428.1" n="SD 5.6.1.1" type="entrance" who="#Diomedes_Tro">Enter Diomedes. </stage>
           <sp xml:id="sp-3429" who="#Diomedes_Tro">
             <speaker xml:id="spk-3429">DIOMEDES </speaker>
             <l xml:id="ftln-3429" n="5.6.2" ana="#short">Troilus, I say! Where’s Troilus? </l>
@@ -8139,10 +7566,7 @@
             <l xml:id="ftln-3432" n="5.6.5">Were I the General, thou shouldst have my office </l>
             <l xml:id="ftln-3433" n="5.6.6">Ere that correction.— Troilus, I say! What, Troilus! </l>
           </sp>
-          <stage xml:id="stg-3433.1"
-                      n="SD 5.6.6.1"
-                      type="entrance"
-                      who="#Troilus_Tro">Enter Troilus. </stage>
+          <stage xml:id="stg-3433.1" n="SD 5.6.6.1" type="entrance" who="#Troilus_Tro">Enter Troilus. </stage>
           <sp xml:id="sp-3434" who="#Troilus_Tro">
             <speaker xml:id="spk-3434">TROILUS </speaker>
             <l xml:id="ftln-3434" n="5.6.7">O traitor Diomed! Turn thy false face, thou traitor, </l>
@@ -8164,30 +7588,18 @@
             <speaker xml:id="spk-3439">TROILUS </speaker>
             <l xml:id="ftln-3439" n="5.6.12">Come, both you cogging Greeks. Have at you both! </l>
           </sp>
-          <stage xml:id="stg-3439.1"
-                      n="SD 5.6.12.1"
-                      type="entrance"
-                      who="#Hector_Tro">Enter Hector. </stage>
-          <stage xml:id="stg-3439.2"
-                      n="SD 5.6.12.2"
-                      type="exit"
-                      who="#Troilus_Tro #Diomedes_Tro #Ajax_Tro">Troilus exits, fighting Diomedes and Ajax. </stage>
+          <stage xml:id="stg-3439.1" n="SD 5.6.12.1" type="entrance" who="#Hector_Tro">Enter Hector. </stage>
+          <stage xml:id="stg-3439.2" n="SD 5.6.12.2" type="exit" who="#Troilus_Tro #Diomedes_Tro #Ajax_Tro">Troilus exits, fighting Diomedes and Ajax. </stage>
           <sp xml:id="sp-3440" who="#Hector_Tro">
             <speaker xml:id="spk-3440">HECTOR </speaker>
             <l xml:id="ftln-3440" n="5.6.13">Yea, Troilus? O, well fought, my youngest brother! </l>
           </sp>
-          <stage xml:id="stg-3440.1"
-                      n="SD 5.6.13.1"
-                      type="entrance"
-                      who="#Achilles_Tro">Enter Achilles. </stage>
+          <stage xml:id="stg-3440.1" n="SD 5.6.13.1" type="entrance" who="#Achilles_Tro">Enter Achilles. </stage>
           <sp xml:id="sp-3441" who="#Achilles_Tro">
             <speaker xml:id="spk-3441">ACHILLES </speaker>
             <l xml:id="ftln-3441" n="5.6.14">Now do I see thee. Ha! Have at thee, Hector! </l>
           </sp>
-          <stage xml:id="stg-3441.1"
-                      n="SD 5.6.14.1"
-                      type="business"
-                      who="#Achilles_Tro #Hector_Tro">They fight. </stage>
+          <stage xml:id="stg-3441.1" n="SD 5.6.14.1" type="business" who="#Achilles_Tro #Hector_Tro">They fight. </stage>
           <sp xml:id="sp-3442" who="#Hector_Tro">
             <speaker xml:id="spk-3442">HECTOR </speaker>
             <l xml:id="ftln-3442" n="5.6.15" ana="#short">Pause if thou wilt. </l>
@@ -8206,10 +7618,7 @@
             <l xml:id="ftln-3448" n="5.6.21" part="F">Fare thee well. </l>
             <l xml:id="ftln-3449" n="5.6.22">I would have been much more a fresher man </l>
             <l xml:id="ftln-3450" n="5.6.23" part="I">Had I expected thee. </l>
-            <stage xml:id="stg-3450.1"
-                         n="SD 5.6.23.1"
-                         type="entrance"
-                         who="#Troilus_Tro">Enter Troilus. </stage>
+            <stage xml:id="stg-3450.1" n="SD 5.6.23.1" type="entrance" who="#Troilus_Tro">Enter Troilus. </stage>
             <l xml:id="ftln-3451" n="5.6.24" part="F">How now, my brother? </l>
           </sp>
           <sp xml:id="sp-3452" who="#Troilus_Tro">
@@ -8220,38 +7629,23 @@
             <l xml:id="ftln-3455" n="5.6.28">Or bring him off. Fate, hear me what I say! </l>
             <l xml:id="ftln-3456" n="5.6.29">I reck not though I end my life today. </l>
           </sp>
-          <stage xml:id="stg-3456.1"
-                      n="SD 5.6.29.1"
-                      type="exit"
-                      who="#Troilus_Tro">He exits. </stage>
-          <stage xml:id="stg-3456.2"
-                      n="SD 5.6.29.2"
-                      type="entrance"
-                      who="#SOLDIERS.GREEK.1_Tro">Enter one in Greek armor. </stage>
+          <stage xml:id="stg-3456.1" n="SD 5.6.29.1" type="exit" who="#Troilus_Tro">He exits. </stage>
+          <stage xml:id="stg-3456.2" n="SD 5.6.29.2" type="entrance" who="#SOLDIERS.GREEK.1_Tro">Enter one in Greek armor. </stage>
           <sp xml:id="sp-3457" who="#Hector_Tro">
             <speaker xml:id="spk-3457">HECTOR </speaker>
             <l xml:id="ftln-3457" n="5.6.30">Stand, stand, thou Greek! Thou art a goodly mark. </l>
             <l xml:id="ftln-3458" n="5.6.31">No? Wilt thou not? I like thy armor well. </l>
             <l xml:id="ftln-3459" n="5.6.32">I’ll frush it and unlock the rivets all, </l>
             <l xml:id="ftln-3460" n="5.6.33" part="I">But I’ll be master of it. </l>
-            <stage xml:id="stg-3460"
-                         n="SD 5.6.33"
-                         type="exit"
-                         who="#SOLDIERS.GREEK.1_Tro">The Greek exits. </stage>
+            <stage xml:id="stg-3460" n="SD 5.6.33" type="exit" who="#SOLDIERS.GREEK.1_Tro">The Greek exits. </stage>
             <l xml:id="ftln-3461" n="5.6.34" part="F">Wilt thou not, beast, abide? </l>
             <l xml:id="ftln-3462" n="5.6.35">Why then, fly on. I’ll hunt thee for thy hide. </l>
           </sp>
-          <stage xml:id="stg-3462.1"
-                      n="SD 5.6.35.1"
-                      type="exit"
-                      who="#Hector_Tro">He exits. </stage>
+          <stage xml:id="stg-3462.1" n="SD 5.6.35.1" type="exit" who="#Hector_Tro">He exits. </stage>
         </div>
         <div type="scene" n="7">
           <head>Scene 7 </head>
-          <stage xml:id="stg-3462.2"
-                      n="SD 5.7.0"
-                      type="entrance"
-                      who="#Achilles_Tro #MYRMIDONS_Tro">Enter Achilles, with Myrmidons. </stage>
+          <stage xml:id="stg-3462.2" n="SD 5.7.0" type="entrance" who="#Achilles_Tro #MYRMIDONS_Tro">Enter Achilles, with Myrmidons. </stage>
           <sp xml:id="sp-3463" who="#Achilles_Tro">
             <speaker xml:id="spk-3463">ACHILLES </speaker>
             <l xml:id="ftln-3463" n="5.7.1">Come here about me, you my Myrmidons. </l>
@@ -8263,30 +7657,18 @@
             <l xml:id="ftln-3469" n="5.7.7">Follow me, sirs, and my proceedings eye. </l>
             <l xml:id="ftln-3470" n="5.7.8">It is decreed Hector the great must die. </l>
           </sp>
-          <stage xml:id="stg-3470.1"
-                      n="SD 5.7.8.1"
-                      type="exit"
-                      who="#Achilles_Tro #MYRMIDONS_Tro">They exit. </stage>
+          <stage xml:id="stg-3470.1" n="SD 5.7.8.1" type="exit" who="#Achilles_Tro #MYRMIDONS_Tro">They exit. </stage>
         </div>
         <div type="scene" n="8">
           <head>Scene 8 </head>
-          <stage xml:id="stg-3470.2"
-                      n="SD 5.8.0"
-                      type="entrance"
-                      who="#Thersites_Tro #Menelaus_Tro #Paris_Tro">Enter Thersites; then Menelaus fighting Paris. </stage>
+          <stage xml:id="stg-3470.2" n="SD 5.8.0" type="entrance" who="#Thersites_Tro #Menelaus_Tro #Paris_Tro">Enter Thersites; then Menelaus fighting Paris. </stage>
           <sp xml:id="sp-3471" who="#Thersites_Tro">
             <speaker xml:id="spk-3471">THERSITES </speaker>
             <p xml:id="p-3471">
               <lb xml:id="ftln-3471" n="5.8.1"/>The cuckold and the cuckold-maker are at <lb xml:id="ftln-3472" n="5.8.2"/>it. Now, bull! Now, dog! Loo, Paris, loo! Now, my <lb xml:id="ftln-3473" n="5.8.3"/>double-horned Spartan! Loo, Paris, loo! The bull <lb xml:id="ftln-3474" n="5.8.4"/>has the game. Ware horns, ho! </p>
           </sp>
-          <stage xml:id="stg-3474.1"
-                      n="SD 5.8.4.1"
-                      type="exit"
-                      who="#Paris_Tro #Menelaus_Tro">Paris and Menelaus exit, fighting. </stage>
-          <stage xml:id="stg-3474.2"
-                      n="SD 5.8.4.2"
-                      type="entrance"
-                      who="#Bastard_Tro">Enter Bastard. </stage>
+          <stage xml:id="stg-3474.1" n="SD 5.8.4.1" type="exit" who="#Paris_Tro #Menelaus_Tro">Paris and Menelaus exit, fighting. </stage>
+          <stage xml:id="stg-3474.2" n="SD 5.8.4.2" type="entrance" who="#Bastard_Tro">Enter Bastard. </stage>
           <sp xml:id="sp-3475" who="#Bastard_Tro">
             <speaker xml:id="spk-3475">BASTARD </speaker>
             <p xml:id="p-3475">
@@ -8307,26 +7689,17 @@
             <p xml:id="p-3478">
               <lb xml:id="ftln-3478" n="5.8.8"/>I am a bastard too. I love bastards. I am <lb xml:id="ftln-3479" n="5.8.9"/>bastard begot, bastard instructed, bastard in mind, <lb xml:id="ftln-3480" n="5.8.10"/>bastard in valor, in everything illegitimate. One <lb xml:id="ftln-3481" n="5.8.11"/>bear will not bite another, and wherefore should <lb xml:id="ftln-3482" n="5.8.12"/>one bastard? Take heed: the quarrel’s most ominous <lb xml:id="ftln-3483" n="5.8.13"/>to us. If the son of a whore fight for a whore, <lb xml:id="ftln-3484" n="5.8.14"/>he tempts judgment. Farewell, bastard. </p>
           </sp>
-          <stage xml:id="stg-3484"
-                      n="SD 5.8.14"
-                      type="exit"
-                      who="#Thersites_Tro">He exits. </stage>
+          <stage xml:id="stg-3484" n="SD 5.8.14" type="exit" who="#Thersites_Tro">He exits. </stage>
           <sp xml:id="sp-3485" who="#Bastard_Tro">
             <speaker xml:id="spk-3485">BASTARD </speaker>
             <p xml:id="p-3485">
               <lb xml:id="ftln-3485" n="5.8.15"/>The devil take thee, coward! </p>
           </sp>
-          <stage xml:id="stg-3485.1"
-                      n="SD 5.8.15.1"
-                      type="exit"
-                      who="#Bastard_Tro">He exits. </stage>
+          <stage xml:id="stg-3485.1" n="SD 5.8.15.1" type="exit" who="#Bastard_Tro">He exits. </stage>
         </div>
         <div type="scene" n="9">
           <head>Scene 9 </head>
-          <stage xml:id="stg-3485.2"
-                      n="SD 5.9.0"
-                      type="entrance"
-                      who="#Hector_Tro #SOLDIERS.GREEK.1_Tro">Enter Hector, with the body of the Greek in armor. </stage>
+          <stage xml:id="stg-3485.2" n="SD 5.9.0" type="entrance" who="#Hector_Tro #SOLDIERS.GREEK.1_Tro">Enter Hector, with the body of the Greek in armor. </stage>
           <sp xml:id="sp-3486" who="#Hector_Tro">
             <speaker xml:id="spk-3486">HECTOR </speaker>
             <l xml:id="ftln-3486" n="5.9.1">Most putrefied core, so fair without, </l>
@@ -8334,14 +7707,8 @@
             <l xml:id="ftln-3488" n="5.9.3">Now is my day’s work done. I’ll take my breath. </l>
             <l xml:id="ftln-3489" n="5.9.4">Rest, sword; thou hast thy fill of blood and death. </l>
           </sp>
-          <stage xml:id="stg-3489.1"
-                      n="SD 5.9.4.1"
-                      type="business"
-                      who="#Hector_Tro">He begins to disarm. </stage>
-          <stage xml:id="stg-3489.2"
-                      n="SD 5.9.4.2"
-                      type="entrance"
-                      who="#Achilles_Tro #MYRMIDONS_Tro">Enter Achilles and his Myrmidons. </stage>
+          <stage xml:id="stg-3489.1" n="SD 5.9.4.1" type="business" who="#Hector_Tro">He begins to disarm. </stage>
+          <stage xml:id="stg-3489.2" n="SD 5.9.4.2" type="entrance" who="#Achilles_Tro #MYRMIDONS_Tro">Enter Achilles and his Myrmidons. </stage>
           <sp xml:id="sp-3490" who="#Achilles_Tro">
             <speaker xml:id="spk-3490">ACHILLES </speaker>
             <l xml:id="ftln-3490" n="5.9.5">Look, Hector, how the sun begins to set, </l>
@@ -8356,10 +7723,7 @@
           <sp xml:id="sp-3495" who="#Achilles_Tro">
             <speaker xml:id="spk-3495">ACHILLES </speaker>
             <l xml:id="ftln-3495" n="5.9.10">Strike, fellows, strike! This is the man I seek. </l>
-            <stage xml:id="stg-3495.1"
-                         n="SD 5.9.10.1"
-                         type="business"
-                         who="#MYRMIDONS_Tro #Hector_Tro">The Myrmidons kill Hector. </stage>
+            <stage xml:id="stg-3495.1" n="SD 5.9.10.1" type="business" who="#MYRMIDONS_Tro #Hector_Tro">The Myrmidons kill Hector. </stage>
             <l xml:id="ftln-3496" n="5.9.11">So, Ilium, fall thou next! Come, Troy, sink down! </l>
             <l xml:id="ftln-3497" n="5.9.12">Here lies thy heart, thy sinews, and thy bone. </l>
             <l xml:id="ftln-3498" n="5.9.13">On, Myrmidons, and cry you all amain </l>
@@ -8379,29 +7743,17 @@
             <l xml:id="ftln-3503" n="5.9.18">And, stickler-like, the armies separates. </l>
             <l xml:id="ftln-3504" n="5.9.19">My half-supped sword, that frankly would have fed, </l>
             <l xml:id="ftln-3505" n="5.9.20">Pleased with this dainty bait, thus goes to bed. </l>
-            <stage xml:id="stg-3505.1"
-                         n="SD 5.9.20.1"
-                         type="business"
-                         who="#Achilles_Tro">He sheathes his sword. </stage>
+            <stage xml:id="stg-3505.1" n="SD 5.9.20.1" type="business" who="#Achilles_Tro">He sheathes his sword. </stage>
             <l xml:id="ftln-3506" n="5.9.21">Come, tie his body to my horse’s tail; </l>
             <l xml:id="ftln-3507" n="5.9.22">Along the field I will the Trojan trail. </l>
           </sp>
-          <stage xml:id="stg-3507.1"
-                      n="SD 5.9.22.1"
-                      type="exit"
-                      who="#Achilles_Tro #MYRMIDONS_Tro #Hector_Tro #SOLDIERS.GREEK.1_Tro">They exit with the bodies. </stage>
+          <stage xml:id="stg-3507.1" n="SD 5.9.22.1" type="exit" who="#Achilles_Tro #MYRMIDONS_Tro #Hector_Tro #SOLDIERS.GREEK.1_Tro">They exit with the bodies. </stage>
         </div>
         <div type="scene" n="10">
           <head>Scene 10 </head>
           <stage xml:id="stg-3507.2" n="SD 5.10.0" type="mixed">
-            <stage xml:id="stg-3507.2a"
-                         n="SD 5.10.0"
-                         type="entrance"
-                         who="#Agamemnon_Tro #Ajax_Tro #Menelaus_Tro #Nestor_Tro #Diomedes_Tro #SOLDIERS.GREEK_Tro">
-              <stage xml:id="snd-3507.2a" n="SD 5.10.0" type="sound" ana="retreat">Sound retreat. </stage> Enter Agamemnon, Ajax, Menelaus, Nestor, Diomedes, and the rest, <stage xml:id="snd-3507.2b"
-                            n="SD 5.10.0"
-                            type="sound"
-                            ana="march drum">marching to the beat of drums</stage>. </stage>
+            <stage xml:id="stg-3507.2a" n="SD 5.10.0" type="entrance" who="#Agamemnon_Tro #Ajax_Tro #Menelaus_Tro #Nestor_Tro #Diomedes_Tro #SOLDIERS.GREEK_Tro">
+              <stage xml:id="snd-3507.2a" n="SD 5.10.0" type="sound" ana="retreat">Sound retreat. </stage> Enter Agamemnon, Ajax, Menelaus, Nestor, Diomedes, and the rest, <stage xml:id="snd-3507.2b" n="SD 5.10.0" type="sound" ana="march drum">marching to the beat of drums</stage>. </stage>
             <stage xml:id="stg-3507.2b" n="SD 5.10.0" type="business">Shout within. </stage>
           </stage>
           <sp xml:id="sp-3508" who="#Agamemnon_Tro">
@@ -8436,32 +7788,22 @@
             <l xml:id="ftln-3516" n="5.10.9">If in his death the gods have us befriended, </l>
             <l xml:id="ftln-3517" n="5.10.10">Great Troy is ours, and our sharp wars are ended. </l>
           </sp>
-          <stage xml:id="stg-3517.1"
-                      n="SD 5.10.10.1"
-                      type="exit"
-                      who="#Agamemnon_Tro #Ajax_Tro #Menelaus_Tro #Nestor_Tro #Diomedes_Tro #SOLDIERS.GREEK_Tro">They exit, marching. </stage>
+          <stage xml:id="stg-3517.1" n="SD 5.10.10.1" type="exit" who="#Agamemnon_Tro #Ajax_Tro #Menelaus_Tro #Nestor_Tro #Diomedes_Tro #SOLDIERS.GREEK_Tro">They exit, marching. </stage>
         </div>
         <div type="scene" n="11">
           <head>Scene 11 </head>
-          <stage xml:id="stg-3517.2"
-                      n="SD 5.11.0"
-                      type="entrance"
-                      who="#Aeneas_Tro #Paris_Tro #Antenor_Tro #Deiphobus_Tro #SOLDIERS.TROJAN_Tro">Enter Aeneas, Paris, Antenor, Deiphobus, and Trojan soldiers. </stage>
+          <stage xml:id="stg-3517.2" n="SD 5.11.0" type="entrance" who="#Aeneas_Tro #Paris_Tro #Antenor_Tro #Deiphobus_Tro #SOLDIERS.TROJAN_Tro">Enter Aeneas, Paris, Antenor, Deiphobus, and Trojan soldiers. </stage>
           <sp xml:id="sp-3518" who="#Aeneas_Tro">
             <speaker xml:id="spk-3518">AENEAS </speaker>
             <l xml:id="ftln-3518" n="5.11.1">Stand, ho! Yet are we masters of the field. </l>
             <l xml:id="ftln-3519" n="5.11.2">Never go home; here starve we out the night. </l>
           </sp>
-          <stage xml:id="stg-3519.1"
-                      n="SD 5.11.2.1"
-                      type="entrance"
-                      who="#Troilus_Tro">Enter Troilus. </stage>
+          <stage xml:id="stg-3519.1" n="SD 5.11.2.1" type="entrance" who="#Troilus_Tro">Enter Troilus. </stage>
           <sp xml:id="sp-3520" who="#Troilus_Tro">
             <speaker xml:id="spk-3520">TROILUS </speaker>
             <l xml:id="ftln-3520" n="5.11.3" part="I">Hector is slain. </l>
           </sp>
-          <sp xml:id="sp-3521"
-                   who="#Aeneas_Tro #Paris_Tro #Antenor_Tro #Deiphobus_Tro #SOLDIERS.TROJAN_Tro">
+          <sp xml:id="sp-3521" who="#Aeneas_Tro #Paris_Tro #Antenor_Tro #Deiphobus_Tro #SOLDIERS.TROJAN_Tro">
             <speaker xml:id="spk-3521">ALL </speaker>
             <l xml:id="ftln-3521" n="5.11.4" part="F">Hector! The gods forbid! </l>
           </sp>
@@ -8502,10 +7844,7 @@
             <l xml:id="ftln-3549" n="5.11.32">Strike a free march to Troy! With comfort go. </l>
             <l xml:id="ftln-3550" n="5.11.33">Hope of revenge shall hide our inward woe. </l>
           </sp>
-          <stage xml:id="stg-3550.1"
-                      n="SD 5.11.33.1"
-                      type="entrance"
-                      who="#Pandarus_Tro">Enter Pandarus. </stage>
+          <stage xml:id="stg-3550.1" n="SD 5.11.33.1" type="entrance" who="#Pandarus_Tro">Enter Pandarus. </stage>
           <sp xml:id="sp-3551" who="#Pandarus_Tro">
             <speaker xml:id="spk-3551">PANDARUS </speaker>
             <p xml:id="p-3551">
@@ -8516,10 +7855,7 @@
             <l xml:id="ftln-3552" n="5.11.35">Hence, broker, lackey! Ignomy and shame </l>
             <l xml:id="ftln-3553" n="5.11.36">Pursue thy life, and live aye with thy name! </l>
           </sp>
-          <stage xml:id="stg-3553.1"
-                      n="SD 5.11.36.1"
-                      type="exit"
-                      who="#Troilus_Tro #Aeneas_Tro #Paris_Tro #Antenor_Tro #Deiphobus_Tro #SOLDIERS.TROJAN_Tro">All but Pandarus exit. </stage>
+          <stage xml:id="stg-3553.1" n="SD 5.11.36.1" type="exit" who="#Troilus_Tro #Aeneas_Tro #Paris_Tro #Antenor_Tro #Deiphobus_Tro #SOLDIERS.TROJAN_Tro">All but Pandarus exit. </stage>
           <sp xml:id="sp-3554" who="#Pandarus_Tro">
             <speaker xml:id="spk-3554">PANDARUS </speaker>
             <p xml:id="p-3554">
@@ -8541,10 +7877,7 @@
             <l xml:id="ftln-3575" n="5.11.58">Till then I’ll sweat and seek about for eases, </l>
             <l xml:id="ftln-3576" n="5.11.59">And at that time bequeath you my diseases. </l>
           </sp>
-          <stage xml:id="stg-3576.1"
-                      n="SD 5.11.59.1"
-                      type="exit"
-                      who="#Pandarus_Tro">He exits. </stage>
+          <stage xml:id="stg-3576.1" n="SD 5.11.59.1" type="exit" who="#Pandarus_Tro">He exits. </stage>
         </div>
       </div>
     </body>

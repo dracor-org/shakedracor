@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shake000002">
   <teiHeader>
     <fileDesc>
@@ -161,9 +162,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/shake000002"
-                   passive="http://www.wikidata.org/entity/Q232042"/>
+      <relation name="wikidata" active="https://dracor.org/entity/shake000002" passive="http://www.wikidata.org/entity/Q232042"/>
     </listRelation>
   </standOff>
   <text>
@@ -283,10 +282,7 @@
         <head>ACT 1 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-0000"
-                      n="SD 1.1.0"
-                      type="entrance"
-                      who="#Valentine_TGV #Proteus_TGV">Enter Valentine and Proteus. </stage>
+          <stage xml:id="stg-0000" n="SD 1.1.0" type="entrance" who="#Valentine_TGV #Proteus_TGV">Enter Valentine and Proteus. </stage>
           <sp xml:id="sp-0001" who="#Valentine_TGV">
             <speaker xml:id="spk-0001">VALENTINE </speaker>
             <l xml:id="ftln-0001" n="1.1.1">Cease to persuade, my loving Proteus. </l>
@@ -413,10 +409,7 @@
             <speaker xml:id="spk-0064">VALENTINE </speaker>
             <l xml:id="ftln-0064" n="1.1.64">As much to you at home. And so farewell. </l>
           </sp>
-          <stage xml:id="stg-0064"
-                      n="SD 1.1.64"
-                      type="exit"
-                      who="#Valentine_TGV">He exits. </stage>
+          <stage xml:id="stg-0064" n="SD 1.1.64" type="exit" who="#Valentine_TGV">He exits. </stage>
           <sp xml:id="sp-0065" who="#Proteus_TGV">
             <speaker xml:id="spk-0065">PROTEUS </speaker>
             <l xml:id="ftln-0065" n="1.1.65">He after honor hunts, I after love. </l>
@@ -427,10 +420,7 @@
             <l xml:id="ftln-0070" n="1.1.70">War with good counsel, set the world at nought; </l>
             <l xml:id="ftln-0071" n="1.1.71">Made wit with musing weak, heart sick with thought. </l>
           </sp>
-          <stage xml:id="stg-0071.1"
-                      n="SD 1.1.71.1"
-                      type="entrance"
-                      who="#Speed_TGV">Enter Speed. </stage>
+          <stage xml:id="stg-0071.1" n="SD 1.1.71.1" type="entrance" who="#Speed_TGV">Enter Speed. </stage>
           <sp xml:id="sp-0072" who="#Speed_TGV">
             <speaker xml:id="spk-0072">SPEED </speaker>
             <l xml:id="ftln-0072" n="1.1.72">Sir Proteus, ’save you. Saw you my master? </l>
@@ -551,10 +541,7 @@
           </sp>
           <sp xml:id="sp-0114" who="#Speed_TGV">
             <speaker xml:id="spk-0114">SPEED </speaker>
-            <stage xml:id="stg-0114"
-                         n="SD 1.1.114"
-                         type="business"
-                         who="#Speed_TGV">, nodding </stage>
+            <stage xml:id="stg-0114" n="SD 1.1.114" type="business" who="#Speed_TGV">, nodding </stage>
             <p xml:id="p-0114">
               <lb xml:id="ftln-0114" n="1.1.114"/>Ay. </p>
           </sp>
@@ -620,19 +607,13 @@
           </sp>
           <sp xml:id="sp-0132" who="#Proteus_TGV">
             <speaker xml:id="spk-0132">PROTEUS </speaker>
-            <stage xml:id="stg-0132"
-                         n="SD 1.1.132"
-                         type="business"
-                         who="#Proteus_TGV #Speed_TGV">, giving money </stage>
+            <stage xml:id="stg-0132" n="SD 1.1.132" type="business" who="#Proteus_TGV #Speed_TGV">, giving money </stage>
             <p xml:id="p-0132">
               <lb xml:id="ftln-0132" n="1.1.132"/>Well, sir, here is for your <lb xml:id="ftln-0133" n="1.1.133"/>pains. What said she? </p>
           </sp>
           <sp xml:id="sp-0134" who="#Speed_TGV">
             <speaker xml:id="spk-0134">SPEED </speaker>
-            <stage xml:id="stg-0134"
-                         n="SD 1.1.134"
-                         type="business"
-                         who="#Speed_TGV">, looking at the money </stage>
+            <stage xml:id="stg-0134" n="SD 1.1.134" type="business" who="#Speed_TGV">, looking at the money </stage>
             <p xml:id="p-0134">
               <lb xml:id="ftln-0134" n="1.1.134"/>Truly, sir, I think you’ll <lb xml:id="ftln-0135" n="1.1.135"/>hardly win her. </p>
           </sp>
@@ -661,25 +642,16 @@
             <l xml:id="ftln-0150" n="1.1.150">Go, go, begone, to save your ship from wrack, </l>
             <l xml:id="ftln-0151" n="1.1.151">Which cannot perish having thee aboard, </l>
             <l xml:id="ftln-0152" n="1.1.152">Being destined to a drier death on shore. </l>
-            <stage xml:id="stg-0152.1"
-                         n="SD 1.1.152.1"
-                         type="exit"
-                         who="#Speed_TGV">Speed exits. </stage>
+            <stage xml:id="stg-0152.1" n="SD 1.1.152.1" type="exit" who="#Speed_TGV">Speed exits. </stage>
             <l xml:id="ftln-0153" n="1.1.153">I must go send some better messenger. </l>
             <l xml:id="ftln-0154" n="1.1.154">I fear my Julia would not deign my lines, </l>
             <l xml:id="ftln-0155" n="1.1.155">Receiving them from such a worthless post. </l>
           </sp>
-          <stage xml:id="stg-0155.1"
-                      n="SD 1.1.155.1"
-                      type="exit"
-                      who="#Proteus_TGV">He exits. </stage>
+          <stage xml:id="stg-0155.1" n="SD 1.1.155.1" type="exit" who="#Proteus_TGV">He exits. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-0155.2"
-                      n="SD 1.2.0"
-                      type="entrance"
-                      who="#Julia_TGV #Lucetta_TGV">Enter Julia and Lucetta. </stage>
+          <stage xml:id="stg-0155.2" n="SD 1.2.0" type="entrance" who="#Julia_TGV #Lucetta_TGV">Enter Julia and Lucetta. </stage>
           <sp xml:id="sp-0156" who="#Julia_TGV">
             <speaker xml:id="spk-0156">JULIA </speaker>
             <l xml:id="ftln-0156" n="1.2.1">But say, Lucetta, now we are alone, </l>
@@ -790,10 +762,7 @@
           </sp>
           <sp xml:id="sp-0189" who="#Lucetta_TGV">
             <speaker xml:id="spk-0189">LUCETTA </speaker>
-            <stage xml:id="stg-0189"
-                         n="SD 1.2.34"
-                         type="business"
-                         who="#Lucetta_TGV #Julia_TGV">, handing her a paper </stage>
+            <stage xml:id="stg-0189" n="SD 1.2.34" type="business" who="#Lucetta_TGV #Julia_TGV">, handing her a paper </stage>
             <l xml:id="ftln-0189" n="1.2.34" ana="#short" next="#ftln-0190">Peruse this paper, madam. </l>
           </sp>
           <sp xml:id="sp-0191" who="#Julia_TGV">
@@ -827,10 +796,7 @@
           </sp>
           <sp xml:id="sp-0205" who="#Lucetta_TGV">
             <speaker xml:id="spk-0205">LUCETTA </speaker>
-            <stage xml:id="stg-0205.0"
-                         n="SD 1.2.50.0"
-                         type="business"
-                         who="#Lucetta_TGV">, taking the paper </stage>
+            <stage xml:id="stg-0205.0" n="SD 1.2.50.0" type="business" who="#Lucetta_TGV">, taking the paper </stage>
             <l xml:id="ftln-0205" n="1.2.50">To plead for love deserves more fee than hate. </l>
           </sp>
           <sp xml:id="sp-0206" who="#Julia_TGV">
@@ -862,10 +828,7 @@
             <l xml:id="ftln-0223" n="1.2.68">And ask remission for my folly past.— </l>
             <l xml:id="ftln-0224" n="1.2.69" part="I">What ho, Lucetta! </l>
           </sp>
-          <stage xml:id="stg-0224.1"
-                      n="SD 1.2.69.1"
-                      type="entrance"
-                      who="#Lucetta_TGV">Enter Lucetta. </stage>
+          <stage xml:id="stg-0224.1" n="SD 1.2.69.1" type="entrance" who="#Lucetta_TGV">Enter Lucetta. </stage>
           <sp xml:id="sp-0225" who="#Lucetta_TGV">
             <speaker xml:id="spk-0225">LUCETTA </speaker>
             <l xml:id="ftln-0225" n="1.2.70" part="F">What would your Ladyship? </l>
@@ -880,10 +843,7 @@
             <l xml:id="ftln-0228" n="1.2.73">That you might kill your stomach on your meat </l>
             <l xml:id="ftln-0229" n="1.2.74" ana="#short">And not upon your maid. </l>
           </sp>
-          <stage xml:id="stg-0229.1"
-                      n="SD 1.2.74.1"
-                      type="business"
-                      who="#Lucetta_TGV">She drops a paper and then retrieves it. </stage>
+          <stage xml:id="stg-0229.1" n="SD 1.2.74.1" type="business" who="#Lucetta_TGV">She drops a paper and then retrieves it. </stage>
           <sp xml:id="sp-0230" who="#Julia_TGV">
             <speaker xml:id="spk-0230">JULIA </speaker>
             <l xml:id="ftln-0230" n="1.2.75">What is ’t that you took up so gingerly? </l>
@@ -953,10 +913,7 @@
           </sp>
           <sp xml:id="sp-0249" who="#Julia_TGV">
             <speaker xml:id="spk-0249">JULIA </speaker>
-            <stage xml:id="stg-0249.0"
-                         n="SD 1.2.94.0"
-                         type="business"
-                         who="#Julia_TGV">, taking the paper </stage>
+            <stage xml:id="stg-0249.0" n="SD 1.2.94.0" type="business" who="#Julia_TGV">, taking the paper </stage>
             <l xml:id="ftln-0249" n="1.2.94">Let’s see your song. How now, minion! </l>
           </sp>
           <sp xml:id="sp-0250" who="#Lucetta_TGV">
@@ -994,10 +951,7 @@
             <speaker xml:id="spk-0260">JULIA </speaker>
             <l xml:id="ftln-0260" n="1.2.105">This babble shall not henceforth trouble me. </l>
             <l xml:id="ftln-0261" n="1.2.106">Here is a coil with protestation. </l>
-            <stage xml:id="stg-0261.1"
-                         n="SD 1.2.106.1"
-                         type="business"
-                         who="#Julia_TGV #Lucetta_TGV">She rips up the paper. Lucetta begins to pick up the pieces. </stage>
+            <stage xml:id="stg-0261.1" n="SD 1.2.106.1" type="business" who="#Julia_TGV #Lucetta_TGV">She rips up the paper. Lucetta begins to pick up the pieces. </stage>
             <l xml:id="ftln-0262" n="1.2.107">Go, get you gone, and let the papers lie. </l>
             <l xml:id="ftln-0263" n="1.2.108">You would be fing’ring them to anger me. </l>
           </sp>
@@ -1014,10 +968,7 @@
             <l xml:id="ftln-0268" n="1.2.113">Injurious wasps, to feed on such sweet honey </l>
             <l xml:id="ftln-0269" n="1.2.114">And kill the bees that yield it with your stings! </l>
             <l xml:id="ftln-0270" n="1.2.115">I’ll kiss each several paper for amends. </l>
-            <stage xml:id="stg-0270.1"
-                         n="SD 1.2.115.1"
-                         type="business"
-                         who="#Julia_TGV">She picks up some pieces. </stage>
+            <stage xml:id="stg-0270.1" n="SD 1.2.115.1" type="business" who="#Julia_TGV">She picks up some pieces. </stage>
             <l xml:id="ftln-0271" n="1.2.116">Look, here is writ “ kind Julia.” Unkind Julia, </l>
             <l xml:id="ftln-0272" n="1.2.117">As in revenge of thy ingratitude, </l>
             <l xml:id="ftln-0273" n="1.2.118">I throw thy name against the bruising stones, </l>
@@ -1040,10 +991,7 @@
             <l xml:id="ftln-0290" n="1.2.135">Thus will I fold them one upon another. </l>
             <l xml:id="ftln-0291" n="1.2.136">Now kiss, embrace, contend, do what you will. </l>
           </sp>
-          <stage xml:id="stg-0291.1"
-                      n="SD 1.2.136.1"
-                      type="entrance"
-                      who="#Lucetta_TGV">Enter Lucetta. </stage>
+          <stage xml:id="stg-0291.1" n="SD 1.2.136.1" type="entrance" who="#Lucetta_TGV">Enter Lucetta. </stage>
           <sp xml:id="sp-0292" who="#Lucetta_TGV">
             <speaker xml:id="spk-0292">LUCETTA </speaker>
             <l xml:id="ftln-0292" n="1.2.137">Madam, dinner is ready, and your father stays. </l>
@@ -1065,10 +1013,7 @@
             <l xml:id="ftln-0296" n="1.2.141">Nay, I was taken up for laying them down. </l>
             <l xml:id="ftln-0297" n="1.2.142">Yet here they shall not lie, for catching cold. </l>
           </sp>
-          <stage xml:id="stg-0297.1"
-                      n="SD 1.2.142.1"
-                      type="business"
-                      who="#Lucetta_TGV">She picks up the rest of the pieces. </stage>
+          <stage xml:id="stg-0297.1" n="SD 1.2.142.1" type="business" who="#Lucetta_TGV">She picks up the rest of the pieces. </stage>
           <sp xml:id="sp-0298" who="#Julia_TGV">
             <speaker xml:id="spk-0298">JULIA </speaker>
             <l xml:id="ftln-0298" n="1.2.143">I see you have a month’s mind to them. </l>
@@ -1082,17 +1027,11 @@
             <speaker xml:id="spk-0301">JULIA </speaker>
             <l xml:id="ftln-0301" n="1.2.146" ana="#short">Come, come, will ’t please you go? </l>
           </sp>
-          <stage xml:id="stg-0301.1"
-                      n="SD 1.2.146.1"
-                      type="exit"
-                      who="#Julia_TGV #Lucetta_TGV">They exit. </stage>
+          <stage xml:id="stg-0301.1" n="SD 1.2.146.1" type="exit" who="#Julia_TGV #Lucetta_TGV">They exit. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-0301.2"
-                      n="SD 1.3.0"
-                      type="entrance"
-                      who="#Antonio_TGV #Pantino_TGV">Enter Antonio and Pantino. </stage>
+          <stage xml:id="stg-0301.2" n="SD 1.3.0" type="entrance" who="#Antonio_TGV #Pantino_TGV">Enter Antonio and Pantino. </stage>
           <sp xml:id="sp-0302" who="#Antonio_TGV">
             <speaker xml:id="spk-0302">ANTONIO </speaker>
             <l xml:id="ftln-0302" n="1.3.1">Tell me, Pantino, what sad talk was that </l>
@@ -1169,10 +1108,7 @@
           <sp xml:id="sp-0345" who="#Antonio_TGV">
             <speaker xml:id="spk-0345">ANTONIO </speaker>
             <l xml:id="ftln-0345" n="1.3.44">Good company. With them shall Proteus go. </l>
-            <stage xml:id="stg-0345.1"
-                         n="SD 1.3.44.1"
-                         type="entrance"
-                         who="#Proteus_TGV">Enter Proteus reading. </stage>
+            <stage xml:id="stg-0345.1" n="SD 1.3.44.1" type="entrance" who="#Proteus_TGV">Enter Proteus reading. </stage>
             <l xml:id="ftln-0346" n="1.3.45">And in good time! Now will we break with him. </l>
           </sp>
           <sp xml:id="sp-0347" who="#Proteus_TGV">
@@ -1239,10 +1175,7 @@
             <l xml:id="ftln-0378" n="1.3.77">Come on, Pantino; you shall be employed </l>
             <l xml:id="ftln-0379" n="1.3.78">To hasten on his expedition. </l>
           </sp>
-          <stage xml:id="stg-0379.1"
-                      n="SD 1.3.78.1"
-                      type="exit"
-                      who="#Antonio_TGV #Pantino_TGV">Antonio and Pantino exit. </stage>
+          <stage xml:id="stg-0379.1" n="SD 1.3.78.1" type="exit" who="#Antonio_TGV #Pantino_TGV">Antonio and Pantino exit. </stage>
           <sp xml:id="sp-0380" who="#Proteus_TGV">
             <speaker xml:id="spk-0380">PROTEUS </speaker>
             <l xml:id="ftln-0380" n="1.3.79">Thus have I shunned the fire for fear of burning </l>
@@ -1256,10 +1189,7 @@
             <l xml:id="ftln-0388" n="1.3.87">Which now shows all the beauty of the sun, </l>
             <l xml:id="ftln-0389" n="1.3.88">And by and by a cloud takes all away. </l>
           </sp>
-          <stage xml:id="stg-0389.1"
-                      n="SD 1.3.88.1"
-                      type="entrance"
-                      who="#Pantino_TGV">Enter Pantino. </stage>
+          <stage xml:id="stg-0389.1" n="SD 1.3.88.1" type="entrance" who="#Pantino_TGV">Enter Pantino. </stage>
           <sp xml:id="sp-0390" who="#Pantino_TGV">
             <speaker xml:id="spk-0390">PANTINO </speaker>
             <l xml:id="ftln-0390" n="1.3.89">Sir Proteus, your father calls for you. </l>
@@ -1271,20 +1201,14 @@
             <l xml:id="ftln-0393" n="1.3.92">
               <stage xml:id="stg-0393" n="SD 1.3.92" type="delivery">Aside. </stage>And yet a thousand times it answers “ no.” </l>
           </sp>
-          <stage xml:id="stg-0393.1"
-                      n="SD 1.3.92.1"
-                      type="exit"
-                      who="#Proteus_TGV #Pantino_TGV">They exit. </stage>
+          <stage xml:id="stg-0393.1" n="SD 1.3.92.1" type="exit" who="#Proteus_TGV #Pantino_TGV">They exit. </stage>
         </div>
       </div>
       <div type="act" n="2">
         <head>ACT 2 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-0393.2"
-                      n="SD 2.1.0"
-                      type="entrance"
-                      who="#Valentine_TGV #Speed_TGV">Enter Valentine and Speed, carrying a glove. </stage>
+          <stage xml:id="stg-0393.2" n="SD 2.1.0" type="entrance" who="#Valentine_TGV #Speed_TGV">Enter Valentine and Speed, carrying a glove. </stage>
           <sp xml:id="sp-0394" who="#Speed_TGV">
             <speaker xml:id="spk-0394">SPEED </speaker>
             <l xml:id="ftln-0394" n="2.1.1" part="I">Sir, your glove. </l>
@@ -1544,10 +1468,7 @@
             <p xml:id="p-0485">
               <lb xml:id="ftln-0485" n="2.1.92"/>No, boy, but as well as I can do them. <lb xml:id="ftln-0486" n="2.1.93"/>Peace, here she comes. </p>
           </sp>
-          <stage xml:id="stg-0486.1"
-                      n="SD 2.1.93.1"
-                      type="entrance"
-                      who="#Sylvia_TGV">Enter Sylvia. </stage>
+          <stage xml:id="stg-0486.1" n="SD 2.1.93.1" type="entrance" who="#Sylvia_TGV">Enter Sylvia. </stage>
           <sp xml:id="sp-0487" who="#Speed_TGV">
             <speaker xml:id="spk-0487">SPEED </speaker>
             <stage xml:id="stg-0487" n="SD 2.1.94" type="delivery">, aside </stage>
@@ -1583,10 +1504,7 @@
             <l xml:id="ftln-0499" n="2.1.106">Which I was much unwilling to proceed in </l>
             <l xml:id="ftln-0500" n="2.1.107">But for my duty to your Ladyship. </l>
           </sp>
-          <stage xml:id="stg-0500.1"
-                      n="SD 2.1.107.1"
-                      type="business"
-                      who="#Valentine_TGV #Sylvia_TGV">He gives her a paper. </stage>
+          <stage xml:id="stg-0500.1" n="SD 2.1.107.1" type="business" who="#Valentine_TGV #Sylvia_TGV">He gives her a paper. </stage>
           <sp xml:id="sp-0501" who="#Sylvia_TGV">
             <speaker xml:id="spk-0501">SYLVIA </speaker>
             <l xml:id="ftln-0501" n="2.1.108">I thank you, gentle servant, ’tis very clerkly done. </l>
@@ -1612,10 +1530,7 @@
             <l xml:id="ftln-0509" n="2.1.116">A pretty period. Well, I guess the sequel; </l>
             <l xml:id="ftln-0510" n="2.1.117">And yet I will not name it And yet I care not. </l>
             <l xml:id="ftln-0511" n="2.1.118" part="I">And yet take this again. </l>
-            <stage xml:id="stg-0511"
-                         n="SD 2.1.118"
-                         type="business"
-                         who="#Sylvia_TGV">She holds out the paper. </stage>
+            <stage xml:id="stg-0511" n="SD 2.1.118" type="business" who="#Sylvia_TGV">She holds out the paper. </stage>
             <l xml:id="ftln-0512" n="2.1.119" part="F">And yet I thank you, </l>
             <l xml:id="ftln-0513" n="2.1.120">Meaning henceforth to trouble you no more. </l>
           </sp>
@@ -1634,10 +1549,7 @@
             <l xml:id="ftln-0517" n="2.1.124">But, since unwillingly, take them again. </l>
             <l xml:id="ftln-0518" n="2.1.125" part="I">Nay, take them. </l>
           </sp>
-          <stage xml:id="stg-0518"
-                      n="SD 2.1.125"
-                      type="business"
-                      who="#Sylvia_TGV">She again offers him the paper. </stage>
+          <stage xml:id="stg-0518" n="SD 2.1.125" type="business" who="#Sylvia_TGV">She again offers him the paper. </stage>
           <sp xml:id="sp-0519" who="#Valentine_TGV">
             <speaker xml:id="spk-0519">VALENTINE </speaker>
             <l xml:id="ftln-0519" n="2.1.126" part="F">Madam, they are for you. </l>
@@ -1650,10 +1562,7 @@
           </sp>
           <sp xml:id="sp-0523" who="#Valentine_TGV">
             <speaker xml:id="spk-0523">VALENTINE </speaker>
-            <stage xml:id="stg-0523.0"
-                         n="SD 2.1.130.0"
-                         type="business"
-                         who="#Valentine_TGV">, taking the paper </stage>
+            <stage xml:id="stg-0523.0" n="SD 2.1.130.0" type="business" who="#Valentine_TGV">, taking the paper </stage>
             <l xml:id="ftln-0523" n="2.1.130">Please you, I’ll write your Ladyship another. </l>
           </sp>
           <sp xml:id="sp-0524" who="#Sylvia_TGV">
@@ -1791,17 +1700,11 @@
             <p xml:id="p-0570">
               <lb xml:id="ftln-0570" n="2.1.177"/>Ay, but hearken, sir, though the chameleon love <lb xml:id="ftln-0571" n="2.1.178"/>can feed on the air, I am one that am nourished by <lb xml:id="ftln-0572" n="2.1.179"/>my victuals and would fain have meat. O, be not like <lb xml:id="ftln-0573" n="2.1.180"/>your mistress! Be moved, be moved. </p>
           </sp>
-          <stage xml:id="stg-0573.1"
-                      n="SD 2.1.180.1"
-                      type="exit"
-                      who="#Valentine_TGV #Speed_TGV">They exit. </stage>
+          <stage xml:id="stg-0573.1" n="SD 2.1.180.1" type="exit" who="#Valentine_TGV #Speed_TGV">They exit. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-0573.2"
-                      n="SD 2.2.0"
-                      type="entrance"
-                      who="#Proteus_TGV #Julia_TGV">Enter Proteus and Julia. </stage>
+          <stage xml:id="stg-0573.2" n="SD 2.2.0" type="entrance" who="#Proteus_TGV #Julia_TGV">Enter Proteus and Julia. </stage>
           <sp xml:id="sp-0574" who="#Proteus_TGV">
             <speaker xml:id="spk-0574">PROTEUS </speaker>
             <l xml:id="ftln-0574" n="2.2.1" ana="#short">Have patience, gentle Julia. </l>
@@ -1819,16 +1722,10 @@
             <l xml:id="ftln-0577" n="2.2.4">If you turn not, you will return the sooner. </l>
             <l xml:id="ftln-0578" n="2.2.5">Keep this remembrance for thy Julia’s sake. </l>
           </sp>
-          <stage xml:id="stg-0578.1"
-                      n="SD 2.2.5.1"
-                      type="business"
-                      who="#Julia_TGV #Proteus_TGV">She gives him a ring. </stage>
+          <stage xml:id="stg-0578.1" n="SD 2.2.5.1" type="business" who="#Julia_TGV #Proteus_TGV">She gives him a ring. </stage>
           <sp xml:id="sp-0579" who="#Proteus_TGV">
             <speaker xml:id="spk-0579">PROTEUS </speaker>
-            <stage xml:id="stg-0579.0"
-                         n="SD 2.2.6.0"
-                         type="business"
-                         who="#Proteus_TGV #Julia_TGV">, giving her a ring </stage>
+            <stage xml:id="stg-0579.0" n="SD 2.2.6.0" type="business" who="#Proteus_TGV #Julia_TGV">, giving her a ring </stage>
             <l xml:id="ftln-0579" n="2.2.6">Why, then we’ll make exchange. Here, take you this. </l>
           </sp>
           <sp xml:id="sp-0580" who="#Julia_TGV">
@@ -1851,10 +1748,7 @@
             <l xml:id="ftln-0591" n="2.2.18">Ay, so true love should do. It cannot speak, </l>
             <l xml:id="ftln-0592" n="2.2.19">For truth hath better deeds than words to grace it. </l>
           </sp>
-          <stage xml:id="stg-0592.1"
-                      n="SD 2.2.19.1"
-                      type="entrance"
-                      who="#Pantino_TGV">Enter Pantino. </stage>
+          <stage xml:id="stg-0592.1" n="SD 2.2.19.1" type="entrance" who="#Pantino_TGV">Enter Pantino. </stage>
           <sp xml:id="sp-0593" who="#Pantino_TGV">
             <speaker xml:id="spk-0593">PANTINO </speaker>
             <l xml:id="ftln-0593" n="2.2.20" ana="#short">Sir Proteus, you are stayed for. </l>
@@ -1865,44 +1759,23 @@
             <l xml:id="ftln-0595" n="2.2.22">
               <stage xml:id="stg-0595" n="SD 2.2.22" type="delivery">Aside. </stage>Alas, this parting strikes poor lovers dumb. </l>
           </sp>
-          <stage xml:id="stg-0595.1"
-                      n="SD 2.2.22.1"
-                      type="exit"
-                      who="#Proteus_TGV #Pantino_TGV">They exit. </stage>
+          <stage xml:id="stg-0595.1" n="SD 2.2.22.1" type="exit" who="#Proteus_TGV #Pantino_TGV">They exit. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-0595.2"
-                      n="SD 2.3.0"
-                      type="entrance"
-                      who="#Lance_TGV #Crab_TGV">Enter Lance, weeping, with his dog, Crab. </stage>
+          <stage xml:id="stg-0595.2" n="SD 2.3.0" type="entrance" who="#Lance_TGV #Crab_TGV">Enter Lance, weeping, with his dog, Crab. </stage>
           <sp xml:id="sp-0596" who="#Lance_TGV">
             <speaker xml:id="spk-0596">LANCE </speaker>
             <p xml:id="p-0596">
               <lb xml:id="ftln-0596" n="2.3.1"/>Nay, ’twill be this hour ere I have done weeping. <lb xml:id="ftln-0597" n="2.3.2"/>All the kind of the Lances have this very fault. I have <lb xml:id="ftln-0598" n="2.3.3"/>received my proportion like the Prodigious Son and <lb xml:id="ftln-0599" n="2.3.4"/>am going with Sir Proteus to the Imperial’s court. I <lb xml:id="ftln-0600" n="2.3.5"/>think Crab my dog be the sourest-natured dog that <lb xml:id="ftln-0601" n="2.3.6"/>lives: my mother weeping, my father wailing, my <lb xml:id="ftln-0602" n="2.3.7"/>sister crying, our maid howling, our cat wringing <lb xml:id="ftln-0603" n="2.3.8"/>her hands, and all our house in a great perplexity, <lb xml:id="ftln-0604" n="2.3.9"/>yet did not this cruel-hearted cur shed one tear. He <lb xml:id="ftln-0605" n="2.3.10"/>is a stone, a very pibble stone, and has no more pity <lb xml:id="ftln-0606" n="2.3.11"/>in him than a dog. A Jew would have wept to have <lb xml:id="ftln-0607" n="2.3.12"/>seen our parting. Why, my grandam, having no <lb xml:id="ftln-0608" n="2.3.13"/>eyes, look you, wept herself blind at my parting. <lb xml:id="ftln-0609" n="2.3.14"/>Nay, I’ll show you the manner of it. </p>
-            <stage xml:id="stg-0609"
-                         n="SD 2.3.14"
-                         type="business"
-                         rendition="inline"
-                         who="#Lance_TGV"> He takes off his shoes. </stage>
+            <stage xml:id="stg-0609" n="SD 2.3.14" type="business" rendition="inline" who="#Lance_TGV"> He takes off his shoes. </stage>
             <p xml:id="p-0610">
-              <lb xml:id="ftln-0610" n="2.3.15"/>This shoe is my father. No, this left shoe is <lb xml:id="ftln-0611" n="2.3.16"/>my father; no, no, this left shoe is my mother. Nay, <lb xml:id="ftln-0612" n="2.3.17"/>that cannot be so neither. Yes, it is so, it is so; it hath <lb xml:id="ftln-0613" n="2.3.18"/>the worser sole. This shoe with the hole in it is my <lb xml:id="ftln-0614" n="2.3.19"/>mother; and this my father. A vengeance on ’t, there <lb xml:id="ftln-0615" n="2.3.20"/>’tis! Now sir, this staff is my sister, for, look you, she <lb xml:id="ftln-0616" n="2.3.21"/>is as white as a lily and as small as a wand. This hat <lb xml:id="ftln-0617" n="2.3.22"/>is Nan, our maid. I am the dog. No, the dog is <lb xml:id="ftln-0618" n="2.3.23"/>himself, and I am the dog. O, the dog is me, and I <lb xml:id="ftln-0619" n="2.3.24"/>am myself. Ay, so, so. Now come I to my father: <lb xml:id="ftln-0620" n="2.3.25"/>“ Father, your blessing.” Now should not the shoe <lb xml:id="ftln-0621" n="2.3.26"/>speak a word for weeping. Now should I kiss my <lb xml:id="ftln-0622" n="2.3.27"/>father. <stage xml:id="stg-0622"
-                            n="SD 2.3.27"
-                            type="business"
-                            rendition="inline"
-                            who="#Lance_TGV"> He kisses one shoe. </stage> Well, he weeps on. Now <lb xml:id="ftln-0623" n="2.3.28"/>come I to my mother. O, that she could speak now <lb xml:id="ftln-0624" n="2.3.29"/>like a wold woman! Well, I kiss her. </p>
-            <stage xml:id="stg-0624"
-                         n="SD 2.3.29"
-                         type="business"
-                         rendition="inline"
-                         who="#Lance_TGV"> He kisses the other shoe. </stage>
+              <lb xml:id="ftln-0610" n="2.3.15"/>This shoe is my father. No, this left shoe is <lb xml:id="ftln-0611" n="2.3.16"/>my father; no, no, this left shoe is my mother. Nay, <lb xml:id="ftln-0612" n="2.3.17"/>that cannot be so neither. Yes, it is so, it is so; it hath <lb xml:id="ftln-0613" n="2.3.18"/>the worser sole. This shoe with the hole in it is my <lb xml:id="ftln-0614" n="2.3.19"/>mother; and this my father. A vengeance on ’t, there <lb xml:id="ftln-0615" n="2.3.20"/>’tis! Now sir, this staff is my sister, for, look you, she <lb xml:id="ftln-0616" n="2.3.21"/>is as white as a lily and as small as a wand. This hat <lb xml:id="ftln-0617" n="2.3.22"/>is Nan, our maid. I am the dog. No, the dog is <lb xml:id="ftln-0618" n="2.3.23"/>himself, and I am the dog. O, the dog is me, and I <lb xml:id="ftln-0619" n="2.3.24"/>am myself. Ay, so, so. Now come I to my father: <lb xml:id="ftln-0620" n="2.3.25"/>“ Father, your blessing.” Now should not the shoe <lb xml:id="ftln-0621" n="2.3.26"/>speak a word for weeping. Now should I kiss my <lb xml:id="ftln-0622" n="2.3.27"/>father. <stage xml:id="stg-0622" n="SD 2.3.27" type="business" rendition="inline" who="#Lance_TGV"> He kisses one shoe. </stage> Well, he weeps on. Now <lb xml:id="ftln-0623" n="2.3.28"/>come I to my mother. O, that she could speak now <lb xml:id="ftln-0624" n="2.3.29"/>like a wold woman! Well, I kiss her. </p>
+            <stage xml:id="stg-0624" n="SD 2.3.29" type="business" rendition="inline" who="#Lance_TGV"> He kisses the other shoe. </stage>
             <p xml:id="p-0625">
               <lb xml:id="ftln-0625" n="2.3.30"/>Why, there ’tis; here’s my mother’s <lb xml:id="ftln-0626" n="2.3.31"/>breath up and down. Now come I to my sister. Mark <lb xml:id="ftln-0627" n="2.3.32"/>the moan she makes! Now the dog all this while <lb xml:id="ftln-0628" n="2.3.33"/>sheds not a tear nor speaks a word. But see how I <lb xml:id="ftln-0629" n="2.3.34"/>lay the dust with my tears. </p>
           </sp>
-          <stage xml:id="stg-0629.1"
-                      n="SD 2.3.34.1"
-                      type="entrance"
-                      who="#Pantino_TGV">Enter Pantino. </stage>
+          <stage xml:id="stg-0629.1" n="SD 2.3.34.1" type="entrance" who="#Pantino_TGV">Enter Pantino. </stage>
           <sp xml:id="sp-0630" who="#Pantino_TGV">
             <speaker xml:id="spk-0630">PANTINO </speaker>
             <p xml:id="p-0630">
@@ -1927,11 +1800,7 @@
             <speaker xml:id="spk-0638">PANTINO </speaker>
             <p xml:id="p-0638">
               <lb xml:id="ftln-0638" n="2.3.43"/>Tut, man. I mean thou ’lt lose the flood and, in <lb xml:id="ftln-0639" n="2.3.44"/>losing the flood, lose thy voyage and, in losing thy <lb xml:id="ftln-0640" n="2.3.45"/>voyage, lose thy master and, in losing thy master, <lb xml:id="ftln-0641" n="2.3.46"/>lose thy service and, in losing thy service— </p>
-            <stage xml:id="stg-0641"
-                         n="SD 2.3.46"
-                         type="business"
-                         rendition="inline"
-                         who="#Lance_TGV #Pantino_TGV">Lance covers Pantino’s mouth. </stage>
+            <stage xml:id="stg-0641" n="SD 2.3.46" type="business" rendition="inline" who="#Lance_TGV #Pantino_TGV">Lance covers Pantino’s mouth. </stage>
             <p xml:id="p-0642">
               <lb xml:id="ftln-0642" n="2.3.47"/>Why dost thou stop my <lb xml:id="ftln-0643" n="2.3.48"/>mouth? </p>
           </sp>
@@ -1980,17 +1849,11 @@
             <p xml:id="p-0657">
               <lb xml:id="ftln-0657" n="2.3.62"/>Well, I will go. </p>
           </sp>
-          <stage xml:id="stg-0657.1"
-                      n="SD 2.3.62.1"
-                      type="exit"
-                      who="#Lance_TGV #Pantino_TGV #Crab_TGV">They exit. </stage>
+          <stage xml:id="stg-0657.1" n="SD 2.3.62.1" type="exit" who="#Lance_TGV #Pantino_TGV #Crab_TGV">They exit. </stage>
         </div>
         <div type="scene" n="4">
           <head>Scene 4 </head>
-          <stage xml:id="stg-0657.2"
-                      n="SD 2.4.0"
-                      type="entrance"
-                      who="#Valentine_TGV #Sylvia_TGV #Thurio_TGV #Speed_TGV">Enter Valentine, Sylvia, Thurio, and Speed. </stage>
+          <stage xml:id="stg-0657.2" n="SD 2.4.0" type="entrance" who="#Valentine_TGV #Sylvia_TGV #Thurio_TGV #Speed_TGV">Enter Valentine, Sylvia, Thurio, and Speed. </stage>
           <sp xml:id="sp-0658" who="#Sylvia_TGV">
             <speaker xml:id="spk-0658">SYLVIA </speaker>
             <p xml:id="p-0658">
@@ -2166,10 +2029,7 @@
             <speaker xml:id="spk-0703">SYLVIA </speaker>
             <l xml:id="ftln-0703" n="2.4.46">No more, gentlemen, no more. Here comes my father. </l>
           </sp>
-          <stage xml:id="stg-0704.1"
-                      n="SD 2.4.47.1"
-                      type="entrance"
-                      who="#Duke_TGV">Enter Duke. </stage>
+          <stage xml:id="stg-0704.1" n="SD 2.4.47.1" type="entrance" who="#Duke_TGV">Enter Duke. </stage>
           <sp xml:id="sp-0705" who="#Duke_TGV">
             <speaker xml:id="spk-0705">DUKE </speaker>
             <l xml:id="ftln-0705" n="2.4.48">Now, daughter Sylvia, you are hard beset.— </l>
@@ -2280,10 +2140,7 @@
             <speaker xml:id="spk-0756">SYLVIA </speaker>
             <l xml:id="ftln-0756" n="2.4.99">Have done, have done. Here comes the gentleman. </l>
           </sp>
-          <stage xml:id="stg-0756.1"
-                      n="SD 2.4.99.1"
-                      type="entrance"
-                      who="#Proteus_TGV">Enter Proteus. </stage>
+          <stage xml:id="stg-0756.1" n="SD 2.4.99.1" type="entrance" who="#Proteus_TGV">Enter Proteus. </stage>
           <sp xml:id="sp-0757" who="#Valentine_TGV">
             <speaker xml:id="spk-0757">VALENTINE </speaker>
             <l xml:id="ftln-0757" n="2.4.100">Welcome, dear Proteus.— Mistress, I beseech you </l>
@@ -2334,21 +2191,14 @@
             <speaker xml:id="spk-0773">PROTEUS </speaker>
             <l xml:id="ftln-0773" n="2.4.116" ana="#short">That you are worthless. </l>
           </sp>
-          <stage xml:id="stg-0773.1"
-                      n="SD 2.4.116.1"
-                      type="entrance"
-                      who="#SERVANTS.1_TGV">Enter Servant. </stage>
+          <stage xml:id="stg-0773.1" n="SD 2.4.116.1" type="entrance" who="#SERVANTS.1_TGV">Enter Servant. </stage>
           <sp xml:id="sp-0774" who="#SERVANTS.1_TGV">
             <speaker xml:id="spk-0774">SERVANT </speaker>
             <l xml:id="ftln-0774" n="2.4.117">Madam, my lord your father would speak with you. </l>
           </sp>
           <sp xml:id="sp-0775" who="#Sylvia_TGV">
             <speaker xml:id="spk-0775">SYLVIA </speaker>
-            <l xml:id="ftln-0775" n="2.4.118">I wait upon his pleasure. <stage xml:id="stg-0775"
-                            n="SD 2.4.118"
-                            type="exit"
-                            rendition="inline"
-                            who="#SERVANTS.1_TGV"> Servant exits. </stage> Come, Sir Thurio, </l>
+            <l xml:id="ftln-0775" n="2.4.118">I wait upon his pleasure. <stage xml:id="stg-0775" n="SD 2.4.118" type="exit" rendition="inline" who="#SERVANTS.1_TGV"> Servant exits. </stage> Come, Sir Thurio, </l>
             <l xml:id="ftln-0777" n="2.4.120">Go with me.— Once more, new servant, welcome. </l>
             <l xml:id="ftln-0778" n="2.4.121">I’ll leave you to confer of home affairs. </l>
             <l xml:id="ftln-0779" n="2.4.122">When you have done, we look to hear from you. </l>
@@ -2357,10 +2207,7 @@
             <speaker xml:id="spk-0780">PROTEUS </speaker>
             <l xml:id="ftln-0780" n="2.4.123">We’ll both attend upon your Ladyship. </l>
           </sp>
-          <stage xml:id="stg-0780.1"
-                      n="SD 2.4.123.1"
-                      type="exit"
-                      who="#Sylvia_TGV #Thurio_TGV">Sylvia and Thurio exit. </stage>
+          <stage xml:id="stg-0780.1" n="SD 2.4.123.1" type="exit" who="#Sylvia_TGV #Thurio_TGV">Sylvia and Thurio exit. </stage>
           <sp xml:id="sp-0781" who="#Valentine_TGV">
             <speaker xml:id="spk-0781">VALENTINE </speaker>
             <l xml:id="ftln-0781" n="2.4.124">Now tell me, how do all from whence you came? </l>
@@ -2518,10 +2365,7 @@
           <sp xml:id="sp-0858" who="#Proteus_TGV">
             <speaker xml:id="spk-0858">PROTEUS </speaker>
             <l xml:id="ftln-0858" n="2.4.201" ana="#short">I will. </l>
-            <stage xml:id="stg-0858"
-                         n="SD 2.4.201"
-                         type="exit"
-                         who="#Valentine_TGV #Speed_TGV">Valentine and Speed exit. </stage>
+            <stage xml:id="stg-0858" n="SD 2.4.201" type="exit" who="#Valentine_TGV #Speed_TGV">Valentine and Speed exit. </stage>
             <l xml:id="ftln-0859" n="2.4.202">Even as one heat another heat expels, </l>
             <l xml:id="ftln-0860" n="2.4.203">Or as one nail by strength drives out another, </l>
             <l xml:id="ftln-0861" n="2.4.204">So the remembrance of my former love </l>
@@ -2546,17 +2390,11 @@
             <l xml:id="ftln-0880" n="2.4.223">If I can check my erring love, I will; </l>
             <l xml:id="ftln-0881" n="2.4.224">If not, to compass her I’ll use my skill. </l>
           </sp>
-          <stage xml:id="stg-0881.1"
-                      n="SD 2.4.224.1"
-                      type="exit"
-                      who="#Proteus_TGV">He exits. </stage>
+          <stage xml:id="stg-0881.1" n="SD 2.4.224.1" type="exit" who="#Proteus_TGV">He exits. </stage>
         </div>
         <div type="scene" n="5">
           <head>Scene 5 </head>
-          <stage xml:id="stg-0881.2"
-                      n="SD 2.5.0"
-                      type="entrance"
-                      who="#Speed_TGV #Lance_TGV #Crab_TGV">Enter Speed and Lance, with his dog, Crab. </stage>
+          <stage xml:id="stg-0881.2" n="SD 2.5.0" type="entrance" who="#Speed_TGV #Lance_TGV #Crab_TGV">Enter Speed and Lance, with his dog, Crab. </stage>
           <sp xml:id="sp-0882" who="#Speed_TGV">
             <speaker xml:id="spk-0882">SPEED </speaker>
             <p xml:id="p-0882">
@@ -2722,17 +2560,11 @@
             <p xml:id="p-0934">
               <lb xml:id="ftln-0934" n="2.5.53"/>At thy service. </p>
           </sp>
-          <stage xml:id="stg-0934.1"
-                      n="SD 2.5.53.1"
-                      type="exit"
-                      who="#Speed_TGV #Lance_TGV #Crab_TGV">They exit. </stage>
+          <stage xml:id="stg-0934.1" n="SD 2.5.53.1" type="exit" who="#Speed_TGV #Lance_TGV #Crab_TGV">They exit. </stage>
         </div>
         <div type="scene" n="6">
           <head>Scene 6 </head>
-          <stage xml:id="stg-0934.2"
-                      n="SD 2.6.0"
-                      type="entrance"
-                      who="#Proteus_TGV">Enter Proteus alone. </stage>
+          <stage xml:id="stg-0934.2" n="SD 2.6.0" type="entrance" who="#Proteus_TGV">Enter Proteus alone. </stage>
           <sp xml:id="sp-0935" who="#Proteus_TGV">
             <speaker xml:id="spk-0935">PROTEUS </speaker>
             <l xml:id="ftln-0935" n="2.6.1">To leave my Julia, shall I be forsworn. </l>
@@ -2779,17 +2611,11 @@
             <l xml:id="ftln-0976" n="2.6.42">Love, lend me wings to make my purpose swift, </l>
             <l xml:id="ftln-0977" n="2.6.43">As thou hast lent me wit to plot this drift. </l>
           </sp>
-          <stage xml:id="stg-0977.1"
-                      n="SD 2.6.43.1"
-                      type="exit"
-                      who="#Proteus_TGV">He exits. </stage>
+          <stage xml:id="stg-0977.1" n="SD 2.6.43.1" type="exit" who="#Proteus_TGV">He exits. </stage>
         </div>
         <div type="scene" n="7">
           <head>Scene 7 </head>
-          <stage xml:id="stg-0977.2"
-                      n="SD 2.7.0"
-                      type="entrance"
-                      who="#Julia_TGV #Lucetta_TGV">Enter Julia and Lucetta. </stage>
+          <stage xml:id="stg-0977.2" n="SD 2.7.0" type="entrance" who="#Julia_TGV #Lucetta_TGV">Enter Julia and Lucetta. </stage>
           <sp xml:id="sp-0978" who="#Julia_TGV">
             <speaker xml:id="spk-0978">JULIA </speaker>
             <l xml:id="ftln-0978" n="2.7.1">Counsel, Lucetta. Gentle girl, assist me; </l>
@@ -2955,20 +2781,14 @@
             <l xml:id="ftln-1066" n="2.7.89">Come, answer not, but to it presently. </l>
             <l xml:id="ftln-1067" n="2.7.90">I am impatient of my tarriance. </l>
           </sp>
-          <stage xml:id="stg-1067.1"
-                      n="SD 2.7.90.1"
-                      type="exit"
-                      who="#Julia_TGV #Lucetta_TGV">They exit. </stage>
+          <stage xml:id="stg-1067.1" n="SD 2.7.90.1" type="exit" who="#Julia_TGV #Lucetta_TGV">They exit. </stage>
         </div>
       </div>
       <div type="act" n="3">
         <head>ACT 3 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-1067.2"
-                      n="SD 3.1.0"
-                      type="entrance"
-                      who="#Duke_TGV #Thurio_TGV #Proteus_TGV">Enter Duke, Thurio, and Proteus. </stage>
+          <stage xml:id="stg-1067.2" n="SD 3.1.0" type="entrance" who="#Duke_TGV #Thurio_TGV #Proteus_TGV">Enter Duke, Thurio, and Proteus. </stage>
           <sp xml:id="sp-1068" who="#Duke_TGV">
             <speaker xml:id="spk-1068">DUKE </speaker>
             <l xml:id="ftln-1068" n="3.1.1">Sir Thurio, give us leave, I pray, awhile; </l>
@@ -3038,14 +2858,8 @@
             <speaker xml:id="spk-1117">PROTEUS </speaker>
             <l xml:id="ftln-1117" n="3.1.50">Adieu, my lord. Sir Valentine is coming. </l>
           </sp>
-          <stage xml:id="stg-1117.1"
-                      n="SD 3.1.50.1"
-                      type="exit"
-                      who="#Proteus_TGV">Proteus exits. </stage>
-          <stage xml:id="stg-1117.2"
-                      n="SD 3.1.50.2"
-                      type="entrance"
-                      who="#Valentine_TGV">Enter Valentine. </stage>
+          <stage xml:id="stg-1117.1" n="SD 3.1.50.1" type="exit" who="#Proteus_TGV">Proteus exits. </stage>
+          <stage xml:id="stg-1117.2" n="SD 3.1.50.2" type="entrance" who="#Valentine_TGV">Enter Valentine. </stage>
           <sp xml:id="sp-1118" who="#Duke_TGV">
             <speaker xml:id="spk-1118">DUKE </speaker>
             <l xml:id="ftln-1118" n="3.1.51">Sir Valentine, whither away so fast? </l>
@@ -3219,19 +3033,13 @@
             <speaker xml:id="spk-1203">DUKE </speaker>
             <l xml:id="ftln-1203" n="3.1.136">How shall I fashion me to wear a cloak? </l>
             <l xml:id="ftln-1204" n="3.1.137">I pray thee, let me feel thy cloak upon me. </l>
-            <stage xml:id="stg-1204.1"
-                         n="SD 3.1.137.1"
-                         type="business"
-                         who="#Duke_TGV #Valentine_TGV">Pulling off the cloak, he reveals a rope ladder and a paper. </stage>
+            <stage xml:id="stg-1204.1" n="SD 3.1.137.1" type="business" who="#Duke_TGV #Valentine_TGV">Pulling off the cloak, he reveals a rope ladder and a paper. </stage>
             <l xml:id="ftln-1205" n="3.1.138">What letter is this same? What’s here? <stage xml:id="stg-1205" n="SD 3.1.138" type="delivery"> ( Reads.) </stage>
               <q xml:id="q-1206">To Sylvia. </q>
             </l>
             <l xml:id="ftln-1207" n="3.1.140">And here an engine fit for my proceeding. </l>
             <l xml:id="ftln-1208" n="3.1.141">I’ll be so bold to break the seal for once. </l>
-            <stage xml:id="stg-1208.1"
-                         n="SD 3.1.141.1"
-                         type="delivery"
-                         rendition="indentProse">( Reads.) </stage>
+            <stage xml:id="stg-1208.1" n="SD 3.1.141.1" type="delivery" rendition="indentProse">( Reads.) </stage>
             <ab><q xml:id="q-1209" type="letter">
               <lg xml:id="stz-1209" type="quatrain">
                 <l xml:id="ftln-1209" n="3.1.142">My thoughts do harbor with my Sylvia nightly, </l>
@@ -3274,10 +3082,7 @@
             <l xml:id="ftln-1239" n="3.1.172">Begone. I will not hear thy vain excuse, </l>
             <l xml:id="ftln-1240" n="3.1.173">But, as thou lov’st thy life, make speed from hence. </l>
           </sp>
-          <stage xml:id="stg-1240.1"
-                      n="SD 3.1.173.1"
-                      type="exit"
-                      who="#Duke_TGV">He exits. </stage>
+          <stage xml:id="stg-1240.1" n="SD 3.1.173.1" type="exit" who="#Duke_TGV">He exits. </stage>
           <sp xml:id="sp-1241" who="#Valentine_TGV">
             <speaker xml:id="spk-1241">VALENTINE </speaker>
             <l xml:id="ftln-1241" n="3.1.174">And why not death, rather than living torment? </l>
@@ -3299,10 +3104,7 @@
             <l xml:id="ftln-1257" n="3.1.190">Tarry I here, I but attend on death, </l>
             <l xml:id="ftln-1258" n="3.1.191">But fly I hence, I fly away from life. </l>
           </sp>
-          <stage xml:id="stg-1258.1"
-                      n="SD 3.1.191.1"
-                      type="entrance"
-                      who="#Proteus_TGV #Lance_TGV">Enter Proteus and Lance. </stage>
+          <stage xml:id="stg-1258.1" n="SD 3.1.191.1" type="entrance" who="#Proteus_TGV #Lance_TGV">Enter Proteus and Lance. </stage>
           <sp xml:id="sp-1259" who="#Proteus_TGV">
             <speaker xml:id="spk-1259">PROTEUS </speaker>
             <p xml:id="p-1259">
@@ -3487,29 +3289,19 @@
             <speaker xml:id="spk-1334">VALENTINE </speaker>
             <l xml:id="ftln-1334" n="3.1.267">O, my dear Sylvia! Hapless Valentine! </l>
           </sp>
-          <stage xml:id="stg-1334.1"
-                      n="SD 3.1.267.1"
-                      type="exit"
-                      who="#Valentine_TGV #Proteus_TGV">Valentine and Proteus exit. </stage>
+          <stage xml:id="stg-1334.1" n="SD 3.1.267.1" type="exit" who="#Valentine_TGV #Proteus_TGV">Valentine and Proteus exit. </stage>
           <sp xml:id="sp-1335" who="#Lance_TGV">
             <speaker xml:id="spk-1335">LANCE </speaker>
             <p xml:id="p-1335">
               <lb xml:id="ftln-1335" n="3.1.268"/>I am but a fool, look you, and yet I have the wit <lb xml:id="ftln-1336" n="3.1.269"/>to think my master is a kind of a knave, but that’s all <lb xml:id="ftln-1337" n="3.1.270"/>one if he be but one knave. He lives not now that <lb xml:id="ftln-1338" n="3.1.271"/>knows me to be in love, yet I am in love, but a team <lb xml:id="ftln-1339" n="3.1.272"/>of horse shall not pluck that from me, nor who ’tis I <lb xml:id="ftln-1340" n="3.1.273"/>love; and yet ’tis a woman, but what woman I will <lb xml:id="ftln-1341" n="3.1.274"/>not tell myself; and yet ’tis a milk-maid; yet ’tis not a <lb xml:id="ftln-1342" n="3.1.275"/>maid, for she hath had gossips; yet ’tis a maid, for <lb xml:id="ftln-1343" n="3.1.276"/>she is her master’s maid and serves for wages. She <lb xml:id="ftln-1344" n="3.1.277"/>hath more qualities than a water spaniel, which is <lb xml:id="ftln-1345" n="3.1.278"/>much in a bare Christian. </p>
-            <stage xml:id="stg-1345"
-                         n="SD 3.1.278"
-                         type="business"
-                         rendition="inline"
-                         who="#Lance_TGV"> He takes out a piece of paper. </stage>
+            <stage xml:id="stg-1345" n="SD 3.1.278" type="business" rendition="inline" who="#Lance_TGV"> He takes out a piece of paper. </stage>
             <p xml:id="p-1346">
               <lb xml:id="ftln-1346" n="3.1.279"/>Here is the catalog of her condition. <lb xml:id="ftln-1347" n="3.1.280"/>
               <stage xml:id="stg-1347" n="SD 3.1.280" type="delivery">( Reads.) </stage> Imprimis, She can fetch and carry. Why, a <lb xml:id="ftln-1348" n="3.1.281"/>horse can do no more; nay, a horse cannot fetch but <lb xml:id="ftln-1349" n="3.1.282"/>only carry; therefore is she better than a jade. <lb xml:id="ftln-1350" n="3.1.283"/>
               <stage xml:id="stg-1350" n="SD 3.1.283" type="delivery">( Reads.) </stage>
               <q xml:id="q-1351" type="letter">Item, She can milk. </q> Look you, a sweet <lb xml:id="ftln-1351" n="3.1.284"/>virtue in a maid with clean hands. </p>
           </sp>
-          <stage xml:id="stg-1351.1"
-                      n="SD 3.1.284.1"
-                      type="entrance"
-                      who="#Speed_TGV">Enter Speed. </stage>
+          <stage xml:id="stg-1351.1" n="SD 3.1.284.1" type="entrance" who="#Speed_TGV">Enter Speed. </stage>
           <sp xml:id="sp-1352" who="#Speed_TGV">
             <speaker xml:id="spk-1352">SPEED </speaker>
             <p xml:id="p-1352">
@@ -3577,10 +3369,7 @@
           </sp>
           <sp xml:id="sp-1368" who="#Lance_TGV">
             <speaker xml:id="spk-1368">LANCE </speaker>
-            <stage xml:id="stg-1368"
-                         n="SD 3.1.301"
-                         type="business"
-                         who="#Lance_TGV #Speed_TGV">, giving him the paper </stage>
+            <stage xml:id="stg-1368" n="SD 3.1.301" type="business" who="#Lance_TGV #Speed_TGV">, giving him the paper </stage>
             <p xml:id="p-1368">
               <lb xml:id="ftln-1368" n="3.1.301"/>There, and Saint Nicholas <lb xml:id="ftln-1369" n="3.1.302"/>be thy speed. </p>
           </sp>
@@ -3828,10 +3617,7 @@
           </sp>
           <sp xml:id="sp-1446" who="#Speed_TGV">
             <speaker xml:id="spk-1446">SPEED </speaker>
-            <stage xml:id="stg-1446"
-                         n="SD 3.1.379"
-                         type="business"
-                         who="#Speed_TGV #Lance_TGV">, handing him the paper </stage>
+            <stage xml:id="stg-1446" n="SD 3.1.379" type="business" who="#Speed_TGV #Lance_TGV">, handing him the paper </stage>
             <p xml:id="p-1446">
               <lb xml:id="ftln-1446" n="3.1.379"/>Why didst not tell me <lb xml:id="ftln-1447" n="3.1.380"/>sooner? Pox of your love letters! </p>
           </sp>
@@ -3841,17 +3627,11 @@
             <p xml:id="p-1448">
               <lb xml:id="ftln-1448" n="3.1.381"/>Now will he be swinged for reading my letter; <lb xml:id="ftln-1449" n="3.1.382"/>an unmannerly slave, that will thrust himself into <lb xml:id="ftln-1450" n="3.1.383"/>secrets. I’ll after, to rejoice in the boy’s correction. </p>
           </sp>
-          <stage xml:id="stg-1450.1"
-                      n="SD 3.1.383.1"
-                      type="exit"
-                      who="#Lance_TGV">He exits. </stage>
+          <stage xml:id="stg-1450.1" n="SD 3.1.383.1" type="exit" who="#Lance_TGV">He exits. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-1450.2"
-                      n="SD 3.2.0"
-                      type="entrance"
-                      who="#Duke_TGV #Thurio_TGV">Enter Duke and Thurio. </stage>
+          <stage xml:id="stg-1450.2" n="SD 3.2.0" type="entrance" who="#Duke_TGV #Thurio_TGV">Enter Duke and Thurio. </stage>
           <sp xml:id="sp-1451" who="#Duke_TGV">
             <speaker xml:id="spk-1451">DUKE </speaker>
             <l xml:id="ftln-1451" n="3.2.1">Sir Thurio, fear not but that she will love you </l>
@@ -3870,10 +3650,7 @@
             <l xml:id="ftln-1458" n="3.2.8">Dissolves to water and doth lose his form. </l>
             <l xml:id="ftln-1459" n="3.2.9">A little time will melt her frozen thoughts, </l>
             <l xml:id="ftln-1460" n="3.2.10">And worthless Valentine shall be forgot. </l>
-            <stage xml:id="stg-1460.1"
-                         n="SD 3.2.10.1"
-                         type="entrance"
-                         who="#Proteus_TGV">Enter Proteus. </stage>
+            <stage xml:id="stg-1460.1" n="SD 3.2.10.1" type="entrance" who="#Proteus_TGV">Enter Proteus. </stage>
             <l xml:id="ftln-1461" n="3.2.11">How now, Sir Proteus? Is your countryman, </l>
             <l xml:id="ftln-1462" n="3.2.12">According to our proclamation, gone? </l>
           </sp>
@@ -4044,20 +3821,14 @@
             <speaker xml:id="spk-1548">DUKE </speaker>
             <l xml:id="ftln-1548" n="3.2.98">Even now about it! I will pardon you. </l>
           </sp>
-          <stage xml:id="stg-1548.1"
-                      n="SD 3.2.98.1"
-                      type="exit"
-                      who="#Duke_TGV #Thurio_TGV #Proteus_TGV">They exit. </stage>
+          <stage xml:id="stg-1548.1" n="SD 3.2.98.1" type="exit" who="#Duke_TGV #Thurio_TGV #Proteus_TGV">They exit. </stage>
         </div>
       </div>
       <div type="act" n="4">
         <head>ACT 4 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-1548.2"
-                      n="SD 4.1.0"
-                      type="entrance"
-                      who="#OUTLAWS.1_TGV #OUTLAWS.2_TGV #OUTLAWS.3_TGV">Enter certain Outlaws. </stage>
+          <stage xml:id="stg-1548.2" n="SD 4.1.0" type="entrance" who="#OUTLAWS.1_TGV #OUTLAWS.2_TGV #OUTLAWS.3_TGV">Enter certain Outlaws. </stage>
           <sp xml:id="sp-1549" who="#OUTLAWS.1_TGV">
             <speaker xml:id="spk-1549">FIRST OUTLAW </speaker>
             <l xml:id="ftln-1549" n="4.1.1">Fellows, stand fast. I see a passenger. </l>
@@ -4066,10 +3837,7 @@
             <speaker xml:id="spk-1550">SECOND OUTLAW </speaker>
             <l xml:id="ftln-1550" n="4.1.2">If there be ten, shrink not, but down with ’em. </l>
           </sp>
-          <stage xml:id="stg-1550.1"
-                      n="SD 4.1.2.1"
-                      type="entrance"
-                      who="#Valentine_TGV #Speed_TGV">Enter Valentine and Speed. </stage>
+          <stage xml:id="stg-1550.1" n="SD 4.1.2.1" type="entrance" who="#Valentine_TGV #Speed_TGV">Enter Valentine and Speed. </stage>
           <sp xml:id="sp-1551" who="#OUTLAWS.3_TGV">
             <speaker xml:id="spk-1551">THIRD OUTLAW </speaker>
             <l xml:id="ftln-1551" n="4.1.3">Stand, sir, and throw us that you have about you. </l>
@@ -4176,10 +3944,7 @@
             <speaker xml:id="spk-1586">FIRST OUTLAW </speaker>
             <l xml:id="ftln-1586" n="4.1.38" ana="#short">We’ll have him.— Sirs, a word. </l>
           </sp>
-          <stage xml:id="stg-1586.1"
-                      n="SD 4.1.38.1"
-                      type="business"
-                      who="#OUTLAWS.1_TGV #OUTLAWS.2_TGV #OUTLAWS.3_TGV">The Outlaws step aside to talk. </stage>
+          <stage xml:id="stg-1586.1" n="SD 4.1.38.1" type="business" who="#OUTLAWS.1_TGV #OUTLAWS.2_TGV #OUTLAWS.3_TGV">The Outlaws step aside to talk. </stage>
           <sp xml:id="sp-1587" who="#Speed_TGV">
             <speaker xml:id="spk-1587">SPEED </speaker>
             <p xml:id="p-1587">
@@ -4191,10 +3956,7 @@
           </sp>
           <sp xml:id="sp-1590" who="#OUTLAWS.2_TGV">
             <speaker xml:id="spk-1590">SECOND OUTLAW </speaker>
-            <stage xml:id="stg-1590.0"
-                         n="SD 4.1.42.0"
-                         type="business"
-                         who="#OUTLAWS.1_TGV #OUTLAWS.2_TGV #OUTLAWS.3_TGV">, advancing </stage>
+            <stage xml:id="stg-1590.0" n="SD 4.1.42.0" type="business" who="#OUTLAWS.1_TGV #OUTLAWS.2_TGV #OUTLAWS.3_TGV">, advancing </stage>
             <l xml:id="ftln-1590" n="4.1.42">Tell us this: have you anything to take to? </l>
           </sp>
           <sp xml:id="sp-1591" who="#Valentine_TGV">
@@ -4261,17 +4023,11 @@
             <l xml:id="ftln-1623" n="4.1.75">And show thee all the treasure we have got, </l>
             <l xml:id="ftln-1624" n="4.1.76">Which, with ourselves, all rest at thy dispose. </l>
           </sp>
-          <stage xml:id="stg-1624.1"
-                      n="SD 4.1.76.1"
-                      type="exit"
-                      who="#OUTLAWS.1_TGV #OUTLAWS.2_TGV #OUTLAWS.3_TGV #Valentine_TGV #Speed_TGV">They exit. </stage>
+          <stage xml:id="stg-1624.1" n="SD 4.1.76.1" type="exit" who="#OUTLAWS.1_TGV #OUTLAWS.2_TGV #OUTLAWS.3_TGV #Valentine_TGV #Speed_TGV">They exit. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-1624.2"
-                      n="SD 4.2.0"
-                      type="entrance"
-                      who="#Proteus_TGV">Enter Proteus. </stage>
+          <stage xml:id="stg-1624.2" n="SD 4.2.0" type="entrance" who="#Proteus_TGV">Enter Proteus. </stage>
           <sp xml:id="sp-1625" who="#Proteus_TGV">
             <speaker xml:id="spk-1625">PROTEUS </speaker>
             <l xml:id="ftln-1625" n="4.2.1">Already have I been false to Valentine, </l>
@@ -4292,10 +4048,7 @@
             <l xml:id="ftln-1640" n="4.2.16">But here comes Thurio. Now must we to her window </l>
             <l xml:id="ftln-1642" n="4.2.18">And give some evening music to her ear. </l>
           </sp>
-          <stage xml:id="stg-1642.1"
-                      n="SD 4.2.18.1"
-                      type="entrance"
-                      who="#Thurio_TGV #MUSICIANS_TGV">Enter Thurio and Musicians. </stage>
+          <stage xml:id="stg-1642.1" n="SD 4.2.18.1" type="entrance" who="#Thurio_TGV #MUSICIANS_TGV">Enter Thurio and Musicians. </stage>
           <sp xml:id="sp-1643" who="#Thurio_TGV">
             <speaker xml:id="spk-1643">THURIO </speaker>
             <l xml:id="ftln-1643" n="4.2.19">How now, Sir Proteus, are you crept before us? </l>
@@ -4326,10 +4079,7 @@
             <l xml:id="ftln-1650" n="4.2.26">I thank you for your own.— Now, gentlemen, </l>
             <l xml:id="ftln-1651" n="4.2.27">Let’s tune, and to it lustily awhile. </l>
           </sp>
-          <stage xml:id="stg-1651.1"
-                      n="SD 4.2.27.1"
-                      type="entrance"
-                      who="#Host_TGV #Julia_TGV">Enter Host of the inn, and Julia, disguised as a page, Sebastian. They stand at a distance and talk. </stage>
+          <stage xml:id="stg-1651.1" n="SD 4.2.27.1" type="entrance" who="#Host_TGV #Julia_TGV">Enter Host of the inn, and Julia, disguised as a page, Sebastian. They stand at a distance and talk. </stage>
           <sp xml:id="sp-1652" who="#Host_TGV">
             <speaker xml:id="spk-1652">HOST </speaker>
             <p xml:id="p-1652">
@@ -4368,10 +4118,7 @@
             <p xml:id="p-1662">
               <lb xml:id="ftln-1662" n="4.2.38"/>Hark, hark. </p>
           </sp>
-          <stage xml:id="stg-1662"
-                      n="SD 4.2.38"
-                      type="business"
-                      who="#MUSICIANS_TGV">
+          <stage xml:id="stg-1662" n="SD 4.2.38" type="business" who="#MUSICIANS_TGV">
             <stage xml:id="snd-1662" n="SD 4.2.38" type="sound">Music plays. </stage>
           </stage>
           <sp xml:id="sp-1663" who="#Julia_TGV">
@@ -4504,20 +4251,14 @@
             <p xml:id="p-1704">
               <lb xml:id="ftln-1704" n="4.2.80"/>Gone to seek his dog, which tomorrow, by his <lb xml:id="ftln-1705" n="4.2.81"/>master’s command, he must carry for a present to <lb xml:id="ftln-1706" n="4.2.82"/>his lady. </p>
           </sp>
-          <stage xml:id="stg-1706"
-                      n="SD 4.2.82"
-                      type="business"
-                      who="#MUSICIANS_TGV">Music ends. </stage>
+          <stage xml:id="stg-1706" n="SD 4.2.82" type="business" who="#MUSICIANS_TGV">Music ends. </stage>
           <sp xml:id="sp-1707" who="#Julia_TGV">
             <speaker xml:id="spk-1707">JULIA </speaker>
             <stage xml:id="stg-1707" n="SD 4.2.83" type="modifier">, as Sebastian </stage>
             <p xml:id="p-1707">
               <lb xml:id="ftln-1707" n="4.2.83"/>Peace. Stand aside. The company <lb xml:id="ftln-1708" n="4.2.84"/>parts. </p>
           </sp>
-          <stage xml:id="stg-1708"
-                      n="SD 4.2.84"
-                      type="business"
-                      who="#Host_TGV #Julia_TGV">Host and Julia move away. </stage>
+          <stage xml:id="stg-1708" n="SD 4.2.84" type="business" who="#Host_TGV #Julia_TGV">Host and Julia move away. </stage>
           <sp xml:id="sp-1709" who="#Proteus_TGV">
             <speaker xml:id="spk-1709">PROTEUS </speaker>
             <l xml:id="ftln-1709" n="4.2.85">Sir Thurio, fear not you. I will so plead </l>
@@ -4535,14 +4276,8 @@
             <speaker xml:id="spk-1713">THURIO </speaker>
             <l xml:id="ftln-1713" n="4.2.89" part="F">Farewell. </l>
           </sp>
-          <stage xml:id="stg-1713.1"
-                      n="SD 4.2.89.1"
-                      type="exit"
-                      who="#Thurio_TGV #MUSICIANS_TGV">Thurio and the Musicians exit. </stage>
-          <stage xml:id="stg-1713.2"
-                      n="SD 4.2.89.2"
-                      type="entrance"
-                      who="#Sylvia_TGV">Enter Sylvia, above. </stage>
+          <stage xml:id="stg-1713.1" n="SD 4.2.89.1" type="exit" who="#Thurio_TGV #MUSICIANS_TGV">Thurio and the Musicians exit. </stage>
+          <stage xml:id="stg-1713.2" n="SD 4.2.89.2" type="entrance" who="#Sylvia_TGV">Enter Sylvia, above. </stage>
           <sp xml:id="sp-1714" who="#Proteus_TGV">
             <speaker xml:id="spk-1714">PROTEUS </speaker>
             <l xml:id="ftln-1714" n="4.2.90">Madam, good even to your Ladyship. </l>
@@ -4688,17 +4423,11 @@
             <l xml:id="ftln-1771" n="4.2.147">Not so; but it hath been the longest night </l>
             <l xml:id="ftln-1772" n="4.2.148">That e’er I watched, and the most heaviest. </l>
           </sp>
-          <stage xml:id="stg-1772.1"
-                      n="SD 4.2.148.1"
-                      type="exit"
-                      who="#Julia_TGV #Host_TGV">They exit. </stage>
+          <stage xml:id="stg-1772.1" n="SD 4.2.148.1" type="exit" who="#Julia_TGV #Host_TGV">They exit. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-1772.2"
-                      n="SD 4.3.0"
-                      type="entrance"
-                      who="#Eglamour_TGV">Enter Eglamour. </stage>
+          <stage xml:id="stg-1772.2" n="SD 4.3.0" type="entrance" who="#Eglamour_TGV">Enter Eglamour. </stage>
           <sp xml:id="sp-1773" who="#Eglamour_TGV">
             <speaker xml:id="spk-1773">EGLAMOUR </speaker>
             <l xml:id="ftln-1773" n="4.3.1">This is the hour that Madam Sylvia </l>
@@ -4706,10 +4435,7 @@
             <l xml:id="ftln-1775" n="4.3.3">There’s some great matter she’d employ me in. </l>
             <l xml:id="ftln-1776" n="4.3.4" ana="#short">Madam, madam! </l>
           </sp>
-          <stage xml:id="stg-1776.1"
-                      n="SD 4.3.4.1"
-                      type="entrance"
-                      who="#Sylvia_TGV">Enter Sylvia, above. </stage>
+          <stage xml:id="stg-1776.1" n="SD 4.3.4.1" type="entrance" who="#Sylvia_TGV">Enter Sylvia, above. </stage>
           <sp xml:id="sp-1777" who="#Sylvia_TGV">
             <speaker xml:id="spk-1777">SYLVIA </speaker>
             <l xml:id="ftln-1777" n="4.3.5" ana="#short">Who calls? </l>
@@ -4789,26 +4515,17 @@
             <speaker xml:id="spk-1823">SYLVIA </speaker>
             <l xml:id="ftln-1823" n="4.3.51">Good morrow, kind Sir Eglamour. </l>
           </sp>
-          <stage xml:id="stg-1823.1"
-                      n="SD 4.3.51.1"
-                      type="exit"
-                      who="#Sylvia_TGV #Eglamour_TGV">They exit. </stage>
+          <stage xml:id="stg-1823.1" n="SD 4.3.51.1" type="exit" who="#Sylvia_TGV #Eglamour_TGV">They exit. </stage>
         </div>
         <div type="scene" n="4">
           <head>Scene 4 </head>
-          <stage xml:id="stg-1823.2"
-                      n="SD 4.4.0"
-                      type="entrance"
-                      who="#Lance_TGV #Crab_TGV">Enter Lance, with his dog, Crab. </stage>
+          <stage xml:id="stg-1823.2" n="SD 4.4.0" type="entrance" who="#Lance_TGV #Crab_TGV">Enter Lance, with his dog, Crab. </stage>
           <sp xml:id="sp-1824" who="#Lance_TGV">
             <speaker xml:id="spk-1824">LANCE </speaker>
             <p xml:id="p-1824">
               <lb xml:id="ftln-1824" n="4.4.1"/>When a man’s servant shall play the cur with <lb xml:id="ftln-1825" n="4.4.2"/>him, look you, it goes hard— one that I brought up <lb xml:id="ftln-1826" n="4.4.3"/>of a puppy, one that I saved from drowning when <lb xml:id="ftln-1827" n="4.4.4"/>three or four of his blind brothers and sisters went <lb xml:id="ftln-1828" n="4.4.5"/>to it. I have taught him even as one would say <lb xml:id="ftln-1829" n="4.4.6"/>precisely “ Thus I would teach a dog.” I was sent to <lb xml:id="ftln-1830" n="4.4.7"/>deliver him as a present to Mistress Sylvia from my <lb xml:id="ftln-1831" n="4.4.8"/>master; and I came no sooner into the dining <lb xml:id="ftln-1832" n="4.4.9"/>chamber but he steps me to her trencher and steals <lb xml:id="ftln-1833" n="4.4.10"/>her capon’s leg. O, ’tis a foul thing when a cur <lb xml:id="ftln-1834" n="4.4.11"/>cannot keep himself in all companies! I would have, <lb xml:id="ftln-1835" n="4.4.12"/>as one should say, one that takes upon him to be a <lb xml:id="ftln-1836" n="4.4.13"/>dog indeed; to be, as it were, a dog at all things. If I <lb xml:id="ftln-1837" n="4.4.14"/>had not had more wit than he, to take a fault upon <lb xml:id="ftln-1838" n="4.4.15"/>me that he did, I think verily he had been hanged <lb xml:id="ftln-1839" n="4.4.16"/>for ’t. Sure as I live, he had suffered for ’t. You shall <lb xml:id="ftln-1840" n="4.4.17"/>judge. He thrusts me himself into the company of <lb xml:id="ftln-1841" n="4.4.18"/>three or four gentlemanlike dogs under the Duke’s <lb xml:id="ftln-1842" n="4.4.19"/>table; he had not been there— bless the mark!— a <lb xml:id="ftln-1843" n="4.4.20"/>pissing while but all the chamber smelt him. “ Out <lb xml:id="ftln-1844" n="4.4.21"/>with the dog!” says one. “ What cur is that?” says <lb xml:id="ftln-1845" n="4.4.22"/>another. “ Whip him out!” says the third. “ Hang him <lb xml:id="ftln-1846" n="4.4.23"/>up!” says the Duke. I, having been acquainted with <lb xml:id="ftln-1847" n="4.4.24"/>the smell before, knew it was Crab, and goes me to <lb xml:id="ftln-1848" n="4.4.25"/>the fellow that whips the dogs. “ Friend,” quoth I, <lb xml:id="ftln-1849" n="4.4.26"/>“ You mean to whip the dog?” “ Ay, marry, do I,” <lb xml:id="ftln-1850" n="4.4.27"/>quoth he. “ You do him the more wrong,” quoth I. <lb xml:id="ftln-1851" n="4.4.28"/>“ ’Twas I did the thing you wot of.” He makes me no <lb xml:id="ftln-1852" n="4.4.29"/>more ado but whips me out of the chamber. How <lb xml:id="ftln-1853" n="4.4.30"/>many masters would do this for his servant? Nay, <lb xml:id="ftln-1854" n="4.4.31"/>I’ll be sworn I have sat in the stocks for puddings he <lb xml:id="ftln-1855" n="4.4.32"/>hath stolen; otherwise he had been executed. I have <lb xml:id="ftln-1856" n="4.4.33"/>stood on the pillory for geese he hath killed; otherwise <lb xml:id="ftln-1857" n="4.4.34"/>he had suffered for ’t. <stage xml:id="stg-1857" n="SD 4.4.34" type="delivery"> To Crab. </stage> Thou think’st <lb xml:id="ftln-1858" n="4.4.35"/>not of this now. Nay, I remember the trick you <lb xml:id="ftln-1859" n="4.4.36"/>served me when I took my leave of Madam Sylvia. <lb xml:id="ftln-1860" n="4.4.37"/>Did not I bid thee still mark me, and do as I do? <lb xml:id="ftln-1861" n="4.4.38"/>When didst thou see me heave up my leg and make <lb xml:id="ftln-1862" n="4.4.39"/>water against a gentlewoman’s farthingale? Didst <lb xml:id="ftln-1863" n="4.4.40"/>thou ever see me do such a trick? </p>
           </sp>
-          <stage xml:id="stg-1863.1"
-                      n="SD 4.4.40.1"
-                      type="entrance"
-                      who="#Proteus_TGV #Julia_TGV">Enter Proteus and Julia disguised as Sebastian. </stage>
+          <stage xml:id="stg-1863.1" n="SD 4.4.40.1" type="entrance" who="#Proteus_TGV #Julia_TGV">Enter Proteus and Julia disguised as Sebastian. </stage>
           <sp xml:id="sp-1864" who="#Proteus_TGV">
             <speaker xml:id="spk-1864">PROTEUS </speaker>
             <l xml:id="ftln-1864" n="4.4.41">Sebastian is thy name? I like thee well </l>
@@ -4864,10 +4581,7 @@
             <l xml:id="ftln-1884" n="4.4.61">Go, get thee hence, and find my dog again, </l>
             <l xml:id="ftln-1885" n="4.4.62">Or ne’er return again into my sight. </l>
             <l xml:id="ftln-1886" n="4.4.63">Away, I say. Stayest thou to vex me here? </l>
-            <stage xml:id="stg-1886.1"
-                         n="SD 4.4.63.1"
-                         type="exit"
-                         who="#Lance_TGV #Crab_TGV">Lance exits with Crab. </stage>
+            <stage xml:id="stg-1886.1" n="SD 4.4.63.1" type="exit" who="#Lance_TGV #Crab_TGV">Lance exits with Crab. </stage>
             <l xml:id="ftln-1887" n="4.4.64">A slave that still an end turns me to shame. </l>
             <l xml:id="ftln-1888" n="4.4.65">Sebastian, I have entertainèd thee, </l>
             <l xml:id="ftln-1889" n="4.4.66">Partly that I have need of such a youth </l>
@@ -4881,10 +4595,7 @@
             <l xml:id="ftln-1897" n="4.4.74">Deliver it to Madam Sylvia. </l>
             <l xml:id="ftln-1898" n="4.4.75">She loved me well delivered it to me. </l>
           </sp>
-          <stage xml:id="stg-1898.1"
-                      n="SD 4.4.75.1"
-                      type="business"
-                      who="#Proteus_TGV #Julia_TGV">He gives her a ring. </stage>
+          <stage xml:id="stg-1898.1" n="SD 4.4.75.1" type="business" who="#Proteus_TGV #Julia_TGV">He gives her a ring. </stage>
           <sp xml:id="sp-1899" who="#Julia_TGV">
             <speaker xml:id="spk-1899">JULIA </speaker>
             <stage xml:id="stg-1899.0" n="SD 4.4.76.0" type="modifier">, as Sebastian </stage>
@@ -4926,19 +4637,12 @@
           <sp xml:id="sp-1912" who="#Proteus_TGV">
             <speaker xml:id="spk-1912">PROTEUS </speaker>
             <l xml:id="ftln-1912" n="4.4.89">Well, give her that ring and therewithal </l>
-            <l xml:id="ftln-1913" n="4.4.90">This letter. <stage xml:id="stg-1913"
-                            n="SD 4.4.90"
-                            type="business"
-                            rendition="inline"
-                            who="#Proteus_TGV #Julia_TGV"> He gives her a paper. </stage> That’s her chamber. Tell my lady </l>
+            <l xml:id="ftln-1913" n="4.4.90">This letter. <stage xml:id="stg-1913" n="SD 4.4.90" type="business" rendition="inline" who="#Proteus_TGV #Julia_TGV"> He gives her a paper. </stage> That’s her chamber. Tell my lady </l>
             <l xml:id="ftln-1915" n="4.4.92">I claim the promise for her heavenly picture. </l>
             <l xml:id="ftln-1916" n="4.4.93">Your message done, hie home unto my chamber, </l>
             <l xml:id="ftln-1917" n="4.4.94">Where thou shalt find me sad and solitary. </l>
           </sp>
-          <stage xml:id="stg-1917.1"
-                      n="SD 4.4.94.1"
-                      type="exit"
-                      who="#Proteus_TGV">Proteus exits. </stage>
+          <stage xml:id="stg-1917.1" n="SD 4.4.94.1" type="exit" who="#Proteus_TGV">Proteus exits. </stage>
           <sp xml:id="sp-1918" who="#Julia_TGV">
             <speaker xml:id="spk-1918">JULIA </speaker>
             <l xml:id="ftln-1918" n="4.4.95">How many women would do such a message? </l>
@@ -4959,10 +4663,7 @@
             <l xml:id="ftln-1933" n="4.4.110">Unless I prove false traitor to myself. </l>
             <l xml:id="ftln-1934" n="4.4.111">Yet will I woo for him, but yet so coldly </l>
             <l xml:id="ftln-1935" n="4.4.112">As— Heaven it knows!— I would not have him speed. </l>
-            <stage xml:id="stg-1936.1"
-                         n="SD 4.4.113.1"
-                         type="entrance"
-                         who="#Sylvia_TGV">Enter Sylvia. </stage>
+            <stage xml:id="stg-1936.1" n="SD 4.4.113.1" type="entrance" who="#Sylvia_TGV">Enter Sylvia. </stage>
             <l xml:id="ftln-1937" n="4.4.114">
               <stage xml:id="stg-1937" n="SD 4.4.114" type="modifier">As Sebastian. </stage>Gentlewoman, good day. I pray you be my mean </l>
             <l xml:id="ftln-1939" n="4.4.116">To bring me where to speak with Madam Sylvia. </l>
@@ -5003,10 +4704,7 @@
             <speaker xml:id="spk-1948">SYLVIA </speaker>
             <stage xml:id="stg-1948" n="SD 4.4.125" type="delivery">, calling </stage>
             <l xml:id="ftln-1948" n="4.4.125" ana="#short">Ursula, bring my picture there. </l>
-            <stage xml:id="stg-1948.1"
-                         n="SD 4.4.125.1"
-                         type="business"
-                         who="#SERVANTS.Ursula_TGV #Sylvia_TGV">She is brought the picture. </stage>
+            <stage xml:id="stg-1948.1" n="SD 4.4.125.1" type="business" who="#SERVANTS.Ursula_TGV #Sylvia_TGV">She is brought the picture. </stage>
             <l xml:id="ftln-1949" n="4.4.126">Go, give your master this. Tell him from me, </l>
             <l xml:id="ftln-1950" n="4.4.127">One Julia, that his changing thoughts forget, </l>
             <l xml:id="ftln-1951" n="4.4.128">Would better fit his chamber than this shadow. </l>
@@ -5015,18 +4713,12 @@
             <speaker xml:id="spk-1952">JULIA </speaker>
             <stage xml:id="stg-1952" n="SD 4.4.129" type="modifier">, as Sebastian </stage>
             <l xml:id="ftln-1952" n="4.4.129" ana="#short" next="#ftln-1953">Madam, please you peruse this letter. </l>
-            <stage xml:id="stg-1953"
-                         n="SD 4.4.130"
-                         type="business"
-                         who="#Julia_TGV #Sylvia_TGV">She gives Sylvia a paper. </stage>
+            <stage xml:id="stg-1953" n="SD 4.4.130" type="business" who="#Julia_TGV #Sylvia_TGV">She gives Sylvia a paper. </stage>
             <l xml:id="ftln-1954" n="4.4.131">Pardon me, madam, I have unadvised </l>
             <l xml:id="ftln-1955" n="4.4.132">Delivered you a paper that I should not. </l>
             <l xml:id="ftln-1956" n="4.4.133">This is the letter to your Ladyship. </l>
           </sp>
-          <stage xml:id="stg-1956.1"
-                      n="SD 4.4.133.1"
-                      type="business"
-                      who="#Julia_TGV #Sylvia_TGV">She takes back the first paper and hands Sylvia another. </stage>
+          <stage xml:id="stg-1956.1" n="SD 4.4.133.1" type="business" who="#Julia_TGV #Sylvia_TGV">She takes back the first paper and hands Sylvia another. </stage>
           <sp xml:id="sp-1957" who="#Sylvia_TGV">
             <speaker xml:id="spk-1957">SYLVIA </speaker>
             <l xml:id="ftln-1957" n="4.4.134">I pray thee let me look on that again. </l>
@@ -5044,19 +4736,13 @@
             <l xml:id="ftln-1962" n="4.4.139">And full of new-found oaths, which he will break </l>
             <l xml:id="ftln-1963" n="4.4.140">As easily as I do tear his paper. </l>
           </sp>
-          <stage xml:id="stg-1963.1"
-                      n="SD 4.4.140.1"
-                      type="business"
-                      who="#Sylvia_TGV">She tears the second paper. </stage>
+          <stage xml:id="stg-1963.1" n="SD 4.4.140.1" type="business" who="#Sylvia_TGV">She tears the second paper. </stage>
           <sp xml:id="sp-1964" who="#Julia_TGV">
             <speaker xml:id="spk-1964">JULIA </speaker>
             <stage xml:id="stg-1964.0" n="SD 4.4.141.0" type="modifier">, as Sebastian </stage>
             <l xml:id="ftln-1964" n="4.4.141">Madam, he sends your Ladyship this ring. </l>
           </sp>
-          <stage xml:id="stg-1964.1"
-                      n="SD 4.4.141.1"
-                      type="business"
-                      who="#Julia_TGV">She offers Sylvia a ring. </stage>
+          <stage xml:id="stg-1964.1" n="SD 4.4.141.1" type="business" who="#Julia_TGV">She offers Sylvia a ring. </stage>
           <sp xml:id="sp-1965" who="#Sylvia_TGV">
             <speaker xml:id="spk-1965">SYLVIA </speaker>
             <l xml:id="ftln-1965" n="4.4.142">The more shame for him, that he sends it me; </l>
@@ -5145,10 +4831,7 @@
             <l xml:id="ftln-2006" n="4.4.183">Alas, poor lady, desolate and left! </l>
             <l xml:id="ftln-2007" n="4.4.184">I weep myself to think upon thy words. </l>
             <l xml:id="ftln-2008" n="4.4.185" part="I">Here, youth, there is my purse. </l>
-            <stage xml:id="stg-2008.1"
-                         n="SD 4.4.185.1"
-                         type="business"
-                         who="#Sylvia_TGV #Julia_TGV">She gives Julia a purse. </stage>
+            <stage xml:id="stg-2008.1" n="SD 4.4.185.1" type="business" who="#Sylvia_TGV #Julia_TGV">She gives Julia a purse. </stage>
             <l xml:id="ftln-2009" n="4.4.186" part="F">I give thee this </l>
             <l xml:id="ftln-2010" n="4.4.187">For thy sweet mistress’ sake, because thou lov’st her. </l>
             <l xml:id="ftln-2011" n="4.4.188" ana="#short">Farewell. </l>
@@ -5157,10 +4840,7 @@
             <speaker xml:id="spk-2012">JULIA </speaker>
             <stage xml:id="stg-2012.0" n="SD 4.4.189.0" type="modifier">, as Sebastian </stage>
             <l xml:id="ftln-2012" n="4.4.189">And she shall thank you for ’t if e’er you know her. </l>
-            <stage xml:id="stg-2012.1"
-                         n="SD 4.4.189.1"
-                         type="exit"
-                         who="#Sylvia_TGV">Sylvia exits. </stage>
+            <stage xml:id="stg-2012.1" n="SD 4.4.189.1" type="exit" who="#Sylvia_TGV">Sylvia exits. </stage>
             <l xml:id="ftln-2013" n="4.4.190">A virtuous gentlewoman, mild and beautiful. </l>
             <l xml:id="ftln-2014" n="4.4.191">I hope my master’s suit will be but cold, </l>
             <l xml:id="ftln-2015" n="4.4.192">Since she respects my mistress’ love so much.— </l>
@@ -5188,20 +4868,14 @@
             <l xml:id="ftln-2038" n="4.4.215">I should have scratched out your unseeing eyes </l>
             <l xml:id="ftln-2039" n="4.4.216">To make my master out of love with thee. </l>
           </sp>
-          <stage xml:id="stg-2039.1"
-                      n="SD 4.4.216.1"
-                      type="exit"
-                      who="#Julia_TGV">She exits. </stage>
+          <stage xml:id="stg-2039.1" n="SD 4.4.216.1" type="exit" who="#Julia_TGV">She exits. </stage>
         </div>
       </div>
       <div type="act" n="5">
         <head>ACT 5 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-2039.2"
-                      n="SD 5.1.0"
-                      type="entrance"
-                      who="#Eglamour_TGV">Enter Eglamour. </stage>
+          <stage xml:id="stg-2039.2" n="SD 5.1.0" type="entrance" who="#Eglamour_TGV">Enter Eglamour. </stage>
           <sp xml:id="sp-2040" who="#Eglamour_TGV">
             <speaker xml:id="spk-2040">EGLAMOUR </speaker>
             <l xml:id="ftln-2040" n="5.1.1">The sun begins to gild the western sky, </l>
@@ -5210,10 +4884,7 @@
             <l xml:id="ftln-2043" n="5.1.4">She will not fail, for lovers break not hours, </l>
             <l xml:id="ftln-2044" n="5.1.5">Unless it be to come before their time, </l>
             <l xml:id="ftln-2045" n="5.1.6">So much they spur their expedition. </l>
-            <stage xml:id="stg-2045.1"
-                         n="SD 5.1.6.1"
-                         type="entrance"
-                         who="#Sylvia_TGV">Enter Sylvia. </stage>
+            <stage xml:id="stg-2045.1" n="SD 5.1.6.1" type="entrance" who="#Sylvia_TGV">Enter Sylvia. </stage>
             <l xml:id="ftln-2046" n="5.1.7">See where she comes.— Lady, a happy evening. </l>
           </sp>
           <sp xml:id="sp-2047" who="#Sylvia_TGV">
@@ -5227,17 +4898,11 @@
             <l xml:id="ftln-2050" n="5.1.11">Fear not. The forest is not three leagues off; </l>
             <l xml:id="ftln-2051" n="5.1.12">If we recover that, we are sure enough. </l>
           </sp>
-          <stage xml:id="stg-2051.1"
-                      n="SD 5.1.12.1"
-                      type="exit"
-                      who="#Sylvia_TGV #Eglamour_TGV">They exit. </stage>
+          <stage xml:id="stg-2051.1" n="SD 5.1.12.1" type="exit" who="#Sylvia_TGV #Eglamour_TGV">They exit. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-2051.2"
-                      n="SD 5.2.0"
-                      type="entrance"
-                      who="#Thurio_TGV #Proteus_TGV #Julia_TGV">Enter Thurio, Proteus, and Julia, disguised as Sebastian. </stage>
+          <stage xml:id="stg-2051.2" n="SD 5.2.0" type="entrance" who="#Thurio_TGV #Proteus_TGV #Julia_TGV">Enter Thurio, Proteus, and Julia, disguised as Sebastian. </stage>
           <sp xml:id="sp-2052" who="#Thurio_TGV">
             <speaker xml:id="spk-2052">THURIO </speaker>
             <l xml:id="ftln-2052" n="5.2.1">Sir Proteus, what says Sylvia to my suit? </l>
@@ -5356,10 +5021,7 @@
             <stage xml:id="stg-2081" n="SD 5.2.30" type="modifier">, as Sebastian </stage>
             <l xml:id="ftln-2081" n="5.2.30" part="F">Here comes the Duke. </l>
           </sp>
-          <stage xml:id="stg-2081.1"
-                      n="SD 5.2.30.1"
-                      type="entrance"
-                      who="#Duke_TGV">Enter Duke. </stage>
+          <stage xml:id="stg-2081.1" n="SD 5.2.30.1" type="entrance" who="#Duke_TGV">Enter Duke. </stage>
           <sp xml:id="sp-2082" who="#Duke_TGV">
             <speaker xml:id="spk-2082">DUKE </speaker>
             <l xml:id="ftln-2082" n="5.2.31">How now, Sir Proteus?— How now, Thurio? </l>
@@ -5412,26 +5074,17 @@
             <l xml:id="ftln-2106" n="5.2.55">And I will follow, more for Sylvia’s love </l>
             <l xml:id="ftln-2107" n="5.2.56">Than hate of Eglamour that goes with her. </l>
           </sp>
-          <stage xml:id="stg-2107.1"
-                      n="SD 5.2.56.1"
-                      type="exit"
-                      who="#Proteus_TGV">He exits. </stage>
+          <stage xml:id="stg-2107.1" n="SD 5.2.56.1" type="exit" who="#Proteus_TGV">He exits. </stage>
           <sp xml:id="sp-2108" who="#Julia_TGV">
             <speaker xml:id="spk-2108">JULIA </speaker>
             <l xml:id="ftln-2108" n="5.2.57">And I will follow, more to cross that love </l>
             <l xml:id="ftln-2109" n="5.2.58">Than hate for Sylvia, that is gone for love. </l>
           </sp>
-          <stage xml:id="stg-2109.1"
-                      n="SD 5.2.58.1"
-                      type="exit"
-                      who="#Julia_TGV">She exits. </stage>
+          <stage xml:id="stg-2109.1" n="SD 5.2.58.1" type="exit" who="#Julia_TGV">She exits. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-2109.2"
-                      n="SD 5.3.0"
-                      type="entrance"
-                      who="#Sylvia_TGV #OUTLAWS.1_TGV #OUTLAWS.2_TGV #OUTLAWS.3_TGV">Enter Sylvia and Outlaws. </stage>
+          <stage xml:id="stg-2109.2" n="SD 5.3.0" type="entrance" who="#Sylvia_TGV #OUTLAWS.1_TGV #OUTLAWS.2_TGV #OUTLAWS.3_TGV">Enter Sylvia and Outlaws. </stage>
           <sp xml:id="sp-2110" who="#OUTLAWS.1_TGV">
             <speaker xml:id="spk-2110">FIRST OUTLAW </speaker>
             <l xml:id="ftln-2110" n="5.3.1">Come, come, be patient. We must bring you to our captain. </l>
@@ -5457,10 +5110,7 @@
             <l xml:id="ftln-2119" n="5.3.10">There is our captain. We’ll follow him that’s fled. </l>
             <l xml:id="ftln-2120" n="5.3.11">The thicket is beset; he cannot ’scape. </l>
           </sp>
-          <stage xml:id="stg-2120.1"
-                      n="SD 5.3.11.1"
-                      type="exit"
-                      who="#OUTLAWS.2_TGV #OUTLAWS.3_TGV">Second and Third Outlaws exit. </stage>
+          <stage xml:id="stg-2120.1" n="SD 5.3.11.1" type="exit" who="#OUTLAWS.2_TGV #OUTLAWS.3_TGV">Second and Third Outlaws exit. </stage>
           <sp xml:id="sp-2121" who="#OUTLAWS.1_TGV">
             <speaker xml:id="spk-2121">FIRST OUTLAW </speaker>
             <l xml:id="ftln-2121" n="5.3.12">Come, I must bring you to our captain’s cave. </l>
@@ -5471,17 +5121,11 @@
             <speaker xml:id="spk-2124">SYLVIA </speaker>
             <l xml:id="ftln-2124" n="5.3.15">O Valentine, this I endure for thee! </l>
           </sp>
-          <stage xml:id="stg-2124.1"
-                      n="SD 5.3.15.1"
-                      type="exit"
-                      who="#Sylvia_TGV #OUTLAWS.1_TGV">They exit. </stage>
+          <stage xml:id="stg-2124.1" n="SD 5.3.15.1" type="exit" who="#Sylvia_TGV #OUTLAWS.1_TGV">They exit. </stage>
         </div>
         <div type="scene" n="4">
           <head>Scene 4 </head>
-          <stage xml:id="stg-2124.2"
-                      n="SD 5.4.0"
-                      type="entrance"
-                      who="#Valentine_TGV">Enter Valentine. </stage>
+          <stage xml:id="stg-2124.2" n="SD 5.4.0" type="entrance" who="#Valentine_TGV">Enter Valentine. </stage>
           <sp xml:id="sp-2125" who="#Valentine_TGV">
             <speaker xml:id="spk-2125">VALENTINE </speaker>
             <l xml:id="ftln-2125" n="5.4.1">How use doth breed a habit in a man! </l>
@@ -5504,14 +5148,8 @@
             <l xml:id="ftln-2141" n="5.4.17">To keep them from uncivil outrages. </l>
             <l xml:id="ftln-2142" n="5.4.18">Withdraw thee, Valentine. Who’s this comes here? </l>
           </sp>
-          <stage xml:id="stg-2142.1"
-                      n="SD 5.4.18.1"
-                      type="business"
-                      who="#Valentine_TGV">He steps aside. </stage>
-          <stage xml:id="stg-2142.2"
-                      n="SD 5.4.18.2"
-                      type="entrance"
-                      who="#Proteus_TGV #Sylvia_TGV #Julia_TGV">Enter Proteus, Sylvia, and Julia, disguised as Sebastian. </stage>
+          <stage xml:id="stg-2142.1" n="SD 5.4.18.1" type="business" who="#Valentine_TGV">He steps aside. </stage>
+          <stage xml:id="stg-2142.2" n="SD 5.4.18.2" type="entrance" who="#Proteus_TGV #Sylvia_TGV #Julia_TGV">Enter Proteus, Sylvia, and Julia, disguised as Sebastian. </stage>
           <sp xml:id="sp-2143" who="#Proteus_TGV">
             <speaker xml:id="spk-2143">PROTEUS </speaker>
             <l xml:id="ftln-2143" n="5.4.19">Madam, this service I have done for you— </l>
@@ -5592,10 +5230,7 @@
             <l xml:id="ftln-2183" n="5.4.59">I’ll woo you like a soldier, at arms’ end, </l>
             <l xml:id="ftln-2184" n="5.4.60">And love you ’gainst the nature of love— force you. </l>
           </sp>
-          <stage xml:id="stg-2184.1"
-                      n="SD 5.4.60.1"
-                      type="business"
-                      who="#Proteus_TGV #Sylvia_TGV">He seizes her. </stage>
+          <stage xml:id="stg-2184.1" n="SD 5.4.60.1" type="business" who="#Proteus_TGV #Sylvia_TGV">He seizes her. </stage>
           <sp xml:id="sp-2185" who="#Sylvia_TGV">
             <speaker xml:id="spk-2185">SYLVIA </speaker>
             <l xml:id="ftln-2185" n="5.4.61" part="I">O, heaven! </l>
@@ -5606,10 +5241,7 @@
           </sp>
           <sp xml:id="sp-2187" who="#Valentine_TGV">
             <speaker xml:id="spk-2187">VALENTINE </speaker>
-            <stage xml:id="stg-2187.0"
-                         n="SD 5.4.63.0"
-                         type="business"
-                         who="#Valentine_TGV">, advancing </stage>
+            <stage xml:id="stg-2187.0" n="SD 5.4.63.0" type="business" who="#Valentine_TGV">, advancing </stage>
             <l xml:id="ftln-2187" n="5.4.63">Ruffian, let go that rude uncivil touch, </l>
             <l xml:id="ftln-2188" n="5.4.64" part="I">Thou friend of an ill fashion. </l>
           </sp>
@@ -5654,10 +5286,7 @@
             <stage xml:id="stg-2214.0" n="SD 5.4.90.0" type="delivery">, aside </stage>
             <l xml:id="ftln-2214" n="5.4.90" part="I">O me unhappy! </l>
           </sp>
-          <stage xml:id="stg-2214"
-                      n="SD 5.4.90"
-                      type="business"
-                      who="#Julia_TGV">She swoons. </stage>
+          <stage xml:id="stg-2214" n="SD 5.4.90" type="business" who="#Julia_TGV">She swoons. </stage>
           <sp xml:id="sp-2215" who="#Proteus_TGV">
             <speaker xml:id="spk-2215">PROTEUS </speaker>
             <l xml:id="ftln-2215" n="5.4.91" prev="#ftln-2214" part="I">Look to the boy. </l>
@@ -5684,10 +5313,7 @@
             <p xml:id="p-2223">
               <lb xml:id="ftln-2223" n="5.4.99"/>Here ’tis; this is it. </p>
           </sp>
-          <stage xml:id="stg-2223.1"
-                      n="SD 5.4.99.1"
-                      type="business"
-                      who="#Julia_TGV #Proteus_TGV">She rises, and hands him a ring. </stage>
+          <stage xml:id="stg-2223.1" n="SD 5.4.99.1" type="business" who="#Julia_TGV #Proteus_TGV">She rises, and hands him a ring. </stage>
           <sp xml:id="sp-2224" who="#Proteus_TGV">
             <speaker xml:id="spk-2224">PROTEUS </speaker>
             <l xml:id="ftln-2224" n="5.4.100" ana="#short">How, let me see. </l>
@@ -5699,10 +5325,7 @@
             <l xml:id="ftln-2226" n="5.4.102">O, cry you mercy, sir, I have mistook. </l>
             <l xml:id="ftln-2227" n="5.4.103">This is the ring you sent to Sylvia. </l>
           </sp>
-          <stage xml:id="stg-2227.1"
-                      n="SD 5.4.103.1"
-                      type="business"
-                      who="#Julia_TGV">She offers another ring. </stage>
+          <stage xml:id="stg-2227.1" n="SD 5.4.103.1" type="business" who="#Julia_TGV">She offers another ring. </stage>
           <sp xml:id="sp-2228" who="#Proteus_TGV">
             <speaker xml:id="spk-2228">PROTEUS </speaker>
             <l xml:id="ftln-2228" n="5.4.104">But how cam’st thou by this ring? At my depart </l>
@@ -5713,10 +5336,7 @@
             <l xml:id="ftln-2230" n="5.4.106">And Julia herself did give it me, </l>
             <l xml:id="ftln-2231" n="5.4.107">And Julia herself hath brought it hither. </l>
           </sp>
-          <stage xml:id="stg-2231.1"
-                      n="SD 5.4.107.1"
-                      type="business"
-                      who="#Julia_TGV">She reveals herself. </stage>
+          <stage xml:id="stg-2231.1" n="SD 5.4.107.1" type="business" who="#Julia_TGV">She reveals herself. </stage>
           <sp xml:id="sp-2232" who="#Proteus_TGV">
             <speaker xml:id="spk-2232">PROTEUS </speaker>
             <l xml:id="ftln-2232" n="5.4.108" ana="#short">How? Julia! </l>
@@ -5749,10 +5369,7 @@
             <l xml:id="ftln-2252" n="5.4.128">Let me be blest to make this happy close. </l>
             <l xml:id="ftln-2253" n="5.4.129">’Twere pity two such friends should be long foes. </l>
           </sp>
-          <stage xml:id="stg-2253.1"
-                      n="SD 5.4.129.1"
-                      type="business"
-                      who="#Valentine_TGV #Julia_TGV #Proteus_TGV">Valentine joins the hands of Julia and Proteus. </stage>
+          <stage xml:id="stg-2253.1" n="SD 5.4.129.1" type="business" who="#Valentine_TGV #Julia_TGV #Proteus_TGV">Valentine joins the hands of Julia and Proteus. </stage>
           <sp xml:id="sp-2254" who="#Proteus_TGV">
             <speaker xml:id="spk-2254">PROTEUS </speaker>
             <l xml:id="ftln-2254" n="5.4.130">Bear witness, heaven, I have my wish forever. </l>
@@ -5761,10 +5378,7 @@
             <speaker xml:id="spk-2255">JULIA </speaker>
             <l xml:id="ftln-2255" n="5.4.131" part="I">And I mine. </l>
           </sp>
-          <stage xml:id="stg-2255.1"
-                      n="SD 5.4.131.1"
-                      type="entrance"
-                      who="#Thurio_TGV #Duke_TGV #OUTLAWS.1_TGV #OUTLAWS.2_TGV #OUTLAWS.3_TGV">Enter Thurio, Duke, and Outlaws. </stage>
+          <stage xml:id="stg-2255.1" n="SD 5.4.131.1" type="entrance" who="#Thurio_TGV #Duke_TGV #OUTLAWS.1_TGV #OUTLAWS.2_TGV #OUTLAWS.3_TGV">Enter Thurio, Duke, and Outlaws. </stage>
           <sp xml:id="sp-2256" who="#OUTLAWS.1_TGV #OUTLAWS.2_TGV #OUTLAWS.3_TGV">
             <speaker xml:id="spk-2256">OUTLAWS </speaker>
             <l xml:id="ftln-2256" n="5.4.132" part="F">A prize, a prize, a prize! </l>
@@ -5772,10 +5386,7 @@
           <sp xml:id="sp-2257" who="#Valentine_TGV">
             <speaker xml:id="spk-2257">VALENTINE </speaker>
             <l xml:id="ftln-2257" n="5.4.133">Forbear, forbear, I say. It is my lord the Duke. </l>
-            <stage xml:id="stg-2257.1"
-                         n="SD 5.4.133.1"
-                         type="business"
-                         who="#OUTLAWS.1_TGV #OUTLAWS.2_TGV #OUTLAWS.3_TGV #Duke_TGV #Thurio_TGV">The Outlaws release the Duke and Thurio. </stage>
+            <stage xml:id="stg-2257.1" n="SD 5.4.133.1" type="business" who="#OUTLAWS.1_TGV #OUTLAWS.2_TGV #OUTLAWS.3_TGV #Duke_TGV #Thurio_TGV">The Outlaws release the Duke and Thurio. </stage>
             <l xml:id="ftln-2258" n="5.4.134">Your Grace is welcome to a man disgraced, </l>
             <l xml:id="ftln-2259" n="5.4.135" ana="#short">Banished Valentine. </l>
           </sp>
@@ -5849,10 +5460,7 @@
             <l xml:id="ftln-2298" n="5.4.174">And as we walk along, I dare be bold </l>
             <l xml:id="ftln-2299" n="5.4.175">With our discourse to make your Grace to smile. </l>
             <l xml:id="ftln-2300" n="5.4.176" part="I">
-              <stage xml:id="stg-2300"
-                            n="SD 5.4.176"
-                            type="business"
-                            who="#Valentine_TGV">Pointing to Julia. </stage>What think you of this page, my lord? </l>
+              <stage xml:id="stg-2300" n="SD 5.4.176" type="business" who="#Valentine_TGV">Pointing to Julia. </stage>What think you of this page, my lord? </l>
           </sp>
           <sp xml:id="sp-2302" who="#Duke_TGV">
             <speaker xml:id="spk-2302">DUKE </speaker>
@@ -5875,10 +5483,7 @@
             <l xml:id="ftln-2309" n="5.4.185">That done, our day of marriage shall be yours, </l>
             <l xml:id="ftln-2310" n="5.4.186">One feast, one house, one mutual happiness. </l>
           </sp>
-          <stage xml:id="stg-2310.1"
-                      n="SD 5.4.186.1"
-                      type="exit"
-                      who="#Valentine_TGV #Proteus_TGV #Sylvia_TGV #Julia_TGV #Thurio_TGV #Duke_TGV #OUTLAWS.1_TGV #OUTLAWS.2_TGV #OUTLAWS.3_TGV">They exit. </stage>
+          <stage xml:id="stg-2310.1" n="SD 5.4.186.1" type="exit" who="#Valentine_TGV #Proteus_TGV #Sylvia_TGV #Julia_TGV #Thurio_TGV #Duke_TGV #OUTLAWS.1_TGV #OUTLAWS.2_TGV #OUTLAWS.3_TGV">They exit. </stage>
         </div>
       </div>
     </body>

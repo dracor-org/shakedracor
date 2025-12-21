@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shake000026">
   <teiHeader>
     <fileDesc>
@@ -126,12 +127,10 @@
           <person xml:id="Lartius_Cor" ana="http://www.wikidata.org/entity/Q529867">
             <persName>Lartius</persName>
           </person>
-          <person xml:id="TRIBUNES.Sicinius_Cor"
-                       ana="http://www.wikidata.org/entity/Q11934167">
+          <person xml:id="TRIBUNES.Sicinius_Cor" ana="http://www.wikidata.org/entity/Q11934167">
             <persName>Sicinius</persName>
           </person>
-          <person xml:id="TRIBUNES.Brutus_Cor"
-                       ana="http://www.wikidata.org/entity/Q223440">
+          <person xml:id="TRIBUNES.Brutus_Cor" ana="http://www.wikidata.org/entity/Q223440">
             <persName>Brutus</persName>
           </person>
           <person xml:id="SENATORS.VOLSCIAN.0.1_Cor" sex="MALE">
@@ -146,9 +145,7 @@
           <person xml:id="SENATORS.VOLSCIAN_Cor" sex="MALE">
             <persName>SENATORS.VOLSCIAN_Cor</persName>
           </person>
-          <person xml:id="Volumnia_Cor"
-                       sex="FEMALE"
-                       ana="http://www.wikidata.org/entity/Q7940930">
+          <person xml:id="Volumnia_Cor" sex="FEMALE" ana="http://www.wikidata.org/entity/Q7940930">
             <persName>Volumnia</persName>
           </person>
           <person xml:id="Virgilia_Cor" ana="http://www.wikidata.org/entity/Q17043438">
@@ -321,9 +318,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/shake000026"
-                   passive="http://www.wikidata.org/entity/Q463126"/>
+      <relation name="wikidata" active="https://dracor.org/entity/shake000026" passive="http://www.wikidata.org/entity/Q463126"/>
     </listRelation>
   </standOff>
   <text>
@@ -526,10 +521,7 @@
         <head>ACT 1 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-0000"
-                      n="SD 1.1.0"
-                      type="entrance"
-                      who="#CITIZENS.ROMAN_Cor">Enter a company of mutinous Citizens with staves, clubs, and other weapons. </stage>
+          <stage xml:id="stg-0000" n="SD 1.1.0" type="entrance" who="#CITIZENS.ROMAN_Cor">Enter a company of mutinous Citizens with staves, clubs, and other weapons. </stage>
           <sp xml:id="sp-0001" who="#CITIZENS.ROMAN.0.1_Cor">
             <speaker xml:id="spk-0001">FIRST CITIZEN </speaker>
             <p xml:id="p-0001">
@@ -625,10 +617,7 @@
             <p xml:id="p-0049">
               <lb xml:id="ftln-0049" n="1.1.49"/>Come, come! </p>
           </sp>
-          <stage xml:id="stg-0049.1"
-                      n="SD 1.1.49.1"
-                      type="entrance"
-                      who="#Menenius_Cor">Enter Menenius Agrippa. </stage>
+          <stage xml:id="stg-0049.1" n="SD 1.1.49.1" type="entrance" who="#Menenius_Cor">Enter Menenius Agrippa. </stage>
           <sp xml:id="sp-0050" who="#CITIZENS.ROMAN.0.1_Cor">
             <speaker xml:id="spk-0050">FIRST CITIZEN </speaker>
             <p xml:id="p-0050">
@@ -822,10 +811,7 @@
             <l xml:id="ftln-0170" n="1.1.170">But make you ready your stiff bats and clubs. </l>
             <l xml:id="ftln-0171" n="1.1.171">Rome and her rats are at the point of battle; </l>
             <l xml:id="ftln-0172" n="1.1.172" part="I">The one side must have bale. </l>
-            <stage xml:id="stg-0172.1"
-                         n="SD 1.1.172.1"
-                         type="entrance"
-                         who="#Coriolanus_Cor">Enter Caius Martius. </stage>
+            <stage xml:id="stg-0172.1" n="SD 1.1.172.1" type="entrance" who="#Coriolanus_Cor">Enter Caius Martius. </stage>
             <l xml:id="ftln-0173" n="1.1.173" part="F">Hail, noble Martius. </l>
           </sp>
           <sp xml:id="sp-0174" who="#Coriolanus_Cor">
@@ -925,10 +911,7 @@
             <speaker xml:id="spk-0245">MARTIUS </speaker>
             <l xml:id="ftln-0245" n="1.1.245" ana="#short">Go get you home, you fragments. </l>
           </sp>
-          <stage xml:id="stg-0245.1"
-                      n="SD 1.1.245.1"
-                      type="entrance"
-                      who="#MESSENGERS.X.1_Cor">Enter a Messenger hastily. </stage>
+          <stage xml:id="stg-0245.1" n="SD 1.1.245.1" type="entrance" who="#MESSENGERS.X.1_Cor">Enter a Messenger hastily. </stage>
           <sp xml:id="sp-0246" who="#MESSENGERS.X.1_Cor">
             <speaker xml:id="spk-0246">MESSENGER </speaker>
             <l xml:id="ftln-0246" n="1.1.246" part="I">Where’s Caius Martius? </l>
@@ -945,10 +928,7 @@
             <speaker xml:id="spk-0249">MARTIUS </speaker>
             <l xml:id="ftln-0249" n="1.1.249">I am glad on ’t. Then we shall ha’ means to vent </l>
             <l xml:id="ftln-0250" n="1.1.250" part="I">Our musty superfluity. </l>
-            <stage xml:id="stg-0250.1"
-                         n="SD 1.1.250.1"
-                         type="entrance"
-                         who="#TRIBUNES.Sicinius_Cor #TRIBUNES.Brutus_Cor #Cominius_Cor #Lartius_Cor #SENATORS.ROMAN_Cor">Enter Sicinius Velutus, Junius Brutus, ( two Tribunes); Cominius, Titus Lartius, with other Senators. </stage>
+            <stage xml:id="stg-0250.1" n="SD 1.1.250.1" type="entrance" who="#TRIBUNES.Sicinius_Cor #TRIBUNES.Brutus_Cor #Cominius_Cor #Lartius_Cor #SENATORS.ROMAN_Cor">Enter Sicinius Velutus, Junius Brutus, ( two Tribunes); Cominius, Titus Lartius, with other Senators. </stage>
             <l xml:id="ftln-0251" n="1.1.251" part="F">See our best elders. </l>
           </sp>
           <sp xml:id="sp-0252" who="#SENATORS.ROMAN.0.1_Cor">
@@ -1028,17 +1008,11 @@
             <l xml:id="ftln-0282" n="1.1.282" part="F">Nay, let them follow. </l>
             <l xml:id="ftln-0283" n="1.1.283">The Volsces have much corn; take these rats thither </l>
             <l xml:id="ftln-0284" n="1.1.284" part="I">To gnaw their garners. </l>
-            <stage xml:id="stg-0284.1"
-                         n="SD 1.1.284.1"
-                         type="exit"
-                         who="#CITIZENS.ROMAN_Cor">Citizens steal away. </stage>
+            <stage xml:id="stg-0284.1" n="SD 1.1.284.1" type="exit" who="#CITIZENS.ROMAN_Cor">Citizens steal away. </stage>
             <l xml:id="ftln-0285" n="1.1.285" part="F">Worshipful mutineers, </l>
             <l xml:id="ftln-0286" n="1.1.286">Your valor puts well forth.— Pray follow. </l>
           </sp>
-          <stage xml:id="stg-0286.1"
-                      n="SD 1.1.286.1"
-                      type="exit"
-                      who="#Menenius_Cor #Coriolanus_Cor #Cominius_Cor #Lartius_Cor #SENATORS.ROMAN_Cor #MESSENGERS.X.1_Cor">They exit. Sicinius and Brutus remain. </stage>
+          <stage xml:id="stg-0286.1" n="SD 1.1.286.1" type="exit" who="#Menenius_Cor #Coriolanus_Cor #Cominius_Cor #Lartius_Cor #SENATORS.ROMAN_Cor #MESSENGERS.X.1_Cor">They exit. Sicinius and Brutus remain. </stage>
           <sp xml:id="sp-0287" who="#TRIBUNES.Sicinius_Cor">
             <speaker xml:id="spk-0287">SICINIUS </speaker>
             <l xml:id="ftln-0287" n="1.1.287">Was ever man so proud as is this Martius? </l>
@@ -1116,17 +1090,11 @@
             <speaker xml:id="spk-0321">BRUTUS </speaker>
             <l xml:id="ftln-0321" n="1.1.321" part="F">Let’s along. </l>
           </sp>
-          <stage xml:id="stg-0321.1"
-                      n="SD 1.1.321.1"
-                      type="exit"
-                      who="#TRIBUNES.Sicinius_Cor #TRIBUNES.Brutus_Cor">They exit. </stage>
+          <stage xml:id="stg-0321.1" n="SD 1.1.321.1" type="exit" who="#TRIBUNES.Sicinius_Cor #TRIBUNES.Brutus_Cor">They exit. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-0321.2"
-                      n="SD 1.2.0"
-                      type="entrance"
-                      who="#Aufidius_Cor #SENATORS.VOLSCIAN_Cor">Enter Tullus Aufidius with Senators of Corioles. </stage>
+          <stage xml:id="stg-0321.2" n="SD 1.2.0" type="entrance" who="#Aufidius_Cor #SENATORS.VOLSCIAN_Cor">Enter Tullus Aufidius with Senators of Corioles. </stage>
           <sp xml:id="sp-0322" who="#SENATORS.VOLSCIAN.0.1_Cor">
             <speaker xml:id="spk-0322">FIRST SENATOR </speaker>
             <l xml:id="ftln-0322" n="1.2.1">So, your opinion is, Aufidius, </l>
@@ -1209,17 +1177,11 @@
             <speaker xml:id="spk-0369">ALL </speaker>
             <l xml:id="ftln-0369" n="1.2.48" ana="#short">Farewell. </l>
           </sp>
-          <stage xml:id="stg-0369.1"
-                      n="SD 1.2.48.1"
-                      type="exit"
-                      who="#Aufidius_Cor #SENATORS.VOLSCIAN_Cor">All exit. </stage>
+          <stage xml:id="stg-0369.1" n="SD 1.2.48.1" type="exit" who="#Aufidius_Cor #SENATORS.VOLSCIAN_Cor">All exit. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-0369.2"
-                      n="SD 1.3.0"
-                      type="entrance"
-                      who="#Volumnia_Cor #Virgilia_Cor">Enter Volumnia and Virgilia, mother and wife to Martius. They set them down on two low stools and sew. </stage>
+          <stage xml:id="stg-0369.2" n="SD 1.3.0" type="entrance" who="#Volumnia_Cor #Virgilia_Cor">Enter Volumnia and Virgilia, mother and wife to Martius. They set them down on two low stools and sew. </stage>
           <sp xml:id="sp-0370" who="#Volumnia_Cor">
             <speaker xml:id="spk-0370">VOLUMNIA </speaker>
             <p xml:id="p-0370">
@@ -1235,10 +1197,7 @@
             <p xml:id="p-0390">
               <lb xml:id="ftln-0390" n="1.3.21"/>Then his good report should have been my <lb xml:id="ftln-0391" n="1.3.22"/>son; I therein would have found issue. Hear me <lb xml:id="ftln-0392" n="1.3.23"/>profess sincerely: had I a dozen sons, each in my <lb xml:id="ftln-0393" n="1.3.24"/>love alike and none less dear than thine and my <lb xml:id="ftln-0394" n="1.3.25"/>good Martius, I had rather had eleven die nobly <lb xml:id="ftln-0395" n="1.3.26"/>for their country than one voluptuously surfeit out <lb xml:id="ftln-0396" n="1.3.27"/>of action. </p>
           </sp>
-          <stage xml:id="stg-0396.1"
-                      n="SD 1.3.27.1"
-                      type="entrance"
-                      who="#Gentlewoman_Cor">Enter a Gentlewoman. </stage>
+          <stage xml:id="stg-0396.1" n="SD 1.3.27.1" type="entrance" who="#Gentlewoman_Cor">Enter a Gentlewoman. </stage>
           <sp xml:id="sp-0397" who="#Gentlewoman_Cor">
             <speaker xml:id="spk-0397">GENTLEWOMAN </speaker>
             <p xml:id="p-0397">
@@ -1274,10 +1233,7 @@
             <l xml:id="ftln-0415" n="1.3.46">At Grecian sword, contemning.— Tell Valeria </l>
             <l xml:id="ftln-0416" n="1.3.47" ana="#short">We are fit to bid her welcome. </l>
           </sp>
-          <stage xml:id="stg-0416"
-                      n="SD 1.3.47"
-                      type="exit"
-                      who="#Gentlewoman_Cor">Gentlewoman exits. </stage>
+          <stage xml:id="stg-0416" n="SD 1.3.47" type="exit" who="#Gentlewoman_Cor">Gentlewoman exits. </stage>
           <sp xml:id="sp-0417" who="#Virgilia_Cor">
             <speaker xml:id="spk-0417">VIRGILIA </speaker>
             <l xml:id="ftln-0417" n="1.3.48">Heavens bless my lord from fell Aufidius! </l>
@@ -1287,10 +1243,7 @@
             <l xml:id="ftln-0418" n="1.3.49">He’ll beat Aufidius’ head below his knee </l>
             <l xml:id="ftln-0419" n="1.3.50" ana="#short">And tread upon his neck. </l>
           </sp>
-          <stage xml:id="stg-0419.1"
-                      n="SD 1.3.50.1"
-                      type="entrance"
-                      who="#Valeria_Cor #Usher_Cor #Gentlewoman_Cor">Enter Valeria with an Usher and a Gentlewoman. </stage>
+          <stage xml:id="stg-0419.1" n="SD 1.3.50.1" type="entrance" who="#Valeria_Cor #Usher_Cor #Gentlewoman_Cor">Enter Valeria with an Usher and a Gentlewoman. </stage>
           <sp xml:id="sp-0420" who="#Valeria_Cor">
             <speaker xml:id="spk-0420">VALERIA </speaker>
             <p xml:id="p-0420">
@@ -1446,20 +1399,11 @@
             <p xml:id="p-0485">
               <lb xml:id="ftln-0485" n="1.3.116"/>Well, then, farewell. </p>
           </sp>
-          <stage xml:id="stg-0485.1"
-                      n="SD 1.3.116.1"
-                      type="exit"
-                      who="#Volumnia_Cor #Virgilia_Cor #Valeria_Cor #Usher_Cor #Gentlewoman_Cor">Ladies exit. </stage>
+          <stage xml:id="stg-0485.1" n="SD 1.3.116.1" type="exit" who="#Volumnia_Cor #Virgilia_Cor #Valeria_Cor #Usher_Cor #Gentlewoman_Cor">Ladies exit. </stage>
         </div>
         <div type="scene" n="4">
           <head>Scene 4 </head>
-          <stage xml:id="stg-0485.2"
-                      n="SD 1.4.0"
-                      type="entrance"
-                      who="#Coriolanus_Cor #Lartius_Cor #SOLDIERS.ROMAN_Cor #MESSENGERS.X.2_Cor">Enter Martius, Titus Lartius, with <stage xml:id="snd-0485.2"
-                         n="SD 1.4.0"
-                         type="sound"
-                         ana="trumpet drum">Trumpet, Drum, </stage>and Colors, with Captains and Soldiers, as before the city of Corioles. To them a Messenger. </stage>
+          <stage xml:id="stg-0485.2" n="SD 1.4.0" type="entrance" who="#Coriolanus_Cor #Lartius_Cor #SOLDIERS.ROMAN_Cor #MESSENGERS.X.2_Cor">Enter Martius, Titus Lartius, with <stage xml:id="snd-0485.2" n="SD 1.4.0" type="sound" ana="trumpet drum">Trumpet, Drum, </stage>and Colors, with Captains and Soldiers, as before the city of Corioles. To them a Messenger. </stage>
           <sp xml:id="sp-0486" who="#Coriolanus_Cor">
             <speaker xml:id="spk-0486">MARTIUS </speaker>
             <l xml:id="ftln-0486" n="1.4.1">Yonder comes news. A wager they have met. </l>
@@ -1515,10 +1459,7 @@
             <stage xml:id="stg-0502.1" n="SD 1.4.17.1" type="business">
               <stage xml:id="snd-0502.1" n="SD 1.4.17.1" type="sound" ana="parley">They sound a parley. </stage>
             </stage>
-            <stage xml:id="stg-0502.2"
-                         n="SD 1.4.17.2"
-                         type="entrance"
-                         who="#SENATORS.VOLSCIAN_Cor">Enter two Senators with others on the walls of Corioles. </stage>
+            <stage xml:id="stg-0502.2" n="SD 1.4.17.2" type="entrance" who="#SENATORS.VOLSCIAN_Cor">Enter two Senators with others on the walls of Corioles. </stage>
             <l xml:id="ftln-0503" n="1.4.18">Tullus Aufidius, is he within your walls? </l>
           </sp>
           <sp xml:id="sp-0504" who="#SENATORS.VOLSCIAN.0.1_Cor">
@@ -1540,10 +1481,7 @@
             <l xml:id="ftln-0513" n="1.4.28">There is Aufidius. List what work he makes </l>
             <l xml:id="ftln-0514" n="1.4.29" part="I">Amongst your cloven army. </l>
           </sp>
-          <stage xml:id="stg-0514.1"
-                      n="SD 1.4.29.1"
-                      type="exit"
-                      who="#SENATORS.VOLSCIAN_Cor">They exit from the walls. </stage>
+          <stage xml:id="stg-0514.1" n="SD 1.4.29.1" type="exit" who="#SENATORS.VOLSCIAN_Cor">They exit from the walls. </stage>
           <sp xml:id="sp-0515" who="#Coriolanus_Cor">
             <speaker xml:id="spk-0515">MARTIUS </speaker>
             <l xml:id="ftln-0515" n="1.4.30" part="F">O, they are at it! </l>
@@ -1552,10 +1490,7 @@
             <speaker xml:id="spk-0516">LARTIUS </speaker>
             <l xml:id="ftln-0516" n="1.4.31">Their noise be our instruction.— Ladders, ho! </l>
           </sp>
-          <stage xml:id="stg-0516.1"
-                      n="SD 1.4.31.1"
-                      type="entrance"
-                      who="#SOLDIERS.VOLSCIAN_Cor">Enter the Army of the Volsces as through the city gates. </stage>
+          <stage xml:id="stg-0516.1" n="SD 1.4.31.1" type="entrance" who="#SOLDIERS.VOLSCIAN_Cor">Enter the Army of the Volsces as through the city gates. </stage>
           <sp xml:id="sp-0517" who="#Coriolanus_Cor">
             <speaker xml:id="spk-0517">MARTIUS </speaker>
             <l xml:id="ftln-0517" n="1.4.32">They fear us not but issue forth their city.— </l>
@@ -1566,19 +1501,10 @@
             <l xml:id="ftln-0524" n="1.4.39">He that retires, I’ll take him for a Volsce, </l>
             <l xml:id="ftln-0525" n="1.4.40" ana="#short">And he shall feel mine edge. </l>
           </sp>
-          <stage xml:id="stg-0525.1"
-                      n="SD 1.4.40.1"
-                      type="business"
-                      who="#Coriolanus_Cor #Lartius_Cor #SOLDIERS.ROMAN_Cor #SOLDIERS.VOLSCIAN_Cor">
+          <stage xml:id="stg-0525.1" n="SD 1.4.40.1" type="business" who="#Coriolanus_Cor #Lartius_Cor #SOLDIERS.ROMAN_Cor #SOLDIERS.VOLSCIAN_Cor">
             <stage xml:id="snd-0525.1" n="SD 1.4.40.1" type="sound" ana="alarum">Alarum. </stage> The Romans are beat back to their trenches. </stage>
-          <stage xml:id="stg-0525.2"
-                      n="SD 1.4.40.2"
-                      type="exit"
-                      who="#Coriolanus_Cor #Lartius_Cor #SOLDIERS.ROMAN_Cor #SOLDIERS.VOLSCIAN_Cor #MESSENGERS.X.2_Cor">They exit, with the Volsces following. </stage>
-          <stage xml:id="stg-0525.3"
-                      n="SD 1.4.40.3"
-                      type="entrance"
-                      who="#Coriolanus_Cor #SOLDIERS.ROMAN_Cor">Enter Martius cursing, with Roman soldiers. </stage>
+          <stage xml:id="stg-0525.2" n="SD 1.4.40.2" type="exit" who="#Coriolanus_Cor #Lartius_Cor #SOLDIERS.ROMAN_Cor #SOLDIERS.VOLSCIAN_Cor #MESSENGERS.X.2_Cor">They exit, with the Volsces following. </stage>
+          <stage xml:id="stg-0525.3" n="SD 1.4.40.3" type="entrance" who="#Coriolanus_Cor #SOLDIERS.ROMAN_Cor">Enter Martius cursing, with Roman soldiers. </stage>
           <sp xml:id="sp-0526" who="#Coriolanus_Cor">
             <speaker xml:id="spk-0526">MARTIUS </speaker>
             <l xml:id="ftln-0526" n="1.4.41">All the contagion of the south light on you, </l>
@@ -1594,19 +1520,13 @@
             <l xml:id="ftln-0537" n="1.4.52">And make my wars on you. Look to ’t. Come on! </l>
             <l xml:id="ftln-0538" n="1.4.53">If you’ll stand fast, we’ll beat them to their wives, </l>
             <l xml:id="ftln-0539" n="1.4.54">As they us to our trenches. Follow ’s! </l>
-            <stage xml:id="stg-0539.1"
-                         n="SD 1.4.54.1"
-                         type="entrance"
-                         who="#SOLDIERS.VOLSCIAN_Cor">
+            <stage xml:id="stg-0539.1" n="SD 1.4.54.1" type="entrance" who="#SOLDIERS.VOLSCIAN_Cor">
               <stage xml:id="snd-0539.1" n="SD 1.4.54.1" type="sound" ana="alarum">Another alarum. </stage> The Volsces re-enter and are driven back to the gates of Corioles, which open to admit them. </stage>
             <l xml:id="ftln-0540" n="1.4.55">So, now the gates are ope. Now prove good seconds! </l>
             <l xml:id="ftln-0542" n="1.4.57">’Tis for the followers fortune widens them, </l>
             <l xml:id="ftln-0543" n="1.4.58">Not for the fliers. Mark me, and do the like. </l>
           </sp>
-          <stage xml:id="stg-0543.1"
-                      n="SD 1.4.58.1"
-                      type="exit"
-                      who="#Coriolanus_Cor #SOLDIERS.VOLSCIAN_Cor">Martius follows the fleeing Volsces through the gates, and is shut in. </stage>
+          <stage xml:id="stg-0543.1" n="SD 1.4.58.1" type="exit" who="#Coriolanus_Cor #SOLDIERS.VOLSCIAN_Cor">Martius follows the fleeing Volsces through the gates, and is shut in. </stage>
           <sp xml:id="sp-0544" who="#SOLDIERS.ROMAN.0.1_Cor">
             <speaker xml:id="spk-0544">FIRST SOLDIER </speaker>
             <l xml:id="ftln-0544" n="1.4.59" ana="#short">Foolhardiness, not I. </l>
@@ -1626,10 +1546,7 @@
             <speaker xml:id="spk-0547">ALL </speaker>
             <l xml:id="ftln-0547" n="1.4.62" ana="#short">To th’ pot, I warrant him. </l>
           </sp>
-          <stage xml:id="stg-0547.1"
-                      n="SD 1.4.62.1"
-                      type="entrance"
-                      who="#Lartius_Cor">Enter Titus Lartius. </stage>
+          <stage xml:id="stg-0547.1" n="SD 1.4.62.1" type="entrance" who="#Lartius_Cor">Enter Titus Lartius. </stage>
           <sp xml:id="sp-0548" who="#Lartius_Cor">
             <speaker xml:id="spk-0548">LARTIUS </speaker>
             <l xml:id="ftln-0548" n="1.4.63" part="I">What is become of Martius? </l>
@@ -1658,10 +1575,7 @@
             <l xml:id="ftln-0563" n="1.4.78">Thou mad’st thine enemies shake, as if the world </l>
             <l xml:id="ftln-0564" n="1.4.79" ana="#short">Were feverous and did tremble. </l>
           </sp>
-          <stage xml:id="stg-0564.1"
-                      n="SD 1.4.79.1"
-                      type="entrance"
-                      who="#Coriolanus_Cor #SOLDIERS.VOLSCIAN_Cor">Enter Martius, bleeding, as if from Corioles, assaulted by the enemy. </stage>
+          <stage xml:id="stg-0564.1" n="SD 1.4.79.1" type="entrance" who="#Coriolanus_Cor #SOLDIERS.VOLSCIAN_Cor">Enter Martius, bleeding, as if from Corioles, assaulted by the enemy. </stage>
           <sp xml:id="sp-0565" who="#SOLDIERS.ROMAN.0.1_Cor">
             <speaker xml:id="spk-0565">FIRST SOLDIER </speaker>
             <l xml:id="ftln-0565" n="1.4.80" ana="#short">Look, sir. </l>
@@ -1671,17 +1585,11 @@
             <l xml:id="ftln-0566" n="1.4.81" ana="#short">O, ’tis Martius! </l>
             <l xml:id="ftln-0567" n="1.4.82">Let’s fetch him off or make remain alike. </l>
           </sp>
-          <stage xml:id="stg-0567.1"
-                      n="SD 1.4.82.1"
-                      type="exit"
-                      who="#Coriolanus_Cor #Lartius_Cor #SOLDIERS.ROMAN_Cor #SOLDIERS.VOLSCIAN_Cor">They fight, and all enter the city, exiting the stage. </stage>
+          <stage xml:id="stg-0567.1" n="SD 1.4.82.1" type="exit" who="#Coriolanus_Cor #Lartius_Cor #SOLDIERS.ROMAN_Cor #SOLDIERS.VOLSCIAN_Cor">They fight, and all enter the city, exiting the stage. </stage>
         </div>
         <div type="scene" n="5">
           <head>Scene 5 </head>
-          <stage xml:id="stg-0567.2"
-                      n="SD 1.5.0"
-                      type="entrance"
-                      who="#SOLDIERS.ROMAN_Cor">Enter certain Romans, with spoils. </stage>
+          <stage xml:id="stg-0567.2" n="SD 1.5.0" type="entrance" who="#SOLDIERS.ROMAN_Cor">Enter certain Romans, with spoils. </stage>
           <sp xml:id="sp-0568" who="#SOLDIERS.ROMAN.0.1_Cor">
             <speaker xml:id="spk-0568">FIRST ROMAN </speaker>
             <p xml:id="p-0568">
@@ -1697,10 +1605,7 @@
             <p xml:id="p-0570">
               <lb xml:id="ftln-0570" n="1.5.3"/>A murrain on ’t! I took this for silver. </p>
           </sp>
-          <stage xml:id="stg-0570.1"
-                      n="SD 1.5.3.1"
-                      type="entrance"
-                      who="#Coriolanus_Cor #Lartius_Cor #SOLDIERS.ROMAN.Trumpeter_Cor">Enter Martius, and Titus Lartius with a Trumpet. </stage>
+          <stage xml:id="stg-0570.1" n="SD 1.5.3.1" type="entrance" who="#Coriolanus_Cor #Lartius_Cor #SOLDIERS.ROMAN.Trumpeter_Cor">Enter Martius, and Titus Lartius with a Trumpet. </stage>
           <sp xml:id="sp-0571" who="#Coriolanus_Cor">
             <speaker xml:id="spk-0571">MARTIUS </speaker>
             <l xml:id="ftln-0571" n="1.5.4">See here these movers that do prize their hours </l>
@@ -1708,10 +1613,7 @@
             <l xml:id="ftln-0573" n="1.5.6">Irons of a doit, doublets that hangmen would </l>
             <l xml:id="ftln-0574" n="1.5.7">Bury with those that wore them, these base slaves, </l>
             <l xml:id="ftln-0575" n="1.5.8">Ere yet the fight be done, pack up. Down with them! </l>
-            <stage xml:id="stg-0575.1"
-                         n="SD 1.5.8.1"
-                         type="exit"
-                         who="#SOLDIERS.ROMAN_Cor">The Romans with spoils exit. </stage>
+            <stage xml:id="stg-0575.1" n="SD 1.5.8.1" type="exit" who="#SOLDIERS.ROMAN_Cor">The Romans with spoils exit. </stage>
             <stage xml:id="stg-0575.2" n="SD 1.5.8.2" type="business">
               <stage xml:id="snd-0575.2" n="SD 1.5.8.2" type="sound" ana="alarum">Alarum continues still afar off. </stage>
             </stage>
@@ -1751,25 +1653,16 @@
           <sp xml:id="sp-0596" who="#Lartius_Cor">
             <speaker xml:id="spk-0596">LARTIUS </speaker>
             <l xml:id="ftln-0596" n="1.5.29" ana="#short">Thou worthiest Martius! </l>
-            <stage xml:id="stg-0596"
-                         n="SD 1.5.29"
-                         type="exit"
-                         who="#Coriolanus_Cor">Martius exits. </stage>
+            <stage xml:id="stg-0596" n="SD 1.5.29" type="exit" who="#Coriolanus_Cor">Martius exits. </stage>
             <l xml:id="ftln-0597" n="1.5.30">Go sound thy trumpet in the marketplace. </l>
             <l xml:id="ftln-0598" n="1.5.31">Call thither all the officers o’ th’ town, </l>
             <l xml:id="ftln-0599" n="1.5.32">Where they shall know our mind. Away! </l>
           </sp>
-          <stage xml:id="stg-0599.1"
-                      n="SD 1.5.32.1"
-                      type="exit"
-                      who="#Lartius_Cor #SOLDIERS.ROMAN.Trumpeter_Cor">They exit. </stage>
+          <stage xml:id="stg-0599.1" n="SD 1.5.32.1" type="exit" who="#Lartius_Cor #SOLDIERS.ROMAN.Trumpeter_Cor">They exit. </stage>
         </div>
         <div type="scene" n="6">
           <head>Scene 6 </head>
-          <stage xml:id="stg-0599.2"
-                      n="SD 1.6.0"
-                      type="entrance"
-                      who="#Cominius_Cor #SOLDIERS.ROMAN_Cor">Enter Cominius as it were in retire, with Soldiers. </stage>
+          <stage xml:id="stg-0599.2" n="SD 1.6.0" type="entrance" who="#Cominius_Cor #SOLDIERS.ROMAN_Cor">Enter Cominius as it were in retire, with Soldiers. </stage>
           <sp xml:id="sp-0600" who="#Cominius_Cor">
             <speaker xml:id="spk-0600">COMINIUS </speaker>
             <l xml:id="ftln-0600" n="1.6.1">Breathe you, my friends. Well fought! We are come off </l>
@@ -1781,10 +1674,7 @@
             <l xml:id="ftln-0607" n="1.6.8">Lead their successes as we wish our own, </l>
             <l xml:id="ftln-0608" n="1.6.9">That both our powers, with smiling fronts encount’ring, </l>
             <l xml:id="ftln-0610" n="1.6.11" part="I">May give you thankful sacrifice! </l>
-            <stage xml:id="stg-0610.1"
-                         n="SD 1.6.11.1"
-                         type="entrance"
-                         who="#MESSENGERS.X.3_Cor">Enter a Messenger. </stage>
+            <stage xml:id="stg-0610.1" n="SD 1.6.11.1" type="entrance" who="#MESSENGERS.X.3_Cor">Enter a Messenger. </stage>
             <l xml:id="ftln-0611" n="1.6.12" part="F">Thy news? </l>
           </sp>
           <sp xml:id="sp-0612" who="#MESSENGERS.X.3_Cor">
@@ -1816,14 +1706,8 @@
             <l xml:id="ftln-0625" n="1.6.26">Three or four miles about; else had I, sir, </l>
             <l xml:id="ftln-0626" n="1.6.27" part="I">Half an hour since brought my report. </l>
           </sp>
-          <stage xml:id="stg-0626"
-                      n="SD 1.6.27"
-                      type="exit"
-                      who="#MESSENGERS.X.3_Cor">He exits. </stage>
-          <stage xml:id="stg-0626.1"
-                      n="SD 1.6.27.1"
-                      type="entrance"
-                      who="#Coriolanus_Cor">Enter Martius, bloody. </stage>
+          <stage xml:id="stg-0626" n="SD 1.6.27" type="exit" who="#MESSENGERS.X.3_Cor">He exits. </stage>
+          <stage xml:id="stg-0626.1" n="SD 1.6.27.1" type="entrance" who="#Coriolanus_Cor">Enter Martius, bloody. </stage>
           <sp xml:id="sp-0627" who="#Cominius_Cor">
             <speaker xml:id="spk-0627">COMINIUS </speaker>
             <l xml:id="ftln-0627" n="1.6.28" part="F">Who’s yonder, </l>
@@ -1857,10 +1741,7 @@
             <l xml:id="ftln-0640" n="1.6.41">As merry as when our nuptial day was done </l>
             <l xml:id="ftln-0641" n="1.6.42" ana="#short">And tapers burnt to bedward! </l>
           </sp>
-          <stage xml:id="stg-0641"
-                      n="SD 1.6.42"
-                      type="business"
-                      who="#Coriolanus_Cor #Cominius_Cor">They embrace. </stage>
+          <stage xml:id="stg-0641" n="SD 1.6.42" type="business" who="#Coriolanus_Cor #Cominius_Cor">They embrace. </stage>
           <sp xml:id="sp-0642" who="#Cominius_Cor">
             <speaker xml:id="spk-0642">COMINIUS </speaker>
             <l xml:id="ftln-0642" n="1.6.43">Flower of warriors, how is ’t with Titus Lartius? </l>
@@ -1946,14 +1827,8 @@
             <l xml:id="ftln-0691" n="1.6.92">Let him alone, or so many so minded, </l>
             <l xml:id="ftln-0692" n="1.6.93">Wave thus to express his disposition </l>
             <l xml:id="ftln-0693" n="1.6.94" ana="#short">And follow Martius. </l>
-            <stage xml:id="stg-0693"
-                         n="SD 1.6.94"
-                         type="business"
-                         who="#Coriolanus_Cor">He waves his sword. </stage>
-            <stage xml:id="stg-0693.1"
-                         n="SD 1.6.94.1"
-                         type="business"
-                         who="#SOLDIERS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor">They all shout and wave their swords, take him up in their arms, and cast up their caps. </stage>
+            <stage xml:id="stg-0693" n="SD 1.6.94" type="business" who="#Coriolanus_Cor">He waves his sword. </stage>
+            <stage xml:id="stg-0693.1" n="SD 1.6.94.1" type="business" who="#SOLDIERS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor">They all shout and wave their swords, take him up in their arms, and cast up their caps. </stage>
             <l xml:id="ftln-0694" n="1.6.95">O, me alone! Make you a sword of me? </l>
             <l xml:id="ftln-0695" n="1.6.96">If these shows be not outward, which of you </l>
             <l xml:id="ftln-0696" n="1.6.97">But is four Volsces? None of you but is </l>
@@ -1971,20 +1846,11 @@
             <l xml:id="ftln-0705" n="1.6.106">Make good this ostentation, and you shall </l>
             <l xml:id="ftln-0706" n="1.6.107" ana="#short">Divide in all with us. </l>
           </sp>
-          <stage xml:id="stg-0706.1"
-                      n="SD 1.6.107.1"
-                      type="exit"
-                      who="#Coriolanus_Cor #Cominius_Cor #SOLDIERS.ROMAN_Cor">They exit. </stage>
+          <stage xml:id="stg-0706.1" n="SD 1.6.107.1" type="exit" who="#Coriolanus_Cor #Cominius_Cor #SOLDIERS.ROMAN_Cor">They exit. </stage>
         </div>
         <div type="scene" n="7">
           <head>Scene 7 </head>
-          <stage xml:id="stg-0706.2"
-                      n="SD 1.7.0"
-                      type="entrance"
-                      who="#Lartius_Cor #SOLDIERS.ROMAN_Cor #SOLDIERS.ROMAN.Lieutenant_Cor #SOLDIERS.ROMAN.Scout_Cor">Titus Lartius, having set a guard upon Corioles, going with <stage xml:id="snd-0706.2"
-                         n="SD 1.7.0"
-                         type="sound"
-                         ana="drum trumpet">Drum and Trumpet </stage> toward Cominius and Caius Martius, enters with a Lieutenant, other Soldiers, and a Scout. </stage>
+          <stage xml:id="stg-0706.2" n="SD 1.7.0" type="entrance" who="#Lartius_Cor #SOLDIERS.ROMAN_Cor #SOLDIERS.ROMAN.Lieutenant_Cor #SOLDIERS.ROMAN.Scout_Cor">Titus Lartius, having set a guard upon Corioles, going with <stage xml:id="snd-0706.2" n="SD 1.7.0" type="sound" ana="drum trumpet">Drum and Trumpet </stage> toward Cominius and Caius Martius, enters with a Lieutenant, other Soldiers, and a Scout. </stage>
           <sp xml:id="sp-0707" who="#Lartius_Cor">
             <speaker xml:id="spk-0707">LARTIUS </speaker>
             <l xml:id="ftln-0707" n="1.7.1">So, let the ports be guarded. Keep your duties </l>
@@ -2003,17 +1869,11 @@
             <l xml:id="ftln-0714" n="1.7.8">
               <stage xml:id="stg-0714" n="SD 1.7.8" type="delivery">( To the Scout.) </stage>Our guider, come. To th’ Roman camp conduct us. </l>
           </sp>
-          <stage xml:id="stg-0715.1"
-                      n="SD 1.7.9.1"
-                      type="exit"
-                      who="#Lartius_Cor #SOLDIERS.ROMAN_Cor #SOLDIERS.ROMAN.Lieutenant_Cor #SOLDIERS.ROMAN.Scout_Cor">They exit, the Lieutenant one way, Lartius another. </stage>
+          <stage xml:id="stg-0715.1" n="SD 1.7.9.1" type="exit" who="#Lartius_Cor #SOLDIERS.ROMAN_Cor #SOLDIERS.ROMAN.Lieutenant_Cor #SOLDIERS.ROMAN.Scout_Cor">They exit, the Lieutenant one way, Lartius another. </stage>
         </div>
         <div type="scene" n="8">
           <head>Scene 8 </head>
-          <stage xml:id="stg-0715.2b"
-                      n="SD 1.8.0"
-                      type="entrance"
-                      who="#Coriolanus_Cor #Aufidius_Cor">
+          <stage xml:id="stg-0715.2b" n="SD 1.8.0" type="entrance" who="#Coriolanus_Cor #Aufidius_Cor">
             <stage xml:id="snd-0715.2" n="SD 1.8.0" type="sound" ana="alarum">Alarum, as in battle. </stage>Enter Martius and Aufidius at several doors. </stage>
           <sp xml:id="sp-0716" who="#Coriolanus_Cor">
             <speaker xml:id="spk-0716">MARTIUS </speaker>
@@ -2049,40 +1909,22 @@
             <l xml:id="ftln-0731" n="1.8.16" prev="#ftln-0730">Wert thou the Hector </l>
             <l xml:id="ftln-0733" n="1.8.18">That was the whip of your bragged progeny, </l>
             <l xml:id="ftln-0734" n="1.8.19" ana="#short">Thou shouldst not scape me here. </l>
-            <stage xml:id="stg-0734.1"
-                         n="SD 1.8.19.1"
-                         type="mixed"
-                         rendition="right">
-              <stage xml:id="stg-0734.1a"
-                            n="SD 1.8.19.1"
-                            type="business"
-                            who="#Coriolanus_Cor #Aufidius_Cor">Here they fight, </stage> and <stage xml:id="stg-0734.1b"
-                            n="SD 1.8.19.1"
-                            type="entrance"
-                            who="#SOLDIERS.VOLSCIAN_Cor">certain Volsces come in the aid of Aufidius. </stage>
+            <stage xml:id="stg-0734.1" n="SD 1.8.19.1" type="mixed" rendition="right">
+              <stage xml:id="stg-0734.1a" n="SD 1.8.19.1" type="business" who="#Coriolanus_Cor #Aufidius_Cor">Here they fight, </stage> and <stage xml:id="stg-0734.1b" n="SD 1.8.19.1" type="entrance" who="#SOLDIERS.VOLSCIAN_Cor">certain Volsces come in the aid of Aufidius. </stage>
             </stage>
             <l xml:id="ftln-0735" n="1.8.20">
               <stage xml:id="stg-0735" n="SD 1.8.20" type="delivery">( To the Volsces.) </stage>Officious and not valiant, you have shamed me </l>
             <l xml:id="ftln-0737" n="1.8.22" ana="#short">In your condemnèd seconds. </l>
           </sp>
-          <stage xml:id="stg-0737.1"
-                      n="SD 1.8.22.1"
-                      type="exit"
-                      who="#Coriolanus_Cor #Aufidius_Cor #SOLDIERS.VOLSCIAN_Cor">Martius fights till they be driven in breathless. Aufidius and Martius exit, separately. </stage>
+          <stage xml:id="stg-0737.1" n="SD 1.8.22.1" type="exit" who="#Coriolanus_Cor #Aufidius_Cor #SOLDIERS.VOLSCIAN_Cor">Martius fights till they be driven in breathless. Aufidius and Martius exit, separately. </stage>
         </div>
         <div type="scene" n="9">
           <head>Scene 9 </head>
           <stage xml:id="stg-0737.2" n="SD 1.9.0" type="mixed">
             <stage xml:id="stg-0737.2a" n="SD 1.9.0" type="business">
-              <stage xml:id="snd-0737.2a"
-                            n="SD 1.9.0"
-                            type="sound"
-                            ana="alarum retreat">Alarum. A retreat is sounded. </stage>
+              <stage xml:id="snd-0737.2a" n="SD 1.9.0" type="sound" ana="alarum retreat">Alarum. A retreat is sounded. </stage>
             </stage>
-            <stage xml:id="stg-0737.2b"
-                         n="SD 1.9.0"
-                         type="entrance"
-                         who="#Cominius_Cor #SOLDIERS.ROMAN_Cor #Coriolanus_Cor">
+            <stage xml:id="stg-0737.2b" n="SD 1.9.0" type="entrance" who="#Cominius_Cor #SOLDIERS.ROMAN_Cor #Coriolanus_Cor">
               <stage xml:id="snd-0737.2b" n="SD 1.9.0" type="sound" ana="flourish">Flourish. </stage> Enter, at one door, Cominius with the Romans; at another door Martius, with his arm in a scarf. </stage>
           </stage>
           <sp xml:id="sp-0738" who="#Cominius_Cor">
@@ -2100,10 +1942,7 @@
             <l xml:id="ftln-0748" n="1.9.11">Yet cam’st thou to a morsel of this feast, </l>
             <l xml:id="ftln-0749" n="1.9.12" part="I">Having fully dined before. </l>
           </sp>
-          <stage xml:id="stg-0749.1"
-                      n="SD 1.9.12.1"
-                      type="entrance"
-                      who="#Lartius_Cor #SOLDIERS.ROMAN.0_Cor">Enter Titus Lartius with his power, from the pursuit. </stage>
+          <stage xml:id="stg-0749.1" n="SD 1.9.12.1" type="entrance" who="#Lartius_Cor #SOLDIERS.ROMAN.0_Cor">Enter Titus Lartius with his power, from the pursuit. </stage>
           <sp xml:id="sp-0750" who="#Lartius_Cor">
             <speaker xml:id="spk-0750">LARTIUS </speaker>
             <l xml:id="ftln-0750" n="1.9.13" part="F">O general, </l>
@@ -2155,10 +1994,7 @@
             <l xml:id="ftln-0781" n="1.9.44">A bribe to pay my sword. I do refuse it </l>
             <l xml:id="ftln-0782" n="1.9.45">And stand upon my common part with those </l>
             <l xml:id="ftln-0783" n="1.9.46" ana="#short">That have beheld the doing. </l>
-            <stage xml:id="stg-0783.1"
-                         n="SD 1.9.46.1"
-                         type="business"
-                         who="#SOLDIERS.ROMAN_Cor #Cominius_Cor #Lartius_Cor">
+            <stage xml:id="stg-0783.1" n="SD 1.9.46.1" type="business" who="#SOLDIERS.ROMAN_Cor #Cominius_Cor #Lartius_Cor">
               <stage xml:id="snd-0783.1" n="SD 1.9.46.1" type="sound" ana="flourish">A long flourish. </stage> They all cry “ Martius, Martius!” and cast up their caps and lances. Cominius and Lartius stand bare. </stage>
             <l xml:id="ftln-0784" n="1.9.47">May these same instruments, which you profane, </l>
             <l xml:id="ftln-0785" n="1.9.48">Never sound more! When drums and trumpets shall </l>
@@ -2191,10 +2027,7 @@
             <l xml:id="ftln-0809" n="1.9.72" ana="#short">Th’ addition nobly ever! </l>
           </sp>
           <stage xml:id="stg-0809.1" n="SD 1.9.72.1" type="business">
-            <stage xml:id="snd-0809.1"
-                         n="SD 1.9.72.1"
-                         type="sound"
-                         ana="flourish trumpet drum">Flourish. Trumpets sound, and drums. </stage>
+            <stage xml:id="snd-0809.1" n="SD 1.9.72.1" type="sound" ana="flourish trumpet drum">Flourish. Trumpets sound, and drums. </stage>
           </stage>
           <sp xml:id="sp-0810" who="#SOLDIERS.ROMAN_Cor #Lartius_Cor">
             <speaker xml:id="spk-0810">ALL </speaker>
@@ -2263,21 +2096,12 @@
             <l xml:id="ftln-0842" n="1.9.105">The blood upon your visage dries; ’tis time </l>
             <l xml:id="ftln-0843" n="1.9.106" ana="#short">It should be looked to. Come. </l>
           </sp>
-          <stage xml:id="stg-0843.1b"
-                      n="SD 1.9.106.1"
-                      type="exit"
-                      who="#Coriolanus_Cor #Cominius_Cor #Lartius_Cor #SOLDIERS.ROMAN_Cor">
-            <stage xml:id="snd-0843.1"
-                         n="SD 1.9.106.1"
-                         type="sound"
-                         ana="flourish cornet">A flourish of cornets. </stage> They exit. </stage>
+          <stage xml:id="stg-0843.1b" n="SD 1.9.106.1" type="exit" who="#Coriolanus_Cor #Cominius_Cor #Lartius_Cor #SOLDIERS.ROMAN_Cor">
+            <stage xml:id="snd-0843.1" n="SD 1.9.106.1" type="sound" ana="flourish cornet">A flourish of cornets. </stage> They exit. </stage>
         </div>
         <div type="scene" n="10">
           <head>Scene 10 </head>
-          <stage xml:id="stg-0843.2"
-                      n="SD 1.10.0"
-                      type="entrance"
-                      who="#Aufidius_Cor #SOLDIERS.VOLSCIAN_Cor">Enter Tullus Aufidius bloody, with two or three Soldiers. </stage>
+          <stage xml:id="stg-0843.2" n="SD 1.10.0" type="entrance" who="#Aufidius_Cor #SOLDIERS.VOLSCIAN_Cor">Enter Tullus Aufidius bloody, with two or three Soldiers. </stage>
           <sp xml:id="sp-0844" who="#Aufidius_Cor">
             <speaker xml:id="spk-0844">AUFIDIUS </speaker>
             <l xml:id="ftln-0844" n="1.10.1" ana="#short">The town is ta’en. </l>
@@ -2338,20 +2162,14 @@
             <speaker xml:id="spk-0879">SOLDIER </speaker>
             <l xml:id="ftln-0879" n="1.10.36" part="F">I shall, sir. </l>
           </sp>
-          <stage xml:id="stg-0879.1"
-                      n="SD 1.10.36.1"
-                      type="exit"
-                      who="#Aufidius_Cor #SOLDIERS.VOLSCIAN_Cor">They exit, Aufidius through one door, Soldiers through another. </stage>
+          <stage xml:id="stg-0879.1" n="SD 1.10.36.1" type="exit" who="#Aufidius_Cor #SOLDIERS.VOLSCIAN_Cor">They exit, Aufidius through one door, Soldiers through another. </stage>
         </div>
       </div>
       <div type="act" n="2">
         <head>ACT 2 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-0879.2"
-                      n="SD 2.1.0"
-                      type="entrance"
-                      who="#Menenius_Cor #TRIBUNES.Sicinius_Cor #TRIBUNES.Brutus_Cor">Enter Menenius with the two Tribunes of the people, Sicinius and Brutus. </stage>
+          <stage xml:id="stg-0879.2" n="SD 2.1.0" type="entrance" who="#Menenius_Cor #TRIBUNES.Sicinius_Cor #TRIBUNES.Brutus_Cor">Enter Menenius with the two Tribunes of the people, Sicinius and Brutus. </stage>
           <sp xml:id="sp-0880" who="#Menenius_Cor">
             <speaker xml:id="spk-0880">MENENIUS </speaker>
             <p xml:id="p-0880">
@@ -2496,14 +2314,8 @@
             <speaker xml:id="spk-0965">MENENIUS </speaker>
             <p xml:id="p-0965">
               <lb xml:id="ftln-0965" n="2.1.86"/>Our very priests must become mockers if <lb xml:id="ftln-0966" n="2.1.87"/>they shall encounter such ridiculous subjects as <lb xml:id="ftln-0967" n="2.1.88"/>you are. When you speak best unto the purpose, it <lb xml:id="ftln-0968" n="2.1.89"/>is not worth the wagging of your beards, and your <lb xml:id="ftln-0969" n="2.1.90"/>beards deserve not so honorable a grave as to <lb xml:id="ftln-0970" n="2.1.91"/>stuff a botcher’s cushion or to be entombed in an <lb xml:id="ftln-0971" n="2.1.92"/>ass’s packsaddle. Yet you must be saying Martius is <lb xml:id="ftln-0972" n="2.1.93"/>proud, who, in a cheap estimation, is worth all <lb xml:id="ftln-0973" n="2.1.94"/>your predecessors since Deucalion, though peradventure <lb xml:id="ftln-0974" n="2.1.95"/>some of the best of ’em were hereditary <lb xml:id="ftln-0975" n="2.1.96"/>hangmen. Good e’en to your Worships. More of <lb xml:id="ftln-0976" n="2.1.97"/>your conversation would infect my brain, being <lb xml:id="ftln-0977" n="2.1.98"/>the herdsmen of the beastly plebeians. I will be <lb xml:id="ftln-0978" n="2.1.99"/>bold to take my leave of you. </p>
-            <stage xml:id="stg-0978.1"
-                         n="SD 2.1.99.1"
-                         type="business"
-                         who="#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor">He begins to exit. Brutus and Sicinius stand aside. </stage>
-            <stage xml:id="stg-0978.2"
-                         n="SD 2.1.99.2"
-                         type="entrance"
-                         who="#Volumnia_Cor #Virgilia_Cor #Valeria_Cor">Enter Volumnia, Virgilia, and Valeria. </stage>
+            <stage xml:id="stg-0978.1" n="SD 2.1.99.1" type="business" who="#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor">He begins to exit. Brutus and Sicinius stand aside. </stage>
+            <stage xml:id="stg-0978.2" n="SD 2.1.99.2" type="entrance" who="#Volumnia_Cor #Virgilia_Cor #Valeria_Cor">Enter Volumnia, Virgilia, and Valeria. </stage>
             <p xml:id="p-0979">
               <lb xml:id="ftln-0979" n="2.1.100"/>How now, my as fair as noble ladies— and the <lb xml:id="ftln-0980" n="2.1.101"/>moon, were she earthly, no nobler— whither do <lb xml:id="ftln-0981" n="2.1.102"/>you follow your eyes so fast? </p>
           </sp>
@@ -2526,11 +2338,7 @@
             <speaker xml:id="spk-0987">MENENIUS </speaker>
             <p xml:id="p-0987">
               <lb xml:id="ftln-0987" n="2.1.108"/>Take my cap, Jupiter, and I thank thee! </p>
-            <stage xml:id="stg-0987"
-                         n="SD 2.1.108"
-                         type="business"
-                         rendition="inline"
-                         who="#Menenius_Cor"> ( He throws his cap in the air.) </stage>
+            <stage xml:id="stg-0987" n="SD 2.1.108" type="business" rendition="inline" who="#Menenius_Cor"> ( He throws his cap in the air.) </stage>
             <p xml:id="p-0988">
               <lb xml:id="ftln-0988" n="2.1.109"/>Hoo! Martius coming <lb xml:id="ftln-0989" n="2.1.110"/>home? </p>
           </sp>
@@ -2543,11 +2351,7 @@
             <speaker xml:id="spk-0991">VOLUMNIA </speaker>
             <p xml:id="p-0991">
               <lb xml:id="ftln-0991" n="2.1.112"/>Look, here’s a letter from him. </p>
-            <stage xml:id="stg-0991"
-                         n="SD 2.1.112"
-                         type="business"
-                         rendition="inline"
-                         who="#Volumnia_Cor"> She produces a paper. </stage>
+            <stage xml:id="stg-0991" n="SD 2.1.112" type="business" rendition="inline" who="#Volumnia_Cor"> She produces a paper. </stage>
             <p xml:id="p-0992">
               <lb xml:id="ftln-0992" n="2.1.113"/>The state hath another, his wife another, <lb xml:id="ftln-0993" n="2.1.114"/>and I think there’s one at home for you. </p>
           </sp>
@@ -2649,10 +2453,7 @@
           <sp xml:id="sp-1039" who="#Menenius_Cor">
             <speaker xml:id="spk-1039">MENENIUS </speaker>
             <p xml:id="p-1039">
-              <lb xml:id="ftln-1039" n="2.1.160"/>Now it’s twenty-seven. Every gash was an <lb xml:id="ftln-1040" n="2.1.161"/>enemy’s grave. <stage xml:id="stg-1040"
-                            n="SD 2.1.161"
-                            type="business"
-                            rendition="inline"> ( A shout and flourish.) </stage> Hark, the <lb xml:id="ftln-1041" n="2.1.162"/>trumpets! </p>
+              <lb xml:id="ftln-1039" n="2.1.160"/>Now it’s twenty-seven. Every gash was an <lb xml:id="ftln-1040" n="2.1.161"/>enemy’s grave. <stage xml:id="stg-1040" n="SD 2.1.161" type="business" rendition="inline"> ( A shout and flourish.) </stage> Hark, the <lb xml:id="ftln-1041" n="2.1.162"/>trumpets! </p>
           </sp>
           <sp xml:id="sp-1042" who="#Volumnia_Cor">
             <speaker xml:id="spk-1042">VOLUMNIA </speaker>
@@ -2664,10 +2465,7 @@
           <stage xml:id="stg-1045.1" n="SD 2.1.166.1" type="business">
             <stage xml:id="snd-1045.1" n="SD 2.1.166.1" type="sound" ana="sennet">A sennet. </stage>
           </stage>
-          <stage xml:id="stg-1045.2"
-                      n="SD 2.1.166.2"
-                      type="entrance"
-                      who="#Cominius_Cor #Lartius_Cor #Coriolanus_Cor #SOLDIERS.ROMAN_Cor #Herald_Cor">Enter Cominius the General and Titus Lartius, between them Coriolanus crowned with an oaken garland, with Captains and Soldiers and a Herald. <stage xml:id="snd-1045.2" n="SD 2.1.166.2" type="sound" ana="trumpet">Trumpets sound. </stage>
+          <stage xml:id="stg-1045.2" n="SD 2.1.166.2" type="entrance" who="#Cominius_Cor #Lartius_Cor #Coriolanus_Cor #SOLDIERS.ROMAN_Cor #Herald_Cor">Enter Cominius the General and Titus Lartius, between them Coriolanus crowned with an oaken garland, with Captains and Soldiers and a Herald. <stage xml:id="snd-1045.2" n="SD 2.1.166.2" type="sound" ana="trumpet">Trumpets sound. </stage>
           </stage>
           <sp xml:id="sp-1046" who="#Herald_Cor">
             <speaker xml:id="spk-1046">HERALD </speaker>
@@ -2678,13 +2476,9 @@
             <l xml:id="ftln-1050" n="2.1.171">Welcome to Rome, renownèd Coriolanus. </l>
           </sp>
           <stage xml:id="stg-1050.1" n="SD 2.1.171.1" type="business">
-            <stage xml:id="snd-1050.1"
-                         n="SD 2.1.171.1"
-                         type="sound"
-                         ana="flourish">Sound flourish. </stage>
+            <stage xml:id="snd-1050.1" n="SD 2.1.171.1" type="sound" ana="flourish">Sound flourish. </stage>
           </stage>
-          <sp xml:id="sp-1051"
-                   who="#Menenius_Cor #Volumnia_Cor #Virgilia_Cor #Valeria_Cor">
+          <sp xml:id="sp-1051" who="#Menenius_Cor #Volumnia_Cor #Virgilia_Cor #Valeria_Cor">
             <speaker xml:id="spk-1051">ALL </speaker>
             <l xml:id="ftln-1051" n="2.1.172">Welcome to Rome, renownèd Coriolanus! </l>
           </sp>
@@ -2703,17 +2497,11 @@
             <l xml:id="ftln-1056" n="2.1.177">You have, I know, petitioned all the gods </l>
             <l xml:id="ftln-1057" n="2.1.178" part="I">For my prosperity. </l>
           </sp>
-          <stage xml:id="stg-1057"
-                      n="SD 2.1.178"
-                      type="business"
-                      who="#Coriolanus_Cor">Kneels. </stage>
+          <stage xml:id="stg-1057" n="SD 2.1.178" type="business" who="#Coriolanus_Cor">Kneels. </stage>
           <sp xml:id="sp-1058" who="#Volumnia_Cor">
             <speaker xml:id="spk-1058">VOLUMNIA </speaker>
             <l xml:id="ftln-1058" n="2.1.179" part="F">Nay, my good soldier, up. </l>
-            <stage xml:id="stg-1058.1"
-                         n="SD 2.1.179.1"
-                         type="business"
-                         who="#Coriolanus_Cor">He stands. </stage>
+            <stage xml:id="stg-1058.1" n="SD 2.1.179.1" type="business" who="#Coriolanus_Cor">He stands. </stage>
             <l xml:id="ftln-1059" n="2.1.180">My gentle Martius, worthy Caius, and </l>
             <l xml:id="ftln-1060" n="2.1.181">By deed-achieving honor newly named— </l>
             <l xml:id="ftln-1061" n="2.1.182">What is it? Coriolanus must I call thee? </l>
@@ -2791,19 +2579,9 @@
             <speaker xml:id="spk-1102">COMINIUS </speaker>
             <l xml:id="ftln-1102" n="2.1.223" part="F">On, to the Capitol. </l>
           </sp>
-          <stage xml:id="stg-1102.1"
-                      n="SD 2.1.223.1"
-                      type="exit"
-                      who="#Cominius_Cor #Lartius_Cor #Coriolanus_Cor #SOLDIERS.ROMAN_Cor #Herald_Cor #Menenius_Cor #Volumnia_Cor #Virgilia_Cor #Valeria_Cor">
-            <stage xml:id="snd-1102.1"
-                         n="SD 2.1.223.1"
-                         type="sound"
-                         ana="flourish cornet">Flourish of cornets. </stage> They exit in state, as before. </stage>
-          <stage xml:id="stg-1102.2"
-                      n="SD 2.1.223.2"
-                      type="business"
-                      rendition="centered"
-                      who="#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor">Brutus and Sicinius come forward. </stage>
+          <stage xml:id="stg-1102.1" n="SD 2.1.223.1" type="exit" who="#Cominius_Cor #Lartius_Cor #Coriolanus_Cor #SOLDIERS.ROMAN_Cor #Herald_Cor #Menenius_Cor #Volumnia_Cor #Virgilia_Cor #Valeria_Cor">
+            <stage xml:id="snd-1102.1" n="SD 2.1.223.1" type="sound" ana="flourish cornet">Flourish of cornets. </stage> They exit in state, as before. </stage>
+          <stage xml:id="stg-1102.2" n="SD 2.1.223.2" type="business" rendition="centered" who="#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor">Brutus and Sicinius come forward. </stage>
           <sp xml:id="sp-1103" who="#TRIBUNES.Brutus_Cor">
             <speaker xml:id="spk-1103">BRUTUS </speaker>
             <l xml:id="ftln-1103" n="2.1.224">All tongues speak of him, and the blearèd sights </l>
@@ -2911,10 +2689,7 @@
             <l xml:id="ftln-1168" n="2.1.289">To kindle their dry stubble, and their blaze </l>
             <l xml:id="ftln-1169" n="2.1.290" part="I">Shall darken him forever. </l>
           </sp>
-          <stage xml:id="stg-1169.1"
-                      n="SD 2.1.290.1"
-                      type="entrance"
-                      who="#MESSENGERS.X.4_Cor">Enter a Messenger. </stage>
+          <stage xml:id="stg-1169.1" n="SD 2.1.290.1" type="entrance" who="#MESSENGERS.X.4_Cor">Enter a Messenger. </stage>
           <sp xml:id="sp-1170" who="#TRIBUNES.Brutus_Cor">
             <speaker xml:id="spk-1170">BRUTUS </speaker>
             <l xml:id="ftln-1170" n="2.1.291" part="F">What’s the matter? </l>
@@ -2941,17 +2716,11 @@
             <speaker xml:id="spk-1183">SICINIUS </speaker>
             <l xml:id="ftln-1183" n="2.1.304" part="F">Have with you. </l>
           </sp>
-          <stage xml:id="stg-1183.1"
-                      n="SD 2.1.304.1"
-                      type="exit"
-                      who="#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #MESSENGERS.X.4_Cor">They exit. </stage>
+          <stage xml:id="stg-1183.1" n="SD 2.1.304.1" type="exit" who="#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #MESSENGERS.X.4_Cor">They exit. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-1183.2"
-                      n="SD 2.2.0"
-                      type="entrance"
-                      who="#OFFICERS.1_Cor #OFFICERS.2_Cor">Enter two Officers, to lay cushions, as it were in the Capitol. </stage>
+          <stage xml:id="stg-1183.2" n="SD 2.2.0" type="entrance" who="#OFFICERS.1_Cor #OFFICERS.2_Cor">Enter two Officers, to lay cushions, as it were in the Capitol. </stage>
           <sp xml:id="sp-1184" who="#OFFICERS.1_Cor">
             <speaker xml:id="spk-1184">FIRST OFFICER </speaker>
             <p xml:id="p-1184">
@@ -2987,10 +2756,7 @@
             <p xml:id="p-1218">
               <lb xml:id="ftln-1218" n="2.2.35"/>No more of him; he’s a worthy man. <lb xml:id="ftln-1219" n="2.2.36"/>Make way. They are coming. </p>
           </sp>
-          <stage xml:id="stg-1219.1"
-                      n="SD 2.2.36.1"
-                      type="entrance"
-                      who="#SENATORS.ROMAN_Cor #TRIBUNES.Sicinius_Cor #TRIBUNES.Brutus_Cor #LICTORS_Cor #Coriolanus_Cor #Menenius_Cor #Cominius_Cor">
+          <stage xml:id="stg-1219.1" n="SD 2.2.36.1" type="entrance" who="#SENATORS.ROMAN_Cor #TRIBUNES.Sicinius_Cor #TRIBUNES.Brutus_Cor #LICTORS_Cor #Coriolanus_Cor #Menenius_Cor #Cominius_Cor">
             <stage xml:id="snd-1219.1" n="SD 2.2.36.1" type="sound" ana="sennet">A sennet. </stage> Enter the Patricians and the Tribunes of the people, Lictors before them; Coriolanus, Menenius, Cominius the consul. The Patricians sit. Sicinius and Brutus take their places by themselves. Coriolanus stands. </stage>
           <sp xml:id="sp-1220" who="#Menenius_Cor">
             <speaker xml:id="spk-1220">MENENIUS </speaker>
@@ -3007,10 +2773,7 @@
             <l xml:id="ftln-1231" n="2.2.48">We met here both to thank and to remember </l>
             <l xml:id="ftln-1232" n="2.2.49" part="I">With honors like himself. </l>
           </sp>
-          <stage xml:id="stg-1232"
-                      n="SD 2.2.49"
-                      type="business"
-                      who="#Coriolanus_Cor">Coriolanus sits. </stage>
+          <stage xml:id="stg-1232" n="SD 2.2.49" type="business" who="#Coriolanus_Cor">Coriolanus sits. </stage>
           <sp xml:id="sp-1233" who="#SENATORS.ROMAN.0.1_Cor">
             <speaker xml:id="spk-1233">FIRST SENATOR </speaker>
             <l xml:id="ftln-1233" n="2.2.50" part="F">Speak, good Cominius. </l>
@@ -3052,10 +2815,7 @@
             <l xml:id="ftln-1255" n="2.2.72" part="F">He loves your people, </l>
             <l xml:id="ftln-1256" n="2.2.73">But tie him not to be their bedfellow.— </l>
             <l xml:id="ftln-1257" n="2.2.74" part="I">Worthy Cominius, speak. </l>
-            <stage xml:id="stg-1257.1"
-                         n="SD 2.2.74.1"
-                         type="business"
-                         who="#Coriolanus_Cor">Coriolanus rises and offers to go away. </stage>
+            <stage xml:id="stg-1257.1" n="SD 2.2.74.1" type="business" who="#Coriolanus_Cor">Coriolanus rises and offers to go away. </stage>
             <l xml:id="ftln-1258" n="2.2.75" part="F">Nay, keep your place. </l>
           </sp>
           <sp xml:id="sp-1259" who="#SENATORS.ROMAN.0.1_Cor">
@@ -3091,10 +2851,7 @@
             <l xml:id="ftln-1273" n="2.2.90">When the alarum were struck than idly sit </l>
             <l xml:id="ftln-1274" n="2.2.91" part="I">To hear my nothings monstered. </l>
           </sp>
-          <stage xml:id="stg-1274"
-                      n="SD 2.2.91"
-                      type="exit"
-                      who="#Coriolanus_Cor">Coriolanus exits. </stage>
+          <stage xml:id="stg-1274" n="SD 2.2.91" type="exit" who="#Coriolanus_Cor">Coriolanus exits. </stage>
           <sp xml:id="sp-1275" who="#Menenius_Cor">
             <speaker xml:id="spk-1275">MENENIUS </speaker>
             <l xml:id="ftln-1275" n="2.2.92" part="F">Masters of the people, </l>
@@ -3178,10 +2935,7 @@
             <speaker xml:id="spk-1334">OFFICER </speaker>
             <l xml:id="ftln-1334" n="2.2.151" ana="#short">He doth appear. </l>
           </sp>
-          <stage xml:id="stg-1334.1"
-                      n="SD 2.2.151.1"
-                      type="entrance"
-                      who="#Coriolanus_Cor">Enter Coriolanus. </stage>
+          <stage xml:id="stg-1334.1" n="SD 2.2.151.1" type="entrance" who="#Coriolanus_Cor">Enter Coriolanus. </stage>
           <sp xml:id="sp-1335" who="#Menenius_Cor">
             <speaker xml:id="spk-1335">MENENIUS </speaker>
             <l xml:id="ftln-1335" n="2.2.152">The Senate, Coriolanus, are well pleased </l>
@@ -3248,14 +3002,8 @@
             <speaker xml:id="spk-1366">SENATORS </speaker>
             <l xml:id="ftln-1366" n="2.2.183">To Coriolanus come all joy and honor! </l>
           </sp>
-          <stage xml:id="stg-1366.1"
-                      n="SD 2.2.183.1"
-                      type="exit"
-                      who="#SENATORS.ROMAN_Cor #LICTORS_Cor #Coriolanus_Cor #Menenius_Cor #Cominius_Cor #Lartius_Cor #OFFICERS.1_Cor #OFFICERS.2_Cor">
-            <stage xml:id="snd-1366.1"
-                         n="SD 2.2.183.1"
-                         type="sound"
-                         ana="flourish cornet">Flourish cornets. </stage> Then they exit. Sicinius and Brutus remain. </stage>
+          <stage xml:id="stg-1366.1" n="SD 2.2.183.1" type="exit" who="#SENATORS.ROMAN_Cor #LICTORS_Cor #Coriolanus_Cor #Menenius_Cor #Cominius_Cor #Lartius_Cor #OFFICERS.1_Cor #OFFICERS.2_Cor">
+            <stage xml:id="snd-1366.1" n="SD 2.2.183.1" type="sound" ana="flourish cornet">Flourish cornets. </stage> Then they exit. Sicinius and Brutus remain. </stage>
           <sp xml:id="sp-1367" who="#TRIBUNES.Brutus_Cor">
             <speaker xml:id="spk-1367">BRUTUS </speaker>
             <l xml:id="ftln-1367" n="2.2.184">You see how he intends to use the people. </l>
@@ -3272,17 +3020,11 @@
             <l xml:id="ftln-1372" n="2.2.189">Of our proceedings here. On th’ marketplace </l>
             <l xml:id="ftln-1373" n="2.2.190" ana="#short">I know they do attend us. </l>
           </sp>
-          <stage xml:id="stg-1373.1"
-                      n="SD 2.2.190.1"
-                      type="exit"
-                      who="#TRIBUNES.Sicinius_Cor #TRIBUNES.Brutus_Cor">They exit. </stage>
+          <stage xml:id="stg-1373.1" n="SD 2.2.190.1" type="exit" who="#TRIBUNES.Sicinius_Cor #TRIBUNES.Brutus_Cor">They exit. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-1373.2"
-                      n="SD 2.3.0"
-                      type="entrance"
-                      who="#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor">Enter seven or eight Citizens. </stage>
+          <stage xml:id="stg-1373.2" n="SD 2.3.0" type="entrance" who="#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor">Enter seven or eight Citizens. </stage>
           <sp xml:id="sp-1374" who="#CITIZENS.ROMAN.1_Cor">
             <speaker xml:id="spk-1374">FIRST CITIZEN </speaker>
             <p xml:id="p-1374">
@@ -3337,23 +3079,16 @@
             <speaker xml:id="spk-1411">THIRD CITIZEN </speaker>
             <p xml:id="p-1411">
               <lb xml:id="ftln-1411" n="2.3.38"/>Are you all resolved to give your voices? <lb xml:id="ftln-1412" n="2.3.39"/>But that’s no matter; the greater part carries it. I <lb xml:id="ftln-1413" n="2.3.40"/>say, if he would incline to the people, there was <lb xml:id="ftln-1414" n="2.3.41"/>never a worthier man. </p>
-            <stage xml:id="stg-1414.1"
-                         n="SD 2.3.41.1"
-                         type="entrance"
-                         who="#Coriolanus_Cor #Menenius_Cor">Enter Coriolanus in a gown of humility, with Menenius. </stage>
+            <stage xml:id="stg-1414.1" n="SD 2.3.41.1" type="entrance" who="#Coriolanus_Cor #Menenius_Cor">Enter Coriolanus in a gown of humility, with Menenius. </stage>
             <p xml:id="p-1415">
               <lb xml:id="ftln-1415" n="2.3.42"/>Here he comes, and in the gown of humility. Mark <lb xml:id="ftln-1416" n="2.3.43"/>his behavior. We are not to stay all together, but to <lb xml:id="ftln-1417" n="2.3.44"/>come by him where he stands, by ones, by twos, <lb xml:id="ftln-1418" n="2.3.45"/>and by threes. He’s to make his requests by particulars, <lb xml:id="ftln-1419" n="2.3.46"/>wherein every one of us has a single honor <lb xml:id="ftln-1420" n="2.3.47"/>in giving him our own voices with our own tongues. <lb xml:id="ftln-1421" n="2.3.48"/>Therefore follow me, and I’ll direct you how you <lb xml:id="ftln-1422" n="2.3.49"/>shall go by him. </p>
           </sp>
-          <sp xml:id="sp-1423"
-                   who="#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor">
+          <sp xml:id="sp-1423" who="#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor">
             <speaker xml:id="spk-1423">ALL </speaker>
             <p xml:id="p-1423">
               <lb xml:id="ftln-1423" n="2.3.50"/>Content, content. </p>
           </sp>
-          <stage xml:id="stg-1423"
-                      n="SD 2.3.50"
-                      type="exit"
-                      who="#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor">Citizens exit. </stage>
+          <stage xml:id="stg-1423" n="SD 2.3.50" type="exit" who="#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor">Citizens exit. </stage>
           <sp xml:id="sp-1424" who="#Menenius_Cor">
             <speaker xml:id="spk-1424">MENENIUS </speaker>
             <l xml:id="ftln-1424" n="2.3.51">O sir, you are not right. Have you not known </l>
@@ -3391,10 +3126,7 @@
             <speaker xml:id="spk-1441">CORIOLANUS </speaker>
             <l xml:id="ftln-1441" n="2.3.68" part="F">Bid them wash their faces </l>
             <l xml:id="ftln-1442" n="2.3.69" part="I">And keep their teeth clean. </l>
-            <stage xml:id="stg-1442.1"
-                         n="SD 2.3.69.1"
-                         type="entrance"
-                         who="#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor">Enter three of the Citizens. </stage>
+            <stage xml:id="stg-1442.1" n="SD 2.3.69.1" type="entrance" who="#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor">Enter three of the Citizens. </stage>
             <l xml:id="ftln-1443" n="2.3.70" part="F">So, here comes a brace.— </l>
             <l xml:id="ftln-1444" n="2.3.71">You know the cause, sir, of my standing here. </l>
           </sp>
@@ -3468,14 +3200,8 @@
             <p xml:id="p-1465">
               <lb xml:id="ftln-1465" n="2.3.92"/>An ’twere to give again— but ’tis no <lb xml:id="ftln-1466" n="2.3.93"/>matter. </p>
           </sp>
-          <stage xml:id="stg-1466"
-                      n="SD 2.3.93"
-                      type="exit"
-                      who="#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor">These citizens exit. </stage>
-          <stage xml:id="stg-1466.1"
-                      n="SD 2.3.93.1"
-                      type="entrance"
-                      who="#CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor">Enter two other Citizens. </stage>
+          <stage xml:id="stg-1466" n="SD 2.3.93" type="exit" who="#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor">These citizens exit. </stage>
+          <stage xml:id="stg-1466.1" n="SD 2.3.93.1" type="entrance" who="#CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor">Enter two other Citizens. </stage>
           <sp xml:id="sp-1467" who="#Coriolanus_Cor">
             <speaker xml:id="spk-1467">CORIOLANUS </speaker>
             <p xml:id="p-1467">
@@ -3521,10 +3247,7 @@
             <p xml:id="p-1494">
               <lb xml:id="ftln-1494" n="2.3.121"/>The gods give you joy, sir, heartily. </p>
           </sp>
-          <stage xml:id="stg-1494.1"
-                      n="SD 2.3.121.1"
-                      type="exit"
-                      who="#CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor">Citizens exit. </stage>
+          <stage xml:id="stg-1494.1" n="SD 2.3.121.1" type="exit" who="#CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor">Citizens exit. </stage>
           <sp xml:id="sp-1495" who="#Coriolanus_Cor">
             <speaker xml:id="spk-1495">CORIOLANUS </speaker>
             <l xml:id="ftln-1495" n="2.3.122" ana="#short">Most sweet voices! </l>
@@ -3540,10 +3263,7 @@
             <l xml:id="ftln-1505" n="2.3.132">Let the high office and the honor go </l>
             <l xml:id="ftln-1506" n="2.3.133">To one that would do thus. I am half through; </l>
             <l xml:id="ftln-1507" n="2.3.134">The one part suffered, the other will I do. </l>
-            <stage xml:id="stg-1507.1"
-                         n="SD 2.3.134.1"
-                         type="entrance"
-                         who="#CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor">Enter three Citizens more. </stage>
+            <stage xml:id="stg-1507.1" n="SD 2.3.134.1" type="entrance" who="#CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor">Enter three Citizens more. </stage>
             <l xml:id="ftln-1508" n="2.3.135" ana="#short">Here come more voices.— </l>
             <l xml:id="ftln-1509" n="2.3.136">Your voices! For your voices I have fought; </l>
             <l xml:id="ftln-1510" n="2.3.137">Watched for your voices; for your voices bear </l>
@@ -3562,24 +3282,17 @@
             <p xml:id="p-1518">
               <lb xml:id="ftln-1518" n="2.3.145"/>Therefore let him be consul. The <lb xml:id="ftln-1519" n="2.3.146"/>gods give him joy, and make him good friend to <lb xml:id="ftln-1520" n="2.3.147"/>the people! </p>
           </sp>
-          <sp xml:id="sp-1521"
-                   who="#CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor">
+          <sp xml:id="sp-1521" who="#CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor">
             <speaker xml:id="spk-1521">ALL </speaker>
             <p xml:id="p-1521">
               <lb xml:id="ftln-1521" n="2.3.148"/>Amen, amen. God save thee, noble consul. </p>
           </sp>
-          <stage xml:id="stg-1521.1"
-                      n="SD 2.3.148.1"
-                      type="exit"
-                      who="#CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor">Citizens exit. </stage>
+          <stage xml:id="stg-1521.1" n="SD 2.3.148.1" type="exit" who="#CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor">Citizens exit. </stage>
           <sp xml:id="sp-1522" who="#Coriolanus_Cor">
             <speaker xml:id="spk-1522">CORIOLANUS </speaker>
             <l xml:id="ftln-1522" n="2.3.149" ana="#short">Worthy voices! </l>
           </sp>
-          <stage xml:id="stg-1522.1"
-                      n="SD 2.3.149.1"
-                      type="entrance"
-                      who="#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor">Enter Menenius, with Brutus and Sicinius. </stage>
+          <stage xml:id="stg-1522.1" n="SD 2.3.149.1" type="entrance" who="#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor">Enter Menenius, with Brutus and Sicinius. </stage>
           <sp xml:id="sp-1523" who="#Menenius_Cor">
             <speaker xml:id="spk-1523">MENENIUS </speaker>
             <l xml:id="ftln-1523" n="2.3.150">You have stood your limitation, and the Tribunes </l>
@@ -3629,10 +3342,7 @@
           <sp xml:id="sp-1539" who="#TRIBUNES.Sicinius_Cor">
             <speaker xml:id="spk-1539">SICINIUS </speaker>
             <l xml:id="ftln-1539" n="2.3.166" part="F">Fare you well. </l>
-            <stage xml:id="stg-1539.1"
-                         n="SD 2.3.166.1"
-                         type="exit"
-                         who="#Coriolanus_Cor #Menenius_Cor">Coriolanus and Menenius exit. </stage>
+            <stage xml:id="stg-1539.1" n="SD 2.3.166.1" type="exit" who="#Coriolanus_Cor #Menenius_Cor">Coriolanus and Menenius exit. </stage>
             <l xml:id="ftln-1540" n="2.3.167">He has it now; and by his looks, methinks, </l>
             <l xml:id="ftln-1541" n="2.3.168" part="I">’Tis warm at ’s heart. </l>
           </sp>
@@ -3641,10 +3351,7 @@
             <l xml:id="ftln-1542" n="2.3.169" part="F">With a proud heart he wore </l>
             <l xml:id="ftln-1543" n="2.3.170">His humble weeds. Will you dismiss the people? </l>
           </sp>
-          <stage xml:id="stg-1543.1"
-                      n="SD 2.3.170.1"
-                      type="entrance"
-                      who="#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor">Enter the Plebeians. </stage>
+          <stage xml:id="stg-1543.1" n="SD 2.3.170.1" type="entrance" who="#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor">Enter the Plebeians. </stage>
           <sp xml:id="sp-1544" who="#TRIBUNES.Sicinius_Cor">
             <speaker xml:id="spk-1544">SICINIUS </speaker>
             <l xml:id="ftln-1544" n="2.3.171">How now, my masters, have you chose this man? </l>
@@ -3680,8 +3387,7 @@
             <speaker xml:id="spk-1554">SICINIUS </speaker>
             <l xml:id="ftln-1554" n="2.3.181" ana="#short">Why, so he did, I am sure. </l>
           </sp>
-          <sp xml:id="sp-1555"
-                   who="#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor">
+          <sp xml:id="sp-1555" who="#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor">
             <speaker xml:id="spk-1555">ALL </speaker>
             <l xml:id="ftln-1555" n="2.3.182" ana="#short">No, no. No man saw ’em. </l>
           </sp>
@@ -3831,16 +3537,12 @@
             <l xml:id="ftln-1655" n="2.3.282">And presently, when you have drawn your number, </l>
             <l xml:id="ftln-1656" n="2.3.283" part="I">Repair to th’ Capitol. </l>
           </sp>
-          <sp xml:id="sp-1657"
-                   who="#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor">
+          <sp xml:id="sp-1657" who="#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor">
             <speaker xml:id="spk-1657">ALL </speaker>
             <l xml:id="ftln-1657" n="2.3.284" part="F">We will so. Almost all </l>
             <l xml:id="ftln-1658" n="2.3.285" part="I">Repent in their election. </l>
           </sp>
-          <stage xml:id="stg-1658"
-                      n="SD 2.3.285"
-                      type="exit"
-                      who="#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor">Plebeians exit. </stage>
+          <stage xml:id="stg-1658" n="SD 2.3.285" type="exit" who="#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor">Plebeians exit. </stage>
           <sp xml:id="sp-1659" who="#TRIBUNES.Brutus_Cor">
             <speaker xml:id="spk-1659">BRUTUS </speaker>
             <l xml:id="ftln-1659" n="2.3.286" part="F">Let them go on. </l>
@@ -3857,20 +3559,14 @@
             <l xml:id="ftln-1667" n="2.3.294">And this shall seem, as partly ’tis, their own, </l>
             <l xml:id="ftln-1668" n="2.3.295" ana="#short">Which we have goaded onward. </l>
           </sp>
-          <stage xml:id="stg-1668.1"
-                      n="SD 2.3.295.1"
-                      type="exit"
-                      who="#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor">They exit. </stage>
+          <stage xml:id="stg-1668.1" n="SD 2.3.295.1" type="exit" who="#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor">They exit. </stage>
         </div>
       </div>
       <div type="act" n="3">
         <head>ACT 3 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-1668.2b"
-                      n="SD 3.1.0"
-                      type="entrance"
-                      who="#Coriolanus_Cor #Menenius_Cor #Cominius_Cor #Lartius_Cor #SENATORS.ROMAN_Cor">
+          <stage xml:id="stg-1668.2b" n="SD 3.1.0" type="entrance" who="#Coriolanus_Cor #Menenius_Cor #Cominius_Cor #Lartius_Cor #SENATORS.ROMAN_Cor">
             <stage xml:id="snd-1668.2" n="SD 3.1.0" type="sound" ana="cornet">Cornets. </stage> Enter Coriolanus, Menenius, all the Gentry, Cominius, Titus Lartius, and other Senators. </stage>
           <sp xml:id="sp-1669" who="#Coriolanus_Cor">
             <speaker xml:id="spk-1669">CORIOLANUS </speaker>
@@ -3935,10 +3631,7 @@
             <speaker xml:id="spk-1692">CORIOLANUS </speaker>
             <l xml:id="ftln-1692" n="3.1.24">I wish I had a cause to seek him there, </l>
             <l xml:id="ftln-1693" n="3.1.25">To oppose his hatred fully. Welcome home. </l>
-            <stage xml:id="stg-1693.1"
-                         n="SD 3.1.25.1"
-                         type="entrance"
-                         who="#TRIBUNES.Sicinius_Cor #TRIBUNES.Brutus_Cor">Enter Sicinius and Brutus. </stage>
+            <stage xml:id="stg-1693.1" n="SD 3.1.25.1" type="entrance" who="#TRIBUNES.Sicinius_Cor #TRIBUNES.Brutus_Cor">Enter Sicinius and Brutus. </stage>
             <l xml:id="ftln-1694" n="3.1.26">Behold, these are the tribunes of the people, </l>
             <l xml:id="ftln-1695" n="3.1.27">The tongues o’ th’ common mouth. I do despise them, </l>
             <l xml:id="ftln-1697" n="3.1.29">For they do prank them in authority </l>
@@ -4287,17 +3980,10 @@
             <speaker xml:id="spk-1885">BRUTUS </speaker>
             <l xml:id="ftln-1885" n="3.1.217" ana="#short">The aediles, ho! Let him be apprehended. </l>
           </sp>
-          <stage xml:id="stg-1885.1"
-                      n="SD 3.1.217.1"
-                      type="entrance"
-                      who="#AEDILES.X.1_Cor">Enter an Aedile. </stage>
+          <stage xml:id="stg-1885.1" n="SD 3.1.217.1" type="entrance" who="#AEDILES.X.1_Cor">Enter an Aedile. </stage>
           <sp xml:id="sp-1886" who="#TRIBUNES.Sicinius_Cor">
             <speaker xml:id="spk-1886">SICINIUS </speaker>
-            <l xml:id="ftln-1886" n="3.1.218">Go, call the people; <stage xml:id="stg-1886"
-                            n="SD 3.1.218"
-                            type="exit"
-                            rendition="inline"
-                            who="#AEDILES.X.1_Cor"> Aedile exits. </stage> in whose name myself </l>
+            <l xml:id="ftln-1886" n="3.1.218">Go, call the people; <stage xml:id="stg-1886" n="SD 3.1.218" type="exit" rendition="inline" who="#AEDILES.X.1_Cor"> Aedile exits. </stage> in whose name myself </l>
             <l xml:id="ftln-1888" n="3.1.220">Attach thee as a traitorous innovator, </l>
             <l xml:id="ftln-1889" n="3.1.221">A foe to th’ public weal. Obey, I charge thee, </l>
             <l xml:id="ftln-1890" n="3.1.222" part="I">And follow to thine answer. </l>
@@ -4325,10 +4011,7 @@
             <speaker xml:id="spk-1896">SICINIUS </speaker>
             <l xml:id="ftln-1896" n="3.1.228" part="F">Help, you citizens! </l>
           </sp>
-          <stage xml:id="stg-1896.1"
-                      n="SD 3.1.228.1"
-                      type="entrance"
-                      who="#CITIZENS.ROMAN_Cor #AEDILES_Cor">Enter a rabble of Plebeians with the Aediles. </stage>
+          <stage xml:id="stg-1896.1" n="SD 3.1.228.1" type="entrance" who="#CITIZENS.ROMAN_Cor #AEDILES_Cor">Enter a rabble of Plebeians with the Aediles. </stage>
           <sp xml:id="sp-1897" who="#Menenius_Cor">
             <speaker xml:id="spk-1897">MENENIUS </speaker>
             <l xml:id="ftln-1897" n="3.1.229" ana="#short">On both sides more respect! </l>
@@ -4348,15 +4031,11 @@
           <sp xml:id="sp-1901" who="#SENATORS.ROMAN.0.2_Cor">
             <speaker xml:id="spk-1901">SECOND SENATOR </speaker>
             <l xml:id="ftln-1901" n="3.1.233" ana="#short">Weapons, weapons, weapons! </l>
-            <stage xml:id="stg-1901.1"
-                         n="SD 3.1.233.1"
-                         type="business"
-                         who="#CITIZENS.ROMAN_Cor #AEDILES_Cor">They all bustle about Coriolanus. </stage>
+            <stage xml:id="stg-1901.1" n="SD 3.1.233.1" type="business" who="#CITIZENS.ROMAN_Cor #AEDILES_Cor">They all bustle about Coriolanus. </stage>
             <l xml:id="ftln-1902" n="3.1.234">Tribunes, patricians, citizens, what ho! </l>
             <l xml:id="ftln-1903" n="3.1.235">Sicinius, Brutus, Coriolanus, citizens! </l>
           </sp>
-          <sp xml:id="sp-1904"
-                   who="#SENATORS.ROMAN_Cor #TRIBUNES.Sicinius_Cor #TRIBUNES.Brutus_Cor #Menenius_Cor #Cominius_Cor #Lartius_Cor">
+          <sp xml:id="sp-1904" who="#SENATORS.ROMAN_Cor #TRIBUNES.Sicinius_Cor #TRIBUNES.Brutus_Cor #Menenius_Cor #Cominius_Cor #Lartius_Cor">
             <speaker xml:id="spk-1904">ALL </speaker>
             <l xml:id="ftln-1904" n="3.1.236" ana="#short">Peace, peace, peace! Stay, hold, peace! </l>
           </sp>
@@ -4467,10 +4146,7 @@
             <l xml:id="ftln-1947" n="3.1.279">Where the disease is violent.— Lay hands upon him, </l>
             <l xml:id="ftln-1948" n="3.1.280" part="I">And bear him to the rock. </l>
           </sp>
-          <stage xml:id="stg-1948.1"
-                      n="SD 3.1.280.1"
-                      type="business"
-                      who="#Coriolanus_Cor">Coriolanus draws his sword. </stage>
+          <stage xml:id="stg-1948.1" n="SD 3.1.280.1" type="business" who="#Coriolanus_Cor">Coriolanus draws his sword. </stage>
           <sp xml:id="sp-1949" who="#Coriolanus_Cor">
             <speaker xml:id="spk-1949">CORIOLANUS </speaker>
             <l xml:id="ftln-1949" n="3.1.281" part="F">No, I’ll die here. </l>
@@ -4494,18 +4170,9 @@
             <speaker xml:id="spk-1956">ALL PLEBEIANS </speaker>
             <l xml:id="ftln-1956" n="3.1.288" ana="#short">Down with him, down with him! </l>
           </sp>
-          <stage xml:id="stg-1956.1"
-                      n="SD 3.1.288.1"
-                      type="mixed"
-                      rendition="centered">
-            <stage xml:id="stg-1956.1a"
-                         n="SD 3.1.288.1"
-                         type="exit"
-                         who="#Coriolanus_Cor #SENATORS.ROMAN_Cor #Cominius_Cor #Lartius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #AEDILES_Cor #CITIZENS.ROMAN_Cor">In this mutiny, </stage>
-            <stage xml:id="stg-1956.1b"
-                         n="SD 3.1.288.1"
-                         type="exit"
-                         who="#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #AEDILES_Cor #CITIZENS.ROMAN_Cor">the Tribunes, the Aediles, and the People are beat in. </stage>
+          <stage xml:id="stg-1956.1" n="SD 3.1.288.1" type="mixed" rendition="centered">
+            <stage xml:id="stg-1956.1a" n="SD 3.1.288.1" type="exit" who="#Coriolanus_Cor #SENATORS.ROMAN_Cor #Cominius_Cor #Lartius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #AEDILES_Cor #CITIZENS.ROMAN_Cor">In this mutiny, </stage>
+            <stage xml:id="stg-1956.1b" n="SD 3.1.288.1" type="exit" who="#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #AEDILES_Cor #CITIZENS.ROMAN_Cor">the Tribunes, the Aediles, and the People are beat in. </stage>
           </stage>
           <sp xml:id="sp-1957" who="#Menenius_Cor">
             <speaker xml:id="spk-1957">MENENIUS </speaker>
@@ -4584,10 +4251,7 @@
             <speaker xml:id="spk-1992">COMINIUS </speaker>
             <l xml:id="ftln-1992" n="3.1.324" ana="#short">Nay, come away. </l>
           </sp>
-          <stage xml:id="stg-1992.1"
-                      n="SD 3.1.324.1"
-                      type="exit"
-                      who="#Coriolanus_Cor #Cominius_Cor">Coriolanus and Cominius exit. </stage>
+          <stage xml:id="stg-1992.1" n="SD 3.1.324.1" type="exit" who="#Coriolanus_Cor #Cominius_Cor">Coriolanus and Cominius exit. </stage>
           <sp xml:id="sp-1993" who="#SENATORS.ROMAN.0.1_Cor">
             <speaker xml:id="spk-1993">PATRICIAN </speaker>
             <l xml:id="ftln-1993" n="3.1.325" ana="#short">This man has marred his fortune. </l>
@@ -4612,10 +4276,7 @@
             <l xml:id="ftln-2003" n="3.1.335">I would they were in Tiber. What the vengeance, </l>
             <l xml:id="ftln-2004" n="3.1.336" part="I">Could he not speak ’em fair? </l>
           </sp>
-          <stage xml:id="stg-2004.1"
-                      n="SD 3.1.336.1"
-                      type="entrance"
-                      who="#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #CITIZENS.ROMAN_Cor #AEDILES_Cor">Enter Brutus and Sicinius with the rabble again. </stage>
+          <stage xml:id="stg-2004.1" n="SD 3.1.336.1" type="entrance" who="#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #CITIZENS.ROMAN_Cor #AEDILES_Cor">Enter Brutus and Sicinius with the rabble again. </stage>
           <sp xml:id="sp-2005" who="#TRIBUNES.Sicinius_Cor">
             <speaker xml:id="spk-2005">SICINIUS </speaker>
             <l xml:id="ftln-2005" n="3.1.337" part="F">Where is this viper </l>
@@ -4809,17 +4470,11 @@
             <speaker xml:id="spk-2099">FIRST SENATOR </speaker>
             <l xml:id="ftln-2099" n="3.1.431" part="F">Pray you, let’s to him. </l>
           </sp>
-          <stage xml:id="stg-2099.1"
-                      n="SD 3.1.431.1"
-                      type="exit"
-                      who="#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #CITIZENS.ROMAN_Cor #AEDILES_Cor #SENATORS.ROMAN_Cor #Menenius_Cor">All exit. </stage>
+          <stage xml:id="stg-2099.1" n="SD 3.1.431.1" type="exit" who="#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #CITIZENS.ROMAN_Cor #AEDILES_Cor #SENATORS.ROMAN_Cor #Menenius_Cor">All exit. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-2099.2"
-                      n="SD 3.2.0"
-                      type="entrance"
-                      who="#Coriolanus_Cor #NOBLES_Cor">Enter Coriolanus with Nobles. </stage>
+          <stage xml:id="stg-2099.2" n="SD 3.2.0" type="entrance" who="#Coriolanus_Cor #NOBLES_Cor">Enter Coriolanus with Nobles. </stage>
           <sp xml:id="sp-2100" who="#Coriolanus_Cor">
             <speaker xml:id="spk-2100">CORIOLANUS </speaker>
             <l xml:id="ftln-2100" n="3.2.1">Let them pull all about mine ears, present me </l>
@@ -4842,10 +4497,7 @@
             <l xml:id="ftln-2111" n="3.2.12">In congregations, to yawn, be still, and wonder </l>
             <l xml:id="ftln-2112" n="3.2.13">When one but of my ordinance stood up </l>
             <l xml:id="ftln-2113" n="3.2.14" part="I">To speak of peace or war. </l>
-            <stage xml:id="stg-2113.1"
-                         n="SD 3.2.14.1"
-                         type="entrance"
-                         who="#Volumnia_Cor">Enter Volumnia. </stage>
+            <stage xml:id="stg-2113.1" n="SD 3.2.14.1" type="entrance" who="#Volumnia_Cor">Enter Volumnia. </stage>
             <l xml:id="ftln-2114" n="3.2.15" part="F">I talk of you. </l>
             <l xml:id="ftln-2115" n="3.2.16">Why did you wish me milder? Would you have me </l>
             <l xml:id="ftln-2116" n="3.2.17">False to my nature? Rather say I play </l>
@@ -4877,10 +4529,7 @@
             <speaker xml:id="spk-2128">VOLUMNIA </speaker>
             <l xml:id="ftln-2128" n="3.2.29" ana="#short">Ay, and burn too. </l>
           </sp>
-          <stage xml:id="stg-2128.1"
-                      n="SD 3.2.29.1"
-                      type="entrance"
-                      who="#Menenius_Cor #SENATORS.ROMAN_Cor">Enter Menenius with the Senators. </stage>
+          <stage xml:id="stg-2128.1" n="SD 3.2.29.1" type="entrance" who="#Menenius_Cor #SENATORS.ROMAN_Cor">Enter Menenius with the Senators. </stage>
           <sp xml:id="sp-2129" who="#Menenius_Cor">
             <speaker xml:id="spk-2129">MENENIUS </speaker>
             <stage xml:id="stg-2129.0" n="SD 3.2.30.0" type="delivery">, to Coriolanus </stage>
@@ -5019,10 +4668,7 @@
             <l xml:id="ftln-2210" n="3.2.111">Go, and be ruled; although I know thou hadst rather </l>
             <l xml:id="ftln-2211" n="3.2.112">Follow thine enemy in a fiery gulf </l>
             <l xml:id="ftln-2212" n="3.2.113" part="I">Than flatter him in a bower. </l>
-            <stage xml:id="stg-2212.1"
-                         n="SD 3.2.113.1"
-                         type="entrance"
-                         who="#Cominius_Cor">Enter Cominius. </stage>
+            <stage xml:id="stg-2212.1" n="SD 3.2.113.1" type="entrance" who="#Cominius_Cor">Enter Cominius. </stage>
             <l xml:id="ftln-2213" n="3.2.114" part="F">Here is Cominius. </l>
           </sp>
           <sp xml:id="sp-2214" who="#Cominius_Cor">
@@ -5110,10 +4756,7 @@
             <speaker xml:id="spk-2267">VOLUMNIA </speaker>
             <l xml:id="ftln-2267" n="3.2.168" part="F">Do your will. </l>
           </sp>
-          <stage xml:id="stg-2267.1"
-                      n="SD 3.2.168.1"
-                      type="exit"
-                      who="#Volumnia_Cor">Volumnia exits. </stage>
+          <stage xml:id="stg-2267.1" n="SD 3.2.168.1" type="exit" who="#Volumnia_Cor">Volumnia exits. </stage>
           <sp xml:id="sp-2268" who="#Cominius_Cor">
             <speaker xml:id="spk-2268">COMINIUS </speaker>
             <l xml:id="ftln-2268" n="3.2.169">Away! The Tribunes do attend you. Arm yourself </l>
@@ -5135,17 +4778,11 @@
             <speaker xml:id="spk-2276">CORIOLANUS </speaker>
             <l xml:id="ftln-2276" n="3.2.177" ana="#short">Well, mildly be it, then. Mildly. </l>
           </sp>
-          <stage xml:id="stg-2276.1"
-                      n="SD 3.2.177.1"
-                      type="exit"
-                      who="#Coriolanus_Cor #NOBLES_Cor #Menenius_Cor #SENATORS.ROMAN_Cor #Cominius_Cor">They exit. </stage>
+          <stage xml:id="stg-2276.1" n="SD 3.2.177.1" type="exit" who="#Coriolanus_Cor #NOBLES_Cor #Menenius_Cor #SENATORS.ROMAN_Cor #Cominius_Cor">They exit. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-2276.2"
-                      n="SD 3.3.0"
-                      type="entrance"
-                      who="#TRIBUNES.Sicinius_Cor #TRIBUNES.Brutus_Cor">Enter Sicinius and Brutus. </stage>
+          <stage xml:id="stg-2276.2" n="SD 3.3.0" type="entrance" who="#TRIBUNES.Sicinius_Cor #TRIBUNES.Brutus_Cor">Enter Sicinius and Brutus. </stage>
           <sp xml:id="sp-2277" who="#TRIBUNES.Brutus_Cor">
             <speaker xml:id="spk-2277">BRUTUS </speaker>
             <l xml:id="ftln-2277" n="3.3.1">In this point charge him home, that he affects </l>
@@ -5153,10 +4790,7 @@
             <l xml:id="ftln-2279" n="3.3.3">Enforce him with his envy to the people, </l>
             <l xml:id="ftln-2280" n="3.3.4">And that the spoil got on the Antiates </l>
             <l xml:id="ftln-2281" n="3.3.5" part="I">Was ne’er distributed. </l>
-            <stage xml:id="stg-2281.1"
-                         n="SD 3.3.5.1"
-                         type="entrance"
-                         who="#AEDILES.X.2_Cor">Enter an Aedile. </stage>
+            <stage xml:id="stg-2281.1" n="SD 3.3.5.1" type="entrance" who="#AEDILES.X.2_Cor">Enter an Aedile. </stage>
             <l xml:id="ftln-2282" n="3.3.6" part="F">What, will he come? </l>
           </sp>
           <sp xml:id="sp-2283" who="#AEDILES.X.2_Cor">
@@ -5223,10 +4857,7 @@
           <sp xml:id="sp-2308" who="#TRIBUNES.Brutus_Cor">
             <speaker xml:id="spk-2308">BRUTUS </speaker>
             <l xml:id="ftln-2308" n="3.3.32" part="F">Go about it. </l>
-            <stage xml:id="stg-2308.1"
-                         n="SD 3.3.32.1"
-                         type="exit"
-                         who="#AEDILES.X.2_Cor">Aedile exits. </stage>
+            <stage xml:id="stg-2308.1" n="SD 3.3.32.1" type="exit" who="#AEDILES.X.2_Cor">Aedile exits. </stage>
             <l xml:id="ftln-2309" n="3.3.33">Put him to choler straight. He hath been used </l>
             <l xml:id="ftln-2310" n="3.3.34">Ever to conquer and to have his worth </l>
             <l xml:id="ftln-2311" n="3.3.35">Of contradiction. Being once chafed, he cannot </l>
@@ -5234,10 +4865,7 @@
             <l xml:id="ftln-2313" n="3.3.37">What’s in his heart, and that is there which looks </l>
             <l xml:id="ftln-2314" n="3.3.38" part="I">With us to break his neck. </l>
           </sp>
-          <stage xml:id="stg-2314.1"
-                      n="SD 3.3.38.1"
-                      type="entrance"
-                      who="#Coriolanus_Cor #Menenius_Cor #Cominius_Cor #SENATORS.ROMAN_Cor">Enter Coriolanus, Menenius, and Cominius, with others ( Senators). </stage>
+          <stage xml:id="stg-2314.1" n="SD 3.3.38.1" type="entrance" who="#Coriolanus_Cor #Menenius_Cor #Cominius_Cor #SENATORS.ROMAN_Cor">Enter Coriolanus, Menenius, and Cominius, with others ( Senators). </stage>
           <sp xml:id="sp-2315" who="#TRIBUNES.Sicinius_Cor">
             <speaker xml:id="spk-2315">SICINIUS </speaker>
             <l xml:id="ftln-2315" n="3.3.39" part="F">Well, here he comes. </l>
@@ -5265,10 +4893,7 @@
             <speaker xml:id="spk-2326">MENENIUS </speaker>
             <l xml:id="ftln-2326" n="3.3.50" ana="#short">A noble wish. </l>
           </sp>
-          <stage xml:id="stg-2326.1"
-                      n="SD 3.3.50.1"
-                      type="entrance"
-                      who="#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor">Enter the Aedile with the Plebeians. </stage>
+          <stage xml:id="stg-2326.1" n="SD 3.3.50.1" type="entrance" who="#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor">Enter the Aedile with the Plebeians. </stage>
           <sp xml:id="sp-2327" who="#TRIBUNES.Sicinius_Cor">
             <speaker xml:id="spk-2327">SICINIUS </speaker>
             <l xml:id="ftln-2327" n="3.3.51" ana="#short">Draw near, you people. </l>
@@ -5494,10 +5119,7 @@
             <l xml:id="ftln-2440" n="3.3.164">For you the city, thus I turn my back. </l>
             <l xml:id="ftln-2441" n="3.3.165" ana="#short">There is a world elsewhere. </l>
           </sp>
-          <stage xml:id="stg-2441.1"
-                      n="SD 3.3.165.1"
-                      type="exit"
-                      who="#Coriolanus_Cor #Cominius_Cor #Menenius_Cor #SENATORS.ROMAN_Cor">Coriolanus, Cominius, with others ( Senators) exit. </stage>
+          <stage xml:id="stg-2441.1" n="SD 3.3.165.1" type="exit" who="#Coriolanus_Cor #Cominius_Cor #Menenius_Cor #SENATORS.ROMAN_Cor">Coriolanus, Cominius, with others ( Senators) exit. </stage>
           <sp xml:id="sp-2442" who="#AEDILES.X.2_Cor">
             <speaker xml:id="spk-2442">AEDILE </speaker>
             <l xml:id="ftln-2442" n="3.3.166">The people’s enemy is gone, is gone. </l>
@@ -5506,10 +5128,7 @@
             <speaker xml:id="spk-2443">ALL PLEBEIANS </speaker>
             <l xml:id="ftln-2443" n="3.3.167">Our enemy is banished; he is gone. Hoo, hoo! </l>
           </sp>
-          <stage xml:id="stg-2443.1"
-                      n="SD 3.3.167.1"
-                      type="business"
-                      who="#CITIZENS.ROMAN_Cor">They all shout and throw up their caps. </stage>
+          <stage xml:id="stg-2443.1" n="SD 3.3.167.1" type="business" who="#CITIZENS.ROMAN_Cor">They all shout and throw up their caps. </stage>
           <sp xml:id="sp-2444" who="#TRIBUNES.Sicinius_Cor">
             <speaker xml:id="spk-2444">SICINIUS </speaker>
             <l xml:id="ftln-2444" n="3.3.168">Go see him out at gates, and follow him, </l>
@@ -5522,20 +5141,14 @@
             <l xml:id="ftln-2448" n="3.3.172">Come, come, let’s see him out at gates! Come! </l>
             <l xml:id="ftln-2449" n="3.3.173">The gods preserve our noble tribunes! Come! </l>
           </sp>
-          <stage xml:id="stg-2449.1"
-                      n="SD 3.3.173.1"
-                      type="exit"
-                      who="#CITIZENS.ROMAN_Cor #AEDILES.X.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor">They exit. </stage>
+          <stage xml:id="stg-2449.1" n="SD 3.3.173.1" type="exit" who="#CITIZENS.ROMAN_Cor #AEDILES.X.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor">They exit. </stage>
         </div>
       </div>
       <div type="act" n="4">
         <head>ACT 4 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-2449.2"
-                      n="SD 4.1.0"
-                      type="entrance"
-                      who="#Coriolanus_Cor #Volumnia_Cor #Virgilia_Cor #Menenius_Cor #Cominius_Cor #NOBLES_Cor">Enter Coriolanus, Volumnia, Virgilia, Menenius, Cominius, with the young nobility of Rome. </stage>
+          <stage xml:id="stg-2449.2" n="SD 4.1.0" type="entrance" who="#Coriolanus_Cor #Volumnia_Cor #Virgilia_Cor #Menenius_Cor #Cominius_Cor #NOBLES_Cor">Enter Coriolanus, Volumnia, Virgilia, Menenius, Cominius, with the young nobility of Rome. </stage>
           <sp xml:id="sp-2450" who="#Coriolanus_Cor">
             <speaker xml:id="spk-2450">CORIOLANUS </speaker>
             <l xml:id="ftln-2450" n="4.1.1">Come, leave your tears. A brief farewell. The beast </l>
@@ -5634,17 +5247,11 @@
             <l xml:id="ftln-2517" n="4.1.68" part="F">Give me thy hand. </l>
             <l xml:id="ftln-2518" n="4.1.69" ana="#short">Come. </l>
           </sp>
-          <stage xml:id="stg-2518.1"
-                      n="SD 4.1.69.1"
-                      type="exit"
-                      who="#Coriolanus_Cor #Volumnia_Cor #Virgilia_Cor #Menenius_Cor #Cominius_Cor #NOBLES_Cor">They exit. </stage>
+          <stage xml:id="stg-2518.1" n="SD 4.1.69.1" type="exit" who="#Coriolanus_Cor #Volumnia_Cor #Virgilia_Cor #Menenius_Cor #Cominius_Cor #NOBLES_Cor">They exit. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-2518.2"
-                      n="SD 4.2.0"
-                      type="entrance"
-                      who="#TRIBUNES.Sicinius_Cor #TRIBUNES.Brutus_Cor #AEDILES.X.2_Cor">Enter the two Tribunes, Sicinius, and Brutus, with the Aedile. </stage>
+          <stage xml:id="stg-2518.2" n="SD 4.2.0" type="entrance" who="#TRIBUNES.Sicinius_Cor #TRIBUNES.Brutus_Cor #AEDILES.X.2_Cor">Enter the two Tribunes, Sicinius, and Brutus, with the Aedile. </stage>
           <sp xml:id="sp-2519" who="#TRIBUNES.Sicinius_Cor">
             <speaker xml:id="spk-2519">SICINIUS </speaker>
             <l xml:id="ftln-2519" n="4.2.1">Bid them all home. He’s gone, and we’ll no further. </l>
@@ -5666,16 +5273,10 @@
           <sp xml:id="sp-2528" who="#TRIBUNES.Brutus_Cor">
             <speaker xml:id="spk-2528">BRUTUS </speaker>
             <l xml:id="ftln-2528" n="4.2.10" part="F">Dismiss them home. </l>
-            <stage xml:id="stg-2528.1"
-                         n="SD 4.2.10.1"
-                         type="exit"
-                         who="#AEDILES.X.2_Cor">Aedile exits. </stage>
+            <stage xml:id="stg-2528.1" n="SD 4.2.10.1" type="exit" who="#AEDILES.X.2_Cor">Aedile exits. </stage>
             <l xml:id="ftln-2529" n="4.2.11" ana="#short">Here comes his mother. </l>
           </sp>
-          <stage xml:id="stg-2529.1"
-                      n="SD 4.2.11.1"
-                      type="entrance"
-                      who="#Volumnia_Cor #Virgilia_Cor #Menenius_Cor">Enter Volumnia, Virgilia, and Menenius. </stage>
+          <stage xml:id="stg-2529.1" n="SD 4.2.11.1" type="entrance" who="#Volumnia_Cor #Virgilia_Cor #Menenius_Cor">Enter Volumnia, Virgilia, and Menenius. </stage>
           <sp xml:id="sp-2530" who="#TRIBUNES.Sicinius_Cor">
             <speaker xml:id="spk-2530">SICINIUS </speaker>
             <l xml:id="ftln-2530" n="4.2.12" ana="#short">Let’s not meet her. </l>
@@ -5795,10 +5396,7 @@
             <l xml:id="ftln-2575" n="4.2.57" part="F">Why stay we to be baited </l>
             <l xml:id="ftln-2576" n="4.2.58" part="I">With one that wants her wits? </l>
           </sp>
-          <stage xml:id="stg-2576"
-                      n="SD 4.2.58"
-                      type="exit"
-                      who="#TRIBUNES.Sicinius_Cor #TRIBUNES.Brutus_Cor">Tribunes exit. </stage>
+          <stage xml:id="stg-2576" n="SD 4.2.58" type="exit" who="#TRIBUNES.Sicinius_Cor #TRIBUNES.Brutus_Cor">Tribunes exit. </stage>
           <sp xml:id="sp-2577" who="#Volumnia_Cor">
             <speaker xml:id="spk-2577">VOLUMNIA </speaker>
             <l xml:id="ftln-2577" n="4.2.59" prev="#ftln-2576">Take my prayers with you. </l>
@@ -5816,33 +5414,21 @@
             <speaker xml:id="spk-2586">VOLUMNIA </speaker>
             <l xml:id="ftln-2586" n="4.2.68">Anger’s my meat. I sup upon myself </l>
             <l xml:id="ftln-2587" n="4.2.69" part="I">And so shall starve with feeding. </l>
-            <stage xml:id="stg-2588"
-                         n="SD 4.2.70"
-                         type="delivery"
-                         rendition="indentVerse">( To Virgilia.) </stage>
+            <stage xml:id="stg-2588" n="SD 4.2.70" type="delivery" rendition="indentVerse">( To Virgilia.) </stage>
             <l xml:id="ftln-2588" n="4.2.70" part="F">Come, let’s go. </l>
             <l xml:id="ftln-2589" n="4.2.71">Leave this faint puling, and lament as I do, </l>
             <l xml:id="ftln-2590" n="4.2.72">In anger, Juno-like. Come, come, come. </l>
           </sp>
-          <stage xml:id="stg-2590"
-                      n="SD 4.2.72"
-                      type="exit"
-                      who="#Volumnia_Cor #Virgilia_Cor">They exit. </stage>
+          <stage xml:id="stg-2590" n="SD 4.2.72" type="exit" who="#Volumnia_Cor #Virgilia_Cor">They exit. </stage>
           <sp xml:id="sp-2591" who="#Menenius_Cor">
             <speaker xml:id="spk-2591">MENENIUS </speaker>
             <l xml:id="ftln-2591" n="4.2.73" ana="#short">Fie, fie, fie! </l>
           </sp>
-          <stage xml:id="stg-2591.1"
-                      n="SD 4.2.73.1"
-                      type="exit"
-                      who="#Menenius_Cor">He exits. </stage>
+          <stage xml:id="stg-2591.1" n="SD 4.2.73.1" type="exit" who="#Menenius_Cor">He exits. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-2591.2"
-                      n="SD 4.3.0"
-                      type="entrance"
-                      who="#Nicanor_Cor #Adrian_Cor">Enter a Roman ( Nicanor) and a Volsce ( Adrian). </stage>
+          <stage xml:id="stg-2591.2" n="SD 4.3.0" type="entrance" who="#Nicanor_Cor #Adrian_Cor">Enter a Roman ( Nicanor) and a Volsce ( Adrian). </stage>
           <sp xml:id="sp-2592" who="#Nicanor_Cor">
             <speaker xml:id="spk-2592">ROMAN </speaker>
             <p xml:id="p-2592">
@@ -5938,17 +5524,11 @@
             <p xml:id="p-2644">
               <lb xml:id="ftln-2644" n="4.3.53"/>Well, let us go together. </p>
           </sp>
-          <stage xml:id="stg-2644.1"
-                      n="SD 4.3.53.1"
-                      type="exit"
-                      who="#Nicanor_Cor #Adrian_Cor">They exit. </stage>
+          <stage xml:id="stg-2644.1" n="SD 4.3.53.1" type="exit" who="#Nicanor_Cor #Adrian_Cor">They exit. </stage>
         </div>
         <div type="scene" n="4">
           <head>Scene 4 </head>
-          <stage xml:id="stg-2644.2"
-                      n="SD 4.4.0"
-                      type="entrance"
-                      who="#Coriolanus_Cor">Enter Coriolanus in mean apparel, disguised, and muffled. </stage>
+          <stage xml:id="stg-2644.2" n="SD 4.4.0" type="entrance" who="#Coriolanus_Cor">Enter Coriolanus in mean apparel, disguised, and muffled. </stage>
           <sp xml:id="sp-2645" who="#Coriolanus_Cor">
             <speaker xml:id="spk-2645">CORIOLANUS </speaker>
             <l xml:id="ftln-2645" n="4.4.1">A goodly city is this Antium. City, </l>
@@ -5957,10 +5537,7 @@
             <l xml:id="ftln-2648" n="4.4.4">Have I heard groan and drop. Then, know me not, </l>
             <l xml:id="ftln-2649" n="4.4.5">Lest that thy wives with spits and boys with stones </l>
             <l xml:id="ftln-2650" n="4.4.6" part="I">In puny battle slay me. </l>
-            <stage xml:id="stg-2650.1"
-                         n="SD 4.4.6.1"
-                         type="entrance"
-                         who="#CITIZENS.ANTIUM.1_Cor">Enter a Citizen. </stage>
+            <stage xml:id="stg-2650.1" n="SD 4.4.6.1" type="entrance" who="#CITIZENS.ANTIUM.1_Cor">Enter a Citizen. </stage>
             <l xml:id="ftln-2651" n="4.4.7" part="F">Save you, sir. </l>
           </sp>
           <sp xml:id="sp-2652" who="#CITIZENS.ANTIUM.1_Cor">
@@ -5988,10 +5565,7 @@
           <sp xml:id="sp-2660" who="#Coriolanus_Cor">
             <speaker xml:id="spk-2660">CORIOLANUS </speaker>
             <l xml:id="ftln-2660" n="4.4.16" part="F">Thank you, sir. Farewell. </l>
-            <stage xml:id="stg-2660.1"
-                         n="SD 4.4.16.1"
-                         type="exit"
-                         who="#CITIZENS.ANTIUM.1_Cor">Citizen exits. </stage>
+            <stage xml:id="stg-2660.1" n="SD 4.4.16.1" type="exit" who="#CITIZENS.ANTIUM.1_Cor">Citizen exits. </stage>
             <l xml:id="ftln-2661" n="4.4.17">O world, thy slippery turns! Friends now fast sworn, </l>
             <l xml:id="ftln-2662" n="4.4.18">Whose double bosoms seems to wear one heart, </l>
             <l xml:id="ftln-2663" n="4.4.19">Whose hours, whose bed, whose meal and exercise </l>
@@ -6008,71 +5582,44 @@
             <l xml:id="ftln-2675" n="4.4.31">He does fair justice; if he give me way, </l>
             <l xml:id="ftln-2676" n="4.4.32" ana="#short">I’ll do his country service. </l>
           </sp>
-          <stage xml:id="stg-2676.1"
-                      n="SD 4.4.32.1"
-                      type="exit"
-                      who="#Coriolanus_Cor">He exits. </stage>
+          <stage xml:id="stg-2676.1" n="SD 4.4.32.1" type="exit" who="#Coriolanus_Cor">He exits. </stage>
         </div>
         <div type="scene" n="5">
           <head>Scene 5 </head>
-          <stage xml:id="stg-2676.2"
-                      n="SD 4.5.0"
-                      type="entrance"
-                      who="#SERVANTS.1_Cor">
+          <stage xml:id="stg-2676.2" n="SD 4.5.0" type="entrance" who="#SERVANTS.1_Cor">
             <stage xml:id="snd-2676.2" n="SD 4.5.0" type="sound">Music plays. </stage> Enter a Servingman. </stage>
           <sp xml:id="sp-2677" who="#SERVANTS.1_Cor">
             <speaker xml:id="spk-2677">FIRST SERVINGMAN </speaker>
             <p xml:id="p-2677">
               <lb xml:id="ftln-2677" n="4.5.1"/>Wine, wine, wine! What service is <lb xml:id="ftln-2678" n="4.5.2"/>here? I think our fellows are asleep. </p>
           </sp>
-          <stage xml:id="stg-2678"
-                      n="SD 4.5.2"
-                      type="exit"
-                      who="#SERVANTS.1_Cor">He exits. </stage>
-          <stage xml:id="stg-2678.1"
-                      n="SD 4.5.2.1"
-                      type="entrance"
-                      who="#SERVANTS.2_Cor">Enter another Servingman. </stage>
+          <stage xml:id="stg-2678" n="SD 4.5.2" type="exit" who="#SERVANTS.1_Cor">He exits. </stage>
+          <stage xml:id="stg-2678.1" n="SD 4.5.2.1" type="entrance" who="#SERVANTS.2_Cor">Enter another Servingman. </stage>
           <sp xml:id="sp-2679" who="#SERVANTS.2_Cor">
             <speaker xml:id="spk-2679">SECOND SERVINGMAN </speaker>
             <p xml:id="p-2679">
               <lb xml:id="ftln-2679" n="4.5.3"/>Where’s Cotus? My master calls <lb xml:id="ftln-2680" n="4.5.4"/>for him. Cotus! </p>
           </sp>
-          <stage xml:id="stg-2680"
-                      n="SD 4.5.4"
-                      type="exit"
-                      who="#SERVANTS.2_Cor">He exits. </stage>
-          <stage xml:id="stg-2680.1"
-                      n="SD 4.5.4.1"
-                      type="entrance"
-                      who="#Coriolanus_Cor">Enter Coriolanus. </stage>
+          <stage xml:id="stg-2680" n="SD 4.5.4" type="exit" who="#SERVANTS.2_Cor">He exits. </stage>
+          <stage xml:id="stg-2680.1" n="SD 4.5.4.1" type="entrance" who="#Coriolanus_Cor">Enter Coriolanus. </stage>
           <sp xml:id="sp-2681" who="#Coriolanus_Cor">
             <speaker xml:id="spk-2681">CORIOLANUS </speaker>
             <l xml:id="ftln-2681" n="4.5.5">A goodly house. The feast smells well, but I </l>
             <l xml:id="ftln-2682" n="4.5.6" ana="#short">Appear not like a guest. </l>
           </sp>
-          <stage xml:id="stg-2682.1"
-                      n="SD 4.5.6.1"
-                      type="entrance"
-                      who="#SERVANTS.1_Cor">Enter the First Servingman. </stage>
+          <stage xml:id="stg-2682.1" n="SD 4.5.6.1" type="entrance" who="#SERVANTS.1_Cor">Enter the First Servingman. </stage>
           <sp xml:id="sp-2683" who="#SERVANTS.1_Cor">
             <speaker xml:id="spk-2683">FIRST SERVINGMAN </speaker>
             <p xml:id="p-2683">
               <lb xml:id="ftln-2683" n="4.5.7"/>What would you have, friend? <lb xml:id="ftln-2684" n="4.5.8"/>Whence are you? Here’s no place for you. Pray, go <lb xml:id="ftln-2685" n="4.5.9"/>to the door. </p>
           </sp>
-          <stage xml:id="stg-2685"
-                      n="SD 4.5.9"
-                      type="exit"
-                      who="#SERVANTS.1_Cor">He exits. </stage>
+          <stage xml:id="stg-2685" n="SD 4.5.9" type="exit" who="#SERVANTS.1_Cor">He exits. </stage>
           <sp xml:id="sp-2686" who="#Coriolanus_Cor">
             <speaker xml:id="spk-2686">CORIOLANUS </speaker>
             <l xml:id="ftln-2686" n="4.5.10">I have deserved no better entertainment </l>
             <l xml:id="ftln-2687" n="4.5.11" ana="#short">In being Coriolanus. </l>
           </sp>
-          <stage xml:id="stg-2687.1"
-                      n="SD 4.5.11.1"
-                      type="entrance"
-                      who="#SERVANTS.2_Cor">Enter Second Servingman. </stage>
+          <stage xml:id="stg-2687.1" n="SD 4.5.11.1" type="entrance" who="#SERVANTS.2_Cor">Enter Second Servingman. </stage>
           <sp xml:id="sp-2688" who="#SERVANTS.2_Cor">
             <speaker xml:id="spk-2688">SECOND SERVINGMAN </speaker>
             <p xml:id="p-2688">
@@ -6098,10 +5645,7 @@
             <p xml:id="p-2694">
               <lb xml:id="ftln-2694" n="4.5.18"/>Are you so brave? I’ll have you <lb xml:id="ftln-2695" n="4.5.19"/>talked with anon. </p>
           </sp>
-          <stage xml:id="stg-2695.1"
-                      n="SD 4.5.19.1"
-                      type="entrance"
-                      who="#SERVANTS.3_Cor #SERVANTS.1_Cor">Enter Third Servingman; the First, entering, meets him. </stage>
+          <stage xml:id="stg-2695.1" n="SD 4.5.19.1" type="entrance" who="#SERVANTS.3_Cor #SERVANTS.1_Cor">Enter Third Servingman; the First, entering, meets him. </stage>
           <sp xml:id="sp-2696" who="#SERVANTS.3_Cor">
             <speaker xml:id="spk-2696">THIRD SERVINGMAN </speaker>
             <p xml:id="p-2696">
@@ -6112,10 +5656,7 @@
             <p xml:id="p-2697">
               <lb xml:id="ftln-2697" n="4.5.21"/>A strange one as ever I looked on. I <lb xml:id="ftln-2698" n="4.5.22"/>cannot get him out o’ th’ house. Prithee, call my <lb xml:id="ftln-2699" n="4.5.23"/>master to him. </p>
           </sp>
-          <stage xml:id="stg-2699"
-                      n="SD 4.5.23"
-                      type="business"
-                      who="#SERVANTS.1_Cor">He steps aside. </stage>
+          <stage xml:id="stg-2699" n="SD 4.5.23" type="business" who="#SERVANTS.1_Cor">He steps aside. </stage>
           <sp xml:id="sp-2700" who="#SERVANTS.3_Cor">
             <speaker xml:id="spk-2700">THIRD SERVINGMAN </speaker>
             <p xml:id="p-2700">
@@ -6156,10 +5697,7 @@
             <p xml:id="p-2711">
               <lb xml:id="ftln-2711" n="4.5.35"/>Follow your function, go, and batten on <lb xml:id="ftln-2712" n="4.5.36"/>cold bits. </p>
           </sp>
-          <stage xml:id="stg-2712"
-                      n="SD 4.5.36"
-                      type="business"
-                      who="#Coriolanus_Cor #SERVANTS.3_Cor">Pushes him away from him. </stage>
+          <stage xml:id="stg-2712" n="SD 4.5.36" type="business" who="#Coriolanus_Cor #SERVANTS.3_Cor">Pushes him away from him. </stage>
           <sp xml:id="sp-2713" who="#SERVANTS.3_Cor">
             <speaker xml:id="spk-2713">THIRD SERVINGMAN </speaker>
             <p xml:id="p-2713">
@@ -6170,10 +5708,7 @@
             <p xml:id="p-2715">
               <lb xml:id="ftln-2715" n="4.5.39"/>And I shall. </p>
           </sp>
-          <stage xml:id="stg-2715.1"
-                      n="SD 4.5.39.1"
-                      type="exit"
-                      who="#SERVANTS.2_Cor">Second Servingman exits. </stage>
+          <stage xml:id="stg-2715.1" n="SD 4.5.39.1" type="exit" who="#SERVANTS.2_Cor">Second Servingman exits. </stage>
           <sp xml:id="sp-2716" who="#SERVANTS.3_Cor">
             <speaker xml:id="spk-2716">THIRD SERVINGMAN </speaker>
             <p xml:id="p-2716">
@@ -6224,18 +5759,9 @@
             <p xml:id="p-2727">
               <lb xml:id="ftln-2727" n="4.5.51"/>Ay, ’tis an honester service than to meddle <lb xml:id="ftln-2728" n="4.5.52"/>with thy mistress. Thou prat’st and prat’st. Serve <lb xml:id="ftln-2729" n="4.5.53"/>with thy trencher. Hence! </p>
           </sp>
-          <stage xml:id="stg-2729"
-                      n="SD 4.5.53"
-                      type="business"
-                      who="#Coriolanus_Cor #SERVANTS.3_Cor">Beats him away. </stage>
-          <stage xml:id="stg-2729.1"
-                      n="SD 4.5.53.1"
-                      type="exit"
-                      who="#SERVANTS.3_Cor">Third Servingman exits. </stage>
-          <stage xml:id="stg-2729.2"
-                      n="SD 4.5.53.2"
-                      type="entrance"
-                      who="#Aufidius_Cor #SERVANTS.2_Cor">Enter Aufidius with the Second Servingman. </stage>
+          <stage xml:id="stg-2729" n="SD 4.5.53" type="business" who="#Coriolanus_Cor #SERVANTS.3_Cor">Beats him away. </stage>
+          <stage xml:id="stg-2729.1" n="SD 4.5.53.1" type="exit" who="#SERVANTS.3_Cor">Third Servingman exits. </stage>
+          <stage xml:id="stg-2729.2" n="SD 4.5.53.2" type="entrance" who="#Aufidius_Cor #SERVANTS.2_Cor">Enter Aufidius with the Second Servingman. </stage>
           <sp xml:id="sp-2730" who="#Aufidius_Cor">
             <speaker xml:id="spk-2730">AUFIDIUS </speaker>
             <p xml:id="p-2730">
@@ -6246,10 +5772,7 @@
             <p xml:id="p-2731">
               <lb xml:id="ftln-2731" n="4.5.55"/>Here, sir. I’d have beaten him like <lb xml:id="ftln-2732" n="4.5.56"/>a dog, but for disturbing the lords within. </p>
           </sp>
-          <stage xml:id="stg-2732.1"
-                      n="SD 4.5.56.1"
-                      type="business"
-                      who="#SERVANTS.2_Cor">He steps aside. </stage>
+          <stage xml:id="stg-2732.1" n="SD 4.5.56.1" type="business" who="#SERVANTS.2_Cor">He steps aside. </stage>
           <sp xml:id="sp-2733" who="#Aufidius_Cor">
             <speaker xml:id="spk-2733">AUFIDIUS </speaker>
             <p xml:id="p-2733">
@@ -6257,10 +5780,7 @@
           </sp>
           <sp xml:id="sp-2736" who="#Coriolanus_Cor">
             <speaker xml:id="spk-2736">CORIOLANUS </speaker>
-            <stage xml:id="stg-2736"
-                         n="SD 4.5.60"
-                         type="business"
-                         who="#Coriolanus_Cor">, removing his muffler </stage>
+            <stage xml:id="stg-2736" n="SD 4.5.60" type="business" who="#Coriolanus_Cor">, removing his muffler </stage>
             <l xml:id="ftln-2736" n="4.5.60" ana="#short">If, Tullus, </l>
             <l xml:id="ftln-2737" n="4.5.61">Not yet thou know’st me, and seeing me, dost not </l>
             <l xml:id="ftln-2738" n="4.5.62">Think me for the man I am, necessity </l>
@@ -6341,10 +5861,7 @@
             <l xml:id="ftln-2795" n="4.5.119">Mine arms about that body, whereagainst </l>
             <l xml:id="ftln-2796" n="4.5.120">My grainèd ash an hundred times hath broke </l>
             <l xml:id="ftln-2797" n="4.5.121" part="I">And scarred the moon with splinters. </l>
-            <stage xml:id="stg-2797"
-                         n="SD 4.5.121.1"
-                         type="business"
-                         who="#Aufidius_Cor #Coriolanus_Cor">They embrace. </stage>
+            <stage xml:id="stg-2797" n="SD 4.5.121.1" type="business" who="#Aufidius_Cor #Coriolanus_Cor">They embrace. </stage>
             <l xml:id="ftln-2798" n="4.5.122" part="F">Here I clip </l>
             <l xml:id="ftln-2799" n="4.5.123">The anvil of my sword and do contest </l>
             <l xml:id="ftln-2800" n="4.5.124">As hotly and as nobly with thy love </l>
@@ -6392,15 +5909,8 @@
             <l xml:id="ftln-2837" n="4.5.161">And more a friend than ere an enemy— </l>
             <l xml:id="ftln-2838" n="4.5.162">Yet, Martius, that was much. Your hand. Most welcome! </l>
           </sp>
-          <stage xml:id="stg-2839"
-                      n="SD 4.5.163"
-                      type="exit"
-                      who="#Aufidius_Cor #Coriolanus_Cor">Coriolanus and Aufidius exit. </stage>
-          <stage xml:id="stg-2839.1"
-                      n="SD 4.5.163.1"
-                      type="business"
-                      rendition="centered"
-                      who="#SERVANTS.1_Cor #SERVANTS.2_Cor">Two of the Servingmen come forward. </stage>
+          <stage xml:id="stg-2839" n="SD 4.5.163" type="exit" who="#Aufidius_Cor #Coriolanus_Cor">Coriolanus and Aufidius exit. </stage>
+          <stage xml:id="stg-2839.1" n="SD 4.5.163.1" type="business" rendition="centered" who="#SERVANTS.1_Cor #SERVANTS.2_Cor">Two of the Servingmen come forward. </stage>
           <sp xml:id="sp-2840" who="#SERVANTS.1_Cor">
             <speaker xml:id="spk-2840">FIRST SERVINGMAN </speaker>
             <p xml:id="p-2840">
@@ -6466,10 +5976,7 @@
             <p xml:id="p-2865">
               <lb xml:id="ftln-2865" n="4.5.189"/>Ay, and for an assault too. </p>
           </sp>
-          <stage xml:id="stg-2865.1"
-                      n="SD 4.5.189.1"
-                      type="entrance"
-                      who="#SERVANTS.3_Cor">Enter the Third Servingman. </stage>
+          <stage xml:id="stg-2865.1" n="SD 4.5.189.1" type="entrance" who="#SERVANTS.3_Cor">Enter the Third Servingman. </stage>
           <sp xml:id="sp-2866" who="#SERVANTS.3_Cor">
             <speaker xml:id="spk-2866">THIRD SERVINGMAN </speaker>
             <p xml:id="p-2866">
@@ -6584,10 +6091,7 @@
             <speaker xml:id="spk-2931">THIRD SERVINGMAN </speaker>
             <p xml:id="p-2931">
               <lb xml:id="ftln-2931" n="4.5.255"/>Reason: because they then less <lb xml:id="ftln-2932" n="4.5.256"/>need one another. The wars for my money! I hope <lb xml:id="ftln-2933" n="4.5.257"/>to see Romans as cheap as Volscians. </p>
-            <stage xml:id="stg-2933"
-                         n="SD 4.5.257"
-                         type="business"
-                         rendition="inline"> ( Noise within.) </stage>
+            <stage xml:id="stg-2933" n="SD 4.5.257" type="business" rendition="inline"> ( Noise within.) </stage>
             <p xml:id="p-2934">
               <lb xml:id="ftln-2934" n="4.5.258"/>They are rising; they are rising. </p>
           </sp>
@@ -6596,17 +6100,11 @@
             <p xml:id="p-2935">
               <lb xml:id="ftln-2935" n="4.5.259"/>In, in, in, in! </p>
           </sp>
-          <stage xml:id="stg-2935.1"
-                      n="SD 4.5.259.1"
-                      type="exit"
-                      who="#SERVANTS.1_Cor #SERVANTS.2_Cor #SERVANTS.3_Cor">They exit. </stage>
+          <stage xml:id="stg-2935.1" n="SD 4.5.259.1" type="exit" who="#SERVANTS.1_Cor #SERVANTS.2_Cor #SERVANTS.3_Cor">They exit. </stage>
         </div>
         <div type="scene" n="6">
           <head>Scene 6 </head>
-          <stage xml:id="stg-2935.2"
-                      n="SD 4.6.0"
-                      type="entrance"
-                      who="#TRIBUNES.Sicinius_Cor #TRIBUNES.Brutus_Cor">Enter the two Tribunes. Sicinius and Brutus. </stage>
+          <stage xml:id="stg-2935.2" n="SD 4.6.0" type="entrance" who="#TRIBUNES.Sicinius_Cor #TRIBUNES.Brutus_Cor">Enter the two Tribunes. Sicinius and Brutus. </stage>
           <sp xml:id="sp-2936" who="#TRIBUNES.Sicinius_Cor">
             <speaker xml:id="spk-2936">SICINIUS </speaker>
             <l xml:id="ftln-2936" n="4.6.1">We hear not of him, neither need we fear him. </l>
@@ -6622,10 +6120,7 @@
           <sp xml:id="sp-2945" who="#TRIBUNES.Brutus_Cor">
             <speaker xml:id="spk-2945">BRUTUS </speaker>
             <l xml:id="ftln-2945" n="4.6.10" part="I">We stood to ’t in good time. </l>
-            <stage xml:id="stg-2945.1"
-                         n="SD 4.6.10.1"
-                         type="entrance"
-                         who="#Menenius_Cor">Enter Menenius. </stage>
+            <stage xml:id="stg-2945.1" n="SD 4.6.10.1" type="entrance" who="#Menenius_Cor">Enter Menenius. </stage>
             <l xml:id="ftln-2946" n="4.6.11" part="F">Is this Menenius? </l>
           </sp>
           <sp xml:id="sp-2947" who="#TRIBUNES.Sicinius_Cor">
@@ -6657,10 +6152,7 @@
             <l xml:id="ftln-2956" n="4.6.21" ana="#short">Nay, I hear nothing; </l>
             <l xml:id="ftln-2957" n="4.6.22">His mother and his wife hear nothing from him. </l>
           </sp>
-          <stage xml:id="stg-2957.1"
-                      n="SD 4.6.22.1"
-                      type="entrance"
-                      who="#CITIZENS.ROMAN_Cor">Enter three or four Citizens. </stage>
+          <stage xml:id="stg-2957.1" n="SD 4.6.22.1" type="entrance" who="#CITIZENS.ROMAN_Cor">Enter three or four Citizens. </stage>
           <sp xml:id="sp-2958" who="#CITIZENS.ROMAN_Cor">
             <speaker xml:id="spk-2958">ALL CITIZENS </speaker>
             <stage xml:id="stg-2958" n="SD 4.6.23" type="delivery">, to the Tribunes </stage>
@@ -6696,10 +6188,7 @@
             <speaker xml:id="spk-2968">BOTH TRIBUNES </speaker>
             <l xml:id="ftln-2968" n="4.6.33" ana="#short">Farewell, farewell. </l>
           </sp>
-          <stage xml:id="stg-2968"
-                      n="SD 4.6.33"
-                      type="exit"
-                      who="#CITIZENS.ROMAN_Cor">Citizens exit. </stage>
+          <stage xml:id="stg-2968" n="SD 4.6.33" type="exit" who="#CITIZENS.ROMAN_Cor">Citizens exit. </stage>
           <sp xml:id="sp-2969" who="#TRIBUNES.Sicinius_Cor">
             <speaker xml:id="spk-2969">SICINIUS </speaker>
             <l xml:id="ftln-2969" n="4.6.34">This is a happier and more comely time </l>
@@ -6731,10 +6220,7 @@
             <l xml:id="ftln-2980" n="4.6.45">The gods have well prevented it, and Rome </l>
             <l xml:id="ftln-2981" n="4.6.46" part="I">Sits safe and still without him. </l>
           </sp>
-          <stage xml:id="stg-2981.1"
-                      n="SD 4.6.46.1"
-                      type="entrance"
-                      who="#AEDILES.X.3_Cor">Enter an Aedile. </stage>
+          <stage xml:id="stg-2981.1" n="SD 4.6.46.1" type="entrance" who="#AEDILES.X.3_Cor">Enter an Aedile. </stage>
           <sp xml:id="sp-2982" who="#AEDILES.X.3_Cor">
             <speaker xml:id="spk-2982">AEDILE </speaker>
             <l xml:id="ftln-2982" n="4.6.47" part="F">Worthy tribunes, </l>
@@ -6781,10 +6267,7 @@
             <speaker xml:id="spk-3006">BRUTUS </speaker>
             <l xml:id="ftln-3006" n="4.6.71" part="F">Not possible. </l>
           </sp>
-          <stage xml:id="stg-3006.1"
-                      n="SD 4.6.71.1"
-                      type="entrance"
-                      who="#MESSENGERS.TRIBUNES.1_Cor">Enter a Messenger. </stage>
+          <stage xml:id="stg-3006.1" n="SD 4.6.71.1" type="entrance" who="#MESSENGERS.TRIBUNES.1_Cor">Enter a Messenger. </stage>
           <sp xml:id="sp-3007" who="#MESSENGERS.TRIBUNES.1_Cor">
             <speaker xml:id="spk-3007">MESSENGER </speaker>
             <l xml:id="ftln-3007" n="4.6.72">The nobles in great earnestness are going </l>
@@ -6834,10 +6317,7 @@
             <l xml:id="ftln-3027" n="4.6.92">He and Aufidius can no more atone </l>
             <l xml:id="ftln-3028" n="4.6.93" ana="#short">Than violent’st contrariety. </l>
           </sp>
-          <stage xml:id="stg-3028.1"
-                      n="SD 4.6.93.1"
-                      type="entrance"
-                      who="#MESSENGERS.TRIBUNES.2_Cor">Enter a Second Messenger. </stage>
+          <stage xml:id="stg-3028.1" n="SD 4.6.93.1" type="entrance" who="#MESSENGERS.TRIBUNES.2_Cor">Enter a Second Messenger. </stage>
           <sp xml:id="sp-3029" who="#MESSENGERS.TRIBUNES.2_Cor">
             <speaker xml:id="spk-3029">SECOND MESSENGER </speaker>
             <l xml:id="ftln-3029" n="4.6.94" ana="#short">You are sent for to the Senate. </l>
@@ -6847,10 +6327,7 @@
             <l xml:id="ftln-3033" n="4.6.98">O’erborne their way, consumed with fire and took </l>
             <l xml:id="ftln-3034" n="4.6.99" part="I">What lay before them. </l>
           </sp>
-          <stage xml:id="stg-3034.1"
-                      n="SD 4.6.99.1"
-                      type="entrance"
-                      who="#Cominius_Cor">Enter Cominius. </stage>
+          <stage xml:id="stg-3034.1" n="SD 4.6.99.1" type="entrance" who="#Cominius_Cor">Enter Cominius. </stage>
           <sp xml:id="sp-3035" who="#Cominius_Cor">
             <speaker xml:id="spk-3035">COMINIUS </speaker>
             <stage xml:id="stg-3035" n="SD 4.6.100" type="delivery">, to the Tribunes </stage>
@@ -6972,10 +6449,7 @@
             <l xml:id="ftln-3098" n="4.6.163">Is all the policy, strength, and defense </l>
             <l xml:id="ftln-3099" n="4.6.164" part="I">That Rome can make against them. </l>
           </sp>
-          <stage xml:id="stg-3099.1"
-                      n="SD 4.6.164.1"
-                      type="entrance"
-                      who="#CITIZENS.ROMAN_Cor">Enter a troop of Citizens. </stage>
+          <stage xml:id="stg-3099.1" n="SD 4.6.164.1" type="entrance" who="#CITIZENS.ROMAN_Cor">Enter a troop of Citizens. </stage>
           <sp xml:id="sp-3100" who="#Menenius_Cor">
             <speaker xml:id="spk-3100">MENENIUS </speaker>
             <l xml:id="ftln-3100" n="4.6.165" prev="#ftln-3099">Here come the clusters.— </l>
@@ -7021,10 +6495,7 @@
             <speaker xml:id="spk-3123">COMINIUS </speaker>
             <l xml:id="ftln-3123" n="4.6.188" part="F">O, ay, what else? </l>
           </sp>
-          <stage xml:id="stg-3123"
-                      n="SD 4.6.188"
-                      type="exit"
-                      who="#Cominius_Cor #Menenius_Cor">Both exit. </stage>
+          <stage xml:id="stg-3123" n="SD 4.6.188" type="exit" who="#Cominius_Cor #Menenius_Cor">Both exit. </stage>
           <sp xml:id="sp-3124" who="#TRIBUNES.Sicinius_Cor">
             <speaker xml:id="spk-3124">SICINIUS </speaker>
             <l xml:id="ftln-3124" n="4.6.189">Go, masters, get you home. Be not dismayed. </l>
@@ -7041,10 +6512,7 @@
             <speaker xml:id="spk-3131">SECOND CITIZEN </speaker>
             <l xml:id="ftln-3131" n="4.6.196" ana="#short">So did we all. But, come, let’s home. </l>
           </sp>
-          <stage xml:id="stg-3131.1"
-                      n="SD 4.6.196.1"
-                      type="exit"
-                      who="#CITIZENS.ROMAN_Cor #AEDILES.X.3_Cor #MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor">Citizens exit. </stage>
+          <stage xml:id="stg-3131.1" n="SD 4.6.196.1" type="exit" who="#CITIZENS.ROMAN_Cor #AEDILES.X.3_Cor #MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor">Citizens exit. </stage>
           <sp xml:id="sp-3132" who="#TRIBUNES.Brutus_Cor">
             <speaker xml:id="spk-3132">BRUTUS </speaker>
             <l xml:id="ftln-3132" n="4.6.197" ana="#short">I do not like this news. </l>
@@ -7062,17 +6530,11 @@
             <speaker xml:id="spk-3136">SICINIUS </speaker>
             <l xml:id="ftln-3136" n="4.6.201" part="F">Pray, let’s go. </l>
           </sp>
-          <stage xml:id="stg-3136.1"
-                      n="SD 4.6.201.1"
-                      type="exit"
-                      who="#TRIBUNES.Sicinius_Cor #TRIBUNES.Brutus_Cor">Tribunes exit. </stage>
+          <stage xml:id="stg-3136.1" n="SD 4.6.201.1" type="exit" who="#TRIBUNES.Sicinius_Cor #TRIBUNES.Brutus_Cor">Tribunes exit. </stage>
         </div>
         <div type="scene" n="7">
           <head>Scene 7 </head>
-          <stage xml:id="stg-3136.2"
-                      n="SD 4.7.0"
-                      type="entrance"
-                      who="#Aufidius_Cor #SOLDIERS.VOLSCIAN.Lieutenant_Cor">Enter Aufidius with his Lieutenant. </stage>
+          <stage xml:id="stg-3136.2" n="SD 4.7.0" type="entrance" who="#Aufidius_Cor #SOLDIERS.VOLSCIAN.Lieutenant_Cor">Enter Aufidius with his Lieutenant. </stage>
           <sp xml:id="sp-3137" who="#Aufidius_Cor">
             <speaker xml:id="spk-3137">AUFIDIUS </speaker>
             <l xml:id="ftln-3137" n="4.7.1" ana="#short">Do they still fly to th’ Roman? </l>
@@ -7153,20 +6615,14 @@
             <l xml:id="ftln-3196" n="4.7.60">Come, let’s away. When, Caius, Rome is thine, </l>
             <l xml:id="ftln-3197" n="4.7.61">Thou art poor’st of all; then shortly art thou mine. </l>
           </sp>
-          <stage xml:id="stg-3197.1"
-                      n="SD 4.7.61.1"
-                      type="exit"
-                      who="#Aufidius_Cor #SOLDIERS.VOLSCIAN.Lieutenant_Cor">They exit. </stage>
+          <stage xml:id="stg-3197.1" n="SD 4.7.61.1" type="exit" who="#Aufidius_Cor #SOLDIERS.VOLSCIAN.Lieutenant_Cor">They exit. </stage>
         </div>
       </div>
       <div type="act" n="5">
         <head>ACT 5 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-3197.2"
-                      n="SD 5.1.0"
-                      type="entrance"
-                      who="#Menenius_Cor #Cominius_Cor #TRIBUNES.Sicinius_Cor #TRIBUNES.Brutus_Cor">Enter Menenius, Cominius, Sicinius, Brutus ( the two Tribunes), with others. </stage>
+          <stage xml:id="stg-3197.2" n="SD 5.1.0" type="entrance" who="#Menenius_Cor #Cominius_Cor #TRIBUNES.Sicinius_Cor #TRIBUNES.Brutus_Cor">Enter Menenius, Cominius, Sicinius, Brutus ( the two Tribunes), with others. </stage>
           <sp xml:id="sp-3198" who="#Menenius_Cor">
             <speaker xml:id="spk-3198">MENENIUS </speaker>
             <l xml:id="ftln-3198" n="5.1.1">No, I’ll not go. You hear what he hath said </l>
@@ -7320,17 +6776,11 @@
             <l xml:id="ftln-3282" n="5.1.85">For mercy to his country. Therefore let’s hence </l>
             <l xml:id="ftln-3283" n="5.1.86">And with our fair entreaties haste them on. </l>
           </sp>
-          <stage xml:id="stg-3283.1"
-                      n="SD 5.1.86.1"
-                      type="exit"
-                      who="#Cominius_Cor #TRIBUNES.Sicinius_Cor #TRIBUNES.Brutus_Cor">They exit. </stage>
+          <stage xml:id="stg-3283.1" n="SD 5.1.86.1" type="exit" who="#Cominius_Cor #TRIBUNES.Sicinius_Cor #TRIBUNES.Brutus_Cor">They exit. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-3283.2"
-                      n="SD 5.2.0"
-                      type="entrance"
-                      who="#Menenius_Cor #WATCHMEN.1_Cor #WATCHMEN.2_Cor">Enter Menenius to the Watch, or Guard. </stage>
+          <stage xml:id="stg-3283.2" n="SD 5.2.0" type="entrance" who="#Menenius_Cor #WATCHMEN.1_Cor #WATCHMEN.2_Cor">Enter Menenius to the Watch, or Guard. </stage>
           <sp xml:id="sp-3284" who="#WATCHMEN.1_Cor">
             <speaker xml:id="spk-3284">FIRST WATCH </speaker>
             <l xml:id="ftln-3284" n="5.2.1" ana="#short">Stay! Whence are you? </l>
@@ -7449,10 +6899,7 @@
             <p xml:id="p-3346">
               <lb xml:id="ftln-3346" n="5.2.63"/>Nay, but fellow, fellow— </p>
           </sp>
-          <stage xml:id="stg-3346.1"
-                      n="SD 5.2.63.1"
-                      type="entrance"
-                      who="#Coriolanus_Cor #Aufidius_Cor">Enter Coriolanus with Aufidius. </stage>
+          <stage xml:id="stg-3346.1" n="SD 5.2.63.1" type="entrance" who="#Coriolanus_Cor #Aufidius_Cor">Enter Coriolanus with Aufidius. </stage>
           <sp xml:id="sp-3347" who="#Coriolanus_Cor">
             <speaker xml:id="spk-3347">CORIOLANUS </speaker>
             <p xml:id="p-3347">
@@ -7463,11 +6910,7 @@
             <stage xml:id="stg-3348" n="SD 5.2.65" type="delivery"> to First Watch </stage>
             <p xml:id="p-3348">
               <lb xml:id="ftln-3348" n="5.2.65"/>Now, you companion, I’ll <lb xml:id="ftln-3349" n="5.2.66"/>say an errand for you. You shall know now that I <lb xml:id="ftln-3350" n="5.2.67"/>am in estimation; you shall perceive that a Jack <lb xml:id="ftln-3351" n="5.2.68"/>guardant cannot office me from my son Coriolanus. <lb xml:id="ftln-3352" n="5.2.69"/>Guess but by my entertainment with him <lb xml:id="ftln-3353" n="5.2.70"/>if thou stand’st not i’ th’ state of hanging or of some <lb xml:id="ftln-3354" n="5.2.71"/>death more long in spectatorship and crueler in <lb xml:id="ftln-3355" n="5.2.72"/>suffering; behold now presently, and swoon for <lb xml:id="ftln-3356" n="5.2.73"/>what’s to come upon thee. <stage xml:id="stg-3356" n="SD 5.2.73" type="delivery"> ( To Coriolanus.) </stage> The <lb xml:id="ftln-3357" n="5.2.74"/>glorious gods sit in hourly synod about thy particular <lb xml:id="ftln-3358" n="5.2.75"/>prosperity and love thee no worse than thy old <lb xml:id="ftln-3359" n="5.2.76"/>father Menenius does! O my son, my son! </p>
-            <stage xml:id="stg-3359"
-                         n="SD 5.2.76"
-                         type="business"
-                         rendition="inline"
-                         who="#Menenius_Cor"> ( He weeps.) </stage>
+            <stage xml:id="stg-3359" n="SD 5.2.76" type="business" rendition="inline" who="#Menenius_Cor"> ( He weeps.) </stage>
             <p xml:id="p-3360">
               <lb xml:id="ftln-3360" n="5.2.77"/>Thou art preparing fire for us; look thee, <lb xml:id="ftln-3361" n="5.2.78"/>here’s water to quench it. I was hardly moved to <lb xml:id="ftln-3362" n="5.2.79"/>come to thee; but being assured none but myself <lb xml:id="ftln-3363" n="5.2.80"/>could move thee, I have been blown out of your <lb xml:id="ftln-3364" n="5.2.81"/>gates with sighs, and conjure thee to pardon Rome <lb xml:id="ftln-3365" n="5.2.82"/>and thy petitionary countrymen. The good gods <lb xml:id="ftln-3366" n="5.2.83"/>assuage thy wrath and turn the dregs of it upon <lb xml:id="ftln-3367" n="5.2.84"/>this varlet here, this, who, like a block, hath denied <lb xml:id="ftln-3368" n="5.2.85"/>my access to thee. </p>
           </sp>
@@ -7492,10 +6935,7 @@
             <l xml:id="ftln-3377" n="5.2.94">Mine ears against your suits are stronger than </l>
             <l xml:id="ftln-3378" n="5.2.95">Your gates against my force. Yet, for I loved thee, </l>
             <l xml:id="ftln-3379" n="5.2.96">Take this along; I writ it for thy sake, </l>
-            <stage xml:id="stg-3379.1"
-                         n="SD 5.2.96.1"
-                         type="business"
-                         who="#Coriolanus_Cor #Menenius_Cor">He gives Menenius a paper. </stage>
+            <stage xml:id="stg-3379.1" n="SD 5.2.96.1" type="business" who="#Coriolanus_Cor #Menenius_Cor">He gives Menenius a paper. </stage>
             <l xml:id="ftln-3380" n="5.2.97">And would have sent it. Another word, Menenius, </l>
             <l xml:id="ftln-3381" n="5.2.98">I will not hear thee speak.— This man, Aufidius, </l>
             <l xml:id="ftln-3382" n="5.2.99">Was my beloved in Rome; yet thou behold’st. </l>
@@ -7505,10 +6945,7 @@
             <p xml:id="p-3383">
               <lb xml:id="ftln-3383" n="5.2.100"/>You keep a constant temper. </p>
           </sp>
-          <stage xml:id="stg-3383"
-                      n="SD 5.2.100"
-                      type="exit"
-                      who="#Coriolanus_Cor #Aufidius_Cor">They exit. </stage>
+          <stage xml:id="stg-3383" n="SD 5.2.100" type="exit" who="#Coriolanus_Cor #Aufidius_Cor">They exit. </stage>
           <stage xml:id="stg-3383.1" n="SD 5.2.100.1" type="business">The Guard and Menenius remain. </stage>
           <sp xml:id="sp-3384" who="#WATCHMEN.1_Cor">
             <speaker xml:id="spk-3384">FIRST WATCH </speaker>
@@ -7535,10 +6972,7 @@
             <p xml:id="p-3391">
               <lb xml:id="ftln-3391" n="5.2.108"/>I neither care for th’ world nor your general. <lb xml:id="ftln-3392" n="5.2.109"/>For such things as you, I can scarce think <lb xml:id="ftln-3393" n="5.2.110"/>there’s any, you’re so slight. He that hath a will to <lb xml:id="ftln-3394" n="5.2.111"/>die by himself fears it not from another. Let your <lb xml:id="ftln-3395" n="5.2.112"/>general do his worst. For you, be that you are, <lb xml:id="ftln-3396" n="5.2.113"/>long; and your misery increase with your age! I say <lb xml:id="ftln-3397" n="5.2.114"/>to you, as I was said to, away! </p>
           </sp>
-          <stage xml:id="stg-3397"
-                      n="SD 5.2.114"
-                      type="exit"
-                      who="#Menenius_Cor">He exits. </stage>
+          <stage xml:id="stg-3397" n="SD 5.2.114" type="exit" who="#Menenius_Cor">He exits. </stage>
           <sp xml:id="sp-3398" who="#WATCHMEN.1_Cor">
             <speaker xml:id="spk-3398">FIRST WATCH </speaker>
             <p xml:id="p-3398">
@@ -7549,17 +6983,11 @@
             <p xml:id="p-3399">
               <lb xml:id="ftln-3399" n="5.2.116"/>The worthy fellow is our general. He’s <lb xml:id="ftln-3400" n="5.2.117"/>the rock, the oak not to be wind-shaken. </p>
           </sp>
-          <stage xml:id="stg-3400.1"
-                      n="SD 5.2.117.1"
-                      type="exit"
-                      who="#WATCHMEN.1_Cor #WATCHMEN.2_Cor">Watch exit. </stage>
+          <stage xml:id="stg-3400.1" n="SD 5.2.117.1" type="exit" who="#WATCHMEN.1_Cor #WATCHMEN.2_Cor">Watch exit. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-3400.2"
-                      n="SD 5.3.0"
-                      type="entrance"
-                      who="#Coriolanus_Cor #Aufidius_Cor">Enter Coriolanus and Aufidius. </stage>
+          <stage xml:id="stg-3400.2" n="SD 5.3.0" type="entrance" who="#Coriolanus_Cor #Aufidius_Cor">Enter Coriolanus and Aufidius. </stage>
           <sp xml:id="sp-3401" who="#Coriolanus_Cor">
             <speaker xml:id="spk-3401">CORIOLANUS </speaker>
             <l xml:id="ftln-3401" n="5.3.1">We will before the walls of Rome tomorrow </l>
@@ -7593,26 +7021,17 @@
             <l xml:id="ftln-3422" n="5.3.22" part="F">Ha? What shout is this? </l>
             <l xml:id="ftln-3423" n="5.3.23">Shall I be tempted to infringe my vow </l>
             <l xml:id="ftln-3424" n="5.3.24">In the same time ’tis made? I will not. </l>
-            <stage xml:id="stg-3424.1"
-                         n="SD 5.3.24.1"
-                         type="entrance"
-                         who="#Virgilia_Cor #Volumnia_Cor #Valeria_Cor #YoungMartius_Cor #ATTENDANTS.ROMAN_Cor">Enter Virgilia, Volumnia, Valeria, young Martius, with Attendants. </stage>
+            <stage xml:id="stg-3424.1" n="SD 5.3.24.1" type="entrance" who="#Virgilia_Cor #Volumnia_Cor #Valeria_Cor #YoungMartius_Cor #ATTENDANTS.ROMAN_Cor">Enter Virgilia, Volumnia, Valeria, young Martius, with Attendants. </stage>
             <l xml:id="ftln-3425" n="5.3.25">My wife comes foremost, then the honored mold </l>
             <l xml:id="ftln-3426" n="5.3.26">Wherein this trunk was framed, and in her hand </l>
             <l xml:id="ftln-3427" n="5.3.27">The grandchild to her blood. But out, affection! </l>
             <l xml:id="ftln-3428" n="5.3.28">All bond and privilege of nature, break! </l>
             <l xml:id="ftln-3429" n="5.3.29">Let it be virtuous to be obstinate. </l>
-            <stage xml:id="stg-3429"
-                         n="SD 5.3.29"
-                         type="business"
-                         who="#Virgilia_Cor">Virgilia curtsies. </stage>
+            <stage xml:id="stg-3429" n="SD 5.3.29" type="business" who="#Virgilia_Cor">Virgilia curtsies. </stage>
             <l xml:id="ftln-3430" n="5.3.30">What is that curtsy worth? Or those doves’ eyes, </l>
             <l xml:id="ftln-3431" n="5.3.31">Which can make gods forsworn? I melt and am not </l>
             <l xml:id="ftln-3432" n="5.3.32" part="I">Of stronger earth than others. </l>
-            <stage xml:id="stg-3432"
-                         n="SD 5.3.32"
-                         type="business"
-                         who="#Volumnia_Cor">Volumnia bows. </stage>
+            <stage xml:id="stg-3432" n="SD 5.3.32" type="business" who="#Volumnia_Cor">Volumnia bows. </stage>
             <l xml:id="ftln-3433" n="5.3.33" part="F">My mother bows, </l>
             <l xml:id="ftln-3434" n="5.3.34">As if Olympus to a molehill should </l>
             <l xml:id="ftln-3435" n="5.3.35">In supplication nod; and my young boy </l>
@@ -7643,10 +7062,7 @@
             <l xml:id="ftln-3448" n="5.3.48">Even to a full disgrace. Best of my flesh, </l>
             <l xml:id="ftln-3449" n="5.3.49">Forgive my tyranny, but do not say </l>
             <l xml:id="ftln-3450" n="5.3.50" part="I">For that “ Forgive our Romans.” </l>
-            <stage xml:id="stg-3450"
-                         n="SD 5.3.50"
-                         type="business"
-                         who="#Coriolanus_Cor #Virgilia_Cor">They kiss. </stage>
+            <stage xml:id="stg-3450" n="SD 5.3.50" type="business" who="#Coriolanus_Cor #Virgilia_Cor">They kiss. </stage>
             <l xml:id="ftln-3451" n="5.3.51" part="F">O, a kiss </l>
             <l xml:id="ftln-3452" n="5.3.52">Long as my exile, sweet as my revenge! </l>
             <l xml:id="ftln-3453" n="5.3.53">Now, by the jealous queen of heaven, that kiss </l>
@@ -7654,37 +7070,25 @@
             <l xml:id="ftln-3455" n="5.3.55">Hath virgined it e’er since. You gods! I prate </l>
             <l xml:id="ftln-3456" n="5.3.56">And the most noble mother of the world </l>
             <l xml:id="ftln-3457" n="5.3.57">Leave unsaluted. Sink, my knee, i’ th’ earth; </l>
-            <stage xml:id="stg-3457"
-                         n="SD 5.3.57"
-                         type="business"
-                         who="#Coriolanus_Cor">Kneels. </stage>
+            <stage xml:id="stg-3457" n="SD 5.3.57" type="business" who="#Coriolanus_Cor">Kneels. </stage>
             <l xml:id="ftln-3458" n="5.3.58">Of thy deep duty more impression show </l>
             <l xml:id="ftln-3459" n="5.3.59" part="I">Than that of common sons. </l>
           </sp>
           <sp xml:id="sp-3460" who="#Volumnia_Cor">
             <speaker xml:id="spk-3460">VOLUMNIA </speaker>
             <l xml:id="ftln-3460" n="5.3.60" part="F">O, stand up blest, </l>
-            <stage xml:id="stg-3460.1"
-                         n="SD 5.3.60.1"
-                         type="business"
-                         who="#Coriolanus_Cor">He rises. </stage>
+            <stage xml:id="stg-3460.1" n="SD 5.3.60.1" type="business" who="#Coriolanus_Cor">He rises. </stage>
             <l xml:id="ftln-3461" n="5.3.61">Whilst with no softer cushion than the flint </l>
             <l xml:id="ftln-3462" n="5.3.62">I kneel before thee and unproperly </l>
             <l xml:id="ftln-3463" n="5.3.63">Show duty, as mistaken all this while </l>
             <l xml:id="ftln-3464" n="5.3.64" part="I">Between the child and parent. </l>
           </sp>
-          <stage xml:id="stg-3464"
-                      n="SD 5.3.64"
-                      type="business"
-                      who="#Volumnia_Cor">She kneels. </stage>
+          <stage xml:id="stg-3464" n="SD 5.3.64" type="business" who="#Volumnia_Cor">She kneels. </stage>
           <sp xml:id="sp-3465" who="#Coriolanus_Cor">
             <speaker xml:id="spk-3465">CORIOLANUS </speaker>
             <l xml:id="ftln-3465" n="5.3.65" part="F">What’s this? </l>
             <l xml:id="ftln-3466" n="5.3.66">Your knees to me? To your corrected son? </l>
-            <stage xml:id="stg-3466.1"
-                         n="SD 5.3.66.1"
-                         type="business"
-                         who="#Coriolanus_Cor #Volumnia_Cor">He raises her up. </stage>
+            <stage xml:id="stg-3466.1" n="SD 5.3.66.1" type="business" who="#Coriolanus_Cor #Volumnia_Cor">He raises her up. </stage>
             <l xml:id="ftln-3467" n="5.3.67">Then let the pebbles on the hungry beach </l>
             <l xml:id="ftln-3468" n="5.3.68">Fillip the stars! Then let the mutinous winds </l>
             <l xml:id="ftln-3469" n="5.3.69">Strike the proud cedars ’gainst the fiery sun, </l>
@@ -7705,10 +7109,7 @@
           </sp>
           <sp xml:id="sp-3478" who="#Volumnia_Cor">
             <speaker xml:id="spk-3478">VOLUMNIA </speaker>
-            <stage xml:id="stg-3478.0"
-                         n="SD 5.3.78.0"
-                         type="business"
-                         who="#Volumnia_Cor #YoungMartius_Cor">, presenting young Martius </stage>
+            <stage xml:id="stg-3478.0" n="SD 5.3.78.0" type="business" who="#Volumnia_Cor #YoungMartius_Cor">, presenting young Martius </stage>
             <l xml:id="ftln-3478" n="5.3.78">This is a poor epitome of yours, </l>
             <l xml:id="ftln-3479" n="5.3.79">Which by th’ interpretation of full time </l>
             <l xml:id="ftln-3480" n="5.3.80" part="I">May show like all yourself. </l>
@@ -7728,10 +7129,7 @@
             <stage xml:id="stg-3487" n="SD 5.3.87" type="delivery">, to young Martius </stage>
             <l xml:id="ftln-3487" n="5.3.87" part="F">Your knee, sirrah. </l>
           </sp>
-          <stage xml:id="stg-3487.1"
-                      n="SD 5.3.87.1"
-                      type="business"
-                      who="#YoungMartius_Cor">He kneels. </stage>
+          <stage xml:id="stg-3487.1" n="SD 5.3.87.1" type="business" who="#YoungMartius_Cor">He kneels. </stage>
           <sp xml:id="sp-3488" who="#Coriolanus_Cor">
             <speaker xml:id="spk-3488">CORIOLANUS </speaker>
             <l xml:id="ftln-3488" n="5.3.88" ana="#short">That’s my brave boy! </l>
@@ -7741,10 +7139,7 @@
             <l xml:id="ftln-3489" n="5.3.89">Even he, your wife, this lady, and myself </l>
             <l xml:id="ftln-3490" n="5.3.90" part="I">Are suitors to you. </l>
           </sp>
-          <stage xml:id="stg-3490"
-                      n="SD 5.3.90"
-                      type="business"
-                      who="#YoungMartius_Cor">Young Martius rises. </stage>
+          <stage xml:id="stg-3490" n="SD 5.3.90" type="business" who="#YoungMartius_Cor">Young Martius rises. </stage>
           <sp xml:id="sp-3491" who="#Coriolanus_Cor">
             <speaker xml:id="spk-3491">CORIOLANUS </speaker>
             <l xml:id="ftln-3491" n="5.3.91" part="F">I beseech you, peace; </l>
@@ -7769,11 +7164,7 @@
           <sp xml:id="sp-3506" who="#Coriolanus_Cor">
             <speaker xml:id="spk-3506">CORIOLANUS </speaker>
             <l xml:id="ftln-3506" n="5.3.106">Aufidius, and you Volsces, mark, for we’ll </l>
-            <l xml:id="ftln-3507" n="5.3.107">Hear naught from Rome in private. <stage xml:id="stg-3507"
-                            n="SD 5.3.107"
-                            type="business"
-                            rendition="inline"
-                            who="#Coriolanus_Cor"> He sits. </stage> Your request? </l>
+            <l xml:id="ftln-3507" n="5.3.107">Hear naught from Rome in private. <stage xml:id="stg-3507" n="SD 5.3.107" type="business" rendition="inline" who="#Coriolanus_Cor"> He sits. </stage> Your request? </l>
           </sp>
           <sp xml:id="sp-3509" who="#Volumnia_Cor">
             <speaker xml:id="spk-3509">VOLUMNIA </speaker>
@@ -7827,10 +7218,7 @@
             <l xml:id="ftln-3550" n="5.3.150">Requires nor child nor woman’s face to see.— </l>
             <l xml:id="ftln-3551" n="5.3.151" part="I">I have sat too long. </l>
           </sp>
-          <stage xml:id="stg-3551"
-                      n="SD 5.3.151"
-                      type="business"
-                      who="#Coriolanus_Cor">He rises. </stage>
+          <stage xml:id="stg-3551" n="SD 5.3.151" type="business" who="#Coriolanus_Cor">He rises. </stage>
           <sp xml:id="sp-3552" who="#Volumnia_Cor">
             <speaker xml:id="spk-3552">VOLUMNIA </speaker>
             <l xml:id="ftln-3552" n="5.3.152" part="F">Nay, go not from us thus. </l>
@@ -7874,30 +7262,21 @@
             <l xml:id="ftln-3591" n="5.3.191">Down, ladies! Let us shame him with our knees. </l>
             <l xml:id="ftln-3592" n="5.3.192">To his surname Coriolanus ’longs more pride </l>
             <l xml:id="ftln-3593" n="5.3.193">Than pity to our prayers. Down! An end. </l>
-            <stage xml:id="stg-3593.1"
-                         n="SD 5.3.193.1"
-                         type="business"
-                         who="#Volumnia_Cor #Virgilia_Cor #Valeria_Cor #YoungMartius_Cor">They kneel. </stage>
+            <stage xml:id="stg-3593.1" n="SD 5.3.193.1" type="business" who="#Volumnia_Cor #Virgilia_Cor #Valeria_Cor #YoungMartius_Cor">They kneel. </stage>
             <l xml:id="ftln-3594" n="5.3.194">This is the last. So, we will home to Rome </l>
             <l xml:id="ftln-3595" n="5.3.195">And die among our neighbors.— Nay, behold ’s. </l>
             <l xml:id="ftln-3596" n="5.3.196">This boy that cannot tell what he would have, </l>
             <l xml:id="ftln-3597" n="5.3.197">But kneels and holds up hands for fellowship, </l>
             <l xml:id="ftln-3598" n="5.3.198">Does reason our petition with more strength </l>
             <l xml:id="ftln-3599" n="5.3.199">Than thou hast to deny ’t.— Come, let us go. </l>
-            <stage xml:id="stg-3599.1"
-                         n="SD 5.3.199.1"
-                         type="business"
-                         who="#Volumnia_Cor #Virgilia_Cor #Valeria_Cor #YoungMartius_Cor">They rise. </stage>
+            <stage xml:id="stg-3599.1" n="SD 5.3.199.1" type="business" who="#Volumnia_Cor #Virgilia_Cor #Valeria_Cor #YoungMartius_Cor">They rise. </stage>
             <l xml:id="ftln-3600" n="5.3.200">This fellow had a Volscian to his mother, </l>
             <l xml:id="ftln-3601" n="5.3.201">His wife is in Corioles, and his child </l>
             <l xml:id="ftln-3602" n="5.3.202">Like him by chance.— Yet give us our dispatch. </l>
             <l xml:id="ftln-3603" n="5.3.203">I am hushed until our city be afire, </l>
             <l xml:id="ftln-3604" n="5.3.204" part="I">And then I’ll speak a little. </l>
           </sp>
-          <stage xml:id="stg-3604.1"
-                      n="SD 5.3.204.1"
-                      type="business"
-                      who="#Coriolanus_Cor #Volumnia_Cor">He holds her by the hand, silent. </stage>
+          <stage xml:id="stg-3604.1" n="SD 5.3.204.1" type="business" who="#Coriolanus_Cor #Volumnia_Cor">He holds her by the hand, silent. </stage>
           <sp xml:id="sp-3605" who="#Coriolanus_Cor">
             <speaker xml:id="spk-3605">CORIOLANUS </speaker>
             <l xml:id="ftln-3605" n="5.3.205" part="F">O mother, mother! </l>
@@ -7926,10 +7305,7 @@
             <l xml:id="ftln-3622" n="5.3.222">I’ll not to Rome. I’ll back with you; and pray you, </l>
             <l xml:id="ftln-3623" n="5.3.223">Stand to me in this cause.— O mother!— Wife! </l>
           </sp>
-          <stage xml:id="stg-3623.1"
-                      n="SD 5.3.223.1"
-                      type="business"
-                      who="#Coriolanus_Cor #Volumnia_Cor #Virgilia_Cor">He speaks with them aside. </stage>
+          <stage xml:id="stg-3623.1" n="SD 5.3.223.1" type="business" who="#Coriolanus_Cor #Volumnia_Cor #Virgilia_Cor">He speaks with them aside. </stage>
           <sp xml:id="sp-3624" who="#Aufidius_Cor">
             <speaker xml:id="spk-3624">AUFIDIUS </speaker>
             <stage xml:id="stg-3624.0" n="SD 5.3.224.0" type="delivery">, aside </stage>
@@ -7949,17 +7325,11 @@
             <l xml:id="ftln-3633" n="5.3.233">In Italy, and her confederate arms, </l>
             <l xml:id="ftln-3634" n="5.3.234">Could not have made this peace. </l>
           </sp>
-          <stage xml:id="stg-3634.1"
-                      n="SD 5.3.234.1"
-                      type="exit"
-                      who="#Coriolanus_Cor #Volumnia_Cor #Virgilia_Cor #Valeria_Cor #YoungMartius_Cor #ATTENDANTS.ROMAN_Cor #Aufidius_Cor">They exit. </stage>
+          <stage xml:id="stg-3634.1" n="SD 5.3.234.1" type="exit" who="#Coriolanus_Cor #Volumnia_Cor #Virgilia_Cor #Valeria_Cor #YoungMartius_Cor #ATTENDANTS.ROMAN_Cor #Aufidius_Cor">They exit. </stage>
         </div>
         <div type="scene" n="4">
           <head>Scene 4 </head>
-          <stage xml:id="stg-3634.2"
-                      n="SD 5.4.0"
-                      type="entrance"
-                      who="#Menenius_Cor #TRIBUNES.Sicinius_Cor">Enter Menenius and Sicinius. </stage>
+          <stage xml:id="stg-3634.2" n="SD 5.4.0" type="entrance" who="#Menenius_Cor #TRIBUNES.Sicinius_Cor">Enter Menenius and Sicinius. </stage>
           <sp xml:id="sp-3635" who="#Menenius_Cor">
             <speaker xml:id="spk-3635">MENENIUS </speaker>
             <p xml:id="p-3635">
@@ -8015,10 +7385,7 @@
             <p xml:id="p-3667">
               <lb xml:id="ftln-3667" n="5.4.33"/>No, in such a case the gods will not be good <lb xml:id="ftln-3668" n="5.4.34"/>unto us. When we banished him, we respected not <lb xml:id="ftln-3669" n="5.4.35"/>them; and he returning to break our necks, they <lb xml:id="ftln-3670" n="5.4.36"/>respect not us. </p>
           </sp>
-          <stage xml:id="stg-3670.1"
-                      n="SD 5.4.36.1"
-                      type="entrance"
-                      who="#MESSENGERS.TRIBUNES.1_Cor">Enter a Messenger. </stage>
+          <stage xml:id="stg-3670.1" n="SD 5.4.36.1" type="entrance" who="#MESSENGERS.TRIBUNES.1_Cor">Enter a Messenger. </stage>
           <sp xml:id="sp-3671" who="#MESSENGERS.TRIBUNES.1_Cor">
             <speaker xml:id="spk-3671">MESSENGER </speaker>
             <stage xml:id="stg-3671.0" n="SD 5.4.37.0" type="delivery">, to Sicinius </stage>
@@ -8028,10 +7395,7 @@
             <l xml:id="ftln-3674" n="5.4.40">The Roman ladies bring not comfort home, </l>
             <l xml:id="ftln-3675" n="5.4.41" part="I">They’ll give him death by inches. </l>
           </sp>
-          <stage xml:id="stg-3675.1"
-                      n="SD 5.4.41.1"
-                      type="entrance"
-                      who="#MESSENGERS.TRIBUNES.2_Cor">Enter another Messenger. </stage>
+          <stage xml:id="stg-3675.1" n="SD 5.4.41.1" type="entrance" who="#MESSENGERS.TRIBUNES.2_Cor">Enter another Messenger. </stage>
           <sp xml:id="sp-3676" who="#TRIBUNES.Sicinius_Cor">
             <speaker xml:id="spk-3676">SICINIUS </speaker>
             <l xml:id="ftln-3676" n="5.4.42" part="F">What’s the news? </l>
@@ -8054,14 +7418,8 @@
             <l xml:id="ftln-3684" n="5.4.50">Where have you lurked that you make doubt of it? </l>
             <l xml:id="ftln-3685" n="5.4.51">Ne’er through an arch so hurried the blown tide </l>
             <l xml:id="ftln-3686" n="5.4.52">As the recomforted through th’ gates. Why, hark you! </l>
-            <stage xml:id="stg-3686.1"
-                         n="SD 5.4.52.1"
-                         type="business"
-                         rendition="centered">
-              <stage xml:id="snd-3686.1"
-                            n="SD 5.4.52.1"
-                            type="sound"
-                            ana="trumpet hautboys drum">Trumpets, hautboys, drums beat, all together. </stage>
+            <stage xml:id="stg-3686.1" n="SD 5.4.52.1" type="business" rendition="centered">
+              <stage xml:id="snd-3686.1" n="SD 5.4.52.1" type="sound" ana="trumpet hautboys drum">Trumpets, hautboys, drums beat, all together. </stage>
             </stage>
             <l xml:id="ftln-3687" n="5.4.53">The trumpets, sackbuts, psalteries, and fifes, </l>
             <l xml:id="ftln-3688" n="5.4.54">Tabors and cymbals, and the shouting Romans </l>
@@ -8104,17 +7462,11 @@
             <p xml:id="p-3702">
               <lb xml:id="ftln-3702" n="5.4.68"/>We’ll meet them, and help the joy. </p>
           </sp>
-          <stage xml:id="stg-3702.1"
-                      n="SD 5.4.68.1"
-                      type="exit"
-                      who="#Menenius_Cor #TRIBUNES.Sicinius_Cor #MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor">They exit. </stage>
+          <stage xml:id="stg-3702.1" n="SD 5.4.68.1" type="exit" who="#Menenius_Cor #TRIBUNES.Sicinius_Cor #MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor">They exit. </stage>
         </div>
         <div type="scene" n="5">
           <head>Scene 5 </head>
-          <stage xml:id="stg-3702.2"
-                      n="SD 5.5.0"
-                      type="entrance"
-                      who="#SENATORS.ROMAN_Cor #Volumnia_Cor #Virgilia_Cor #Valeria_Cor">Enter two Senators, with Ladies ( Volumnia, Virgilia, Valeria) passing over the stage, with other Lords. </stage>
+          <stage xml:id="stg-3702.2" n="SD 5.5.0" type="entrance" who="#SENATORS.ROMAN_Cor #Volumnia_Cor #Virgilia_Cor #Valeria_Cor">Enter two Senators, with Ladies ( Volumnia, Virgilia, Valeria) passing over the stage, with other Lords. </stage>
           <sp xml:id="sp-3703" who="#SENATORS.ROMAN.0.1_Cor">
             <speaker xml:id="spk-3703">SENATOR </speaker>
             <l xml:id="ftln-3703" n="5.5.1">Behold our patroness, the life of Rome! </l>
@@ -8129,30 +7481,18 @@
             <l xml:id="ftln-3710" n="5.5.8" ana="#short">Welcome, ladies, welcome! </l>
           </sp>
           <stage xml:id="stg-3710.1" n="SD 5.5.8.1" type="business">
-            <stage xml:id="snd-3710.1"
-                         n="SD 5.5.8.1"
-                         type="sound"
-                         ana="drum trumpet">A flourish with drums and trumpets. </stage>
+            <stage xml:id="snd-3710.1" n="SD 5.5.8.1" type="sound" ana="drum trumpet">A flourish with drums and trumpets. </stage>
           </stage>
-          <stage xml:id="stg-3710.2"
-                      n="SD 5.5.8.2"
-                      type="exit"
-                      who="#SENATORS.ROMAN_Cor #Volumnia_Cor #Virgilia_Cor #Valeria_Cor">They exit. </stage>
+          <stage xml:id="stg-3710.2" n="SD 5.5.8.2" type="exit" who="#SENATORS.ROMAN_Cor #Volumnia_Cor #Virgilia_Cor #Valeria_Cor">They exit. </stage>
         </div>
         <div type="scene" n="6">
           <head>Scene 6 </head>
-          <stage xml:id="stg-3710.3"
-                      n="SD 5.6.0"
-                      type="entrance"
-                      who="#Aufidius_Cor #ATTENDANTS.VOLSCIAN_Cor">Enter Tullus Aufidius, with Attendants. </stage>
+          <stage xml:id="stg-3710.3" n="SD 5.6.0" type="entrance" who="#Aufidius_Cor #ATTENDANTS.VOLSCIAN_Cor">Enter Tullus Aufidius, with Attendants. </stage>
           <sp xml:id="sp-3711" who="#Aufidius_Cor">
             <speaker xml:id="spk-3711">AUFIDIUS </speaker>
             <l xml:id="ftln-3711" n="5.6.1">Go tell the lords o’ th’ city I am here. </l>
             <l xml:id="ftln-3712" n="5.6.2" part="I">Deliver them this paper. </l>
-            <stage xml:id="stg-3712"
-                         n="SD 5.6.2"
-                         type="business"
-                         who="#Aufidius_Cor #ATTENDANTS.VOLSCIAN_Cor">( He gives them a paper.) </stage>
+            <stage xml:id="stg-3712" n="SD 5.6.2" type="business" who="#Aufidius_Cor #ATTENDANTS.VOLSCIAN_Cor">( He gives them a paper.) </stage>
             <l xml:id="ftln-3713" n="5.6.3" part="F">Having read it, </l>
             <l xml:id="ftln-3714" n="5.6.4">Bid them repair to th’ marketplace, where I, </l>
             <l xml:id="ftln-3715" n="5.6.5">Even in theirs and in the commons’ ears, </l>
@@ -8160,14 +7500,8 @@
             <l xml:id="ftln-3717" n="5.6.7">The city ports by this hath entered and </l>
             <l xml:id="ftln-3718" n="5.6.8">Intends t’ appear before the people, hoping </l>
             <l xml:id="ftln-3719" n="5.6.9" part="I">To purge himself with words. Dispatch. </l>
-            <stage xml:id="stg-3719.1"
-                         n="SD 5.6.9.1"
-                         type="exit"
-                         who="#ATTENDANTS.VOLSCIAN_Cor">The Attendants exit. </stage>
-            <stage xml:id="stg-3719.2"
-                         n="SD 5.6.9.2"
-                         type="entrance"
-                         who="#CONSPIRATORS_Cor">Enter three or four Conspirators of Aufidius’s faction. </stage>
+            <stage xml:id="stg-3719.1" n="SD 5.6.9.1" type="exit" who="#ATTENDANTS.VOLSCIAN_Cor">The Attendants exit. </stage>
+            <stage xml:id="stg-3719.2" n="SD 5.6.9.2" type="entrance" who="#CONSPIRATORS_Cor">Enter three or four Conspirators of Aufidius’s faction. </stage>
             <l xml:id="ftln-3720" n="5.6.10" part="F">Most welcome! </l>
           </sp>
           <sp xml:id="sp-3721" who="#CONSPIRATORS.0.1_Cor">
@@ -8247,14 +7581,8 @@
             <l xml:id="ftln-3766" n="5.6.56">Of our great action. Therefore shall he die, </l>
             <l xml:id="ftln-3767" n="5.6.57">And I’ll renew me in his fall. But hark! </l>
           </sp>
-          <stage xml:id="stg-3767.1"
-                      n="SD 5.6.57.1"
-                      type="business"
-                      rendition="centered">
-            <stage xml:id="snd-3767.1"
-                         n="SD 5.6.57.1"
-                         type="sound"
-                         ana="drum trumpet">Drums and trumpets sounds, </stage> with great shouts of the people. </stage>
+          <stage xml:id="stg-3767.1" n="SD 5.6.57.1" type="business" rendition="centered">
+            <stage xml:id="snd-3767.1" n="SD 5.6.57.1" type="sound" ana="drum trumpet">Drums and trumpets sounds, </stage> with great shouts of the people. </stage>
           <sp xml:id="sp-3768" who="#CONSPIRATORS.0.1_Cor">
             <speaker xml:id="spk-3768">FIRST CONSPIRATOR </speaker>
             <l xml:id="ftln-3768" n="5.6.58">Your native town you entered like a post </l>
@@ -8279,10 +7607,7 @@
           <sp xml:id="sp-3780" who="#Aufidius_Cor">
             <speaker xml:id="spk-3780">AUFIDIUS </speaker>
             <l xml:id="ftln-3780" n="5.6.70" part="F">Say no more. </l>
-            <stage xml:id="stg-3780.1"
-                         n="SD 5.6.70.1"
-                         type="entrance"
-                         who="#LORDS.VOLSCIAN_Cor">Enter the Lords of the city. </stage>
+            <stage xml:id="stg-3780.1" n="SD 5.6.70.1" type="entrance" who="#LORDS.VOLSCIAN_Cor">Enter the Lords of the city. </stage>
             <l xml:id="ftln-3781" n="5.6.71" ana="#short">Here come the lords. </l>
           </sp>
           <sp xml:id="sp-3782" who="#LORDS.VOLSCIAN_Cor">
@@ -8309,10 +7634,7 @@
             <l xml:id="ftln-3792" n="5.6.82">With our own charge, making a treaty where </l>
             <l xml:id="ftln-3793" n="5.6.83">There was a yielding— this admits no excuse. </l>
           </sp>
-          <stage xml:id="stg-3793.1"
-                      n="SD 5.6.83.1"
-                      type="entrance"
-                      who="#Coriolanus_Cor #CITIZENS.VOLSCIAN_Cor">Enter Coriolanus marching with <stage xml:id="snd-3793.1" n="SD 5.6.83.1" type="sound" ana="drum">Drum and Colors</stage>, the Commoners being with him. </stage>
+          <stage xml:id="stg-3793.1" n="SD 5.6.83.1" type="entrance" who="#Coriolanus_Cor #CITIZENS.VOLSCIAN_Cor">Enter Coriolanus marching with <stage xml:id="snd-3793.1" n="SD 5.6.83.1" type="sound" ana="drum">Drum and Colors</stage>, the Commoners being with him. </stage>
           <sp xml:id="sp-3794" who="#Aufidius_Cor">
             <speaker xml:id="spk-3794">AUFIDIUS </speaker>
             <l xml:id="ftln-3794" n="5.6.84" ana="#short">He approaches. You shall hear him. </l>
@@ -8334,10 +7656,7 @@
             <l xml:id="ftln-3808" n="5.6.98">Together with the seal o’ th’ Senate, what </l>
             <l xml:id="ftln-3809" n="5.6.99" ana="#short">We have compounded on. </l>
           </sp>
-          <stage xml:id="stg-3809.1"
-                      n="SD 5.6.99.1"
-                      type="business"
-                      who="#Coriolanus_Cor">He offers the lords a paper. </stage>
+          <stage xml:id="stg-3809.1" n="SD 5.6.99.1" type="business" who="#Coriolanus_Cor">He offers the lords a paper. </stage>
           <sp xml:id="sp-3810" who="#Aufidius_Cor">
             <speaker xml:id="spk-3810">AUFIDIUS </speaker>
             <l xml:id="ftln-3810" n="5.6.100" ana="#short">Read it not, noble lords, </l>
@@ -8438,10 +7757,7 @@
           </sp>
           <sp xml:id="sp-3862" who="#Coriolanus_Cor">
             <speaker xml:id="spk-3862">CORIOLANUS </speaker>
-            <stage xml:id="stg-3862"
-                         n="SD 5.6.152"
-                         type="business"
-                         who="#Coriolanus_Cor">, drawing his sword </stage>
+            <stage xml:id="stg-3862" n="SD 5.6.152" type="business" who="#Coriolanus_Cor">, drawing his sword </stage>
             <l xml:id="ftln-3862" n="5.6.152" part="F">O, that I had him, </l>
             <l xml:id="ftln-3863" n="5.6.153">With six Aufidiuses, or more, his tribe, </l>
             <l xml:id="ftln-3864" n="5.6.154" part="I">To use my lawful sword. </l>
@@ -8455,11 +7771,7 @@
             <p xml:id="p-3866">
               <lb xml:id="ftln-3866" n="5.6.156"/>Kill, kill, kill, kill, kill him! </p>
           </sp>
-          <stage xml:id="stg-3866.1"
-                      n="SD 5.6.156.1"
-                      type="business"
-                      rendition="centered"
-                      who="#CONSPIRATORS_Cor #Coriolanus_Cor #Aufidius_Cor">Draw the Conspirators, and kills Martius, who falls. Aufidius stands on him. </stage>
+          <stage xml:id="stg-3866.1" n="SD 5.6.156.1" type="business" rendition="centered" who="#CONSPIRATORS_Cor #Coriolanus_Cor #Aufidius_Cor">Draw the Conspirators, and kills Martius, who falls. Aufidius stands on him. </stage>
           <sp xml:id="sp-3867" who="#LORDS.VOLSCIAN_Cor">
             <speaker xml:id="spk-3867">LORDS </speaker>
             <p xml:id="p-3867">
@@ -8517,13 +7829,7 @@
             <l xml:id="ftln-3894" n="5.6.184">Yet he shall have a noble memory. </l>
             <l xml:id="ftln-3895" n="5.6.185" ana="#short">Assist. </l>
           </sp>
-          <stage xml:id="stg-3895.1"
-                      n="SD 5.6.185.1"
-                      type="exit"
-                      who="#Aufidius_Cor #CONSPIRATORS_Cor #LORDS.VOLSCIAN_Cor #CITIZENS.VOLSCIAN_Cor #Coriolanus_Cor">They exit bearing the body of Martius. <stage xml:id="snd-3895.2"
-                         n="SD 5.6.185.2"
-                         type="sound"
-                         ana="march drum">A dead march sounded. </stage>
+          <stage xml:id="stg-3895.1" n="SD 5.6.185.1" type="exit" who="#Aufidius_Cor #CONSPIRATORS_Cor #LORDS.VOLSCIAN_Cor #CITIZENS.VOLSCIAN_Cor #Coriolanus_Cor">They exit bearing the body of Martius. <stage xml:id="snd-3895.2" n="SD 5.6.185.2" type="sound" ana="march drum">A dead march sounded. </stage>
           </stage>
         </div>
       </div>

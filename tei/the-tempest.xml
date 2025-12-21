@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shake000001">
   <teiHeader>
     <fileDesc>
@@ -170,9 +171,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/shake000001"
-                   passive="http://www.wikidata.org/entity/Q86440"/>
+      <relation name="wikidata" active="https://dracor.org/entity/shake000001" passive="http://www.wikidata.org/entity/Q86440"/>
     </listRelation>
   </standOff>
   <text>
@@ -297,10 +296,7 @@
         <head>ACT 1 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-0000"
-                      n="SD 1.1.0"
-                      type="entrance"
-                      who="#Shipmaster_Tmp #Boatswain_Tmp">
+          <stage xml:id="stg-0000" n="SD 1.1.0" type="entrance" who="#Shipmaster_Tmp #Boatswain_Tmp">
             <stage xml:id="snd-0000a" n="SD 1.1.0" type="sound" ana="thunder">A tempestuous noise of thunder and lightning heard. </stage>Enter a Shipmaster and a Boatswain. </stage>
           <sp xml:id="sp-0001" who="#Shipmaster_Tmp">
             <speaker xml:id="spk-0001">MASTER </speaker>
@@ -317,23 +313,14 @@
             <p xml:id="p-0003">
               <lb xml:id="ftln-0003" n="1.1.3"/>Good, speak to th’ mariners. Fall to ’t yarely, <lb xml:id="ftln-0004" n="1.1.4"/>or we run ourselves aground. Bestir, bestir! </p>
           </sp>
-          <stage xml:id="stg-0004.1"
-                      n="SD 1.1.4.1"
-                      type="exit"
-                      who="#Shipmaster_Tmp">He exits. </stage>
-          <stage xml:id="stg-0004.2"
-                      n="SD 1.1.4.2"
-                      type="entrance"
-                      who="#SAILORS_Tmp">Enter Mariners. </stage>
+          <stage xml:id="stg-0004.1" n="SD 1.1.4.1" type="exit" who="#Shipmaster_Tmp">He exits. </stage>
+          <stage xml:id="stg-0004.2" n="SD 1.1.4.2" type="entrance" who="#SAILORS_Tmp">Enter Mariners. </stage>
           <sp xml:id="sp-0005" who="#Boatswain_Tmp">
             <speaker xml:id="spk-0005">BOATSWAIN </speaker>
             <p xml:id="p-0005">
               <lb xml:id="ftln-0005" n="1.1.5"/>Heigh, my hearts! Cheerly, cheerly, my <lb xml:id="ftln-0006" n="1.1.6"/>hearts! Yare, yare! Take in the topsail. Tend to th’ <lb xml:id="ftln-0007" n="1.1.7"/>Master’s whistle.— Blow till thou burst thy wind, if <lb xml:id="ftln-0008" n="1.1.8"/>room enough! </p>
           </sp>
-          <stage xml:id="stg-0008.1"
-                      n="SD 1.1.8.1"
-                      type="entrance"
-                      who="#Alonso_Tmp #Sebastian_Tmp #Antonio_Tmp #Ferdinand_Tmp #Gonzalo_Tmp">Enter Alonso, Sebastian, Antonio, Ferdinand, Gonzalo, and others. </stage>
+          <stage xml:id="stg-0008.1" n="SD 1.1.8.1" type="entrance" who="#Alonso_Tmp #Sebastian_Tmp #Antonio_Tmp #Ferdinand_Tmp #Gonzalo_Tmp">Enter Alonso, Sebastian, Antonio, Ferdinand, Gonzalo, and others. </stage>
           <sp xml:id="sp-0009" who="#Alonso_Tmp">
             <speaker xml:id="spk-0009">ALONSO </speaker>
             <p xml:id="p-0009">
@@ -374,37 +361,22 @@
             <p xml:id="p-0021">
               <lb xml:id="ftln-0021" n="1.1.21"/>None that I more love than myself. You are <lb xml:id="ftln-0022" n="1.1.22"/>a councillor; if you can command these elements <lb xml:id="ftln-0023" n="1.1.23"/>to silence, and work the peace of the present, we <lb xml:id="ftln-0024" n="1.1.24"/>will not hand a rope more. Use your authority. If <lb xml:id="ftln-0025" n="1.1.25"/>you cannot, give thanks you have lived so long, and <lb xml:id="ftln-0026" n="1.1.26"/>make yourself ready in your cabin for the mischance <lb xml:id="ftln-0027" n="1.1.27"/>of the hour, if it so hap.— Cheerly, good <lb xml:id="ftln-0028" n="1.1.28"/>hearts!— Out of our way, I say! </p>
           </sp>
-          <stage xml:id="stg-0028"
-                      n="SD 1.1.28"
-                      type="exit"
-                      who="#Boatswain_Tmp">He exits. </stage>
+          <stage xml:id="stg-0028" n="SD 1.1.28" type="exit" who="#Boatswain_Tmp">He exits. </stage>
           <sp xml:id="sp-0029" who="#Gonzalo_Tmp">
             <speaker xml:id="spk-0029">GONZALO </speaker>
             <p xml:id="p-0029">
               <lb xml:id="ftln-0029" n="1.1.29"/>I have great comfort from this fellow. Methinks <lb xml:id="ftln-0030" n="1.1.30"/>he hath no drowning mark upon him. His <lb xml:id="ftln-0031" n="1.1.31"/>complexion is perfect gallows. Stand fast, good <lb xml:id="ftln-0032" n="1.1.32"/>Fate, to his hanging. Make the rope of his destiny <lb xml:id="ftln-0033" n="1.1.33"/>our cable, for our own doth little advantage. If he be <lb xml:id="ftln-0034" n="1.1.34"/>not born to be hanged, our case is miserable. </p>
           </sp>
-          <stage xml:id="stg-0034.1"
-                      n="SD 1.1.34.1"
-                      type="exit"
-                      who="#Gonzalo_Tmp #Alonso_Tmp #Sebastian_Tmp #Antonio_Tmp #Ferdinand_Tmp">He exits with Alonso, Sebastian, and the other courtiers. </stage>
-          <stage xml:id="stg-0034.2"
-                      n="SD 1.1.34.2"
-                      type="entrance"
-                      who="#Boatswain_Tmp">Enter Boatswain. </stage>
+          <stage xml:id="stg-0034.1" n="SD 1.1.34.1" type="exit" who="#Gonzalo_Tmp #Alonso_Tmp #Sebastian_Tmp #Antonio_Tmp #Ferdinand_Tmp">He exits with Alonso, Sebastian, and the other courtiers. </stage>
+          <stage xml:id="stg-0034.2" n="SD 1.1.34.2" type="entrance" who="#Boatswain_Tmp">Enter Boatswain. </stage>
           <sp xml:id="sp-0035" who="#Boatswain_Tmp">
             <speaker xml:id="spk-0035">BOATSWAIN </speaker>
             <p xml:id="p-0035">
               <lb xml:id="ftln-0035" n="1.1.35"/>Down with the topmast! Yare! Lower, lower! <lb xml:id="ftln-0036" n="1.1.36"/>Bring her to try wi’ th’ main course. </p>
-            <stage xml:id="stg-0036"
-                         n="SD 1.1.36"
-                         type="business"
-                         rendition="inline"> ( A cry within.) </stage>
+            <stage xml:id="stg-0036" n="SD 1.1.36" type="business" rendition="inline"> ( A cry within.) </stage>
             <p xml:id="p-0037">
               <lb xml:id="ftln-0037" n="1.1.37"/>A plague upon this howling! They are <lb xml:id="ftln-0038" n="1.1.38"/>louder than the weather or our office. </p>
-            <stage xml:id="stg-0038.1"
-                         n="SD 1.1.38.1"
-                         type="entrance"
-                         who="#Sebastian_Tmp #Antonio_Tmp #Gonzalo_Tmp">Enter Sebastian, Antonio, and Gonzalo. </stage>
+            <stage xml:id="stg-0038.1" n="SD 1.1.38.1" type="entrance" who="#Sebastian_Tmp #Antonio_Tmp #Gonzalo_Tmp">Enter Sebastian, Antonio, and Gonzalo. </stage>
             <p xml:id="p-0039">
               <lb xml:id="ftln-0039" n="1.1.39"/>Yet again? What do you here? Shall we give o’er and <lb xml:id="ftln-0040" n="1.1.40"/>drown? Have you a mind to sink? </p>
           </sp>
@@ -433,19 +405,13 @@
             <p xml:id="p-0050">
               <lb xml:id="ftln-0050" n="1.1.50"/>Lay her ahold, ahold! Set her two courses. <lb xml:id="ftln-0051" n="1.1.51"/>Off to sea again! Lay her off! </p>
           </sp>
-          <stage xml:id="stg-0051.1"
-                      n="SD 1.1.51.1"
-                      type="entrance"
-                      who="#SAILORS_Tmp">Enter more Mariners, wet. </stage>
+          <stage xml:id="stg-0051.1" n="SD 1.1.51.1" type="entrance" who="#SAILORS_Tmp">Enter more Mariners, wet. </stage>
           <sp xml:id="sp-0052" who="#SAILORS_Tmp">
             <speaker xml:id="spk-0052">MARINERS </speaker>
             <p xml:id="p-0052">
               <lb xml:id="ftln-0052" n="1.1.52"/>All lost! To prayers, to prayers! All lost! </p>
           </sp>
-          <stage xml:id="stg-0052.1"
-                      n="SD 1.1.52.1"
-                      type="exit"
-                      who="#SAILORS_Tmp">Mariners exit. </stage>
+          <stage xml:id="stg-0052.1" n="SD 1.1.52.1" type="exit" who="#SAILORS_Tmp">Mariners exit. </stage>
           <sp xml:id="sp-0053" who="#Boatswain_Tmp">
             <speaker xml:id="spk-0053">BOATSWAIN </speaker>
             <p xml:id="p-0053">
@@ -466,20 +432,14 @@
             <p xml:id="p-0057">
               <lb xml:id="ftln-0057" n="1.1.57"/>We are merely cheated of our lives by drunkards. <lb xml:id="ftln-0058" n="1.1.58"/>This wide-chopped rascal— would thou <lb xml:id="ftln-0059" n="1.1.59"/>mightst lie drowning the washing of ten tides! </p>
           </sp>
-          <stage xml:id="stg-0059.1"
-                      n="SD 1.1.59.1"
-                      type="exit"
-                      who="#Boatswain_Tmp">Boatswain exits. </stage>
+          <stage xml:id="stg-0059.1" n="SD 1.1.59.1" type="exit" who="#Boatswain_Tmp">Boatswain exits. </stage>
           <sp xml:id="sp-0060" who="#Gonzalo_Tmp">
             <speaker xml:id="spk-0060">GONZALO </speaker>
             <p xml:id="p-0060">
               <lb xml:id="ftln-0060" n="1.1.60"/>He’ll be hanged yet, though every drop of <lb xml:id="ftln-0061" n="1.1.61"/>water swear against it and gape at wid’st to glut him. </p>
           </sp>
           <sp>
-            <stage xml:id="stg-0062"
-                         n="SD 1.1.62"
-                         type="business"
-                         rendition="inline">A confused noise within: </stage>
+            <stage xml:id="stg-0062" n="SD 1.1.62" type="business" rendition="inline">A confused noise within: </stage>
             <p xml:id="p-0062">
               <lb xml:id="ftln-0062" n="1.1.62"/>“ Mercy on us!”—“ We split, we <lb xml:id="ftln-0063" n="1.1.63"/>split!”—“ Farewell, my wife and children!”— <lb xml:id="ftln-0064" n="1.1.64"/>“ Farewell, brother!”—“ We split, we split, we <lb xml:id="ftln-0065" n="1.1.65"/>split!” </p>
           </sp>
@@ -493,26 +453,17 @@
             <p xml:id="p-0067">
               <lb xml:id="ftln-0067" n="1.1.67"/>Let’s take leave of him. </p>
           </sp>
-          <stage xml:id="stg-0067.1"
-                      n="SD 1.1.67.1"
-                      type="exit"
-                      who="#Sebastian_Tmp #Antonio_Tmp">He exits with Antonio. </stage>
+          <stage xml:id="stg-0067.1" n="SD 1.1.67.1" type="exit" who="#Sebastian_Tmp #Antonio_Tmp">He exits with Antonio. </stage>
           <sp xml:id="sp-0068" who="#Gonzalo_Tmp">
             <speaker xml:id="spk-0068">GONZALO </speaker>
             <p xml:id="p-0068">
               <lb xml:id="ftln-0068" n="1.1.68"/>Now would I give a thousand furlongs of sea <lb xml:id="ftln-0069" n="1.1.69"/>for an acre of barren ground: long heath, brown <lb xml:id="ftln-0070" n="1.1.70"/>furze, anything. The wills above be done, but I <lb xml:id="ftln-0071" n="1.1.71"/>would fain die a dry death. </p>
           </sp>
-          <stage xml:id="stg-0071.1"
-                      n="SD 1.1.71.1"
-                      type="exit"
-                      who="#Gonzalo_Tmp">He exits. </stage>
+          <stage xml:id="stg-0071.1" n="SD 1.1.71.1" type="exit" who="#Gonzalo_Tmp">He exits. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-0071.2"
-                      n="SD 1.2.0"
-                      type="entrance"
-                      who="#Prospero_Tmp #Miranda_Tmp">Enter Prospero and Miranda. </stage>
+          <stage xml:id="stg-0071.2" n="SD 1.2.0" type="entrance" who="#Prospero_Tmp #Miranda_Tmp">Enter Prospero and Miranda. </stage>
           <sp xml:id="sp-0072" who="#Miranda_Tmp">
             <speaker xml:id="spk-0072">MIRANDA </speaker>
             <l xml:id="ftln-0072" n="1.2.1">If by your art, my dearest father, you have </l>
@@ -559,10 +510,7 @@
             <l xml:id="ftln-0098" n="1.2.27" part="F">’Tis time </l>
             <l xml:id="ftln-0099" n="1.2.28">I should inform thee farther. Lend thy hand </l>
             <l xml:id="ftln-0100" n="1.2.29" part="I">And pluck my magic garment from me. </l>
-            <stage xml:id="stg-0100.1"
-                         n="SD 1.2.29.1"
-                         type="business"
-                         who="#Prospero_Tmp">Putting aside his cloak. </stage>
+            <stage xml:id="stg-0100.1" n="SD 1.2.29.1" type="business" who="#Prospero_Tmp">Putting aside his cloak. </stage>
             <l xml:id="ftln-0101" n="1.2.30" part="F">So, </l>
             <l xml:id="ftln-0102" n="1.2.31">Lie there, my art.— Wipe thou thine eyes. Have comfort. </l>
             <l xml:id="ftln-0104" n="1.2.33">The direful spectacle of the wrack, which touched </l>
@@ -574,10 +522,7 @@
             <l xml:id="ftln-0110" n="1.2.39">Which thou heard’st cry, which thou saw’st sink. Sit down, </l>
             <l xml:id="ftln-0112" n="1.2.41" part="I">For thou must now know farther. </l>
           </sp>
-          <stage xml:id="stg-0112"
-                      n="SD 1.2.41"
-                      type="business"
-                      who="#Prospero_Tmp #Miranda_Tmp">They sit. </stage>
+          <stage xml:id="stg-0112" n="SD 1.2.41" type="business" who="#Prospero_Tmp #Miranda_Tmp">They sit. </stage>
           <sp xml:id="sp-0113" who="#Miranda_Tmp">
             <speaker xml:id="spk-0113">MIRANDA </speaker>
             <l xml:id="ftln-0113" n="1.2.42" part="F">You have often </l>
@@ -838,10 +783,7 @@
           </sp>
           <sp xml:id="sp-0274" who="#Prospero_Tmp">
             <speaker xml:id="spk-0274">PROSPERO </speaker>
-            <stage xml:id="stg-0274"
-                         n="SD 1.2.203"
-                         type="business"
-                         who="#Prospero_Tmp">, standing </stage>
+            <stage xml:id="stg-0274" n="SD 1.2.203" type="business" who="#Prospero_Tmp">, standing </stage>
             <l xml:id="ftln-0274" n="1.2.203" part="F">Now I arise. </l>
             <l xml:id="ftln-0275" n="1.2.204">Sit still, and hear the last of our sea-sorrow. </l>
             <l xml:id="ftln-0276" n="1.2.205">Here in this island we arrived, and here </l>
@@ -867,21 +809,12 @@
             <l xml:id="ftln-0290" n="1.2.219">Will ever after droop. Here cease more questions. </l>
             <l xml:id="ftln-0291" n="1.2.220">Thou art inclined to sleep. ’Tis a good dullness, </l>
             <l xml:id="ftln-0292" n="1.2.221">And give it way. I know thou canst not choose. </l>
-            <stage xml:id="stg-0292.1"
-                         n="SD 1.2.221.1"
-                         type="business"
-                         who="#Miranda_Tmp">Miranda falls asleep. </stage>
-            <stage xml:id="stg-0292.2"
-                         n="SD 1.2.221.2"
-                         type="business"
-                         who="#Prospero_Tmp">Prospero puts on his cloak. </stage>
+            <stage xml:id="stg-0292.1" n="SD 1.2.221.1" type="business" who="#Miranda_Tmp">Miranda falls asleep. </stage>
+            <stage xml:id="stg-0292.2" n="SD 1.2.221.2" type="business" who="#Prospero_Tmp">Prospero puts on his cloak. </stage>
             <l xml:id="ftln-0293" n="1.2.222">Come away, servant, come. I am ready now. </l>
             <l xml:id="ftln-0294" n="1.2.223" ana="#short">Approach, my Ariel. Come. </l>
           </sp>
-          <stage xml:id="stg-0294.1"
-                      n="SD 1.2.223.1"
-                      type="entrance"
-                      who="#Ariel_Tmp">Enter Ariel. </stage>
+          <stage xml:id="stg-0294.1" n="SD 1.2.223.1" type="entrance" who="#Ariel_Tmp">Enter Ariel. </stage>
           <sp xml:id="sp-0295" who="#Ariel_Tmp">
             <speaker xml:id="spk-0295">ARIEL </speaker>
             <l xml:id="ftln-0295" n="1.2.224">All hail, great master! Grave sir, hail! I come </l>
@@ -951,10 +884,7 @@
             <l xml:id="ftln-0335" n="1.2.264">In an odd angle of the isle, and sitting, </l>
             <l xml:id="ftln-0336" n="1.2.265" part="I">His arms in this sad knot. </l>
           </sp>
-          <stage xml:id="stg-0336"
-                      n="SD 1.2.265"
-                      type="business"
-                      who="#Ariel_Tmp">He folds his arms. </stage>
+          <stage xml:id="stg-0336" n="SD 1.2.265" type="business" who="#Ariel_Tmp">He folds his arms. </stage>
           <sp xml:id="sp-0337" who="#Prospero_Tmp">
             <speaker xml:id="spk-0337">PROSPERO </speaker>
             <l xml:id="ftln-0337" n="1.2.266" part="F">Of the King’s ship, </l>
@@ -1140,17 +1070,11 @@
             <l xml:id="ftln-0431" n="1.2.360">To no sight but thine and mine, invisible </l>
             <l xml:id="ftln-0432" n="1.2.361">To every eyeball else. Go, take this shape, </l>
             <l xml:id="ftln-0433" n="1.2.362">And hither come in ’t. Go, hence with diligence! </l>
-            <stage xml:id="stg-0433.1"
-                         n="SD 1.2.362.1"
-                         type="exit"
-                         who="#Ariel_Tmp">Ariel exits. </stage>
+            <stage xml:id="stg-0433.1" n="SD 1.2.362.1" type="exit" who="#Ariel_Tmp">Ariel exits. </stage>
             <l xml:id="ftln-0434" n="1.2.363">Awake, dear heart, awake. Thou hast slept well. </l>
             <l xml:id="ftln-0435" n="1.2.364" part="I">Awake. </l>
           </sp>
-          <stage xml:id="stg-0435"
-                      n="SD 1.2.364"
-                      type="business"
-                      who="#Miranda_Tmp">Miranda wakes. </stage>
+          <stage xml:id="stg-0435" n="SD 1.2.364" type="business" who="#Miranda_Tmp">Miranda wakes. </stage>
           <sp xml:id="sp-0436" who="#Miranda_Tmp">
             <speaker xml:id="spk-0436">MIRANDA </speaker>
             <l xml:id="ftln-0436" n="1.2.365" part="F">The strangeness of your story put </l>
@@ -1164,10 +1088,7 @@
           </sp>
           <sp xml:id="sp-0441" who="#Miranda_Tmp">
             <speaker xml:id="spk-0441">MIRANDA </speaker>
-            <stage xml:id="stg-0441"
-                         n="SD 1.2.370"
-                         type="business"
-                         who="#Miranda_Tmp">, rising </stage>
+            <stage xml:id="stg-0441" n="SD 1.2.370" type="business" who="#Miranda_Tmp">, rising </stage>
             <l xml:id="ftln-0441" n="1.2.370" part="F">’Tis a villain, sir, </l>
             <l xml:id="ftln-0442" n="1.2.371" part="I">I do not love to look on. </l>
           </sp>
@@ -1188,17 +1109,11 @@
             <speaker xml:id="spk-0449">PROSPERO </speaker>
             <l xml:id="ftln-0449" n="1.2.378">Come forth, I say. There’s other business for thee. </l>
             <l xml:id="ftln-0450" n="1.2.379" ana="#short">Come, thou tortoise. When? </l>
-            <stage xml:id="stg-0450.1"
-                         n="SD 1.2.379.1"
-                         type="entrance"
-                         who="#Ariel_Tmp">Enter Ariel like a water nymph. </stage>
+            <stage xml:id="stg-0450.1" n="SD 1.2.379.1" type="entrance" who="#Ariel_Tmp">Enter Ariel like a water nymph. </stage>
             <l xml:id="ftln-0451" n="1.2.380">Fine apparition! My quaint Ariel, </l>
             <l xml:id="ftln-0452" n="1.2.381" part="I">Hark in thine ear. </l>
           </sp>
-          <stage xml:id="stg-0452"
-                      n="SD 1.2.381"
-                      type="business"
-                      who="#Prospero_Tmp #Ariel_Tmp">He whispers to Ariel. </stage>
+          <stage xml:id="stg-0452" n="SD 1.2.381" type="business" who="#Prospero_Tmp #Ariel_Tmp">He whispers to Ariel. </stage>
           <sp xml:id="sp-0453" who="#Ariel_Tmp">
             <speaker xml:id="spk-0453">ARIEL </speaker>
             <l xml:id="ftln-0453" n="1.2.382" part="F">My lord, it shall be done. </l>
@@ -1210,10 +1125,7 @@
             <l xml:id="ftln-0454" n="1.2.383">Thou poisonous slave, got by the devil himself </l>
             <l xml:id="ftln-0455" n="1.2.384" ana="#short">Upon thy wicked dam, come forth! </l>
           </sp>
-          <stage xml:id="stg-0455.1"
-                      n="SD 1.2.384.1"
-                      type="entrance"
-                      who="#Caliban_Tmp">Enter Caliban. </stage>
+          <stage xml:id="stg-0455.1" n="SD 1.2.384.1" type="entrance" who="#Caliban_Tmp">Enter Caliban. </stage>
           <sp xml:id="sp-0456" who="#Caliban_Tmp">
             <speaker xml:id="spk-0456">CALIBAN </speaker>
             <l xml:id="ftln-0456" n="1.2.385">As wicked dew as e’er my mother brushed </l>
@@ -1305,14 +1217,8 @@
             <speaker xml:id="spk-0522">PROSPERO </speaker>
             <l xml:id="ftln-0522" n="1.2.451" part="F">So, slave, hence. </l>
           </sp>
-          <stage xml:id="stg-0522.1"
-                      n="SD 1.2.451.1"
-                      type="exit"
-                      who="#Caliban_Tmp">Caliban exits. </stage>
-          <stage xml:id="stg-0522.2"
-                      n="SD 1.2.451.2"
-                      type="entrance"
-                      who="#Ferdinand_Tmp #Ariel_Tmp">Enter Ferdinand; and Ariel, invisible, <stage xml:id="snd-0522.2" n="SD 1.2.451.2" type="sound">playing and singing</stage>. </stage>
+          <stage xml:id="stg-0522.1" n="SD 1.2.451.1" type="exit" who="#Caliban_Tmp">Caliban exits. </stage>
+          <stage xml:id="stg-0522.2" n="SD 1.2.451.2" type="entrance" who="#Ferdinand_Tmp #Ariel_Tmp">Enter Ferdinand; and Ariel, invisible, <stage xml:id="snd-0522.2" n="SD 1.2.451.2" type="sound">playing and singing</stage>. </stage>
           <label xml:id="lbl-0001">Song. </label>
           <sp xml:id="sp-0523" who="#Ariel_Tmp">
             <speaker xml:id="spk-0523">ARIEL </speaker>
@@ -1331,16 +1237,10 @@
             <lg xml:id="stz-0529" type="aBaBccB">
               <l xml:id="ftln-0529" n="1.2.458">The burden. Hark, hark! </l>
               <l xml:id="ftln-0530" n="1.2.459">
-                <stage xml:id="stg-0530"
-                               n="SD 1.2.459"
-                               type="delivery"
-                               rendition="roman">Burden dispersedly, within: </stage>Bow-wow. </l>
+                <stage xml:id="stg-0530" n="SD 1.2.459" type="delivery" rendition="roman">Burden dispersedly, within: </stage>Bow-wow. </l>
               <l xml:id="ftln-0531" n="1.2.460">The watchdogs bark. </l>
               <l xml:id="ftln-0532" n="1.2.461">
-                <stage xml:id="stg-0532"
-                               n="SD 1.2.461"
-                               type="delivery"
-                               rendition="roman">Burden dispersedly, within: </stage>Bow-wow. </l>
+                <stage xml:id="stg-0532" n="SD 1.2.461" type="delivery" rendition="roman">Burden dispersedly, within: </stage>Bow-wow. </l>
               <l xml:id="ftln-0533" n="1.2.462">Hark, hark! I hear </l>
               <l xml:id="ftln-0534" n="1.2.463">The strain of strutting chanticleer </l>
               <l xml:id="ftln-0535" n="1.2.464">Cry cock-a-diddle-dow. </l>
@@ -1374,10 +1274,7 @@
             <lg xml:id="stz-0551" type="couplet">
               <l xml:id="ftln-0551" n="1.2.480">Sea nymphs hourly ring his knell. </l>
               <l xml:id="ftln-0552" n="1.2.481">
-                <stage xml:id="stg-0552"
-                               n="SD 1.2.481"
-                               type="delivery"
-                               rendition="roman">Burden, within: </stage>Ding dong. </l>
+                <stage xml:id="stg-0552" n="SD 1.2.481" type="delivery" rendition="roman">Burden, within: </stage>Ding dong. </l>
               <l xml:id="ftln-0553" n="1.2.482">Hark, now I hear them: ding dong bell. </l>
             </lg>
           </sp>
@@ -1423,10 +1320,7 @@
           </sp>
           <sp xml:id="sp-0576" who="#Ferdinand_Tmp">
             <speaker xml:id="spk-0576">FERDINAND </speaker>
-            <stage xml:id="stg-0576"
-                         n="SD 1.2.505"
-                         type="business"
-                         who="#Ferdinand_Tmp">, seeing Miranda </stage>
+            <stage xml:id="stg-0576" n="SD 1.2.505" type="business" who="#Ferdinand_Tmp">, seeing Miranda </stage>
             <l xml:id="ftln-0576" n="1.2.505" part="F">Most sure, the goddess </l>
             <l xml:id="ftln-0577" n="1.2.506">On whom these airs attend!— Vouchsafe my prayer </l>
             <l xml:id="ftln-0578" n="1.2.507">May know if you remain upon this island, </l>
@@ -1530,10 +1424,7 @@
             <l xml:id="ftln-0634" n="1.2.563">I will resist such entertainment till </l>
             <l xml:id="ftln-0635" n="1.2.564" part="I">Mine enemy has more power. </l>
           </sp>
-          <stage xml:id="stg-0635.1"
-                      n="SD 1.2.564.1"
-                      type="business"
-                      who="#Ferdinand_Tmp">He draws, and is charmed from moving. </stage>
+          <stage xml:id="stg-0635.1" n="SD 1.2.564.1" type="business" who="#Ferdinand_Tmp">He draws, and is charmed from moving. </stage>
           <sp xml:id="sp-0636" who="#Miranda_Tmp">
             <speaker xml:id="spk-0636">MIRANDA </speaker>
             <l xml:id="ftln-0636" n="1.2.565" part="F">O dear father, </l>
@@ -1629,20 +1520,14 @@
             <stage xml:id="stg-0684.0" n="SD 1.2.613.0" type="delivery">, to Ferdinand </stage>
             <l xml:id="ftln-0684" n="1.2.613" ana="#short">Come follow. <stage xml:id="stg-0684" n="SD 1.2.613" type="delivery"> To Miranda. </stage> Speak not for him. </l>
           </sp>
-          <stage xml:id="stg-0684.a"
-                      n="SD 1.2.613.1"
-                      type="exit"
-                      who="#Prospero_Tmp #Miranda_Tmp #Ariel_Tmp #Ferdinand_Tmp">They exit. </stage>
+          <stage xml:id="stg-0684.a" n="SD 1.2.613.1" type="exit" who="#Prospero_Tmp #Miranda_Tmp #Ariel_Tmp #Ferdinand_Tmp">They exit. </stage>
         </div>
       </div>
       <div type="act" n="2">
         <head>ACT 2 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-0684.2"
-                      n="SD 2.1.0"
-                      type="entrance"
-                      who="#Alonso_Tmp #Sebastian_Tmp #Antonio_Tmp #Gonzalo_Tmp #Adrian_Tmp #Francisco_Tmp">Enter Alonso, Sebastian, Antonio, Gonzalo, Adrian, Francisco, and others. </stage>
+          <stage xml:id="stg-0684.2" n="SD 2.1.0" type="entrance" who="#Alonso_Tmp #Sebastian_Tmp #Antonio_Tmp #Gonzalo_Tmp #Adrian_Tmp #Francisco_Tmp">Enter Alonso, Sebastian, Antonio, Gonzalo, Adrian, Francisco, and others. </stage>
           <sp xml:id="sp-0685" who="#Gonzalo_Tmp">
             <speaker xml:id="spk-0685">GONZALO </speaker>
             <stage xml:id="stg-0685.0" n="SD 2.1.1.0" type="delivery">, to Alonso </stage>
@@ -2214,10 +2099,7 @@
             <p xml:id="p-0883">
               <lb xml:id="ftln-0883" n="2.1.199"/>You are gentlemen of brave mettle. You <lb xml:id="ftln-0884" n="2.1.200"/>would lift the moon out of her sphere if she would <lb xml:id="ftln-0885" n="2.1.201"/>continue in it five weeks without changing. </p>
           </sp>
-          <stage xml:id="stg-0885.1"
-                      n="SD 2.1.201.1"
-                      type="entrance"
-                      who="#Ariel_Tmp">Enter Ariel invisible, <stage xml:id="snd-0885.1" n="SD 2.1.201.1" type="sound">playing solemn music</stage>. </stage>
+          <stage xml:id="stg-0885.1" n="SD 2.1.201.1" type="entrance" who="#Ariel_Tmp">Enter Ariel invisible, <stage xml:id="snd-0885.1" n="SD 2.1.201.1" type="sound">playing solemn music</stage>. </stage>
           <sp xml:id="sp-0886" who="#Sebastian_Tmp">
             <speaker xml:id="spk-0886">SEBASTIAN </speaker>
             <p xml:id="p-0886">
@@ -2239,10 +2121,7 @@
             <p xml:id="p-0891">
               <lb xml:id="ftln-0891" n="2.1.207"/>Go sleep, and hear us. </p>
           </sp>
-          <stage xml:id="stg-0891.1"
-                      n="SD 2.1.207.1"
-                      type="business"
-                      who="#Gonzalo_Tmp #Adrian_Tmp #Francisco_Tmp">All sink down asleep except Alonso, Antonio, and Sebastian. </stage>
+          <stage xml:id="stg-0891.1" n="SD 2.1.207.1" type="business" who="#Gonzalo_Tmp #Adrian_Tmp #Francisco_Tmp">All sink down asleep except Alonso, Antonio, and Sebastian. </stage>
           <sp xml:id="sp-0892" who="#Alonso_Tmp">
             <speaker xml:id="spk-0892">ALONSO </speaker>
             <l xml:id="ftln-0892" n="2.1.208">What, all so soon asleep? I wish mine eyes </l>
@@ -2267,14 +2146,8 @@
             <l xml:id="ftln-0902" n="2.1.218" part="F">Thank you. Wondrous heavy. </l>
           </sp>
           <stage xml:id="stg-0902.1" n="SD 2.1.218.1" type="mixed">
-            <stage xml:id="stg-0902.1a"
-                         n="SD 2.1.218.1"
-                         type="business"
-                         who="#Alonso_Tmp">Alonso sleeps. </stage>
-            <stage xml:id="stg-0902.1b"
-                         n="SD 2.1.218.1"
-                         type="exit"
-                         who="#Ariel_Tmp">Ariel exits. </stage>
+            <stage xml:id="stg-0902.1a" n="SD 2.1.218.1" type="business" who="#Alonso_Tmp">Alonso sleeps. </stage>
+            <stage xml:id="stg-0902.1b" n="SD 2.1.218.1" type="exit" who="#Ariel_Tmp">Ariel exits. </stage>
           </stage>
           <sp xml:id="sp-0903" who="#Sebastian_Tmp">
             <speaker xml:id="spk-0903">SEBASTIAN </speaker>
@@ -2493,32 +2366,20 @@
             <l xml:id="ftln-1022" n="2.1.338">And when I rear my hand, do you the like </l>
             <l xml:id="ftln-1023" n="2.1.339" part="I">To fall it on Gonzalo. </l>
           </sp>
-          <stage xml:id="stg-1023"
-                      n="SD 2.1.339"
-                      type="business"
-                      who="#Antonio_Tmp #Sebastian_Tmp">They draw their swords. </stage>
+          <stage xml:id="stg-1023" n="SD 2.1.339" type="business" who="#Antonio_Tmp #Sebastian_Tmp">They draw their swords. </stage>
           <sp xml:id="sp-1024" who="#Sebastian_Tmp">
             <speaker xml:id="spk-1024">SEBASTIAN </speaker>
             <l xml:id="ftln-1024" n="2.1.340" part="F">O, but one word. </l>
           </sp>
-          <stage xml:id="stg-1024.1"
-                      n="SD 2.1.340.1"
-                      type="business"
-                      who="#Antonio_Tmp #Sebastian_Tmp">They talk apart. </stage>
-          <stage xml:id="stg-1024.2"
-                      n="SD 2.1.340.2"
-                      type="entrance"
-                      who="#Ariel_Tmp">Enter Ariel, invisible, <stage xml:id="snd-1024.2" n="SD 2.1.340.2" type="sound">with music and song</stage>. </stage>
+          <stage xml:id="stg-1024.1" n="SD 2.1.340.1" type="business" who="#Antonio_Tmp #Sebastian_Tmp">They talk apart. </stage>
+          <stage xml:id="stg-1024.2" n="SD 2.1.340.2" type="entrance" who="#Ariel_Tmp">Enter Ariel, invisible, <stage xml:id="snd-1024.2" n="SD 2.1.340.2" type="sound">with music and song</stage>. </stage>
           <sp xml:id="sp-1025" who="#Ariel_Tmp">
             <speaker xml:id="spk-1025">ARIEL </speaker>
             <stage xml:id="stg-1025.0" n="SD 2.1.341.0" type="delivery">, to the sleeping Gonzalo </stage>
             <l xml:id="ftln-1025" n="2.1.341">My master through his art foresees the danger </l>
             <l xml:id="ftln-1026" n="2.1.342">That you, his friend, are in, and sends me forth— </l>
             <l xml:id="ftln-1027" n="2.1.343">For else his project dies— to keep them living. </l>
-            <stage xml:id="stg-1027.1"
-                         n="SD 2.1.343.1"
-                         type="delivery"
-                         rendition="indentVerse">Sings in Gonzalo’s ear: </stage>
+            <stage xml:id="stg-1027.1" n="SD 2.1.343.1" type="delivery" rendition="indentVerse">Sings in Gonzalo’s ear: </stage>
             <lg xml:id="stz-1028" type="aaBccB">
               <l xml:id="ftln-1028" n="2.1.344">While you here do snoring lie, </l>
               <l xml:id="ftln-1029" n="2.1.345">Open-eyed conspiracy </l>
@@ -2536,17 +2397,11 @@
           </sp>
           <sp xml:id="sp-1035" who="#Gonzalo_Tmp">
             <speaker xml:id="spk-1035">GONZALO </speaker>
-            <stage xml:id="stg-1035"
-                         n="SD 2.1.351"
-                         type="business"
-                         who="#Gonzalo_Tmp">, waking </stage>
+            <stage xml:id="stg-1035" n="SD 2.1.351" type="business" who="#Gonzalo_Tmp">, waking </stage>
             <p xml:id="p-1035">
               <lb xml:id="ftln-1035" n="2.1.351"/>Now, good angels preserve the <lb xml:id="ftln-1036" n="2.1.352"/>King! </p>
           </sp>
-          <stage xml:id="stg-1036"
-                      n="SD 2.1.352"
-                      type="business"
-                      who="#Gonzalo_Tmp #Alonso_Tmp">He wakes Alonso. </stage>
+          <stage xml:id="stg-1036" n="SD 2.1.352" type="business" who="#Gonzalo_Tmp #Alonso_Tmp">He wakes Alonso. </stage>
           <sp xml:id="sp-1037" who="#Alonso_Tmp">
             <speaker xml:id="spk-1037">ALONSO </speaker>
             <stage xml:id="stg-1037.0" n="SD 2.1.353.0" type="delivery">, to Sebastian </stage>
@@ -2608,17 +2463,11 @@
             <l xml:id="ftln-1060" n="2.1.376">Prospero my lord shall know what I have done. </l>
             <l xml:id="ftln-1061" n="2.1.377">So, king, go safely on to seek thy son. </l>
           </sp>
-          <stage xml:id="stg-1061.1"
-                      n="SD 2.1.377.1"
-                      type="exit"
-                      who="#Ariel_Tmp #Alonso_Tmp #Sebastian_Tmp #Antonio_Tmp #Gonzalo_Tmp #Adrian_Tmp #Francisco_Tmp">They exit. </stage>
+          <stage xml:id="stg-1061.1" n="SD 2.1.377.1" type="exit" who="#Ariel_Tmp #Alonso_Tmp #Sebastian_Tmp #Antonio_Tmp #Gonzalo_Tmp #Adrian_Tmp #Francisco_Tmp">They exit. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-1061.2"
-                      n="SD 2.2.0"
-                      type="entrance"
-                      who="#Caliban_Tmp">Enter Caliban with a burden of wood. <stage xml:id="snd-1061.2" n="SD 2.2.0" type="sound" ana="thunder">A noise of thunder heard. </stage>
+          <stage xml:id="stg-1061.2" n="SD 2.2.0" type="entrance" who="#Caliban_Tmp">Enter Caliban with a burden of wood. <stage xml:id="snd-1061.2" n="SD 2.2.0" type="sound" ana="thunder">A noise of thunder heard. </stage>
           </stage>
           <sp xml:id="sp-1062" who="#Caliban_Tmp">
             <speaker xml:id="spk-1062">CALIBAN </speaker>
@@ -2640,39 +2489,19 @@
             <l xml:id="ftln-1077" n="2.2.16">For bringing wood in slowly. I’ll fall flat. </l>
             <l xml:id="ftln-1078" n="2.2.17" ana="#short">Perchance he will not mind me. </l>
           </sp>
-          <stage xml:id="stg-1078.1"
-                      n="SD 2.2.17.1"
-                      type="business"
-                      who="#Caliban_Tmp">He lies down and covers himself with a cloak. </stage>
-          <stage xml:id="stg-1078.2"
-                      n="SD 2.2.17.2"
-                      type="entrance"
-                      who="#Trinculo_Tmp">Enter Trinculo. </stage>
+          <stage xml:id="stg-1078.1" n="SD 2.2.17.1" type="business" who="#Caliban_Tmp">He lies down and covers himself with a cloak. </stage>
+          <stage xml:id="stg-1078.2" n="SD 2.2.17.2" type="entrance" who="#Trinculo_Tmp">Enter Trinculo. </stage>
           <sp xml:id="sp-1079" who="#Trinculo_Tmp">
             <speaker xml:id="spk-1079">TRINCULO </speaker>
             <p xml:id="p-1079">
               <lb xml:id="ftln-1079" n="2.2.18"/>Here’s neither bush nor shrub to bear off <lb xml:id="ftln-1080" n="2.2.19"/>any weather at all. And another storm brewing; I <lb xml:id="ftln-1081" n="2.2.20"/>hear it sing i’ th’ wind. Yond same black cloud, yond <lb xml:id="ftln-1082" n="2.2.21"/>huge one, looks like a foul bombard that would shed <lb xml:id="ftln-1083" n="2.2.22"/>his liquor. If it should thunder as it did before, I <lb xml:id="ftln-1084" n="2.2.23"/>know not where to hide my head. Yond same cloud <lb xml:id="ftln-1085" n="2.2.24"/>cannot choose but fall by pailfuls. </p>
-            <stage xml:id="stg-1085"
-                         n="SD 2.2.24"
-                         type="business"
-                         rendition="inline"
-                         who="#Trinculo_Tmp">Noticing Caliban. </stage>
+            <stage xml:id="stg-1085" n="SD 2.2.24" type="business" rendition="inline" who="#Trinculo_Tmp">Noticing Caliban. </stage>
             <p xml:id="p-1086">
               <lb xml:id="ftln-1086" n="2.2.25"/>What have we here, a man or a fish? Dead or <lb xml:id="ftln-1087" n="2.2.26"/>alive? A fish, he smells like a fish— a very ancient <lb xml:id="ftln-1088" n="2.2.27"/>and fishlike smell, a kind of not-of-the-newest poor-John. <lb xml:id="ftln-1089" n="2.2.28"/>A strange fish. Were I in England now, as once <lb xml:id="ftln-1090" n="2.2.29"/>I was, and had but this fish painted, not a holiday <lb xml:id="ftln-1091" n="2.2.30"/>fool there but would give a piece of silver. There <lb xml:id="ftln-1092" n="2.2.31"/>would this monster make a man. Any strange beast <lb xml:id="ftln-1093" n="2.2.32"/>there makes a man. When they will not give a doit to <lb xml:id="ftln-1094" n="2.2.33"/>relieve a lame beggar, they will lay out ten to see a <lb xml:id="ftln-1095" n="2.2.34"/>dead Indian. Legged like a man, and his fins like <lb xml:id="ftln-1096" n="2.2.35"/>arms! Warm, o’ my troth! I do now let loose my <lb xml:id="ftln-1097" n="2.2.36"/>opinion, hold it no longer: this is no fish, but an <lb xml:id="ftln-1098" n="2.2.37"/>islander that hath lately suffered by a thunderbolt. <lb xml:id="ftln-1099" n="2.2.38"/>
-              <stage xml:id="stg-1099"
-                            n="SD 2.2.38"
-                            type="sound"
-                            rendition="inline"
-                            ana="thunder">Thunder. </stage> Alas, the storm is come again. My best <lb xml:id="ftln-1100" n="2.2.39"/>way is to creep under his gaberdine. There is no <lb xml:id="ftln-1101" n="2.2.40"/>other shelter hereabout. Misery acquaints a man <lb xml:id="ftln-1102" n="2.2.41"/>with strange bedfellows. I will here shroud till the <lb xml:id="ftln-1103" n="2.2.42"/>dregs of the storm be past. </p>
+              <stage xml:id="stg-1099" n="SD 2.2.38" type="sound" rendition="inline" ana="thunder">Thunder. </stage> Alas, the storm is come again. My best <lb xml:id="ftln-1100" n="2.2.39"/>way is to creep under his gaberdine. There is no <lb xml:id="ftln-1101" n="2.2.40"/>other shelter hereabout. Misery acquaints a man <lb xml:id="ftln-1102" n="2.2.41"/>with strange bedfellows. I will here shroud till the <lb xml:id="ftln-1103" n="2.2.42"/>dregs of the storm be past. </p>
           </sp>
-          <stage xml:id="stg-1103"
-                      n="SD 2.2.42.1"
-                      type="business"
-                      who="#Trinculo_Tmp">He crawls under Caliban’s cloak. </stage>
-          <stage xml:id="stg-1103.1"
-                      n="SD 2.2.42.1"
-                      type="entrance"
-                      who="#Stephano_Tmp">Enter Stephano singing. </stage>
+          <stage xml:id="stg-1103" n="SD 2.2.42.1" type="business" who="#Trinculo_Tmp">He crawls under Caliban’s cloak. </stage>
+          <stage xml:id="stg-1103.1" n="SD 2.2.42.1" type="entrance" who="#Stephano_Tmp">Enter Stephano singing. </stage>
           <sp xml:id="sp-1104" who="#Stephano_Tmp">
             <speaker xml:id="spk-1104">STEPHANO </speaker>
             <p><q xml:id="q-1104" type="song">
@@ -2681,14 +2510,8 @@
             </q></p>
             <p xml:id="p-1106">
               <lb xml:id="ftln-1106" n="2.2.45"/>This is a very scurvy tune to sing at a man’s funeral. <lb xml:id="ftln-1107" n="2.2.46"/>Well, here’s my comfort. </p>
-            <stage xml:id="stg-1107"
-                         n="SD 2.2.46"
-                         type="business"
-                         who="#Stephano_Tmp">Drinks. </stage>
-            <stage xml:id="stg-1107.1"
-                         n="SD 2.2.46.1"
-                         type="delivery"
-                         rendition="centered">Sings. </stage>
+            <stage xml:id="stg-1107" n="SD 2.2.46" type="business" who="#Stephano_Tmp">Drinks. </stage>
+            <stage xml:id="stg-1107.1" n="SD 2.2.46.1" type="delivery" rendition="centered">Sings. </stage>
             <q xml:id="q-1108" type="song">
               <lg xml:id="stz-1108" type="quatrain">
                 <l xml:id="ftln-1108" n="2.2.47">The master, the swabber, the boatswain, and I, </l>
@@ -2707,10 +2530,7 @@
             <p xml:id="p-1117">
               <lb xml:id="ftln-1117" n="2.2.56"/>This is a scurvy tune too. But here’s my comfort. </p>
           </sp>
-          <stage xml:id="stg-1117.1"
-                      n="SD 2.2.56.1"
-                      type="business"
-                      who="#Stephano_Tmp">Drinks. </stage>
+          <stage xml:id="stg-1117.1" n="SD 2.2.56.1" type="business" who="#Stephano_Tmp">Drinks. </stage>
           <sp xml:id="sp-1118" who="#Caliban_Tmp">
             <speaker xml:id="spk-1118">CALIBAN </speaker>
             <p xml:id="p-1118">
@@ -2749,11 +2569,7 @@
           <sp xml:id="sp-1145" who="#Stephano_Tmp">
             <speaker xml:id="spk-1145">STEPHANO </speaker>
             <p xml:id="p-1145">
-              <lb xml:id="ftln-1145" n="2.2.84"/>Come on your ways. Open your mouth. <lb xml:id="ftln-1146" n="2.2.85"/>Here is that which will give language to you, cat. <lb xml:id="ftln-1147" n="2.2.86"/>Open your mouth. This will shake your shaking, I <lb xml:id="ftln-1148" n="2.2.87"/>can tell you, and that soundly. <stage xml:id="stg-1148"
-                            n="SD 2.2.87"
-                            type="business"
-                            rendition="inline"
-                            who="#Caliban_Tmp">Caliban drinks. </stage> You <lb xml:id="ftln-1149" n="2.2.88"/>cannot tell who’s your friend. Open your chaps <lb xml:id="ftln-1150" n="2.2.89"/>again. </p>
+              <lb xml:id="ftln-1145" n="2.2.84"/>Come on your ways. Open your mouth. <lb xml:id="ftln-1146" n="2.2.85"/>Here is that which will give language to you, cat. <lb xml:id="ftln-1147" n="2.2.86"/>Open your mouth. This will shake your shaking, I <lb xml:id="ftln-1148" n="2.2.87"/>can tell you, and that soundly. <stage xml:id="stg-1148" n="SD 2.2.87" type="business" rendition="inline" who="#Caliban_Tmp">Caliban drinks. </stage> You <lb xml:id="ftln-1149" n="2.2.88"/>cannot tell who’s your friend. Open your chaps <lb xml:id="ftln-1150" n="2.2.89"/>again. </p>
           </sp>
           <sp xml:id="sp-1151" who="#Trinculo_Tmp">
             <speaker xml:id="spk-1151">TRINCULO </speaker>
@@ -2764,11 +2580,7 @@
             <speaker xml:id="spk-1153">STEPHANO </speaker>
             <p xml:id="p-1153">
               <lb xml:id="ftln-1153" n="2.2.92"/>Four legs and two voices— a most delicate <lb xml:id="ftln-1154" n="2.2.93"/>monster! His forward voice now is to speak well of <lb xml:id="ftln-1155" n="2.2.94"/>his friend. His backward voice is to utter foul <lb xml:id="ftln-1156" n="2.2.95"/>speeches and to detract. If all the wine in my bottle <lb xml:id="ftln-1157" n="2.2.96"/>will recover him, I will help his ague. Come. <lb xml:id="ftln-1158" n="2.2.97"/>
-              <stage xml:id="stg-1158"
-                            n="SD 2.2.97"
-                            type="business"
-                            rendition="inline"
-                            who="#Caliban_Tmp">Caliban drinks. </stage> Amen! I will pour some in thy <lb xml:id="ftln-1159" n="2.2.98"/>other mouth. </p>
+              <stage xml:id="stg-1158" n="SD 2.2.97" type="business" rendition="inline" who="#Caliban_Tmp">Caliban drinks. </stage> Amen! I will pour some in thy <lb xml:id="ftln-1159" n="2.2.98"/>other mouth. </p>
           </sp>
           <sp xml:id="sp-1160" who="#Trinculo_Tmp">
             <speaker xml:id="spk-1160">TRINCULO </speaker>
@@ -2789,11 +2601,7 @@
             <speaker xml:id="spk-1167">STEPHANO </speaker>
             <p xml:id="p-1167">
               <lb xml:id="ftln-1167" n="2.2.106"/>If thou be’st Trinculo, come forth. I’ll pull <lb xml:id="ftln-1168" n="2.2.107"/>thee by the lesser legs. If any be Trinculo’s legs, <lb xml:id="ftln-1169" n="2.2.108"/>these are they. </p>
-            <stage xml:id="stg-1169"
-                         n="SD 2.2.108"
-                         type="business"
-                         rendition="inline"
-                         who="#Stephano_Tmp #Trinculo_Tmp"> He pulls him out from under Caliban’s cloak. </stage>
+            <stage xml:id="stg-1169" n="SD 2.2.108" type="business" rendition="inline" who="#Stephano_Tmp #Trinculo_Tmp"> He pulls him out from under Caliban’s cloak. </stage>
             <p xml:id="p-1170">
               <lb xml:id="ftln-1170" n="2.2.109"/>Thou art very Trinculo indeed. How <lb xml:id="ftln-1171" n="2.2.110"/>cam’st thou to be the siege of this mooncalf? Can <lb xml:id="ftln-1172" n="2.2.111"/>he vent Trinculos? </p>
           </sp>
@@ -2813,10 +2621,7 @@
             <p xml:id="p-1181">
               <lb xml:id="ftln-1181" n="2.2.120"/>These be fine things, an if they be not <lb xml:id="ftln-1182" n="2.2.121"/>sprites. That’s a brave god and bears celestial liquor. <lb xml:id="ftln-1183" n="2.2.122"/>I will kneel to him. </p>
           </sp>
-          <stage xml:id="stg-1183"
-                      n="SD 2.2.122.1"
-                      type="business"
-                      who="#Caliban_Tmp">He crawls out from under the cloak. </stage>
+          <stage xml:id="stg-1183" n="SD 2.2.122.1" type="business" who="#Caliban_Tmp">He crawls out from under the cloak. </stage>
           <sp xml:id="sp-1184" who="#Stephano_Tmp">
             <speaker xml:id="spk-1184">STEPHANO </speaker>
             <stage xml:id="stg-1184" n="SD 2.2.123" type="delivery">, to Trinculo </stage>
@@ -2843,10 +2648,7 @@
             <speaker xml:id="spk-1196">STEPHANO </speaker>
             <p xml:id="p-1196">
               <lb xml:id="ftln-1196" n="2.2.135"/>Here, kiss the book. </p>
-            <stage xml:id="stg-1196"
-                         n="SD 2.2.135"
-                         type="business"
-                         who="#Trinculo_Tmp">Trinculo drinks. </stage>
+            <stage xml:id="stg-1196" n="SD 2.2.135" type="business" who="#Trinculo_Tmp">Trinculo drinks. </stage>
             <p xml:id="p-1197">
               <lb xml:id="ftln-1197" n="2.2.136"/>Though thou canst swim like a duck, thou art made <lb xml:id="ftln-1198" n="2.2.137"/>like a goose. </p>
           </sp>
@@ -2879,10 +2681,7 @@
             <speaker xml:id="spk-1209">STEPHANO </speaker>
             <p xml:id="p-1209">
               <lb xml:id="ftln-1209" n="2.2.148"/>Come, swear to that. Kiss the book. I will <lb xml:id="ftln-1210" n="2.2.149"/>furnish it anon with new contents. Swear. </p>
-            <stage xml:id="stg-1210"
-                         n="SD 2.2.149"
-                         type="business"
-                         who="#Caliban_Tmp">Caliban drinks. </stage>
+            <stage xml:id="stg-1210" n="SD 2.2.149" type="business" who="#Caliban_Tmp">Caliban drinks. </stage>
           </sp>
           <sp xml:id="sp-1211" who="#Trinculo_Tmp">
             <speaker xml:id="spk-1211">TRINCULO </speaker>
@@ -2909,10 +2708,7 @@
             <p xml:id="p-1220">
               <lb xml:id="ftln-1220" n="2.2.159"/>Come on, then. Down, and swear. </p>
           </sp>
-          <stage xml:id="stg-1220.1"
-                      n="SD 2.2.159.1"
-                      type="business"
-                      who="#Caliban_Tmp">Caliban kneels. </stage>
+          <stage xml:id="stg-1220.1" n="SD 2.2.159.1" type="business" who="#Caliban_Tmp">Caliban kneels. </stage>
           <sp xml:id="sp-1221" who="#Trinculo_Tmp">
             <speaker xml:id="spk-1221">TRINCULO </speaker>
             <p xml:id="p-1221">
@@ -2943,10 +2739,7 @@
           </sp>
           <sp xml:id="sp-1234" who="#Caliban_Tmp">
             <speaker xml:id="spk-1234">CALIBAN </speaker>
-            <stage xml:id="stg-1234.0"
-                         n="SD 2.2.173.0"
-                         type="business"
-                         who="#Caliban_Tmp">, standing </stage>
+            <stage xml:id="stg-1234.0" n="SD 2.2.173.0" type="business" who="#Caliban_Tmp">, standing </stage>
             <l xml:id="ftln-1234" n="2.2.173">I prithee, let me bring thee where crabs grow, </l>
             <l xml:id="ftln-1235" n="2.2.174">And I with my long nails will dig thee pignuts, </l>
             <l xml:id="ftln-1236" n="2.2.175">Show thee a jay’s nest, and instruct thee how </l>
@@ -2990,20 +2783,14 @@
             <p xml:id="p-1255">
               <lb xml:id="ftln-1255" n="2.2.194"/>O brave monster! Lead the way. </p>
           </sp>
-          <stage xml:id="stg-1255.1"
-                      n="SD 2.2.194.1"
-                      type="exit"
-                      who="#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp">They exit. </stage>
+          <stage xml:id="stg-1255.1" n="SD 2.2.194.1" type="exit" who="#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp">They exit. </stage>
         </div>
       </div>
       <div type="act" n="3">
         <head>ACT 3 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-1255.2"
-                      n="SD 3.1.0"
-                      type="entrance"
-                      who="#Ferdinand_Tmp">Enter Ferdinand bearing a log. </stage>
+          <stage xml:id="stg-1255.2" n="SD 3.1.0" type="entrance" who="#Ferdinand_Tmp">Enter Ferdinand bearing a log. </stage>
           <sp xml:id="sp-1256" who="#Ferdinand_Tmp">
             <speaker xml:id="spk-1256">FERDINAND </speaker>
             <l xml:id="ftln-1256" n="3.1.1">There be some sports are painful, and their labor </l>
@@ -3022,10 +2809,7 @@
             <l xml:id="ftln-1270" n="3.1.15">But these sweet thoughts do even refresh my labors, </l>
             <l xml:id="ftln-1271" n="3.1.16" part="I">Most busiest when I do it. </l>
           </sp>
-          <stage xml:id="stg-1271.1"
-                      n="SD 3.1.16.1"
-                      type="entrance"
-                      who="#Miranda_Tmp #Prospero_Tmp">Enter Miranda; and Prospero at a distance, unobserved. </stage>
+          <stage xml:id="stg-1271.1" n="SD 3.1.16.1" type="entrance" who="#Miranda_Tmp #Prospero_Tmp">Enter Miranda; and Prospero at a distance, unobserved. </stage>
           <sp xml:id="sp-1272" who="#Miranda_Tmp">
             <speaker xml:id="spk-1272">MIRANDA </speaker>
             <l xml:id="ftln-1272" n="3.1.17" part="F">Alas now, pray you, </l>
@@ -3183,10 +2967,7 @@
           </sp>
           <sp xml:id="sp-1363" who="#Miranda_Tmp">
             <speaker xml:id="spk-1363">MIRANDA </speaker>
-            <stage xml:id="stg-1363.0"
-                         n="SD 3.1.108.0"
-                         type="business"
-                         who="#Miranda_Tmp #Ferdinand_Tmp">, clasping his hand </stage>
+            <stage xml:id="stg-1363.0" n="SD 3.1.108.0" type="business" who="#Miranda_Tmp #Ferdinand_Tmp">, clasping his hand </stage>
             <l xml:id="ftln-1363" n="3.1.108">And mine, with my heart in ’t. And now farewell </l>
             <l xml:id="ftln-1364" n="3.1.109" part="I">Till half an hour hence. </l>
           </sp>
@@ -3194,10 +2975,7 @@
             <speaker xml:id="spk-1365">FERDINAND </speaker>
             <l xml:id="ftln-1365" n="3.1.110" part="F">A thousand thousand. </l>
           </sp>
-          <stage xml:id="stg-1365.1"
-                      n="SD 3.1.110.1"
-                      type="exit"
-                      who="#Ferdinand_Tmp #Miranda_Tmp">They exit. </stage>
+          <stage xml:id="stg-1365.1" n="SD 3.1.110.1" type="exit" who="#Ferdinand_Tmp #Miranda_Tmp">They exit. </stage>
           <sp xml:id="sp-1366" who="#Prospero_Tmp">
             <speaker xml:id="spk-1366">PROSPERO </speaker>
             <l xml:id="ftln-1366" n="3.1.111">So glad of this as they I cannot be, </l>
@@ -3206,17 +2984,11 @@
             <l xml:id="ftln-1369" n="3.1.114">For yet ere suppertime must I perform </l>
             <l xml:id="ftln-1370" n="3.1.115" ana="#short">Much business appertaining. </l>
           </sp>
-          <stage xml:id="stg-1370.1"
-                      n="SD 3.1.115.1"
-                      type="exit"
-                      who="#Prospero_Tmp">He exits. </stage>
+          <stage xml:id="stg-1370.1" n="SD 3.1.115.1" type="exit" who="#Prospero_Tmp">He exits. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-1370.2"
-                      n="SD 3.2.0"
-                      type="entrance"
-                      who="#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp">Enter Caliban, Stephano, and Trinculo. </stage>
+          <stage xml:id="stg-1370.2" n="SD 3.2.0" type="entrance" who="#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp">Enter Caliban, Stephano, and Trinculo. </stage>
           <sp xml:id="sp-1371" who="#Stephano_Tmp">
             <speaker xml:id="spk-1371">STEPHANO </speaker>
             <stage xml:id="stg-1371" n="SD 3.2.1" type="delivery">, to Trinculo </stage>
@@ -3233,10 +3005,7 @@
             <p xml:id="p-1379">
               <lb xml:id="ftln-1379" n="3.2.9"/>Drink, servant monster, when I bid thee. <lb xml:id="ftln-1380" n="3.2.10"/>Thy eyes are almost set in thy head. </p>
           </sp>
-          <stage xml:id="stg-1380.1"
-                      n="SD 3.2.10.1"
-                      type="business"
-                      who="#Caliban_Tmp">Caliban drinks. </stage>
+          <stage xml:id="stg-1380.1" n="SD 3.2.10.1" type="business" who="#Caliban_Tmp">Caliban drinks. </stage>
           <sp xml:id="sp-1381" who="#Trinculo_Tmp">
             <speaker xml:id="spk-1381">TRINCULO </speaker>
             <p xml:id="p-1381">
@@ -3307,16 +3076,10 @@
             <p xml:id="p-1414">
               <lb xml:id="ftln-1414" n="3.2.44"/>Marry, will I. Kneel and repeat it. I will <lb xml:id="ftln-1415" n="3.2.45"/>stand, and so shall Trinculo. </p>
           </sp>
-          <stage xml:id="stg-1415.1"
-                      n="SD 3.2.45.1"
-                      type="entrance"
-                      who="#Ariel_Tmp">Enter Ariel, invisible. </stage>
+          <stage xml:id="stg-1415.1" n="SD 3.2.45.1" type="entrance" who="#Ariel_Tmp">Enter Ariel, invisible. </stage>
           <sp xml:id="sp-1416" who="#Caliban_Tmp">
             <speaker xml:id="spk-1416">CALIBAN </speaker>
-            <stage xml:id="stg-1416"
-                         n="SD 3.2.46"
-                         type="business"
-                         who="#Caliban_Tmp">, kneeling </stage>
+            <stage xml:id="stg-1416" n="SD 3.2.46" type="business" who="#Caliban_Tmp">, kneeling </stage>
             <p xml:id="p-1416">
               <lb xml:id="ftln-1416" n="3.2.46"/>As I told thee before, I am subject <lb xml:id="ftln-1417" n="3.2.47"/>to a tyrant, a sorcerer, that by his cunning hath <lb xml:id="ftln-1418" n="3.2.48"/>cheated me of the island. </p>
           </sp>
@@ -3330,11 +3093,7 @@
             <speaker xml:id="spk-1420">CALIBAN </speaker>
             <stage xml:id="stg-1420" n="SD 3.2.50" type="delivery">, to Trinculo </stage>
             <p xml:id="p-1420">
-              <lb xml:id="ftln-1420" n="3.2.50"/>Thou liest, thou jesting monkey, <lb xml:id="ftln-1421" n="3.2.51"/>thou. <stage xml:id="stg-1421"
-                            n="SD 3.2.51"
-                            type="business"
-                            rendition="inline"
-                            who="#Caliban_Tmp"> He stands. </stage> I would my valiant master would <lb xml:id="ftln-1422" n="3.2.52"/>destroy thee. I do not lie. </p>
+              <lb xml:id="ftln-1420" n="3.2.50"/>Thou liest, thou jesting monkey, <lb xml:id="ftln-1421" n="3.2.51"/>thou. <stage xml:id="stg-1421" n="SD 3.2.51" type="business" rendition="inline" who="#Caliban_Tmp"> He stands. </stage> I would my valiant master would <lb xml:id="ftln-1422" n="3.2.52"/>destroy thee. I do not lie. </p>
           </sp>
           <sp xml:id="sp-1423" who="#Stephano_Tmp">
             <speaker xml:id="spk-1423">STEPHANO </speaker>
@@ -3350,11 +3109,7 @@
             <speaker xml:id="spk-1427">STEPHANO </speaker>
             <p xml:id="p-1427">
               <lb xml:id="ftln-1427" n="3.2.57"/>Mum then, and no more. </p>
-            <stage xml:id="stg-1427"
-                         n="SD 3.2.57"
-                         type="business"
-                         rendition="inline"
-                         who="#Trinculo_Tmp"> Trinculo stands aside. </stage>
+            <stage xml:id="stg-1427" n="SD 3.2.57" type="business" rendition="inline" who="#Trinculo_Tmp"> Trinculo stands aside. </stage>
             <p xml:id="p-1428">
               <lb xml:id="ftln-1428" n="3.2.58"/>Proceed. </p>
           </sp>
@@ -3423,10 +3178,7 @@
             <speaker xml:id="spk-1453">STEPHANO </speaker>
             <p xml:id="p-1453">
               <lb xml:id="ftln-1453" n="3.2.83"/>Do I so? Take thou that. </p>
-            <stage xml:id="stg-1453"
-                         n="SD 3.2.83"
-                         type="business"
-                         who="#Stephano_Tmp #Trinculo_Tmp">He beats Trinculo. </stage>
+            <stage xml:id="stg-1453" n="SD 3.2.83" type="business" who="#Stephano_Tmp #Trinculo_Tmp">He beats Trinculo. </stage>
             <p xml:id="p-1454">
               <lb xml:id="ftln-1454" n="3.2.84"/>As you like this, give me the lie another time. </p>
           </sp>
@@ -3457,11 +3209,7 @@
             <speaker xml:id="spk-1464">STEPHANO </speaker>
             <p xml:id="p-1464">
               <lb xml:id="ftln-1464" n="3.2.94"/>Stand farther. </p>
-            <stage xml:id="stg-1464"
-                         n="SD 3.2.94"
-                         type="business"
-                         rendition="inline"
-                         who="#Trinculo_Tmp"> Trinculo moves farther away. </stage>
+            <stage xml:id="stg-1464" n="SD 3.2.94" type="business" rendition="inline" who="#Trinculo_Tmp"> Trinculo moves farther away. </stage>
             <p xml:id="p-1465">
               <lb xml:id="ftln-1465" n="3.2.95"/>Come, proceed. </p>
           </sp>
@@ -3533,10 +3281,7 @@
             <speaker xml:id="spk-1501">STEPHANO </speaker>
             <p xml:id="p-1501">
               <lb xml:id="ftln-1501" n="3.2.131"/>At thy request, monster, I will do reason, <lb xml:id="ftln-1502" n="3.2.132"/>any reason.— Come on, Trinculo, let us sing. </p>
-            <stage xml:id="stg-1502.1"
-                         n="SD 3.2.132.1"
-                         type="delivery"
-                         rendition="indentProse">Sings. </stage>
+            <stage xml:id="stg-1502.1" n="SD 3.2.132.1" type="delivery" rendition="indentProse">Sings. </stage>
             <l xml:id="ftln-1503" n="3.2.133">Flout ’em and cout ’em </l>
             <l xml:id="ftln-1504" n="3.2.134">And scout ’em and flout ’em! </l>
             <l xml:id="ftln-1505" n="3.2.135" rendition="indent">Thought is free. </l>
@@ -3546,14 +3291,8 @@
             <p xml:id="p-1506">
               <lb xml:id="ftln-1506" n="3.2.136"/>That’s not the tune. </p>
           </sp>
-          <stage xml:id="stg-1506.1"
-                      n="SD 3.2.136.1"
-                      type="business"
-                      who="#Ariel_Tmp">
-            <stage xml:id="snd-1506.1"
-                         n="SD 3.2.136.1"
-                         type="sound"
-                         ana="drum pipe">Ariel plays the tune on a tabor and pipe. </stage>
+          <stage xml:id="stg-1506.1" n="SD 3.2.136.1" type="business" who="#Ariel_Tmp">
+            <stage xml:id="snd-1506.1" n="SD 3.2.136.1" type="sound" ana="drum pipe">Ariel plays the tune on a tabor and pipe. </stage>
           </stage>
           <sp xml:id="sp-1507" who="#Stephano_Tmp">
             <speaker xml:id="spk-1507">STEPHANO </speaker>
@@ -3633,17 +3372,11 @@
             <p xml:id="p-1536">
               <lb xml:id="ftln-1536" n="3.2.166"/>I’ll follow, Stephano. </p>
           </sp>
-          <stage xml:id="stg-1536.1"
-                      n="SD 3.2.166.1"
-                      type="exit"
-                      who="#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp">They exit. </stage>
+          <stage xml:id="stg-1536.1" n="SD 3.2.166.1" type="exit" who="#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp">They exit. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-1536.2"
-                      n="SD 3.3.0"
-                      type="entrance"
-                      who="#Alonso_Tmp #Sebastian_Tmp #Antonio_Tmp #Gonzalo_Tmp #Adrian_Tmp #Francisco_Tmp">Enter Alonso, Sebastian, Antonio, Gonzalo, Adrian, Francisco, etc. </stage>
+          <stage xml:id="stg-1536.2" n="SD 3.3.0" type="entrance" who="#Alonso_Tmp #Sebastian_Tmp #Antonio_Tmp #Gonzalo_Tmp #Adrian_Tmp #Francisco_Tmp">Enter Alonso, Sebastian, Antonio, Gonzalo, Adrian, Francisco, etc. </stage>
           <sp xml:id="sp-1537" who="#Gonzalo_Tmp">
             <speaker xml:id="spk-1537">GONZALO </speaker>
             <l xml:id="ftln-1537" n="3.3.1">By ’r lakin, I can go no further, sir. </l>
@@ -3687,10 +3420,7 @@
             <stage xml:id="stg-1558" n="SD 3.3.22" type="delivery">, aside to Antonio </stage>
             <l xml:id="ftln-1558" n="3.3.22" part="F">I say tonight. No more. </l>
           </sp>
-          <stage xml:id="stg-1558.1"
-                      n="SD 3.3.22.1"
-                      type="entrance"
-                      who="#Prospero_Tmp">
+          <stage xml:id="stg-1558.1" n="SD 3.3.22.1" type="entrance" who="#Prospero_Tmp">
             <stage xml:id="snd-1558.1" n="SD 3.3.22.1" type="sound">Solemn and strange music</stage>, and enter Prospero on the top invisible. </stage>
           <sp xml:id="sp-1559" who="#Alonso_Tmp">
             <speaker xml:id="spk-1559">ALONSO </speaker>
@@ -3701,10 +3431,7 @@
             <p xml:id="p-1560">
               <lb xml:id="ftln-1560" n="3.3.24"/>Marvelous sweet music! </p>
           </sp>
-          <stage xml:id="stg-1560.1"
-                      n="SD 3.3.24.1"
-                      type="entrance"
-                      who="#SPIRITS_Tmp">Enter several strange shapes, bringing in a banquet, and dance about it with gentle actions of salutations. </stage>
+          <stage xml:id="stg-1560.1" n="SD 3.3.24.1" type="entrance" who="#SPIRITS_Tmp">Enter several strange shapes, bringing in a banquet, and dance about it with gentle actions of salutations. </stage>
           <sp xml:id="sp-1561" who="#Alonso_Tmp">
             <speaker xml:id="spk-1561">ALONSO </speaker>
             <l xml:id="ftln-1561" n="3.3.25">Give us kind keepers, heavens! What were these? </l>
@@ -3753,10 +3480,7 @@
             <stage xml:id="stg-1586" n="SD 3.3.50" type="delivery">, aside </stage>
             <l xml:id="ftln-1586" n="3.3.50" part="F">Praise in departing. </l>
           </sp>
-          <stage xml:id="stg-1586.1"
-                      n="SD 3.3.50.1"
-                      type="exit"
-                      who="#SPIRITS_Tmp">Inviting the King, etc., to eat, the shapes depart. </stage>
+          <stage xml:id="stg-1586.1" n="SD 3.3.50.1" type="exit" who="#SPIRITS_Tmp">Inviting the King, etc., to eat, the shapes depart. </stage>
           <sp xml:id="sp-1587" who="#Francisco_Tmp">
             <speaker xml:id="spk-1587">FRANCISCO </speaker>
             <l xml:id="ftln-1587" n="3.3.51" ana="#short">They vanished strangely. </l>
@@ -3788,15 +3512,9 @@
             <l xml:id="ftln-1604" n="3.3.68">The best is past. Brother, my lord the Duke, </l>
             <l xml:id="ftln-1605" n="3.3.69" ana="#short">Stand to, and do as we. </l>
           </sp>
-          <stage xml:id="stg-1605.1"
-                      n="SD 3.3.69.1"
-                      type="business"
-                      who="#Alonso_Tmp #Sebastian_Tmp #Antonio_Tmp">Alonso, Sebastian, and Antonio move toward the table. </stage>
+          <stage xml:id="stg-1605.1" n="SD 3.3.69.1" type="business" who="#Alonso_Tmp #Sebastian_Tmp #Antonio_Tmp">Alonso, Sebastian, and Antonio move toward the table. </stage>
           <stage xml:id="stg-1605.2" n="SD 3.3.69.2" type="mixed">
-            <stage xml:id="stg-1605.2a"
-                         n="SD 3.3.69.2"
-                         type="entrance"
-                         who="#Ariel_Tmp">
+            <stage xml:id="stg-1605.2a" n="SD 3.3.69.2" type="entrance" who="#Ariel_Tmp">
               <stage xml:id="snd-1605.2a" n="SD 3.3.69.2" type="sound" ana="thunder">Thunder </stage> and lightning. Enter Ariel, like a Harpy, claps his wings upon the table, </stage> and <stage xml:id="stg-1605.2b" n="SD 3.3.69.2" type="business">with a quaint device the banquet vanishes. </stage>
           </stage>
           <sp xml:id="sp-1606" who="#Ariel_Tmp">
@@ -3810,10 +3528,7 @@
             <l xml:id="ftln-1611" n="3.3.75">Being most unfit to live. I have made you mad; </l>
             <l xml:id="ftln-1612" n="3.3.76">And even with such-like valor, men hang and drown </l>
             <l xml:id="ftln-1613" n="3.3.77" part="I">Their proper selves. </l>
-            <stage xml:id="stg-1613.1"
-                         n="SD 3.3.77.1"
-                         type="business"
-                         who="#Alonso_Tmp #Sebastian_Tmp #Antonio_Tmp">Alonso, Sebastian, and Antonio draw their swords. </stage>
+            <stage xml:id="stg-1613.1" n="SD 3.3.77.1" type="business" who="#Alonso_Tmp #Sebastian_Tmp #Antonio_Tmp">Alonso, Sebastian, and Antonio draw their swords. </stage>
             <l xml:id="ftln-1614" n="3.3.78" part="F">You fools, I and my fellows </l>
             <l xml:id="ftln-1615" n="3.3.79">Are ministers of Fate. The elements </l>
             <l xml:id="ftln-1616" n="3.3.80">Of whom your swords are tempered may as well </l>
@@ -3839,11 +3554,7 @@
             <l xml:id="ftln-1637" n="3.3.101" ana="#short">And a clear life ensuing. </l>
           </sp>
           <stage xml:id="stg-1637" n="SD 3.3.101" type="exit" who="#Ariel_Tmp">He vanishes <stage xml:id="snd-1637" n="SD 3.3.101" type="sound" ana="thunder">in thunder</stage>. </stage>
-          <stage xml:id="stg-1637.1"
-                      n="SD 3.3.101.1"
-                      type="business"
-                      rendition="centered"
-                      who="#SPIRITS_Tmp">Then, <stage xml:id="snd-1637.1" n="SD 3.3.101.1" type="sound">to soft music</stage>, enter the shapes again, and dance, with mocks and mows, and carrying out the table. </stage>
+          <stage xml:id="stg-1637.1" n="SD 3.3.101.1" type="business" rendition="centered" who="#SPIRITS_Tmp">Then, <stage xml:id="snd-1637.1" n="SD 3.3.101.1" type="sound">to soft music</stage>, enter the shapes again, and dance, with mocks and mows, and carrying out the table. </stage>
           <sp xml:id="sp-1638" who="#Prospero_Tmp">
             <speaker xml:id="spk-1638">PROSPERO </speaker>
             <stage xml:id="stg-1638.0" n="SD 3.3.102.0" type="delivery">, aside </stage>
@@ -3859,10 +3570,7 @@
             <l xml:id="ftln-1648" n="3.3.112">Young Ferdinand, whom they suppose is drowned, </l>
             <l xml:id="ftln-1649" n="3.3.113">And his and mine loved darling. </l>
           </sp>
-          <stage xml:id="stg-1649"
-                      n="SD 3.3.113"
-                      type="exit"
-                      who="#Prospero_Tmp">He exits, above. </stage>
+          <stage xml:id="stg-1649" n="SD 3.3.113" type="exit" who="#Prospero_Tmp">He exits, above. </stage>
           <sp xml:id="sp-1650" who="#Gonzalo_Tmp">
             <speaker xml:id="spk-1650">GONZALO </speaker>
             <stage xml:id="stg-1650.0" n="SD 3.3.114.0" type="delivery">, to Alonso </stage>
@@ -3890,10 +3598,7 @@
             <speaker xml:id="spk-1662">ANTONIO </speaker>
             <l xml:id="ftln-1662" n="3.3.126" part="F">I’ll be thy second. </l>
           </sp>
-          <stage xml:id="stg-1662.1"
-                      n="SD 3.3.126.1"
-                      type="exit"
-                      who="#Antonio_Tmp #Sebastian_Tmp">They exit. </stage>
+          <stage xml:id="stg-1662.1" n="SD 3.3.126.1" type="exit" who="#Antonio_Tmp #Sebastian_Tmp">They exit. </stage>
           <sp xml:id="sp-1663" who="#Gonzalo_Tmp">
             <speaker xml:id="spk-1663">GONZALO </speaker>
             <l xml:id="ftln-1663" n="3.3.127">All three of them are desperate. Their great guilt, </l>
@@ -3907,20 +3612,14 @@
             <speaker xml:id="spk-1669">ADRIAN </speaker>
             <l xml:id="ftln-1669" n="3.3.133" part="F">Follow, I pray you. </l>
           </sp>
-          <stage xml:id="stg-1669.1"
-                      n="SD 3.3.133.1"
-                      type="exit"
-                      who="#Gonzalo_Tmp #Adrian_Tmp #Francisco_Tmp">They all exit. </stage>
+          <stage xml:id="stg-1669.1" n="SD 3.3.133.1" type="exit" who="#Gonzalo_Tmp #Adrian_Tmp #Francisco_Tmp">They all exit. </stage>
         </div>
       </div>
       <div type="act" n="4">
         <head>ACT 4 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-1669.2"
-                      n="SD 4.1.0"
-                      type="entrance"
-                      who="#Prospero_Tmp #Ferdinand_Tmp #Miranda_Tmp">Enter Prospero, Ferdinand, and Miranda. </stage>
+          <stage xml:id="stg-1669.2" n="SD 4.1.0" type="entrance" who="#Prospero_Tmp #Ferdinand_Tmp #Miranda_Tmp">Enter Prospero, Ferdinand, and Miranda. </stage>
           <sp xml:id="sp-1670" who="#Prospero_Tmp">
             <speaker xml:id="spk-1670">PROSPERO </speaker>
             <stage xml:id="stg-1670.0" n="SD 4.1.1.0" type="delivery">, to Ferdinand </stage>
@@ -3971,16 +3670,10 @@
             <speaker xml:id="spk-1703">PROSPERO </speaker>
             <l xml:id="ftln-1703" n="4.1.34" part="F">Fairly spoke. </l>
             <l xml:id="ftln-1704" n="4.1.35">Sit then and talk with her. She is thine own. </l>
-            <stage xml:id="stg-1704.1"
-                         n="SD 4.1.35.1"
-                         type="business"
-                         who="#Ferdinand_Tmp #Miranda_Tmp">Ferdinand and Miranda move aside. </stage>
+            <stage xml:id="stg-1704.1" n="SD 4.1.35.1" type="business" who="#Ferdinand_Tmp #Miranda_Tmp">Ferdinand and Miranda move aside. </stage>
             <l xml:id="ftln-1705" n="4.1.36">What, Ariel, my industrious servant, Ariel! </l>
           </sp>
-          <stage xml:id="stg-1705.1"
-                      n="SD 4.1.36.1"
-                      type="entrance"
-                      who="#Ariel_Tmp">Enter Ariel. </stage>
+          <stage xml:id="stg-1705.1" n="SD 4.1.36.1" type="entrance" who="#Ariel_Tmp">Enter Ariel. </stage>
           <sp xml:id="sp-1706" who="#Ariel_Tmp">
             <speaker xml:id="spk-1706">ARIEL </speaker>
             <l xml:id="ftln-1706" n="4.1.37">What would my potent master? Here I am. </l>
@@ -4021,10 +3714,7 @@
             <speaker xml:id="spk-1724">ARIEL </speaker>
             <l xml:id="ftln-1724" n="4.1.55" part="F">Well; I conceive. </l>
           </sp>
-          <stage xml:id="stg-1724.1"
-                      n="SD 4.1.55.1"
-                      type="exit"
-                      who="#Ariel_Tmp">He exits. </stage>
+          <stage xml:id="stg-1724.1" n="SD 4.1.55.1" type="exit" who="#Ariel_Tmp">He exits. </stage>
           <sp xml:id="sp-1725" who="#Prospero_Tmp">
             <speaker xml:id="spk-1725">PROSPERO </speaker>
             <stage xml:id="stg-1725.0" n="SD 5.1.56.0" type="delivery">, to Ferdinand </stage>
@@ -4049,10 +3739,7 @@
             </stage>
             <l xml:id="ftln-1735" n="4.1.66" ana="#short">No tongue. All eyes. Be silent. </l>
           </sp>
-          <stage xml:id="stg-1735.1"
-                      n="SD 4.1.66.1"
-                      type="entrance"
-                      who="#SPIRITS.Iris_Tmp">Enter Iris. </stage>
+          <stage xml:id="stg-1735.1" n="SD 4.1.66.1" type="entrance" who="#SPIRITS.Iris_Tmp">Enter Iris. </stage>
           <sp xml:id="sp-1736" who="#SPIRITS.Iris_Tmp">
             <speaker xml:id="spk-1736">IRIS </speaker>
             <l xml:id="ftln-1736" n="4.1.67">Ceres, most bounteous lady, thy rich leas </l>
@@ -4072,10 +3759,7 @@
             <l xml:id="ftln-1751" n="4.1.82">To come and sport. Her peacocks fly amain. </l>
             <l xml:id="ftln-1752" n="4.1.83">Approach, rich Ceres, her to entertain. </l>
           </sp>
-          <stage xml:id="stg-1752.1"
-                      n="SD 4.1.83.1"
-                      type="entrance"
-                      who="#SPIRITS.Ceres_Tmp">Enter Ceres. </stage>
+          <stage xml:id="stg-1752.1" n="SD 4.1.83.1" type="entrance" who="#SPIRITS.Ceres_Tmp">Enter Ceres. </stage>
           <sp xml:id="sp-1753" who="#SPIRITS.Ceres_Tmp">
             <speaker xml:id="spk-1753">CERES </speaker>
             <l xml:id="ftln-1753" n="4.1.84">Hail, many-colored messenger, that ne’er </l>
@@ -4116,10 +3800,7 @@
             <l xml:id="ftln-1780" n="4.1.111">Swears he will shoot no more, but play with sparrows, </l>
             <l xml:id="ftln-1782" n="4.1.113" part="I">And be a boy right out. </l>
           </sp>
-          <stage xml:id="stg-1782.1"
-                      n="SD 4.1.113.1"
-                      type="entrance"
-                      who="#SPIRITS.Juno_Tmp">Juno descends. </stage>
+          <stage xml:id="stg-1782.1" n="SD 4.1.113.1" type="entrance" who="#SPIRITS.Juno_Tmp">Juno descends. </stage>
           <sp xml:id="sp-1783" who="#SPIRITS.Ceres_Tmp">
             <speaker xml:id="spk-1783">CERES </speaker>
             <l xml:id="ftln-1783" n="4.1.114" part="F">Highest queen of state, </l>
@@ -4168,10 +3849,7 @@
             <l xml:id="ftln-1807" n="4.1.138">So rare a wondered father and a wise </l>
             <l xml:id="ftln-1808" n="4.1.139" part="I">Makes this place paradise. </l>
           </sp>
-          <stage xml:id="stg-1808.1"
-                      n="SD 4.1.391.1"
-                      type="business"
-                      who="#SPIRITS.Juno_Tmp #SPIRITS.Ceres_Tmp #SPIRITS.Iris_Tmp">Juno and Ceres whisper, and send Iris on employment. </stage>
+          <stage xml:id="stg-1808.1" n="SD 4.1.391.1" type="business" who="#SPIRITS.Juno_Tmp #SPIRITS.Ceres_Tmp #SPIRITS.Iris_Tmp">Juno and Ceres whisper, and send Iris on employment. </stage>
           <sp xml:id="sp-1809" who="#Prospero_Tmp">
             <speaker xml:id="spk-1809">PROSPERO </speaker>
             <l xml:id="ftln-1809" n="4.1.140" part="F">Sweet now, silence. </l>
@@ -4187,10 +3865,7 @@
             <l xml:id="ftln-1816" n="4.1.147">Answer your summons, Juno does command. </l>
             <l xml:id="ftln-1817" n="4.1.148">Come, temperate nymphs, and help to celebrate </l>
             <l xml:id="ftln-1818" n="4.1.149">A contract of true love. Be not too late. </l>
-            <stage xml:id="stg-1818.1"
-                         n="SD 4.1.149.1"
-                         type="entrance"
-                         who="#SPIRITS.NYMPHS_Tmp">Enter certain Nymphs. </stage>
+            <stage xml:id="stg-1818.1" n="SD 4.1.149.1" type="entrance" who="#SPIRITS.NYMPHS_Tmp">Enter certain Nymphs. </stage>
             <l xml:id="ftln-1819" n="4.1.150">You sunburned sicklemen, of August weary, </l>
             <l xml:id="ftln-1820" n="4.1.151">Come hither from the furrow and be merry. </l>
             <l xml:id="ftln-1821" n="4.1.152">Make holiday: your rye-straw hats put on, </l>
@@ -4198,18 +3873,9 @@
             <l xml:id="ftln-1823" n="4.1.154" ana="#short">In country footing. </l>
           </sp>
           <stage xml:id="stg-1823.1" n="SD 4.1.154.1" type="mixed">
-            <stage xml:id="stg-1823.1a"
-                         n="SD 4.1.154.1"
-                         type="entrance"
-                         who="#SPIRITS.REAPERS_Tmp">Enter certain Reapers, properly habited. </stage>
-            <stage xml:id="stg-1823.1b"
-                         n="SD 4.1.154.1"
-                         type="business"
-                         who="#SPIRITS.REAPERS_Tmp #SPIRITS.NYMPHS_Tmp">They join with the Nymphs in a graceful dance, </stage>
-            <stage xml:id="stg-1823.1c"
-                         n="SD 4.1.154.1"
-                         type="business"
-                         who="#Prospero_Tmp">towards the end whereof Prospero starts suddenly and speaks. </stage>
+            <stage xml:id="stg-1823.1a" n="SD 4.1.154.1" type="entrance" who="#SPIRITS.REAPERS_Tmp">Enter certain Reapers, properly habited. </stage>
+            <stage xml:id="stg-1823.1b" n="SD 4.1.154.1" type="business" who="#SPIRITS.REAPERS_Tmp #SPIRITS.NYMPHS_Tmp">They join with the Nymphs in a graceful dance, </stage>
+            <stage xml:id="stg-1823.1c" n="SD 4.1.154.1" type="business" who="#Prospero_Tmp">towards the end whereof Prospero starts suddenly and speaks. </stage>
           </stage>
           <sp xml:id="sp-1824" who="#Prospero_Tmp">
             <speaker xml:id="spk-1824">PROSPERO </speaker>
@@ -4218,10 +3884,7 @@
             <l xml:id="ftln-1826" n="4.1.157">Against my life. The minute of their plot </l>
             <l xml:id="ftln-1827" n="4.1.158">Is almost come.— Well done. Avoid. No more. </l>
           </sp>
-          <stage xml:id="stg-1827.1"
-                      n="SD 4.1.158.1"
-                      type="exit"
-                      who="#SPIRITS.Iris_Tmp #SPIRITS.Ceres_Tmp #SPIRITS.Juno_Tmp #SPIRITS.NYMPHS_Tmp #SPIRITS.REAPERS_Tmp">
+          <stage xml:id="stg-1827.1" n="SD 4.1.158.1" type="exit" who="#SPIRITS.Iris_Tmp #SPIRITS.Ceres_Tmp #SPIRITS.Juno_Tmp #SPIRITS.NYMPHS_Tmp #SPIRITS.REAPERS_Tmp">
             <stage xml:id="snd-1827.1" n="SD 4.1.158.1" type="sound" ana="noise">To a strange, hollow, and confused noise, </stage>the spirits heavily vanish. </stage>
           <sp xml:id="sp-1828" who="#Ferdinand_Tmp">
             <speaker xml:id="spk-1828">FERDINAND </speaker>
@@ -4260,14 +3923,8 @@
             <speaker xml:id="spk-1850">FERDINAND/ MIRANDA </speaker>
             <l xml:id="ftln-1850" n="4.1.181" part="F">We wish your peace. </l>
           </sp>
-          <stage xml:id="stg-1850.1"
-                      n="SD 4.1.181.1"
-                      type="exit"
-                      who="#Ferdinand_Tmp #Miranda_Tmp">They exit. </stage>
-          <stage xml:id="stg-1850.2"
-                      n="SD 4.1.181.2"
-                      type="entrance"
-                      who="#Ariel_Tmp">Enter Ariel. </stage>
+          <stage xml:id="stg-1850.1" n="SD 4.1.181.1" type="exit" who="#Ferdinand_Tmp #Miranda_Tmp">They exit. </stage>
+          <stage xml:id="stg-1850.2" n="SD 4.1.181.2" type="entrance" who="#Ariel_Tmp">Enter Ariel. </stage>
           <sp xml:id="sp-1851" who="#Prospero_Tmp">
             <speaker xml:id="spk-1851">PROSPERO </speaker>
             <l xml:id="ftln-1851" n="4.1.182">Come with a thought. I thank thee, Ariel. Come. </l>
@@ -4328,21 +3985,12 @@
             <l xml:id="ftln-1883" n="4.1.214">And as with age his body uglier grows, </l>
             <l xml:id="ftln-1884" n="4.1.215">So his mind cankers. I will plague them all </l>
             <l xml:id="ftln-1885" n="4.1.216" part="I">Even to roaring. </l>
-            <stage xml:id="stg-1885.1"
-                         n="SD 4.1.216.1"
-                         type="entrance"
-                         who="#Ariel_Tmp">Enter Ariel, loaden with glistering apparel, etc. </stage>
+            <stage xml:id="stg-1885.1" n="SD 4.1.216.1" type="entrance" who="#Ariel_Tmp">Enter Ariel, loaden with glistering apparel, etc. </stage>
             <l xml:id="ftln-1886" n="4.1.217" part="F">Come, hang them on this line. </l>
           </sp>
           <stage xml:id="stg-1886.1" n="SD 4.1.217.1" type="mixed">
-            <stage xml:id="stg-1886.1a"
-                         n="SD 4.1.217.1"
-                         type="entrance"
-                         who="#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp">Enter Caliban, Stephano, and Trinculo, all wet, </stage>
-            <stage xml:id="stg-1886.1b"
-                         n="SD 4.1.217.1"
-                         type="business"
-                         who="#Prospero_Tmp #Ariel_Tmp">as Prospero and Ariel look on. </stage>
+            <stage xml:id="stg-1886.1a" n="SD 4.1.217.1" type="entrance" who="#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp">Enter Caliban, Stephano, and Trinculo, all wet, </stage>
+            <stage xml:id="stg-1886.1b" n="SD 4.1.217.1" type="business" who="#Prospero_Tmp #Ariel_Tmp">as Prospero and Ariel look on. </stage>
           </stage>
           <sp xml:id="sp-1887" who="#Caliban_Tmp">
             <speaker xml:id="spk-1887">CALIBAN </speaker>
@@ -4411,10 +4059,7 @@
           </sp>
           <sp xml:id="sp-1916" who="#Trinculo_Tmp">
             <speaker xml:id="spk-1916">TRINCULO </speaker>
-            <stage xml:id="stg-1916"
-                         n="SD 4.1.247"
-                         type="business"
-                         who="#Trinculo_Tmp">, seeing the apparel </stage>
+            <stage xml:id="stg-1916" n="SD 4.1.247" type="business" who="#Trinculo_Tmp">, seeing the apparel </stage>
             <p xml:id="p-1916">
               <lb xml:id="ftln-1916" n="4.1.247"/>O King Stephano, O <lb xml:id="ftln-1917" n="4.1.248"/>peer, O worthy Stephano, look what a wardrobe <lb xml:id="ftln-1918" n="4.1.249"/>here is for thee! </p>
           </sp>
@@ -4425,11 +4070,7 @@
           <sp xml:id="sp-1920" who="#Trinculo_Tmp">
             <speaker xml:id="spk-1920">TRINCULO </speaker>
             <p xml:id="p-1920">
-              <lb xml:id="ftln-1920" n="4.1.251"/>Oho, monster, we know what belongs to a <lb xml:id="ftln-1921" n="4.1.252"/>frippery. <stage xml:id="stg-1921"
-                            n="SD 4.1.252"
-                            type="business"
-                            rendition="inline"
-                            who="#Trinculo_Tmp"> He puts on one of the gowns. </stage> O King <lb xml:id="ftln-1922" n="4.1.253"/>Stephano! </p>
+              <lb xml:id="ftln-1920" n="4.1.251"/>Oho, monster, we know what belongs to a <lb xml:id="ftln-1921" n="4.1.252"/>frippery. <stage xml:id="stg-1921" n="SD 4.1.252" type="business" rendition="inline" who="#Trinculo_Tmp"> He puts on one of the gowns. </stage> O King <lb xml:id="ftln-1922" n="4.1.253"/>Stephano! </p>
           </sp>
           <sp xml:id="sp-1923" who="#Stephano_Tmp">
             <speaker xml:id="spk-1923">STEPHANO </speaker>
@@ -4453,10 +4094,7 @@
             <speaker xml:id="spk-1931">STEPHANO </speaker>
             <p xml:id="p-1931">
               <lb xml:id="ftln-1931" n="4.1.262"/>Be you quiet, monster.— Mistress Line, is <lb xml:id="ftln-1932" n="4.1.263"/>not this my jerkin? </p>
-            <stage xml:id="stg-1932"
-                         n="SD 4.1.263"
-                         type="business"
-                         who="#Stephano_Tmp">He takes a jacket from the tree. </stage>
+            <stage xml:id="stg-1932" n="SD 4.1.263" type="business" who="#Stephano_Tmp">He takes a jacket from the tree. </stage>
             <p xml:id="p-1933">
               <lb xml:id="ftln-1933" n="4.1.264"/>Now is the jerkin under the line.— Now, jerkin, you <lb xml:id="ftln-1934" n="4.1.265"/>are like to lose your hair and prove a bald jerkin. </p>
           </sp>
@@ -4500,14 +4138,8 @@
             <stage xml:id="snd-1950.1" n="SD 4.1.281.1" type="sound" ana="hunting">A noise of hunters heard. </stage>
           </stage>
           <stage xml:id="stg-1950.2" n="SD 4.1.281.2" type="mixed">
-            <stage xml:id="stg-1950.2a"
-                         n="SD 4.1.281.2"
-                         type="entrance"
-                         who="#SPIRITS_Tmp">Enter divers spirits in shape of dogs and hounds, hunting them about, </stage>
-            <stage xml:id="stg-1950.2b"
-                         n="SD 4.1.281.2"
-                         type="business"
-                         who="#Prospero_Tmp #Ariel_Tmp">Prospero and Ariel setting them on. </stage>
+            <stage xml:id="stg-1950.2a" n="SD 4.1.281.2" type="entrance" who="#SPIRITS_Tmp">Enter divers spirits in shape of dogs and hounds, hunting them about, </stage>
+            <stage xml:id="stg-1950.2b" n="SD 4.1.281.2" type="business" who="#Prospero_Tmp #Ariel_Tmp">Prospero and Ariel setting them on. </stage>
           </stage>
           <sp xml:id="sp-1951" who="#Prospero_Tmp">
             <speaker xml:id="spk-1951">PROSPERO </speaker>
@@ -4522,10 +4154,7 @@
           <sp xml:id="sp-1953" who="#Prospero_Tmp">
             <speaker xml:id="spk-1953">PROSPERO </speaker>
             <l xml:id="ftln-1953" n="4.1.284">Fury, Fury! There, Tyrant, there! Hark, hark! </l>
-            <stage xml:id="stg-1953.1"
-                         n="SD 4.1.284.1"
-                         type="exit"
-                         who="#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp #SPIRITS_Tmp">Caliban, Stephano, and Trinculo are driven off. </stage>
+            <stage xml:id="stg-1953.1" n="SD 4.1.284.1" type="exit" who="#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp #SPIRITS_Tmp">Caliban, Stephano, and Trinculo are driven off. </stage>
             <l xml:id="ftln-1954" n="4.1.285">Go, charge my goblins that they grind their joints </l>
             <l xml:id="ftln-1955" n="4.1.286">With dry convulsions, shorten up their sinews </l>
             <l xml:id="ftln-1956" n="4.1.287">With agèd cramps, and more pinch-spotted make them </l>
@@ -4543,20 +4172,14 @@
             <l xml:id="ftln-1963" n="4.1.294">Shalt have the air at freedom. For a little </l>
             <l xml:id="ftln-1964" n="4.1.295" ana="#short">Follow and do me service. </l>
           </sp>
-          <stage xml:id="stg-1964.1"
-                      n="SD 4.1.295.1"
-                      type="exit"
-                      who="#Ariel_Tmp #Prospero_Tmp">They exit. </stage>
+          <stage xml:id="stg-1964.1" n="SD 4.1.295.1" type="exit" who="#Ariel_Tmp #Prospero_Tmp">They exit. </stage>
         </div>
       </div>
       <div type="act" n="5">
         <head>ACT 5 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-1964.2"
-                      n="SD 5.1.0"
-                      type="entrance"
-                      who="#Prospero_Tmp #Ariel_Tmp">Enter Prospero in his magic robes, and Ariel. </stage>
+          <stage xml:id="stg-1964.2" n="SD 5.1.0" type="entrance" who="#Prospero_Tmp #Ariel_Tmp">Enter Prospero in his magic robes, and Ariel. </stage>
           <sp xml:id="sp-1965" who="#Prospero_Tmp">
             <speaker xml:id="spk-1965">PROSPERO </speaker>
             <l xml:id="ftln-1965" n="5.1.1">Now does my project gather to a head. </l>
@@ -4618,14 +4241,8 @@
             <speaker xml:id="spk-2005">ARIEL </speaker>
             <l xml:id="ftln-2005" n="5.1.41" part="F">I’ll fetch them, sir. </l>
           </sp>
-          <stage xml:id="stg-2005.1"
-                      n="SD 5.1.41.1"
-                      type="exit"
-                      who="#Ariel_Tmp">He exits. </stage>
-          <stage xml:id="stg-2005.2"
-                      n="SD 5.1.41.2"
-                      type="business"
-                      who="#Prospero_Tmp">Prospero draws a large circle on the stage with his staff. </stage>
+          <stage xml:id="stg-2005.1" n="SD 5.1.41.1" type="exit" who="#Ariel_Tmp">He exits. </stage>
+          <stage xml:id="stg-2005.2" n="SD 5.1.41.2" type="business" who="#Prospero_Tmp">Prospero draws a large circle on the stage with his staff. </stage>
           <sp xml:id="sp-2006" who="#Prospero_Tmp">
             <speaker xml:id="spk-2006">PROSPERO </speaker>
             <l xml:id="ftln-2006" n="5.1.42">You elves of hills, brooks, standing lakes, and groves, </l>
@@ -4648,10 +4265,7 @@
             <l xml:id="ftln-2023" n="5.1.59">By my so potent art. But this rough magic </l>
             <l xml:id="ftln-2024" n="5.1.60">I here abjure, and when I have required </l>
             <l xml:id="ftln-2025" n="5.1.61">Some heavenly music, which even now I do, </l>
-            <stage xml:id="stg-2025.1"
-                         n="SD 5.1.61.1"
-                         type="business"
-                         who="#Prospero_Tmp">Prospero gestures with his staff. </stage>
+            <stage xml:id="stg-2025.1" n="SD 5.1.61.1" type="business" who="#Prospero_Tmp">Prospero gestures with his staff. </stage>
             <l xml:id="ftln-2026" n="5.1.62">To work mine end upon their senses that </l>
             <l xml:id="ftln-2027" n="5.1.63">This airy charm is for, I’ll break my staff, </l>
             <l xml:id="ftln-2028" n="5.1.64">Bury it certain fathoms in the earth, </l>
@@ -4661,18 +4275,9 @@
               <stage xml:id="snd-2030" n="SD 5.1.66" type="sound">Solemn music. </stage>
             </stage>
             <stage xml:id="stg-2030.1" n="SD 5.1.66.1" type="mixed">
-              <stage xml:id="stg-2030.1a"
-                            n="SD 5.1.66.1"
-                            type="entrance"
-                            who="#Ariel_Tmp #Alonso_Tmp #Gonzalo_Tmp #Sebastian_Tmp #Antonio_Tmp #Adrian_Tmp #Francisco_Tmp">Here enters Ariel before; then Alonso with a frantic gesture, attended by Gonzalo; Sebastian and Antonio in like manner attended by Adrian and Francisco. </stage>
-              <stage xml:id="stg-2030.1b"
-                            n="SD 5.1.66.1"
-                            type="business"
-                            who="#Alonso_Tmp #Gonzalo_Tmp #Sebastian_Tmp #Antonio_Tmp #Adrian_Tmp #Francisco_Tmp">They all enter the circle which Prospero had made, and there stand charmed; </stage>
-              <stage xml:id="stg-2030.1c"
-                            n="SD 5.1.66.1"
-                            type="business"
-                            who="#Prospero_Tmp">which Prospero observing, speaks. </stage>
+              <stage xml:id="stg-2030.1a" n="SD 5.1.66.1" type="entrance" who="#Ariel_Tmp #Alonso_Tmp #Gonzalo_Tmp #Sebastian_Tmp #Antonio_Tmp #Adrian_Tmp #Francisco_Tmp">Here enters Ariel before; then Alonso with a frantic gesture, attended by Gonzalo; Sebastian and Antonio in like manner attended by Adrian and Francisco. </stage>
+              <stage xml:id="stg-2030.1b" n="SD 5.1.66.1" type="business" who="#Alonso_Tmp #Gonzalo_Tmp #Sebastian_Tmp #Antonio_Tmp #Adrian_Tmp #Francisco_Tmp">They all enter the circle which Prospero had made, and there stand charmed; </stage>
+              <stage xml:id="stg-2030.1c" n="SD 5.1.66.1" type="business" who="#Prospero_Tmp">which Prospero observing, speaks. </stage>
             </stage>
             <l xml:id="ftln-2031" n="5.1.67">A solemn air, and the best comforter </l>
             <l xml:id="ftln-2032" n="5.1.68">To an unsettled fancy, cure thy brains, </l>
@@ -4701,21 +4306,14 @@
             <l xml:id="ftln-2056" n="5.1.92">That now lies foul and muddy. Not one of them </l>
             <l xml:id="ftln-2057" n="5.1.93">That yet looks on me or would know me.— Ariel, </l>
             <l xml:id="ftln-2058" n="5.1.94">Fetch me the hat and rapier in my cell. </l>
-            <stage xml:id="stg-2058.1"
-                         n="SD 5.1.94.1"
-                         type="business"
-                         who="#Ariel_Tmp">Ariel exits and at once returns with Prospero’s ducal robes. </stage>
+            <stage xml:id="stg-2058.1" n="SD 5.1.94.1" type="business" who="#Ariel_Tmp">Ariel exits and at once returns with Prospero’s ducal robes. </stage>
             <l xml:id="ftln-2059" n="5.1.95">I will discase me and myself present </l>
             <l xml:id="ftln-2060" n="5.1.96">As I was sometime Milan.— Quickly, spirit, </l>
             <l xml:id="ftln-2061" n="5.1.97" ana="#short">Thou shalt ere long be free. </l>
           </sp>
           <sp xml:id="sp-2062" who="#Ariel_Tmp">
             <speaker xml:id="spk-2062">ARIEL </speaker>
-            <stage xml:id="stg-2062.0"
-                         n="SD 5.1.98.0"
-                         type="business"
-                         rendition="inline"
-                         who="#Ariel_Tmp #Prospero_Tmp"> sings, and helps to attire him. </stage>
+            <stage xml:id="stg-2062.0" n="SD 5.1.98.0" type="business" rendition="inline" who="#Ariel_Tmp #Prospero_Tmp"> sings, and helps to attire him. </stage>
             <l xml:id="ftln-2062" n="5.1.98" rendition="indent">Where the bee sucks, there suck I. </l>
             <l xml:id="ftln-2063" n="5.1.99" rendition="indent">In a cowslip’s bell I lie. </l>
             <l xml:id="ftln-2064" n="5.1.100" rendition="indent">There I couch when owls do cry. </l>
@@ -4753,10 +4351,7 @@
             <l xml:id="ftln-2082" n="5.1.118">The wrongèd Duke of Milan, Prospero. </l>
             <l xml:id="ftln-2083" n="5.1.119">For more assurance that a living prince </l>
             <l xml:id="ftln-2084" n="5.1.120">Does now speak to thee, I embrace thy body, </l>
-            <stage xml:id="stg-2084.1"
-                         n="SD 5.1.120.1"
-                         type="business"
-                         who="#Prospero_Tmp #Alonso_Tmp">He embraces Alonso. </stage>
+            <stage xml:id="stg-2084.1" n="SD 5.1.120.1" type="business" who="#Prospero_Tmp #Alonso_Tmp">He embraces Alonso. </stage>
             <l xml:id="ftln-2085" n="5.1.121">And to thee and thy company I bid </l>
             <l xml:id="ftln-2086" n="5.1.122" part="I">A hearty welcome. </l>
           </sp>
@@ -4879,14 +4474,8 @@
             <l xml:id="ftln-2163" n="5.1.199" ana="#short">As much as me my dukedom. </l>
           </sp>
           <stage xml:id="stg-2163.1" n="SD 5.1.199.1" type="mixed">
-            <stage xml:id="stg-2163.1a"
-                         n="SD 5.1.199.1a"
-                         type="business"
-                         who="#Prospero_Tmp">Here Prospero discovers </stage>
-            <stage xml:id="stg-2163.1b"
-                         n="SD 5.1.199.1b"
-                         type="entrance"
-                         who="#Ferdinand_Tmp #Miranda_Tmp">Ferdinand and Miranda, playing at chess. </stage>
+            <stage xml:id="stg-2163.1a" n="SD 5.1.199.1a" type="business" who="#Prospero_Tmp">Here Prospero discovers </stage>
+            <stage xml:id="stg-2163.1b" n="SD 5.1.199.1b" type="entrance" who="#Ferdinand_Tmp #Miranda_Tmp">Ferdinand and Miranda, playing at chess. </stage>
           </stage>
           <sp xml:id="sp-2164" who="#Miranda_Tmp">
             <speaker xml:id="spk-2164">MIRANDA </speaker>
@@ -4915,33 +4504,21 @@
           </sp>
           <sp xml:id="sp-2173" who="#Ferdinand_Tmp">
             <speaker xml:id="spk-2173">FERDINAND </speaker>
-            <stage xml:id="stg-2173.0"
-                         n="SD 5.1.209.0"
-                         type="business"
-                         who="#Ferdinand_Tmp">, seeing Alonso and coming forward </stage>
+            <stage xml:id="stg-2173.0" n="SD 5.1.209.0" type="business" who="#Ferdinand_Tmp">, seeing Alonso and coming forward </stage>
             <l xml:id="ftln-2173" n="5.1.209">Though the seas threaten, they are merciful. </l>
             <l xml:id="ftln-2174" n="5.1.210" part="I">I have cursed them without cause. </l>
           </sp>
-          <stage xml:id="stg-2174"
-                      n="SD 5.1.210"
-                      type="business"
-                      who="#Ferdinand_Tmp">He kneels. </stage>
+          <stage xml:id="stg-2174" n="SD 5.1.210" type="business" who="#Ferdinand_Tmp">He kneels. </stage>
           <sp xml:id="sp-2175" who="#Alonso_Tmp">
             <speaker xml:id="spk-2175">ALONSO </speaker>
             <l xml:id="ftln-2175" n="5.1.211" prev="#ftln-2174">Now, all the blessings </l>
             <l xml:id="ftln-2177" n="5.1.213">Of a glad father compass thee about! </l>
             <l xml:id="ftln-2178" n="5.1.214" part="I">Arise, and say how thou cam’st here. </l>
           </sp>
-          <stage xml:id="stg-2178.1"
-                      n="SD 5.1.214.1"
-                      type="business"
-                      who="#Ferdinand_Tmp">Ferdinand stands. </stage>
+          <stage xml:id="stg-2178.1" n="SD 5.1.214.1" type="business" who="#Ferdinand_Tmp">Ferdinand stands. </stage>
           <sp xml:id="sp-2179" who="#Miranda_Tmp">
             <speaker xml:id="spk-2179">MIRANDA </speaker>
-            <stage xml:id="stg-2179"
-                         n="SD 5.1.215"
-                         type="business"
-                         who="#Miranda_Tmp">, rising and coming forward </stage>
+            <stage xml:id="stg-2179" n="SD 5.1.215" type="business" who="#Miranda_Tmp">, rising and coming forward </stage>
             <l xml:id="ftln-2179" n="5.1.215" part="F">O wonder! </l>
             <l xml:id="ftln-2180" n="5.1.216">How many goodly creatures are there here! </l>
             <l xml:id="ftln-2181" n="5.1.217">How beauteous mankind is! O, brave new world </l>
@@ -5017,10 +4594,7 @@
           <sp xml:id="sp-2223" who="#Gonzalo_Tmp">
             <speaker xml:id="spk-2223">GONZALO </speaker>
             <l xml:id="ftln-2223" n="5.1.259" part="F">Be it so. Amen. </l>
-            <stage xml:id="stg-2223.1"
-                         n="SD 5.1.259.1"
-                         type="entrance"
-                         who="#Ariel_Tmp #Shipmaster_Tmp #Boatswain_Tmp">Enter Ariel, with the Master and Boatswain amazedly following. </stage>
+            <stage xml:id="stg-2223.1" n="SD 5.1.259.1" type="entrance" who="#Ariel_Tmp #Shipmaster_Tmp #Boatswain_Tmp">Enter Ariel, with the Master and Boatswain amazedly following. </stage>
             <l xml:id="ftln-2224" n="5.1.260">O, look, sir, look, sir, here is more of us. </l>
             <l xml:id="ftln-2225" n="5.1.261">I prophesied if a gallows were on land, </l>
             <l xml:id="ftln-2226" n="5.1.262">This fellow could not drown. Now, blasphemy, </l>
@@ -5093,18 +4667,11 @@
             <l xml:id="ftln-2266" n="5.1.302">These happened accidents; till when, be cheerful </l>
             <l xml:id="ftln-2267" n="5.1.303">And think of each thing well. <stage xml:id="stg-2267" n="SD 5.1.303" type="delivery"> Aside to Ariel. </stage>Come hither, spirit; </l>
             <l xml:id="ftln-2269" n="5.1.305">Set Caliban and his companions free. </l>
-            <l xml:id="ftln-2270" n="5.1.306">Untie the spell. <stage xml:id="stg-2270"
-                            n="SD 5.1.306"
-                            type="exit"
-                            rendition="inline"
-                            who="#Ariel_Tmp"> Ariel exits. </stage> How fares my gracious sir? </l>
+            <l xml:id="ftln-2270" n="5.1.306">Untie the spell. <stage xml:id="stg-2270" n="SD 5.1.306" type="exit" rendition="inline" who="#Ariel_Tmp"> Ariel exits. </stage> How fares my gracious sir? </l>
             <l xml:id="ftln-2272" n="5.1.308">There are yet missing of your company </l>
             <l xml:id="ftln-2273" n="5.1.309">Some few odd lads that you remember not. </l>
           </sp>
-          <stage xml:id="stg-2273.1"
-                      n="SD 5.1.309.1"
-                      type="entrance"
-                      who="#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp">Enter Ariel, driving in Caliban, Stephano, and Trinculo in their stolen apparel. </stage>
+          <stage xml:id="stg-2273.1" n="SD 5.1.309.1" type="entrance" who="#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp">Enter Ariel, driving in Caliban, Stephano, and Trinculo in their stolen apparel. </stage>
           <sp xml:id="sp-2274" who="#Stephano_Tmp">
             <speaker xml:id="spk-2274">STEPHANO </speaker>
             <p xml:id="p-2274">
@@ -5222,10 +4789,7 @@
             <p xml:id="p-2321">
               <lb xml:id="ftln-2321" n="5.1.357"/>Or stole it, rather. </p>
           </sp>
-          <stage xml:id="stg-2321.1"
-                      n="SD 5.1.357.1"
-                      type="exit"
-                      who="#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp">Caliban, Stephano, and Trinculo exit. </stage>
+          <stage xml:id="stg-2321.1" n="SD 5.1.357.1" type="exit" who="#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp">Caliban, Stephano, and Trinculo exit. </stage>
           <sp xml:id="sp-2322" who="#Prospero_Tmp">
             <speaker xml:id="spk-2322">PROSPERO </speaker>
             <l xml:id="ftln-2322" n="5.1.358">Sir, I invite your Highness and your train </l>
@@ -5256,16 +4820,10 @@
             <l xml:id="ftln-2342" n="5.1.378">That is thy charge. Then to the elements </l>
             <l xml:id="ftln-2343" n="5.1.379">Be free, and fare thou well.— Please you, draw near. </l>
           </sp>
-          <stage xml:id="stg-2343.1"
-                      n="SD 5.1.379.1"
-                      type="exit"
-                      who="#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Alonso_Tmp #Sebastian_Tmp #Antonio_Tmp #Gonzalo_Tmp #Adrian_Tmp #Francisco_Tmp #Shipmaster_Tmp #Boatswain_Tmp">They all exit. </stage>
+          <stage xml:id="stg-2343.1" n="SD 5.1.379.1" type="exit" who="#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Alonso_Tmp #Sebastian_Tmp #Antonio_Tmp #Gonzalo_Tmp #Adrian_Tmp #Francisco_Tmp #Shipmaster_Tmp #Boatswain_Tmp">They all exit. </stage>
         </div>
         <div type="epilogue" n="EPI">
-          <head>EPILOGUE, <stage xml:id="stg-2343.2"
-                         n="SD EPI.0"
-                         type="delivery"
-                         rendition="inline">spoken by Prospero. </stage>
+          <head>EPILOGUE, <stage xml:id="stg-2343.2" n="SD EPI.0" type="delivery" rendition="inline">spoken by Prospero. </stage>
           </head>
           <sp xml:id="sp-2344" who="#Prospero_Tmp">
             <l xml:id="ftln-2344" n="EPI.1">Now my charms are all o’erthrown, </l>
@@ -5289,10 +4847,7 @@
             <l xml:id="ftln-2362" n="EPI.19" rendition="indent">As you from crimes would pardoned be, </l>
             <l xml:id="ftln-2363" n="EPI.20" rendition="indent">Let your indulgence set me free. </l>
           </sp>
-          <stage xml:id="stg-2363.1"
-                      n="SD EPI.20.1"
-                      type="exit"
-                      who="#Prospero_Tmp">He exits. </stage>
+          <stage xml:id="stg-2363.1" n="SD EPI.20.1" type="exit" who="#Prospero_Tmp">He exits. </stage>
         </div>
       </div>
     </body>

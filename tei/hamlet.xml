@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shake000032">
   <teiHeader>
     <fileDesc>
@@ -99,49 +100,31 @@
       </langUsage>
       <particDesc>
         <listPerson>
-          <person xml:id="Barnardo_Ham"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q64145633">
+          <person xml:id="Barnardo_Ham" sex="MALE" ana="http://www.wikidata.org/entity/Q64145633">
             <persName>Barnardo</persName>
           </person>
-          <person xml:id="Francisco_Ham"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q64145634">
+          <person xml:id="Francisco_Ham" sex="MALE" ana="http://www.wikidata.org/entity/Q64145634">
             <persName>Francisco</persName>
           </person>
-          <person xml:id="Horatio_Ham"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q3140503">
+          <person xml:id="Horatio_Ham" sex="MALE" ana="http://www.wikidata.org/entity/Q3140503">
             <persName>Horatio</persName>
           </person>
-          <person xml:id="Marcellus_Ham"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q64145631">
+          <person xml:id="Marcellus_Ham" sex="MALE" ana="http://www.wikidata.org/entity/Q64145631">
             <persName>Marcellus</persName>
           </person>
-          <person xml:id="Claudius_Ham"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q1811294">
+          <person xml:id="Claudius_Ham" sex="MALE" ana="http://www.wikidata.org/entity/Q1811294">
             <persName>King Claudius</persName>
           </person>
-          <person xml:id="Cornelius_Ham"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q64145629">
+          <person xml:id="Cornelius_Ham" sex="MALE" ana="http://www.wikidata.org/entity/Q64145629">
             <persName>Cornelius</persName>
           </person>
-          <person xml:id="Voltemand_Ham"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q64145627">
+          <person xml:id="Voltemand_Ham" sex="MALE" ana="http://www.wikidata.org/entity/Q64145627">
             <persName>Voltemand</persName>
           </person>
-          <person xml:id="Laertes_Ham"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q2471533">
+          <person xml:id="Laertes_Ham" sex="MALE" ana="http://www.wikidata.org/entity/Q2471533">
             <persName>Laertes</persName>
           </person>
-          <person xml:id="Polonius_Ham"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q780191">
+          <person xml:id="Polonius_Ham" sex="MALE" ana="http://www.wikidata.org/entity/Q780191">
             <persName>Polonius</persName>
           </person>
           <person xml:id="Hamlet_Ham" ana="http://www.wikidata.org/entity/Q2447542">
@@ -156,16 +139,13 @@
           <person xml:id="Ghost_Ham" ana="http://www.wikidata.org/entity/Q1813659">
             <persName>The Ghost</persName>
           </person>
-          <person xml:id="Reynaldo_Ham"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q64145635">
+          <person xml:id="Reynaldo_Ham" sex="MALE" ana="http://www.wikidata.org/entity/Q64145635">
             <persName>Reynaldo</persName>
           </person>
           <person xml:id="Rosencrantz_Ham" ana="http://www.wikidata.org/entity/Q64145623">
             <persName>Rosencrantz</persName>
           </person>
-          <person xml:id="Guildenstern_Ham"
-                       ana="http://www.wikidata.org/entity/Q64145625">
+          <person xml:id="Guildenstern_Ham" ana="http://www.wikidata.org/entity/Q64145625">
             <persName>Guildenstern</persName>
           </person>
           <personGrp xml:id="PLAYERS.1_Ham" sex="UNKNOWN">
@@ -189,14 +169,10 @@
           <personGrp xml:id="ATTENDANTS.GUARDS_Ham" sex="UNKNOWN">
             <name>Attendants, Lords, Guards, Musicians, Laertes’s Followers, Soldiers, Officers</name>
           </personGrp>
-          <person xml:id="Fortinbras_Ham"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q2568064">
+          <person xml:id="Fortinbras_Ham" sex="MALE" ana="http://www.wikidata.org/entity/Q2568064">
             <persName>Fortinbras</persName>
           </person>
-          <personGrp xml:id="SOLDIERS.FORTINBRAS.Captain_Ham"
-                          sex="MALE"
-                          ana="http://www.wikidata.org/entity/Q64145643">
+          <personGrp xml:id="SOLDIERS.FORTINBRAS.Captain_Ham" sex="MALE" ana="http://www.wikidata.org/entity/Q64145643">
             <name>SOLDIERS.FORTINBRAS.Captain_Ham</name>
           </personGrp>
           <personGrp xml:id="ATTENDANTS.1_Ham" sex="UNKNOWN">
@@ -229,9 +205,7 @@
           <personGrp xml:id="ATTENDANTS_Ham" sex="UNKNOWN">
             <name>Attendants, Lords, Guards, Musicians, Laertes’s Followers, Soldiers, Officers</name>
           </personGrp>
-          <person xml:id="Osric_Ham"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q11801381">
+          <person xml:id="Osric_Ham" sex="MALE" ana="http://www.wikidata.org/entity/Q11801381">
             <persName>Osric</persName>
           </person>
           <personGrp xml:id="ATTENDANTS.2_Ham" sex="UNKNOWN">
@@ -254,9 +228,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/shake000032"
-                   passive="http://www.wikidata.org/entity/Q41567"/>
+      <relation name="wikidata" active="https://dracor.org/entity/shake000032" passive="http://www.wikidata.org/entity/Q41567"/>
     </listRelation>
   </standOff>
   <text>
@@ -384,8 +356,7 @@
             </role>
             <roleDesc>Prince of Norway</roleDesc>
           </castItem>
-          <castItem corresp="#SOLDIERS.FORTINBRAS_Ham"
-                         sameAs="#SOLDIERS.FORTINBRAS.Captain_Ham">
+          <castItem corresp="#SOLDIERS.FORTINBRAS_Ham" sameAs="#SOLDIERS.FORTINBRAS.Captain_Ham">
             <role>A Captain in Fortinbras’s army</role>
           </castItem>
         </castGroup>
@@ -444,10 +415,7 @@
         <head>ACT 1 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-0000"
-                      n="SD 1.1.0"
-                      type="entrance"
-                      who="#Barnardo_Ham #Francisco_Ham">Enter Barnardo and Francisco, two sentinels. </stage>
+          <stage xml:id="stg-0000" n="SD 1.1.0" type="entrance" who="#Barnardo_Ham #Francisco_Ham">Enter Barnardo and Francisco, two sentinels. </stage>
           <sp xml:id="sp-0001" who="#Barnardo_Ham">
             <speaker xml:id="spk-0001">BARNARDO </speaker>
             <p xml:id="p-0001">
@@ -501,10 +469,7 @@
             <l xml:id="ftln-0013" n="1.1.13">If you do meet Horatio and Marcellus, </l>
             <l xml:id="ftln-0014" n="1.1.14">The rivals of my watch, bid them make haste. </l>
           </sp>
-          <stage xml:id="stg-0014.1"
-                      n="SD 1.1.14.1"
-                      type="entrance"
-                      who="#Horatio_Ham #Marcellus_Ham">Enter Horatio and Marcellus. </stage>
+          <stage xml:id="stg-0014.1" n="SD 1.1.14.1" type="entrance" who="#Horatio_Ham #Marcellus_Ham">Enter Horatio and Marcellus. </stage>
           <sp xml:id="sp-0015" who="#Francisco_Ham">
             <speaker xml:id="spk-0015">FRANCISCO </speaker>
             <l xml:id="ftln-0015" n="1.1.15">I think I hear them.— Stand ho! Who is there? </l>
@@ -529,10 +494,7 @@
             <speaker xml:id="spk-0021">FRANCISCO </speaker>
             <l xml:id="ftln-0021" n="1.1.21">Barnardo hath my place. Give you good night. </l>
           </sp>
-          <stage xml:id="stg-0021.1"
-                      n="SD 1.1.21.1"
-                      type="exit"
-                      who="#Francisco_Ham">Francisco exits. </stage>
+          <stage xml:id="stg-0021.1" n="SD 1.1.21.1" type="exit" who="#Francisco_Ham">Francisco exits. </stage>
           <sp xml:id="sp-0022" who="#Marcellus_Ham">
             <speaker xml:id="spk-0022">MARCELLUS </speaker>
             <l xml:id="ftln-0022" n="1.1.22" ana="#short">Holla, Barnardo. </l>
@@ -591,10 +553,7 @@
             <l xml:id="ftln-0045" n="1.1.45">Where now it burns, Marcellus and myself, </l>
             <l xml:id="ftln-0046" n="1.1.46">The bell then beating one— </l>
           </sp>
-          <stage xml:id="stg-0046.1"
-                      n="SD 1.1.46.1"
-                      type="entrance"
-                      who="#Ghost_Ham">Enter Ghost. </stage>
+          <stage xml:id="stg-0046.1" n="SD 1.1.46.1" type="entrance" who="#Ghost_Ham">Enter Ghost. </stage>
           <sp xml:id="sp-0047" who="#Marcellus_Ham">
             <speaker xml:id="spk-0047">MARCELLUS </speaker>
             <l xml:id="ftln-0047" n="1.1.47">Peace, break thee off! Look where it comes again. </l>
@@ -643,10 +602,7 @@
             <speaker xml:id="spk-0061">HORATIO </speaker>
             <l xml:id="ftln-0061" n="1.1.61" ana="#short">Stay! speak! speak! I charge thee, speak! </l>
           </sp>
-          <stage xml:id="stg-0061.1"
-                      n="SD 1.1.61.1"
-                      type="exit"
-                      who="#Ghost_Ham">Ghost exits. </stage>
+          <stage xml:id="stg-0061.1" n="SD 1.1.61.1" type="exit" who="#Ghost_Ham">Ghost exits. </stage>
           <sp xml:id="sp-0062" who="#Marcellus_Ham">
             <speaker xml:id="spk-0062">MARCELLUS </speaker>
             <l xml:id="ftln-0062" n="1.1.62" ana="#short">’Tis gone and will not answer. </l>
@@ -755,16 +711,10 @@
             <l xml:id="ftln-0135" n="1.1.135">And prologue to the omen coming on, </l>
             <l xml:id="ftln-0136" n="1.1.136">Have heaven and Earth together demonstrated </l>
             <l xml:id="ftln-0137" n="1.1.137">Unto our climatures and countrymen. </l>
-            <stage xml:id="stg-0137.1"
-                         n="SD 1.1.137.1"
-                         type="entrance"
-                         who="#Ghost_Ham">Enter Ghost. </stage>
+            <stage xml:id="stg-0137.1" n="SD 1.1.137.1" type="entrance" who="#Ghost_Ham">Enter Ghost. </stage>
             <l xml:id="ftln-0138" n="1.1.138">But soft, behold! Lo, where it comes again! </l>
             <l xml:id="ftln-0139" n="1.1.139">I’ll cross it though it blast me.— Stay, illusion! </l>
-            <stage xml:id="stg-0139.1"
-                         n="SD 1.1.139.1"
-                         type="business"
-                         who="#Ghost_Ham">It spreads his arms. </stage>
+            <stage xml:id="stg-0139.1" n="SD 1.1.139.1" type="business" who="#Ghost_Ham">It spreads his arms. </stage>
             <l xml:id="ftln-0140" n="1.1.140">If thou hast any sound or use of voice, </l>
             <l xml:id="ftln-0141" n="1.1.141" ana="#short">Speak to me. </l>
             <l xml:id="ftln-0142" n="1.1.142">If there be any good thing to be done </l>
@@ -796,10 +746,7 @@
             <speaker xml:id="spk-0156">HORATIO </speaker>
             <l xml:id="ftln-0156" n="1.1.156" ana="#short">’Tis here. </l>
           </sp>
-          <stage xml:id="stg-0156.1"
-                      n="SD 1.1.156.1"
-                      type="exit"
-                      who="#Ghost_Ham">Ghost exits. </stage>
+          <stage xml:id="stg-0156.1" n="SD 1.1.156.1" type="exit" who="#Ghost_Ham">Ghost exits. </stage>
           <sp xml:id="sp-0157" who="#Marcellus_Ham">
             <speaker xml:id="spk-0157">MARCELLUS </speaker>
             <l xml:id="ftln-0157" n="1.1.157" ana="#short">’Tis gone. </l>
@@ -852,17 +799,11 @@
             <l xml:id="ftln-0189" n="1.1.189">Let’s do ’t, I pray, and I this morning know </l>
             <l xml:id="ftln-0190" n="1.1.190">Where we shall find him most convenient. </l>
           </sp>
-          <stage xml:id="stg-0190.1"
-                      n="SD 1.1.190.1"
-                      type="exit"
-                      who="#Barnardo_Ham #Horatio_Ham #Marcellus_Ham">They exit. </stage>
+          <stage xml:id="stg-0190.1" n="SD 1.1.190.1" type="exit" who="#Barnardo_Ham #Horatio_Ham #Marcellus_Ham">They exit. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-0190.2"
-                      n="SD 1.2.0"
-                      type="entrance"
-                      who="#Claudius_Ham #Gertrude_Ham #Polonius_Ham #Laertes_Ham #Hamlet_Ham #Voltemand_Ham #Cornelius_Ham">
+          <stage xml:id="stg-0190.2" n="SD 1.2.0" type="entrance" who="#Claudius_Ham #Gertrude_Ham #Polonius_Ham #Laertes_Ham #Hamlet_Ham #Voltemand_Ham #Cornelius_Ham">
             <stage xml:id="snd-0190.2" n="SD 1.2.0" type="sound" ana="flourish">Flourish. </stage> Enter Claudius, King of Denmark, Gertrude the Queen, the Council, as Polonius, and his son Laertes, Hamlet, with others, among them Voltemand and Cornelius. </stage>
           <sp xml:id="sp-0191" who="#Claudius_Ham">
             <speaker xml:id="spk-0191">KING </speaker>
@@ -904,10 +845,7 @@
             <l xml:id="ftln-0226" n="1.2.36">Giving to you no further personal power </l>
             <l xml:id="ftln-0227" n="1.2.37">To business with the King more than the scope </l>
             <l xml:id="ftln-0228" n="1.2.38">Of these dilated articles allow. </l>
-            <stage xml:id="stg-0228.1"
-                         n="SD 1.2.38.1"
-                         type="business"
-                         who="#Claudius_Ham #Voltemand_Ham #Cornelius_Ham">Giving them a paper. </stage>
+            <stage xml:id="stg-0228.1" n="SD 1.2.38.1" type="business" who="#Claudius_Ham #Voltemand_Ham #Cornelius_Ham">Giving them a paper. </stage>
             <l xml:id="ftln-0229" n="1.2.39">Farewell, and let your haste commend your duty. </l>
           </sp>
           <sp xml:id="sp-0230" who="#Cornelius_Ham #Voltemand_Ham">
@@ -917,10 +855,7 @@
           <sp xml:id="sp-0231" who="#Claudius_Ham">
             <speaker xml:id="spk-0231">KING </speaker>
             <l xml:id="ftln-0231" n="1.2.41">We doubt it nothing. Heartily farewell. </l>
-            <stage xml:id="stg-0231.1"
-                         n="SD 1.2.41.1"
-                         type="exit"
-                         who="#Voltemand_Ham #Cornelius_Ham">Voltemand and Cornelius exit. </stage>
+            <stage xml:id="stg-0231.1" n="SD 1.2.41.1" type="exit" who="#Voltemand_Ham #Cornelius_Ham">Voltemand and Cornelius exit. </stage>
             <l xml:id="ftln-0232" n="1.2.42">And now, Laertes, what’s the news with you? </l>
             <l xml:id="ftln-0233" n="1.2.43">You told us of some suit. What is ’t, Laertes? </l>
             <l xml:id="ftln-0234" n="1.2.44">You cannot speak of reason to the Dane </l>
@@ -1057,14 +992,8 @@
             <l xml:id="ftln-0321" n="1.2.131">And the King’s rouse the heaven shall bruit again, </l>
             <l xml:id="ftln-0322" n="1.2.132">Respeaking earthly thunder. Come away. </l>
           </sp>
-          <stage xml:id="stg-0322.1b"
-                      n="SD 1.2.132.1"
-                      type="exit"
-                      who="#Claudius_Ham #Gertrude_Ham #Polonius_Ham #Laertes_Ham">
-            <stage xml:id="snd-0322.1"
-                         n="SD 1.2.132.1"
-                         type="sound"
-                         ana="flourish">Flourish. </stage> All but Hamlet exit. </stage>
+          <stage xml:id="stg-0322.1b" n="SD 1.2.132.1" type="exit" who="#Claudius_Ham #Gertrude_Ham #Polonius_Ham #Laertes_Ham">
+            <stage xml:id="snd-0322.1" n="SD 1.2.132.1" type="sound" ana="flourish">Flourish. </stage> All but Hamlet exit. </stage>
           <sp xml:id="sp-0323" who="#Hamlet_Ham">
             <speaker xml:id="spk-0323">HAMLET </speaker>
             <l xml:id="ftln-0323" n="1.2.133">O, that this too, too sullied flesh would melt, </l>
@@ -1099,10 +1028,7 @@
             <l xml:id="ftln-0353" n="1.2.163">It is not, nor it cannot come to good. </l>
             <l xml:id="ftln-0354" n="1.2.164">But break, my heart, for I must hold my tongue. </l>
           </sp>
-          <stage xml:id="stg-0354.1"
-                      n="SD 1.2.164.1"
-                      type="entrance"
-                      who="#Horatio_Ham #Marcellus_Ham #Barnardo_Ham">Enter Horatio, Marcellus, and Barnardo. </stage>
+          <stage xml:id="stg-0354.1" n="SD 1.2.164.1" type="entrance" who="#Horatio_Ham #Marcellus_Ham #Barnardo_Ham">Enter Horatio, Marcellus, and Barnardo. </stage>
           <sp xml:id="sp-0355" who="#Horatio_Ham">
             <speaker xml:id="spk-0355">HORATIO </speaker>
             <l xml:id="ftln-0355" n="1.2.165" ana="#short">Hail to your Lordship. </l>
@@ -1380,26 +1306,17 @@
           <sp xml:id="sp-0466" who="#Hamlet_Ham">
             <speaker xml:id="spk-0466">HAMLET </speaker>
             <l xml:id="ftln-0466" n="1.2.276">Your loves, as mine to you. Farewell. </l>
-            <stage xml:id="stg-0466.1"
-                         n="SD 1.2.276.1"
-                         type="exit"
-                         who="#Barnardo_Ham #Horatio_Ham #Marcellus_Ham">All but Hamlet exit. </stage>
+            <stage xml:id="stg-0466.1" n="SD 1.2.276.1" type="exit" who="#Barnardo_Ham #Horatio_Ham #Marcellus_Ham">All but Hamlet exit. </stage>
             <l xml:id="ftln-0467" n="1.2.277">My father’s spirit— in arms! All is not well. </l>
             <l xml:id="ftln-0468" n="1.2.278">I doubt some foul play. Would the night were come! </l>
             <l xml:id="ftln-0469" n="1.2.279">Till then, sit still, my soul. Foul deeds will rise, </l>
             <l xml:id="ftln-0470" n="1.2.280">Though all the earth o’erwhelm them, to men’s eyes. </l>
           </sp>
-          <stage xml:id="stg-0471.1"
-                      n="SD 1.2.281.1"
-                      type="exit"
-                      who="#Hamlet_Ham">He exits. </stage>
+          <stage xml:id="stg-0471.1" n="SD 1.2.281.1" type="exit" who="#Hamlet_Ham">He exits. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-0471.2"
-                      n="SD 1.3.0"
-                      type="entrance"
-                      who="#Laertes_Ham #Ophelia_Ham">Enter Laertes and Ophelia, his sister. </stage>
+          <stage xml:id="stg-0471.2" n="SD 1.3.0" type="entrance" who="#Laertes_Ham #Ophelia_Ham">Enter Laertes and Ophelia, his sister. </stage>
           <sp xml:id="sp-0472" who="#Laertes_Ham">
             <speaker xml:id="spk-0472">LAERTES </speaker>
             <l xml:id="ftln-0472" n="1.3.1">My necessaries are embarked. Farewell. </l>
@@ -1475,10 +1392,7 @@
           <sp xml:id="sp-0527" who="#Laertes_Ham">
             <speaker xml:id="spk-0527">LAERTES </speaker>
             <l xml:id="ftln-0527" n="1.3.56" part="F">O, fear me not. </l>
-            <stage xml:id="stg-0527.1"
-                         n="SD 1.3.56.1"
-                         type="entrance"
-                         who="#Polonius_Ham">Enter Polonius. </stage>
+            <stage xml:id="stg-0527.1" n="SD 1.3.56.1" type="entrance" who="#Polonius_Ham">Enter Polonius. </stage>
             <l xml:id="ftln-0528" n="1.3.57">I stay too long. But here my father comes. </l>
             <l xml:id="ftln-0529" n="1.3.58">A double blessing is a double grace. </l>
             <l xml:id="ftln-0530" n="1.3.59">Occasion smiles upon a second leave. </l>
@@ -1621,17 +1535,11 @@
             <speaker xml:id="spk-0616">OPHELIA </speaker>
             <l xml:id="ftln-0616" n="1.3.145" ana="#short">I shall obey, my lord. </l>
           </sp>
-          <stage xml:id="stg-0616.1"
-                      n="SD 1.3.145.1"
-                      type="exit"
-                      who="#Ophelia_Ham #Polonius_Ham">They exit. </stage>
+          <stage xml:id="stg-0616.1" n="SD 1.3.145.1" type="exit" who="#Ophelia_Ham #Polonius_Ham">They exit. </stage>
         </div>
         <div type="scene" n="4">
           <head>Scene 4 </head>
-          <stage xml:id="stg-0616.2"
-                      n="SD 1.4.0"
-                      type="entrance"
-                      who="#Hamlet_Ham #Horatio_Ham #Marcellus_Ham">Enter Hamlet, Horatio, and Marcellus. </stage>
+          <stage xml:id="stg-0616.2" n="SD 1.4.0" type="entrance" who="#Hamlet_Ham #Horatio_Ham #Marcellus_Ham">Enter Hamlet, Horatio, and Marcellus. </stage>
           <sp xml:id="sp-0617" who="#Hamlet_Ham">
             <speaker xml:id="spk-0617">HAMLET </speaker>
             <l xml:id="ftln-0617" n="1.4.1">The air bites shrewdly; it is very cold. </l>
@@ -1657,10 +1565,7 @@
             <l xml:id="ftln-0622" n="1.4.6">Indeed, I heard it not. It then draws near the season </l>
             <l xml:id="ftln-0623" n="1.4.7">Wherein the spirit held his wont to walk. </l>
             <stage xml:id="stg-0623.1" n="SD 1.4.7.1" type="business">
-              <stage xml:id="snd-0623.1"
-                            n="SD 1.4.7.1"
-                            type="sound"
-                            ana="trumpet ordnance">A flourish of trumpets and two pieces goes off. </stage>
+              <stage xml:id="snd-0623.1" n="SD 1.4.7.1" type="sound" ana="trumpet ordnance">A flourish of trumpets and two pieces goes off. </stage>
             </stage>
             <l xml:id="ftln-0624" n="1.4.8" ana="#short">What does this mean, my lord? </l>
           </sp>
@@ -1705,10 +1610,7 @@
             <l xml:id="ftln-0656" n="1.4.40">Doth all the noble substance of a doubt </l>
             <l xml:id="ftln-0657" n="1.4.41" part="I">To his own scandal. </l>
           </sp>
-          <stage xml:id="stg-0657.1"
-                      n="SD 1.4.41.1"
-                      type="entrance"
-                      who="#Ghost_Ham">Enter Ghost. </stage>
+          <stage xml:id="stg-0657.1" n="SD 1.4.41.1" type="entrance" who="#Ghost_Ham">Enter Ghost. </stage>
           <sp xml:id="sp-0658" who="#Horatio_Ham">
             <speaker xml:id="spk-0658">HORATIO </speaker>
             <l xml:id="ftln-0658" n="1.4.42" part="F">Look, my lord, it comes. </l>
@@ -1735,10 +1637,7 @@
             <l xml:id="ftln-0677" n="1.4.61">With thoughts beyond the reaches of our souls? </l>
             <l xml:id="ftln-0678" n="1.4.62">Say, why is this? Wherefore? What should we do? </l>
           </sp>
-          <stage xml:id="stg-0678.1"
-                      n="SD 1.4.62.1"
-                      type="business"
-                      who="#Ghost_Ham">Ghost beckons. </stage>
+          <stage xml:id="stg-0678.1" n="SD 1.4.62.1" type="business" who="#Ghost_Ham">Ghost beckons. </stage>
           <sp xml:id="sp-0679" who="#Horatio_Ham">
             <speaker xml:id="spk-0679">HORATIO </speaker>
             <l xml:id="ftln-0679" n="1.4.63">It beckons you to go away with it </l>
@@ -1792,10 +1691,7 @@
             <speaker xml:id="spk-0704">MARCELLUS </speaker>
             <l xml:id="ftln-0704" n="1.4.88" part="I">You shall not go, my lord. </l>
           </sp>
-          <stage xml:id="stg-0704"
-                      n="1.4.88"
-                      type="business"
-                      who="#Horatio_Ham #Marcellus_Ham #Hamlet_Ham">They hold back Hamlet. </stage>
+          <stage xml:id="stg-0704" n="1.4.88" type="business" who="#Horatio_Ham #Marcellus_Ham #Hamlet_Ham">They hold back Hamlet. </stage>
           <sp xml:id="sp-0705" who="#Hamlet_Ham">
             <speaker xml:id="spk-0705">HAMLET </speaker>
             <l xml:id="ftln-0705" n="1.4.89" part="F">Hold off your hands. </l>
@@ -1813,10 +1709,7 @@
             <l xml:id="ftln-0711" n="1.4.95">By heaven, I’ll make a ghost of him that lets me! </l>
             <l xml:id="ftln-0712" n="1.4.96">I say, away!— Go on. I’ll follow thee. </l>
           </sp>
-          <stage xml:id="stg-0712.1"
-                      n="SD 1.4.96.1"
-                      type="exit"
-                      who="#Ghost_Ham #Hamlet_Ham">Ghost and Hamlet exit. </stage>
+          <stage xml:id="stg-0712.1" n="SD 1.4.96.1" type="exit" who="#Ghost_Ham #Hamlet_Ham">Ghost and Hamlet exit. </stage>
           <sp xml:id="sp-0713" who="#Horatio_Ham">
             <speaker xml:id="spk-0713">HORATIO </speaker>
             <l xml:id="ftln-0713" n="1.4.97">He waxes desperate with imagination. </l>
@@ -1841,17 +1734,11 @@
             <speaker xml:id="spk-0718">MARCELLUS </speaker>
             <l xml:id="ftln-0718" n="1.4.102" part="F">Nay, let’s follow him. </l>
           </sp>
-          <stage xml:id="stg-0718.1"
-                      n="SD 1.4.102.1"
-                      type="exit"
-                      who="#Horatio_Ham #Marcellus_Ham">They exit. </stage>
+          <stage xml:id="stg-0718.1" n="SD 1.4.102.1" type="exit" who="#Horatio_Ham #Marcellus_Ham">They exit. </stage>
         </div>
         <div type="scene" n="5">
           <head>Scene 5 </head>
-          <stage xml:id="stg-0718.2"
-                      n="SD 1.5.0"
-                      type="entrance"
-                      who="#Ghost_Ham #Hamlet_Ham">Enter Ghost and Hamlet. </stage>
+          <stage xml:id="stg-0718.2" n="SD 1.5.0" type="entrance" who="#Ghost_Ham #Hamlet_Ham">Enter Ghost and Hamlet. </stage>
           <sp xml:id="sp-0719" who="#Hamlet_Ham">
             <speaker xml:id="spk-0719">HAMLET </speaker>
             <l xml:id="ftln-0719" n="1.5.1">Whither wilt thou lead me? Speak. I’ll go no further. </l>
@@ -2023,18 +1910,12 @@
             <l xml:id="ftln-0832" n="1.5.114">My tables— meet it is I set it down </l>
             <l xml:id="ftln-0833" n="1.5.115">That one may smile and smile and be a villain. </l>
             <l xml:id="ftln-0834" n="1.5.116">At least I am sure it may be so in Denmark. </l>
-            <stage xml:id="stg-0834.1"
-                         n="SD 1.5.116.1"
-                         type="business"
-                         who="#Hamlet_Ham">He writes. </stage>
+            <stage xml:id="stg-0834.1" n="SD 1.5.116.1" type="business" who="#Hamlet_Ham">He writes. </stage>
             <l xml:id="ftln-0835" n="1.5.117">So, uncle, there you are. Now to my word. </l>
             <l xml:id="ftln-0836" n="1.5.118">It is “ adieu, adieu, remember me.” </l>
             <l xml:id="ftln-0837" n="1.5.119" ana="#short">I have sworn ’t. </l>
           </sp>
-          <stage xml:id="stg-0837.1"
-                      n="SD 1.5.119.1"
-                      type="entrance"
-                      who="#Horatio_Ham #Marcellus_Ham">Enter Horatio and Marcellus. </stage>
+          <stage xml:id="stg-0837.1" n="SD 1.5.119.1" type="entrance" who="#Horatio_Ham #Marcellus_Ham">Enter Horatio and Marcellus. </stage>
           <sp xml:id="sp-0838" who="#Horatio_Ham">
             <speaker xml:id="spk-0838">HORATIO </speaker>
             <p xml:id="p-0838">
@@ -2264,20 +2145,14 @@
             <l xml:id="ftln-0929" n="1.5.211">That ever I was born to set it right! </l>
             <l xml:id="ftln-0930" n="1.5.212" ana="#short">Nay, come, let’s go together. </l>
           </sp>
-          <stage xml:id="stg-0930.1"
-                      n="SD 1.5.212.1"
-                      type="exit"
-                      who="#Hamlet_Ham #Horatio_Ham #Marcellus_Ham">They exit. </stage>
+          <stage xml:id="stg-0930.1" n="SD 1.5.212.1" type="exit" who="#Hamlet_Ham #Horatio_Ham #Marcellus_Ham">They exit. </stage>
         </div>
       </div>
       <div type="act" n="2">
         <head>ACT 2 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-0930.2"
-                      n="SD 2.1.0"
-                      type="entrance"
-                      who="#Polonius_Ham #Reynaldo_Ham">Enter old Polonius with his man Reynaldo. </stage>
+          <stage xml:id="stg-0930.2" n="SD 2.1.0" type="entrance" who="#Polonius_Ham #Reynaldo_Ham">Enter old Polonius with his man Reynaldo. </stage>
           <sp xml:id="sp-0931" who="#Polonius_Ham">
             <speaker xml:id="spk-0931">POLONIUS </speaker>
             <l xml:id="ftln-0931" n="2.1.1">Give him this money and these notes, Reynaldo. </l>
@@ -2437,10 +2312,7 @@
             <speaker xml:id="spk-1013">POLONIUS </speaker>
             <l xml:id="ftln-1013" n="2.1.83" part="I">Farewell. </l>
             <stage xml:id="stg-1013" n="SD 2.1.83" type="exit" who="#Reynaldo_Ham">Reynaldo exits. </stage>
-            <stage xml:id="stg-1013.1"
-                         n="SD 2.1.83.1"
-                         type="entrance"
-                         who="#Ophelia_Ham">Enter Ophelia. </stage>
+            <stage xml:id="stg-1013.1" n="SD 2.1.83.1" type="entrance" who="#Ophelia_Ham">Enter Ophelia. </stage>
             <l xml:id="ftln-1014" n="2.1.84" part="F">How now, Ophelia, what’s the matter? </l>
           </sp>
           <sp xml:id="sp-1015" who="#Ophelia_Ham">
@@ -2522,17 +2394,11 @@
             <l xml:id="ftln-1063" n="2.1.133">More grief to hide than hate to utter love. </l>
             <l xml:id="ftln-1064" n="2.1.134" ana="#short">Come. </l>
           </sp>
-          <stage xml:id="stg-1064.1"
-                      n="SD 2.1.133.1"
-                      type="exit"
-                      who="#Ophelia_Ham #Polonius_Ham">They exit. </stage>
+          <stage xml:id="stg-1064.1" n="SD 2.1.133.1" type="exit" who="#Ophelia_Ham #Polonius_Ham">They exit. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-1064.2"
-                      n="SD 2.2.0"
-                      type="entrance"
-                      who="#Claudius_Ham #Gertrude_Ham #Rosencrantz_Ham #Guildenstern_Ham #ATTENDANTS_Ham">
+          <stage xml:id="stg-1064.2" n="SD 2.2.0" type="entrance" who="#Claudius_Ham #Gertrude_Ham #Rosencrantz_Ham #Guildenstern_Ham #ATTENDANTS_Ham">
             <stage xml:id="snd-1064.2" n="SD 2.2.0" type="sound" ana="flourish">Flourish. </stage> Enter King and Queen, Rosencrantz and Guildenstern and Attendants. </stage>
           <sp xml:id="sp-1065" who="#Claudius_Ham">
             <speaker xml:id="spk-1065">KING </speaker>
@@ -2600,14 +2466,8 @@
             <speaker xml:id="spk-1106">QUEEN </speaker>
             <l xml:id="ftln-1106" n="2.2.42" part="F">Ay, amen! </l>
           </sp>
-          <stage xml:id="stg-1106.1"
-                      n="SD 2.2.42.1"
-                      type="exit"
-                      who="#Rosencrantz_Ham #Guildenstern_Ham #ATTENDANTS.0_Ham">Rosencrantz and Guildenstern exit with some Attendants. </stage>
-          <stage xml:id="stg-1106.2"
-                      n="SD 2.2.42.2"
-                      type="entrance"
-                      who="#Polonius_Ham">Enter Polonius. </stage>
+          <stage xml:id="stg-1106.1" n="SD 2.2.42.1" type="exit" who="#Rosencrantz_Ham #Guildenstern_Ham #ATTENDANTS.0_Ham">Rosencrantz and Guildenstern exit with some Attendants. </stage>
+          <stage xml:id="stg-1106.2" n="SD 2.2.42.2" type="entrance" who="#Polonius_Ham">Enter Polonius. </stage>
           <sp xml:id="sp-1107" who="#Polonius_Ham">
             <speaker xml:id="spk-1107">POLONIUS </speaker>
             <l xml:id="ftln-1107" n="2.2.43">Th’ ambassadors from Norway, my good lord, </l>
@@ -2639,10 +2499,7 @@
           <sp xml:id="sp-1120" who="#Claudius_Ham">
             <speaker xml:id="spk-1120">KING </speaker>
             <l xml:id="ftln-1120" n="2.2.56">Thyself do grace to them and bring them in. </l>
-            <stage xml:id="stg-1120.1"
-                         n="SD 2.2.56.1"
-                         type="exit"
-                         who="#Polonius_Ham">Polonius exits. </stage>
+            <stage xml:id="stg-1120.1" n="SD 2.2.56.1" type="exit" who="#Polonius_Ham">Polonius exits. </stage>
             <l xml:id="ftln-1121" n="2.2.57">He tells me, my dear Gertrude, he hath found </l>
             <l xml:id="ftln-1122" n="2.2.58">The head and source of all your son’s distemper. </l>
           </sp>
@@ -2654,10 +2511,7 @@
           <sp xml:id="sp-1125" who="#Claudius_Ham">
             <speaker xml:id="spk-1125">KING </speaker>
             <l xml:id="ftln-1125" n="2.2.61" part="I">Well, we shall sift him. </l>
-            <stage xml:id="stg-1125.1"
-                         n="SD 2.2.61.1"
-                         type="entrance"
-                         who="#Voltemand_Ham #Cornelius_Ham #Polonius_Ham">Enter Ambassadors Voltemand and Cornelius with Polonius. </stage>
+            <stage xml:id="stg-1125.1" n="SD 2.2.61.1" type="entrance" who="#Voltemand_Ham #Cornelius_Ham #Polonius_Ham">Enter Ambassadors Voltemand and Cornelius with Polonius. </stage>
             <l xml:id="ftln-1126" n="2.2.62" part="F">Welcome, my good friends. </l>
             <l xml:id="ftln-1127" n="2.2.63">Say, Voltemand, what from our brother Norway? </l>
           </sp>
@@ -2680,10 +2534,7 @@
             <l xml:id="ftln-1143" n="2.2.79">And his commission to employ those soldiers, </l>
             <l xml:id="ftln-1144" n="2.2.80">So levied as before, against the Polack, </l>
             <l xml:id="ftln-1145" n="2.2.81">With an entreaty, herein further shown, </l>
-            <stage xml:id="stg-1145.1"
-                         n="SD 2.2.81.1"
-                         type="business"
-                         who="#Voltemand_Ham #Claudius_Ham">He gives a paper. </stage>
+            <stage xml:id="stg-1145.1" n="SD 2.2.81.1" type="business" who="#Voltemand_Ham #Claudius_Ham">He gives a paper. </stage>
             <l xml:id="ftln-1146" n="2.2.82">That it might please you to give quiet pass </l>
             <l xml:id="ftln-1147" n="2.2.83">Through your dominions for this enterprise, </l>
             <l xml:id="ftln-1148" n="2.2.84">On such regards of safety and allowance </l>
@@ -2698,10 +2549,7 @@
             <l xml:id="ftln-1154" n="2.2.90">Go to your rest. At night we’ll feast together. </l>
             <l xml:id="ftln-1155" n="2.2.91" part="I">Most welcome home! </l>
           </sp>
-          <stage xml:id="stg-1155.1"
-                      n="SD 2.2.91.1"
-                      type="exit"
-                      who="#Voltemand_Ham #Cornelius_Ham">Voltemand and Cornelius exit. </stage>
+          <stage xml:id="stg-1155.1" n="SD 2.2.91.1" type="exit" who="#Voltemand_Ham #Cornelius_Ham">Voltemand and Cornelius exit. </stage>
           <sp xml:id="sp-1156" who="#Polonius_Ham">
             <speaker xml:id="spk-1156">POLONIUS </speaker>
             <l xml:id="ftln-1156" n="2.2.92" part="F">This business is well ended. </l>
@@ -2751,10 +2599,7 @@
           <sp xml:id="sp-1187" who="#Polonius_Ham">
             <speaker xml:id="spk-1187">POLONIUS </speaker>
             <l xml:id="ftln-1187" n="2.2.123">Good madam, stay awhile. I will be faithful. </l>
-            <stage xml:id="stg-1187.1"
-                         n="2.2.123.1"
-                         type="delivery"
-                         rendition="indentProse">He reads the letter. </stage>
+            <stage xml:id="stg-1187.1" n="2.2.123.1" type="delivery" rendition="indentProse">He reads the letter. </stage>
             <q xml:id="q-1188" type="letter">
               <lg xml:id="stz-1188" type="quatrain">
                 <l xml:id="ftln-1188" n="2.2.124">Doubt thou the stars are fire, </l>
@@ -2861,10 +2706,7 @@
             <speaker xml:id="spk-1246">KING </speaker>
             <l xml:id="ftln-1246" n="2.2.182" part="F">We will try it. </l>
           </sp>
-          <stage xml:id="stg-1246.1"
-                      n="#SD 2.2.182.1"
-                      type="entrance"
-                      who="#Hamlet_Ham">Enter Hamlet reading on a book. </stage>
+          <stage xml:id="stg-1246.1" n="#SD 2.2.182.1" type="entrance" who="#Hamlet_Ham">Enter Hamlet reading on a book. </stage>
           <sp xml:id="sp-1247" who="#Gertrude_Ham">
             <speaker xml:id="spk-1247">QUEEN </speaker>
             <l xml:id="ftln-1247" n="2.2.183">But look where sadly the poor wretch comes reading. </l>
@@ -2873,10 +2715,7 @@
             <speaker xml:id="spk-1249">POLONIUS </speaker>
             <l xml:id="ftln-1249" n="2.2.185">Away, I do beseech you both, away. </l>
             <l xml:id="ftln-1250" n="2.2.186">I’ll board him presently. O, give me leave. </l>
-            <stage xml:id="stg-1250.1"
-                         n="SD 2.2.186.1"
-                         type="exit"
-                         who="#Claudius_Ham #Gertrude_Ham #ATTENDANTS_Ham">King and Queen exit with Attendants. </stage>
+            <stage xml:id="stg-1250.1" n="SD 2.2.186.1" type="exit" who="#Claudius_Ham #Gertrude_Ham #ATTENDANTS_Ham">King and Queen exit with Attendants. </stage>
             <l xml:id="ftln-1251" n="2.2.187" ana="#short">How does my good Lord Hamlet? </l>
           </sp>
           <sp xml:id="sp-1252" who="#Hamlet_Ham">
@@ -2997,10 +2836,7 @@
             <p xml:id="p-1301">
               <lb xml:id="ftln-1301" n="2.2.237"/>These tedious old fools. </p>
           </sp>
-          <stage xml:id="stg-1301.1"
-                      n="SD 2.2.237.1"
-                      type="entrance"
-                      who="#Guildenstern_Ham #Rosencrantz_Ham">Enter Guildenstern and Rosencrantz. </stage>
+          <stage xml:id="stg-1301.1" n="SD 2.2.237.1" type="entrance" who="#Guildenstern_Ham #Rosencrantz_Ham">Enter Guildenstern and Rosencrantz. </stage>
           <sp xml:id="sp-1302" who="#Polonius_Ham">
             <speaker xml:id="spk-1302">POLONIUS </speaker>
             <p xml:id="p-1302">
@@ -3012,10 +2848,7 @@
             <p xml:id="p-1303">
               <lb xml:id="ftln-1303" n="2.2.239"/>God save you, sir. </p>
           </sp>
-          <stage xml:id="stg-1303.1"
-                      n="SD 2.2.239.1"
-                      type="exit"
-                      who="#Polonius_Ham">Polonius exits. </stage>
+          <stage xml:id="stg-1303.1" n="SD 2.2.239.1" type="exit" who="#Polonius_Ham">Polonius exits. </stage>
           <sp xml:id="sp-1304" who="#Guildenstern_Ham">
             <speaker xml:id="spk-1304">GUILDENSTERN </speaker>
             <p xml:id="p-1304">
@@ -3288,10 +3121,7 @@
               <lb xml:id="ftln-1450" n="2.2.386"/>It is not very strange; for my uncle is King of <lb xml:id="ftln-1451" n="2.2.387"/>Denmark, and those that would make mouths at <lb xml:id="ftln-1452" n="2.2.388"/>him while my father lived give twenty, forty, fifty, <lb xml:id="ftln-1453" n="2.2.389"/>a hundred ducats apiece for his picture in little. <lb xml:id="ftln-1454" n="2.2.390"/>’Sblood, there is something in this more than natural, <lb xml:id="ftln-1455" n="2.2.391"/>if philosophy could find it out. </p>
           </sp>
           <stage xml:id="stg-1455.1" n="SD 2.2.391.1" type="business">
-            <stage xml:id="snd-1455.1"
-                         n="SD 2.2.391.1"
-                         type="sound"
-                         ana="flourish">A flourish for the Players. </stage>
+            <stage xml:id="snd-1455.1" n="SD 2.2.391.1" type="sound" ana="flourish">A flourish for the Players. </stage>
           </stage>
           <sp xml:id="sp-1456" who="#Guildenstern_Ham">
             <speaker xml:id="spk-1456">GUILDENSTERN </speaker>
@@ -3313,10 +3143,7 @@
             <p xml:id="p-1466">
               <lb xml:id="ftln-1466" n="2.2.402"/>I am but mad north-north-west. When the <lb xml:id="ftln-1467" n="2.2.403"/>wind is southerly, I know a hawk from a handsaw. </p>
           </sp>
-          <stage xml:id="stg-1467.1"
-                      n="SD 2.2.403.1"
-                      type="entrance"
-                      who="#Polonius_Ham">Enter Polonius. </stage>
+          <stage xml:id="stg-1467.1" n="SD 2.2.403.1" type="entrance" who="#Polonius_Ham">Enter Polonius. </stage>
           <sp xml:id="sp-1468" who="#Polonius_Ham">
             <speaker xml:id="spk-1468">POLONIUS </speaker>
             <p xml:id="p-1468">
@@ -3425,10 +3252,7 @@
             <l xml:id="ftln-1506" n="2.2.442">It came to pass, as most like it was— </l>
             <p xml:id="p-1507">
               <lb xml:id="ftln-1507" n="2.2.443"/>the first row of the pious chanson will show you <lb xml:id="ftln-1508" n="2.2.444"/>more, for look where my abridgment comes. </p>
-            <stage xml:id="stg-1508.1"
-                         n="SD 2.2.444.1"
-                         type="entrance"
-                         who="#PLAYERS_Ham #PLAYERS.1_Ham">Enter the Players. </stage>
+            <stage xml:id="stg-1508.1" n="SD 2.2.444.1" type="entrance" who="#PLAYERS_Ham #PLAYERS.1_Ham">Enter the Players. </stage>
             <p xml:id="p-1509">
               <lb xml:id="ftln-1509" n="2.2.445"/>You are welcome, masters; welcome all.— I am glad <lb xml:id="ftln-1510" n="2.2.446"/>to see thee well.— Welcome, good friends.— O my <lb xml:id="ftln-1511" n="2.2.447"/>old friend! Why, thy face is valanced since I saw thee <lb xml:id="ftln-1512" n="2.2.448"/>last. Com’st thou to beard me in Denmark?— What, <lb xml:id="ftln-1513" n="2.2.449"/>my young lady and mistress! By ’r Lady, your Ladyship <lb xml:id="ftln-1514" n="2.2.450"/>is nearer to heaven than when I saw you last, by <lb xml:id="ftln-1515" n="2.2.451"/>the altitude of a chopine. Pray God your voice, like a <lb xml:id="ftln-1516" n="2.2.452"/>piece of uncurrent gold, be not cracked within the <lb xml:id="ftln-1517" n="2.2.453"/>ring. Masters, you are all welcome. We’ll e’en to ’t <lb xml:id="ftln-1518" n="2.2.454"/>like French falconers, fly at anything we see. We’ll <lb xml:id="ftln-1519" n="2.2.455"/>have a speech straight. Come, give us a taste of your <lb xml:id="ftln-1520" n="2.2.456"/>quality. Come, a passionate speech. </p>
           </sp>
@@ -3568,18 +3392,9 @@
             <speaker xml:id="spk-1625">HAMLET </speaker>
             <p xml:id="p-1625">
               <lb xml:id="ftln-1625" n="2.2.561"/>Follow him, friends. We’ll hear a play <lb xml:id="ftln-1626" n="2.2.562"/>tomorrow. </p>
-            <stage xml:id="stg-1626"
-                         n="SD 2.2.562"
-                         type="mixed"
-                         rendition="inline">
-              <stage xml:id="stg-1626.1a"
-                            n="SD 2.2.562"
-                            type="exit"
-                            who="#Polonius_Ham #PLAYERS_Ham"> As Polonius and Players exit, </stage>
-              <stage xml:id="stg-1626.1b"
-                            n="SD 2.2.562"
-                            type="business"
-                            who="#Hamlet_Ham #PLAYERS.1_Ham">Hamlet speaks to the First Player. </stage>
+            <stage xml:id="stg-1626" n="SD 2.2.562" type="mixed" rendition="inline">
+              <stage xml:id="stg-1626.1a" n="SD 2.2.562" type="exit" who="#Polonius_Ham #PLAYERS_Ham"> As Polonius and Players exit, </stage>
+              <stage xml:id="stg-1626.1b" n="SD 2.2.562" type="business" who="#Hamlet_Ham #PLAYERS.1_Ham">Hamlet speaks to the First Player. </stage>
             </stage>
             <p xml:id="p-1627">
               <lb xml:id="ftln-1627" n="2.2.563"/>Dost thou hear me, old friend? Can <lb xml:id="ftln-1628" n="2.2.564"/>you play “ The Murder of Gonzago”? </p>
@@ -3602,11 +3417,7 @@
           <sp xml:id="sp-1635" who="#Hamlet_Ham">
             <speaker xml:id="spk-1635">HAMLET </speaker>
             <p xml:id="p-1635">
-              <lb xml:id="ftln-1635" n="2.2.571"/>Very well. Follow that lord— and look you <lb xml:id="ftln-1636" n="2.2.572"/>mock him not. <stage xml:id="stg-1636"
-                            n="SD 2.2.572"
-                            type="exit"
-                            rendition="inline"
-                            who="#PLAYERS.1_Ham"> First Player exits. </stage> My good friends, <lb xml:id="ftln-1637" n="2.2.573"/>I’ll leave you till night. You are welcome to Elsinore. </p>
+              <lb xml:id="ftln-1635" n="2.2.571"/>Very well. Follow that lord— and look you <lb xml:id="ftln-1636" n="2.2.572"/>mock him not. <stage xml:id="stg-1636" n="SD 2.2.572" type="exit" rendition="inline" who="#PLAYERS.1_Ham"> First Player exits. </stage> My good friends, <lb xml:id="ftln-1637" n="2.2.573"/>I’ll leave you till night. You are welcome to Elsinore. </p>
           </sp>
           <sp xml:id="sp-1638" who="#Rosencrantz_Ham">
             <speaker xml:id="spk-1638">ROSENCRANTZ </speaker>
@@ -3616,10 +3427,7 @@
           <sp xml:id="sp-1639" who="#Hamlet_Ham">
             <speaker xml:id="spk-1639">HAMLET </speaker>
             <l xml:id="ftln-1639" n="2.2.575" part="I">Ay, so, good-bye to you. </l>
-            <stage xml:id="stg-1639.1"
-                         n="SD 2.2.575.1"
-                         type="exit"
-                         who="#Rosencrantz_Ham #Guildenstern_Ham">Rosencrantz and Guildenstern exit. </stage>
+            <stage xml:id="stg-1639.1" n="SD 2.2.575.1" type="exit" who="#Rosencrantz_Ham #Guildenstern_Ham">Rosencrantz and Guildenstern exit. </stage>
             <l xml:id="ftln-1640" n="2.2.576" part="F">Now I am alone. </l>
             <l xml:id="ftln-1641" n="2.2.577">O, what a rogue and peasant slave am I! </l>
             <l xml:id="ftln-1642" n="2.2.578">Is it not monstrous that this player here, </l>
@@ -3679,20 +3487,14 @@
             <l xml:id="ftln-1697" n="2.2.633">More relative than this. The play’s the thing </l>
             <l xml:id="ftln-1698" n="2.2.634">Wherein I’ll catch the conscience of the King. </l>
           </sp>
-          <stage xml:id="stg-1698.1"
-                      n="SD 2.2.634.1"
-                      type="exit"
-                      who="#Hamlet_Ham">He exits. </stage>
+          <stage xml:id="stg-1698.1" n="SD 2.2.634.1" type="exit" who="#Hamlet_Ham">He exits. </stage>
         </div>
       </div>
       <div type="act" n="3">
         <head>ACT 3 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-1698.2"
-                      n="SD 3.1.0"
-                      type="entrance"
-                      who="#Claudius_Ham #Gertrude_Ham #Polonius_Ham #Ophelia_Ham #Rosencrantz_Ham #Guildenstern_Ham #ATTENDANTS_Ham">Enter King, Queen, Polonius, Ophelia, Rosencrantz, Guildenstern, and Lords. </stage>
+          <stage xml:id="stg-1698.2" n="SD 3.1.0" type="entrance" who="#Claudius_Ham #Gertrude_Ham #Polonius_Ham #Ophelia_Ham #Rosencrantz_Ham #Guildenstern_Ham #ATTENDANTS_Ham">Enter King, Queen, Polonius, Ophelia, Rosencrantz, Guildenstern, and Lords. </stage>
           <sp xml:id="sp-1699" who="#Claudius_Ham">
             <speaker xml:id="spk-1699">KING </speaker>
             <l xml:id="ftln-1699" n="3.1.1">And can you by no drift of conference </l>
@@ -3759,10 +3561,7 @@
             <speaker xml:id="spk-1728">ROSENCRANTZ </speaker>
             <l xml:id="ftln-1728" n="3.1.30" part="I">We shall, my lord. </l>
           </sp>
-          <stage xml:id="stg-1728"
-                      n="SD 3.1.30"
-                      type="exit"
-                      who="#Rosencrantz_Ham #Guildenstern_Ham #ATTENDANTS_Ham">Rosencrantz and Guildenstern and Lords exit. </stage>
+          <stage xml:id="stg-1728" n="SD 3.1.30" type="exit" who="#Rosencrantz_Ham #Guildenstern_Ham #ATTENDANTS_Ham">Rosencrantz and Guildenstern and Lords exit. </stage>
           <sp xml:id="sp-1729" who="#Claudius_Ham">
             <speaker xml:id="spk-1729">KING </speaker>
             <l xml:id="ftln-1729" n="3.1.31" part="F">Sweet Gertrude, leave us too, </l>
@@ -3789,10 +3588,7 @@
             <speaker xml:id="spk-1745">OPHELIA </speaker>
             <l xml:id="ftln-1745" n="3.1.47" part="F">Madam, I wish it may. </l>
           </sp>
-          <stage xml:id="stg-1745.1"
-                      n="SD 3.1.47.1"
-                      type="exit"
-                      who="#Gertrude_Ham">Queen exits. </stage>
+          <stage xml:id="stg-1745.1" n="SD 3.1.47.1" type="exit" who="#Gertrude_Ham">Queen exits. </stage>
           <sp xml:id="sp-1746" who="#Polonius_Ham">
             <speaker xml:id="spk-1746">POLONIUS </speaker>
             <l xml:id="ftln-1746" n="3.1.48">Ophelia, walk you here.— Gracious, so please you, </l>
@@ -3817,14 +3613,8 @@
             <speaker xml:id="spk-1761">POLONIUS </speaker>
             <l xml:id="ftln-1761" n="3.1.63">I hear him coming. Let’s withdraw, my lord. </l>
           </sp>
-          <stage xml:id="stg-1761.1"
-                      n="SD 3.1.63.1"
-                      type="business"
-                      who="#Claudius_Ham #Polonius_Ham">They withdraw. </stage>
-          <stage xml:id="stg-1761.2"
-                      n="SD 3.1.63.2"
-                      type="entrance"
-                      who="#Hamlet_Ham">Enter Hamlet. </stage>
+          <stage xml:id="stg-1761.1" n="SD 3.1.63.1" type="business" who="#Claudius_Ham #Polonius_Ham">They withdraw. </stage>
+          <stage xml:id="stg-1761.2" n="SD 3.1.63.2" type="entrance" who="#Hamlet_Ham">Enter Hamlet. </stage>
           <sp xml:id="sp-1762" who="#Hamlet_Ham">
             <speaker xml:id="spk-1762">HAMLET </speaker>
             <l xml:id="ftln-1762" n="3.1.64">To be or not to be— that is the question: </l>
@@ -3994,10 +3784,7 @@
           </sp>
           <sp xml:id="sp-1874" who="#Claudius_Ham">
             <speaker xml:id="spk-1874">KING </speaker>
-            <stage xml:id="stg-1874.0"
-                         n="SD 3.1.176.0"
-                         type="business"
-                         who="#Claudius_Ham #Polonius_Ham">, advancing with Polonius </stage>
+            <stage xml:id="stg-1874.0" n="SD 3.1.176.0" type="business" who="#Claudius_Ham #Polonius_Ham">, advancing with Polonius </stage>
             <l xml:id="ftln-1874" n="3.1.176">Love? His affections do not that way tend; </l>
             <l xml:id="ftln-1875" n="3.1.177">Nor what he spake, though it lacked form a little, </l>
             <l xml:id="ftln-1876" n="3.1.178">Was not like madness. There’s something in his soul </l>
@@ -4033,17 +3820,11 @@
             <l xml:id="ftln-1900" n="3.1.202" part="F">It shall be so. </l>
             <l xml:id="ftln-1901" n="3.1.203">Madness in great ones must not unwatched go. </l>
           </sp>
-          <stage xml:id="stg-1901.1"
-                      n="SD 3.1.203.1"
-                      type="exit"
-                      who="#Claudius_Ham #Ophelia_Ham #Polonius_Ham">They exit. </stage>
+          <stage xml:id="stg-1901.1" n="SD 3.1.203.1" type="exit" who="#Claudius_Ham #Ophelia_Ham #Polonius_Ham">They exit. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-1901.2"
-                      n="SD 3.2.0"
-                      type="entrance"
-                      who="#Hamlet_Ham #PLAYERS_Ham">Enter Hamlet and three of the Players. </stage>
+          <stage xml:id="stg-1901.2" n="SD 3.2.0" type="entrance" who="#Hamlet_Ham #PLAYERS_Ham">Enter Hamlet and three of the Players. </stage>
           <sp xml:id="sp-1902" who="#Hamlet_Ham">
             <speaker xml:id="spk-1902">HAMLET </speaker>
             <p xml:id="p-1902">
@@ -4068,14 +3849,8 @@
             <speaker xml:id="spk-1941">HAMLET </speaker>
             <p xml:id="p-1941">
               <lb xml:id="ftln-1941" n="3.2.40"/>O, reform it altogether. And let those that play <lb xml:id="ftln-1942" n="3.2.41"/>your clowns speak no more than is set down for <lb xml:id="ftln-1943" n="3.2.42"/>them, for there be of them that will themselves <lb xml:id="ftln-1944" n="3.2.43"/>laugh, to set on some quantity of barren spectators <lb xml:id="ftln-1945" n="3.2.44"/>to laugh too, though in the meantime some necessary <lb xml:id="ftln-1946" n="3.2.45"/>question of the play be then to be considered. <lb xml:id="ftln-1947" n="3.2.46"/>That’s villainous and shows a most pitiful ambition <lb xml:id="ftln-1948" n="3.2.47"/>in the fool that uses it. Go make you ready. </p>
-            <stage xml:id="stg-1948.1"
-                         n="SD 3.2.47.1"
-                         type="exit"
-                         who="#PLAYERS_Ham">Players exit. </stage>
-            <stage xml:id="stg-1948.2"
-                         n="SD 3.2.47.2"
-                         type="entrance"
-                         who="#Polonius_Ham #Guildenstern_Ham #Rosencrantz_Ham">Enter Polonius, Guildenstern, and Rosencrantz. </stage>
+            <stage xml:id="stg-1948.1" n="SD 3.2.47.1" type="exit" who="#PLAYERS_Ham">Players exit. </stage>
+            <stage xml:id="stg-1948.2" n="SD 3.2.47.2" type="entrance" who="#Polonius_Ham #Guildenstern_Ham #Rosencrantz_Ham">Enter Polonius, Guildenstern, and Rosencrantz. </stage>
             <p xml:id="p-1949">
               <lb xml:id="ftln-1949" n="3.2.48"/>How now, my lord, will the King hear this piece of <lb xml:id="ftln-1950" n="3.2.49"/>work? </p>
           </sp>
@@ -4097,19 +3872,13 @@
             <p xml:id="p-1954">
               <lb xml:id="ftln-1954" n="3.2.53"/>Ay, my lord. </p>
           </sp>
-          <stage xml:id="stg-1954"
-                      n="SD 3.2.53"
-                      type="exit"
-                      who="#Rosencrantz_Ham #Guildenstern_Ham">They exit. </stage>
+          <stage xml:id="stg-1954" n="SD 3.2.53" type="exit" who="#Rosencrantz_Ham #Guildenstern_Ham">They exit. </stage>
           <sp xml:id="sp-1955" who="#Hamlet_Ham">
             <speaker xml:id="spk-1955">HAMLET </speaker>
             <p xml:id="p-1955">
               <lb xml:id="ftln-1955" n="3.2.54"/>What ho, Horatio! </p>
           </sp>
-          <stage xml:id="stg-1955.1"
-                      n="SD 3.2.54.1"
-                      type="entrance"
-                      who="#Horatio_Ham">Enter Horatio. </stage>
+          <stage xml:id="stg-1955.1" n="SD 3.2.54.1" type="entrance" who="#Horatio_Ham">Enter Horatio. </stage>
           <sp xml:id="sp-1956" who="#Horatio_Ham">
             <speaker xml:id="spk-1956">HORATIO </speaker>
             <p xml:id="p-1956">
@@ -4173,14 +3942,8 @@
             <p xml:id="p-1997">
               <lb xml:id="ftln-1997" n="3.2.96"/>They are coming to the play. I must be idle. <lb xml:id="ftln-1998" n="3.2.97"/>Get you a place. </p>
           </sp>
-          <stage xml:id="stg-1998.1"
-                      n="SD 3.2.97.1"
-                      type="entrance"
-                      who="#Claudius_Ham #Gertrude_Ham #Polonius_Ham #Ophelia_Ham #Rosencrantz_Ham #Guildenstern_Ham #ATTENDANTS_Ham">
-            <stage xml:id="snd-1998.1"
-                         n="SD 3.2.97.1"
-                         type="sound"
-                         ana="trumpet drum">Enter Trumpets and Kettle Drums. </stage> Enter King, Queen, Polonius, Ophelia, Rosencrantz, Guildenstern, and other Lords attendant with the King’s guard carrying torches. </stage>
+          <stage xml:id="stg-1998.1" n="SD 3.2.97.1" type="entrance" who="#Claudius_Ham #Gertrude_Ham #Polonius_Ham #Ophelia_Ham #Rosencrantz_Ham #Guildenstern_Ham #ATTENDANTS_Ham">
+            <stage xml:id="snd-1998.1" n="SD 3.2.97.1" type="sound" ana="trumpet drum">Enter Trumpets and Kettle Drums. </stage> Enter King, Queen, Polonius, Ophelia, Rosencrantz, Guildenstern, and other Lords attendant with the King’s guard carrying torches. </stage>
           <sp xml:id="sp-1999" who="#Claudius_Ham">
             <speaker xml:id="spk-1999">KING </speaker>
             <p xml:id="p-1999">
@@ -4236,10 +3999,7 @@
             <p xml:id="p-2017">
               <lb xml:id="ftln-2017" n="3.2.116"/>No, good mother. Here’s metal more <lb xml:id="ftln-2018" n="3.2.117"/>attractive. </p>
           </sp>
-          <stage xml:id="stg-2018"
-                      n="SD 3.2.117"
-                      type="business"
-                      who="#Hamlet_Ham">Hamlet takes a place near Ophelia. </stage>
+          <stage xml:id="stg-2018" n="SD 3.2.117" type="business" who="#Hamlet_Ham">Hamlet takes a place near Ophelia. </stage>
           <sp xml:id="sp-2019" who="#Polonius_Ham">
             <speaker xml:id="spk-2019">POLONIUS </speaker>
             <stage xml:id="stg-2019" n="SD 3.2.118" type="delivery">, to the King </stage>
@@ -4323,62 +4083,9 @@
           </sp>
           <stage xml:id="stg-2045.1" n="SD 3.2.144.1" type="business">
             <stage xml:id="snd-2045.1" n="SD 3.2.144.1" type="sound" ana="trumpet">The trumpets sounds. </stage> Dumb show follows. </stage>
-          <stage xml:id="stg-2046"
-                      type="dumbshow"
-                      who="#PLAYERS.King_Ham #PLAYERS.Queen_Ham #PLAYERS.Lucianus_Ham">
-            <milestone unit="ftln"
-                             xml:id="ftln-2046"
-                             n="3.2.145"
-                             ana="#prose"
-                             corresp="#w0317940 #c0317950 #w0317960 #c0317970 #w0317980 #c0317990 #w0318000 #c0318010 #w0318020 #c0318030 #w0318040 #p0318050 #c0318060 #w0318070 #c0318080 #w0318090 #p0318100 #c0318110 #w0318120 #c0318130 #w0318140"/>Enter a King and a Queen, very lovingly, the Queen <milestone unit="ftln"
-                             xml:id="ftln-2047"
-                             n="3.2.146"
-                             ana="#prose"
-                             corresp="#w0318150 #c0318160 #w0318170 #c0318180 #w0318190 #c0318200 #w0318210 #c0318220 #w0318230 #p0318240 #c0318250 #w0318260 #c0318270 #w0318280 #c0318290 #w0318300 #c0318310 #w0318320 #c0318330 #w0318340 #c0318350 #w0318360"/>embracing him and he her. She kneels and makes show of <milestone unit="ftln"
-                             xml:id="ftln-2048"
-                             n="3.2.147"
-                             ana="#prose"
-                             corresp="#w0318370 #c0318380 #w0318390 #c0318400 #w0318410 #p0318420 #c0318430 #w0318440 #c0318450 #w0318460 #c0318470 #w0318480 #c0318490 #w0318500 #c0318510 #w0318520 #c0318530 #w0318540 #c0318550 #w0318560"/>protestation unto him. He takes her up and declines his <milestone unit="ftln"
-                             xml:id="ftln-2049"
-                             n="3.2.148"
-                             ana="#prose"
-                             corresp="#w0318570 #c0318580 #w0318590 #c0318600 #w0318610 #c0318620 #w0318630 #p0318640 #c0318650 #w0318660 #c0318670 #w0318680 #c0318690 #w0318700 #c0318710 #w0318720 #c0318730 #w0318740 #c0318750 #w0318760 #c0318770 #w0318780 #c0318790 #w0318800"/>head upon her neck. He lies him down upon a bank of <milestone unit="ftln"
-                             xml:id="ftln-2050"
-                             n="3.2.149"
-                             ana="#prose"
-                             corresp="#w0318810 #p0318820 #c0318830 #w0318840 #p0318850 #c0318860 #w0318870 #c0318880 #w0318890 #c0318900 #w0318910 #p0318920 #c0318930 #w0318940 #c0318950 #w0318960 #p0318970 #c0318980 #w0318990"/>flowers. She, seeing him asleep, leaves him. Anon <milestone unit="ftln"
-                             xml:id="ftln-2051"
-                             n="3.2.150"
-                             ana="#prose"
-                             corresp="#w0319000 #c0319010 #w0319020 #c0319030 #w0319040 #c0319050 #w0319060 #p0319070 #c0319080 #w0319090 #c0319100 #w0319110 #c0319120 #w0319130 #c0319140 #w0319150 #p0319160 #c0319170 #w0319180 #c0319190 #w0319200 #p0319210 #c0319220 #w0319230"/>comes in another man, takes off his crown, kisses it, pours <milestone unit="ftln"
-                             xml:id="ftln-2052"
-                             n="3.2.151"
-                             ana="#prose"
-                             corresp="#w0319240 #c0319250 #w0319260 #c0319270 #w0319280 #c0319290 #w0319300 #c0319310 #w0319320 #p0319330 #c0319340 #w0319350 #c0319360 #w0319370 #c0319380 #w0319390 #p0319400 #c0319410 #w0319420 #c0319430 #w0319440"/>poison in the sleeper’s ears, and leaves him. The Queen <milestone unit="ftln"
-                             xml:id="ftln-2053"
-                             n="3.2.152"
-                             ana="#prose"
-                             corresp="#w0319450 #p0319460 #c0319470 #w0319480 #c0319490 #w0319500 #c0319510 #w0319520 #c0319530 #w0319540 #p0319550 #c0319560 #w0319570 #c0319580 #w0319590 #c0319600 #w0319610 #p0319620 #c0319630 #w0319640"/>returns, finds the King dead, makes passionate action. The <milestone unit="ftln"
-                             xml:id="ftln-2054"
-                             n="3.2.153"
-                             ana="#prose"
-                             corresp="#w0319650 #c0319660 #w0319670 #c0319680 #w0319690 #c0319700 #w0319710 #c0319720 #w0319730 #c0319740 #w0319750 #c0319760 #w0319770 #c0319780 #w0319790 #c0319800 #w0319810 #p0319820 #c0319830 #w0319840 #c0319850 #w0319860"/>poisoner with some three or four come in again, seem to <milestone unit="ftln"
-                             xml:id="ftln-2055"
-                             n="3.2.154"
-                             ana="#prose"
-                             corresp="#w0319870 #c0319880 #w0319890 #c0319900 #w0319910 #p0319920 #c0319930 #w0319940 #c0319950 #w0319960 #c0319970 #w0319980 #c0319990 #w0320000 #c0320010 #w0320020 #c0320030 #w0320040 #p0320050 #c0320060 #w0320070"/>condole with her. The dead body is carried away. The <milestone unit="ftln"
-                             xml:id="ftln-2056"
-                             n="3.2.155"
-                             ana="#prose"
-                             corresp="#w0320080 #c0320090 #w0320100 #c0320110 #w0320120 #c0320130 #w0320140 #c0320150 #w0320160 #c0320170 #w0320180 #p0320190 #c0320200 #w0320210 #c0320220 #w0320230 #c0320240 #w0320250"/>poisoner woos the Queen with gifts. She seems harsh <milestone unit="ftln"
-                             xml:id="ftln-2057"
-                             n="3.2.156"
-                             ana="#prose"
-                             corresp="#w0320260 #c0320270 #w0320280 #c0320290 #w0320300 #c0320310 #w0320320 #c0320330 #w0320340 #c0320350 #w0320360 #c0320370 #w0320380 #c0320390 #w0320400 #p0320410"/>awhile but in the end accepts his love. </stage>
-          <stage xml:id="stg-2057.1"
-                      n="SD 3.2.156.1"
-                      type="exit"
-                      who="#PLAYERS.King_Ham #PLAYERS.Queen_Ham #PLAYERS.Lucianus_Ham">Players exit. </stage>
+          <stage xml:id="stg-2046" type="dumbshow" who="#PLAYERS.King_Ham #PLAYERS.Queen_Ham #PLAYERS.Lucianus_Ham">
+            <milestone unit="ftln" xml:id="ftln-2046" n="3.2.145" ana="#prose" corresp="#w0317940 #c0317950 #w0317960 #c0317970 #w0317980 #c0317990 #w0318000 #c0318010 #w0318020 #c0318030 #w0318040 #p0318050 #c0318060 #w0318070 #c0318080 #w0318090 #p0318100 #c0318110 #w0318120 #c0318130 #w0318140"/>Enter a King and a Queen, very lovingly, the Queen <milestone unit="ftln" xml:id="ftln-2047" n="3.2.146" ana="#prose" corresp="#w0318150 #c0318160 #w0318170 #c0318180 #w0318190 #c0318200 #w0318210 #c0318220 #w0318230 #p0318240 #c0318250 #w0318260 #c0318270 #w0318280 #c0318290 #w0318300 #c0318310 #w0318320 #c0318330 #w0318340 #c0318350 #w0318360"/>embracing him and he her. She kneels and makes show of <milestone unit="ftln" xml:id="ftln-2048" n="3.2.147" ana="#prose" corresp="#w0318370 #c0318380 #w0318390 #c0318400 #w0318410 #p0318420 #c0318430 #w0318440 #c0318450 #w0318460 #c0318470 #w0318480 #c0318490 #w0318500 #c0318510 #w0318520 #c0318530 #w0318540 #c0318550 #w0318560"/>protestation unto him. He takes her up and declines his <milestone unit="ftln" xml:id="ftln-2049" n="3.2.148" ana="#prose" corresp="#w0318570 #c0318580 #w0318590 #c0318600 #w0318610 #c0318620 #w0318630 #p0318640 #c0318650 #w0318660 #c0318670 #w0318680 #c0318690 #w0318700 #c0318710 #w0318720 #c0318730 #w0318740 #c0318750 #w0318760 #c0318770 #w0318780 #c0318790 #w0318800"/>head upon her neck. He lies him down upon a bank of <milestone unit="ftln" xml:id="ftln-2050" n="3.2.149" ana="#prose" corresp="#w0318810 #p0318820 #c0318830 #w0318840 #p0318850 #c0318860 #w0318870 #c0318880 #w0318890 #c0318900 #w0318910 #p0318920 #c0318930 #w0318940 #c0318950 #w0318960 #p0318970 #c0318980 #w0318990"/>flowers. She, seeing him asleep, leaves him. Anon <milestone unit="ftln" xml:id="ftln-2051" n="3.2.150" ana="#prose" corresp="#w0319000 #c0319010 #w0319020 #c0319030 #w0319040 #c0319050 #w0319060 #p0319070 #c0319080 #w0319090 #c0319100 #w0319110 #c0319120 #w0319130 #c0319140 #w0319150 #p0319160 #c0319170 #w0319180 #c0319190 #w0319200 #p0319210 #c0319220 #w0319230"/>comes in another man, takes off his crown, kisses it, pours <milestone unit="ftln" xml:id="ftln-2052" n="3.2.151" ana="#prose" corresp="#w0319240 #c0319250 #w0319260 #c0319270 #w0319280 #c0319290 #w0319300 #c0319310 #w0319320 #p0319330 #c0319340 #w0319350 #c0319360 #w0319370 #c0319380 #w0319390 #p0319400 #c0319410 #w0319420 #c0319430 #w0319440"/>poison in the sleeper’s ears, and leaves him. The Queen <milestone unit="ftln" xml:id="ftln-2053" n="3.2.152" ana="#prose" corresp="#w0319450 #p0319460 #c0319470 #w0319480 #c0319490 #w0319500 #c0319510 #w0319520 #c0319530 #w0319540 #p0319550 #c0319560 #w0319570 #c0319580 #w0319590 #c0319600 #w0319610 #p0319620 #c0319630 #w0319640"/>returns, finds the King dead, makes passionate action. The <milestone unit="ftln" xml:id="ftln-2054" n="3.2.153" ana="#prose" corresp="#w0319650 #c0319660 #w0319670 #c0319680 #w0319690 #c0319700 #w0319710 #c0319720 #w0319730 #c0319740 #w0319750 #c0319760 #w0319770 #c0319780 #w0319790 #c0319800 #w0319810 #p0319820 #c0319830 #w0319840 #c0319850 #w0319860"/>poisoner with some three or four come in again, seem to <milestone unit="ftln" xml:id="ftln-2055" n="3.2.154" ana="#prose" corresp="#w0319870 #c0319880 #w0319890 #c0319900 #w0319910 #p0319920 #c0319930 #w0319940 #c0319950 #w0319960 #c0319970 #w0319980 #c0319990 #w0320000 #c0320010 #w0320020 #c0320030 #w0320040 #p0320050 #c0320060 #w0320070"/>condole with her. The dead body is carried away. The <milestone unit="ftln" xml:id="ftln-2056" n="3.2.155" ana="#prose" corresp="#w0320080 #c0320090 #w0320100 #c0320110 #w0320120 #c0320130 #w0320140 #c0320150 #w0320160 #c0320170 #w0320180 #p0320190 #c0320200 #w0320210 #c0320220 #w0320230 #c0320240 #w0320250"/>poisoner woos the Queen with gifts. She seems harsh <milestone unit="ftln" xml:id="ftln-2057" n="3.2.156" ana="#prose" corresp="#w0320260 #c0320270 #w0320280 #c0320290 #w0320300 #c0320310 #w0320320 #c0320330 #w0320340 #c0320350 #w0320360 #c0320370 #w0320380 #c0320390 #w0320400 #p0320410"/>awhile but in the end accepts his love. </stage>
+          <stage xml:id="stg-2057.1" n="SD 3.2.156.1" type="exit" who="#PLAYERS.King_Ham #PLAYERS.Queen_Ham #PLAYERS.Lucianus_Ham">Players exit. </stage>
           <sp xml:id="sp-2058" who="#Ophelia_Ham">
             <speaker xml:id="spk-2058">OPHELIA </speaker>
             <p xml:id="p-2058">
@@ -4394,10 +4101,7 @@
             <p xml:id="p-2061">
               <lb xml:id="ftln-2061" n="3.2.160"/>Belike this show imports the argument of the <lb xml:id="ftln-2062" n="3.2.161"/>play. </p>
           </sp>
-          <stage xml:id="stg-2062.1"
-                      n="SD 3.2.161.1"
-                      type="entrance"
-                      who="#PLAYERS.Prologue_Ham">Enter Prologue. </stage>
+          <stage xml:id="stg-2062.1" n="SD 3.2.161.1" type="entrance" who="#PLAYERS.Prologue_Ham">Enter Prologue. </stage>
           <sp xml:id="sp-2063" who="#Hamlet_Ham">
             <speaker xml:id="spk-2063">HAMLET </speaker>
             <p xml:id="p-2063">
@@ -4424,10 +4128,7 @@
             <l xml:id="ftln-2072" n="3.2.171">Here stooping to your clemency, </l>
             <l xml:id="ftln-2073" n="3.2.172">We beg your hearing patiently. </l>
           </sp>
-          <stage xml:id="stg-2073"
-                      n="SD 3.2.172"
-                      type="exit"
-                      who="#PLAYERS.Prologue_Ham">He exits. </stage>
+          <stage xml:id="stg-2073" n="SD 3.2.172" type="exit" who="#PLAYERS.Prologue_Ham">He exits. </stage>
           <sp xml:id="sp-2074" who="#Hamlet_Ham">
             <speaker xml:id="spk-2074">HAMLET </speaker>
             <p xml:id="p-2074">
@@ -4443,10 +4144,7 @@
             <p xml:id="p-2076">
               <lb xml:id="ftln-2076" n="3.2.175"/>As woman’s love. </p>
           </sp>
-          <stage xml:id="stg-2076.1"
-                      n="SD 3.2.175.1"
-                      type="entrance"
-                      who="#PLAYERS.King_Ham #PLAYERS.Queen_Ham">Enter the Player King and Queen. </stage>
+          <stage xml:id="stg-2076.1" n="SD 3.2.175.1" type="entrance" who="#PLAYERS.King_Ham #PLAYERS.Queen_Ham">Enter the Player King and Queen. </stage>
           <sp xml:id="sp-2077" who="#PLAYERS.King_Ham">
             <speaker xml:id="spk-2077">PLAYER KING </speaker>
             <l xml:id="ftln-2077" n="3.2.176">Full thirty times hath Phoebus’ cart gone round </l>
@@ -4554,19 +4252,13 @@
             <l xml:id="ftln-2150" n="3.2.249">My spirits grow dull, and fain I would beguile </l>
             <l xml:id="ftln-2151" n="3.2.250" part="I">The tedious day with sleep. </l>
           </sp>
-          <stage xml:id="stg-2151"
-                      n="SD 3.2.250.1"
-                      type="business"
-                      who="#PLAYERS.King_Ham">Sleeps. </stage>
+          <stage xml:id="stg-2151" n="SD 3.2.250.1" type="business" who="#PLAYERS.King_Ham">Sleeps. </stage>
           <sp xml:id="sp-2152" who="#PLAYERS.Queen_Ham">
             <speaker xml:id="spk-2152">PLAYER QUEEN </speaker>
             <l xml:id="ftln-2152" n="3.2.251" part="F">Sleep rock thy brain, </l>
             <l xml:id="ftln-2153" n="3.2.252">And never come mischance between us twain. </l>
           </sp>
-          <stage xml:id="stg-2153.1"
-                      n="SD 3.2.252.1"
-                      type="exit"
-                      who="#PLAYERS.Queen_Ham">Player Queen exits. </stage>
+          <stage xml:id="stg-2153.1" n="SD 3.2.252.1" type="exit" who="#PLAYERS.Queen_Ham">Player Queen exits. </stage>
           <sp xml:id="sp-2154" who="#Hamlet_Ham">
             <speaker xml:id="spk-2154">HAMLET </speaker>
             <p xml:id="p-2154">
@@ -4601,10 +4293,7 @@
             <speaker xml:id="spk-2162">HAMLET </speaker>
             <p xml:id="p-2162">
               <lb xml:id="ftln-2162" n="3.2.261"/>“ The Mousetrap.” Marry, how? Tropically. <lb xml:id="ftln-2163" n="3.2.262"/>This play is the image of a murder done in Vienna. <lb xml:id="ftln-2164" n="3.2.263"/>Gonzago is the duke’s name, his wife Baptista. You <lb xml:id="ftln-2165" n="3.2.264"/>shall see anon. ’Tis a knavish piece of work, but <lb xml:id="ftln-2166" n="3.2.265"/>what of that? Your Majesty and we that have free <lb xml:id="ftln-2167" n="3.2.266"/>souls, it touches us not. Let the galled jade wince; <lb xml:id="ftln-2168" n="3.2.267"/>our withers are unwrung. </p>
-            <stage xml:id="stg-2168.1"
-                         n="SD 3.2.267.1"
-                         type="entrance"
-                         who="#PLAYERS.Lucianus_Ham">Enter Lucianus. </stage>
+            <stage xml:id="stg-2168.1" n="SD 3.2.267.1" type="entrance" who="#PLAYERS.Lucianus_Ham">Enter Lucianus. </stage>
             <p xml:id="p-2169">
               <lb xml:id="ftln-2169" n="3.2.268"/>This is one Lucianus, nephew to the king. </p>
           </sp>
@@ -4647,19 +4336,13 @@
             <l xml:id="ftln-2186" n="3.2.285">Thy natural magic and dire property </l>
             <l xml:id="ftln-2187" n="3.2.286">On wholesome life usurp immediately. </l>
           </sp>
-          <stage xml:id="stg-2187.1"
-                      n="SD 3.2.286.1"
-                      type="business"
-                      who="#PLAYERS.Lucianus_Ham #PLAYERS.King_Ham">Pours the poison in his ears. </stage>
+          <stage xml:id="stg-2187.1" n="SD 3.2.286.1" type="business" who="#PLAYERS.Lucianus_Ham #PLAYERS.King_Ham">Pours the poison in his ears. </stage>
           <sp xml:id="sp-2188" who="#Hamlet_Ham">
             <speaker xml:id="spk-2188">HAMLET </speaker>
             <p xml:id="p-2188">
               <lb xml:id="ftln-2188" n="3.2.287"/>He poisons him i’ th’ garden for his estate. His <lb xml:id="ftln-2189" n="3.2.288"/>name’s Gonzago. The story is extant and written in <lb xml:id="ftln-2190" n="3.2.289"/>very choice Italian. You shall see anon how the <lb xml:id="ftln-2191" n="3.2.290"/>murderer gets the love of Gonzago’s wife. </p>
           </sp>
-          <stage xml:id="stg-2191.1"
-                      n="SD 3.2.290.1"
-                      type="business"
-                      who="#Claudius_Ham">Claudius rises. </stage>
+          <stage xml:id="stg-2191.1" n="SD 3.2.290.1" type="business" who="#Claudius_Ham">Claudius rises. </stage>
           <sp xml:id="sp-2192" who="#Ophelia_Ham">
             <speaker xml:id="spk-2192">OPHELIA </speaker>
             <p xml:id="p-2192">
@@ -4690,10 +4373,7 @@
             <p xml:id="p-2197">
               <lb xml:id="ftln-2197" n="3.2.296"/>Lights, lights, lights! </p>
           </sp>
-          <stage xml:id="stg-2197.1"
-                      n="SD 3.2.296.1"
-                      type="exit"
-                      who="#Claudius_Ham #Gertrude_Ham #Ophelia_Ham #Polonius_Ham #Rosencrantz_Ham #Guildenstern_Ham #PLAYERS.King_Ham #PLAYERS.Lucianus_Ham #ATTENDANTS_Ham">All but Hamlet and Horatio exit. </stage>
+          <stage xml:id="stg-2197.1" n="SD 3.2.296.1" type="exit" who="#Claudius_Ham #Gertrude_Ham #Ophelia_Ham #Polonius_Ham #Rosencrantz_Ham #Guildenstern_Ham #PLAYERS.King_Ham #PLAYERS.Lucianus_Ham #ATTENDANTS_Ham">All but Hamlet and Horatio exit. </stage>
           <sp xml:id="sp-2198" who="#Hamlet_Ham">
             <speaker xml:id="spk-2198">HAMLET </speaker>
             <lg xml:id="stz-2198" type="quatrain">
@@ -4755,10 +4435,7 @@
             <p xml:id="p-2222">
               <lb xml:id="ftln-2222" n="3.2.321"/>Come, some music! </p>
           </sp>
-          <stage xml:id="stg-2222.1"
-                      n="SD 3.2.321.1"
-                      type="entrance"
-                      who="#Rosencrantz_Ham #Guildenstern_Ham">Enter Rosencrantz and Guildenstern. </stage>
+          <stage xml:id="stg-2222.1" n="SD 3.2.321.1" type="entrance" who="#Rosencrantz_Ham #Guildenstern_Ham">Enter Rosencrantz and Guildenstern. </stage>
           <sp xml:id="sp-2223" who="#Guildenstern_Ham">
             <speaker xml:id="spk-2223">GUILDENSTERN </speaker>
             <p xml:id="p-2223">
@@ -4888,17 +4565,10 @@
             <speaker xml:id="spk-2273">HAMLET </speaker>
             <p xml:id="p-2273">
               <lb xml:id="ftln-2273" n="3.2.372"/>Ay, sir, but “ While the grass grows”— the <lb xml:id="ftln-2274" n="3.2.373"/>proverb is something musty. </p>
-            <stage xml:id="stg-2274.1"
-                         n="SD 3.2.373.1"
-                         type="entrance"
-                         who="#PLAYERS_Ham">Enter the Players with recorders. </stage>
+            <stage xml:id="stg-2274.1" n="SD 3.2.373.1" type="entrance" who="#PLAYERS_Ham">Enter the Players with recorders. </stage>
             <p xml:id="p-2275">
               <lb xml:id="ftln-2275" n="3.2.374"/>O, the recorders! Let me see one. </p>
-            <stage xml:id="stg-2275"
-                         n="3.2.374"
-                         type="business"
-                         rendition="inline"
-                         who="#Hamlet_Ham"> He takes a recorder and turns to Guildenstern. </stage>
+            <stage xml:id="stg-2275" n="3.2.374" type="business" rendition="inline" who="#Hamlet_Ham"> He takes a recorder and turns to Guildenstern. </stage>
             <p xml:id="p-2276">
               <lb xml:id="ftln-2276" n="3.2.375"/>To withdraw <lb xml:id="ftln-2277" n="3.2.376"/>with you: why do you go about to recover the wind <lb xml:id="ftln-2278" n="3.2.377"/>of me, as if you would drive me into a toil? </p>
           </sp>
@@ -4951,10 +4621,7 @@
             <speaker xml:id="spk-2294">HAMLET </speaker>
             <p xml:id="p-2294">
               <lb xml:id="ftln-2294" n="3.2.393"/>Why, look you now, how unworthy a thing <lb xml:id="ftln-2295" n="3.2.394"/>you make of me! You would play upon me, you <lb xml:id="ftln-2296" n="3.2.395"/>would seem to know my stops, you would pluck <lb xml:id="ftln-2297" n="3.2.396"/>out the heart of my mystery, you would sound me <lb xml:id="ftln-2298" n="3.2.397"/>from my lowest note to the top of my compass; <lb xml:id="ftln-2299" n="3.2.398"/>and there is much music, excellent voice, in this <lb xml:id="ftln-2300" n="3.2.399"/>little organ, yet cannot you make it speak. ’Sblood, <lb xml:id="ftln-2301" n="3.2.400"/>do you think I am easier to be played on than a pipe? <lb xml:id="ftln-2302" n="3.2.401"/>Call me what instrument you will, though you can <lb xml:id="ftln-2303" n="3.2.402"/>fret me, you cannot play upon me. </p>
-            <stage xml:id="stg-2303.1"
-                         n="SD 3.2.402.1"
-                         type="entrance"
-                         who="#Polonius_Ham">Enter Polonius. </stage>
+            <stage xml:id="stg-2303.1" n="SD 3.2.402.1" type="entrance" who="#Polonius_Ham">Enter Polonius. </stage>
             <p xml:id="p-2304">
               <lb xml:id="ftln-2304" n="3.2.403"/>God bless you, sir. </p>
           </sp>
@@ -5008,10 +4675,7 @@
             <speaker xml:id="spk-2318">HAMLET </speaker>
             <p xml:id="p-2318">
               <lb xml:id="ftln-2318" n="3.2.417"/>“ By and by” is easily said. Leave me, <lb xml:id="ftln-2319" n="3.2.418"/>friends. </p>
-            <stage xml:id="stg-2319.1"
-                         n="SD 3.2.418.1"
-                         type="exit"
-                         who="#Horatio_Ham #Rosencrantz_Ham #Guildenstern_Ham #Polonius_Ham #PLAYERS_Ham">All but Hamlet exit. </stage>
+            <stage xml:id="stg-2319.1" n="SD 3.2.418.1" type="exit" who="#Horatio_Ham #Rosencrantz_Ham #Guildenstern_Ham #Polonius_Ham #PLAYERS_Ham">All but Hamlet exit. </stage>
             <l xml:id="ftln-2320" n="3.2.419">’Tis now the very witching time of night, </l>
             <l xml:id="ftln-2321" n="3.2.420">When churchyards yawn and hell itself breathes out </l>
             <l xml:id="ftln-2323" n="3.2.422">Contagion to this world. Now could I drink hot blood </l>
@@ -5025,17 +4689,11 @@
             <l xml:id="ftln-2332" n="3.2.431">How in my words somever she be shent, </l>
             <l xml:id="ftln-2333" n="3.2.432">To give them seals never, my soul, consent. </l>
           </sp>
-          <stage xml:id="stg-2333.1"
-                      n="SD 3.2.432.1"
-                      type="exit"
-                      who="#Hamlet_Ham">He exits. </stage>
+          <stage xml:id="stg-2333.1" n="SD 3.2.432.1" type="exit" who="#Hamlet_Ham">He exits. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-2333.2"
-                      n="SD 3.3.0"
-                      type="entrance"
-                      who="#Claudius_Ham #Rosencrantz_Ham #Guildenstern_Ham">Enter King, Rosencrantz, and Guildenstern. </stage>
+          <stage xml:id="stg-2333.2" n="SD 3.3.0" type="entrance" who="#Claudius_Ham #Rosencrantz_Ham #Guildenstern_Ham">Enter King, Rosencrantz, and Guildenstern. </stage>
           <sp xml:id="sp-2334" who="#Claudius_Ham">
             <speaker xml:id="spk-2334">KING </speaker>
             <l xml:id="ftln-2334" n="3.3.1">I like him not, nor stands it safe with us </l>
@@ -5079,14 +4737,8 @@
             <speaker xml:id="spk-2361">ROSENCRANTZ </speaker>
             <l xml:id="ftln-2361" n="3.3.28" part="F">We will haste us. </l>
           </sp>
-          <stage xml:id="stg-2361.1"
-                      n="SD 3.3.28.1"
-                      type="exit"
-                      who="#Rosencrantz_Ham #Guildenstern_Ham">Rosencrantz and Guildenstern exit. </stage>
-          <stage xml:id="stg-2361.2"
-                      n="SD 3.3.28.2"
-                      type="entrance"
-                      who="#Polonius_Ham">Enter Polonius. </stage>
+          <stage xml:id="stg-2361.1" n="SD 3.3.28.1" type="exit" who="#Rosencrantz_Ham #Guildenstern_Ham">Rosencrantz and Guildenstern exit. </stage>
+          <stage xml:id="stg-2361.2" n="SD 3.3.28.2" type="entrance" who="#Polonius_Ham">Enter Polonius. </stage>
           <sp xml:id="sp-2362" who="#Polonius_Ham">
             <speaker xml:id="spk-2362">POLONIUS </speaker>
             <l xml:id="ftln-2362" n="3.3.29">My lord, he’s going to his mother’s closet. </l>
@@ -5102,10 +4754,7 @@
           <sp xml:id="sp-2372" who="#Claudius_Ham">
             <speaker xml:id="spk-2372">KING </speaker>
             <l xml:id="ftln-2372" n="3.3.39" part="F">Thanks, dear my lord. </l>
-            <stage xml:id="stg-2372.1"
-                         n="SD 3.3.39.1"
-                         type="exit"
-                         who="#Polonius_Ham">Polonius exits. </stage>
+            <stage xml:id="stg-2372.1" n="SD 3.3.39.1" type="exit" who="#Polonius_Ham">Polonius exits. </stage>
             <l xml:id="ftln-2373" n="3.3.40">O, my offense is rank, it smells to heaven; </l>
             <l xml:id="ftln-2374" n="3.3.41">It hath the primal eldest curse upon ’t, </l>
             <l xml:id="ftln-2375" n="3.3.42">A brother’s murder. Pray can I not, </l>
@@ -5144,22 +4793,13 @@
             <l xml:id="ftln-2408" n="3.3.75">Be soft as sinews of the newborn babe. </l>
             <l xml:id="ftln-2409" n="3.3.76" ana="#short">All may be well. </l>
           </sp>
-          <stage xml:id="stg-2409"
-                      n="SD 3.3.76"
-                      type="business"
-                      who="#Claudius_Ham">He kneels. </stage>
-          <stage xml:id="stg-2409.1"
-                      n="SD 3.3.76.1"
-                      type="entrance"
-                      who="#Hamlet_Ham">Enter Hamlet. </stage>
+          <stage xml:id="stg-2409" n="SD 3.3.76" type="business" who="#Claudius_Ham">He kneels. </stage>
+          <stage xml:id="stg-2409.1" n="SD 3.3.76.1" type="entrance" who="#Hamlet_Ham">Enter Hamlet. </stage>
           <sp xml:id="sp-2410" who="#Hamlet_Ham">
             <speaker xml:id="spk-2410">HAMLET </speaker>
             <l xml:id="ftln-2410" n="3.3.77">Now might I do it pat, now he is a-praying, </l>
             <l xml:id="ftln-2411" n="3.3.78" part="I">And now I’ll do ’t. </l>
-            <stage xml:id="stg-2411"
-                         n="SD 3.3.78"
-                         type="business"
-                         who="#Hamlet_Ham">He draws his sword. </stage>
+            <stage xml:id="stg-2411" n="SD 3.3.78" type="business" who="#Hamlet_Ham">He draws his sword. </stage>
             <l xml:id="ftln-2412" n="3.3.79" part="F">And so he goes to heaven, </l>
             <l xml:id="ftln-2413" n="3.3.80">And so am I revenged. That would be scanned: </l>
             <l xml:id="ftln-2414" n="3.3.81">A villain kills my father, and for that, </l>
@@ -5175,10 +4815,7 @@
             <l xml:id="ftln-2424" n="3.3.91">When he is fit and seasoned for his passage? </l>
             <l xml:id="ftln-2425" n="3.3.92" ana="#short">No. </l>
             <l xml:id="ftln-2426" n="3.3.93">Up sword, and know thou a more horrid hent. </l>
-            <stage xml:id="stg-2426.1"
-                         n="SD 3.3.93.1"
-                         type="business"
-                         who="#Hamlet_Ham">He sheathes his sword. </stage>
+            <stage xml:id="stg-2426.1" n="SD 3.3.93.1" type="business" who="#Hamlet_Ham">He sheathes his sword. </stage>
             <l xml:id="ftln-2427" n="3.3.94">When he is drunk asleep, or in his rage, </l>
             <l xml:id="ftln-2428" n="3.3.95">Or in th’ incestuous pleasure of his bed, </l>
             <l xml:id="ftln-2429" n="3.3.96">At game, a-swearing, or about some act </l>
@@ -5188,30 +4825,18 @@
             <l xml:id="ftln-2433" n="3.3.100">As hell, whereto it goes. My mother stays. </l>
             <l xml:id="ftln-2434" n="3.3.101">This physic but prolongs thy sickly days. </l>
           </sp>
-          <stage xml:id="stg-2434.1"
-                      n="SD 3.3.101.1"
-                      type="exit"
-                      who="#Hamlet_Ham">Hamlet exits. </stage>
+          <stage xml:id="stg-2434.1" n="SD 3.3.101.1" type="exit" who="#Hamlet_Ham">Hamlet exits. </stage>
           <sp xml:id="sp-2435" who="#Claudius_Ham">
             <speaker xml:id="spk-2435">KING </speaker>
-            <stage xml:id="stg-2435.0"
-                         n="SD 3.3.102.0"
-                         type="business"
-                         who="#Claudius_Ham">, rising </stage>
+            <stage xml:id="stg-2435.0" n="SD 3.3.102.0" type="business" who="#Claudius_Ham">, rising </stage>
             <l xml:id="ftln-2435" n="3.3.102">My words fly up, my thoughts remain below; </l>
             <l xml:id="ftln-2436" n="3.3.103">Words without thoughts never to heaven go. </l>
           </sp>
-          <stage xml:id="stg-2436.1"
-                      n="SD 3.3.103.1"
-                      type="exit"
-                      who="#Claudius_Ham">He exits. </stage>
+          <stage xml:id="stg-2436.1" n="SD 3.3.103.1" type="exit" who="#Claudius_Ham">He exits. </stage>
         </div>
         <div type="scene" n="4">
           <head>Scene 4 </head>
-          <stage xml:id="stg-2436.2"
-                      n="SD 3.4.0"
-                      type="entrance"
-                      who="#Gertrude_Ham #Polonius_Ham">Enter Queen and Polonius. </stage>
+          <stage xml:id="stg-2436.2" n="SD 3.4.0" type="entrance" who="#Gertrude_Ham #Polonius_Ham">Enter Queen and Polonius. </stage>
           <sp xml:id="sp-2437" who="#Polonius_Ham">
             <speaker xml:id="spk-2437">POLONIUS </speaker>
             <l xml:id="ftln-2437" n="3.4.1">He will come straight. Look you lay home to him. </l>
@@ -5231,14 +4856,8 @@
             <p xml:id="p-2445">
               <lb xml:id="ftln-2445" n="3.4.9"/>I’ll warrant you. Fear me not. Withdraw, <lb xml:id="ftln-2446" n="3.4.10"/>I hear him coming. </p>
           </sp>
-          <stage xml:id="stg-2446.1"
-                      n="SD 3.4.10.1"
-                      type="business"
-                      who="#Polonius_Ham">Polonius hides behind the arras. </stage>
-          <stage xml:id="stg-2446.2"
-                      n="SD 3.4.10.2"
-                      type="entrance"
-                      who="#Hamlet_Ham">Enter Hamlet. </stage>
+          <stage xml:id="stg-2446.1" n="SD 3.4.10.1" type="business" who="#Polonius_Ham">Polonius hides behind the arras. </stage>
+          <stage xml:id="stg-2446.2" n="SD 3.4.10.2" type="entrance" who="#Hamlet_Ham">Enter Hamlet. </stage>
           <sp xml:id="sp-2447" who="#Hamlet_Ham">
             <speaker xml:id="spk-2447">HAMLET </speaker>
             <p xml:id="p-2447">
@@ -5302,10 +4921,7 @@
             <speaker xml:id="spk-2465">HAMLET </speaker>
             <l xml:id="ftln-2465" n="3.4.29">How now, a rat? Dead for a ducat, dead. </l>
           </sp>
-          <stage xml:id="stg-2465.1"
-                      n="SD 3.4.29.1"
-                      type="business"
-                      who="#Hamlet_Ham #Polonius_Ham">He kills Polonius by thrusting a rapier through the arras. </stage>
+          <stage xml:id="stg-2465.1" n="SD 3.4.29.1" type="business" who="#Hamlet_Ham #Polonius_Ham">He kills Polonius by thrusting a rapier through the arras. </stage>
           <sp xml:id="sp-2466" who="#Polonius_Ham">
             <speaker xml:id="spk-2466">POLONIUS </speaker>
             <stage xml:id="stg-2466.0" n="SD 3.4.30.0" type="location">, behind the arras </stage>
@@ -5335,10 +4951,7 @@
           <sp xml:id="sp-2473" who="#Hamlet_Ham">
             <speaker xml:id="spk-2473">HAMLET </speaker>
             <l xml:id="ftln-2473" n="3.4.37" part="F">Ay, lady, it was my word. </l>
-            <stage xml:id="stg-2473.1"
-                         n="SD 3.4.37.1"
-                         type="business"
-                         who="#Hamlet_Ham #Polonius_Ham">He pulls Polonius’ body from behind the arras. </stage>
+            <stage xml:id="stg-2473.1" n="SD 3.4.37.1" type="business" who="#Hamlet_Ham #Polonius_Ham">He pulls Polonius’ body from behind the arras. </stage>
             <l xml:id="ftln-2474" n="3.4.38">Thou wretched, rash, intruding fool, farewell. </l>
             <l xml:id="ftln-2475" n="3.4.39">I took thee for thy better. Take thy fortune. </l>
             <l xml:id="ftln-2476" n="3.4.40">Thou find’st to be too busy is some danger. </l>
@@ -5449,10 +5062,7 @@
           <sp xml:id="sp-2553" who="#Hamlet_Ham">
             <speaker xml:id="spk-2553">HAMLET </speaker>
             <l xml:id="ftln-2553" n="3.4.117" ana="#short">A king of shreds and patches— </l>
-            <stage xml:id="stg-2553.1"
-                         n="SD 3.4.117.1"
-                         type="entrance"
-                         who="#Ghost_Ham">Enter Ghost. </stage>
+            <stage xml:id="stg-2553.1" n="SD 3.4.117.1" type="entrance" who="#Ghost_Ham">Enter Ghost. </stage>
             <l xml:id="ftln-2554" n="3.4.118">Save me and hover o’er me with your wings, </l>
             <l xml:id="ftln-2555" n="3.4.119">You heavenly guards!— What would your gracious figure? </l>
           </sp>
@@ -5527,10 +5137,7 @@
             <l xml:id="ftln-2591" n="3.4.155">My father, in his habit as he lived! </l>
             <l xml:id="ftln-2592" n="3.4.156">Look where he goes even now out at the portal! </l>
           </sp>
-          <stage xml:id="stg-2592.1"
-                      n="SD 3.4.156.1"
-                      type="exit"
-                      who="#Ghost_Ham">Ghost exits. </stage>
+          <stage xml:id="stg-2592.1" n="SD 3.4.156.1" type="exit" who="#Ghost_Ham">Ghost exits. </stage>
           <sp xml:id="sp-2593" who="#Gertrude_Ham">
             <speaker xml:id="spk-2593">QUEEN </speaker>
             <l xml:id="ftln-2593" n="3.4.157">This is the very coinage of your brain. </l>
@@ -5579,10 +5186,7 @@
             <l xml:id="ftln-2627" n="3.4.191">With wondrous potency. Once more, good night, </l>
             <l xml:id="ftln-2628" n="3.4.192">And, when you are desirous to be blest, </l>
             <l xml:id="ftln-2629" n="3.4.193">I’ll blessing beg of you. For this same lord </l>
-            <stage xml:id="stg-2629.1"
-                         n="SD 3.4.193.1"
-                         type="business"
-                         who="#Hamlet_Ham">Pointing to Polonius. </stage>
+            <stage xml:id="stg-2629.1" n="SD 3.4.193.1" type="business" who="#Hamlet_Ham">Pointing to Polonius. </stage>
             <l xml:id="ftln-2630" n="3.4.194">I do repent; but heaven hath pleased it so </l>
             <l xml:id="ftln-2631" n="3.4.195">To punish me with this and this with me, </l>
             <l xml:id="ftln-2632" n="3.4.196">That I must be their scourge and minister. </l>
@@ -5649,20 +5253,14 @@
             <l xml:id="ftln-2675" n="3.4.239">Come, sir, to draw toward an end with you.— </l>
             <l xml:id="ftln-2676" n="3.4.240" ana="#short">Good night, mother. </l>
           </sp>
-          <stage xml:id="stg-2676.1"
-                      n="SD 3.4.240.1"
-                      type="exit"
-                      who="#Gertrude_Ham #Hamlet_Ham #Polonius_Ham">They exit, Hamlet tugging in Polonius. </stage>
+          <stage xml:id="stg-2676.1" n="SD 3.4.240.1" type="exit" who="#Gertrude_Ham #Hamlet_Ham #Polonius_Ham">They exit, Hamlet tugging in Polonius. </stage>
         </div>
       </div>
       <div type="act" n="4">
         <head>ACT 4 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-2676.2"
-                      n="SD 4.1.0"
-                      type="entrance"
-                      who="#Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Rosencrantz_Ham">Enter King and Queen, with Rosencrantz and Guildenstern. </stage>
+          <stage xml:id="stg-2676.2" n="SD 4.1.0" type="entrance" who="#Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Rosencrantz_Ham">Enter King and Queen, with Rosencrantz and Guildenstern. </stage>
           <sp xml:id="sp-2677" who="#Claudius_Ham">
             <speaker xml:id="spk-2677">KING </speaker>
             <l xml:id="ftln-2677" n="4.1.1">There’s matter in these sighs; these profound heaves </l>
@@ -5672,10 +5270,7 @@
           <sp xml:id="sp-2680" who="#Gertrude_Ham">
             <speaker xml:id="spk-2680">QUEEN </speaker>
             <l xml:id="ftln-2680" n="4.1.4">Bestow this place on us a little while. </l>
-            <stage xml:id="stg-2680.1"
-                         n="SD 4.1.4.1"
-                         type="exit"
-                         who="#Guildenstern_Ham #Rosencrantz_Ham">Rosencrantz and Guildenstern exit. </stage>
+            <stage xml:id="stg-2680.1" n="SD 4.1.4.1" type="exit" who="#Guildenstern_Ham #Rosencrantz_Ham">Rosencrantz and Guildenstern exit. </stage>
             <l xml:id="ftln-2681" n="4.1.5">Ah, mine own lord, what have I seen tonight! </l>
           </sp>
           <sp xml:id="sp-2682" who="#Claudius_Ham">
@@ -5720,19 +5315,13 @@
             <l xml:id="ftln-2707" n="4.1.31">But we will ship him hence; and this vile deed </l>
             <l xml:id="ftln-2708" n="4.1.32">We must with all our majesty and skill </l>
             <l xml:id="ftln-2709" n="4.1.33">Both countenance and excuse.— Ho, Guildenstern! </l>
-            <stage xml:id="stg-2709.1"
-                         n="SD 4.1.33.1"
-                         type="entrance"
-                         who="#Guildenstern_Ham #Rosencrantz_Ham">Enter Rosencrantz and Guildenstern. </stage>
+            <stage xml:id="stg-2709.1" n="SD 4.1.33.1" type="entrance" who="#Guildenstern_Ham #Rosencrantz_Ham">Enter Rosencrantz and Guildenstern. </stage>
             <l xml:id="ftln-2710" n="4.1.34">Friends both, go join you with some further aid. </l>
             <l xml:id="ftln-2711" n="4.1.35">Hamlet in madness hath Polonius slain, </l>
             <l xml:id="ftln-2712" n="4.1.36">And from his mother’s closet hath he dragged him. </l>
             <l xml:id="ftln-2713" n="4.1.37">Go seek him out, speak fair, and bring the body </l>
             <l xml:id="ftln-2714" n="4.1.38">Into the chapel. I pray you, haste in this. </l>
-            <stage xml:id="stg-2714.1"
-                         n="SD 4.1.38.1"
-                         type="exit"
-                         who="#Guildenstern_Ham #Rosencrantz_Ham">Rosencrantz and Guildenstern exit. </stage>
+            <stage xml:id="stg-2714.1" n="SD 4.1.38.1" type="exit" who="#Guildenstern_Ham #Rosencrantz_Ham">Rosencrantz and Guildenstern exit. </stage>
             <l xml:id="ftln-2715" n="4.1.39">Come, Gertrude, we’ll call up our wisest friends </l>
             <l xml:id="ftln-2716" n="4.1.40">And let them know both what we mean to do </l>
             <l xml:id="ftln-2717" n="4.1.41" ana="#short">And what’s untimely done. <gap xml:id="fs-ham-0422920" n="4.1.41"/>
@@ -5743,17 +5332,11 @@
             <l xml:id="ftln-2721" n="4.1.45">And hit the woundless air. O, come away! </l>
             <l xml:id="ftln-2722" n="4.1.46">My soul is full of discord and dismay. </l>
           </sp>
-          <stage xml:id="stg-2722.1"
-                      n="SD 4.1.46.1"
-                      type="exit"
-                      who="#Claudius_Ham #Gertrude_Ham">They exit. </stage>
+          <stage xml:id="stg-2722.1" n="SD 4.1.46.1" type="exit" who="#Claudius_Ham #Gertrude_Ham">They exit. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-2722.2"
-                      n="SD 4.2.0"
-                      type="entrance"
-                      who="#Hamlet_Ham">Enter Hamlet. </stage>
+          <stage xml:id="stg-2722.2" n="SD 4.2.0" type="entrance" who="#Hamlet_Ham">Enter Hamlet. </stage>
           <sp xml:id="sp-2723" who="#Hamlet_Ham">
             <speaker xml:id="spk-2723">HAMLET </speaker>
             <p xml:id="p-2723">
@@ -5770,10 +5353,7 @@
             <p xml:id="p-2725">
               <lb xml:id="ftln-2725" n="4.2.3"/>But soft, what noise? Who calls on Hamlet? <lb xml:id="ftln-2726" n="4.2.4"/>O, here they come. </p>
           </sp>
-          <stage xml:id="stg-2726.1"
-                      n="SD 4.2.4.1"
-                      type="entrance"
-                      who="#Guildenstern_Ham #Rosencrantz_Ham #ATTENDANTS.GUARDS_Ham">Enter Rosencrantz, Guildenstern, and others. </stage>
+          <stage xml:id="stg-2726.1" n="SD 4.2.4.1" type="entrance" who="#Guildenstern_Ham #Rosencrantz_Ham #ATTENDANTS.GUARDS_Ham">Enter Rosencrantz, Guildenstern, and others. </stage>
           <sp xml:id="sp-2727" who="#Rosencrantz_Ham">
             <speaker xml:id="spk-2727">ROSENCRANTZ </speaker>
             <l xml:id="ftln-2727" n="4.2.5">What have you done, my lord, with the dead body? </l>
@@ -5842,17 +5422,11 @@
             <p xml:id="p-2752">
               <lb xml:id="ftln-2752" n="4.2.30"/>Of nothing. Bring me to him. Hide fox, and <lb xml:id="ftln-2753" n="4.2.31"/>all after! </p>
           </sp>
-          <stage xml:id="stg-2753.1"
-                      n="SD 4.2.31.1"
-                      type="exit"
-                      who="#Hamlet_Ham #Guildenstern_Ham #Rosencrantz_Ham #ATTENDANTS.GUARDS_Ham">They exit. </stage>
+          <stage xml:id="stg-2753.1" n="SD 4.2.31.1" type="exit" who="#Hamlet_Ham #Guildenstern_Ham #Rosencrantz_Ham #ATTENDANTS.GUARDS_Ham">They exit. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-2753.2"
-                      n="SD 4.3.0"
-                      type="entrance"
-                      who="#Claudius_Ham #ATTENDANTS_Ham">Enter King and two or three. </stage>
+          <stage xml:id="stg-2753.2" n="SD 4.3.0" type="entrance" who="#Claudius_Ham #ATTENDANTS_Ham">Enter King and two or three. </stage>
           <sp xml:id="sp-2754" who="#Claudius_Ham">
             <speaker xml:id="spk-2754">KING </speaker>
             <l xml:id="ftln-2754" n="4.3.1">I have sent to seek him and to find the body. </l>
@@ -5866,10 +5440,7 @@
             <l xml:id="ftln-2762" n="4.3.9">Deliberate pause. Diseases desperate grown </l>
             <l xml:id="ftln-2763" n="4.3.10">By desperate appliance are relieved </l>
             <l xml:id="ftln-2764" n="4.3.11" part="I">Or not at all. </l>
-            <stage xml:id="stg-2764.1"
-                         n="SD 4.3.11.1"
-                         type="entrance"
-                         who="#Rosencrantz_Ham">Enter Rosencrantz. </stage>
+            <stage xml:id="stg-2764.1" n="SD 4.3.11.1" type="entrance" who="#Rosencrantz_Ham">Enter Rosencrantz. </stage>
             <l xml:id="ftln-2765" n="4.3.12" part="F">How now, what hath befallen? </l>
           </sp>
           <sp xml:id="sp-2766" who="#Rosencrantz_Ham">
@@ -5893,10 +5464,7 @@
             <speaker xml:id="spk-2771">ROSENCRANTZ </speaker>
             <l xml:id="ftln-2771" n="4.3.18" part="F">Ho! Bring in the lord. </l>
           </sp>
-          <stage xml:id="stg-2771.1"
-                      n="SD 4.3.18.1"
-                      type="entrance"
-                      who="#Hamlet_Ham #Guildenstern_Ham #ATTENDANTS.GUARDS_Ham">They enter with Hamlet. </stage>
+          <stage xml:id="stg-2771.1" n="SD 4.3.18.1" type="entrance" who="#Hamlet_Ham #Guildenstern_Ham #ATTENDANTS.GUARDS_Ham">They enter with Hamlet. </stage>
           <sp xml:id="sp-2772" who="#Claudius_Ham">
             <speaker xml:id="spk-2772">KING </speaker>
             <p xml:id="p-2772">
@@ -5958,10 +5526,7 @@
             <p xml:id="p-2796">
               <lb xml:id="ftln-2796" n="4.3.43"/>He will stay till you come. </p>
           </sp>
-          <stage xml:id="stg-2796"
-                      n="SD 4.3.43"
-                      type="exit"
-                      who="#ATTENDANTS_Ham">Attendants exit. </stage>
+          <stage xml:id="stg-2796" n="SD 4.3.43" type="exit" who="#ATTENDANTS_Ham">Attendants exit. </stage>
           <sp xml:id="sp-2797" who="#Claudius_Ham">
             <speaker xml:id="spk-2797">KING </speaker>
             <l xml:id="ftln-2797" n="4.3.44">Hamlet, this deed, for thine especial safety </l>
@@ -6010,10 +5575,7 @@
             <l xml:id="ftln-2817" n="4.3.64">Delay it not. I’ll have him hence tonight. </l>
             <l xml:id="ftln-2818" n="4.3.65">Away, for everything is sealed and done </l>
             <l xml:id="ftln-2819" n="4.3.66">That else leans on th’ affair. Pray you, make haste. </l>
-            <stage xml:id="stg-2819.1"
-                         n="SD 4.3.66.1"
-                         type="exit"
-                         who="#Rosencrantz_Ham #Guildenstern_Ham #ATTENDANTS.GUARDS_Ham">All but the King exit. </stage>
+            <stage xml:id="stg-2819.1" n="SD 4.3.66.1" type="exit" who="#Rosencrantz_Ham #Guildenstern_Ham #ATTENDANTS.GUARDS_Ham">All but the King exit. </stage>
             <l xml:id="ftln-2820" n="4.3.67">And England, if my love thou hold’st at aught </l>
             <l xml:id="ftln-2821" n="4.3.68">( As my great power thereof may give thee sense, </l>
             <l xml:id="ftln-2822" n="4.3.69">Since yet thy cicatrice looks raw and red </l>
@@ -6026,17 +5588,11 @@
             <l xml:id="ftln-2829" n="4.3.76">And thou must cure me. Till I know ’tis done, </l>
             <l xml:id="ftln-2830" n="4.3.77">Howe’er my haps, my joys will ne’er begin. </l>
           </sp>
-          <stage xml:id="stg-2830.1"
-                      n="SD 4.3.77.1"
-                      type="exit"
-                      who="#Claudius_Ham">He exits. </stage>
+          <stage xml:id="stg-2830.1" n="SD 4.3.77.1" type="exit" who="#Claudius_Ham">He exits. </stage>
         </div>
         <div type="scene" n="4">
           <head>Scene 4 </head>
-          <stage xml:id="stg-2830.2"
-                      n="SD 4.4.0"
-                      type="entrance"
-                      who="#Fortinbras_Ham #SOLDIERS.FORTINBRAS.Captain_Ham #SOLDIERS.FORTINBRAS_Ham">Enter Fortinbras with his army over the stage. </stage>
+          <stage xml:id="stg-2830.2" n="SD 4.4.0" type="entrance" who="#Fortinbras_Ham #SOLDIERS.FORTINBRAS.Captain_Ham #SOLDIERS.FORTINBRAS_Ham">Enter Fortinbras with his army over the stage. </stage>
           <sp xml:id="sp-2831" who="#Fortinbras_Ham">
             <speaker xml:id="spk-2831">FORTINBRAS </speaker>
             <l xml:id="ftln-2831" n="4.4.1">Go, Captain, from me greet the Danish king. </l>
@@ -6055,14 +5611,8 @@
             <speaker xml:id="spk-2839">FORTINBRAS </speaker>
             <l xml:id="ftln-2839" n="4.4.9" ana="#short">Go softly on. </l>
           </sp>
-          <stage xml:id="stg-2839"
-                      n="SD 4.4.9"
-                      type="exit"
-                      who="#Fortinbras_Ham #SOLDIERS.FORTINBRAS_Ham">All but the Captain exit. </stage>
-          <stage xml:id="stg-2839.1"
-                      n="SD 4.4.9.1"
-                      type="entrance"
-                      who="#Hamlet_Ham #Rosencrantz_Ham #Guildenstern_Ham #ATTENDANTS.GUARDS_Ham">Enter Hamlet, Rosencrantz, Guildenstern, and others. </stage>
+          <stage xml:id="stg-2839" n="SD 4.4.9" type="exit" who="#Fortinbras_Ham #SOLDIERS.FORTINBRAS_Ham">All but the Captain exit. </stage>
+          <stage xml:id="stg-2839.1" n="SD 4.4.9.1" type="entrance" who="#Hamlet_Ham #Rosencrantz_Ham #Guildenstern_Ham #ATTENDANTS.GUARDS_Ham">Enter Hamlet, Rosencrantz, Guildenstern, and others. </stage>
           <sp xml:id="sp-2840" who="#Hamlet_Ham">
             <speaker xml:id="spk-2840">HAMLET </speaker>
             <l xml:id="ftln-2840" n="4.4.10" ana="#short">Good sir, whose powers are these? </l>
@@ -6121,10 +5671,7 @@
             <speaker xml:id="spk-2861">CAPTAIN </speaker>
             <l xml:id="ftln-2861" n="4.4.31" ana="#short">God be wi’ you, sir. </l>
           </sp>
-          <stage xml:id="stg-2861"
-                      n="SD 4.4.31"
-                      type="exit"
-                      who="#SOLDIERS.FORTINBRAS.Captain_Ham">He exits. </stage>
+          <stage xml:id="stg-2861" n="SD 4.4.31" type="exit" who="#SOLDIERS.FORTINBRAS.Captain_Ham">He exits. </stage>
           <sp xml:id="sp-2862" who="#Rosencrantz_Ham">
             <speaker xml:id="spk-2862">ROSENCRANTZ </speaker>
             <l xml:id="ftln-2862" n="4.4.32" ana="#short">Will ’t please you go, my lord? </l>
@@ -6132,10 +5679,7 @@
           <sp xml:id="sp-2863" who="#Hamlet_Ham">
             <speaker xml:id="spk-2863">HAMLET </speaker>
             <l xml:id="ftln-2863" n="4.4.33">I’ll be with you straight. Go a little before. </l>
-            <stage xml:id="stg-2863.1"
-                         n="SD 4.4.33.1"
-                         type="exit"
-                         who="#Rosencrantz_Ham #Guildenstern_Ham #ATTENDANTS.GUARDS_Ham">All but Hamlet exit. </stage>
+            <stage xml:id="stg-2863.1" n="SD 4.4.33.1" type="exit" who="#Rosencrantz_Ham #Guildenstern_Ham #ATTENDANTS.GUARDS_Ham">All but Hamlet exit. </stage>
             <l xml:id="ftln-2864" n="4.4.34">How all occasions do inform against me </l>
             <l xml:id="ftln-2865" n="4.4.35">And spur my dull revenge. What is a man </l>
             <l xml:id="ftln-2866" n="4.4.36">If his chief good and market of his time </l>
@@ -6172,17 +5716,11 @@
             <l xml:id="ftln-2898" n="4.4.68">To hide the slain? O, from this time forth </l>
             <l xml:id="ftln-2899" n="4.4.69">My thoughts be bloody or be nothing worth! </l>
           </sp>
-          <stage xml:id="stg-2899.1"
-                      n="SD 4.4.69.1"
-                      type="exit"
-                      who="#Hamlet_Ham">He exits. </stage>
+          <stage xml:id="stg-2899.1" n="SD 4.4.69.1" type="exit" who="#Hamlet_Ham">He exits. </stage>
         </div>
         <div type="scene" n="5">
           <head>Scene 5 </head>
-          <stage xml:id="stg-2899.2"
-                      n="SD 4.5.0"
-                      type="entrance"
-                      who="#Horatio_Ham #Gertrude_Ham #ATTENDANTS.1_Ham">Enter Horatio, Queen, and a Gentleman. </stage>
+          <stage xml:id="stg-2899.2" n="SD 4.5.0" type="entrance" who="#Horatio_Ham #Gertrude_Ham #ATTENDANTS.1_Ham">Enter Horatio, Queen, and a Gentleman. </stage>
           <sp xml:id="sp-2900" who="#Gertrude_Ham">
             <speaker xml:id="spk-2900">QUEEN </speaker>
             <l xml:id="ftln-2900" n="4.5.1" ana="#short">I will not speak with her. </l>
@@ -6217,20 +5755,14 @@
           <sp xml:id="sp-2920" who="#Gertrude_Ham">
             <speaker xml:id="spk-2920">QUEEN </speaker>
             <l xml:id="ftln-2920" n="4.5.21" ana="#short">Let her come in. </l>
-            <stage xml:id="stg-2920"
-                         n="SD 4.5.21"
-                         type="exit"
-                         who="#ATTENDANTS.1_Ham">Gentleman exits. </stage>
+            <stage xml:id="stg-2920" n="SD 4.5.21" type="exit" who="#ATTENDANTS.1_Ham">Gentleman exits. </stage>
             <l xml:id="ftln-2921" n="4.5.22">
               <stage xml:id="stg-2921" n="SD 4.5.22" type="delivery">Aside. </stage>To my sick soul ( as sin’s true nature is), </l>
             <l xml:id="ftln-2922" n="4.5.23">Each toy seems prologue to some great amiss. </l>
             <l xml:id="ftln-2923" n="4.5.24">So full of artless jealousy is guilt, </l>
             <l xml:id="ftln-2924" n="4.5.25">It spills itself in fearing to be spilt. </l>
           </sp>
-          <stage xml:id="stg-2924.1"
-                      n="SD 4.5.25.1"
-                      type="entrance"
-                      who="#Ophelia_Ham">Enter Ophelia distracted. </stage>
+          <stage xml:id="stg-2924.1" n="SD 4.5.25.1" type="entrance" who="#Ophelia_Ham">Enter Ophelia distracted. </stage>
           <sp xml:id="sp-2925" who="#Ophelia_Ham">
             <speaker xml:id="spk-2925">OPHELIA </speaker>
             <l xml:id="ftln-2925" n="4.5.26">Where is the beauteous Majesty of Denmark? </l>
@@ -6256,10 +5788,7 @@
           <sp xml:id="sp-2932" who="#Ophelia_Ham">
             <speaker xml:id="spk-2932">OPHELIA </speaker>
             <l xml:id="ftln-2932" n="4.5.33" ana="#short">Say you? Nay, pray you, mark. </l>
-            <stage xml:id="stg-2933"
-                         n="SD 4.5.34"
-                         type="delivery"
-                         rendition="indentVerse">Sings. </stage>
+            <stage xml:id="stg-2933" n="SD 4.5.34" type="delivery" rendition="indentVerse">Sings. </stage>
             <lg xml:id="stz-2933" type="quatrain">
               <l xml:id="ftln-2933" n="4.5.34">He is dead and gone, lady, </l>
               <l xml:id="ftln-2934" n="4.5.35">He is dead and gone; </l>
@@ -6275,18 +5804,12 @@
           <sp xml:id="sp-2939" who="#Ophelia_Ham">
             <speaker xml:id="spk-2939">OPHELIA </speaker>
             <l xml:id="ftln-2939" n="4.5.40" ana="#short">Pray you, mark. </l>
-            <stage xml:id="stg-2940"
-                         n="SD 4.5.41"
-                         type="delivery"
-                         rendition="indentVerse">Sings. </stage>
+            <stage xml:id="stg-2940" n="SD 4.5.41" type="delivery" rendition="indentVerse">Sings. </stage>
             <lg xml:id="stz-2940" type="quatrain">
               <l xml:id="ftln-2940" n="4.5.41">White his shroud as the mountain snow— </l>
             </lg>
           </sp>
-          <stage xml:id="stg-2940.1"
-                      n="SD 4.5.41.1"
-                      type="entrance"
-                      who="#Claudius_Ham">Enter King. </stage>
+          <stage xml:id="stg-2940.1" n="SD 4.5.41.1" type="entrance" who="#Claudius_Ham">Enter King. </stage>
           <sp xml:id="sp-2941" who="#Gertrude_Ham">
             <speaker xml:id="spk-2941">QUEEN </speaker>
             <l xml:id="ftln-2941" n="4.5.42" ana="#short">Alas, look here, my lord. </l>
@@ -6319,10 +5842,7 @@
             <speaker xml:id="spk-2950">OPHELIA </speaker>
             <p xml:id="p-2950">
               <lb xml:id="ftln-2950" n="4.5.51"/>Pray let’s have no words of this, but when <lb xml:id="ftln-2951" n="4.5.52"/>they ask you what it means, say you this: </p>
-            <stage xml:id="stg-2952"
-                         n="SD 4.5.53"
-                         type="delivery"
-                         rendition="indentVerse">Sings. </stage>
+            <stage xml:id="stg-2952" n="SD 4.5.53" type="delivery" rendition="indentVerse">Sings. </stage>
             <lg xml:id="stz-2952" type="quatrain">
               <l xml:id="ftln-2952" n="4.5.53">Tomorrow is Saint Valentine’s day, </l>
               <l xml:id="ftln-2953" n="4.5.54">All in the morning betime, </l>
@@ -6343,10 +5863,7 @@
           <sp xml:id="sp-2961" who="#Ophelia_Ham">
             <speaker xml:id="spk-2961">OPHELIA </speaker>
             <l xml:id="ftln-2961" n="4.5.62">Indeed, without an oath, I’ll make an end on ’t: </l>
-            <stage xml:id="stg-2962"
-                         n="SD 4.5.63"
-                         type="delivery"
-                         rendition="indentVerse">Sings. </stage>
+            <stage xml:id="stg-2962" n="SD 4.5.63" type="delivery" rendition="indentVerse">Sings. </stage>
             <lg xml:id="stz-2962" type="quatrain">
               <l xml:id="ftln-2962" n="4.5.63">By Gis and by Saint Charity, </l>
               <l xml:id="ftln-2963" n="4.5.64">Alack and fie for shame, </l>
@@ -6377,10 +5894,7 @@
           <sp xml:id="sp-2978" who="#Claudius_Ham">
             <speaker xml:id="spk-2978">KING </speaker>
             <l xml:id="ftln-2978" n="4.5.79">Follow her close; give her good watch, I pray you. </l>
-            <stage xml:id="stg-2978.1"
-                         n="SD 4.5.79.1"
-                         type="exit"
-                         who="#Horatio_Ham">Horatio exits. </stage>
+            <stage xml:id="stg-2978.1" n="SD 4.5.79.1" type="exit" who="#Horatio_Ham">Horatio exits. </stage>
             <l xml:id="ftln-2979" n="4.5.80">O, this is the poison of deep grief. It springs </l>
             <l xml:id="ftln-2980" n="4.5.81">All from her father’s death, and now behold! </l>
             <l xml:id="ftln-2981" n="4.5.82">O Gertrude, Gertrude, </l>
@@ -6413,10 +5927,7 @@
             <speaker xml:id="spk-3004">KING </speaker>
             <l xml:id="ftln-3004" n="4.5.105" ana="#short">Attend! </l>
             <l xml:id="ftln-3005" n="4.5.106">Where is my Switzers? Let them guard the door. </l>
-            <stage xml:id="stg-3005.1"
-                         n="SD 4.5.106.1"
-                         type="entrance"
-                         who="#MESSENGERS.1_Ham">Enter a Messenger. </stage>
+            <stage xml:id="stg-3005.1" n="SD 4.5.106.1" type="entrance" who="#MESSENGERS.1_Ham">Enter a Messenger. </stage>
             <l xml:id="ftln-3006" n="4.5.107" part="I">What is the matter? </l>
           </sp>
           <sp xml:id="sp-3007" who="#MESSENGERS.1_Ham">
@@ -6443,10 +5954,7 @@
             <speaker xml:id="spk-3020">KING </speaker>
             <l xml:id="ftln-3020" n="4.5.121" ana="#short">The doors are broke. </l>
           </sp>
-          <stage xml:id="stg-3020.1"
-                      n="SD 4.5.121.1"
-                      type="entrance"
-                      who="#Laertes_Ham #FOLLOWERS.LAERTES_Ham">Enter Laertes with others. </stage>
+          <stage xml:id="stg-3020.1" n="SD 4.5.121.1" type="entrance" who="#Laertes_Ham #FOLLOWERS.LAERTES_Ham">Enter Laertes with others. </stage>
           <sp xml:id="sp-3021" who="#Laertes_Ham">
             <speaker xml:id="spk-3021">LAERTES </speaker>
             <l xml:id="ftln-3021" n="4.5.122">Where is this king?— Sirs, stand you all without. </l>
@@ -6465,11 +5973,7 @@
           </sp>
           <sp xml:id="sp-3025" who="#Laertes_Ham">
             <speaker xml:id="spk-3025">LAERTES </speaker>
-            <l xml:id="ftln-3025" n="4.5.126">I thank you. Keep the door. <stage xml:id="stg-3025"
-                            n="SD 4.5.126"
-                            type="exit"
-                            rendition="inline"
-                            who="#FOLLOWERS.LAERTES_Ham"> Followers exit. </stage> O, thou vile king, </l>
+            <l xml:id="ftln-3025" n="4.5.126">I thank you. Keep the door. <stage xml:id="stg-3025" n="SD 4.5.126" type="exit" rendition="inline" who="#FOLLOWERS.LAERTES_Ham"> Followers exit. </stage> O, thou vile king, </l>
             <l xml:id="ftln-3027" n="4.5.128" part="I">Give me my father! </l>
           </sp>
           <sp xml:id="sp-3028" who="#Gertrude_Ham">
@@ -6563,18 +6067,12 @@
           </sp>
           <sp>
             <l xml:id="ftln-3075" n="4.5.176" ana="#short">
-              <stage xml:id="stg-3075"
-                            n="SD 4.5.176"
-                            type="business"
-                            rendition="inline">A noise within: </stage>“ Let her come in!” </l>
+              <stage xml:id="stg-3075" n="SD 4.5.176" type="business" rendition="inline">A noise within: </stage>“ Let her come in!” </l>
           </sp>
           <sp xml:id="sp-3076" who="#Laertes_Ham">
             <speaker xml:id="spk-3076">LAERTES </speaker>
             <l xml:id="ftln-3076" n="4.5.177" ana="#short">How now, what noise is that? </l>
-            <stage xml:id="stg-3076.1"
-                         n="SD 4.5.177.1"
-                         type="entrance"
-                         who="#Ophelia_Ham">Enter Ophelia. </stage>
+            <stage xml:id="stg-3076.1" n="SD 4.5.177.1" type="entrance" who="#Ophelia_Ham">Enter Ophelia. </stage>
             <l xml:id="ftln-3077" n="4.5.178">O heat, dry up my brains! Tears seven times salt </l>
             <l xml:id="ftln-3078" n="4.5.179">Burn out the sense and virtue of mine eye! </l>
             <l xml:id="ftln-3079" n="4.5.180">By heaven, thy madness shall be paid with weight </l>
@@ -6685,17 +6183,11 @@
             <l xml:id="ftln-3143" n="4.5.244">And where th’ offense is, let the great ax fall. </l>
             <l xml:id="ftln-3144" n="4.5.245" ana="#short">I pray you, go with me. </l>
           </sp>
-          <stage xml:id="stg-3144.1"
-                      n="SD 4.5.245.1"
-                      type="exit"
-                      who="#Claudius_Ham #Gertrude_Ham #Laertes_Ham #MESSENGERS.1_Ham">They exit. </stage>
+          <stage xml:id="stg-3144.1" n="SD 4.5.245.1" type="exit" who="#Claudius_Ham #Gertrude_Ham #Laertes_Ham #MESSENGERS.1_Ham">They exit. </stage>
         </div>
         <div type="scene" n="6">
           <head>Scene 6 </head>
-          <stage xml:id="stg-3144.2"
-                      n="SD 4.6.0"
-                      type="entrance"
-                      who="#Horatio_Ham #ATTENDANTS_Ham">Enter Horatio and others. </stage>
+          <stage xml:id="stg-3144.2" n="SD 4.6.0" type="entrance" who="#Horatio_Ham #ATTENDANTS_Ham">Enter Horatio and others. </stage>
           <sp xml:id="sp-3145" who="#Horatio_Ham">
             <speaker xml:id="spk-3145">HORATIO </speaker>
             <p xml:id="p-3145">
@@ -6709,16 +6201,9 @@
           <sp xml:id="sp-3148" who="#Horatio_Ham">
             <speaker xml:id="spk-3148">HORATIO </speaker>
             <p xml:id="p-3148">
-              <lb xml:id="ftln-3148" n="4.6.4"/>Let them come in. <stage xml:id="stg-3148"
-                            n="SD 4.6.4"
-                            type="exit"
-                            rendition="inline"
-                            who="#ATTENDANTS.0.1_Ham"> Gentleman exits. </stage> I do not <lb xml:id="ftln-3149" n="4.6.5"/>know from what part of the world I should be <lb xml:id="ftln-3150" n="4.6.6"/>greeted, if not from Lord Hamlet. </p>
+              <lb xml:id="ftln-3148" n="4.6.4"/>Let them come in. <stage xml:id="stg-3148" n="SD 4.6.4" type="exit" rendition="inline" who="#ATTENDANTS.0.1_Ham"> Gentleman exits. </stage> I do not <lb xml:id="ftln-3149" n="4.6.5"/>know from what part of the world I should be <lb xml:id="ftln-3150" n="4.6.6"/>greeted, if not from Lord Hamlet. </p>
           </sp>
-          <stage xml:id="stg-3150.1"
-                      n="SD 4.6.6.1"
-                      type="entrance"
-                      who="#SAILORS_Ham">Enter Sailors. </stage>
+          <stage xml:id="stg-3150.1" n="SD 4.6.6.1" type="entrance" who="#SAILORS_Ham">Enter Sailors. </stage>
           <sp xml:id="sp-3151" who="#SAILORS.0.1_Ham">
             <speaker xml:id="spk-3151">SAILOR </speaker>
             <p xml:id="p-3151">
@@ -6734,10 +6219,7 @@
             <p xml:id="p-3153">
               <lb xml:id="ftln-3153" n="4.6.9"/>He shall, sir, an ’t please Him. There’s a letter <lb xml:id="ftln-3154" n="4.6.10"/>for you, sir. It came from th’ ambassador that was <lb xml:id="ftln-3155" n="4.6.11"/>bound for England— if your name be Horatio, as I <lb xml:id="ftln-3156" n="4.6.12"/>am let to know it is. </p>
           </sp>
-          <stage xml:id="stg-3156"
-                      n="SD 4.6.12"
-                      type="business"
-                      who="#SAILORS.0.1_Ham #Horatio_Ham">He hands Horatio a letter. </stage>
+          <stage xml:id="stg-3156" n="SD 4.6.12" type="business" who="#SAILORS.0.1_Ham #Horatio_Ham">He hands Horatio a letter. </stage>
           <sp xml:id="sp-3157" who="#Horatio_Ham">
             <speaker xml:id="spk-3157">HORATIO </speaker>
             <stage xml:id="stg-3157" n="SD 4.6.13" type="delivery"> reads the letter </stage>
@@ -6747,17 +6229,11 @@
             <l xml:id="ftln-3177" n="4.6.33">And do ’t the speedier that you may direct me </l>
             <l xml:id="ftln-3178" n="4.6.34">To him from whom you brought them. </l>
           </sp>
-          <stage xml:id="stg-3178.1"
-                      n="SD 4.6.34.1"
-                      type="exit"
-                      who="#Horatio_Ham #SAILORS_Ham #ATTENDANTS_Ham">They exit. </stage>
+          <stage xml:id="stg-3178.1" n="SD 4.6.34.1" type="exit" who="#Horatio_Ham #SAILORS_Ham #ATTENDANTS_Ham">They exit. </stage>
         </div>
         <div type="scene" n="7">
           <head>Scene 7 </head>
-          <stage xml:id="stg-3178.2"
-                      n="SD 4.7.0"
-                      type="entrance"
-                      who="#Claudius_Ham #Laertes_Ham">Enter King and Laertes. </stage>
+          <stage xml:id="stg-3178.2" n="SD 4.7.0" type="entrance" who="#Claudius_Ham #Laertes_Ham">Enter King and Laertes. </stage>
           <sp xml:id="sp-3179" who="#Claudius_Ham">
             <speaker xml:id="spk-3179">KING </speaker>
             <l xml:id="ftln-3179" n="4.7.1">Now must your conscience my acquittance seal, </l>
@@ -6809,10 +6285,7 @@
             <l xml:id="ftln-3213" n="4.7.35">And think it pastime. You shortly shall hear more. </l>
             <l xml:id="ftln-3214" n="4.7.36">I loved your father, and we love ourself, </l>
             <l xml:id="ftln-3215" n="4.7.37">And that, I hope, will teach you to imagine— </l>
-            <stage xml:id="stg-3215.1"
-                         n="SD 4.7.37.1"
-                         type="entrance"
-                         who="#MESSENGERS.2_Ham">Enter a Messenger with letters. </stage>
+            <stage xml:id="stg-3215.1" n="SD 4.7.37.1" type="entrance" who="#MESSENGERS.2_Ham">Enter a Messenger with letters. </stage>
             <l xml:id="ftln-3216" n="4.7.38" part="I">How now? What news? </l>
           </sp>
           <sp xml:id="sp-3217" who="#MESSENGERS.2_Ham">
@@ -6834,10 +6307,7 @@
             <speaker xml:id="spk-3224">KING </speaker>
             <l xml:id="ftln-3224" n="4.7.46" prev="#ftln-3223">Laertes, you shall hear them.— </l>
             <l xml:id="ftln-3226" n="4.7.48" ana="#short">Leave us. </l>
-            <stage xml:id="stg-3226"
-                         n="SD 4.7.48"
-                         type="exit"
-                         who="#MESSENGERS.2_Ham">Messenger exits. </stage>
+            <stage xml:id="stg-3226" n="SD 4.7.48" type="exit" who="#MESSENGERS.2_Ham">Messenger exits. </stage>
             <lb xml:id="ftln-3227" n="4.7.49"/>
             <stage xml:id="stg-3227" n="SD 4.7.49" type="delivery">Reads. </stage>
             <q xml:id="p-3227" type="letter">High and mighty, you shall know I am set <lb xml:id="ftln-3228" n="4.7.50"/>naked on your kingdom. Tomorrow shall I beg leave to <lb xml:id="ftln-3229" n="4.7.51"/>see your kingly eyes, when I shall ( first asking your <lb xml:id="ftln-3230" n="4.7.52"/>pardon) thereunto recount the occasion of my sudden <lb xml:id="ftln-3231" n="4.7.53"/>and more strange return. Hamlet. </q>
@@ -7041,10 +6511,7 @@
             <l xml:id="ftln-3362" n="4.7.184">If he by chance escape your venomed stuck, </l>
             <l xml:id="ftln-3363" n="4.7.185">Our purpose may hold there.— But stay, what noise? </l>
           </sp>
-          <stage xml:id="stg-3364.1"
-                      n="SD 4.7.186.1"
-                      type="entrance"
-                      who="#Gertrude_Ham">Enter Queen. </stage>
+          <stage xml:id="stg-3364.1" n="SD 4.7.186.1" type="entrance" who="#Gertrude_Ham">Enter Queen. </stage>
           <sp xml:id="sp-3365" who="#Gertrude_Ham">
             <speaker xml:id="spk-3365">QUEEN </speaker>
             <l xml:id="ftln-3365" n="4.7.187">One woe doth tread upon another’s heel, </l>
@@ -7101,20 +6568,14 @@
             <l xml:id="ftln-3398" n="4.7.220">Now fear I this will give it start again. </l>
             <l xml:id="ftln-3399" n="4.7.221" ana="#short">Therefore, let’s follow. </l>
           </sp>
-          <stage xml:id="stg-3399.1"
-                      n="SD 4.7.221.1"
-                      type="exit"
-                      who="#Claudius_Ham #Gertrude_Ham">They exit. </stage>
+          <stage xml:id="stg-3399.1" n="SD 4.7.221.1" type="exit" who="#Claudius_Ham #Gertrude_Ham">They exit. </stage>
         </div>
       </div>
       <div type="act" n="5">
         <head>ACT 5 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-3399.2"
-                      n="SD 5.1.0"
-                      type="entrance"
-                      who="#Gravedigger_Ham #GravediggersCompanion_Ham">Enter Gravedigger and Another. </stage>
+          <stage xml:id="stg-3399.2" n="SD 5.1.0" type="entrance" who="#Gravedigger_Ham #GravediggersCompanion_Ham">Enter Gravedigger and Another. </stage>
           <sp xml:id="sp-3400" who="#Gravedigger_Ham">
             <speaker xml:id="spk-3400">GRAVEDIGGER </speaker>
             <p xml:id="p-3400">
@@ -7235,23 +6696,14 @@
             <p xml:id="p-3455">
               <lb xml:id="ftln-3455" n="5.1.56"/>Mass, I cannot tell. </p>
           </sp>
-          <stage xml:id="stg-3455.1"
-                      n="SD 5.1.56.1"
-                      type="entrance"
-                      who="#Hamlet_Ham #Horatio_Ham">Enter Hamlet and Horatio afar off. </stage>
+          <stage xml:id="stg-3455.1" n="SD 5.1.56.1" type="entrance" who="#Hamlet_Ham #Horatio_Ham">Enter Hamlet and Horatio afar off. </stage>
           <sp xml:id="sp-3456" who="#Gravedigger_Ham">
             <speaker xml:id="spk-3456">GRAVEDIGGER </speaker>
             <p xml:id="p-3456">
               <lb xml:id="ftln-3456" n="5.1.57"/>Cudgel thy brains no more about it, <lb xml:id="ftln-3457" n="5.1.58"/>for your dull ass will not mend his pace with <lb xml:id="ftln-3458" n="5.1.59"/>beating. And, when you are asked this question <lb xml:id="ftln-3459" n="5.1.60"/>next, say “ a grave-maker.” The houses he makes <lb xml:id="ftln-3460" n="5.1.61"/>lasts till doomsday. Go, get thee in, and fetch me a <lb xml:id="ftln-3461" n="5.1.62"/>stoup of liquor. </p>
             <stage xml:id="stg-3461.1" n="SD 5.1.62.1" type="mixed">
-              <stage xml:id="stg-3461.1a"
-                            n="SD 5.1.62.1"
-                            type="exit"
-                            who="#GravediggersCompanion_Ham">The Other Man exits </stage>
-              <stage xml:id="stg-3461.1b"
-                            n="SD 5.1.62.1"
-                            type="business"
-                            who="#Gravedigger_Ham">and the Gravedigger digs and sings. </stage>
+              <stage xml:id="stg-3461.1a" n="SD 5.1.62.1" type="exit" who="#GravediggersCompanion_Ham">The Other Man exits </stage>
+              <stage xml:id="stg-3461.1b" n="SD 5.1.62.1" type="business" who="#Gravedigger_Ham">and the Gravedigger digs and sings. </stage>
             </stage>
             <lg xml:id="stz-3462" type="quatrain">
               <l xml:id="ftln-3462" n="5.1.63">In youth when I did love, did love, </l>
@@ -7283,10 +6735,7 @@
             <l xml:id="ftln-3474" n="5.1.75">And hath shipped me into the land, </l>
             <l xml:id="ftln-3475" n="5.1.76">As if I had never been such. </l>
           </sp>
-          <stage xml:id="stg-3475.1"
-                      n="SD 5.1.76.1"
-                      type="business"
-                      who="#Gravedigger_Ham">He digs up a skull. </stage>
+          <stage xml:id="stg-3475.1" n="SD 5.1.76.1" type="business" who="#Gravedigger_Ham">He digs up a skull. </stage>
           <sp xml:id="sp-3476" who="#Hamlet_Ham">
             <speaker xml:id="spk-3476">HAMLET </speaker>
             <p xml:id="p-3476">
@@ -7320,10 +6769,7 @@
             <l xml:id="ftln-3497" n="5.1.98">O, a pit of clay for to be made </l>
             <l xml:id="ftln-3498" n="5.1.99">For such a guest is meet. </l>
           </sp>
-          <stage xml:id="stg-3498.1"
-                      n="SD 5.1.99.1"
-                      type="business"
-                      who="#Gravedigger_Ham">He digs up more skulls. </stage>
+          <stage xml:id="stg-3498.1" n="SD 5.1.99.1" type="business" who="#Gravedigger_Ham">He digs up more skulls. </stage>
           <sp xml:id="sp-3499" who="#Hamlet_Ham">
             <speaker xml:id="spk-3499">HAMLET </speaker>
             <p xml:id="p-3499">
@@ -7353,10 +6799,7 @@
             <speaker xml:id="spk-3520">GRAVEDIGGER </speaker>
             <p xml:id="p-3520">
               <lb xml:id="ftln-3520" n="5.1.121"/>Mine, sir. </p>
-            <stage xml:id="stg-3521"
-                         n="SD 5.1.122"
-                         type="delivery"
-                         rendition="indentVerse">Sings. </stage>
+            <stage xml:id="stg-3521" n="SD 5.1.122" type="delivery" rendition="indentVerse">Sings. </stage>
             <l xml:id="ftln-3521" n="5.1.122">O, a pit of clay for to be made </l>
             <l xml:id="ftln-3522" n="5.1.123">For such a guest is meet. </l>
           </sp>
@@ -7532,10 +6975,7 @@
           </sp>
           <sp xml:id="sp-3589" who="#Hamlet_Ham">
             <speaker xml:id="spk-3589">HAMLET </speaker>
-            <stage xml:id="stg-3589"
-                         n="SD 5.1.190"
-                         type="business"
-                         who="#Hamlet_Ham">, taking the skull </stage>
+            <stage xml:id="stg-3589" n="SD 5.1.190" type="business" who="#Hamlet_Ham">, taking the skull </stage>
             <p xml:id="p-3589">
               <lb xml:id="ftln-3589" n="5.1.190"/>Let me see. Alas, poor <lb xml:id="ftln-3590" n="5.1.191"/>Yorick! I knew him, Horatio— a fellow of infinite <lb xml:id="ftln-3591" n="5.1.192"/>jest, of most excellent fancy. He hath bore me on his <lb xml:id="ftln-3592" n="5.1.193"/>back a thousand times, and now how abhorred in <lb xml:id="ftln-3593" n="5.1.194"/>my imagination it is! My gorge rises at it. Here hung <lb xml:id="ftln-3594" n="5.1.195"/>those lips that I have kissed I know not how oft. <lb xml:id="ftln-3595" n="5.1.196"/>Where be your gibes now? your gambols? your <lb xml:id="ftln-3596" n="5.1.197"/>songs? your flashes of merriment that were wont to <lb xml:id="ftln-3597" n="5.1.198"/>set the table on a roar? Not one now to mock your <lb xml:id="ftln-3598" n="5.1.199"/>own grinning? Quite chapfallen? Now get you to my <lb xml:id="ftln-3599" n="5.1.200"/>lady’s chamber, and tell her, let her paint an inch <lb xml:id="ftln-3600" n="5.1.201"/>thick, to this favor she must come. Make her laugh <lb xml:id="ftln-3601" n="5.1.202"/>at that.— Prithee, Horatio, tell me one thing. </p>
           </sp>
@@ -7559,10 +6999,7 @@
             <p xml:id="p-3606">
               <lb xml:id="ftln-3606" n="5.1.207"/>And smelt so? Pah! </p>
           </sp>
-          <stage xml:id="stg-3606"
-                      n="SD 5.1.207"
-                      type="business"
-                      who="#Hamlet_Ham">He puts the skull down. </stage>
+          <stage xml:id="stg-3606" n="SD 5.1.207" type="business" who="#Hamlet_Ham">He puts the skull down. </stage>
           <sp xml:id="sp-3607" who="#Horatio_Ham">
             <speaker xml:id="spk-3607">HORATIO </speaker>
             <p xml:id="p-3607">
@@ -7586,10 +7023,7 @@
             <l xml:id="ftln-3620" n="5.1.221">Might stop a hole to keep the wind away. </l>
             <l xml:id="ftln-3621" n="5.1.222">O, that that earth which kept the world in awe </l>
             <l xml:id="ftln-3622" n="5.1.223">Should patch a wall t’ expel the winter’s flaw! </l>
-            <stage xml:id="stg-3622.1"
-                         n="SD 5.1.223.1"
-                         type="entrance"
-                         who="#Claudius_Ham #Gertrude_Ham #Laertes_Ham #Ophelia_Ham #Doctor_Ham #ATTENDANTS_Ham">Enter King, Queen, Laertes, Lords attendant, and the corpse of Ophelia, with a Doctor of Divinity. </stage>
+            <stage xml:id="stg-3622.1" n="SD 5.1.223.1" type="entrance" who="#Claudius_Ham #Gertrude_Ham #Laertes_Ham #Ophelia_Ham #Doctor_Ham #ATTENDANTS_Ham">Enter King, Queen, Laertes, Lords attendant, and the corpse of Ophelia, with a Doctor of Divinity. </stage>
             <l xml:id="ftln-3623" n="5.1.224">But soft, but soft awhile! Here comes the King, </l>
             <l xml:id="ftln-3624" n="5.1.225">The Queen, the courtiers. Who is this they follow? </l>
             <l xml:id="ftln-3625" n="5.1.226">And with such maimèd rites? This doth betoken </l>
@@ -7597,10 +7031,7 @@
             <l xml:id="ftln-3627" n="5.1.228">Fordo its own life. ’Twas of some estate. </l>
             <l xml:id="ftln-3628" n="5.1.229" ana="#short">Couch we awhile and mark. </l>
           </sp>
-          <stage xml:id="stg-3628"
-                      n="SD 5.1.229"
-                      type="business"
-                      who="#Hamlet_Ham #Horatio_Ham">They step aside. </stage>
+          <stage xml:id="stg-3628" n="SD 5.1.229" type="business" who="#Hamlet_Ham #Horatio_Ham">They step aside. </stage>
           <sp xml:id="sp-3629" who="#Laertes_Ham">
             <speaker xml:id="spk-3629">LAERTES </speaker>
             <l xml:id="ftln-3629" n="5.1.230" ana="#short">What ceremony else? </l>
@@ -7652,10 +7083,7 @@
           <sp xml:id="sp-3653" who="#Gertrude_Ham">
             <speaker xml:id="spk-3653">QUEEN </speaker>
             <l xml:id="ftln-3653" n="5.1.254" ana="#short">Sweets to the sweet, farewell! </l>
-            <stage xml:id="stg-3653.1"
-                         n="SD 5.1.254.1"
-                         type="business"
-                         who="#Gertrude_Ham">She scatters flowers. </stage>
+            <stage xml:id="stg-3653.1" n="SD 5.1.254.1" type="business" who="#Gertrude_Ham">She scatters flowers. </stage>
             <l xml:id="ftln-3654" n="5.1.255">I hoped thou shouldst have been my Hamlet’s wife; </l>
             <l xml:id="ftln-3655" n="5.1.256">I thought thy bride-bed to have decked, sweet maid, </l>
             <l xml:id="ftln-3656" n="5.1.257" part="I">And not have strewed thy grave. </l>
@@ -7667,10 +7095,7 @@
             <l xml:id="ftln-3659" n="5.1.260">Whose wicked deed thy most ingenious sense </l>
             <l xml:id="ftln-3660" n="5.1.261">Deprived thee of!— Hold off the earth awhile, </l>
             <l xml:id="ftln-3661" n="5.1.262">Till I have caught her once more in mine arms. </l>
-            <stage xml:id="stg-3661.1"
-                         n="SD 5.1.262.1"
-                         type="business"
-                         who="#Laertes_Ham">Leaps in the grave. </stage>
+            <stage xml:id="stg-3661.1" n="SD 5.1.262.1" type="business" who="#Laertes_Ham">Leaps in the grave. </stage>
             <l xml:id="ftln-3662" n="5.1.263">Now pile your dust upon the quick and dead, </l>
             <l xml:id="ftln-3663" n="5.1.264">Till of this flat a mountain you have made </l>
             <l xml:id="ftln-3664" n="5.1.265">T’ o’ertop old Pelion or the skyish head </l>
@@ -7678,10 +7103,7 @@
           </sp>
           <sp xml:id="sp-3666" who="#Hamlet_Ham">
             <speaker xml:id="spk-3666">HAMLET </speaker>
-            <stage xml:id="stg-3666.0"
-                         n="SD 5.1.267.0"
-                         type="business"
-                         who="#Hamlet_Ham">, advancing </stage>
+            <stage xml:id="stg-3666.0" n="SD 5.1.267.0" type="business" who="#Hamlet_Ham">, advancing </stage>
             <l xml:id="ftln-3666" n="5.1.267" part="F">What is he whose grief </l>
             <l xml:id="ftln-3667" n="5.1.268">Bears such an emphasis, whose phrase of sorrow </l>
             <l xml:id="ftln-3668" n="5.1.269">Conjures the wand’ring stars and makes them stand </l>
@@ -7690,19 +7112,13 @@
           </sp>
           <sp xml:id="sp-3671" who="#Laertes_Ham">
             <speaker xml:id="spk-3671">LAERTES </speaker>
-            <stage xml:id="stg-3671.0"
-                         n="SD 5.1.272.0"
-                         type="business"
-                         who="#Laertes_Ham">, coming out of the grave </stage>
+            <stage xml:id="stg-3671.0" n="SD 5.1.272.0" type="business" who="#Laertes_Ham">, coming out of the grave </stage>
             <l xml:id="ftln-3671" n="5.1.272" part="F">The devil take thy soul! </l>
           </sp>
           <sp xml:id="sp-3672" who="#Hamlet_Ham">
             <speaker xml:id="spk-3672">HAMLET </speaker>
             <l xml:id="ftln-3672" n="5.1.273" ana="#short">Thou pray’st not well. </l>
-            <stage xml:id="stg-3672"
-                         n="SD 5.1.273"
-                         type="business"
-                         who="#Hamlet_Ham #Laertes_Ham">They grapple. </stage>
+            <stage xml:id="stg-3672" n="SD 5.1.273" type="business" who="#Hamlet_Ham #Laertes_Ham">They grapple. </stage>
             <l xml:id="ftln-3673" n="5.1.274">I prithee take thy fingers from my throat, </l>
             <l xml:id="ftln-3674" n="5.1.275">For though I am not splenitive and rash, </l>
             <l xml:id="ftln-3675" n="5.1.276">Yet have I in me something dangerous, </l>
@@ -7724,10 +7140,7 @@
             <speaker xml:id="spk-3680">HORATIO </speaker>
             <l xml:id="ftln-3680" n="5.1.281" ana="#short">Good my lord, be quiet. </l>
           </sp>
-          <stage xml:id="stg-3680.1"
-                      n="SD 5.1.281.1"
-                      type="business"
-                      who="#Hamlet_Ham #Laertes_Ham">Hamlet and Laertes are separated. </stage>
+          <stage xml:id="stg-3680.1" n="SD 5.1.281.1" type="business" who="#Hamlet_Ham #Laertes_Ham">Hamlet and Laertes are separated. </stage>
           <sp xml:id="sp-3681" who="#Hamlet_Ham">
             <speaker xml:id="spk-3681">HAMLET </speaker>
             <l xml:id="ftln-3681" n="5.1.282">Why, I will fight with him upon this theme </l>
@@ -7781,17 +7194,11 @@
             <l xml:id="ftln-3709" n="5.1.310">Let Hercules himself do what he may, </l>
             <l xml:id="ftln-3710" n="5.1.311">The cat will mew, and dog will have his day. </l>
           </sp>
-          <stage xml:id="stg-3710.1"
-                      n="SD 5.1.331.1"
-                      type="exit"
-                      who="#Hamlet_Ham">Hamlet exits. </stage>
+          <stage xml:id="stg-3710.1" n="SD 5.1.331.1" type="exit" who="#Hamlet_Ham">Hamlet exits. </stage>
           <sp xml:id="sp-3711" who="#Claudius_Ham">
             <speaker xml:id="spk-3711">KING </speaker>
             <l xml:id="ftln-3711" n="5.1.312">I pray thee, good Horatio, wait upon him. </l>
-            <stage xml:id="stg-3711.1"
-                         n="SD 5.1.312.1"
-                         type="exit"
-                         who="#Horatio_Ham">Horatio exits. </stage>
+            <stage xml:id="stg-3711.1" n="SD 5.1.312.1" type="exit" who="#Horatio_Ham">Horatio exits. </stage>
             <l xml:id="ftln-3712" n="5.1.313">
               <stage xml:id="stg-3712" n="SD 5.1.313" type="delivery">To Laertes. </stage>Strengthen your patience in our last night’s speech. </l>
             <l xml:id="ftln-3714" n="5.1.315">We’ll put the matter to the present push.— </l>
@@ -7800,17 +7207,11 @@
             <l xml:id="ftln-3717" n="5.1.318">An hour of quiet thereby shall we see. </l>
             <l xml:id="ftln-3718" n="5.1.319">Till then in patience our proceeding be. </l>
           </sp>
-          <stage xml:id="stg-3718.1"
-                      n="SD 5.1.319.1"
-                      type="exit"
-                      who="#Claudius_Ham #Gertrude_Ham #Laertes_Ham #ATTENDANTS_Ham #Doctor_Ham #Gravedigger_Ham #Ophelia_Ham">They exit. </stage>
+          <stage xml:id="stg-3718.1" n="SD 5.1.319.1" type="exit" who="#Claudius_Ham #Gertrude_Ham #Laertes_Ham #ATTENDANTS_Ham #Doctor_Ham #Gravedigger_Ham #Ophelia_Ham">They exit. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-3718.2"
-                      n="SD 5.2.0"
-                      type="entrance"
-                      who="#Hamlet_Ham #Horatio_Ham">Enter Hamlet and Horatio. </stage>
+          <stage xml:id="stg-3718.2" n="SD 5.2.0" type="entrance" who="#Hamlet_Ham #Horatio_Ham">Enter Hamlet and Horatio. </stage>
           <sp xml:id="sp-3719" who="#Hamlet_Ham">
             <speaker xml:id="spk-3719">HAMLET </speaker>
             <l xml:id="ftln-3719" n="5.2.1">So much for this, sir. Now shall you see the other. </l>
@@ -7859,10 +7260,7 @@
           <sp xml:id="sp-3748" who="#Hamlet_Ham">
             <speaker xml:id="spk-3748">HAMLET </speaker>
             <l xml:id="ftln-3748" n="5.2.30">Here’s the commission. Read it at more leisure. </l>
-            <stage xml:id="stg-3748.1"
-                         n="SD 5.2.30.1"
-                         type="business"
-                         who="#Hamlet_Ham #Horatio_Ham">Handing him a paper. </stage>
+            <stage xml:id="stg-3748.1" n="SD 5.2.30.1" type="business" who="#Hamlet_Ham #Horatio_Ham">Handing him a paper. </stage>
             <l xml:id="ftln-3749" n="5.2.31">But wilt thou hear now how I did proceed? </l>
           </sp>
           <sp xml:id="sp-3750" who="#Horatio_Ham">
@@ -7961,10 +7359,7 @@
             <speaker xml:id="spk-3809">HORATIO </speaker>
             <l xml:id="ftln-3809" n="5.2.91" part="F">Peace, who comes here? </l>
           </sp>
-          <stage xml:id="stg-3809.1"
-                      n="SD 5.2.91.1"
-                      type="entrance"
-                      who="#Osric_Ham">Enter Osric, a courtier. </stage>
+          <stage xml:id="stg-3809.1" n="SD 5.2.91.1" type="entrance" who="#Osric_Ham">Enter Osric, a courtier. </stage>
           <sp xml:id="sp-3810" who="#Osric_Ham">
             <speaker xml:id="spk-3810">OSRIC </speaker>
             <p xml:id="p-3810">
@@ -8030,11 +7425,7 @@
             <p xml:id="p-3835">
               <lb xml:id="ftln-3835" n="5.2.117"/>I beseech you, remember. </p>
           </sp>
-          <stage xml:id="stg-3835"
-                      n="SD 5.2.117"
-                      type="business"
-                      rendition="inline"
-                      who="#Hamlet_Ham"> He motions to Osric to put on his hat. </stage>
+          <stage xml:id="stg-3835" n="SD 5.2.117" type="business" rendition="inline" who="#Hamlet_Ham"> He motions to Osric to put on his hat. </stage>
           <sp xml:id="sp-3836" who="#Osric_Ham">
             <speaker xml:id="spk-3836">OSRIC </speaker>
             <p xml:id="p-3836">
@@ -8189,11 +7580,7 @@
           <sp xml:id="sp-3914" who="#Hamlet_Ham">
             <speaker xml:id="spk-3914">HAMLET </speaker>
             <p xml:id="p-3914">
-              <lb xml:id="ftln-3914" n="5.2.196"/>Yours. <stage xml:id="stg-3914"
-                            n="SD 5.2.196"
-                            type="exit"
-                            rendition="inline"
-                            who="#Osric_Ham"> Osric exits. </stage> He does well to commend <lb xml:id="ftln-3915" n="5.2.197"/>it himself. There are no tongues else for ’s <lb xml:id="ftln-3916" n="5.2.198"/>turn. </p>
+              <lb xml:id="ftln-3914" n="5.2.196"/>Yours. <stage xml:id="stg-3914" n="SD 5.2.196" type="exit" rendition="inline" who="#Osric_Ham"> Osric exits. </stage> He does well to commend <lb xml:id="ftln-3915" n="5.2.197"/>it himself. There are no tongues else for ’s <lb xml:id="ftln-3916" n="5.2.198"/>turn. </p>
           </sp>
           <sp xml:id="sp-3917" who="#Horatio_Ham">
             <speaker xml:id="spk-3917">HORATIO </speaker>
@@ -8205,10 +7592,7 @@
             <p xml:id="p-3919">
               <lb xml:id="ftln-3919" n="5.2.201"/>He did comply, sir, with his dug before he <lb xml:id="ftln-3920" n="5.2.202"/>sucked it. Thus has he ( and many more of the same <lb xml:id="ftln-3921" n="5.2.203"/>breed that I know the drossy age dotes on) only got <lb xml:id="ftln-3922" n="5.2.204"/>the tune of the time, and, out of an habit of <lb xml:id="ftln-3923" n="5.2.205"/>encounter, a kind of yeasty collection, which carries <lb xml:id="ftln-3924" n="5.2.206"/>them through and through the most fanned <lb xml:id="ftln-3925" n="5.2.207"/>and winnowed opinions; and do but blow them to <lb xml:id="ftln-3926" n="5.2.208"/>their trial, the bubbles are out. </p>
           </sp>
-          <stage xml:id="stg-3926.1"
-                      n="SD 5.2.208.1"
-                      type="entrance"
-                      who="#ATTENDANTS.2_Ham">Enter a Lord. </stage>
+          <stage xml:id="stg-3926.1" n="SD 5.2.208.1" type="entrance" who="#ATTENDANTS.2_Ham">Enter a Lord. </stage>
           <sp xml:id="sp-3927" who="#ATTENDANTS.2_Ham">
             <speaker xml:id="spk-3927">LORD </speaker>
             <p xml:id="p-3927">
@@ -8239,10 +7623,7 @@
             <p xml:id="p-3940">
               <lb xml:id="ftln-3940" n="5.2.222"/>She well instructs me. </p>
           </sp>
-          <stage xml:id="stg-3940"
-                      n="SD 5.2.222"
-                      type="exit"
-                      who="#ATTENDANTS.2_Ham">Lord exits. </stage>
+          <stage xml:id="stg-3940" n="SD 5.2.222" type="exit" who="#ATTENDANTS.2_Ham">Lord exits. </stage>
           <sp xml:id="sp-3941" who="#Horatio_Ham">
             <speaker xml:id="spk-3941">HORATIO </speaker>
             <p xml:id="p-3941">
@@ -8273,21 +7654,12 @@
             <p xml:id="p-3951">
               <lb xml:id="ftln-3951" n="5.2.233"/>Not a whit. We defy augury. There is a <lb xml:id="ftln-3952" n="5.2.234"/>special providence in the fall of a sparrow. If it be <lb xml:id="ftln-3953" n="5.2.235"/>now, ’tis not to come; if it be not to come, it will be <lb xml:id="ftln-3954" n="5.2.236"/>now; if it be not now, yet it will come. The <lb xml:id="ftln-3955" n="5.2.237"/>readiness is all. Since no man of aught he leaves <lb xml:id="ftln-3956" n="5.2.238"/>knows, what is ’t to leave betimes? Let be. </p>
           </sp>
-          <stage xml:id="stg-3956.1"
-                      n="SD 5.2.238.1"
-                      type="entrance"
-                      who="#Claudius_Ham #Gertrude_Ham #Osric_Ham #Laertes_Ham #ATTENDANTS_Ham">A table prepared. Enter <stage xml:id="snd-3956.1"
-                         n="SD 5.2.238.1"
-                         type="sound"
-                         ana="trumpet drum">Trumpets, Drums</stage>, and Officers with cushions, King, Queen, Osric, and all the state, foils, daggers, flagons of wine, and Laertes. </stage>
+          <stage xml:id="stg-3956.1" n="SD 5.2.238.1" type="entrance" who="#Claudius_Ham #Gertrude_Ham #Osric_Ham #Laertes_Ham #ATTENDANTS_Ham">A table prepared. Enter <stage xml:id="snd-3956.1" n="SD 5.2.238.1" type="sound" ana="trumpet drum">Trumpets, Drums</stage>, and Officers with cushions, King, Queen, Osric, and all the state, foils, daggers, flagons of wine, and Laertes. </stage>
           <sp xml:id="sp-3957" who="#Claudius_Ham">
             <speaker xml:id="spk-3957">KING </speaker>
             <l xml:id="ftln-3957" n="5.2.239">Come, Hamlet, come and take this hand from me. </l>
           </sp>
-          <stage xml:id="stg-3957.1"
-                      n="SD 5.2.239.1"
-                      type="business"
-                      who="#Claudius_Ham #Hamlet_Ham #Laertes_Ham">He puts Laertes’ hand into Hamlet’s. </stage>
+          <stage xml:id="stg-3957.1" n="SD 5.2.239.1" type="business" who="#Claudius_Ham #Hamlet_Ham #Laertes_Ham">He puts Laertes’ hand into Hamlet’s. </stage>
           <sp xml:id="sp-3958" who="#Hamlet_Ham">
             <speaker xml:id="spk-3958">HAMLET </speaker>
             <stage xml:id="stg-3958.0" n="SD 5.2.240.0" type="delivery">, to Laertes </stage>
@@ -8373,10 +7745,7 @@
             <speaker xml:id="spk-4003">OSRIC </speaker>
             <l xml:id="ftln-4003" n="5.2.285" ana="#short">Ay, my good lord. </l>
           </sp>
-          <stage xml:id="stg-4003.1"
-                      n="SD 5.2.285.1"
-                      type="business"
-                      who="#Hamlet_Ham #Laertes_Ham">Prepare to play. </stage>
+          <stage xml:id="stg-4003.1" n="SD 5.2.285.1" type="business" who="#Hamlet_Ham #Laertes_Ham">Prepare to play. </stage>
           <sp xml:id="sp-4004" who="#Claudius_Ham">
             <speaker xml:id="spk-4004">KING </speaker>
             <l xml:id="ftln-4004" n="5.2.286">Set me the stoups of wine upon that table.— </l>
@@ -8406,10 +7775,7 @@
             <p xml:id="p-4018">
               <lb xml:id="ftln-4018" n="5.2.300"/>Come, my lord. </p>
           </sp>
-          <stage xml:id="stg-4018"
-                      n="SD 5.2.300"
-                      type="business"
-                      who="#Hamlet_Ham #Laertes_Ham">They play. </stage>
+          <stage xml:id="stg-4018" n="SD 5.2.300" type="business" who="#Hamlet_Ham #Laertes_Ham">They play. </stage>
           <sp xml:id="sp-4019" who="#Hamlet_Ham">
             <speaker xml:id="spk-4019">HAMLET </speaker>
             <p xml:id="p-4019">
@@ -8439,26 +7805,16 @@
             <speaker xml:id="spk-4024">KING </speaker>
             <l xml:id="ftln-4024" n="5.2.306">Stay, give me drink.— Hamlet, this pearl is thine. </l>
             <l xml:id="ftln-4025" n="5.2.307" part="I">Here’s to thy health. </l>
-            <stage xml:id="stg-4025.1"
-                         n="SD 5.2.301.1"
-                         type="business"
-                         who="#Claudius_Ham">He drinks and then drops the pearl in the cup. </stage>
+            <stage xml:id="stg-4025.1" n="SD 5.2.301.1" type="business" who="#Claudius_Ham">He drinks and then drops the pearl in the cup. </stage>
             <stage xml:id="stg-4025.2" n="SD 5.2.301.2" type="business">
-              <stage xml:id="snd-4025.2"
-                            n="SD 5.2.301.2"
-                            type="sound"
-                            ana="drum trumpet ordnance">Drum, trumpets, and shot. </stage>
+              <stage xml:id="snd-4025.2" n="SD 5.2.301.2" type="sound" ana="drum trumpet ordnance">Drum, trumpets, and shot. </stage>
             </stage>
             <l xml:id="ftln-4026" n="5.2.308" part="F">Give him the cup. </l>
           </sp>
           <sp xml:id="sp-4027" who="#Hamlet_Ham">
             <speaker xml:id="spk-4027">HAMLET </speaker>
             <l xml:id="ftln-4027" n="5.2.309">I’ll play this bout first. Set it by awhile. </l>
-            <l xml:id="ftln-4028" n="5.2.310">Come. <stage xml:id="stg-4028"
-                            n="SD 5.2.310"
-                            type="business"
-                            rendition="inline"
-                            who="#Hamlet_Ham #Laertes_Ham"> They play. </stage> Another hit. What say you? </l>
+            <l xml:id="ftln-4028" n="5.2.310">Come. <stage xml:id="stg-4028" n="SD 5.2.310" type="business" rendition="inline" who="#Hamlet_Ham #Laertes_Ham"> They play. </stage> Another hit. What say you? </l>
           </sp>
           <sp xml:id="sp-4029" who="#Laertes_Ham">
             <speaker xml:id="spk-4029">LAERTES </speaker>
@@ -8474,10 +7830,7 @@
             <l xml:id="ftln-4032" n="5.2.314">Here, Hamlet, take my napkin; rub thy brows. </l>
             <l xml:id="ftln-4033" n="5.2.315">The Queen carouses to thy fortune, Hamlet. </l>
           </sp>
-          <stage xml:id="stg-4033.1"
-                      n="SD 5.2.315.1"
-                      type="business"
-                      who="#Gertrude_Ham">She lifts the cup. </stage>
+          <stage xml:id="stg-4033.1" n="SD 5.2.315.1" type="business" who="#Gertrude_Ham">She lifts the cup. </stage>
           <sp xml:id="sp-4034" who="#Hamlet_Ham">
             <speaker xml:id="spk-4034">HAMLET </speaker>
             <l xml:id="ftln-4034" n="5.2.316" ana="#short">Good madam. </l>
@@ -8490,10 +7843,7 @@
             <speaker xml:id="spk-4036">QUEEN </speaker>
             <l xml:id="ftln-4036" n="5.2.318">I will, my lord; I pray you pardon me. </l>
           </sp>
-          <stage xml:id="stg-4036"
-                      n="SD 5.2.318"
-                      type="business"
-                      who="#Gertrude_Ham">She drinks. </stage>
+          <stage xml:id="stg-4036" n="SD 5.2.318" type="business" who="#Gertrude_Ham">She drinks. </stage>
           <sp xml:id="sp-4037" who="#Claudius_Ham">
             <speaker xml:id="spk-4037">KING </speaker>
             <stage xml:id="stg-4037.0" n="SD 5.2.319.0" type="delivery">, aside </stage>
@@ -8531,10 +7881,7 @@
             <speaker xml:id="spk-4046">LAERTES </speaker>
             <l xml:id="ftln-4046" n="5.2.328" ana="#short">Say you so? Come on. </l>
           </sp>
-          <stage xml:id="stg-4046"
-                      n="SD 5.2.328"
-                      type="business"
-                      who="#Hamlet_Ham #Laertes_Ham">Play. </stage>
+          <stage xml:id="stg-4046" n="SD 5.2.328" type="business" who="#Hamlet_Ham #Laertes_Ham">Play. </stage>
           <sp xml:id="sp-4047" who="#Osric_Ham">
             <speaker xml:id="spk-4047">OSRIC </speaker>
             <l xml:id="ftln-4047" n="5.2.329" ana="#short">Nothing neither way. </l>
@@ -8543,10 +7890,7 @@
             <speaker xml:id="spk-4048">LAERTES </speaker>
             <l xml:id="ftln-4048" n="5.2.330" ana="#short">Have at you now! </l>
           </sp>
-          <stage xml:id="stg-4048.1"
-                      n="SD 5.2.330.1"
-                      type="business"
-                      who="#Hamlet_Ham #Laertes_Ham">Laertes wounds Hamlet. Then in scuffling they change rapiers, and Hamlet wounds Laertes. </stage>
+          <stage xml:id="stg-4048.1" n="SD 5.2.330.1" type="business" who="#Hamlet_Ham #Laertes_Ham">Laertes wounds Hamlet. Then in scuffling they change rapiers, and Hamlet wounds Laertes. </stage>
           <sp xml:id="sp-4049" who="#Claudius_Ham">
             <speaker xml:id="spk-4049">KING </speaker>
             <l xml:id="ftln-4049" n="5.2.331" ana="#short">Part them. They are incensed. </l>
@@ -8555,10 +7899,7 @@
             <speaker xml:id="spk-4050">HAMLET </speaker>
             <l xml:id="ftln-4050" n="5.2.332" ana="#short">Nay, come again. </l>
           </sp>
-          <stage xml:id="stg-4050.1"
-                      n="SD 5.2.332.1"
-                      type="business"
-                      who="#Gertrude_Ham">The Queen falls. </stage>
+          <stage xml:id="stg-4050.1" n="SD 5.2.332.1" type="business" who="#Gertrude_Ham">The Queen falls. </stage>
           <sp xml:id="sp-4051" who="#Osric_Ham">
             <speaker xml:id="spk-4051">OSRIC </speaker>
             <l xml:id="ftln-4051" n="5.2.333" ana="#short">Look to the Queen there, ho! </l>
@@ -8574,10 +7915,7 @@
           <sp xml:id="sp-4054" who="#Laertes_Ham">
             <speaker xml:id="spk-4054">LAERTES </speaker>
             <l xml:id="ftln-4054" n="5.2.336">Why as a woodcock to mine own springe, Osric. </l>
-            <stage xml:id="stg-4054.1"
-                         n="SD 5.2.336.1"
-                         type="business"
-                         who="#Laertes_Ham">He falls. </stage>
+            <stage xml:id="stg-4054.1" n="SD 5.2.336.1" type="business" who="#Laertes_Ham">He falls. </stage>
             <l xml:id="ftln-4055" n="5.2.337">I am justly killed with mine own treachery. </l>
           </sp>
           <sp xml:id="sp-4056" who="#Hamlet_Ham">
@@ -8593,10 +7931,7 @@
             <l xml:id="ftln-4058" n="5.2.340">No, no, the drink, the drink! O, my dear Hamlet! </l>
             <l xml:id="ftln-4059" n="5.2.341" ana="#short">The drink, the drink! I am poisoned. </l>
           </sp>
-          <stage xml:id="stg-4059"
-                      n="SD 5.2.341"
-                      type="business"
-                      who="#Gertrude_Ham">She dies. </stage>
+          <stage xml:id="stg-4059" n="SD 5.2.341" type="business" who="#Gertrude_Ham">She dies. </stage>
           <sp xml:id="sp-4060" who="#Hamlet_Ham">
             <speaker xml:id="spk-4060">HAMLET </speaker>
             <l xml:id="ftln-4060" n="5.2.342">O villainy! Ho! Let the door be locked. </l>
@@ -8618,10 +7953,7 @@
             <speaker xml:id="spk-4070">HAMLET </speaker>
             <l xml:id="ftln-4070" n="5.2.352">The point envenomed too! Then, venom, to thy work. </l>
           </sp>
-          <stage xml:id="stg-4071"
-                      n="SD 5.2.353"
-                      type="business"
-                      who="#Hamlet_Ham #Claudius_Ham">Hurts the King. </stage>
+          <stage xml:id="stg-4071" n="SD 5.2.353" type="business" who="#Hamlet_Ham #Claudius_Ham">Hurts the King. </stage>
           <sp xml:id="sp-4072" who="#ATTENDANTS_Ham">
             <speaker xml:id="spk-4072">ALL </speaker>
             <l xml:id="ftln-4072" n="5.2.354" ana="#short">Treason, treason! </l>
@@ -8634,16 +7966,10 @@
             <speaker xml:id="spk-4074">HAMLET </speaker>
             <l xml:id="ftln-4074" n="5.2.356">Here, thou incestuous, murd’rous, damnèd Dane, </l>
             <l xml:id="ftln-4075" n="5.2.357">Drink off this potion. Is thy union here? </l>
-            <stage xml:id="stg-4075.1"
-                         n="SD 5.2.357.1"
-                         type="business"
-                         who="#Hamlet_Ham #Claudius_Ham">Forcing him to drink the poison. </stage>
+            <stage xml:id="stg-4075.1" n="SD 5.2.357.1" type="business" who="#Hamlet_Ham #Claudius_Ham">Forcing him to drink the poison. </stage>
             <l xml:id="ftln-4076" n="5.2.358" part="I">Follow my mother. </l>
           </sp>
-          <stage xml:id="stg-4076"
-                      n="SD 5.2.358"
-                      type="business"
-                      who="#Claudius_Ham">King dies. </stage>
+          <stage xml:id="stg-4076" n="SD 5.2.358" type="business" who="#Claudius_Ham">King dies. </stage>
           <sp xml:id="sp-4077" who="#Laertes_Ham">
             <speaker xml:id="spk-4077">LAERTES </speaker>
             <l xml:id="ftln-4077" n="5.2.359" part="F">He is justly served. </l>
@@ -8652,10 +7978,7 @@
             <l xml:id="ftln-4080" n="5.2.362">Mine and my father’s death come not upon thee, </l>
             <l xml:id="ftln-4081" n="5.2.363" ana="#short">Nor thine on me. </l>
           </sp>
-          <stage xml:id="stg-4081"
-                      n="SD 5.2.363"
-                      type="business"
-                      who="#Laertes_Ham">Dies. </stage>
+          <stage xml:id="stg-4081" n="SD 5.2.363" type="business" who="#Laertes_Ham">Dies. </stage>
           <sp xml:id="sp-4082" who="#Hamlet_Ham">
             <speaker xml:id="spk-4082">HAMLET </speaker>
             <l xml:id="ftln-4082" n="5.2.364">Heaven make thee free of it. I follow thee.— </l>
@@ -8674,10 +7997,7 @@
             <l xml:id="ftln-4092" n="5.2.374">I am more an antique Roman than a Dane. </l>
             <l xml:id="ftln-4093" n="5.2.375" part="I">Here’s yet some liquor left. </l>
           </sp>
-          <stage xml:id="stg-4093"
-                      n="SD 5.2.375"
-                      type="business"
-                      who="#Horatio_Ham">He picks up the cup. </stage>
+          <stage xml:id="stg-4093" n="SD 5.2.375" type="business" who="#Horatio_Ham">He picks up the cup. </stage>
           <sp xml:id="sp-4094" who="#Hamlet_Ham">
             <speaker xml:id="spk-4094">HAMLET </speaker>
             <l xml:id="ftln-4094" n="5.2.376" part="F">As thou ’rt a man, </l>
@@ -8689,17 +8009,11 @@
             <l xml:id="ftln-4101" n="5.2.383">And in this harsh world draw thy breath in pain </l>
             <l xml:id="ftln-4102" n="5.2.384" part="I">To tell my story. </l>
             <stage xml:id="stg-4102.1" n="SD 5.2.384.1" type="business">
-              <stage xml:id="snd-4102.1"
-                            n="SD 5.2.384.1"
-                            type="sound"
-                            ana="march drum ordnance">A march afar off and shot within. </stage>
+              <stage xml:id="snd-4102.1" n="SD 5.2.384.1" type="sound" ana="march drum ordnance">A march afar off and shot within. </stage>
             </stage>
             <l xml:id="ftln-4103" n="5.2.385" part="F">What warlike noise is this? </l>
           </sp>
-          <stage xml:id="stg-4103.1"
-                      n="SD 5.2.385.1"
-                      type="entrance"
-                      who="#Osric_Ham">Enter Osric. </stage>
+          <stage xml:id="stg-4103.1" n="SD 5.2.385.1" type="entrance" who="#Osric_Ham">Enter Osric. </stage>
           <sp xml:id="sp-4104" who="#Osric_Ham">
             <speaker xml:id="spk-4104">OSRIC </speaker>
             <l xml:id="ftln-4104" n="5.2.386">Young Fortinbras, with conquest come from Poland, </l>
@@ -8717,26 +8031,17 @@
             <l xml:id="ftln-4113" n="5.2.395">Which have solicited— the rest is silence. </l>
             <l xml:id="ftln-4114" n="5.2.396" ana="#short">O, O, O, O! </l>
           </sp>
-          <stage xml:id="stg-4114"
-                      n="SD 5.2.396"
-                      type="business"
-                      who="#Hamlet_Ham">Dies. </stage>
+          <stage xml:id="stg-4114" n="SD 5.2.396" type="business" who="#Hamlet_Ham">Dies. </stage>
           <sp xml:id="sp-4115" who="#Horatio_Ham">
             <speaker xml:id="spk-4115">HORATIO </speaker>
             <l xml:id="ftln-4115" n="5.2.397">Now cracks a noble heart. Good night, sweet prince, </l>
             <l xml:id="ftln-4116" n="5.2.398">And flights of angels sing thee to thy rest. </l>
             <stage xml:id="stg-4116.1" n="SD 5.2.398.1" type="business">
-              <stage xml:id="snd-4116.1"
-                            n="SD 5.2.398.1"
-                            type="sound"
-                            ana="march drum">March within. </stage>
+              <stage xml:id="snd-4116.1" n="SD 5.2.398.1" type="sound" ana="march drum">March within. </stage>
             </stage>
             <l xml:id="ftln-4117" n="5.2.399" ana="#short">Why does the drum come hither? </l>
           </sp>
-          <stage xml:id="stg-4117.1"
-                      n="SD 5.2.399.1"
-                      type="entrance"
-                      who="#Fortinbras_Ham #AMBASSADORS_Ham #SOLDIERS.FORTINBRAS_Ham">Enter Fortinbras with the English Ambassadors with <stage xml:id="snd-4117.1" n="SD 5.2.399.1" type="sound" ana="drum">Drum, </stage> Colors, and Attendants. </stage>
+          <stage xml:id="stg-4117.1" n="SD 5.2.399.1" type="entrance" who="#Fortinbras_Ham #AMBASSADORS_Ham #SOLDIERS.FORTINBRAS_Ham">Enter Fortinbras with the English Ambassadors with <stage xml:id="snd-4117.1" n="SD 5.2.399.1" type="sound" ana="drum">Drum, </stage> Colors, and Attendants. </stage>
           <sp xml:id="sp-4118" who="#Fortinbras_Ham">
             <speaker xml:id="spk-4118">FORTINBRAS </speaker>
             <l xml:id="ftln-4118" n="5.2.400" ana="#short">Where is this sight? </l>
@@ -8808,10 +8113,7 @@
             <l xml:id="ftln-4166" n="5.2.448">Becomes the field but here shows much amiss. </l>
             <l xml:id="ftln-4167" n="5.2.449" ana="#short">Go, bid the soldiers shoot. </l>
           </sp>
-          <stage xml:id="stg-4167.1"
-                      n="SD 5.2.449.1"
-                      type="exit"
-                      who="#Fortinbras_Ham #Horatio_Ham #AMBASSADORS_Ham #Osric_Ham #ATTENDANTS_Ham #SOLDIERS.FORTINBRAS_Ham">They exit, marching, after the which, a peal of ordnance are shot off. </stage>
+          <stage xml:id="stg-4167.1" n="SD 5.2.449.1" type="exit" who="#Fortinbras_Ham #Horatio_Ham #AMBASSADORS_Ham #Osric_Ham #ATTENDANTS_Ham #SOLDIERS.FORTINBRAS_Ham">They exit, marching, after the which, a peal of ordnance are shot off. </stage>
         </div>
       </div>
     </body>

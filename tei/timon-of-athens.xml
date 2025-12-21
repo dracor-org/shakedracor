@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shake000029">
   <teiHeader>
     <fileDesc>
@@ -111,9 +112,7 @@
           <person xml:id="Jeweler_Tim" sex="MALE">
             <persName>Jeweler</persName>
           </person>
-          <person xml:id="Timon_Tim"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q1747004">
+          <person xml:id="Timon_Tim" sex="MALE" ana="http://www.wikidata.org/entity/Q1747004">
             <persName>Timon</persName>
           </person>
           <personGrp xml:id="MESSENGERS.X.1_Tim" sex="UNKNOWN">
@@ -125,17 +124,13 @@
           <person xml:id="SERVANTS.TIMON.Lucilius_Tim" sex="MALE">
             <persName>Lucilius</persName>
           </person>
-          <person xml:id="Apemantus_Tim"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q4779338">
+          <person xml:id="Apemantus_Tim" sex="MALE" ana="http://www.wikidata.org/entity/Q4779338">
             <persName>Apemantus</persName>
           </person>
           <personGrp xml:id="MESSENGERS.X.2_Tim" sex="UNKNOWN">
             <name>Soldiers, Servants, Messengers, Attendants, Musicians</name>
           </personGrp>
-          <person xml:id="Alcibiades_Tim"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q187982">
+          <person xml:id="Alcibiades_Tim" sex="MALE" ana="http://www.wikidata.org/entity/Q187982">
             <persName>Alcibiades</persName>
           </person>
           <personGrp xml:id="LORDS.0.1_Tim" sex="UNKNOWN">
@@ -153,9 +148,7 @@
           <person xml:id="SERVANTS.TIMON.X.1_Tim" sex="MALE">
             <persName>SERVANTS.TIMON.X.1_Tim</persName>
           </person>
-          <personGrp xml:id="Cupid_Tim"
-                          sex="MALE"
-                          ana="http://www.wikidata.org/entity/Q26904354">
+          <personGrp xml:id="Cupid_Tim" sex="MALE" ana="http://www.wikidata.org/entity/Q26904354">
             <name>“Cupid” and other Maskers (as Amazons)</name>
           </personGrp>
           <person xml:id="FRIENDS.Lucius_Tim" sex="MALE">
@@ -326,9 +319,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/shake000029"
-                   passive="http://www.wikidata.org/entity/Q284641"/>
+      <relation name="wikidata" active="https://dracor.org/entity/shake000029" passive="http://www.wikidata.org/entity/Q284641"/>
     </listRelation>
   </standOff>
   <text>
@@ -574,10 +565,7 @@
         <head>ACT 1 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-0000"
-                      n="SD 1.1.0"
-                      type="entrance"
-                      who="#Poet_Tim #Painter_Tim #Jeweler_Tim #Merchant_Tim">Enter Poet, Painter, Jeweler, and Merchant, at several doors. </stage>
+          <stage xml:id="stg-0000" n="SD 1.1.0" type="entrance" who="#Poet_Tim #Painter_Tim #Jeweler_Tim #Merchant_Tim">Enter Poet, Painter, Jeweler, and Merchant, at several doors. </stage>
           <sp xml:id="sp-0001" who="#Poet_Tim">
             <speaker xml:id="spk-0001">POET </speaker>
             <l xml:id="ftln-0001" n="1.1.1" ana="#short">Good day, sir. </l>
@@ -642,10 +630,7 @@
           </sp>
           <sp xml:id="sp-0022" who="#Merchant_Tim">
             <speaker xml:id="spk-0022">MERCHANT </speaker>
-            <stage xml:id="stg-0022.0"
-                         n="SD 1.1.22.0"
-                         type="business"
-                         who="#Merchant_Tim">, looking at the jewel </stage>
+            <stage xml:id="stg-0022.0" n="SD 1.1.22.0" type="business" who="#Merchant_Tim">, looking at the jewel </stage>
             <l xml:id="ftln-0022" n="1.1.22" part="I">’Tis a good form. </l>
           </sp>
           <sp xml:id="sp-0023" who="#Jeweler_Tim">
@@ -707,10 +692,7 @@
             <l xml:id="ftln-0046" n="1.1.46">It tutors nature. Artificial strife </l>
             <l xml:id="ftln-0047" n="1.1.47">Lives in these touches livelier than life. </l>
           </sp>
-          <stage xml:id="stg-0047.1"
-                      n="SD 1.1.47.1"
-                      type="entrance"
-                      who="#SENATORS_Tim">Enter certain Senators. </stage>
+          <stage xml:id="stg-0047.1" n="SD 1.1.47.1" type="entrance" who="#SENATORS_Tim">Enter certain Senators. </stage>
           <sp xml:id="sp-0048" who="#Painter_Tim">
             <speaker xml:id="spk-0048">PAINTER </speaker>
             <l xml:id="ftln-0048" n="1.1.48" ana="#short">How this lord is followed. </l>
@@ -727,11 +709,7 @@
             <speaker xml:id="spk-0051">POET </speaker>
             <l xml:id="ftln-0051" n="1.1.51">You see this confluence, this great flood of visitors. </l>
             <l xml:id="ftln-0052" n="1.1.52" part="I">
-              <stage xml:id="stg-0052"
-                            n="SD 1.1.52"
-                            type="business"
-                            rendition="inline"
-                            who="#Poet_Tim">( Indicating his poem.) </stage>I have in this rough work shaped out a man </l>
+              <stage xml:id="stg-0052" n="SD 1.1.52" type="business" rendition="inline" who="#Poet_Tim">( Indicating his poem.) </stage>I have in this rough work shaped out a man </l>
             <l xml:id="ftln-0054" n="1.1.54">Whom this beneath world doth embrace and hug </l>
             <l xml:id="ftln-0055" n="1.1.55">With amplest entertainment. My free drift </l>
             <l xml:id="ftln-0056" n="1.1.56">Halts not particularly but moves itself </l>
@@ -816,10 +794,7 @@
             <l xml:id="ftln-0109" n="1.1.109">To show Lord Timon that mean eyes have seen </l>
             <l xml:id="ftln-0110" n="1.1.110" ana="#short">The foot above the head. </l>
           </sp>
-          <stage xml:id="stg-0110.1"
-                      n="SD 1.1.110.1"
-                      type="entrance"
-                      who="#Timon_Tim #MESSENGERS.X.1_Tim #SERVANTS.TIMON.Lucilius_Tim #SERVANTS.TIMON_Tim">
+          <stage xml:id="stg-0110.1" n="SD 1.1.110.1" type="entrance" who="#Timon_Tim #MESSENGERS.X.1_Tim #SERVANTS.TIMON.Lucilius_Tim #SERVANTS.TIMON_Tim">
             <stage xml:id="snd-0110.1" n="SD 1.1.110.1" type="sound" ana="trumpet">Trumpets sound. </stage> Enter Lord Timon, addressing himself courteously to every suitor. He is accompanied by a Messenger and followed by Lucilius and other Servants. </stage>
           <sp xml:id="sp-0111" who="#Timon_Tim">
             <speaker xml:id="spk-0111">TIMON </speaker>
@@ -856,14 +831,8 @@
             <speaker xml:id="spk-0127">MESSENGER </speaker>
             <l xml:id="ftln-0127" n="1.1.127" ana="#short">All happiness to your Honor. </l>
           </sp>
-          <stage xml:id="stg-0127"
-                      n="SD 1.1.127"
-                      type="exit"
-                      who="#MESSENGERS.X.1_Tim">He exits. </stage>
-          <stage xml:id="stg-0127.1"
-                      n="SD 1.1.127.1"
-                      type="entrance"
-                      who="#OldMan_Tim">Enter an old Athenian. </stage>
+          <stage xml:id="stg-0127" n="SD 1.1.127" type="exit" who="#MESSENGERS.X.1_Tim">He exits. </stage>
+          <stage xml:id="stg-0127.1" n="SD 1.1.127.1" type="entrance" who="#OldMan_Tim">Enter an old Athenian. </stage>
           <sp xml:id="sp-0128" who="#OldMan_Tim">
             <speaker xml:id="spk-0128">OLD MAN </speaker>
             <l xml:id="ftln-0128" n="1.1.128" part="I">Lord Timon, hear me speak. </l>
@@ -983,16 +952,10 @@
             <l xml:id="ftln-0175" n="1.1.175">That state or fortune fall into my keeping </l>
             <l xml:id="ftln-0176" n="1.1.176" ana="#short">Which is not owed to you. </l>
           </sp>
-          <stage xml:id="stg-0176.1"
-                      n="SD 1.1.176.1"
-                      type="exit"
-                      who="#SERVANTS.TIMON.Lucilius_Tim #OldMan_Tim">He exits with the old Athenian. </stage>
+          <stage xml:id="stg-0176.1" n="SD 1.1.176.1" type="exit" who="#SERVANTS.TIMON.Lucilius_Tim #OldMan_Tim">He exits with the old Athenian. </stage>
           <sp xml:id="sp-0177" who="#Poet_Tim">
             <speaker xml:id="spk-0177">POET </speaker>
-            <stage xml:id="stg-0177.0"
-                         n="SD 1.1.177.0"
-                         type="business"
-                         who="#Poet_Tim">, presenting his poem to Timon </stage>
+            <stage xml:id="stg-0177.0" n="SD 1.1.177.0" type="business" who="#Poet_Tim">, presenting his poem to Timon </stage>
             <l xml:id="ftln-0177" n="1.1.177">Vouchsafe my labor, and long live your Lordship. </l>
           </sp>
           <sp xml:id="sp-0178" who="#Timon_Tim">
@@ -1052,10 +1015,7 @@
             <l xml:id="ftln-0203" n="1.1.203">No, my good lord. He speaks the common tongue, </l>
             <l xml:id="ftln-0204" n="1.1.204" ana="#short">Which all men speak with him. </l>
           </sp>
-          <stage xml:id="stg-0204.1"
-                      n="SD 1.1.204.1"
-                      type="entrance"
-                      who="#Apemantus_Tim">Enter Apemantus. </stage>
+          <stage xml:id="stg-0204.1" n="SD 1.1.204.1" type="entrance" who="#Apemantus_Tim">Enter Apemantus. </stage>
           <sp xml:id="sp-0205" who="#Timon_Tim">
             <speaker xml:id="spk-0205">TIMON </speaker>
             <p xml:id="p-0205">
@@ -1319,10 +1279,7 @@
             <p xml:id="p-0271">
               <lb xml:id="ftln-0271" n="1.1.271"/>Traffic’s thy god, and thy god confound <lb xml:id="ftln-0272" n="1.1.272"/>thee! </p>
           </sp>
-          <stage xml:id="stg-0272.1b"
-                      n="SD 1.1.272.1"
-                      type="entrance"
-                      who="#MESSENGERS.X.2_Tim">
+          <stage xml:id="stg-0272.1b" n="SD 1.1.272.1" type="entrance" who="#MESSENGERS.X.2_Tim">
             <stage xml:id="snd-0272.1" n="SD 1.1.272.1" type="sound" ana="trumpet">Trumpet sounds. </stage> Enter a Messenger. </stage>
           <sp xml:id="sp-0273" who="#Timon_Tim">
             <speaker xml:id="spk-0273">TIMON </speaker>
@@ -1336,23 +1293,14 @@
           <sp xml:id="sp-0276" who="#Timon_Tim">
             <speaker xml:id="spk-0276">TIMON </speaker>
             <l xml:id="ftln-0276" n="1.1.276">Pray, entertain them. Give them guide to us. </l>
-            <stage xml:id="stg-0276.1"
-                         n="SD 1.1.276.1"
-                         type="exit"
-                         who="#MESSENGERS.X.2_Tim #SERVANTS.TIMON.0_Tim">Some Servants exit with Messenger. </stage>
+            <stage xml:id="stg-0276.1" n="SD 1.1.276.1" type="exit" who="#MESSENGERS.X.2_Tim #SERVANTS.TIMON.0_Tim">Some Servants exit with Messenger. </stage>
             <l xml:id="ftln-0277" n="1.1.277">You must needs dine with me. Go not you hence </l>
             <l xml:id="ftln-0278" n="1.1.278">Till I have thanked you.— When dinner’s done </l>
             <l xml:id="ftln-0279" n="1.1.279">Show me this piece.— I am joyful of your sights. </l>
-            <stage xml:id="stg-0279.1"
-                         n="SD 1.1.279.1"
-                         type="entrance"
-                         who="#Alcibiades_Tim #ATTENDANTS.ALCIBIADES_Tim">Enter Alcibiades with the rest. </stage>
+            <stage xml:id="stg-0279.1" n="SD 1.1.279.1" type="entrance" who="#Alcibiades_Tim #ATTENDANTS.ALCIBIADES_Tim">Enter Alcibiades with the rest. </stage>
             <l xml:id="ftln-0280" n="1.1.280" ana="#short">Most welcome, sir. </l>
           </sp>
-          <stage xml:id="stg-0280"
-                      n="SD 1.1.280"
-                      type="business"
-                      who="#Timon_Tim #Alcibiades_Tim">They bow to each other. </stage>
+          <stage xml:id="stg-0280" n="SD 1.1.280" type="business" who="#Timon_Tim #Alcibiades_Tim">They bow to each other. </stage>
           <sp xml:id="sp-0281" who="#Apemantus_Tim">
             <speaker xml:id="spk-0281">APEMANTUS </speaker>
             <stage xml:id="stg-0281" n="SD 1.1.281" type="delivery">, apart </stage>
@@ -1374,14 +1322,8 @@
             <l xml:id="ftln-0290" n="1.1.290">Ere we depart, we’ll share a bounteous time </l>
             <l xml:id="ftln-0291" n="1.1.291">In different pleasures. Pray you, let us in. </l>
           </sp>
-          <stage xml:id="stg-0291.1"
-                      n="SD 1.1.291.1"
-                      type="exit"
-                      who="#Timon_Tim #SENATORS_Tim #Poet_Tim #Painter_Tim #Jeweler_Tim #Merchant_Tim #SERVANTS.TIMON_Tim #Alcibiades_Tim #ATTENDANTS.ALCIBIADES_Tim">All but Apemantus exit. </stage>
-          <stage xml:id="stg-0291.2"
-                      n="SD 1.1.291.2"
-                      type="entrance"
-                      who="#LORDS_Tim">Enter two Lords. </stage>
+          <stage xml:id="stg-0291.1" n="SD 1.1.291.1" type="exit" who="#Timon_Tim #SENATORS_Tim #Poet_Tim #Painter_Tim #Jeweler_Tim #Merchant_Tim #SERVANTS.TIMON_Tim #Alcibiades_Tim #ATTENDANTS.ALCIBIADES_Tim">All but Apemantus exit. </stage>
+          <stage xml:id="stg-0291.2" n="SD 1.1.291.2" type="entrance" who="#LORDS_Tim">Enter two Lords. </stage>
           <sp xml:id="sp-0292" who="#LORDS.0.1_Tim">
             <speaker xml:id="spk-0292">FIRST LORD </speaker>
             <l xml:id="ftln-0292" n="1.1.292" ana="#short">What time o’ day is ’t, Apemantus? </l>
@@ -1439,10 +1381,7 @@
             <speaker xml:id="spk-0307">APEMANTUS </speaker>
             <l xml:id="ftln-0307" n="1.1.307" ana="#short">I will fly, like a dog, the heels o’ th’ ass. </l>
           </sp>
-          <stage xml:id="stg-0307.1"
-                      n="SD 1.1.307.1"
-                      type="exit"
-                      who="#Apemantus_Tim">He exits. </stage>
+          <stage xml:id="stg-0307.1" n="SD 1.1.307.1" type="exit" who="#Apemantus_Tim">He exits. </stage>
           <sp xml:id="sp-0308" who="#LORDS.0.1_Tim">
             <speaker xml:id="spk-0308">FIRST LORD </speaker>
             <l xml:id="ftln-0308" n="1.1.308">He’s opposite to humanity. Come, shall we in </l>
@@ -1467,17 +1406,11 @@
             <l xml:id="ftln-0318" n="1.1.318">Long may he live in fortunes. Shall we in? </l>
             <l xml:id="ftln-0319" n="1.1.319" ana="#short">I’ll keep you company. </l>
           </sp>
-          <stage xml:id="stg-0319.1"
-                      n="SD 1.1.319.1"
-                      type="exit"
-                      who="#LORDS_Tim">They exit. </stage>
+          <stage xml:id="stg-0319.1" n="SD 1.1.319.1" type="exit" who="#LORDS_Tim">They exit. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-0319.2c"
-                      n="SD 1.2.0"
-                      type="entrance"
-                      who="#Timon_Tim #SENATORS_Tim #LORDS_Tim #FRIENDS.Lucius_Tim #Alcibiades_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #ATTENDANTS.TIMON_Tim #Apemantus_Tim">
+          <stage xml:id="stg-0319.2c" n="SD 1.2.0" type="entrance" who="#Timon_Tim #SENATORS_Tim #LORDS_Tim #FRIENDS.Lucius_Tim #Alcibiades_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #ATTENDANTS.TIMON_Tim #Apemantus_Tim">
             <stage xml:id="snd-0319.2" n="SD 1.2.0" type="sound" ana="hautboys">Hautboys playing loud music. </stage> A great banquet served in, and then enter Lord Timon, the States, the Athenian Lords ( including Lucius), Alcibiades, and Ventidius( which Timon redeemed from prison). Flavius and others are in attendance. Then comes dropping after all Apemantus discontentedly like himself. </stage>
           <sp xml:id="sp-0320" who="#FRIENDS.Ventidius_Tim">
             <speaker xml:id="spk-0320">VENTIDIUS </speaker>
@@ -1490,10 +1423,7 @@
             <l xml:id="ftln-0326" n="1.2.7">Doubled with thanks and service, from whose help </l>
             <l xml:id="ftln-0327" n="1.2.8" part="I">I derived liberty. </l>
           </sp>
-          <stage xml:id="stg-0327"
-                      n="SD 1.2.8"
-                      type="business"
-                      who="#FRIENDS.Ventidius_Tim">He offers a purse. </stage>
+          <stage xml:id="stg-0327" n="SD 1.2.8" type="business" who="#FRIENDS.Ventidius_Tim">He offers a purse. </stage>
           <sp xml:id="sp-0328" who="#Timon_Tim">
             <speaker xml:id="spk-0328">TIMON </speaker>
             <l xml:id="ftln-0328" n="1.2.9" part="F">O, by no means, </l>
@@ -1516,10 +1446,7 @@
             <l xml:id="ftln-0339" n="1.2.20">Pray, sit. More welcome are you to my fortunes </l>
             <l xml:id="ftln-0340" n="1.2.21" ana="#short">Than my fortunes to me. </l>
           </sp>
-          <stage xml:id="stg-0340"
-                      n="SD 1.2.21"
-                      type="business"
-                      who="#Timon_Tim #SENATORS_Tim #LORDS_Tim #FRIENDS.Lucius_Tim #Alcibiades_Tim #FRIENDS.Ventidius_Tim #Apemantus_Tim">They sit. </stage>
+          <stage xml:id="stg-0340" n="SD 1.2.21" type="business" who="#Timon_Tim #SENATORS_Tim #LORDS_Tim #FRIENDS.Lucius_Tim #Alcibiades_Tim #FRIENDS.Ventidius_Tim #Apemantus_Tim">They sit. </stage>
           <sp xml:id="sp-0341" who="#LORDS.0.1_Tim">
             <speaker xml:id="spk-0341">FIRST LORD </speaker>
             <l xml:id="ftln-0341" n="1.2.22" ana="#short">My lord, we always have confessed it. </l>
@@ -1597,10 +1524,7 @@
               <l xml:id="ftln-0392" n="1.2.73">Amen. So fall to ’t. </l>
               <l xml:id="ftln-0393" n="1.2.74">Rich men sin, and I eat root. </l>
             </lg>
-            <stage xml:id="stg-0393.1"
-                         n="SD 1.2.74.1"
-                         type="business"
-                         who="#Apemantus_Tim">He eats and drinks. </stage>
+            <stage xml:id="stg-0393.1" n="SD 1.2.74.1" type="business" who="#Apemantus_Tim">He eats and drinks. </stage>
             <l xml:id="ftln-0394" n="1.2.75">Much good dich thy good heart, Apemantus! </l>
           </sp>
           <sp xml:id="sp-0395" who="#Timon_Tim">
@@ -1670,10 +1594,7 @@
           <sp xml:id="sp-0437" who="#Timon_Tim">
             <speaker xml:id="spk-0437">TIMON </speaker>
             <l xml:id="ftln-0437" n="1.2.118" ana="#short" next="#ftln-0438">What means that trump? </l>
-            <stage xml:id="stg-0437.1"
-                         n="SD 1.2.118.1"
-                         type="entrance"
-                         who="#SERVANTS.TIMON.X.1_Tim">Enter Servant. </stage>
+            <stage xml:id="stg-0437.1" n="SD 1.2.118.1" type="entrance" who="#SERVANTS.TIMON.X.1_Tim">Enter Servant. </stage>
             <l xml:id="ftln-0438" n="1.2.119" part="F">How now? </l>
           </sp>
           <sp xml:id="sp-0439" who="#SERVANTS.TIMON.X.1_Tim">
@@ -1696,14 +1617,8 @@
             <p xml:id="p-0444">
               <lb xml:id="ftln-0444" n="1.2.125"/>I pray, let them be admitted. </p>
           </sp>
-          <stage xml:id="stg-0444"
-                      n="SD 1.2.125"
-                      type="exit"
-                      who="#SERVANTS.TIMON.X.1_Tim">Servant exits. </stage>
-          <stage xml:id="stg-0444.1"
-                      n="SD 1.2.125.1"
-                      type="entrance"
-                      who="#Cupid_Tim">Enter “ Cupid.” </stage>
+          <stage xml:id="stg-0444" n="SD 1.2.125" type="exit" who="#SERVANTS.TIMON.X.1_Tim">Servant exits. </stage>
+          <stage xml:id="stg-0444.1" n="SD 1.2.125.1" type="entrance" who="#Cupid_Tim">Enter “ Cupid.” </stage>
           <sp xml:id="sp-0445" who="#Cupid_Tim">
             <speaker xml:id="spk-0445">CUPID </speaker>
             <l xml:id="ftln-0445" n="1.2.126">Hail to thee, worthy Timon, and to all </l>
@@ -1722,10 +1637,7 @@
             <speaker xml:id="spk-0453">LUCIUS </speaker>
             <l xml:id="ftln-0453" n="1.2.134">You see, my lord, how ample you’re beloved. </l>
           </sp>
-          <stage xml:id="stg-0453.1b"
-                      n="SD 1.2.134.1"
-                      type="entrance"
-                      who="#LADIES_Tim">
+          <stage xml:id="stg-0453.1b" n="SD 1.2.134.1" type="entrance" who="#LADIES_Tim">
             <stage xml:id="snd-0453.1a" n="SD 1.2.134.1" type="sound">Music. </stage> Enter the masque of Ladies as Amazons, with lutes in their hands, dancing and playing. </stage>
           <sp xml:id="sp-0454" who="#Apemantus_Tim">
             <speaker xml:id="spk-0454">APEMANTUS </speaker>
@@ -1746,14 +1658,7 @@
             <l xml:id="ftln-0467" n="1.2.148">Would one day stamp upon me. ’T ’as been done. </l>
             <l xml:id="ftln-0468" n="1.2.149">Men shut their doors against a setting sun. </l>
           </sp>
-          <stage xml:id="stg-0468.1"
-                      n="SD 1.2.149.1"
-                      type="business"
-                      rendition="centered"
-                      who="#SENATORS_Tim #LORDS_Tim #FRIENDS.Lucius_Tim #Alcibiades_Tim #FRIENDS.Ventidius_Tim #LADIES_Tim">The Lords rise from table, with much adoring of Timon, and to show their loves each single out an Amazon, and all dance, men with women, <stage xml:id="snd-0468.1"
-                         n="SD 1.2.149.1"
-                         type="sound"
-                         ana="hautboys">a lofty strain or two to the hautboys</stage>, and cease. </stage>
+          <stage xml:id="stg-0468.1" n="SD 1.2.149.1" type="business" rendition="centered" who="#SENATORS_Tim #LORDS_Tim #FRIENDS.Lucius_Tim #Alcibiades_Tim #FRIENDS.Ventidius_Tim #LADIES_Tim">The Lords rise from table, with much adoring of Timon, and to show their loves each single out an Amazon, and all dance, men with women, <stage xml:id="snd-0468.1" n="SD 1.2.149.1" type="sound" ana="hautboys">a lofty strain or two to the hautboys</stage>, and cease. </stage>
           <sp xml:id="sp-0469" who="#Timon_Tim">
             <speaker xml:id="spk-0469">TIMON </speaker>
             <l xml:id="ftln-0469" n="1.2.150">You have done our pleasures much grace, fair ladies, </l>
@@ -1782,10 +1687,7 @@
             <speaker xml:id="spk-0480">ALL LADIES </speaker>
             <l xml:id="ftln-0480" n="1.2.161" ana="#short">Most thankfully, my lord. </l>
           </sp>
-          <stage xml:id="stg-0480.1"
-                      n="SD 1.2.161.1"
-                      type="exit"
-                      who="#Cupid_Tim #LADIES_Tim">Cupid and Ladies exit. </stage>
+          <stage xml:id="stg-0480.1" n="SD 1.2.161.1" type="exit" who="#Cupid_Tim #LADIES_Tim">Cupid and Ladies exit. </stage>
           <sp xml:id="sp-0481" who="#Timon_Tim">
             <speaker xml:id="spk-0481">TIMON </speaker>
             <l xml:id="ftln-0481" n="1.2.162" ana="#short">Flavius. </l>
@@ -1807,10 +1709,7 @@
             <l xml:id="ftln-0488" n="1.2.169">’Tis pity bounty had not eyes behind, </l>
             <l xml:id="ftln-0489" n="1.2.170">That man might ne’er be wretched for his mind. </l>
           </sp>
-          <stage xml:id="stg-0489.1"
-                      n="SD 1.2.170.1"
-                      type="exit"
-                      who="#Flavius_Tim">He exits. </stage>
+          <stage xml:id="stg-0489.1" n="SD 1.2.170.1" type="exit" who="#Flavius_Tim">He exits. </stage>
           <sp xml:id="sp-0490" who="#LORDS.0.1_Tim">
             <speaker xml:id="spk-0490">FIRST LORD </speaker>
             <l xml:id="ftln-0490" n="1.2.171" ana="#short">Where be our men? </l>
@@ -1823,10 +1722,7 @@
             <speaker xml:id="spk-0492">SECOND LORD </speaker>
             <l xml:id="ftln-0492" n="1.2.173" part="I">Our horses. </l>
           </sp>
-          <stage xml:id="stg-0492.1"
-                      n="SD 1.2.173.1"
-                      type="entrance"
-                      who="#Flavius_Tim">Enter Flavius, with the casket. </stage>
+          <stage xml:id="stg-0492.1" n="SD 1.2.173.1" type="entrance" who="#Flavius_Tim">Enter Flavius, with the casket. </stage>
           <sp xml:id="sp-0493" who="#Timon_Tim">
             <speaker xml:id="spk-0493">TIMON </speaker>
             <l xml:id="ftln-0493" n="1.2.174" part="F">O my friends, I have one word </l>
@@ -1839,15 +1735,11 @@
             <speaker xml:id="spk-0498">FIRST LORD </speaker>
             <l xml:id="ftln-0498" n="1.2.179">I am so far already in your gifts— </l>
           </sp>
-          <sp xml:id="sp-0499"
-                   who="#LORDS.0.2_Tim #LORDS.0.3_Tim #FRIENDS.Lucius_Tim #Alcibiades_Tim #FRIENDS.Ventidius_Tim">
+          <sp xml:id="sp-0499" who="#LORDS.0.2_Tim #LORDS.0.3_Tim #FRIENDS.Lucius_Tim #Alcibiades_Tim #FRIENDS.Ventidius_Tim">
             <speaker xml:id="spk-0499">ALL </speaker>
             <l xml:id="ftln-0499" n="1.2.180" ana="#short">So are we all. </l>
           </sp>
-          <stage xml:id="stg-0499.1"
-                      n="SD 1.2.180.1"
-                      type="entrance"
-                      who="#SERVANTS.TIMON.1_Tim">Enter a Servant. </stage>
+          <stage xml:id="stg-0499.1" n="SD 1.2.180.1" type="entrance" who="#SERVANTS.TIMON.1_Tim">Enter a Servant. </stage>
           <sp xml:id="sp-0500" who="#SERVANTS.TIMON.1_Tim">
             <speaker xml:id="spk-0500">SERVANT </speaker>
             <l xml:id="ftln-0500" n="1.2.181">My lord, there are certain nobles of the Senate </l>
@@ -1857,10 +1749,7 @@
             <speaker xml:id="spk-0502">TIMON </speaker>
             <l xml:id="ftln-0502" n="1.2.183" part="I">They are fairly welcome. </l>
           </sp>
-          <stage xml:id="stg-0502"
-                      n="SD 1.2.183"
-                      type="exit"
-                      who="#SERVANTS.TIMON.1_Tim">Servant exits. </stage>
+          <stage xml:id="stg-0502" n="SD 1.2.183" type="exit" who="#SERVANTS.TIMON.1_Tim">Servant exits. </stage>
           <sp xml:id="sp-0503" who="#Flavius_Tim">
             <speaker xml:id="spk-0503">FLAVIUS </speaker>
             <l xml:id="ftln-0503" n="1.2.184" part="F">I beseech your Honor, </l>
@@ -1876,10 +1765,7 @@
             <stage xml:id="stg-0508" n="SD 1.2.189" type="delivery">, aside </stage>
             <l xml:id="ftln-0508" n="1.2.189" ana="#short">I scarce know how. </l>
           </sp>
-          <stage xml:id="stg-0508.1"
-                      n="SD 1.2.189.1"
-                      type="entrance"
-                      who="#SERVANTS.TIMON.2_Tim">Enter another Servant. </stage>
+          <stage xml:id="stg-0508.1" n="SD 1.2.189.1" type="entrance" who="#SERVANTS.TIMON.2_Tim">Enter another Servant. </stage>
           <sp xml:id="sp-0509" who="#SERVANTS.TIMON.2_Tim">
             <speaker xml:id="spk-0509">SECOND SERVANT </speaker>
             <l xml:id="ftln-0509" n="1.2.190">May it please your Honor, Lord Lucius, </l>
@@ -1890,14 +1776,8 @@
             <speaker xml:id="spk-0512">TIMON </speaker>
             <l xml:id="ftln-0512" n="1.2.193">I shall accept them fairly. Let the presents </l>
             <l xml:id="ftln-0513" n="1.2.194" part="I">Be worthily entertained. </l>
-            <stage xml:id="stg-0513"
-                         n="SD 1.2.194"
-                         type="exit"
-                         who="#SERVANTS.TIMON.2_Tim">Servant exits. </stage>
-            <stage xml:id="stg-0513.1"
-                         n="SD 1.2.194.1"
-                         type="entrance"
-                         who="#SERVANTS.TIMON.3_Tim">Enter a third Servant. </stage>
+            <stage xml:id="stg-0513" n="SD 1.2.194" type="exit" who="#SERVANTS.TIMON.2_Tim">Servant exits. </stage>
+            <stage xml:id="stg-0513.1" n="SD 1.2.194.1" type="entrance" who="#SERVANTS.TIMON.3_Tim">Enter a third Servant. </stage>
             <l xml:id="ftln-0514" n="1.2.195" part="F">How now? What news? </l>
           </sp>
           <sp xml:id="sp-0515" who="#SERVANTS.TIMON.3_Tim">
@@ -1910,10 +1790,7 @@
             <l xml:id="ftln-0519" n="1.2.200">I’ll hunt with him; and let them be received, </l>
             <l xml:id="ftln-0520" n="1.2.201" part="I">Not without fair reward. </l>
           </sp>
-          <stage xml:id="stg-0520"
-                      n="SD 1.2.201"
-                      type="exit"
-                      who="#SERVANTS.TIMON.3_Tim">Servant exits. </stage>
+          <stage xml:id="stg-0520" n="SD 1.2.201" type="exit" who="#SERVANTS.TIMON.3_Tim">Servant exits. </stage>
           <sp xml:id="sp-0521" who="#Flavius_Tim">
             <speaker xml:id="spk-0521">FLAVIUS </speaker>
             <stage xml:id="stg-0521" n="SD 1.2.202" type="delivery">, aside </stage>
@@ -1940,11 +1817,7 @@
             <l xml:id="ftln-0536" n="1.2.217" ana="#short">You do yourselves much wrong. </l>
             <l xml:id="ftln-0537" n="1.2.218">You bate too much of your own merits. </l>
             <l xml:id="ftln-0538" n="1.2.219">
-              <stage xml:id="stg-0538"
-                            n="SD 1.2.219"
-                            type="business"
-                            rendition="inline"
-                            who="#Timon_Tim">( Offering a gift.) </stage>Here, my lord, a trifle of our love. </l>
+              <stage xml:id="stg-0538" n="SD 1.2.219" type="business" rendition="inline" who="#Timon_Tim">( Offering a gift.) </stage>Here, my lord, a trifle of our love. </l>
           </sp>
           <sp xml:id="sp-0539" who="#LORDS.0.2_Tim">
             <speaker xml:id="spk-0539">SECOND LORD </speaker>
@@ -2014,10 +1887,7 @@
             <speaker xml:id="spk-0565">TIMON </speaker>
             <l xml:id="ftln-0565" n="1.2.246" ana="#short">Ready for his friends. </l>
           </sp>
-          <stage xml:id="stg-0565.1"
-                      n="SD 1.2.246.1"
-                      type="exit"
-                      who="#SENATORS_Tim #LORDS_Tim #FRIENDS.Lucius_Tim #Alcibiades_Tim #FRIENDS.Ventidius_Tim #ATTENDANTS.TIMON_Tim">All but Timon and Apemantus exit. </stage>
+          <stage xml:id="stg-0565.1" n="SD 1.2.246.1" type="exit" who="#SENATORS_Tim #LORDS_Tim #FRIENDS.Lucius_Tim #Alcibiades_Tim #FRIENDS.Ventidius_Tim #ATTENDANTS.TIMON_Tim">All but Timon and Apemantus exit. </stage>
           <sp xml:id="sp-0566" who="#Apemantus_Tim">
             <speaker xml:id="spk-0566">APEMANTUS </speaker>
             <l xml:id="ftln-0566" n="1.2.247" ana="#short">What a coil’s here, </l>
@@ -2050,20 +1920,14 @@
             <l xml:id="ftln-0585" n="1.2.266">O, that men’s ears should be </l>
             <l xml:id="ftln-0586" n="1.2.267">To counsel deaf, but not to flattery! </l>
           </sp>
-          <stage xml:id="stg-0586.1"
-                      n="SD 1.2.267.1"
-                      type="exit"
-                      who="#Apemantus_Tim">He exits. </stage>
+          <stage xml:id="stg-0586.1" n="SD 1.2.267.1" type="exit" who="#Apemantus_Tim">He exits. </stage>
         </div>
       </div>
       <div type="act" n="2">
         <head>ACT 2 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-0586.2"
-                      n="SD 2.1.0"
-                      type="entrance"
-                      who="#SENATORS.X_Tim">Enter a Senator, with papers. </stage>
+          <stage xml:id="stg-0586.2" n="SD 2.1.0" type="entrance" who="#SENATORS.X_Tim">Enter a Senator, with papers. </stage>
           <sp xml:id="sp-0587" who="#SENATORS.X_Tim">
             <speaker xml:id="spk-0587">SENATOR </speaker>
             <l xml:id="ftln-0587" n="2.1.1">And late five thousand. To Varro and to Isidore </l>
@@ -2081,10 +1945,7 @@
             <l xml:id="ftln-0599" n="2.1.13">Can sound his state in safety.— Caphis, ho! </l>
             <l xml:id="ftln-0600" n="2.1.14" part="I">Caphis, I say! </l>
           </sp>
-          <stage xml:id="stg-0600.1"
-                      n="SD 2.1.14.1"
-                      type="entrance"
-                      who="#SERVANTS.Caphis_Tim">Enter Caphis. </stage>
+          <stage xml:id="stg-0600.1" n="SD 2.1.14.1" type="entrance" who="#SERVANTS.Caphis_Tim">Enter Caphis. </stage>
           <sp xml:id="sp-0601" who="#SERVANTS.Caphis_Tim">
             <speaker xml:id="spk-0601">CAPHIS </speaker>
             <l xml:id="ftln-0601" n="2.1.15" part="F">Here, sir. What is your pleasure? </l>
@@ -2119,10 +1980,7 @@
             <l xml:id="ftln-0621" n="2.1.35">“ I go, sir”? Take the bonds along with you </l>
             <l xml:id="ftln-0622" n="2.1.36" part="I">And have the dates in. Come. </l>
           </sp>
-          <stage xml:id="stg-0622.1"
-                      n="SD 2.1.36.1"
-                      type="business"
-                      who="#SENATORS.X_Tim #SERVANTS.Caphis_Tim">He hands Caphis papers. </stage>
+          <stage xml:id="stg-0622.1" n="SD 2.1.36.1" type="business" who="#SENATORS.X_Tim #SERVANTS.Caphis_Tim">He hands Caphis papers. </stage>
           <sp xml:id="sp-0623" who="#SERVANTS.Caphis_Tim">
             <speaker xml:id="spk-0623">CAPHIS </speaker>
             <l xml:id="ftln-0623" n="2.1.37" prev="#ftln-0622" part="I">I will, sir. </l>
@@ -2131,17 +1989,11 @@
             <speaker xml:id="spk-0624">SENATOR </speaker>
             <l xml:id="ftln-0624" n="2.1.38" part="F">Go. </l>
           </sp>
-          <stage xml:id="stg-0624.1"
-                      n="SD 2.1.38.1"
-                      type="exit"
-                      who="#SENATORS.X_Tim #SERVANTS.Caphis_Tim">They exit. </stage>
+          <stage xml:id="stg-0624.1" n="SD 2.1.38.1" type="exit" who="#SENATORS.X_Tim #SERVANTS.Caphis_Tim">They exit. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-0624.2"
-                      n="SD 2.2.0"
-                      type="entrance"
-                      who="#Flavius_Tim">Enter Steward Flavius, with many bills in his hand. </stage>
+          <stage xml:id="stg-0624.2" n="SD 2.2.0" type="entrance" who="#Flavius_Tim">Enter Steward Flavius, with many bills in his hand. </stage>
           <sp xml:id="sp-0625" who="#Flavius_Tim">
             <speaker xml:id="spk-0625">FLAVIUS </speaker>
             <l xml:id="ftln-0625" n="2.2.1">No care, no stop, so senseless of expense </l>
@@ -2154,10 +2006,7 @@
             <l xml:id="ftln-0632" n="2.2.8">I must be round with him, now he comes from hunting. </l>
             <l xml:id="ftln-0634" n="2.2.10" ana="#short">Fie, fie, fie, fie! </l>
           </sp>
-          <stage xml:id="stg-0634.1"
-                      n="SD 2.2.10.1"
-                      type="entrance"
-                      who="#SERVANTS.Caphis_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.ISIDORE.1_Tim">Enter Caphis, and the Men of Isidore and Varro. </stage>
+          <stage xml:id="stg-0634.1" n="SD 2.2.10.1" type="entrance" who="#SERVANTS.Caphis_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.ISIDORE.1_Tim">Enter Caphis, and the Men of Isidore and Varro. </stage>
           <sp xml:id="sp-0635" who="#SERVANTS.Caphis_Tim">
             <speaker xml:id="spk-0635">CAPHIS </speaker>
             <l xml:id="ftln-0635" n="2.2.11">Good even, Varro. What, you come for money? </l>
@@ -2192,10 +2041,7 @@
             <p xml:id="p-0641">
               <lb xml:id="ftln-0641" n="2.2.17"/>Here comes the lord. </p>
           </sp>
-          <stage xml:id="stg-0641.1"
-                      n="SD 2.2.17.1"
-                      type="entrance"
-                      who="#Timon_Tim #ATTENDANTS_Tim #Alcibiades_Tim">Enter Timon, and his train, with Alcibiades. </stage>
+          <stage xml:id="stg-0641.1" n="SD 2.2.17.1" type="entrance" who="#Timon_Tim #ATTENDANTS_Tim #Alcibiades_Tim">Enter Timon, and his train, with Alcibiades. </stage>
           <sp xml:id="sp-0642" who="#Timon_Tim">
             <speaker xml:id="spk-0642">TIMON </speaker>
             <l xml:id="ftln-0642" n="2.2.18">So soon as dinner’s done we’ll forth again, </l>
@@ -2203,10 +2049,7 @@
           </sp>
           <sp xml:id="sp-0645" who="#SERVANTS.Caphis_Tim">
             <speaker xml:id="spk-0645">CAPHIS </speaker>
-            <stage xml:id="stg-0645.0"
-                         n="SD 2.2.21.0"
-                         type="business"
-                         who="#SERVANTS.Caphis_Tim">, offering Timon a paper </stage>
+            <stage xml:id="stg-0645.0" n="SD 2.2.21.0" type="business" who="#SERVANTS.Caphis_Tim">, offering Timon a paper </stage>
             <l xml:id="ftln-0645" n="2.2.21">My lord, here is a note of certain dues. </l>
           </sp>
           <sp xml:id="sp-0646" who="#Timon_Tim">
@@ -2245,19 +2088,13 @@
           </sp>
           <sp xml:id="sp-0659" who="#SERVANTS.VARRO.1_Tim">
             <speaker xml:id="spk-0659">VARRO’S MAN </speaker>
-            <stage xml:id="stg-0659"
-                         n="SD 2.2.35"
-                         type="business"
-                         who="#SERVANTS.VARRO.1_Tim">, offering a paper </stage>
+            <stage xml:id="stg-0659" n="SD 2.2.35" type="business" who="#SERVANTS.VARRO.1_Tim">, offering a paper </stage>
             <l xml:id="ftln-0659" n="2.2.35" ana="#short" next="#ftln-0660">One Varro’s servant, </l>
             <l xml:id="ftln-0660" n="2.2.36" ana="#short" prev="#ftln-0659">my good lord— </l>
           </sp>
           <sp xml:id="sp-0661" who="#SERVANTS.ISIDORE.1_Tim">
             <speaker xml:id="spk-0661">ISIDORE’S MAN </speaker>
-            <stage xml:id="stg-0661.0"
-                         n="SD 2.2.37.0"
-                         type="business"
-                         who="#SERVANTS.ISIDORE.1_Tim">, offering a paper </stage>
+            <stage xml:id="stg-0661.0" n="SD 2.2.37.0" type="business" who="#SERVANTS.ISIDORE.1_Tim">, offering a paper </stage>
             <l xml:id="ftln-0661" n="2.2.37">From Isidore. He humbly prays your speedy payment. </l>
           </sp>
           <sp xml:id="sp-0663" who="#SERVANTS.Caphis_Tim">
@@ -2278,14 +2115,8 @@
             <l xml:id="ftln-0667" n="2.2.43" ana="#short">Give me breath.— </l>
             <l xml:id="ftln-0668" n="2.2.44">I do beseech you, good my lords, keep on. </l>
             <l xml:id="ftln-0669" n="2.2.45" part="I">I’ll wait upon you instantly. </l>
-            <stage xml:id="stg-0669.1"
-                         n="SD 2.2.45.1"
-                         type="exit"
-                         who="#Alcibiades_Tim #ATTENDANTS_Tim">Alcibiades and Timon’s train exit. </stage>
-            <stage xml:id="stg-0670"
-                         n="SD 2.2.46"
-                         type="delivery"
-                         rendition="indentVerse">To Flavius. </stage>
+            <stage xml:id="stg-0669.1" n="SD 2.2.45.1" type="exit" who="#Alcibiades_Tim #ATTENDANTS_Tim">Alcibiades and Timon’s train exit. </stage>
+            <stage xml:id="stg-0670" n="SD 2.2.46" type="delivery" rendition="indentVerse">To Flavius. </stage>
             <l xml:id="ftln-0670" n="2.2.46" part="F">Come hither. Pray you, </l>
             <l xml:id="ftln-0671" n="2.2.47">How goes the world that I am thus encountered </l>
             <l xml:id="ftln-0672" n="2.2.48">With clamorous demands of debt, broken bonds, </l>
@@ -2310,14 +2141,8 @@
             <speaker xml:id="spk-0682">FLAVIUS </speaker>
             <l xml:id="ftln-0682" n="2.2.58" part="F">Pray, draw near. </l>
           </sp>
-          <stage xml:id="stg-0682.1"
-                      n="SD 2.2.58.1"
-                      type="exit"
-                      who="#Timon_Tim #Flavius_Tim">Timon and Flavius exit. </stage>
-          <stage xml:id="stg-0682.2"
-                      n="SD 2.2.58.2"
-                      type="entrance"
-                      who="#Apemantus_Tim #Fool_Tim">Enter Apemantus and Fool. </stage>
+          <stage xml:id="stg-0682.1" n="SD 2.2.58.1" type="exit" who="#Timon_Tim #Flavius_Tim">Timon and Flavius exit. </stage>
+          <stage xml:id="stg-0682.2" n="SD 2.2.58.2" type="entrance" who="#Apemantus_Tim #Fool_Tim">Enter Apemantus and Fool. </stage>
           <sp xml:id="sp-0683" who="#SERVANTS.Caphis_Tim">
             <speaker xml:id="spk-0683">CAPHIS </speaker>
             <p xml:id="p-0683">
@@ -2375,8 +2200,7 @@
             <p xml:id="p-0697">
               <lb xml:id="ftln-0697" n="2.2.73"/>He last asked the question. Poor rogues <lb xml:id="ftln-0698" n="2.2.74"/>and usurers’ men, bawds between gold and want. </p>
           </sp>
-          <sp xml:id="sp-0699"
-                   who="#SERVANTS.Caphis_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.ISIDORE.1_Tim">
+          <sp xml:id="sp-0699" who="#SERVANTS.Caphis_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.ISIDORE.1_Tim">
             <speaker xml:id="spk-0699">ALL THE MEN </speaker>
             <p xml:id="p-0699">
               <lb xml:id="ftln-0699" n="2.2.75"/>What are we, Apemantus? </p>
@@ -2386,8 +2210,7 @@
             <p xml:id="p-0700">
               <lb xml:id="ftln-0700" n="2.2.76"/>Asses. </p>
           </sp>
-          <sp xml:id="sp-0701"
-                   who="#SERVANTS.Caphis_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.ISIDORE.1_Tim">
+          <sp xml:id="sp-0701" who="#SERVANTS.Caphis_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.ISIDORE.1_Tim">
             <speaker xml:id="spk-0701">ALL THE MEN </speaker>
             <p xml:id="p-0701">
               <lb xml:id="ftln-0701" n="2.2.77"/>Why? </p>
@@ -2402,8 +2225,7 @@
             <p xml:id="p-0704">
               <lb xml:id="ftln-0704" n="2.2.80"/>How do you, gentlemen? </p>
           </sp>
-          <sp xml:id="sp-0705"
-                   who="#SERVANTS.Caphis_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.ISIDORE.1_Tim">
+          <sp xml:id="sp-0705" who="#SERVANTS.Caphis_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.ISIDORE.1_Tim">
             <speaker xml:id="spk-0705">ALL THE MEN </speaker>
             <p xml:id="p-0705">
               <lb xml:id="ftln-0705" n="2.2.81"/>Gramercies, good Fool. How does your <lb xml:id="ftln-0706" n="2.2.82"/>mistress? </p>
@@ -2418,10 +2240,7 @@
             <p xml:id="p-0709">
               <lb xml:id="ftln-0709" n="2.2.85"/>Good. Gramercy. </p>
           </sp>
-          <stage xml:id="stg-0709.1"
-                      n="SD 2.2.85.1"
-                      type="entrance"
-                      who="#SERVANTS.Page_Tim">Enter Page. </stage>
+          <stage xml:id="stg-0709.1" n="SD 2.2.85.1" type="entrance" who="#SERVANTS.Page_Tim">Enter Page. </stage>
           <sp xml:id="sp-0710" who="#Fool_Tim">
             <speaker xml:id="spk-0710">FOOL </speaker>
             <p xml:id="p-0710">
@@ -2443,10 +2262,7 @@
             <p xml:id="p-0715">
               <lb xml:id="ftln-0715" n="2.2.91"/>Prithee, Apemantus, read me the superscription <lb xml:id="ftln-0716" n="2.2.92"/>of these letters. I know not which is which. </p>
           </sp>
-          <stage xml:id="stg-0716.1"
-                      n="SD 2.2.92.1"
-                      type="business"
-                      who="#SERVANTS.Page_Tim">He shows some papers. </stage>
+          <stage xml:id="stg-0716.1" n="SD 2.2.92.1" type="business" who="#SERVANTS.Page_Tim">He shows some papers. </stage>
           <sp xml:id="sp-0717" who="#Apemantus_Tim">
             <speaker xml:id="spk-0717">APEMANTUS </speaker>
             <p xml:id="p-0717">
@@ -2467,10 +2283,7 @@
             <p xml:id="p-0723">
               <lb xml:id="ftln-0723" n="2.2.99"/>Thou wast whelped a dog, and thou shalt famish <lb xml:id="ftln-0724" n="2.2.100"/>a dog’s death. Answer not. I am gone. </p>
           </sp>
-          <stage xml:id="stg-0724"
-                      n="SD 2.2.100"
-                      type="exit"
-                      who="#SERVANTS.Page_Tim">He exits. </stage>
+          <stage xml:id="stg-0724" n="SD 2.2.100" type="exit" who="#SERVANTS.Page_Tim">He exits. </stage>
           <sp xml:id="sp-0725" who="#Apemantus_Tim">
             <speaker xml:id="spk-0725">APEMANTUS </speaker>
             <p xml:id="p-0725">
@@ -2486,8 +2299,7 @@
             <p xml:id="p-0728">
               <lb xml:id="ftln-0728" n="2.2.104"/>If Timon stay at home.— You three serve <lb xml:id="ftln-0729" n="2.2.105"/>three usurers? </p>
           </sp>
-          <sp xml:id="sp-0730"
-                   who="#SERVANTS.Caphis_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.ISIDORE.1_Tim">
+          <sp xml:id="sp-0730" who="#SERVANTS.Caphis_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.ISIDORE.1_Tim">
             <speaker xml:id="spk-0730">ALL THE MEN </speaker>
             <p xml:id="p-0730">
               <lb xml:id="ftln-0730" n="2.2.106"/>Ay. Would they served us! </p>
@@ -2502,8 +2314,7 @@
             <p xml:id="p-0733">
               <lb xml:id="ftln-0733" n="2.2.109"/>Are you three usurers’ men? </p>
           </sp>
-          <sp xml:id="sp-0734"
-                   who="#SERVANTS.Caphis_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.ISIDORE.1_Tim">
+          <sp xml:id="sp-0734" who="#SERVANTS.Caphis_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.ISIDORE.1_Tim">
             <speaker xml:id="spk-0734">ALL THE MEN </speaker>
             <p xml:id="p-0734">
               <lb xml:id="ftln-0734" n="2.2.110"/>Ay, fool. </p>
@@ -2548,16 +2359,12 @@
             <p xml:id="p-0756">
               <lb xml:id="ftln-0756" n="2.2.132"/>That answer might have become Apemantus. </p>
           </sp>
-          <sp xml:id="sp-0757"
-                   who="#SERVANTS.Caphis_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.ISIDORE.1_Tim">
+          <sp xml:id="sp-0757" who="#SERVANTS.Caphis_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.ISIDORE.1_Tim">
             <speaker xml:id="spk-0757">ALL THE MEN </speaker>
             <p xml:id="p-0757">
               <lb xml:id="ftln-0757" n="2.2.133"/>Aside, aside! Here comes Lord Timon. </p>
           </sp>
-          <stage xml:id="stg-0757.1"
-                      n="SD 2.2.133.1"
-                      type="entrance"
-                      who="#Timon_Tim #Flavius_Tim">Enter Timon and Steward Flavius. </stage>
+          <stage xml:id="stg-0757.1" n="SD 2.2.133.1" type="entrance" who="#Timon_Tim #Flavius_Tim">Enter Timon and Steward Flavius. </stage>
           <sp xml:id="sp-0758" who="#Apemantus_Tim">
             <speaker xml:id="spk-0758">APEMANTUS </speaker>
             <p xml:id="p-0758">
@@ -2568,19 +2375,13 @@
             <p xml:id="p-0759">
               <lb xml:id="ftln-0759" n="2.2.135"/>I do not always follow lover, elder brother, and <lb xml:id="ftln-0760" n="2.2.136"/>woman; sometime the philosopher. </p>
           </sp>
-          <stage xml:id="stg-0760.1"
-                      n="SD 2.2.136.1"
-                      type="exit"
-                      who="#Apemantus_Tim #Fool_Tim">Apemantus and the Fool exit. </stage>
+          <stage xml:id="stg-0760.1" n="SD 2.2.136.1" type="exit" who="#Apemantus_Tim #Fool_Tim">Apemantus and the Fool exit. </stage>
           <sp xml:id="sp-0761" who="#Flavius_Tim">
             <speaker xml:id="spk-0761">FLAVIUS </speaker>
             <stage xml:id="stg-0761.0" n="SD 2.2.137.0" type="delivery">, to the creditors’ Men </stage>
             <l xml:id="ftln-0761" n="2.2.137">Pray you, walk near. I’ll speak with you anon. </l>
           </sp>
-          <stage xml:id="stg-0761.1"
-                      n="SD 2.2.137.1"
-                      type="exit"
-                      who="#SERVANTS.Caphis_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.ISIDORE.1_Tim">The Men exit. </stage>
+          <stage xml:id="stg-0761.1" n="SD 2.2.137.1" type="exit" who="#SERVANTS.Caphis_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.ISIDORE.1_Tim">The Men exit. </stage>
           <sp xml:id="sp-0762" who="#Timon_Tim">
             <speaker xml:id="spk-0762">TIMON </speaker>
             <l xml:id="ftln-0762" n="2.2.138">You make me marvel wherefore ere this time </l>
@@ -2696,12 +2497,8 @@
             <l xml:id="ftln-0831" n="2.2.207">Mistake my fortunes. I am wealthy in my friends.— </l>
             <l xml:id="ftln-0832" n="2.2.208">Within there! Flaminius!— Servilius! </l>
           </sp>
-          <stage xml:id="stg-0832.1"
-                      n="SD 2.2.208.1"
-                      type="entrance"
-                      who="#SERVANTS.TIMON.Flaminius_Tim #SERVANTS.TIMON.Servilius_Tim #SERVANTS.TIMON.X.2_Tim">Enter three Servants, Flaminius, Servilius, and another. </stage>
-          <sp xml:id="sp-0833"
-                   who="#SERVANTS.TIMON.Flaminius_Tim #SERVANTS.TIMON.Servilius_Tim #SERVANTS.TIMON.X.2_Tim">
+          <stage xml:id="stg-0832.1" n="SD 2.2.208.1" type="entrance" who="#SERVANTS.TIMON.Flaminius_Tim #SERVANTS.TIMON.Servilius_Tim #SERVANTS.TIMON.X.2_Tim">Enter three Servants, Flaminius, Servilius, and another. </stage>
+          <sp xml:id="sp-0833" who="#SERVANTS.TIMON.Flaminius_Tim #SERVANTS.TIMON.Servilius_Tim #SERVANTS.TIMON.X.2_Tim">
             <speaker xml:id="spk-0833">SERVANTS </speaker>
             <p xml:id="p-0833">
               <lb xml:id="ftln-0833" n="2.2.209"/>My lord, my lord. </p>
@@ -2721,10 +2518,7 @@
             <speaker xml:id="spk-0841">FLAMINIUS </speaker>
             <l xml:id="ftln-0841" n="2.2.217" ana="#short">As you have said, my lord. </l>
           </sp>
-          <stage xml:id="stg-0841"
-                      n="SD 2.2.217"
-                      type="exit"
-                      who="#SERVANTS.TIMON.Flaminius_Tim #SERVANTS.TIMON.Servilius_Tim #SERVANTS.TIMON.X.2_Tim">Servants exit. </stage>
+          <stage xml:id="stg-0841" n="SD 2.2.217" type="exit" who="#SERVANTS.TIMON.Flaminius_Tim #SERVANTS.TIMON.Servilius_Tim #SERVANTS.TIMON.X.2_Tim">Servants exit. </stage>
           <sp xml:id="sp-0842" who="#Flavius_Tim">
             <speaker xml:id="spk-0842">FLAVIUS </speaker>
             <stage xml:id="stg-0842" n="SD 2.2.218" type="delivery">, aside </stage>
@@ -2784,34 +2578,22 @@
             <l xml:id="ftln-0880" n="2.2.256">To whom ’tis instant due. Ne’er speak or think </l>
             <l xml:id="ftln-0881" n="2.2.257">That Timon’s fortunes ’mong his friends can sink. </l>
           </sp>
-          <stage xml:id="stg-0881.1"
-                      n="SD 2.2.257.1"
-                      type="exit"
-                      who="#Timon_Tim">He exits. </stage>
+          <stage xml:id="stg-0881.1" n="SD 2.2.257.1" type="exit" who="#Timon_Tim">He exits. </stage>
           <sp xml:id="sp-0882" who="#Flavius_Tim">
             <speaker xml:id="spk-0882">FLAVIUS </speaker>
             <l xml:id="ftln-0882" n="2.2.258" ana="#short">I would I could not think it. </l>
             <l xml:id="ftln-0883" n="2.2.259" ana="#short">That thought is bounty’s foe; </l>
             <l xml:id="ftln-0884" n="2.2.260">Being free itself, it thinks all others so. </l>
           </sp>
-          <stage xml:id="stg-0884.1"
-                      n="SD 2.2.260.1"
-                      type="exit"
-                      who="#Flavius_Tim">He exits. </stage>
+          <stage xml:id="stg-0884.1" n="SD 2.2.260.1" type="exit" who="#Flavius_Tim">He exits. </stage>
         </div>
       </div>
       <div type="act" n="3">
         <head>ACT 3 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-0884.2"
-                      n="SD 3.1.0"
-                      type="entrance"
-                      who="#SERVANTS.TIMON.Flaminius_Tim">Enter Flaminius waiting to speak with Lucullus, from his master. </stage>
-          <stage xml:id="stg-0884.3"
-                      n="SD 3.1.0.1"
-                      type="entrance"
-                      who="#SERVANTS.LUCULLUS.1_Tim">Enter a Servant to him. </stage>
+          <stage xml:id="stg-0884.2" n="SD 3.1.0" type="entrance" who="#SERVANTS.TIMON.Flaminius_Tim">Enter Flaminius waiting to speak with Lucullus, from his master. </stage>
+          <stage xml:id="stg-0884.3" n="SD 3.1.0.1" type="entrance" who="#SERVANTS.LUCULLUS.1_Tim">Enter a Servant to him. </stage>
           <sp xml:id="sp-0885" who="#SERVANTS.LUCULLUS.1_Tim">
             <speaker xml:id="spk-0885">SERVANT </speaker>
             <p xml:id="p-0885">
@@ -2822,10 +2604,7 @@
             <p xml:id="p-0887">
               <lb xml:id="ftln-0887" n="3.1.3"/>I thank you, sir. </p>
           </sp>
-          <stage xml:id="stg-0887.1"
-                      n="SD 3.1.3.1"
-                      type="entrance"
-                      who="#FRIENDS.Lucullus_Tim">Enter Lucullus. </stage>
+          <stage xml:id="stg-0887.1" n="SD 3.1.3.1" type="entrance" who="#FRIENDS.Lucullus_Tim">Enter Lucullus. </stage>
           <sp xml:id="sp-0888" who="#SERVANTS.LUCULLUS.1_Tim">
             <speaker xml:id="spk-0888">SERVANT </speaker>
             <p xml:id="p-0888">
@@ -2837,10 +2616,7 @@
             <p xml:id="p-0889">
               <lb xml:id="ftln-0889" n="3.1.5"/>One of Lord Timon’s men? A gift, I <lb xml:id="ftln-0890" n="3.1.6"/>warrant. Why, this hits right. I dreamt of a silver <lb xml:id="ftln-0891" n="3.1.7"/>basin and ewer tonight.— Flaminius, honest <lb xml:id="ftln-0892" n="3.1.8"/>Flaminius, you are very respectively welcome, sir. <lb xml:id="ftln-0893" n="3.1.9"/>
               <stage xml:id="stg-0893a" n="SD 3.1.9a" type="delivery">( To Servant.) </stage> Fill me some wine. </p>
-            <stage xml:id="stg-0893b"
-                         n="SD 3.1.9b"
-                         type="exit"
-                         who="#SERVANTS.LUCULLUS.1_Tim">( Servant exits.) </stage>
+            <stage xml:id="stg-0893b" n="SD 3.1.9b" type="exit" who="#SERVANTS.LUCULLUS.1_Tim">( Servant exits.) </stage>
             <p xml:id="p-0894">
               <lb xml:id="ftln-0894" n="3.1.10"/>And how does that honorable, complete, free-hearted <lb xml:id="ftln-0895" n="3.1.11"/>gentleman of Athens, thy very bountiful <lb xml:id="ftln-0896" n="3.1.12"/>good lord and master? </p>
           </sp>
@@ -2864,10 +2640,7 @@
             <p xml:id="p-0907">
               <lb xml:id="ftln-0907" n="3.1.23"/>La, la, la, la. “ Nothing doubting” says he? <lb xml:id="ftln-0908" n="3.1.24"/>Alas, good lord! A noble gentleman ’tis, if he would <lb xml:id="ftln-0909" n="3.1.25"/>not keep so good a house. Many a time and often I <lb xml:id="ftln-0910" n="3.1.26"/>ha’ dined with him and told him on ’t, and come <lb xml:id="ftln-0911" n="3.1.27"/>again to supper to him of purpose to have him <lb xml:id="ftln-0912" n="3.1.28"/>spend less, and yet he would embrace no counsel, <lb xml:id="ftln-0913" n="3.1.29"/>take no warning by my coming. Every man has his <lb xml:id="ftln-0914" n="3.1.30"/>fault, and honesty is his. I ha’ told him on ’t, but I <lb xml:id="ftln-0915" n="3.1.31"/>could ne’er get him from ’t. </p>
           </sp>
-          <stage xml:id="stg-0915.1"
-                      n="SD 3.1.31.1"
-                      type="entrance"
-                      who="#SERVANTS.LUCULLUS.1_Tim">Enter Servant with wine. </stage>
+          <stage xml:id="stg-0915.1" n="SD 3.1.31.1" type="entrance" who="#SERVANTS.LUCULLUS.1_Tim">Enter Servant with wine. </stage>
           <sp xml:id="sp-0916" who="#SERVANTS.LUCULLUS.1_Tim">
             <speaker xml:id="spk-0916">SERVANT </speaker>
             <p xml:id="p-0916">
@@ -2878,10 +2651,7 @@
             <p xml:id="p-0917">
               <lb xml:id="ftln-0917" n="3.1.33"/>Flaminius, I have noted thee always wise. <lb xml:id="ftln-0918" n="3.1.34"/>Here’s to thee. </p>
           </sp>
-          <stage xml:id="stg-0918"
-                      n="SD 3.1.34"
-                      type="business"
-                      who="#FRIENDS.Lucullus_Tim">He drinks. </stage>
+          <stage xml:id="stg-0918" n="SD 3.1.34" type="business" who="#FRIENDS.Lucullus_Tim">He drinks. </stage>
           <sp xml:id="sp-0919" who="#SERVANTS.TIMON.Flaminius_Tim">
             <speaker xml:id="spk-0919">FLAMINIUS </speaker>
             <p xml:id="p-0919">
@@ -2891,16 +2661,9 @@
             <speaker xml:id="spk-0920">LUCULLUS </speaker>
             <p xml:id="p-0920">
               <lb xml:id="ftln-0920" n="3.1.36"/>I have observed thee always for a towardly <lb xml:id="ftln-0921" n="3.1.37"/>prompt spirit— give thee thy due— and one that <lb xml:id="ftln-0922" n="3.1.38"/>knows what belongs to reason and canst use the <lb xml:id="ftln-0923" n="3.1.39"/>time well, if the time use thee well. Good parts in <lb xml:id="ftln-0924" n="3.1.40"/>thee.— Get you gone, sirrah. </p>
-            <stage xml:id="stg-0924"
-                         n="SD 3.1.40"
-                         type="exit"
-                         who="#SERVANTS.LUCULLUS.1_Tim">Servant exits. </stage>
+            <stage xml:id="stg-0924" n="SD 3.1.40" type="exit" who="#SERVANTS.LUCULLUS.1_Tim">Servant exits. </stage>
             <p xml:id="p-0925">
-              <lb xml:id="ftln-0925" n="3.1.41"/>Draw nearer, honest Flaminius. Thy lord’s a bountiful <lb xml:id="ftln-0926" n="3.1.42"/>gentleman, but thou art wise and thou <lb xml:id="ftln-0927" n="3.1.43"/>know’st well enough, although thou com’st to me, <lb xml:id="ftln-0928" n="3.1.44"/>that this is no time to lend money, especially upon <lb xml:id="ftln-0929" n="3.1.45"/>bare friendship, without security. Here’s three solidares <lb xml:id="ftln-0930" n="3.1.46"/>for thee. <stage xml:id="stg-0930"
-                            n="SD 3.1.46"
-                            type="business"
-                            rendition="inline"
-                            who="#FRIENDS.Lucullus_Tim #SERVANTS.TIMON.Flaminius_Tim"> ( Gives him money.) </stage> Good boy, <lb xml:id="ftln-0931" n="3.1.47"/>wink at me, and say thou saw’st me not. Fare thee <lb xml:id="ftln-0932" n="3.1.48"/>well. </p>
+              <lb xml:id="ftln-0925" n="3.1.41"/>Draw nearer, honest Flaminius. Thy lord’s a bountiful <lb xml:id="ftln-0926" n="3.1.42"/>gentleman, but thou art wise and thou <lb xml:id="ftln-0927" n="3.1.43"/>know’st well enough, although thou com’st to me, <lb xml:id="ftln-0928" n="3.1.44"/>that this is no time to lend money, especially upon <lb xml:id="ftln-0929" n="3.1.45"/>bare friendship, without security. Here’s three solidares <lb xml:id="ftln-0930" n="3.1.46"/>for thee. <stage xml:id="stg-0930" n="SD 3.1.46" type="business" rendition="inline" who="#FRIENDS.Lucullus_Tim #SERVANTS.TIMON.Flaminius_Tim"> ( Gives him money.) </stage> Good boy, <lb xml:id="ftln-0931" n="3.1.47"/>wink at me, and say thou saw’st me not. Fare thee <lb xml:id="ftln-0932" n="3.1.48"/>well. </p>
           </sp>
           <sp xml:id="sp-0933" who="#SERVANTS.TIMON.Flaminius_Tim">
             <speaker xml:id="spk-0933">FLAMINIUS </speaker>
@@ -2908,19 +2671,13 @@
             <l xml:id="ftln-0934" n="3.1.50">And we alive that lived? Fly, damnèd baseness, </l>
             <l xml:id="ftln-0935" n="3.1.51" ana="#short">To him that worships thee! </l>
           </sp>
-          <stage xml:id="stg-0935.1"
-                      n="SD 3.1.51.1"
-                      type="business"
-                      who="#SERVANTS.TIMON.Flaminius_Tim">He throws the money back at Lucullus. </stage>
+          <stage xml:id="stg-0935.1" n="SD 3.1.51.1" type="business" who="#SERVANTS.TIMON.Flaminius_Tim">He throws the money back at Lucullus. </stage>
           <sp xml:id="sp-0936" who="#FRIENDS.Lucullus_Tim">
             <speaker xml:id="spk-0936">LUCULLUS </speaker>
             <p xml:id="p-0936">
               <lb xml:id="ftln-0936" n="3.1.52"/>Ha! Now I see thou art a fool and fit for thy <lb xml:id="ftln-0937" n="3.1.53"/>master. </p>
           </sp>
-          <stage xml:id="stg-0937"
-                      n="SD 3.1.53"
-                      type="exit"
-                      who="#FRIENDS.Lucullus_Tim">Lucullus exits. </stage>
+          <stage xml:id="stg-0937" n="SD 3.1.53" type="exit" who="#FRIENDS.Lucullus_Tim">Lucullus exits. </stage>
           <sp xml:id="sp-0938" who="#SERVANTS.TIMON.Flaminius_Tim">
             <speaker xml:id="spk-0938">FLAMINIUS </speaker>
             <l xml:id="ftln-0938" n="3.1.54">May these add to the number that may scald thee! </l>
@@ -2937,17 +2694,11 @@
             <l xml:id="ftln-0950" n="3.1.66">Which my lord paid for be of any power </l>
             <l xml:id="ftln-0951" n="3.1.67">To expel sickness, but prolong his hour. </l>
           </sp>
-          <stage xml:id="stg-0951.1"
-                      n="SD 3.1.67.1"
-                      type="exit"
-                      who="#SERVANTS.TIMON.Flaminius_Tim">He exits. </stage>
+          <stage xml:id="stg-0951.1" n="SD 3.1.67.1" type="exit" who="#SERVANTS.TIMON.Flaminius_Tim">He exits. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-0951.2"
-                      n="SD 3.2.0"
-                      type="entrance"
-                      who="#FRIENDS.Lucius_Tim #STRANGERS.1_Tim #STRANGERS.2_Tim #STRANGERS.3_Tim">Enter Lucius, with three Strangers. </stage>
+          <stage xml:id="stg-0951.2" n="SD 3.2.0" type="entrance" who="#FRIENDS.Lucius_Tim #STRANGERS.1_Tim #STRANGERS.2_Tim #STRANGERS.3_Tim">Enter Lucius, with three Strangers. </stage>
           <sp xml:id="sp-0952" who="#FRIENDS.Lucius_Tim">
             <speaker xml:id="spk-0952">LUCIUS </speaker>
             <p xml:id="p-0952">
@@ -2983,10 +2734,7 @@
             <p xml:id="p-0968">
               <lb xml:id="ftln-0968" n="3.2.17"/>What a strange case was that! Now, before the <lb xml:id="ftln-0969" n="3.2.18"/>gods, I am ashamed on ’t. Denied that honorable <lb xml:id="ftln-0970" n="3.2.19"/>man? There was very little honor showed in ’t. For <lb xml:id="ftln-0971" n="3.2.20"/>my own part, I must needs confess I have received <lb xml:id="ftln-0972" n="3.2.21"/>some small kindnesses from him, as money, plate, <lb xml:id="ftln-0973" n="3.2.22"/>jewels, and suchlike trifles, nothing comparing to <lb xml:id="ftln-0974" n="3.2.23"/>his; yet had he mistook him and sent to me, I <lb xml:id="ftln-0975" n="3.2.24"/>should ne’er have denied his occasion fifty talents. </p>
           </sp>
-          <stage xml:id="stg-0975.1"
-                      n="SD 3.2.24.1"
-                      type="entrance"
-                      who="#SERVANTS.TIMON.Servilius_Tim">Enter Servilius. </stage>
+          <stage xml:id="stg-0975.1" n="SD 3.2.24.1" type="entrance" who="#SERVANTS.TIMON.Servilius_Tim">Enter Servilius. </stage>
           <sp xml:id="sp-0976" who="#SERVANTS.TIMON.Servilius_Tim">
             <speaker xml:id="spk-0976">SERVILIUS </speaker>
             <stage xml:id="stg-0976" n="SD 3.2.25" type="delivery">, aside </stage>
@@ -2998,10 +2746,7 @@
             <p xml:id="p-0979">
               <lb xml:id="ftln-0979" n="3.2.28"/>Servilius. You are kindly met, sir. Fare thee <lb xml:id="ftln-0980" n="3.2.29"/>well. Commend me to thy honorable virtuous lord, <lb xml:id="ftln-0981" n="3.2.30"/>my very exquisite friend. </p>
           </sp>
-          <stage xml:id="stg-0981"
-                      n="SD 3.2.30"
-                      type="business"
-                      who="#FRIENDS.Lucius_Tim">He turns to exit. </stage>
+          <stage xml:id="stg-0981" n="SD 3.2.30" type="business" who="#FRIENDS.Lucius_Tim">He turns to exit. </stage>
           <sp xml:id="sp-0982" who="#SERVANTS.TIMON.Servilius_Tim">
             <speaker xml:id="spk-0982">SERVILIUS </speaker>
             <p xml:id="p-0982">
@@ -3049,17 +2794,11 @@
             <speaker xml:id="spk-1015">LUCIUS </speaker>
             <p xml:id="p-1015">
               <lb xml:id="ftln-1015" n="3.2.64"/>I’ll look you out a good turn, Servilius. </p>
-            <stage xml:id="stg-1015.1"
-                         n="SD 3.2.64.1"
-                         type="exit"
-                         who="#SERVANTS.TIMON.Servilius_Tim">Servilius exits. </stage>
+            <stage xml:id="stg-1015.1" n="SD 3.2.64.1" type="exit" who="#SERVANTS.TIMON.Servilius_Tim">Servilius exits. </stage>
             <l xml:id="ftln-1016" n="3.2.65">True, as you said, Timon is shrunk indeed, </l>
             <l xml:id="ftln-1017" n="3.2.66">And he that’s once denied will hardly speed. </l>
           </sp>
-          <stage xml:id="stg-1017.1"
-                      n="SD 3.2.66.1"
-                      type="exit"
-                      who="#FRIENDS.Lucius_Tim">He exits. </stage>
+          <stage xml:id="stg-1017.1" n="SD 3.2.66.1" type="exit" who="#FRIENDS.Lucius_Tim">He exits. </stage>
           <sp xml:id="sp-1018" who="#STRANGERS.1_Tim">
             <speaker xml:id="spk-1018">FIRST STRANGER </speaker>
             <l xml:id="ftln-1018" n="3.2.67" ana="#short">Do you observe this, Hostilius? </l>
@@ -3102,17 +2841,11 @@
             <l xml:id="ftln-1044" n="3.2.93">Men must learn now with pity to dispense, </l>
             <l xml:id="ftln-1045" n="3.2.94">For policy sits above conscience. </l>
           </sp>
-          <stage xml:id="stg-1045.1"
-                      n="SD 3.2.94.1"
-                      type="exit"
-                      who="#STRANGERS.1_Tim #STRANGERS.2_Tim #STRANGERS.3_Tim">They exit. </stage>
+          <stage xml:id="stg-1045.1" n="SD 3.2.94.1" type="exit" who="#STRANGERS.1_Tim #STRANGERS.2_Tim #STRANGERS.3_Tim">They exit. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-1045.2"
-                      n="SD 3.3.0"
-                      type="entrance"
-                      who="#SERVANTS.TIMON.X.2_Tim #FRIENDS.Sempronius_Tim">Enter a Third Servant of Timon’s with Sempronius, another of Timon’s friends. </stage>
+          <stage xml:id="stg-1045.2" n="SD 3.3.0" type="entrance" who="#SERVANTS.TIMON.X.2_Tim #FRIENDS.Sempronius_Tim">Enter a Third Servant of Timon’s with Sempronius, another of Timon’s friends. </stage>
           <sp xml:id="sp-1046" who="#FRIENDS.Sempronius_Tim">
             <speaker xml:id="spk-1046">SEMPRONIUS </speaker>
             <l xml:id="ftln-1046" n="3.3.1">Must he needs trouble me in ’t? Hum! ’Bove all others? </l>
@@ -3150,10 +2883,7 @@
             <l xml:id="ftln-1072" n="3.3.27">And with their faint reply this answer join: </l>
             <l xml:id="ftln-1073" n="3.3.28">Who bates mine honor shall not know my coin. </l>
           </sp>
-          <stage xml:id="stg-1073.1"
-                      n="SD 3.3.28.1"
-                      type="exit"
-                      who="#FRIENDS.Sempronius_Tim">He exits. </stage>
+          <stage xml:id="stg-1073.1" n="SD 3.3.28.1" type="exit" who="#FRIENDS.Sempronius_Tim">He exits. </stage>
           <sp xml:id="sp-1074" who="#SERVANTS.TIMON.X.2_Tim">
             <speaker xml:id="spk-1074">SERVANT </speaker>
             <p xml:id="p-1074">
@@ -3167,17 +2897,11 @@
             <l xml:id="ftln-1088" n="3.3.43">And this is all a liberal course allows: </l>
             <l xml:id="ftln-1089" n="3.3.44">Who cannot keep his wealth must keep his house. </l>
           </sp>
-          <stage xml:id="stg-1089.1"
-                      n="SD 3.3.44.1"
-                      type="exit"
-                      who="#SERVANTS.TIMON.X.2_Tim">He exits. </stage>
+          <stage xml:id="stg-1089.1" n="SD 3.3.44.1" type="exit" who="#SERVANTS.TIMON.X.2_Tim">He exits. </stage>
         </div>
         <div type="scene" n="4">
           <head>Scene 4 </head>
-          <stage xml:id="stg-1089.2"
-                      n="SD 3.4.0"
-                      type="entrance"
-                      who="#SERVANTS.VARRO.1_Tim #SERVANTS.VARRO.2_Tim #SERVANTS.Titus_Tim #SERVANTS.LUCIUS.1_Tim #SERVANTS.Hortensius_Tim">Enter Varro’s two Men, meeting Titus and others, all being Men of Timon’s creditors to wait for his coming out. Then enter Lucius’ Man and Hortensius. </stage>
+          <stage xml:id="stg-1089.2" n="SD 3.4.0" type="entrance" who="#SERVANTS.VARRO.1_Tim #SERVANTS.VARRO.2_Tim #SERVANTS.Titus_Tim #SERVANTS.LUCIUS.1_Tim #SERVANTS.Hortensius_Tim">Enter Varro’s two Men, meeting Titus and others, all being Men of Timon’s creditors to wait for his coming out. Then enter Lucius’ Man and Hortensius. </stage>
           <sp xml:id="sp-1090" who="#SERVANTS.VARRO.1_Tim">
             <speaker xml:id="spk-1090">VARRO’S FIRST MAN </speaker>
             <l xml:id="ftln-1090" n="3.4.1">Well met. Good morrow, Titus and Hortensius. </l>
@@ -3201,10 +2925,7 @@
             <speaker xml:id="spk-1097">TITUS </speaker>
             <l xml:id="ftln-1097" n="3.4.8" part="F">So is theirs and ours. </l>
           </sp>
-          <stage xml:id="stg-1097.1"
-                      n="SD 3.4.8.1"
-                      type="entrance"
-                      who="#SERVANTS.Philotus_Tim">Enter Philotus. </stage>
+          <stage xml:id="stg-1097.1" n="SD 3.4.8.1" type="entrance" who="#SERVANTS.Philotus_Tim">Enter Philotus. </stage>
           <sp xml:id="sp-1098" who="#SERVANTS.LUCIUS.1_Tim">
             <speaker xml:id="spk-1098">LUCIUS’ MAN </speaker>
             <l xml:id="ftln-1098" n="3.4.9" part="I">And, sir, Philotus’ too. </l>
@@ -3297,10 +3018,7 @@
             <l xml:id="ftln-1131" n="3.4.42">Your master’s confidence was above mine, </l>
             <l xml:id="ftln-1132" n="3.4.43" ana="#short">Else surely his had equaled. </l>
           </sp>
-          <stage xml:id="stg-1132.1"
-                      n="SD 3.4.43.1"
-                      type="entrance"
-                      who="#SERVANTS.TIMON.Flaminius_Tim">Enter Flaminius. </stage>
+          <stage xml:id="stg-1132.1" n="SD 3.4.43.1" type="entrance" who="#SERVANTS.TIMON.Flaminius_Tim">Enter Flaminius. </stage>
           <sp xml:id="sp-1133" who="#SERVANTS.Titus_Tim">
             <speaker xml:id="spk-1133">TITUS </speaker>
             <l xml:id="ftln-1133" n="3.4.44" ana="#short">One of Lord Timon’s men. </l>
@@ -3325,14 +3043,8 @@
             <p xml:id="p-1138">
               <lb xml:id="ftln-1138" n="3.4.49"/>I need not tell him that. He knows you are <lb xml:id="ftln-1139" n="3.4.50"/>too diligent. </p>
           </sp>
-          <stage xml:id="stg-1139"
-                      n="SD 3.4.50"
-                      type="exit"
-                      who="#SERVANTS.TIMON.Flaminius_Tim">He exits. </stage>
-          <stage xml:id="stg-1139.1"
-                      n="SD 3.4.50.1"
-                      type="entrance"
-                      who="#Flavius_Tim">Enter Flavius, the Steward in a cloak, muffled. </stage>
+          <stage xml:id="stg-1139" n="SD 3.4.50" type="exit" who="#SERVANTS.TIMON.Flaminius_Tim">He exits. </stage>
+          <stage xml:id="stg-1139.1" n="SD 3.4.50.1" type="entrance" who="#Flavius_Tim">Enter Flavius, the Steward in a cloak, muffled. </stage>
           <sp xml:id="sp-1140" who="#SERVANTS.LUCIUS.1_Tim">
             <speaker xml:id="spk-1140">LUCIUS’ MAN </speaker>
             <l xml:id="ftln-1140" n="3.4.51">Ha! Is not that his steward muffled so? </l>
@@ -3388,10 +3100,7 @@
             <p xml:id="p-1162">
               <lb xml:id="ftln-1162" n="3.4.73"/>No matter what. He’s poor, and <lb xml:id="ftln-1163" n="3.4.74"/>that’s revenge enough. Who can speak broader <lb xml:id="ftln-1164" n="3.4.75"/>than he that has no house to put his head in? Such <lb xml:id="ftln-1165" n="3.4.76"/>may rail against great buildings. </p>
           </sp>
-          <stage xml:id="stg-1165.1"
-                      n="SD 3.4.76.1"
-                      type="entrance"
-                      who="#SERVANTS.TIMON.Servilius_Tim">Enter Servilius. </stage>
+          <stage xml:id="stg-1165.1" n="SD 3.4.76.1" type="entrance" who="#SERVANTS.TIMON.Servilius_Tim">Enter Servilius. </stage>
           <sp xml:id="sp-1166" who="#SERVANTS.Titus_Tim">
             <speaker xml:id="spk-1166">TITUS </speaker>
             <p xml:id="p-1166">
@@ -3422,10 +3131,7 @@
             <stage xml:id="stg-1179" n="SD 3.4.90" type="location">, within </stage>
             <l xml:id="ftln-1179" n="3.4.90" ana="#short">Servilius, help! My lord, my lord! </l>
           </sp>
-          <stage xml:id="stg-1179.1"
-                      n="SD 3.4.90.1"
-                      type="entrance"
-                      who="#Timon_Tim">Enter Timon in a rage. </stage>
+          <stage xml:id="stg-1179.1" n="SD 3.4.90.1" type="entrance" who="#Timon_Tim">Enter Timon in a rage. </stage>
           <sp xml:id="sp-1180" who="#Timon_Tim">
             <speaker xml:id="spk-1180">TIMON </speaker>
             <l xml:id="ftln-1180" n="3.4.91">What, are my doors opposed against my passage? </l>
@@ -3503,23 +3209,14 @@
             <speaker xml:id="spk-1201">TIMON </speaker>
             <l xml:id="ftln-1201" n="3.4.112">Tear me, take me, and the gods fall upon you! </l>
           </sp>
-          <stage xml:id="stg-1201.1"
-                      n="SD 3.4.112.1"
-                      type="exit"
-                      who="#Timon_Tim">Timon exits. </stage>
+          <stage xml:id="stg-1201.1" n="SD 3.4.112.1" type="exit" who="#Timon_Tim">Timon exits. </stage>
           <sp xml:id="sp-1202" who="#SERVANTS.Hortensius_Tim">
             <speaker xml:id="spk-1202">HORTENSIUS </speaker>
             <p xml:id="p-1202">
               <lb xml:id="ftln-1202" n="3.4.113"/>Faith, I perceive our masters may throw <lb xml:id="ftln-1203" n="3.4.114"/>their caps at their money. These debts may well be <lb xml:id="ftln-1204" n="3.4.115"/>called desperate ones, for a madman owes ’em. </p>
           </sp>
-          <stage xml:id="stg-1204.1"
-                      n="SD 3.4.115.1"
-                      type="exit"
-                      who="#SERVANTS.VARRO.1_Tim #SERVANTS.VARRO.2_Tim #SERVANTS.Titus_Tim #SERVANTS.LUCIUS.1_Tim #SERVANTS.Hortensius_Tim #SERVANTS.Philotus_Tim #SERVANTS.TIMON.Servilius_Tim">They exit. </stage>
-          <stage xml:id="stg-1204.2"
-                      n="SD 3.4.115.2"
-                      type="entrance"
-                      who="#Timon_Tim #Flavius_Tim">Enter Timon and Flavius. </stage>
+          <stage xml:id="stg-1204.1" n="SD 3.4.115.1" type="exit" who="#SERVANTS.VARRO.1_Tim #SERVANTS.VARRO.2_Tim #SERVANTS.Titus_Tim #SERVANTS.LUCIUS.1_Tim #SERVANTS.Hortensius_Tim #SERVANTS.Philotus_Tim #SERVANTS.TIMON.Servilius_Tim">They exit. </stage>
+          <stage xml:id="stg-1204.2" n="SD 3.4.115.2" type="entrance" who="#Timon_Tim #Flavius_Tim">Enter Timon and Flavius. </stage>
           <sp xml:id="sp-1205" who="#Timon_Tim">
             <speaker xml:id="spk-1205">TIMON </speaker>
             <l xml:id="ftln-1205" n="3.4.116">They have e’en put my breath from me, the slaves! </l>
@@ -3564,17 +3261,11 @@
             <l xml:id="ftln-1220" n="3.4.131">I charge thee, invite them all. Let in the tide </l>
             <l xml:id="ftln-1221" n="3.4.132">Of knaves once more. My cook and I’ll provide. </l>
           </sp>
-          <stage xml:id="stg-1221.1"
-                      n="SD 3.4.132.1"
-                      type="exit"
-                      who="#Timon_Tim #Flavius_Tim">They exit. </stage>
+          <stage xml:id="stg-1221.1" n="SD 3.4.132.1" type="exit" who="#Timon_Tim #Flavius_Tim">They exit. </stage>
         </div>
         <div type="scene" n="5">
           <head>Scene 5 </head>
-          <stage xml:id="stg-1221.2"
-                      n="SD 3.5.0"
-                      type="entrance"
-                      who="#SENATORS_Tim #Alcibiades_Tim #ATTENDANTS.ALCIBIADES_Tim">Enter three Senators at one door, Alcibiades meeting them, with Attendants. </stage>
+          <stage xml:id="stg-1221.2" n="SD 3.5.0" type="entrance" who="#SENATORS_Tim #Alcibiades_Tim #ATTENDANTS.ALCIBIADES_Tim">Enter three Senators at one door, Alcibiades meeting them, with Attendants. </stage>
           <sp xml:id="sp-1222" who="#SENATORS.0.1_Tim">
             <speaker xml:id="spk-1222">FIRST SENATOR </speaker>
             <stage xml:id="stg-1222.0" n="SD 3.5.1.0" type="delivery">, to the Second Senator </stage>
@@ -3762,10 +3453,7 @@
             <l xml:id="ftln-1331" n="3.5.110" ana="#short">And, not to swell our spirit, </l>
             <l xml:id="ftln-1332" n="3.5.111">He shall be executed presently. </l>
           </sp>
-          <stage xml:id="stg-1332"
-                      n="SD 3.5.111"
-                      type="exit"
-                      who="#SENATORS_Tim">Senators exit. </stage>
+          <stage xml:id="stg-1332" n="SD 3.5.111" type="exit" who="#SENATORS_Tim">Senators exit. </stage>
           <sp xml:id="sp-1333" who="#Alcibiades_Tim">
             <speaker xml:id="spk-1333">ALCIBIADES </speaker>
             <l xml:id="ftln-1333" n="3.5.112">Now the gods keep you old enough that you may live </l>
@@ -3783,17 +3471,11 @@
             <l xml:id="ftln-1345" n="3.5.124">’Tis honor with most lands to be at odds. </l>
             <l xml:id="ftln-1346" n="3.5.125">Soldiers should brook as little wrongs as gods. </l>
           </sp>
-          <stage xml:id="stg-1346.1"
-                      n="SD 3.5.125.1"
-                      type="exit"
-                      who="#Alcibiades_Tim #ATTENDANTS.ALCIBIADES_Tim">He exits. </stage>
+          <stage xml:id="stg-1346.1" n="SD 3.5.125.1" type="exit" who="#Alcibiades_Tim #ATTENDANTS.ALCIBIADES_Tim">He exits. </stage>
         </div>
         <div type="scene" n="6">
           <head>Scene 6 </head>
-          <stage xml:id="stg-1346.2"
-                      n="SD 3.6.0"
-                      type="entrance"
-                      who="#FRIENDS_Tim">
+          <stage xml:id="stg-1346.2" n="SD 3.6.0" type="entrance" who="#FRIENDS_Tim">
             <stage xml:id="snd-1346.2" n="SD 3.6.0" type="sound">Music. </stage> Enter divers Friends at several doors. </stage>
           <sp xml:id="sp-1347" who="#FRIENDS.0.1_Tim">
             <speaker xml:id="spk-1347">FIRST FRIEND </speaker>
@@ -3854,10 +3536,7 @@
             <speaker xml:id="spk-1370">SECOND FRIEND </speaker>
             <p xml:id="p-1370">
               <lb xml:id="ftln-1370" n="3.6.24"/>He sent to me, sir— </p>
-            <stage xml:id="stg-1370.1"
-                         n="SD 3.6.24.1"
-                         type="entrance"
-                         who="#Timon_Tim #SERVANTS.TIMON_Tim">Enter Timon and Attendants. </stage>
+            <stage xml:id="stg-1370.1" n="SD 3.6.24.1" type="entrance" who="#Timon_Tim #SERVANTS.TIMON_Tim">Enter Timon and Attendants. </stage>
             <p xml:id="p-1371">
               <lb xml:id="ftln-1371" n="3.6.25"/>Here he comes. </p>
           </sp>
@@ -3921,10 +3600,7 @@
             <speaker xml:id="spk-1393">TIMON </speaker>
             <p xml:id="p-1393">
               <lb xml:id="ftln-1393" n="3.6.47"/>Let it not cumber your better remembrance. </p>
-            <stage xml:id="stg-1393.1"
-                         n="SD 3.6.47.1"
-                         type="business"
-                         rendition="centered">The banquet brought in. </stage>
+            <stage xml:id="stg-1393.1" n="SD 3.6.47.1" type="business" rendition="centered">The banquet brought in. </stage>
             <p xml:id="p-1394">
               <lb xml:id="ftln-1394" n="3.6.48"/>Come, bring in all together. </p>
           </sp>
@@ -4006,11 +3682,7 @@
           <sp xml:id="sp-1412" who="#Timon_Tim">
             <speaker xml:id="spk-1412">TIMON </speaker>
             <p xml:id="p-1412">
-              <lb xml:id="ftln-1412" n="3.6.66"/>Each man to his stool, with that spur as he <lb xml:id="ftln-1413" n="3.6.67"/>would to the lip of his mistress. Your diet shall <lb xml:id="ftln-1414" n="3.6.68"/>be in all places alike. Make not a city feast of it, to let <lb xml:id="ftln-1415" n="3.6.69"/>the meat cool ere we can agree upon the first place. <lb xml:id="ftln-1416" n="3.6.70"/>Sit, sit. <stage xml:id="stg-1416"
-                            n="SD 3.6.70"
-                            type="business"
-                            rendition="inline"
-                            who="#Timon_Tim #FRIENDS_Tim"> ( They sit.) </stage> The gods require our thanks: <lb xml:id="ftln-1417" n="3.6.71"/>You great benefactors, sprinkle our society with <lb xml:id="ftln-1418" n="3.6.72"/>thankfulness. For your own gifts make yourselves <lb xml:id="ftln-1419" n="3.6.73"/>praised, but reserve still to give, lest your deities be <lb xml:id="ftln-1420" n="3.6.74"/>despised. Lend to each man enough, that one need <lb xml:id="ftln-1421" n="3.6.75"/>not lend to another; for, were your godheads to <lb xml:id="ftln-1422" n="3.6.76"/>borrow of men, men would forsake the gods. Make <lb xml:id="ftln-1423" n="3.6.77"/>the meat be beloved more than the man that gives <lb xml:id="ftln-1424" n="3.6.78"/>it. Let no assembly of twenty be without a score of <lb xml:id="ftln-1425" n="3.6.79"/>villains. If there sit twelve women at the table, let a <lb xml:id="ftln-1426" n="3.6.80"/>dozen of them be as they are. The rest of your fees, <lb xml:id="ftln-1427" n="3.6.81"/>O gods, the Senators of Athens, together with the <lb xml:id="ftln-1428" n="3.6.82"/>common tag of people, what is amiss in them, <lb xml:id="ftln-1429" n="3.6.83"/>you gods, make suitable for destruction. For these <lb xml:id="ftln-1430" n="3.6.84"/>my present friends, as they are to me nothing, so <lb xml:id="ftln-1431" n="3.6.85"/>in nothing bless them, and to nothing are they <lb xml:id="ftln-1432" n="3.6.86"/>welcome. </p>
+              <lb xml:id="ftln-1412" n="3.6.66"/>Each man to his stool, with that spur as he <lb xml:id="ftln-1413" n="3.6.67"/>would to the lip of his mistress. Your diet shall <lb xml:id="ftln-1414" n="3.6.68"/>be in all places alike. Make not a city feast of it, to let <lb xml:id="ftln-1415" n="3.6.69"/>the meat cool ere we can agree upon the first place. <lb xml:id="ftln-1416" n="3.6.70"/>Sit, sit. <stage xml:id="stg-1416" n="SD 3.6.70" type="business" rendition="inline" who="#Timon_Tim #FRIENDS_Tim"> ( They sit.) </stage> The gods require our thanks: <lb xml:id="ftln-1417" n="3.6.71"/>You great benefactors, sprinkle our society with <lb xml:id="ftln-1418" n="3.6.72"/>thankfulness. For your own gifts make yourselves <lb xml:id="ftln-1419" n="3.6.73"/>praised, but reserve still to give, lest your deities be <lb xml:id="ftln-1420" n="3.6.74"/>despised. Lend to each man enough, that one need <lb xml:id="ftln-1421" n="3.6.75"/>not lend to another; for, were your godheads to <lb xml:id="ftln-1422" n="3.6.76"/>borrow of men, men would forsake the gods. Make <lb xml:id="ftln-1423" n="3.6.77"/>the meat be beloved more than the man that gives <lb xml:id="ftln-1424" n="3.6.78"/>it. Let no assembly of twenty be without a score of <lb xml:id="ftln-1425" n="3.6.79"/>villains. If there sit twelve women at the table, let a <lb xml:id="ftln-1426" n="3.6.80"/>dozen of them be as they are. The rest of your fees, <lb xml:id="ftln-1427" n="3.6.81"/>O gods, the Senators of Athens, together with the <lb xml:id="ftln-1428" n="3.6.82"/>common tag of people, what is amiss in them, <lb xml:id="ftln-1429" n="3.6.83"/>you gods, make suitable for destruction. For these <lb xml:id="ftln-1430" n="3.6.84"/>my present friends, as they are to me nothing, so <lb xml:id="ftln-1431" n="3.6.85"/>in nothing bless them, and to nothing are they <lb xml:id="ftln-1432" n="3.6.86"/>welcome. </p>
             <l xml:id="ftln-1433" n="3.6.87" ana="#short">Uncover, dogs, and lap. </l>
           </sp>
           <stage xml:id="stg-1433.1" n="SD 3.6.87.1" type="business">The dishes are uncovered. They contain only water and stones. </stage>
@@ -4031,46 +3703,26 @@
             <l xml:id="ftln-1440" n="3.6.94">Who, stuck and spangled with your flatteries, </l>
             <l xml:id="ftln-1441" n="3.6.95">Washes it off and sprinkles in your faces </l>
             <l xml:id="ftln-1442" n="3.6.96" part="I">Your reeking villainy. </l>
-            <stage xml:id="stg-1442"
-                         n="SD 3.6.96"
-                         type="business"
-                         rendition="inline"
-                         who="#Timon_Tim #FRIENDS_Tim"> ( He throws water in their faces.) </stage>
+            <stage xml:id="stg-1442" n="SD 3.6.96" type="business" rendition="inline" who="#Timon_Tim #FRIENDS_Tim"> ( He throws water in their faces.) </stage>
             <l xml:id="ftln-1443" n="3.6.97" part="F">Live loathed and long, </l>
             <l xml:id="ftln-1444" n="3.6.98">Most smiling, smooth, detested parasites, </l>
             <l xml:id="ftln-1445" n="3.6.99">Courteous destroyers, affable wolves, meek bears, </l>
             <l xml:id="ftln-1446" n="3.6.100">You fools of fortune, trencher-friends, time’s flies, </l>
             <l xml:id="ftln-1447" n="3.6.101">Cap-and-knee slaves, vapors, and minute-jacks. </l>
             <l xml:id="ftln-1448" n="3.6.102">Of man and beast the infinite malady </l>
-            <l xml:id="ftln-1449" n="3.6.103">Crust you quite o’er! <stage xml:id="stg-1449"
-                            n="SD 3.6.103"
-                            type="business"
-                            rendition="inline"
-                            who="#FRIENDS_Tim"> ( They stand.) </stage> What, dost thou go? </l>
+            <l xml:id="ftln-1449" n="3.6.103">Crust you quite o’er! <stage xml:id="stg-1449" n="SD 3.6.103" type="business" rendition="inline" who="#FRIENDS_Tim"> ( They stand.) </stage> What, dost thou go? </l>
             <l xml:id="ftln-1451" n="3.6.105">Soft! Take thy physic first— thou too— and thou.— </l>
             <l xml:id="ftln-1452" n="3.6.106">Stay. I will lend thee money, borrow none. </l>
             <stage xml:id="stg-1452.1" n="SD 3.6.106.1" type="mixed">
-              <stage xml:id="stg-1452.1a"
-                            n="SD 3.6.106.1"
-                            type="business"
-                            who="#Timon_Tim #FRIENDS_Tim">He attacks them </stage> and <stage xml:id="stg-1452.1b"
-                            n="SD 3.6.106.1"
-                            type="exit"
-                            who="#FRIENDS_Tim">forces them out. </stage>
+              <stage xml:id="stg-1452.1a" n="SD 3.6.106.1" type="business" who="#Timon_Tim #FRIENDS_Tim">He attacks them </stage> and <stage xml:id="stg-1452.1b" n="SD 3.6.106.1" type="exit" who="#FRIENDS_Tim">forces them out. </stage>
             </stage>
             <l xml:id="ftln-1453" n="3.6.107">What? All in motion? Henceforth be no feast </l>
             <l xml:id="ftln-1454" n="3.6.108">Whereat a villain’s not a welcome guest. </l>
             <l xml:id="ftln-1455" n="3.6.109">Burn, house! Sink, Athens! Henceforth hated be </l>
             <l xml:id="ftln-1456" n="3.6.110">Of Timon man and all humanity! </l>
           </sp>
-          <stage xml:id="stg-1456"
-                      n="SD 3.6.110"
-                      type="exit"
-                      who="#Timon_Tim #SERVANTS.TIMON_Tim">He exits. </stage>
-          <stage xml:id="stg-1456.1"
-                      n="SD 3.6.110.1"
-                      type="entrance"
-                      who="#FRIENDS_Tim">Enter Timon’s Friends, the Senators, with other Lords. </stage>
+          <stage xml:id="stg-1456" n="SD 3.6.110" type="exit" who="#Timon_Tim #SERVANTS.TIMON_Tim">He exits. </stage>
+          <stage xml:id="stg-1456.1" n="SD 3.6.110.1" type="entrance" who="#FRIENDS_Tim">Enter Timon’s Friends, the Senators, with other Lords. </stage>
           <sp xml:id="sp-1457" who="#FRIENDS.0.1_Tim">
             <speaker xml:id="spk-1457">FIRST FRIEND </speaker>
             <p xml:id="p-1457">
@@ -4128,20 +3780,14 @@
             <speaker xml:id="spk-1472">FOURTH FRIEND </speaker>
             <l xml:id="ftln-1472" n="3.6.126">One day he gives us diamonds, next day stones. </l>
           </sp>
-          <stage xml:id="stg-1472.1"
-                      n="SD 3.6.126.1"
-                      type="exit"
-                      who="#FRIENDS_Tim">The Senators and the others exit. </stage>
+          <stage xml:id="stg-1472.1" n="SD 3.6.126.1" type="exit" who="#FRIENDS_Tim">The Senators and the others exit. </stage>
         </div>
       </div>
       <div type="act" n="4">
         <head>ACT 4 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-1472.2"
-                      n="SD 4.1.0"
-                      type="entrance"
-                      who="#Timon_Tim">Enter Timon. </stage>
+          <stage xml:id="stg-1472.2" n="SD 4.1.0" type="entrance" who="#Timon_Tim">Enter Timon. </stage>
           <sp xml:id="sp-1473" who="#Timon_Tim">
             <speaker xml:id="spk-1473">TIMON </speaker>
             <l xml:id="ftln-1473" n="4.1.1">Let me look back upon thee. O thou wall </l>
@@ -4186,17 +3832,11 @@
             <l xml:id="ftln-1512" n="4.1.40">To the whole race of mankind, high and low! </l>
             <l xml:id="ftln-1513" n="4.1.41" ana="#short">Amen. </l>
           </sp>
-          <stage xml:id="stg-1513.1"
-                      n="SD 4.1.41.1"
-                      type="exit"
-                      who="#Timon_Tim">He exits. </stage>
+          <stage xml:id="stg-1513.1" n="SD 4.1.41.1" type="exit" who="#Timon_Tim">He exits. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-1513.2"
-                      n="SD 4.2.0"
-                      type="entrance"
-                      who="#Flavius_Tim #SERVANTS.TIMON_Tim">Enter Steward Flavius with two or three Servants. </stage>
+          <stage xml:id="stg-1513.2" n="SD 4.2.0" type="entrance" who="#Flavius_Tim #SERVANTS.TIMON_Tim">Enter Steward Flavius with two or three Servants. </stage>
           <sp xml:id="sp-1514" who="#SERVANTS.TIMON.0.1_Tim">
             <speaker xml:id="spk-1514">FIRST SERVANT </speaker>
             <l xml:id="ftln-1514" n="4.2.1">Hear you, Master Steward, where’s our master? </l>
@@ -4225,10 +3865,7 @@
             <l xml:id="ftln-1528" n="4.2.15">A dedicated beggar to the air, </l>
             <l xml:id="ftln-1529" n="4.2.16">With his disease of all-shunned poverty, </l>
             <l xml:id="ftln-1530" n="4.2.17" part="I">Walks, like contempt, alone. </l>
-            <stage xml:id="stg-1530.1"
-                         n="SD 4.2.17.1"
-                         type="entrance"
-                         who="#SERVANTS.TIMON.0_Tim">Enter other Servants. </stage>
+            <stage xml:id="stg-1530.1" n="SD 4.2.17.1" type="entrance" who="#SERVANTS.TIMON.0_Tim">Enter other Servants. </stage>
             <l xml:id="ftln-1531" n="4.2.18" part="F">More of our fellows. </l>
           </sp>
           <sp xml:id="sp-1532" who="#Flavius_Tim">
@@ -4252,18 +3889,11 @@
             <l xml:id="ftln-1542" n="4.2.29">Let’s yet be fellows. Let’s shake our heads and say, </l>
             <l xml:id="ftln-1543" n="4.2.30">As ’twere a knell unto our master’s fortunes, </l>
             <l xml:id="ftln-1544" n="4.2.31" part="I">“ We have seen better days.” </l>
-            <stage xml:id="stg-1544"
-                         n="SD 4.2.31"
-                         type="business"
-                         rendition="inline"
-                         who="#Flavius_Tim #SERVANTS.TIMON_Tim"> ( He offers them money.) </stage>
+            <stage xml:id="stg-1544" n="SD 4.2.31" type="business" rendition="inline" who="#Flavius_Tim #SERVANTS.TIMON_Tim"> ( He offers them money.) </stage>
             <l xml:id="ftln-1545" n="4.2.32" part="F">Let each take some. </l>
             <l xml:id="ftln-1546" n="4.2.33">Nay, put out all your hands. Not one word more. </l>
             <l xml:id="ftln-1547" n="4.2.34">Thus part we rich in sorrow, parting poor. </l>
-            <stage xml:id="stg-1547.1"
-                         n="SD 4.2.34.1"
-                         type="exit"
-                         who="#SERVANTS.TIMON_Tim">The Servants embrace and part several ways. </stage>
+            <stage xml:id="stg-1547.1" n="SD 4.2.34.1" type="exit" who="#SERVANTS.TIMON_Tim">The Servants embrace and part several ways. </stage>
             <l xml:id="ftln-1548" n="4.2.35">O, the fierce wretchedness that glory brings us! </l>
             <l xml:id="ftln-1549" n="4.2.36">Who would not wish to be from wealth exempt, </l>
             <l xml:id="ftln-1550" n="4.2.37">Since riches point to misery and contempt? </l>
@@ -4287,17 +3917,11 @@
             <l xml:id="ftln-1568" n="4.2.55">I’ll ever serve his mind with my best will. </l>
             <l xml:id="ftln-1569" n="4.2.56">Whilst I have gold, I’ll be his steward still. </l>
           </sp>
-          <stage xml:id="stg-1569.1"
-                      n="SD 4.2.56.1"
-                      type="exit"
-                      who="#Flavius_Tim">He exits. </stage>
+          <stage xml:id="stg-1569.1" n="SD 4.2.56.1" type="exit" who="#Flavius_Tim">He exits. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-1569.2"
-                      n="SD 4.3.0"
-                      type="entrance"
-                      who="#Timon_Tim">Enter Timon in the woods, with a spade. </stage>
+          <stage xml:id="stg-1569.2" n="SD 4.3.0" type="entrance" who="#Timon_Tim">Enter Timon in the woods, with a spade. </stage>
           <sp xml:id="sp-1570" who="#Timon_Tim">
             <speaker xml:id="spk-1570">TIMON </speaker>
             <l xml:id="ftln-1570" n="4.3.1">O blessèd breeding sun, draw from the Earth </l>
@@ -4325,11 +3949,7 @@
             <l xml:id="ftln-1593" n="4.3.24">Destruction fang mankind! Earth, yield me roots! </l>
             <l xml:id="ftln-1594" n="4.3.25">Who seeks for better of thee, sauce his palate </l>
             <l xml:id="ftln-1595" n="4.3.26" part="I">With thy most operant poison! </l>
-            <stage xml:id="stg-1595"
-                         n="SD 4.3.26"
-                         type="business"
-                         rendition="inline"
-                         who="#Timon_Tim"> ( Digging, he finds gold.) </stage>
+            <stage xml:id="stg-1595" n="SD 4.3.26" type="business" rendition="inline" who="#Timon_Tim"> ( Digging, he finds gold.) </stage>
             <l xml:id="ftln-1596" n="4.3.27" part="F">What is here? </l>
             <l xml:id="ftln-1597" n="4.3.28">Gold? Yellow, glittering, precious gold? </l>
             <l xml:id="ftln-1598" n="4.3.29">No, gods, I am no idle votarist. </l>
@@ -4350,25 +3970,13 @@
             <l xml:id="ftln-1615" n="4.3.46">To th’ April day again. Come, damnèd earth, </l>
             <l xml:id="ftln-1616" n="4.3.47">Thou common whore of mankind, that puts odds </l>
             <l xml:id="ftln-1617" n="4.3.48">Among the rout of nations, I will make thee </l>
-            <l xml:id="ftln-1618" n="4.3.49">Do thy right nature. <stage xml:id="stg-1618"
-                            n="SD 4.3.49"
-                            type="business"
-                            rendition="inline"> ( <stage xml:id="snd-1618" n="SD 4.3.49" type="sound" ana="march drum">March afar off.</stage>) </stage> Ha? A drum? Thou ’rt quick, </l>
+            <l xml:id="ftln-1618" n="4.3.49">Do thy right nature. <stage xml:id="stg-1618" n="SD 4.3.49" type="business" rendition="inline"> ( <stage xml:id="snd-1618" n="SD 4.3.49" type="sound" ana="march drum">March afar off.</stage>) </stage> Ha? A drum? Thou ’rt quick, </l>
             <l xml:id="ftln-1620" n="4.3.51">But yet I’ll bury thee. Thou ’lt go, strong thief, </l>
             <l xml:id="ftln-1621" n="4.3.52">When gouty keepers of thee cannot stand. </l>
             <l xml:id="ftln-1622" n="4.3.53" ana="#short">Nay, stay thou out for earnest. </l>
           </sp>
-          <stage xml:id="stg-1622.1"
-                      n="SD 4.3.53.1"
-                      type="business"
-                      who="#Timon_Tim">He buries the gold, keeping some out. </stage>
-          <stage xml:id="stg-1622.2"
-                      n="SD 4.3.53.2"
-                      type="entrance"
-                      who="#Alcibiades_Tim #Phrynia_Tim #Timandra_Tim">Enter Alcibiades, with <stage xml:id="snd-1622.2"
-                         n="SD 4.3.53.2"
-                         type="sound"
-                         ana="drum fife">Drum and Fife</stage>, in warlike manner, and Phrynia and Timandra. </stage>
+          <stage xml:id="stg-1622.1" n="SD 4.3.53.1" type="business" who="#Timon_Tim">He buries the gold, keeping some out. </stage>
+          <stage xml:id="stg-1622.2" n="SD 4.3.53.2" type="entrance" who="#Alcibiades_Tim #Phrynia_Tim #Timandra_Tim">Enter Alcibiades, with <stage xml:id="snd-1622.2" n="SD 4.3.53.2" type="sound" ana="drum fife">Drum and Fife</stage>, in warlike manner, and Phrynia and Timandra. </stage>
           <sp xml:id="sp-1623" who="#Alcibiades_Tim">
             <speaker xml:id="spk-1623">ALCIBIADES </speaker>
             <l xml:id="ftln-1623" n="4.3.54" ana="#short">What art thou there? Speak. </l>
@@ -4557,11 +4165,7 @@
             <l xml:id="ftln-1708" n="4.3.139">Put armor on thine ears and on thine eyes, </l>
             <l xml:id="ftln-1709" n="4.3.140">Whose proof nor yells of mothers, maids, nor babes, </l>
             <l xml:id="ftln-1710" n="4.3.141">Nor sight of priests in holy vestments bleeding, </l>
-            <l xml:id="ftln-1711" n="4.3.142">Shall pierce a jot. <stage xml:id="stg-1711"
-                            n="SD 4.3.142"
-                            type="business"
-                            rendition="inline"
-                            who="#Timon_Tim"> ( He offers gold.) </stage> There’s gold to pay thy soldiers. </l>
+            <l xml:id="ftln-1711" n="4.3.142">Shall pierce a jot. <stage xml:id="stg-1711" n="SD 4.3.142" type="business" rendition="inline" who="#Timon_Tim"> ( He offers gold.) </stage> There’s gold to pay thy soldiers. </l>
             <l xml:id="ftln-1713" n="4.3.144">Make large confusion and, thy fury spent, </l>
             <l xml:id="ftln-1714" n="4.3.145">Confounded be thyself! Speak not. Begone. </l>
           </sp>
@@ -4583,11 +4187,7 @@
             <l xml:id="ftln-1719" n="4.3.150">Enough to make a whore forswear her trade, </l>
             <l xml:id="ftln-1720" n="4.3.151">And to make whores a bawd. Hold up, you sluts, </l>
             <l xml:id="ftln-1721" n="4.3.152" part="I">Your aprons mountant. </l>
-            <stage xml:id="stg-1721"
-                         n="SD 4.3.152"
-                         type="business"
-                         rendition="inline"
-                         who="#Timon_Tim #Phrynia_Tim #Timandra_Tim"> ( He begins throwing gold into their aprons.) </stage>
+            <stage xml:id="stg-1721" n="SD 4.3.152" type="business" rendition="inline" who="#Timon_Tim #Phrynia_Tim #Timandra_Tim"> ( He begins throwing gold into their aprons.) </stage>
             <l xml:id="ftln-1722" n="4.3.153" part="F">You are not oathable, </l>
             <l xml:id="ftln-1723" n="4.3.154">Although I know you’ll swear— terribly swear </l>
             <l xml:id="ftln-1724" n="4.3.155">Into strong shudders and to heavenly agues </l>
@@ -4667,19 +4267,12 @@
             <l xml:id="ftln-1768" n="4.3.199" part="F">We but offend him.— </l>
             <l xml:id="ftln-1769" n="4.3.200" ana="#short">Strike. </l>
           </sp>
-          <stage xml:id="stg-1769"
-                      n="SD 4.3.200"
-                      type="exit"
-                      who="#Alcibiades_Tim #Phrynia_Tim #Timandra_Tim">
+          <stage xml:id="stg-1769" n="SD 4.3.200" type="exit" who="#Alcibiades_Tim #Phrynia_Tim #Timandra_Tim">
             <stage xml:id="snd-1769" n="SD 4.3.200" type="sound" ana="drum">The drum sounds; </stage> all but Timon exit. </stage>
           <sp xml:id="sp-1770" who="#Timon_Tim">
             <speaker xml:id="spk-1770">TIMON </speaker>
             <l xml:id="ftln-1770" n="4.3.201">That nature, being sick of man’s unkindness, </l>
-            <l xml:id="ftln-1771" n="4.3.202">Should yet be hungry! <stage xml:id="stg-1771"
-                            n="SD 4.3.202"
-                            type="business"
-                            rendition="inline"
-                            who="#Timon_Tim"> ( He digs.) </stage> Common mother, thou </l>
+            <l xml:id="ftln-1771" n="4.3.202">Should yet be hungry! <stage xml:id="stg-1771" n="SD 4.3.202" type="business" rendition="inline" who="#Timon_Tim"> ( He digs.) </stage> Common mother, thou </l>
             <l xml:id="ftln-1773" n="4.3.204">Whose womb unmeasurable and infinite breast </l>
             <l xml:id="ftln-1774" n="4.3.205">Teems and feeds all; whose selfsame mettle— </l>
             <l xml:id="ftln-1775" n="4.3.206">Whereof thy proud child, arrogant man, is puffed— </l>
@@ -4699,10 +4292,7 @@
             <l xml:id="ftln-1789" n="4.3.220">Whereof ingrateful man with liquorish drafts </l>
             <l xml:id="ftln-1790" n="4.3.221">And morsels unctuous greases his pure mind, </l>
             <l xml:id="ftln-1791" n="4.3.222">That from it all consideration slips— </l>
-            <stage xml:id="stg-1791.1"
-                         n="SD 4.3.222.1"
-                         type="entrance"
-                         who="#Apemantus_Tim">Enter Apemantus. </stage>
+            <stage xml:id="stg-1791.1" n="SD 4.3.222.1" type="entrance" who="#Apemantus_Tim">Enter Apemantus. </stage>
             <l xml:id="ftln-1792" n="4.3.223" ana="#short">More man? Plague, plague! </l>
           </sp>
           <sp xml:id="sp-1793" who="#Apemantus_Tim">
@@ -4864,16 +4454,10 @@
             <l xml:id="ftln-1888" n="4.3.319">That the whole life of Athens were in this! </l>
             <l xml:id="ftln-1889" n="4.3.320" part="I">Thus would I eat it. </l>
           </sp>
-          <stage xml:id="stg-1889"
-                      n="SD 4.3.320"
-                      type="business"
-                      who="#Timon_Tim">He gnaws a root. </stage>
+          <stage xml:id="stg-1889" n="SD 4.3.320" type="business" who="#Timon_Tim">He gnaws a root. </stage>
           <sp xml:id="sp-1890" who="#Apemantus_Tim">
             <speaker xml:id="spk-1890">APEMANTUS </speaker>
-            <stage xml:id="stg-1890"
-                         n="SD 4.3.321"
-                         type="business"
-                         who="#Apemantus_Tim">, offering food </stage>
+            <stage xml:id="stg-1890" n="SD 4.3.321" type="business" who="#Apemantus_Tim">, offering food </stage>
             <l xml:id="ftln-1890" n="4.3.321" part="F">Here, I will mend thy feast. </l>
           </sp>
           <sp xml:id="sp-1891" who="#Timon_Tim">
@@ -5071,10 +4655,7 @@
             <l xml:id="ftln-1982" n="4.3.413" part="F">Away, thou tedious rogue! </l>
             <l xml:id="ftln-1983" n="4.3.414">I am sorry I shall lose a stone by thee. </l>
           </sp>
-          <stage xml:id="stg-1983.1"
-                      n="SD 4.3.414.1"
-                      type="business"
-                      who="#Timon_Tim #Apemantus_Tim">Timon throws a stone at Apemantus. </stage>
+          <stage xml:id="stg-1983.1" n="SD 4.3.414.1" type="business" who="#Timon_Tim #Apemantus_Tim">Timon throws a stone at Apemantus. </stage>
           <sp xml:id="sp-1984" who="#Apemantus_Tim">
             <speaker xml:id="spk-1984">APEMANTUS </speaker>
             <l xml:id="ftln-1984" n="4.3.415" ana="#short">Beast! </l>
@@ -5136,18 +4717,12 @@
             <speaker xml:id="spk-2015">TIMON </speaker>
             <l xml:id="ftln-2015" n="4.3.446" ana="#short">Long live so, and so die. I am quit. </l>
           </sp>
-          <stage xml:id="stg-2015.1"
-                      n="SD 4.3.446.1"
-                      type="entrance"
-                      who="#BANDITS.1_Tim #BANDITS.2_Tim #BANDITS.3_Tim">Enter the Banditti. </stage>
+          <stage xml:id="stg-2015.1" n="SD 4.3.446.1" type="entrance" who="#BANDITS.1_Tim #BANDITS.2_Tim #BANDITS.3_Tim">Enter the Banditti. </stage>
           <sp xml:id="sp-2016" who="#Apemantus_Tim">
             <speaker xml:id="spk-2016">APEMANTUS </speaker>
             <l xml:id="ftln-2016" n="4.3.447">More things like men.— Eat, Timon, and abhor them. </l>
           </sp>
-          <stage xml:id="stg-2017"
-                      n="SD 4.3.448"
-                      type="exit"
-                      who="#Apemantus_Tim">Apemantus exits. </stage>
+          <stage xml:id="stg-2017" n="SD 4.3.448" type="exit" who="#Apemantus_Tim">Apemantus exits. </stage>
           <sp xml:id="sp-2018" who="#BANDITS.1_Tim">
             <speaker xml:id="spk-2018">FIRST BANDIT </speaker>
             <p xml:id="p-2018">
@@ -5231,11 +4806,7 @@
             <l xml:id="ftln-2047" n="4.3.478">That you are thieves professed, that you work not </l>
             <l xml:id="ftln-2048" n="4.3.479">In holier shapes, for there is boundless theft </l>
             <l xml:id="ftln-2049" n="4.3.480">In limited professions. Rascal thieves, </l>
-            <l xml:id="ftln-2050" n="4.3.481">Here’s gold. <stage xml:id="stg-2050"
-                            n="SD 4.3.481"
-                            type="business"
-                            rendition="inline"
-                            who="#Timon_Tim #BANDITS.1_Tim #BANDITS.2_Tim #BANDITS.3_Tim"> ( He gives them gold.) </stage> Go, suck the subtle blood o’ th’ grape </l>
+            <l xml:id="ftln-2050" n="4.3.481">Here’s gold. <stage xml:id="stg-2050" n="SD 4.3.481" type="business" rendition="inline" who="#Timon_Tim #BANDITS.1_Tim #BANDITS.2_Tim #BANDITS.3_Tim"> ( He gives them gold.) </stage> Go, suck the subtle blood o’ th’ grape </l>
             <l xml:id="ftln-2052" n="4.3.483">Till the high fever seethe your blood to froth, </l>
             <l xml:id="ftln-2053" n="4.3.484">And so ’scape hanging. Trust not the physician; </l>
             <l xml:id="ftln-2054" n="4.3.485">His antidotes are poison, and he slays </l>
@@ -5252,11 +4823,7 @@
             <l xml:id="ftln-2065" n="4.3.496">The laws, your curb and whip, in their rough power </l>
             <l xml:id="ftln-2066" n="4.3.497">Has unchecked theft. Love not yourselves. Away! </l>
             <l xml:id="ftln-2067" n="4.3.498" part="I">Rob one another. There’s more gold. </l>
-            <stage xml:id="stg-2067"
-                         n="SD 4.3.498"
-                         type="business"
-                         rendition="inline"
-                         who="#Timon_Tim #BANDITS.1_Tim #BANDITS.2_Tim #BANDITS.3_Tim"> ( He gives them gold.) </stage>
+            <stage xml:id="stg-2067" n="SD 4.3.498" type="business" rendition="inline" who="#Timon_Tim #BANDITS.1_Tim #BANDITS.2_Tim #BANDITS.3_Tim"> ( He gives them gold.) </stage>
             <l xml:id="ftln-2068" n="4.3.499" part="F">Cut throats. </l>
             <l xml:id="ftln-2069" n="4.3.500">All that you meet are thieves. To Athens go. </l>
             <l xml:id="ftln-2070" n="4.3.501">Break open shops. Nothing can you steal </l>
@@ -5283,14 +4850,8 @@
             <p xml:id="p-2080">
               <lb xml:id="ftln-2080" n="4.3.511"/>Let us first see peace in Athens. There is <lb xml:id="ftln-2081" n="4.3.512"/>no time so miserable but a man may be true. </p>
           </sp>
-          <stage xml:id="stg-2081.1"
-                      n="SD 4.3.512.1"
-                      type="exit"
-                      who="#BANDITS.1_Tim #BANDITS.2_Tim #BANDITS.3_Tim">Thieves exit. </stage>
-          <stage xml:id="stg-2081.2"
-                      n="SD 4.3.512.2"
-                      type="entrance"
-                      who="#Flavius_Tim">Enter Flavius the Steward, to Timon. </stage>
+          <stage xml:id="stg-2081.1" n="SD 4.3.512.1" type="exit" who="#BANDITS.1_Tim #BANDITS.2_Tim #BANDITS.3_Tim">Thieves exit. </stage>
+          <stage xml:id="stg-2081.2" n="SD 4.3.512.2" type="entrance" who="#Flavius_Tim">Enter Flavius the Steward, to Timon. </stage>
           <sp xml:id="sp-2082" who="#Flavius_Tim">
             <speaker xml:id="spk-2082">FLAVIUS </speaker>
             <l xml:id="ftln-2082" n="4.3.513" ana="#short">O you gods! </l>
@@ -5337,10 +4898,7 @@
             <l xml:id="ftln-2107" n="4.3.538">Ne’er did poor steward wear a truer grief </l>
             <l xml:id="ftln-2108" n="4.3.539">For his undone lord than mine eyes for you. </l>
           </sp>
-          <stage xml:id="stg-2108.1"
-                      n="SD 4.3.539.1"
-                      type="business"
-                      who="#Flavius_Tim">He weeps. </stage>
+          <stage xml:id="stg-2108.1" n="SD 4.3.539.1" type="business" who="#Flavius_Tim">He weeps. </stage>
           <sp xml:id="sp-2109" who="#Timon_Tim">
             <speaker xml:id="spk-2109">TIMON </speaker>
             <l xml:id="ftln-2109" n="4.3.540">What, dost thou weep? Come nearer, then. I love thee </l>
@@ -5355,10 +4913,7 @@
             <l xml:id="ftln-2117" n="4.3.548">T’ accept my grief, and, whilst this poor wealth lasts, </l>
             <l xml:id="ftln-2118" n="4.3.549">To entertain me as your steward still. </l>
           </sp>
-          <stage xml:id="stg-2118.1"
-                      n="SD 4.3.549.1"
-                      type="business"
-                      who="#Flavius_Tim">He offers money. </stage>
+          <stage xml:id="stg-2118.1" n="SD 4.3.549.1" type="business" who="#Flavius_Tim">He offers money. </stage>
           <sp xml:id="sp-2119" who="#Timon_Tim">
             <speaker xml:id="spk-2119">TIMON </speaker>
             <l xml:id="ftln-2119" n="4.3.550" ana="#short">Had I a steward </l>
@@ -5401,11 +4956,7 @@
           <sp xml:id="sp-2153" who="#Timon_Tim">
             <speaker xml:id="spk-2153">TIMON </speaker>
             <l xml:id="ftln-2153" n="4.3.584">Look thee, ’tis so. Thou singly honest man, </l>
-            <l xml:id="ftln-2154" n="4.3.585">Here, take. <stage xml:id="stg-2154"
-                            n="SD 4.3.585"
-                            type="business"
-                            rendition="inline"
-                            who="#Timon_Tim"> ( Timon offers gold.) </stage> The gods out of my misery </l>
+            <l xml:id="ftln-2154" n="4.3.585">Here, take. <stage xml:id="stg-2154" n="SD 4.3.585" type="business" rendition="inline" who="#Timon_Tim"> ( Timon offers gold.) </stage> The gods out of my misery </l>
             <l xml:id="ftln-2156" n="4.3.587">Has sent thee treasure. Go, live rich and happy, </l>
             <l xml:id="ftln-2157" n="4.3.588">But thus conditioned: thou shalt build from men; </l>
             <l xml:id="ftln-2158" n="4.3.589">Hate all, curse all, show charity to none, </l>
@@ -5427,20 +4978,14 @@
             <l xml:id="ftln-2169" n="4.3.600">Stay not. Fly whilst thou art blest and free. </l>
             <l xml:id="ftln-2170" n="4.3.601">Ne’er see thou man, and let me ne’er see thee. </l>
           </sp>
-          <stage xml:id="stg-2170.1"
-                      n="SD 4.3.601.1"
-                      type="exit"
-                      who="#Timon_Tim #Flavius_Tim">They exit. </stage>
+          <stage xml:id="stg-2170.1" n="SD 4.3.601.1" type="exit" who="#Timon_Tim #Flavius_Tim">They exit. </stage>
         </div>
       </div>
       <div type="act" n="5">
         <head>ACT 5 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-2170.2"
-                      n="SD 5.1.0"
-                      type="entrance"
-                      who="#Poet_Tim #Painter_Tim">Enter Poet and Painter. </stage>
+          <stage xml:id="stg-2170.2" n="SD 5.1.0" type="entrance" who="#Poet_Tim #Painter_Tim">Enter Poet and Painter. </stage>
           <sp xml:id="sp-2171" who="#Painter_Tim">
             <speaker xml:id="spk-2171">PAINTER </speaker>
             <p xml:id="p-2171">
@@ -5466,10 +5011,7 @@
             <p xml:id="p-2181">
               <lb xml:id="ftln-2181" n="5.1.11"/>Nothing else. You shall see him a palm in <lb xml:id="ftln-2182" n="5.1.12"/>Athens again, and flourish with the highest. Therefore <lb xml:id="ftln-2183" n="5.1.13"/>’tis not amiss we tender our loves to him in <lb xml:id="ftln-2184" n="5.1.14"/>this supposed distress of his. It will show honestly <lb xml:id="ftln-2185" n="5.1.15"/>in us and is very likely to load our purposes with <lb xml:id="ftln-2186" n="5.1.16"/>what they travail for, if it be a just and true report <lb xml:id="ftln-2187" n="5.1.17"/>that goes of his having. </p>
           </sp>
-          <stage xml:id="stg-2187.1"
-                      n="SD 5.1.17.1"
-                      type="entrance"
-                      who="#Timon_Tim">Enter Timon, behind them, from his cave. </stage>
+          <stage xml:id="stg-2187.1" n="SD 5.1.17.1" type="entrance" who="#Timon_Tim">Enter Timon, behind them, from his cave. </stage>
           <sp xml:id="sp-2188" who="#Poet_Tim">
             <speaker xml:id="spk-2188">POET </speaker>
             <p xml:id="p-2188">
@@ -5532,10 +5074,7 @@
             <l xml:id="ftln-2224" n="5.1.54">Be crowned with plagues, that thee alone obey! </l>
             <l xml:id="ftln-2225" n="5.1.55" ana="#short">Fit I meet them. </l>
           </sp>
-          <stage xml:id="stg-2225"
-                      n="SD 5.1.55"
-                      type="business"
-                      who="#Timon_Tim">He comes forward. </stage>
+          <stage xml:id="stg-2225" n="SD 5.1.55" type="business" who="#Timon_Tim">He comes forward. </stage>
           <sp xml:id="sp-2226" who="#Poet_Tim">
             <speaker xml:id="spk-2226">POET </speaker>
             <l xml:id="ftln-2226" n="5.1.56" part="I">Hail, worthy Timon. </l>
@@ -5693,14 +5232,8 @@
               <stage xml:id="stg-2299" n="SD 5.1.129" type="delivery">( To the other.) </stage>You are an alchemist; make gold of that. </l>
             <l xml:id="ftln-2301" n="5.1.131" ana="#short">Out, rascal dogs! </l>
           </sp>
-          <stage xml:id="stg-2301.1"
-                      n="SD 5.1.131.1"
-                      type="exit"
-                      who="#Timon_Tim #Poet_Tim #Painter_Tim">Timon drives them out and then exits. </stage>
-          <stage xml:id="stg-2301.2"
-                      n="SD 5.1.131.2"
-                      type="entrance"
-                      who="#Flavius_Tim #SENATORS.1_Tim #SENATORS.2_Tim">Enter Steward Flavius, and two Senators. </stage>
+          <stage xml:id="stg-2301.1" n="SD 5.1.131.1" type="exit" who="#Timon_Tim #Poet_Tim #Painter_Tim">Timon drives them out and then exits. </stage>
+          <stage xml:id="stg-2301.2" n="SD 5.1.131.2" type="entrance" who="#Flavius_Tim #SENATORS.1_Tim #SENATORS.2_Tim">Enter Steward Flavius, and two Senators. </stage>
           <sp xml:id="sp-2302" who="#Flavius_Tim">
             <speaker xml:id="spk-2302">FLAVIUS </speaker>
             <l xml:id="ftln-2302" n="5.1.132">It is vain that you would speak with Timon, </l>
@@ -5731,10 +5264,7 @@
             <l xml:id="ftln-2318" n="5.1.148">By two of their most reverend Senate greet thee. </l>
             <l xml:id="ftln-2319" n="5.1.149" ana="#short">Speak to them, noble Timon. </l>
           </sp>
-          <stage xml:id="stg-2319.1"
-                      n="SD 5.1.149.1"
-                      type="entrance"
-                      who="#Timon_Tim">Enter Timon out of his cave. </stage>
+          <stage xml:id="stg-2319.1" n="SD 5.1.149.1" type="entrance" who="#Timon_Tim">Enter Timon out of his cave. </stage>
           <sp xml:id="sp-2320" who="#Timon_Tim">
             <speaker xml:id="spk-2320">TIMON </speaker>
             <l xml:id="ftln-2320" n="5.1.150">Thou sun that comforts, burn!— Speak and be hanged! </l>
@@ -5916,10 +5446,7 @@
             <l xml:id="ftln-2424" n="5.1.254">Graves only be men’s works, and death their gain. </l>
             <l xml:id="ftln-2425" n="5.1.255">Sun, hide thy beams. Timon hath done his reign. </l>
           </sp>
-          <stage xml:id="stg-2425.1"
-                      n="SD 5.1.255.1"
-                      type="exit"
-                      who="#Timon_Tim">Timon exits. </stage>
+          <stage xml:id="stg-2425.1" n="SD 5.1.255.1" type="exit" who="#Timon_Tim">Timon exits. </stage>
           <sp xml:id="sp-2426" who="#SENATORS.1_Tim">
             <speaker xml:id="spk-2426">FIRST SENATOR </speaker>
             <l xml:id="ftln-2426" n="5.1.256">His discontents are unremovably </l>
@@ -5935,17 +5462,11 @@
             <speaker xml:id="spk-2431">FIRST SENATOR </speaker>
             <l xml:id="ftln-2431" n="5.1.261" part="F">It requires swift foot. </l>
           </sp>
-          <stage xml:id="stg-2431.1"
-                      n="SD 5.1.261.1"
-                      type="exit"
-                      who="#SENATORS.1_Tim #SENATORS.2_Tim #Flavius_Tim">They exit. </stage>
+          <stage xml:id="stg-2431.1" n="SD 5.1.261.1" type="exit" who="#SENATORS.1_Tim #SENATORS.2_Tim #Flavius_Tim">They exit. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-2431.2"
-                      n="SD 5.2.0"
-                      type="entrance"
-                      who="#SENATORS.3_Tim #SENATORS.4_Tim #MESSENGERS.X.3_Tim">Enter two other Senators, with a Messenger. </stage>
+          <stage xml:id="stg-2431.2" n="SD 5.2.0" type="entrance" who="#SENATORS.3_Tim #SENATORS.4_Tim #MESSENGERS.X.3_Tim">Enter two other Senators, with a Messenger. </stage>
           <sp xml:id="sp-2432" who="#SENATORS.3_Tim">
             <speaker xml:id="spk-2432">THIRD SENATOR </speaker>
             <l xml:id="ftln-2432" n="5.2.1">Thou hast painfully discovered. Are his files </l>
@@ -5972,10 +5493,7 @@
             <l xml:id="ftln-2444" n="5.2.13">His fellowship i’ th’ cause against your city, </l>
             <l xml:id="ftln-2445" n="5.2.14" part="I">In part for his sake moved. </l>
           </sp>
-          <stage xml:id="stg-2445.1"
-                      n="SD 5.2.14.1"
-                      type="entrance"
-                      who="#SENATORS.1_Tim #SENATORS.2_Tim">Enter the other Senators. </stage>
+          <stage xml:id="stg-2445.1" n="SD 5.2.14.1" type="entrance" who="#SENATORS.1_Tim #SENATORS.2_Tim">Enter the other Senators. </stage>
           <sp xml:id="sp-2446" who="#SENATORS.3_Tim">
             <speaker xml:id="spk-2446">THIRD SENATOR </speaker>
             <l xml:id="ftln-2446" n="5.2.15" part="F">Here come our brothers. </l>
@@ -5987,25 +5505,16 @@
             <l xml:id="ftln-2449" n="5.2.18">Doth choke the air with dust. In, and prepare. </l>
             <l xml:id="ftln-2450" n="5.2.19">Ours is the fall, I fear, our foe’s the snare. </l>
           </sp>
-          <stage xml:id="stg-2450.1"
-                      n="SD 5.2.19.1"
-                      type="exit"
-                      who="#SENATORS.1_Tim #SENATORS.2_Tim #SENATORS.3_Tim #SENATORS.4_Tim #MESSENGERS.X.3_Tim">They exit. </stage>
+          <stage xml:id="stg-2450.1" n="SD 5.2.19.1" type="exit" who="#SENATORS.1_Tim #SENATORS.2_Tim #SENATORS.3_Tim #SENATORS.4_Tim #MESSENGERS.X.3_Tim">They exit. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-2450.2"
-                      n="SD 5.3.0"
-                      type="entrance"
-                      who="#SOLDIERS.1_Tim">Enter a Soldier in the woods, seeking Timon. </stage>
+          <stage xml:id="stg-2450.2" n="SD 5.3.0" type="entrance" who="#SOLDIERS.1_Tim">Enter a Soldier in the woods, seeking Timon. </stage>
           <sp xml:id="sp-2451" who="#SOLDIERS.1_Tim">
             <speaker xml:id="spk-2451">SOLDIER </speaker>
             <l xml:id="ftln-2451" n="5.3.1">By all description this should be the place. </l>
             <l xml:id="ftln-2452" n="5.3.2">Who’s here? Speak, ho! No answer? What is this? </l>
-            <stage xml:id="stg-2452.1"
-                         n="SD 5.3.2.1"
-                         type="delivery"
-                         rendition="indentVerse">He reads an epitaph. </stage>
+            <stage xml:id="stg-2452.1" n="SD 5.3.2.1" type="delivery" rendition="indentVerse">He reads an epitaph. </stage>
             <q xml:id="q-2453" type="letter">
               <l xml:id="ftln-2453" n="5.3.3">Timon is dead, who hath out-stretched his span. </l>
               <l xml:id="ftln-2454" n="5.3.4">Some beast read this; there does not live a man. </l>
@@ -6017,17 +5526,11 @@
             <l xml:id="ftln-2459" n="5.3.9">Before proud Athens he’s set down by this, </l>
             <l xml:id="ftln-2460" n="5.3.10">Whose fall the mark of his ambition is. </l>
           </sp>
-          <stage xml:id="stg-2460.1"
-                      n="SD 5.3.10.1"
-                      type="exit"
-                      who="#SOLDIERS.1_Tim">He exits. </stage>
+          <stage xml:id="stg-2460.1" n="SD 5.3.10.1" type="exit" who="#SOLDIERS.1_Tim">He exits. </stage>
         </div>
         <div type="scene" n="4">
           <head>Scene 4 </head>
-          <stage xml:id="stg-2460.2"
-                      n="SD 5.4.0"
-                      type="entrance"
-                      who="#Alcibiades_Tim #SOLDIERS_Tim">
+          <stage xml:id="stg-2460.2" n="SD 5.4.0" type="entrance" who="#Alcibiades_Tim #SOLDIERS_Tim">
             <stage xml:id="snd-2460.2" n="SD 5.4.0" type="sound" ana="trumpet">Trumpets sound. </stage> Enter Alcibiades with his Powers before Athens. </stage>
           <sp xml:id="sp-2461" who="#Alcibiades_Tim">
             <speaker xml:id="spk-2461">ALCIBIADES </speaker>
@@ -6036,10 +5539,7 @@
             <stage xml:id="stg-2462" n="SD 5.4.2" type="business">
               <stage xml:id="snd-2462" n="SD 5.4.2" type="sound" ana="parley">Sounds a parley. </stage>
             </stage>
-            <stage xml:id="stg-2462.1"
-                         n="SD 5.4.2.1"
-                         type="entrance"
-                         who="#SENATORS.1_Tim #SENATORS.2_Tim">The Senators appear upon the walls. </stage>
+            <stage xml:id="stg-2462.1" n="SD 5.4.2.1" type="entrance" who="#SENATORS.1_Tim #SENATORS.2_Tim">The Senators appear upon the walls. </stage>
             <l xml:id="ftln-2463" n="5.4.3">Till now you have gone on and filled the time </l>
             <l xml:id="ftln-2464" n="5.4.4">With all licentious measure, making your wills </l>
             <l xml:id="ftln-2465" n="5.4.5">The scope of justice. Till now myself and such </l>
@@ -6146,14 +5646,8 @@
             <speaker xml:id="spk-2535">ALCIBIADES </speaker>
             <l xml:id="ftln-2535" n="5.4.75" ana="#short">Descend and keep your words. </l>
           </sp>
-          <stage xml:id="stg-2535.1"
-                      n="SD 5.4.75.1"
-                      type="business"
-                      who="#SENATORS.1_Tim #SENATORS.2_Tim">The Senators descend. </stage>
-          <stage xml:id="stg-2535.2"
-                      n="SD 5.4.75.2"
-                      type="entrance"
-                      who="#SOLDIERS.1_Tim">Enter a Soldier, with the wax tablet. </stage>
+          <stage xml:id="stg-2535.1" n="SD 5.4.75.1" type="business" who="#SENATORS.1_Tim #SENATORS.2_Tim">The Senators descend. </stage>
+          <stage xml:id="stg-2535.2" n="SD 5.4.75.2" type="entrance" who="#SOLDIERS.1_Tim">Enter a Soldier, with the wax tablet. </stage>
           <sp xml:id="sp-2536" who="#SOLDIERS.1_Tim">
             <speaker xml:id="spk-2536">SOLDIER </speaker>
             <l xml:id="ftln-2536" n="5.4.76">My noble general, Timon is dead, </l>
@@ -6184,10 +5678,7 @@
             <l xml:id="ftln-2559" n="5.4.99">Prescribe to other as each other’s leech. </l>
             <l xml:id="ftln-2560" n="5.4.100" ana="#short">Let our drums strike. </l>
           </sp>
-          <stage xml:id="stg-2560.1"
-                      n="SD 5.4.100.1"
-                      type="exit"
-                      who="#Alcibiades_Tim #SOLDIERS.1_Tim #SOLDIERS_Tim #SENATORS.1_Tim #SENATORS.2_Tim">
+          <stage xml:id="stg-2560.1" n="SD 5.4.100.1" type="exit" who="#Alcibiades_Tim #SOLDIERS.1_Tim #SOLDIERS_Tim #SENATORS.1_Tim #SENATORS.2_Tim">
             <stage xml:id="snd-2560.1" n="SD 5.4.100.1" type="sound" ana="drum">Drums. </stage> They exit. </stage>
         </div>
       </div>

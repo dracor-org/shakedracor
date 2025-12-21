@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shake000012">
   <teiHeader>
     <fileDesc>
@@ -200,9 +201,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/shake000012"
-                   passive="http://www.wikidata.org/entity/Q506865"/>
+      <relation name="wikidata" active="https://dracor.org/entity/shake000012" passive="http://www.wikidata.org/entity/Q506865"/>
     </listRelation>
   </standOff>
   <text>
@@ -356,10 +355,7 @@
         <head>ACT 1 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-0000"
-                      n="SD 1.1.0"
-                      type="entrance"
-                      who="#Bertram_AWW #Countess_AWW #Helen_AWW #Lafew_AWW">Enter young Bertram Count of Rossillion, his mother the Countess, and Helen, Lord Lafew, all in black. </stage>
+          <stage xml:id="stg-0000" n="SD 1.1.0" type="entrance" who="#Bertram_AWW #Countess_AWW #Helen_AWW #Lafew_AWW">Enter young Bertram Count of Rossillion, his mother the Countess, and Helen, Lord Lafew, all in black. </stage>
           <sp xml:id="sp-0001" who="#Countess_AWW">
             <speaker xml:id="spk-0001">COUNTESS </speaker>
             <p xml:id="p-0001">
@@ -504,10 +500,7 @@
             <p xml:id="p-0082">
               <lb xml:id="ftln-0082" n="1.1.82"/>Farewell, pretty lady. You must hold the credit <lb xml:id="ftln-0083" n="1.1.83"/>of your father. </p>
           </sp>
-          <stage xml:id="stg-0083"
-                      n="SD 1.1.83"
-                      type="exit"
-                      who="#Bertram_AWW #Lafew_AWW">Bertram and Lafew exit. </stage>
+          <stage xml:id="stg-0083" n="SD 1.1.83" type="exit" who="#Bertram_AWW #Lafew_AWW">Bertram and Lafew exit. </stage>
           <sp xml:id="sp-0084" who="#Helen_AWW">
             <speaker xml:id="spk-0084">HELEN </speaker>
             <l xml:id="ftln-0084" n="1.1.84">O, were that all! I think not on my father, </l>
@@ -530,10 +523,7 @@
             <l xml:id="ftln-0101" n="1.1.101">Of every line and trick of his sweet favor. </l>
             <l xml:id="ftln-0102" n="1.1.102">But now he’s gone, and my idolatrous fancy </l>
             <l xml:id="ftln-0103" n="1.1.103">Must sanctify his relics. Who comes here? </l>
-            <stage xml:id="stg-0103.1"
-                         n="SD 1.1.103.1"
-                         type="entrance"
-                         who="#Parolles_AWW">Enter Parolles. </stage>
+            <stage xml:id="stg-0103.1" n="SD 1.1.103.1" type="entrance" who="#Parolles_AWW">Enter Parolles. </stage>
             <l xml:id="ftln-0104" n="1.1.104">One that goes with him. I love him for his sake, </l>
             <l xml:id="ftln-0105" n="1.1.105">And yet I know him a notorious liar, </l>
             <l xml:id="ftln-0106" n="1.1.106">Think him a great way fool, solely a coward. </l>
@@ -654,10 +644,7 @@
             <l xml:id="ftln-0191" n="1.1.191">And show what we alone must think, which never </l>
             <l xml:id="ftln-0192" n="1.1.192" ana="#short">Returns us thanks. </l>
           </sp>
-          <stage xml:id="stg-0192.1"
-                      n="SD 1.1.192.1"
-                      type="entrance"
-                      who="#Page_AWW">Enter Page. </stage>
+          <stage xml:id="stg-0192.1" n="SD 1.1.192.1" type="entrance" who="#Page_AWW">Enter Page. </stage>
           <sp xml:id="sp-0193" who="#Page_AWW">
             <speaker xml:id="spk-0193">PAGE </speaker>
             <p xml:id="p-0193">
@@ -728,10 +715,7 @@
             <p xml:id="p-0212">
               <lb xml:id="ftln-0212" n="1.1.212"/>I am so full of businesses I cannot answer <lb xml:id="ftln-0213" n="1.1.213"/>thee acutely. I will return perfect courtier, in the <lb xml:id="ftln-0214" n="1.1.214"/>which my instruction shall serve to naturalize <lb xml:id="ftln-0215" n="1.1.215"/>thee, so thou wilt be capable of a courtier’s counsel <lb xml:id="ftln-0216" n="1.1.216"/>and understand what advice shall thrust upon <lb xml:id="ftln-0217" n="1.1.217"/>thee, else thou diest in thine unthankfulness, and <lb xml:id="ftln-0218" n="1.1.218"/>thine ignorance makes thee away. Farewell. When <lb xml:id="ftln-0219" n="1.1.219"/>thou hast leisure, say thy prayers; when thou hast <lb xml:id="ftln-0220" n="1.1.220"/>none, remember thy friends. Get thee a good husband, <lb xml:id="ftln-0221" n="1.1.221"/>and use him as he uses thee. So, farewell. </p>
           </sp>
-          <stage xml:id="stg-0221.1"
-                      n="SD 1.1.221.1"
-                      type="exit"
-                      who="#Parolles_AWW #Page_AWW">Parolles and Page exit. </stage>
+          <stage xml:id="stg-0221.1" n="SD 1.1.221.1" type="exit" who="#Parolles_AWW #Page_AWW">Parolles and Page exit. </stage>
           <sp xml:id="sp-0222" who="#Helen_AWW">
             <speaker xml:id="spk-0222">HELEN </speaker>
             <l xml:id="ftln-0222" n="1.1.222">Our remedies oft in ourselves do lie </l>
@@ -749,21 +733,12 @@
             <l xml:id="ftln-0234" n="1.1.234">The King’s disease— my project may deceive me, </l>
             <l xml:id="ftln-0235" n="1.1.235">But my intents are fixed and will not leave me. </l>
           </sp>
-          <stage xml:id="stg-0235.1"
-                      n="SD 1.1.235.1"
-                      type="exit"
-                      who="#Helen_AWW">She exits. </stage>
+          <stage xml:id="stg-0235.1" n="SD 1.1.235.1" type="exit" who="#Helen_AWW">She exits. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-0235.2"
-                      n="SD 1.2.0"
-                      type="entrance"
-                      who="#King_AWW #ATTENDANTS.KING_AWW">
-            <stage xml:id="snd-0235.2"
-                         n="SD 1.2.0"
-                         type="sound"
-                         ana="flourish cornet">Flourish cornets. </stage> Enter the King of France with letters, two Lords, and divers Attendants. </stage>
+          <stage xml:id="stg-0235.2" n="SD 1.2.0" type="entrance" who="#King_AWW #ATTENDANTS.KING_AWW">
+            <stage xml:id="snd-0235.2" n="SD 1.2.0" type="sound" ana="flourish cornet">Flourish cornets. </stage> Enter the King of France with letters, two Lords, and divers Attendants. </stage>
           <sp xml:id="sp-0236" who="#King_AWW">
             <speaker xml:id="spk-0236">KING </speaker>
             <l xml:id="ftln-0236" n="1.2.1">The Florentines and Senoys are by th’ ears, </l>
@@ -803,10 +778,7 @@
             <l xml:id="ftln-0255" n="1.2.20">A nursery to our gentry, who are sick </l>
             <l xml:id="ftln-0256" n="1.2.21" part="I">For breathing and exploit. </l>
           </sp>
-          <stage xml:id="stg-0256.1"
-                      n="SD 1.2.21.1"
-                      type="entrance"
-                      who="#Bertram_AWW #Lafew_AWW #Parolles_AWW">Enter Bertram, Lafew, and Parolles. </stage>
+          <stage xml:id="stg-0256.1" n="SD 1.2.21.1" type="entrance" who="#Bertram_AWW #Lafew_AWW #Parolles_AWW">Enter Bertram, Lafew, and Parolles. </stage>
           <sp xml:id="sp-0257" who="#King_AWW">
             <speaker xml:id="spk-0257">KING </speaker>
             <l xml:id="ftln-0257" n="1.2.22" part="F">What’s he comes here? </l>
@@ -908,18 +880,12 @@
             <speaker xml:id="spk-0321">BERTRAM </speaker>
             <l xml:id="ftln-0321" n="1.2.86" part="F">Thank your Majesty. </l>
           </sp>
-          <stage xml:id="stg-0321.1"
-                      n="SD 1.2.86.1"
-                      type="exit"
-                      who="#King_AWW #Bertram_AWW #Lafew_AWW #Parolles_AWW #ATTENDANTS.KING_AWW">They exit. <stage xml:id="snd-0321.1" n="SD 1.2.86.1" type="sound" ana="flourish">Flourish. </stage>
+          <stage xml:id="stg-0321.1" n="SD 1.2.86.1" type="exit" who="#King_AWW #Bertram_AWW #Lafew_AWW #Parolles_AWW #ATTENDANTS.KING_AWW">They exit. <stage xml:id="snd-0321.1" n="SD 1.2.86.1" type="sound" ana="flourish">Flourish. </stage>
           </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-0321.2"
-                      n="SD 1.3.0"
-                      type="entrance"
-                      who="#Countess_AWW #Steward_AWW #Fool_AWW">Enter Countess, Steward, and Fool. </stage>
+          <stage xml:id="stg-0321.2" n="SD 1.3.0" type="entrance" who="#Countess_AWW #Steward_AWW #Fool_AWW">Enter Countess, Steward, and Fool. </stage>
           <sp xml:id="sp-0322" who="#Countess_AWW">
             <speaker xml:id="spk-0322">COUNTESS </speaker>
             <p xml:id="p-0322">
@@ -1029,10 +995,7 @@
             <speaker xml:id="spk-0380">FOOL </speaker>
             <p xml:id="p-0380">
               <lb xml:id="ftln-0380" n="1.3.59"/>A prophet I, madam, and I speak the truth the <lb xml:id="ftln-0381" n="1.3.60"/>next way: </p>
-            <stage xml:id="stg-0382"
-                         n="SD 1.3.61"
-                         type="delivery"
-                         rendition="indentProse">Sings. </stage>
+            <stage xml:id="stg-0382" n="SD 1.3.61" type="delivery" rendition="indentProse">Sings. </stage>
             <lg xml:id="stz-0382" type="quatrain">
               <l xml:id="ftln-0382" n="1.3.61">For I the ballad will repeat </l>
               <l xml:id="ftln-0383" n="1.3.62">Which men full true shall find: </l>
@@ -1121,14 +1084,8 @@
             <p xml:id="p-0444">
               <lb xml:id="ftln-0444" n="1.3.123"/>You have discharged this honestly. Keep it <lb xml:id="ftln-0445" n="1.3.124"/>to yourself. Many likelihoods informed me of this <lb xml:id="ftln-0446" n="1.3.125"/>before, which hung so tott’ring in the balance that <lb xml:id="ftln-0447" n="1.3.126"/>I could neither believe nor misdoubt. Pray you <lb xml:id="ftln-0448" n="1.3.127"/>leave me. Stall this in your bosom, and I thank you <lb xml:id="ftln-0449" n="1.3.128"/>for your honest care. I will speak with you further <lb xml:id="ftln-0450" n="1.3.129"/>anon. </p>
             <stage xml:id="stg-0450" n="SD 1.3.129" type="exit" who="#Steward_AWW">Steward exits. </stage>
-            <stage xml:id="stg-0450.1"
-                         n="SD 1.3.129.1"
-                         type="entrance"
-                         who="#Helen_AWW">Enter Helen. </stage>
-            <stage xml:id="stg-0450.2"
-                         n="SD 1.3.129.2"
-                         type="delivery"
-                         rendition="indentVerse">Aside. </stage>
+            <stage xml:id="stg-0450.1" n="SD 1.3.129.1" type="entrance" who="#Helen_AWW">Enter Helen. </stage>
+            <stage xml:id="stg-0450.2" n="SD 1.3.129.2" type="delivery" rendition="indentVerse">Aside. </stage>
             <lg xml:id="stz-0451" type="quatrain">
               <l xml:id="ftln-0451" n="1.3.130">Even so it was with me when I was young. </l>
               <l xml:id="ftln-0452" n="1.3.131">If ever we are nature’s, these are ours. This thorn </l>
@@ -1257,10 +1214,7 @@
           </sp>
           <sp xml:id="sp-0522" who="#Helen_AWW">
             <speaker xml:id="spk-0522">HELEN </speaker>
-            <stage xml:id="stg-0522"
-                         n="SD 1.3.201"
-                         type="business"
-                         who="#Helen_AWW">, kneeling </stage>
+            <stage xml:id="stg-0522" n="SD 1.3.201" type="business" who="#Helen_AWW">, kneeling </stage>
             <l xml:id="ftln-0522" n="1.3.201" part="F">Then I confess </l>
             <l xml:id="ftln-0523" n="1.3.202">Here on my knee before high heaven and you </l>
             <l xml:id="ftln-0524" n="1.3.203">That before you and next unto high heaven </l>
@@ -1305,10 +1259,7 @@
           </sp>
           <sp xml:id="sp-0554" who="#Helen_AWW">
             <speaker xml:id="spk-0554">HELEN </speaker>
-            <stage xml:id="stg-0554.0"
-                         n="SD 1.3.233.0"
-                         type="business"
-                         who="#Helen_AWW">, standing </stage>
+            <stage xml:id="stg-0554.0" n="SD 1.3.233.0" type="business" who="#Helen_AWW">, standing </stage>
             <l xml:id="ftln-0554" n="1.3.233">I will tell truth, by grace itself I swear. </l>
             <l xml:id="ftln-0555" n="1.3.234">You know my father left me some prescriptions </l>
             <l xml:id="ftln-0556" n="1.3.235">Of rare and proved effects, such as his reading </l>
@@ -1371,24 +1322,15 @@
             <l xml:id="ftln-0593" n="1.3.272">Be gone tomorrow, and be sure of this: </l>
             <l xml:id="ftln-0594" n="1.3.273">What I can help thee to thou shalt not miss. </l>
           </sp>
-          <stage xml:id="stg-0594.1"
-                      n="SD 1.3.273.1"
-                      type="exit"
-                      who="#Countess_AWW #Helen_AWW">They exit. </stage>
+          <stage xml:id="stg-0594.1" n="SD 1.3.273.1" type="exit" who="#Countess_AWW #Helen_AWW">They exit. </stage>
         </div>
       </div>
       <div type="act" n="2">
         <head>ACT 2 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-0594.2"
-                      n="SD 2.1.0"
-                      type="entrance"
-                      who="#King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Bertram_AWW #Parolles_AWW #ATTENDANTS.KING_AWW">
-            <stage xml:id="snd-0594.2"
-                         n="SD 2.1.0"
-                         type="sound"
-                         ana="flourish cornet">Flourish cornets. </stage> Enter the King, attended, with divers young Lords, taking leave for the Florentine war; Bertram Count Rossillion, and Parolles. </stage>
+          <stage xml:id="stg-0594.2" n="SD 2.1.0" type="entrance" who="#King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Bertram_AWW #Parolles_AWW #ATTENDANTS.KING_AWW">
+            <stage xml:id="snd-0594.2" n="SD 2.1.0" type="sound" ana="flourish cornet">Flourish cornets. </stage> Enter the King, attended, with divers young Lords, taking leave for the Florentine war; Bertram Count Rossillion, and Parolles. </stage>
           <sp xml:id="sp-0595" who="#King_AWW">
             <speaker xml:id="spk-0595">KING </speaker>
             <l xml:id="ftln-0595" n="2.1.1">Farewell, young lords. These warlike principles </l>
@@ -1435,10 +1377,7 @@
             <speaker xml:id="spk-0620">KING </speaker>
             <l xml:id="ftln-0620" n="2.1.26" ana="#short">Farewell.— Come hither to me. </l>
           </sp>
-          <stage xml:id="stg-0620.1"
-                      n="SD 2.1.26.1"
-                      type="business"
-                      who="#King_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Parolles_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW">The King speaks to Attendants, while Bertram, Parolles, and other Lords come forward. </stage>
+          <stage xml:id="stg-0620.1" n="SD 2.1.26.1" type="business" who="#King_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Parolles_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW">The King speaks to Attendants, while Bertram, Parolles, and other Lords come forward. </stage>
           <sp xml:id="sp-0621" who="#LORDS.DUMAINE.1_AWW">
             <speaker xml:id="spk-0621">FIRST LORD </speaker>
             <stage xml:id="stg-0621.0" n="SD 2.1.27.0" type="delivery">, to Bertram </stage>
@@ -1513,10 +1452,7 @@
             <speaker xml:id="spk-0648">PAROLLES </speaker>
             <p xml:id="p-0648">
               <lb xml:id="ftln-0648" n="2.1.54"/>Mars dote on you for his novices. </p>
-            <stage xml:id="stg-0648.1"
-                         n="SD 2.1.54.1"
-                         type="exit"
-                         who="#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW">Lords exit. </stage>
+            <stage xml:id="stg-0648.1" n="SD 2.1.54.1" type="exit" who="#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW">Lords exit. </stage>
             <p xml:id="p-0649">
               <lb xml:id="ftln-0649" n="2.1.55"/>
               <stage xml:id="stg-0649" n="SD 2.1.55" type="delivery">To Bertram. </stage> What will you do? </p>
@@ -1541,20 +1477,11 @@
             <p xml:id="p-0661">
               <lb xml:id="ftln-0661" n="2.1.67"/>Worthy fellows, and like to prove most <lb xml:id="ftln-0662" n="2.1.68"/>sinewy swordmen. </p>
           </sp>
-          <stage xml:id="stg-0662"
-                      n="SD 2.1.68"
-                      type="exit"
-                      who="#Bertram_AWW #Parolles_AWW">Bertram and Parolles exit. </stage>
-          <stage xml:id="stg-0662.1"
-                      n="SD 2.1.68.1"
-                      type="entrance"
-                      who="#Lafew_AWW">Enter Lafew, to the King. </stage>
+          <stage xml:id="stg-0662" n="SD 2.1.68" type="exit" who="#Bertram_AWW #Parolles_AWW">Bertram and Parolles exit. </stage>
+          <stage xml:id="stg-0662.1" n="SD 2.1.68.1" type="entrance" who="#Lafew_AWW">Enter Lafew, to the King. </stage>
           <sp xml:id="sp-0663" who="#Lafew_AWW">
             <speaker xml:id="spk-0663">LAFEW </speaker>
-            <stage xml:id="stg-0663.0"
-                         n="SD 2.1.69.0"
-                         type="business"
-                         who="#Lafew_AWW">, kneeling </stage>
+            <stage xml:id="stg-0663.0" n="SD 2.1.69.0" type="business" who="#Lafew_AWW">, kneeling </stage>
             <l xml:id="ftln-0663" n="2.1.69">Pardon, my lord, for me and for my tidings. </l>
           </sp>
           <sp xml:id="sp-0664" who="#King_AWW">
@@ -1563,10 +1490,7 @@
           </sp>
           <sp xml:id="sp-0665" who="#Lafew_AWW">
             <speaker xml:id="spk-0665">LAFEW </speaker>
-            <stage xml:id="stg-0665.0"
-                         n="SD 2.1.71.0"
-                         type="business"
-                         who="#Lafew_AWW">, standing </stage>
+            <stage xml:id="stg-0665.0" n="SD 2.1.71.0" type="business" who="#Lafew_AWW">, standing </stage>
             <l xml:id="ftln-0665" n="2.1.71">Then here’s a man stands that has brought his pardon. </l>
             <l xml:id="ftln-0667" n="2.1.73">I would you had kneeled, my lord, to ask me mercy, </l>
             <l xml:id="ftln-0668" n="2.1.74">And that at my bidding you could so stand up. </l>
@@ -1627,18 +1551,12 @@
             <l xml:id="ftln-0699" n="2.1.105" part="F">Nay, I’ll fit you, </l>
             <l xml:id="ftln-0700" n="2.1.106" ana="#short">And not be all day neither. </l>
           </sp>
-          <stage xml:id="stg-0700.1"
-                      n="SD 2.1.106.1"
-                      type="business"
-                      who="#Lafew_AWW">He goes to bring in Helen. </stage>
+          <stage xml:id="stg-0700.1" n="SD 2.1.106.1" type="business" who="#Lafew_AWW">He goes to bring in Helen. </stage>
           <sp xml:id="sp-0701" who="#King_AWW">
             <speaker xml:id="spk-0701">KING </speaker>
             <l xml:id="ftln-0701" n="2.1.107">Thus he his special nothing ever prologues. </l>
           </sp>
-          <stage xml:id="stg-0701.1"
-                      n="SD 2.1.107.1"
-                      type="entrance"
-                      who="#Helen_AWW">Enter Helen. </stage>
+          <stage xml:id="stg-0701.1" n="SD 2.1.107.1" type="entrance" who="#Helen_AWW">Enter Helen. </stage>
           <sp xml:id="sp-0702" who="#Lafew_AWW">
             <speaker xml:id="spk-0702">LAFEW </speaker>
             <stage xml:id="stg-0702" n="SD 2.1.108" type="delivery">, to Helen </stage>
@@ -1656,10 +1574,7 @@
             <l xml:id="ftln-0707" n="2.1.113">His Majesty seldom fears. I am Cressid’s uncle </l>
             <l xml:id="ftln-0708" n="2.1.114">That dare leave two together. Fare you well. </l>
           </sp>
-          <stage xml:id="stg-0708.1"
-                      n="SD 2.1.114.1"
-                      type="exit"
-                      who="#Lafew_AWW">He exits. </stage>
+          <stage xml:id="stg-0708.1" n="SD 2.1.114.1" type="exit" who="#Lafew_AWW">He exits. </stage>
           <sp xml:id="sp-0709" who="#King_AWW">
             <speaker xml:id="spk-0709">KING </speaker>
             <l xml:id="ftln-0709" n="2.1.115">Now, fair one, does your business follow us? </l>
@@ -1840,21 +1755,12 @@
             <l xml:id="ftln-0824" n="2.1.230">Give me some help here, ho!— If thou proceed </l>
             <l xml:id="ftln-0825" n="2.1.231">As high as word, my deed shall match thy deed. </l>
           </sp>
-          <stage xml:id="stg-0825.1b"
-                      n="SD 2.1.231.1"
-                      type="exit"
-                      who="#King_AWW #Helen_AWW #ATTENDANTS.KING_AWW">
-            <stage xml:id="snd-0825.1"
-                         n="SD 2.1.231.1"
-                         type="sound"
-                         ana="flourish">Flourish. </stage> They exit, the King assisted. </stage>
+          <stage xml:id="stg-0825.1b" n="SD 2.1.231.1" type="exit" who="#King_AWW #Helen_AWW #ATTENDANTS.KING_AWW">
+            <stage xml:id="snd-0825.1" n="SD 2.1.231.1" type="sound" ana="flourish">Flourish. </stage> They exit, the King assisted. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-0825.2"
-                      n="SD 2.2.0"
-                      type="entrance"
-                      who="#Countess_AWW #Fool_AWW">Enter Countess and Fool. </stage>
+          <stage xml:id="stg-0825.2" n="SD 2.2.0" type="entrance" who="#Countess_AWW #Fool_AWW">Enter Countess and Fool. </stage>
           <sp xml:id="sp-0826" who="#Countess_AWW">
             <speaker xml:id="spk-0826">COUNTESS </speaker>
             <p xml:id="p-0826">
@@ -1977,10 +1883,7 @@
           </sp>
           <sp xml:id="sp-0885" who="#Countess_AWW">
             <speaker xml:id="spk-0885">COUNTESS </speaker>
-            <stage xml:id="stg-0885.0"
-                         n="SD 2.2.60.0"
-                         type="business"
-                         who="#Countess_AWW #Fool_AWW">, giving him a paper </stage>
+            <stage xml:id="stg-0885.0" n="SD 2.2.60.0" type="business" who="#Countess_AWW #Fool_AWW">, giving him a paper </stage>
             <l xml:id="ftln-0885" n="2.2.60">An end, sir. To your business. Give Helen this, </l>
             <l xml:id="ftln-0886" n="2.2.61">And urge her to a present answer back. </l>
             <l xml:id="ftln-0887" n="2.2.62">Commend me to my kinsmen and my son. </l>
@@ -2005,17 +1908,11 @@
             <p xml:id="p-0892">
               <lb xml:id="ftln-0892" n="2.2.67"/>Haste you again. </p>
           </sp>
-          <stage xml:id="stg-0892.1"
-                      n="SD 2.2.67.1"
-                      type="exit"
-                      who="#Countess_AWW #Fool_AWW">They exit. </stage>
+          <stage xml:id="stg-0892.1" n="SD 2.2.67.1" type="exit" who="#Countess_AWW #Fool_AWW">They exit. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-0892.2"
-                      n="SD 2.3.0"
-                      type="entrance"
-                      who="#Bertram_AWW #Lafew_AWW #Parolles_AWW">Enter Count Bertram, Lafew, and Parolles. </stage>
+          <stage xml:id="stg-0892.2" n="SD 2.3.0" type="entrance" who="#Bertram_AWW #Lafew_AWW #Parolles_AWW">Enter Count Bertram, Lafew, and Parolles. </stage>
           <sp xml:id="sp-0893" who="#Lafew_AWW">
             <speaker xml:id="spk-0893">LAFEW </speaker>
             <p xml:id="p-0893">
@@ -2091,10 +1988,7 @@
             <p xml:id="p-0913">
               <lb xml:id="ftln-0913" n="2.3.21"/>It is indeed. If you will have it in showing, <lb xml:id="ftln-0914" n="2.3.22"/>you shall read it in what-do-you-call there. </p>
           </sp>
-          <stage xml:id="stg-0914.1"
-                      n="SD 2.3.22.1"
-                      type="business"
-                      who="#Parolles_AWW">He points to a paper in Lafew’s hand. </stage>
+          <stage xml:id="stg-0914.1" n="SD 2.3.22.1" type="business" who="#Parolles_AWW">He points to a paper in Lafew’s hand. </stage>
           <sp xml:id="sp-0915" who="#Lafew_AWW">
             <speaker xml:id="spk-0915">LAFEW </speaker>
             <stage xml:id="stg-0915" n="SD 2.3.23" type="delivery"> reads </stage>
@@ -2141,10 +2035,7 @@
             <p xml:id="p-0931">
               <lb xml:id="ftln-0931" n="2.3.39"/>Generally thankful. </p>
           </sp>
-          <stage xml:id="stg-0931.1"
-                      n="SD 2.3.39.1"
-                      type="entrance"
-                      who="#King_AWW #Helen_AWW #ATTENDANTS.KING_AWW">Enter King, Helen, and Attendants. </stage>
+          <stage xml:id="stg-0931.1" n="SD 2.3.39.1" type="entrance" who="#King_AWW #Helen_AWW #ATTENDANTS.KING_AWW">Enter King, Helen, and Attendants. </stage>
           <sp xml:id="sp-0932" who="#Parolles_AWW">
             <speaker xml:id="spk-0932">PAROLLES </speaker>
             <p xml:id="p-0932">
@@ -2168,19 +2059,13 @@
           <sp xml:id="sp-0939" who="#King_AWW">
             <speaker xml:id="spk-0939">KING </speaker>
             <l xml:id="ftln-0939" n="2.3.47">Go, call before me all the lords in court. </l>
-            <stage xml:id="stg-0939.1"
-                         n="SD 2.3.47.1"
-                         type="exit"
-                         who="#ATTENDANTS.KING.0.1_AWW">An Attendant exits. </stage>
+            <stage xml:id="stg-0939.1" n="SD 2.3.47.1" type="exit" who="#ATTENDANTS.KING.0.1_AWW">An Attendant exits. </stage>
             <l xml:id="ftln-0940" n="2.3.48">Sit, my preserver, by thy patient’s side, </l>
             <l xml:id="ftln-0941" n="2.3.49">And with this healthful hand, whose banished sense </l>
             <l xml:id="ftln-0942" n="2.3.50">Thou hast repealed, a second time receive </l>
             <l xml:id="ftln-0943" n="2.3.51">The confirmation of my promised gift, </l>
             <l xml:id="ftln-0944" n="2.3.52" ana="#short">Which but attends thy naming. </l>
-            <stage xml:id="stg-0944.1"
-                         n="SD 2.3.52.1"
-                         type="entrance"
-                         who="#LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW">Enter three or four Court Lords. </stage>
+            <stage xml:id="stg-0944.1" n="SD 2.3.52.1" type="entrance" who="#LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW">Enter three or four Court Lords. </stage>
             <l xml:id="ftln-0945" n="2.3.53">Fair maid, send forth thine eye. This youthful parcel </l>
             <l xml:id="ftln-0946" n="2.3.54">Of noble bachelors stand at my bestowing, </l>
             <l xml:id="ftln-0947" n="2.3.55">O’er whom both sovereign power and father’s voice </l>
@@ -2209,8 +2094,7 @@
             <l xml:id="ftln-0957" n="2.3.65" ana="#short">Gentlemen, </l>
             <l xml:id="ftln-0958" n="2.3.66">Heaven hath through me restored the King to health. </l>
           </sp>
-          <sp xml:id="sp-0959"
-                   who="#LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW">
+          <sp xml:id="sp-0959" who="#LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW">
             <speaker xml:id="spk-0959">ALL </speaker>
             <l xml:id="ftln-0959" n="2.3.67">We understand it and thank heaven for you. </l>
           </sp>
@@ -2234,10 +2118,7 @@
             <l xml:id="ftln-0970" n="2.3.78">Now, Dian, from thy altar do I fly, </l>
             <l xml:id="ftln-0971" n="2.3.79">And to imperial Love, that god most high, </l>
             <l xml:id="ftln-0972" n="2.3.80" part="I">Do my sighs stream. </l>
-            <stage xml:id="stg-0972"
-                         n="SD 2.3.80"
-                         type="business"
-                         who="#Helen_AWW">She addresses her to a Lord. </stage>
+            <stage xml:id="stg-0972" n="SD 2.3.80" type="business" who="#Helen_AWW">She addresses her to a Lord. </stage>
             <l xml:id="ftln-0973" n="2.3.81" part="F">Sir, will you hear my suit? </l>
           </sp>
           <sp xml:id="sp-0974" who="#LORDS.COURT.1_AWW">
@@ -2442,10 +2323,7 @@
             <l xml:id="ftln-1088" n="2.3.196">Expecting absent friends. As thou lov’st her </l>
             <l xml:id="ftln-1089" n="2.3.197">Thy love’s to me religious; else, does err. </l>
           </sp>
-          <stage xml:id="stg-1089.1"
-                      n="SD 2.3.197.1"
-                      type="exit"
-                      who="#King_AWW #Bertram_AWW #Helen_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #ATTENDANTS.KING_AWW">They exit. Parolles and Lafew stay behind, commenting of this wedding. </stage>
+          <stage xml:id="stg-1089.1" n="SD 2.3.197.1" type="exit" who="#King_AWW #Bertram_AWW #Helen_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #ATTENDANTS.KING_AWW">They exit. Parolles and Lafew stay behind, commenting of this wedding. </stage>
           <sp xml:id="sp-1090" who="#Lafew_AWW">
             <speaker xml:id="spk-1090">LAFEW </speaker>
             <p xml:id="p-1090">
@@ -2561,19 +2439,13 @@
             <p xml:id="p-1138">
               <lb xml:id="ftln-1138" n="2.3.246"/>I would it were hell pains for thy sake, and my <lb xml:id="ftln-1139" n="2.3.247"/>poor doing eternal; for doing I am past, as I will by <lb xml:id="ftln-1140" n="2.3.248"/>thee in what motion age will give me leave. </p>
           </sp>
-          <stage xml:id="stg-1140.1"
-                      n="SD 2.3.248.1"
-                      type="exit"
-                      who="#Lafew_AWW">He exits. </stage>
+          <stage xml:id="stg-1140.1" n="SD 2.3.248.1" type="exit" who="#Lafew_AWW">He exits. </stage>
           <sp xml:id="sp-1141" who="#Parolles_AWW">
             <speaker xml:id="spk-1141">PAROLLES </speaker>
             <p xml:id="p-1141">
               <lb xml:id="ftln-1141" n="2.3.249"/>Well, thou hast a son shall take this disgrace <lb xml:id="ftln-1142" n="2.3.250"/>off me. Scurvy, old, filthy, scurvy lord! Well, I must <lb xml:id="ftln-1143" n="2.3.251"/>be patient; there is no fettering of authority. I’ll <lb xml:id="ftln-1144" n="2.3.252"/>beat him, by my life, if I can meet him with any <lb xml:id="ftln-1145" n="2.3.253"/>convenience, an he were double and double a lord. <lb xml:id="ftln-1146" n="2.3.254"/>I’ll have no more pity of his age than I would have <lb xml:id="ftln-1147" n="2.3.255"/>of— I’ll beat him, an if I could but meet him again. </p>
           </sp>
-          <stage xml:id="stg-1147.1"
-                      n="SD 2.3.255.1"
-                      type="entrance"
-                      who="#Lafew_AWW">Enter Lafew. </stage>
+          <stage xml:id="stg-1147.1" n="SD 2.3.255.1" type="entrance" who="#Lafew_AWW">Enter Lafew. </stage>
           <sp xml:id="sp-1148" who="#Lafew_AWW">
             <speaker xml:id="spk-1148">LAFEW </speaker>
             <p xml:id="p-1148">
@@ -2615,10 +2487,7 @@
             <p xml:id="p-1172">
               <lb xml:id="ftln-1172" n="2.3.280"/>Good, very good! It is so, then. Good, very <lb xml:id="ftln-1173" n="2.3.281"/>good. Let it be concealed awhile. </p>
           </sp>
-          <stage xml:id="stg-1173.1"
-                      n="SD 2.3.281.1"
-                      type="entrance"
-                      who="#Bertram_AWW">Enter Bertram Count Rossillion. </stage>
+          <stage xml:id="stg-1173.1" n="SD 2.3.281.1" type="entrance" who="#Bertram_AWW">Enter Bertram Count Rossillion. </stage>
           <sp xml:id="sp-1174" who="#Bertram_AWW">
             <speaker xml:id="spk-1174">BERTRAM </speaker>
             <l xml:id="ftln-1174" n="2.3.282">Undone, and forfeited to cares forever! </l>
@@ -2690,17 +2559,11 @@
             <l xml:id="ftln-1207" n="2.3.315">Therefore away, and leave her bravely. Go. </l>
             <l xml:id="ftln-1208" n="2.3.316">The King has done you wrong, but hush, ’tis so. </l>
           </sp>
-          <stage xml:id="stg-1208.1"
-                      n="SD 2.3.316.1"
-                      type="exit"
-                      who="#Bertram_AWW #Parolles_AWW">They exit. </stage>
+          <stage xml:id="stg-1208.1" n="SD 2.3.316.1" type="exit" who="#Bertram_AWW #Parolles_AWW">They exit. </stage>
         </div>
         <div type="scene" n="4">
           <head>Scene 4 </head>
-          <stage xml:id="stg-1208.2"
-                      n="SD 2.4.0"
-                      type="entrance"
-                      who="#Helen_AWW #Fool_AWW">Enter Helen with a paper, and Fool. </stage>
+          <stage xml:id="stg-1208.2" n="SD 2.4.0" type="entrance" who="#Helen_AWW #Fool_AWW">Enter Helen with a paper, and Fool. </stage>
           <sp xml:id="sp-1209" who="#Helen_AWW">
             <speaker xml:id="spk-1209">HELEN </speaker>
             <p xml:id="p-1209">
@@ -2731,10 +2594,7 @@
             <p xml:id="p-1218">
               <lb xml:id="ftln-1218" n="2.4.10"/>One, that she’s not in heaven, whither God send <lb xml:id="ftln-1219" n="2.4.11"/>her quickly; the other, that she’s in Earth, from <lb xml:id="ftln-1220" n="2.4.12"/>whence God send her quickly. </p>
           </sp>
-          <stage xml:id="stg-1220.1"
-                      n="SD 2.4.12.1"
-                      type="entrance"
-                      who="#Parolles_AWW">Enter Parolles. </stage>
+          <stage xml:id="stg-1220.1" n="SD 2.4.12.1" type="entrance" who="#Parolles_AWW">Enter Parolles. </stage>
           <sp xml:id="sp-1221" who="#Parolles_AWW">
             <speaker xml:id="spk-1221">PAROLLES </speaker>
             <p xml:id="p-1221">
@@ -2844,17 +2704,11 @@
             <stage xml:id="stg-1267" n="SD 2.4.58" type="delivery">, to Fool </stage>
             <l xml:id="ftln-1267" n="2.4.58" ana="#short">I pray you, come, sirrah. </l>
           </sp>
-          <stage xml:id="stg-1267.1"
-                      n="SD 2.4.58.1"
-                      type="exit"
-                      who="#Helen_AWW #Fool_AWW">They exit. </stage>
+          <stage xml:id="stg-1267.1" n="SD 2.4.58.1" type="exit" who="#Helen_AWW #Fool_AWW">They exit. </stage>
         </div>
         <div type="scene" n="5">
           <head>Scene 5 </head>
-          <stage xml:id="stg-1267.2"
-                      n="SD 2.5.0"
-                      type="entrance"
-                      who="#Lafew_AWW #Bertram_AWW">Enter Lafew and Bertram. </stage>
+          <stage xml:id="stg-1267.2" n="SD 2.5.0" type="entrance" who="#Lafew_AWW #Bertram_AWW">Enter Lafew and Bertram. </stage>
           <sp xml:id="sp-1268" who="#Lafew_AWW">
             <speaker xml:id="spk-1268">LAFEW </speaker>
             <p xml:id="p-1268">
@@ -2890,10 +2744,7 @@
             <p xml:id="p-1277">
               <lb xml:id="ftln-1277" n="2.5.10"/>I have then sinned against his experience and <lb xml:id="ftln-1278" n="2.5.11"/>transgressed against his valor, and my state that <lb xml:id="ftln-1279" n="2.5.12"/>way is dangerous since I cannot yet find in my <lb xml:id="ftln-1280" n="2.5.13"/>heart to repent. Here he comes. I pray you make us <lb xml:id="ftln-1281" n="2.5.14"/>friends. I will pursue the amity. </p>
           </sp>
-          <stage xml:id="stg-1281.1"
-                      n="SD 2.5.14.1"
-                      type="entrance"
-                      who="#Parolles_AWW">Enter Parolles. </stage>
+          <stage xml:id="stg-1281.1" n="SD 2.5.14.1" type="entrance" who="#Parolles_AWW">Enter Parolles. </stage>
           <sp xml:id="sp-1282" who="#Parolles_AWW">
             <speaker xml:id="spk-1282">PAROLLES </speaker>
             <stage xml:id="stg-1282" n="SD 2.5.15" type="delivery">, to Bertram </stage>
@@ -2996,10 +2847,7 @@
             <speaker xml:id="spk-1321">BERTRAM </speaker>
             <l xml:id="ftln-1321" n="2.5.54">Yes, I do know him well, and common speech </l>
             <l xml:id="ftln-1322" n="2.5.55" part="I">Gives him a worthy pass. </l>
-            <stage xml:id="stg-1322.1"
-                         n="SD 2.5.55.1"
-                         type="entrance"
-                         who="#Helen_AWW">Enter Helen. </stage>
+            <stage xml:id="stg-1322.1" n="SD 2.5.55.1" type="entrance" who="#Helen_AWW">Enter Helen. </stage>
             <l xml:id="ftln-1323" n="2.5.56" part="F">Here comes my clog. </l>
           </sp>
           <sp xml:id="sp-1324" who="#Helen_AWW">
@@ -3024,10 +2872,7 @@
             <l xml:id="ftln-1338" n="2.5.71">And my appointments have in them a need </l>
             <l xml:id="ftln-1339" n="2.5.72">Greater than shows itself at the first view </l>
             <l xml:id="ftln-1340" n="2.5.73" part="I">To you that know them not. </l>
-            <stage xml:id="stg-1340"
-                         n="SD 2.5.73"
-                         type="business"
-                         who="#Bertram_AWW #Helen_AWW">Giving her a paper. </stage>
+            <stage xml:id="stg-1340" n="SD 2.5.73" type="business" who="#Bertram_AWW #Helen_AWW">Giving her a paper. </stage>
             <l xml:id="ftln-1341" n="2.5.74" part="F">This to my mother. </l>
             <l xml:id="ftln-1342" n="2.5.75">’Twill be two days ere I shall see you, so </l>
             <l xml:id="ftln-1343" n="2.5.76" ana="#short">I leave you to your wisdom. </l>
@@ -3087,10 +2932,7 @@
             <l xml:id="ftln-1365" n="2.5.98">I shall not break your bidding, good my lord.— </l>
             <l xml:id="ftln-1366" n="2.5.99">Where are my other men?— Monsieur, farewell. </l>
           </sp>
-          <stage xml:id="stg-1366.1"
-                      n="SD 2.5.99.1"
-                      type="exit"
-                      who="#Helen_AWW">She exits. </stage>
+          <stage xml:id="stg-1366.1" n="SD 2.5.99.1" type="exit" who="#Helen_AWW">She exits. </stage>
           <sp xml:id="sp-1367" who="#Bertram_AWW">
             <speaker xml:id="spk-1367">BERTRAM </speaker>
             <l xml:id="ftln-1367" n="2.5.100">Go thou toward home, where I will never come </l>
@@ -3101,20 +2943,14 @@
             <speaker xml:id="spk-1370">PAROLLES </speaker>
             <l xml:id="ftln-1370" n="2.5.103" part="F">Bravely, coraggio! </l>
           </sp>
-          <stage xml:id="stg-1370.1"
-                      n="SD 2.5.103.1"
-                      type="exit"
-                      who="#Bertram_AWW #Parolles_AWW">They exit. </stage>
+          <stage xml:id="stg-1370.1" n="SD 2.5.103.1" type="exit" who="#Bertram_AWW #Parolles_AWW">They exit. </stage>
         </div>
       </div>
       <div type="act" n="3">
         <head>ACT 3 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-1370.2b"
-                      n="SD 3.1.0"
-                      type="entrance"
-                      who="#Duke_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS_AWW">
+          <stage xml:id="stg-1370.2b" n="SD 3.1.0" type="entrance" who="#Duke_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS_AWW">
             <stage xml:id="snd-1370.2" n="SD 3.1.0" type="sound" ana="flourish">Flourish. </stage> Enter the Duke of Florence, the two French Lords, with a troop of Soldiers. </stage>
           <sp xml:id="sp-1371" who="#Duke_AWW">
             <speaker xml:id="spk-1371">DUKE </speaker>
@@ -3164,18 +3000,12 @@
             <l xml:id="ftln-1396" n="3.1.26">When better fall, for your avails they fell. </l>
             <l xml:id="ftln-1397" n="3.1.27" ana="#short">Tomorrow to th’ field. </l>
           </sp>
-          <stage xml:id="stg-1397.1"
-                      n="SD 3.1.27.1"
-                      type="exit"
-                      who="#Duke_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS_AWW">
+          <stage xml:id="stg-1397.1" n="SD 3.1.27.1" type="exit" who="#Duke_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS_AWW">
             <stage xml:id="snd-1397.1" n="SD 3.1.27.1" type="sound" ana="flourish">Flourish. </stage> They exit. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-1397.2"
-                      n="SD 3.2.0"
-                      type="entrance"
-                      who="#Countess_AWW #Fool_AWW">Enter Countess, with a paper, and Fool. </stage>
+          <stage xml:id="stg-1397.2" n="SD 3.2.0" type="entrance" who="#Countess_AWW #Fool_AWW">Enter Countess, with a paper, and Fool. </stage>
           <sp xml:id="sp-1398" who="#Countess_AWW">
             <speaker xml:id="spk-1398">COUNTESS </speaker>
             <p xml:id="p-1398">
@@ -3201,10 +3031,7 @@
             <p xml:id="p-1407">
               <lb xml:id="ftln-1407" n="3.2.10"/>Let me see what he writes and when he <lb xml:id="ftln-1408" n="3.2.11"/>means to come. </p>
           </sp>
-          <stage xml:id="stg-1408"
-                      n="SD 3.2.11"
-                      type="business"
-                      who="#Countess_AWW">She opens the letter. </stage>
+          <stage xml:id="stg-1408" n="SD 3.2.11" type="business" who="#Countess_AWW">She opens the letter. </stage>
           <sp xml:id="sp-1409" who="#Fool_AWW">
             <speaker xml:id="spk-1409">FOOL </speaker>
             <p xml:id="p-1409">
@@ -3232,10 +3059,7 @@
             <l xml:id="ftln-1428" n="3.2.31">By the misprizing of a maid too virtuous </l>
             <l xml:id="ftln-1429" n="3.2.32" ana="#short">For the contempt of empire. </l>
           </sp>
-          <stage xml:id="stg-1429.1"
-                      n="SD 3.2.32.1"
-                      type="entrance"
-                      who="#Fool_AWW">Enter Fool. </stage>
+          <stage xml:id="stg-1429.1" n="SD 3.2.32.1" type="entrance" who="#Fool_AWW">Enter Fool. </stage>
           <sp xml:id="sp-1430" who="#Fool_AWW">
             <speaker xml:id="spk-1430">FOOL </speaker>
             <p xml:id="p-1430">
@@ -3262,10 +3086,7 @@
               <lb xml:id="ftln-1437" n="3.2.40"/>So say I, madam, if he run away, as I hear he <lb xml:id="ftln-1438" n="3.2.41"/>does. The danger is in standing to ’t; that’s the loss <lb xml:id="ftln-1439" n="3.2.42"/>of men, though it be the getting of children. Here <lb xml:id="ftln-1440" n="3.2.43"/>they come will tell you more. For my part, I only <lb xml:id="ftln-1441" n="3.2.44"/>hear your son was run away. </p>
           </sp>
           <stage xml:id="stg-1441" n="SD 3.2.44" type="exit" who="#Fool_AWW">He exits. </stage>
-          <stage xml:id="stg-1441.1"
-                      n="SD 3.2.44.1"
-                      type="entrance"
-                      who="#Helen_AWW #GENTLEMEN.1_AWW #GENTLEMEN.2_AWW">Enter Helen, with a paper, and two Gentlemen. </stage>
+          <stage xml:id="stg-1441.1" n="SD 3.2.44.1" type="entrance" who="#Helen_AWW #GENTLEMEN.1_AWW #GENTLEMEN.2_AWW">Enter Helen, with a paper, and two Gentlemen. </stage>
           <sp xml:id="sp-1442" who="#GENTLEMEN.1_AWW">
             <speaker xml:id="spk-1442">FIRST GENTLEMAN </speaker>
             <stage xml:id="stg-1442" n="SD 3.2.45" type="delivery">, to Countess </stage>
@@ -3412,10 +3233,7 @@
             <l xml:id="ftln-1505" n="3.2.108">Not so, but as we change our courtesies. </l>
             <l xml:id="ftln-1506" n="3.2.109" ana="#short">Will you draw near? </l>
           </sp>
-          <stage xml:id="stg-1506.1"
-                      n="SD 3.2.109.1"
-                      type="exit"
-                      who="#Countess_AWW #GENTLEMEN.1_AWW #GENTLEMEN.2_AWW">She exits with the Gentlemen. </stage>
+          <stage xml:id="stg-1506.1" n="SD 3.2.109.1" type="exit" who="#Countess_AWW #GENTLEMEN.1_AWW #GENTLEMEN.2_AWW">She exits with the Gentlemen. </stage>
           <sp xml:id="sp-1507" who="#Helen_AWW">
             <speaker xml:id="spk-1507">HELEN </speaker>
             <l xml:id="ftln-1507" n="3.2.110">“ Till I have no wife I have nothing in France.” </l>
@@ -3450,21 +3268,12 @@
             <l xml:id="ftln-1536" n="3.2.139">To consolate thine ear. Come, night; end, day; </l>
             <l xml:id="ftln-1537" n="3.2.140">For with the dark, poor thief, I’ll steal away. </l>
           </sp>
-          <stage xml:id="stg-1537.1"
-                      n="SD 3.2.140.1"
-                      type="exit"
-                      who="#Helen_AWW">She exits. </stage>
+          <stage xml:id="stg-1537.1" n="SD 3.2.140.1" type="exit" who="#Helen_AWW">She exits. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-1537.2b"
-                      n="SD 3.3.0"
-                      type="entrance"
-                      who="#Duke_AWW #Bertram_AWW #Parolles_AWW #SOLDIERS_AWW">
-            <stage xml:id="snd-1537.2a" n="SD 3.3.0" type="sound" ana="flourish">Flourish. </stage> Enter the Duke of Florence, Bertram Count Rossillion, <stage xml:id="snd-1537.2b"
-                         n="SD 3.3.0"
-                         type="sound"
-                         ana="drum trumpet">Drum and Trumpets</stage>, Soldiers, Parolles. </stage>
+          <stage xml:id="stg-1537.2b" n="SD 3.3.0" type="entrance" who="#Duke_AWW #Bertram_AWW #Parolles_AWW #SOLDIERS_AWW">
+            <stage xml:id="snd-1537.2a" n="SD 3.3.0" type="sound" ana="flourish">Flourish. </stage> Enter the Duke of Florence, Bertram Count Rossillion, <stage xml:id="snd-1537.2b" n="SD 3.3.0" type="sound" ana="drum trumpet">Drum and Trumpets</stage>, Soldiers, Parolles. </stage>
           <sp xml:id="sp-1538" who="#Duke_AWW">
             <speaker xml:id="spk-1538">DUKE </speaker>
             <stage xml:id="stg-1538.0" n="SD 3.3.1.0" type="delivery">, to Bertram </stage>
@@ -3492,17 +3301,11 @@
             <l xml:id="ftln-1550" n="3.3.13">Make me but like my thoughts, and I shall prove </l>
             <l xml:id="ftln-1551" n="3.3.14">A lover of thy drum, hater of love. </l>
           </sp>
-          <stage xml:id="stg-1551.1"
-                      n="SD 3.3.14.1"
-                      type="exit"
-                      who="#Duke_AWW #Bertram_AWW #Parolles_AWW #SOLDIERS_AWW">All exit. </stage>
+          <stage xml:id="stg-1551.1" n="SD 3.3.14.1" type="exit" who="#Duke_AWW #Bertram_AWW #Parolles_AWW #SOLDIERS_AWW">All exit. </stage>
         </div>
         <div type="scene" n="4">
           <head>Scene 4 </head>
-          <stage xml:id="stg-1551.2"
-                      n="SD 3.4.0"
-                      type="entrance"
-                      who="#Countess_AWW #Steward_AWW">Enter Countess and Steward, with a paper. </stage>
+          <stage xml:id="stg-1551.2" n="SD 3.4.0" type="entrance" who="#Countess_AWW #Steward_AWW">Enter Countess and Steward, with a paper. </stage>
           <sp xml:id="sp-1552" who="#Countess_AWW">
             <speaker xml:id="spk-1552">COUNTESS </speaker>
             <l xml:id="ftln-1552" n="3.4.1">Alas! And would you take the letter of her? </l>
@@ -3573,17 +3376,11 @@
             <l xml:id="ftln-1594" n="3.4.43">My heart is heavy, and mine age is weak. </l>
             <l xml:id="ftln-1595" n="3.4.44">Grief would have tears, and sorrow bids me speak. </l>
           </sp>
-          <stage xml:id="stg-1595.1"
-                      n="SD 3.4.44.1"
-                      type="exit"
-                      who="#Countess_AWW #Steward_AWW">They exit. </stage>
+          <stage xml:id="stg-1595.1" n="SD 3.4.44.1" type="exit" who="#Countess_AWW #Steward_AWW">They exit. </stage>
         </div>
         <div type="scene" n="5">
           <head>Scene 5 </head>
-          <stage xml:id="stg-1595.2b"
-                      n="SD 3.5.0"
-                      type="entrance"
-                      who="#Widow_AWW #Diana_AWW #Mariana_AWW #CITIZENS_AWW">
+          <stage xml:id="stg-1595.2b" n="SD 3.5.0" type="entrance" who="#Widow_AWW #Diana_AWW #Mariana_AWW #CITIZENS_AWW">
             <stage xml:id="snd-1595.2" n="SD 3.5.0" type="sound" ana="tucket">A tucket afar off. </stage> Enter old Widow of Florence, her daughter Diana, and Mariana, with other Citizens. </stage>
           <sp xml:id="sp-1596" who="#Widow_AWW">
             <speaker xml:id="spk-1596">WIDOW </speaker>
@@ -3625,10 +3422,7 @@
             <speaker xml:id="spk-1626">WIDOW </speaker>
             <p xml:id="p-1626">
               <lb xml:id="ftln-1626" n="3.5.31"/>I hope so. </p>
-            <stage xml:id="stg-1626.1"
-                         n="SD 3.5.31.1"
-                         type="entrance"
-                         who="#Helen_AWW">Enter Helen as a pilgrim. </stage>
+            <stage xml:id="stg-1626.1" n="SD 3.5.31.1" type="entrance" who="#Helen_AWW">Enter Helen as a pilgrim. </stage>
             <p xml:id="p-1627">
               <lb xml:id="ftln-1627" n="3.5.32"/>Look, here comes a pilgrim. I know she will lie at <lb xml:id="ftln-1628" n="3.5.33"/>my house; thither they send one another. I’ll question <lb xml:id="ftln-1629" n="3.5.34"/>her.— God save you, pilgrim. Whither are <lb xml:id="ftln-1630" n="3.5.35"/>bound? </p>
           </sp>
@@ -3769,10 +3563,7 @@
             <speaker xml:id="spk-1682">MARIANA </speaker>
             <l xml:id="ftln-1682" n="3.5.87" part="I">The gods forbid else! </l>
           </sp>
-          <stage xml:id="stg-1682.1"
-                      n="SD 3.5.87.1"
-                      type="entrance"
-                      who="#Bertram_AWW #Parolles_AWW #SOLDIERS_AWW">
+          <stage xml:id="stg-1682.1" n="SD 3.5.87.1" type="entrance" who="#Bertram_AWW #Parolles_AWW #SOLDIERS_AWW">
             <stage xml:id="snd-1682.1" n="SD 3.5.87.1" type="sound" ana="drum">Drum and Colors. </stage> Enter Bertram Count Rossillion, Parolles, and the whole Army. </stage>
           <sp xml:id="sp-1683" who="#Widow_AWW">
             <speaker xml:id="spk-1683">WIDOW </speaker>
@@ -3837,10 +3628,7 @@
             <p xml:id="p-1703">
               <lb xml:id="ftln-1703" n="3.5.108"/>And your courtesy, for a <lb xml:id="ftln-1704" n="3.5.109"/>ring-carrier. </p>
           </sp>
-          <stage xml:id="stg-1704.1"
-                      n="SD 3.5.109.1"
-                      type="exit"
-                      who="#Bertram_AWW #Parolles_AWW #SOLDIERS_AWW">Bertram, Parolles, and the army exit. </stage>
+          <stage xml:id="stg-1704.1" n="SD 3.5.109.1" type="exit" who="#Bertram_AWW #Parolles_AWW #SOLDIERS_AWW">Bertram, Parolles, and the army exit. </stage>
           <sp xml:id="sp-1705" who="#Widow_AWW">
             <speaker xml:id="spk-1705">WIDOW </speaker>
             <l xml:id="ftln-1705" n="3.5.110">The troop is passed. Come, pilgrim, I will bring you </l>
@@ -3862,17 +3650,11 @@
             <speaker xml:id="spk-1715">BOTH </speaker>
             <l xml:id="ftln-1715" n="3.5.120" part="F">We’ll take your offer kindly. </l>
           </sp>
-          <stage xml:id="stg-1715.1"
-                      n="SD 3.5.120.1"
-                      type="exit"
-                      who="#Widow_AWW #Diana_AWW #Mariana_AWW #Helen_AWW #CITIZENS_AWW">They exit. </stage>
+          <stage xml:id="stg-1715.1" n="SD 3.5.120.1" type="exit" who="#Widow_AWW #Diana_AWW #Mariana_AWW #Helen_AWW #CITIZENS_AWW">They exit. </stage>
         </div>
         <div type="scene" n="6">
           <head>Scene 6 </head>
-          <stage xml:id="stg-1715.2"
-                      n="SD 3.6.0"
-                      type="entrance"
-                      who="#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW">Enter Bertram Count Rossillion and the French Lords, as at first. </stage>
+          <stage xml:id="stg-1715.2" n="SD 3.6.0" type="entrance" who="#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW">Enter Bertram Count Rossillion and the French Lords, as at first. </stage>
           <sp xml:id="sp-1716" who="#LORDS.DUMAINE.1_AWW">
             <speaker xml:id="spk-1716">FIRST LORD </speaker>
             <p xml:id="p-1716">
@@ -3923,10 +3705,7 @@
             <p xml:id="p-1749">
               <lb xml:id="ftln-1749" n="3.6.34"/>O, for the love of laughter, let him fetch <lb xml:id="ftln-1750" n="3.6.35"/>his drum. He says he has a stratagem for ’t. When <lb xml:id="ftln-1751" n="3.6.36"/>your Lordship sees the bottom of his success in <lb xml:id="ftln-1752" n="3.6.37"/>’t, and to what metal this counterfeit lump of ore <lb xml:id="ftln-1753" n="3.6.38"/>will be melted, if you give him not John Drum’s <lb xml:id="ftln-1754" n="3.6.39"/>entertainment, your inclining cannot be removed. <lb xml:id="ftln-1755" n="3.6.40"/>Here he comes. </p>
           </sp>
-          <stage xml:id="stg-1755.1"
-                      n="SD 3.6.40.1"
-                      type="entrance"
-                      who="#Parolles_AWW">Enter Parolles. </stage>
+          <stage xml:id="stg-1755.1" n="SD 3.6.40.1" type="entrance" who="#Parolles_AWW">Enter Parolles. </stage>
           <sp xml:id="sp-1756" who="#LORDS.DUMAINE.1_AWW">
             <speaker xml:id="spk-1756">FIRST LORD </speaker>
             <stage xml:id="stg-1756" n="SD 3.6.41" type="delivery">, aside to Bertram </stage>
@@ -4055,10 +3834,7 @@
             <p xml:id="p-1827">
               <lb xml:id="ftln-1827" n="3.6.112"/>As ’t please your Lordship. I’ll leave you. </p>
           </sp>
-          <stage xml:id="stg-1827.1"
-                      n="SD 3.6.112.1"
-                      type="exit"
-                      who="#LORDS.DUMAINE.1_AWW">He exits. </stage>
+          <stage xml:id="stg-1827.1" n="SD 3.6.112.1" type="exit" who="#LORDS.DUMAINE.1_AWW">He exits. </stage>
           <sp xml:id="sp-1828" who="#Bertram_AWW">
             <speaker xml:id="spk-1828">BERTRAM </speaker>
             <l xml:id="ftln-1828" n="3.6.113">Now will I lead you to the house and show you </l>
@@ -4081,17 +3857,11 @@
             <speaker xml:id="spk-1837">SECOND LORD </speaker>
             <l xml:id="ftln-1837" n="3.6.122" part="F">With all my heart, my lord. </l>
           </sp>
-          <stage xml:id="stg-1837.1"
-                      n="SD 3.6.122.1"
-                      type="exit"
-                      who="#Bertram_AWW #LORDS.DUMAINE.2_AWW">They exit. </stage>
+          <stage xml:id="stg-1837.1" n="SD 3.6.122.1" type="exit" who="#Bertram_AWW #LORDS.DUMAINE.2_AWW">They exit. </stage>
         </div>
         <div type="scene" n="7">
           <head>Scene 7 </head>
-          <stage xml:id="stg-1837.2"
-                      n="SD 3.7.0"
-                      type="entrance"
-                      who="#Helen_AWW #Widow_AWW">Enter Helen and Widow. </stage>
+          <stage xml:id="stg-1837.2" n="SD 3.7.0" type="entrance" who="#Helen_AWW #Widow_AWW">Enter Helen and Widow. </stage>
           <sp xml:id="sp-1838" who="#Helen_AWW">
             <speaker xml:id="spk-1838">HELEN </speaker>
             <l xml:id="ftln-1838" n="3.7.1">If you misdoubt me that I am not she, </l>
@@ -4172,20 +3942,14 @@
             <l xml:id="ftln-1890" n="3.7.53">Where both not sin, and yet a sinful fact. </l>
             <l xml:id="ftln-1891" n="3.7.54" ana="#short">But let’s about it. </l>
           </sp>
-          <stage xml:id="stg-1891.1"
-                      n="SD 3.7.54.1"
-                      type="exit"
-                      who="#Helen_AWW #Widow_AWW">They exit. </stage>
+          <stage xml:id="stg-1891.1" n="SD 3.7.54.1" type="exit" who="#Helen_AWW #Widow_AWW">They exit. </stage>
         </div>
       </div>
       <div type="act" n="4">
         <head>ACT 4 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-1891.2"
-                      n="SD 4.1.0"
-                      type="entrance"
-                      who="#LORDS.DUMAINE.1_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW">Enter one of the French Lords, with five or six other Soldiers in ambush. </stage>
+          <stage xml:id="stg-1891.2" n="SD 4.1.0" type="entrance" who="#LORDS.DUMAINE.1_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW">Enter one of the French Lords, with five or six other Soldiers in ambush. </stage>
           <sp xml:id="sp-1892" who="#LORDS.DUMAINE.1_AWW">
             <speaker xml:id="spk-1892">LORD </speaker>
             <p xml:id="p-1892">
@@ -4221,14 +3985,8 @@
             <p xml:id="p-1905">
               <lb xml:id="ftln-1905" n="4.1.14"/>He must think us some band of strangers i’ th’ <lb xml:id="ftln-1906" n="4.1.15"/>adversary’s entertainment. Now, he hath a smack <lb xml:id="ftln-1907" n="4.1.16"/>of all neighboring languages. Therefore we must <lb xml:id="ftln-1908" n="4.1.17"/>every one be a man of his own fancy, not to know <lb xml:id="ftln-1909" n="4.1.18"/>what we speak one to another. So we seem to know <lb xml:id="ftln-1910" n="4.1.19"/>is to know straight our purpose: choughs’ language, <lb xml:id="ftln-1911" n="4.1.20"/>gabble enough and good enough. As for <lb xml:id="ftln-1912" n="4.1.21"/>you, interpreter, you must seem very politic. But <lb xml:id="ftln-1913" n="4.1.22"/>couch, ho! Here he comes to beguile two hours in <lb xml:id="ftln-1914" n="4.1.23"/>a sleep and then to return and swear the lies he <lb xml:id="ftln-1915" n="4.1.24"/>forges. </p>
           </sp>
-          <stage xml:id="stg-1915"
-                      n="SD 4.1.24"
-                      type="business"
-                      who="#LORDS.DUMAINE.1_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW">They move aside. </stage>
-          <stage xml:id="stg-1915.1"
-                      n="SD 4.1.24.1"
-                      type="entrance"
-                      who="#Parolles_AWW">Enter Parolles. </stage>
+          <stage xml:id="stg-1915" n="SD 4.1.24" type="business" who="#LORDS.DUMAINE.1_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW">They move aside. </stage>
+          <stage xml:id="stg-1915.1" n="SD 4.1.24.1" type="entrance" who="#Parolles_AWW">Enter Parolles. </stage>
           <sp xml:id="sp-1916" who="#Parolles_AWW">
             <speaker xml:id="spk-1916">PAROLLES </speaker>
             <p xml:id="p-1916">
@@ -4327,10 +4085,7 @@
           </stage>
           <sp xml:id="sp-1958" who="#LORDS.DUMAINE.1_AWW">
             <speaker xml:id="spk-1958">LORD </speaker>
-            <stage xml:id="stg-1958"
-                         n="SD 4.1.67"
-                         type="business"
-                         who="#LORDS.DUMAINE.1_AWW">, advancing </stage>
+            <stage xml:id="stg-1958" n="SD 4.1.67" type="business" who="#LORDS.DUMAINE.1_AWW">, advancing </stage>
             <p xml:id="p-1958">
               <lb xml:id="ftln-1958" n="4.1.67"/>Throca movousus, cargo, cargo, <lb xml:id="ftln-1959" n="4.1.68"/>cargo. </p>
           </sp>
@@ -4339,19 +4094,13 @@
             <p xml:id="p-1960">
               <lb xml:id="ftln-1960" n="4.1.69"/>Cargo, cargo, cargo, villianda par corbo, cargo. </p>
           </sp>
-          <stage xml:id="stg-1960.1"
-                      n="SD 4.1.69.1"
-                      type="business"
-                      who="#SOLDIERS_AWW #Parolles_AWW">They seize him. </stage>
+          <stage xml:id="stg-1960.1" n="SD 4.1.69.1" type="business" who="#SOLDIERS_AWW #Parolles_AWW">They seize him. </stage>
           <sp xml:id="sp-1961" who="#Parolles_AWW">
             <speaker xml:id="spk-1961">PAROLLES </speaker>
             <p xml:id="p-1961">
               <lb xml:id="ftln-1961" n="4.1.70"/>O ransom, ransom! Do not hide mine eyes. </p>
           </sp>
-          <stage xml:id="stg-1961.1"
-                      n="SD 4.1.70.1"
-                      type="business"
-                      who="#SOLDIERS_AWW #Parolles_AWW">They blindfold him. </stage>
+          <stage xml:id="stg-1961.1" n="SD 4.1.70.1" type="business" who="#SOLDIERS_AWW #Parolles_AWW">They blindfold him. </stage>
           <sp xml:id="sp-1962" who="#SOLDIERS.Interpreter_AWW">
             <speaker xml:id="spk-1962">FIRST SOLDIER </speaker>
             <p xml:id="p-1962">
@@ -4414,10 +4163,7 @@
             <p xml:id="p-1986">
               <lb xml:id="ftln-1986" n="4.1.95"/>Acordo linta. Come on, thou art <lb xml:id="ftln-1987" n="4.1.96"/>granted space. </p>
           </sp>
-          <stage xml:id="stg-1987.1"
-                      n="SD 4.1.96.1"
-                      type="exit"
-                      who="#SOLDIERS.Interpreter_AWW #SOLDIERS.0_AWW #Parolles_AWW">He exits with Parolles under guard. </stage>
+          <stage xml:id="stg-1987.1" n="SD 4.1.96.1" type="exit" who="#SOLDIERS.Interpreter_AWW #SOLDIERS.0_AWW #Parolles_AWW">He exits with Parolles under guard. </stage>
           <stage xml:id="stg-1987.2" n="SD 4.1.96.2" type="business">
             <stage xml:id="snd-1987.2" n="SD 4.1.96.2" type="sound" ana="alarum">A short alarum within. </stage>
           </stage>
@@ -4444,17 +4190,11 @@
             <speaker xml:id="spk-1996">LORD </speaker>
             <l xml:id="ftln-1996" n="4.1.105">Till then I’ll keep him dark and safely locked. </l>
           </sp>
-          <stage xml:id="stg-1996.1"
-                      n="SD 4.1.105.1"
-                      type="exit"
-                      who="#LORDS.DUMAINE.1_AWW #SOLDIERS_AWW">They exit. </stage>
+          <stage xml:id="stg-1996.1" n="SD 4.1.105.1" type="exit" who="#LORDS.DUMAINE.1_AWW #SOLDIERS_AWW">They exit. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-1996.2"
-                      n="SD 4.2.0"
-                      type="entrance"
-                      who="#Bertram_AWW #Diana_AWW">Enter Bertram and the maid called Diana. </stage>
+          <stage xml:id="stg-1996.2" n="SD 4.2.0" type="entrance" who="#Bertram_AWW #Diana_AWW">Enter Bertram and the maid called Diana. </stage>
           <sp xml:id="sp-1997" who="#Bertram_AWW">
             <speaker xml:id="spk-1997">BERTRAM </speaker>
             <l xml:id="ftln-1997" n="4.2.1">They told me that your name was Fontibell. </l>
@@ -4602,17 +4342,11 @@
             <l xml:id="ftln-2083" n="4.2.87">Only, in this disguise I think ’t no sin </l>
             <l xml:id="ftln-2084" n="4.2.88">To cozen him that would unjustly win. </l>
           </sp>
-          <stage xml:id="stg-2084.1"
-                      n="SD 4.2.88.1"
-                      type="exit"
-                      who="#Diana_AWW">She exits. </stage>
+          <stage xml:id="stg-2084.1" n="SD 4.2.88.1" type="exit" who="#Diana_AWW">She exits. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-2084.2"
-                      n="SD 4.3.0"
-                      type="entrance"
-                      who="#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW">Enter the two French Lords and some two or three Soldiers. </stage>
+          <stage xml:id="stg-2084.2" n="SD 4.3.0" type="entrance" who="#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW">Enter the two French Lords and some two or three Soldiers. </stage>
           <sp xml:id="sp-2085" who="#LORDS.DUMAINE.1_AWW">
             <speaker xml:id="spk-2085">FIRST LORD </speaker>
             <p xml:id="p-2085">
@@ -4747,10 +4481,7 @@
             <speaker xml:id="spk-2157">FIRST LORD </speaker>
             <p xml:id="p-2157">
               <lb xml:id="ftln-2157" n="4.3.73"/>The web of our life is of a mingled yarn, <lb xml:id="ftln-2158" n="4.3.74"/>good and ill together. Our virtues would be proud <lb xml:id="ftln-2159" n="4.3.75"/>if our faults whipped them not, and our crimes <lb xml:id="ftln-2160" n="4.3.76"/>would despair if they were not cherished by our <lb xml:id="ftln-2161" n="4.3.77"/>virtues. </p>
-            <stage xml:id="stg-2161.1"
-                         n="SD 4.3.77.1"
-                         type="entrance"
-                         who="#Servant_AWW">Enter a Servant. </stage>
+            <stage xml:id="stg-2161.1" n="SD 4.3.77.1" type="entrance" who="#Servant_AWW">Enter a Servant. </stage>
             <p xml:id="p-2162">
               <lb xml:id="ftln-2162" n="4.3.78"/>How now? Where’s your master? </p>
           </sp>
@@ -4763,10 +4494,7 @@
             <speaker xml:id="spk-2167">SECOND LORD </speaker>
             <p xml:id="p-2167">
               <lb xml:id="ftln-2167" n="4.3.83"/>They shall be no more than needful <lb xml:id="ftln-2168" n="4.3.84"/>there, if they were more than they can commend. <lb xml:id="ftln-2169" n="4.3.85"/>They cannot be too sweet for the King’s tartness. </p>
-            <stage xml:id="stg-2169.1"
-                         n="SD 4.3.85.1"
-                         type="entrance"
-                         who="#Bertram_AWW">Enter Bertram Count Rossillion. </stage>
+            <stage xml:id="stg-2169.1" n="SD 4.3.85.1" type="entrance" who="#Bertram_AWW">Enter Bertram Count Rossillion. </stage>
             <p xml:id="p-2170">
               <lb xml:id="ftln-2170" n="4.3.86"/>Here’s his Lordship now.— How now, my lord? Is ’t <lb xml:id="ftln-2171" n="4.3.87"/>not after midnight? </p>
           </sp>
@@ -4790,10 +4518,7 @@
             <p xml:id="p-2188">
               <lb xml:id="ftln-2188" n="4.3.104"/>Bring him forth. Has sat i’ th’ stocks all <lb xml:id="ftln-2189" n="4.3.105"/>night, poor gallant knave. </p>
           </sp>
-          <stage xml:id="stg-2189"
-                      n="SD 4.3.105"
-                      type="exit"
-                      who="#SOLDIERS.Interpreter_AWW #SOLDIERS_AWW #Servant_AWW">Soldiers exit. </stage>
+          <stage xml:id="stg-2189" n="SD 4.3.105" type="exit" who="#SOLDIERS.Interpreter_AWW #SOLDIERS_AWW #Servant_AWW">Soldiers exit. </stage>
           <sp xml:id="sp-2190" who="#Bertram_AWW">
             <speaker xml:id="spk-2190">BERTRAM </speaker>
             <p xml:id="p-2190">
@@ -4814,10 +4539,7 @@
             <p xml:id="p-2202">
               <lb xml:id="ftln-2202" n="4.3.118"/>His confession is taken, and it shall be <lb xml:id="ftln-2203" n="4.3.119"/>read to his face. If your Lordship be in ’t, as I <lb xml:id="ftln-2204" n="4.3.120"/>believe you are, you must have the patience to <lb xml:id="ftln-2205" n="4.3.121"/>hear it. </p>
           </sp>
-          <stage xml:id="stg-2205.1"
-                      n="SD 4.3.121.1"
-                      type="entrance"
-                      who="#Parolles_AWW #SOLDIERS.Interpreter_AWW">Enter Parolles, blindfolded, with his Interpreter, the First Soldier. </stage>
+          <stage xml:id="stg-2205.1" n="SD 4.3.121.1" type="entrance" who="#Parolles_AWW #SOLDIERS.Interpreter_AWW">Enter Parolles, blindfolded, with his Interpreter, the First Soldier. </stage>
           <sp xml:id="sp-2206" who="#Bertram_AWW">
             <speaker xml:id="spk-2206">BERTRAM </speaker>
             <p xml:id="p-2206">
@@ -5025,10 +4747,7 @@
             <p xml:id="p-2298">
               <lb xml:id="ftln-2298" n="4.3.214"/>Marry, we’ll search. </p>
           </sp>
-          <stage xml:id="stg-2298.1"
-                      n="SD 4.3.214.1"
-                      type="business"
-                      who="#SOLDIERS.Interpreter_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW">They search Parolles’ pockets. </stage>
+          <stage xml:id="stg-2298.1" n="SD 4.3.214.1" type="business" who="#SOLDIERS.Interpreter_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW">They search Parolles’ pockets. </stage>
           <sp xml:id="sp-2299" who="#Parolles_AWW">
             <speaker xml:id="spk-2299">PAROLLES </speaker>
             <p xml:id="p-2299">
@@ -5245,11 +4964,7 @@
           <sp xml:id="sp-2416" who="#SOLDIERS.Interpreter_AWW">
             <speaker xml:id="spk-2416">FIRST SOLDIER </speaker>
             <p xml:id="p-2416">
-              <lb xml:id="ftln-2416" n="4.3.332"/>That shall you, and take your leave of <lb xml:id="ftln-2417" n="4.3.333"/>all your friends. <stage xml:id="stg-2417"
-                            n="SD 4.3.333"
-                            type="business"
-                            rendition="inline"
-                            who="#SOLDIERS.Interpreter_AWW #Parolles_AWW"> He removes the blindfold. </stage> So, <lb xml:id="ftln-2418" n="4.3.334"/>look about you. Know you any here? </p>
+              <lb xml:id="ftln-2416" n="4.3.332"/>That shall you, and take your leave of <lb xml:id="ftln-2417" n="4.3.333"/>all your friends. <stage xml:id="stg-2417" n="SD 4.3.333" type="business" rendition="inline" who="#SOLDIERS.Interpreter_AWW #Parolles_AWW"> He removes the blindfold. </stage> So, <lb xml:id="ftln-2418" n="4.3.334"/>look about you. Know you any here? </p>
           </sp>
           <sp xml:id="sp-2419" who="#Bertram_AWW">
             <speaker xml:id="spk-2419">BERTRAM </speaker>
@@ -5276,10 +4991,7 @@
             <p xml:id="p-2424">
               <lb xml:id="ftln-2424" n="4.3.340"/>Good captain, will you give me a copy of <lb xml:id="ftln-2425" n="4.3.341"/>the sonnet you writ to Diana in behalf of the Count <lb xml:id="ftln-2426" n="4.3.342"/>Rossillion? An I were not a very coward, I’d compel <lb xml:id="ftln-2427" n="4.3.343"/>it of you. But fare you well. </p>
           </sp>
-          <stage xml:id="stg-2427.1"
-                      n="SD 4.3.343.1"
-                      type="exit"
-                      who="#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW">Bertram and Lords exit. </stage>
+          <stage xml:id="stg-2427.1" n="SD 4.3.343.1" type="exit" who="#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW">Bertram and Lords exit. </stage>
           <sp xml:id="sp-2428" who="#SOLDIERS.Interpreter_AWW">
             <speaker xml:id="spk-2428">FIRST SOLDIER </speaker>
             <p xml:id="p-2428">
@@ -5295,10 +5007,7 @@
             <p xml:id="p-2431">
               <lb xml:id="ftln-2431" n="4.3.347"/>If you could find out a country where <lb xml:id="ftln-2432" n="4.3.348"/>but women were that had received so much <lb xml:id="ftln-2433" n="4.3.349"/>shame, you might begin an impudent nation. Fare <lb xml:id="ftln-2434" n="4.3.350"/>you well, sir. I am for France too. We shall speak of <lb xml:id="ftln-2435" n="4.3.351"/>you there. </p>
           </sp>
-          <stage xml:id="stg-2435"
-                      n="SD 4.3.351"
-                      type="exit"
-                      who="#SOLDIERS.Interpreter_AWW">He exits. </stage>
+          <stage xml:id="stg-2435" n="SD 4.3.351" type="exit" who="#SOLDIERS.Interpreter_AWW">He exits. </stage>
           <sp xml:id="sp-2436" who="#Parolles_AWW">
             <speaker xml:id="spk-2436">PAROLLES </speaker>
             <l xml:id="ftln-2436" n="4.3.352">Yet am I thankful. If my heart were great, </l>
@@ -5313,17 +5022,11 @@
             <l xml:id="ftln-2445" n="4.3.361">There’s place and means for every man alive. </l>
             <l xml:id="ftln-2446" n="4.3.362" ana="#short">I’ll after them. </l>
           </sp>
-          <stage xml:id="stg-2446"
-                      n="SD 4.3.362"
-                      type="exit"
-                      who="#Parolles_AWW">He exits. </stage>
+          <stage xml:id="stg-2446" n="SD 4.3.362" type="exit" who="#Parolles_AWW">He exits. </stage>
         </div>
         <div type="scene" n="4">
           <head>Scene 4 </head>
-          <stage xml:id="stg-2446.1"
-                      n="SD 4.4.0"
-                      type="entrance"
-                      who="#Helen_AWW #Widow_AWW #Diana_AWW">Enter Helen, Widow, and Diana. </stage>
+          <stage xml:id="stg-2446.1" n="SD 4.4.0" type="entrance" who="#Helen_AWW #Widow_AWW #Diana_AWW">Enter Helen, Widow, and Diana. </stage>
           <sp xml:id="sp-2447" who="#Helen_AWW">
             <speaker xml:id="spk-2447">HELEN </speaker>
             <l xml:id="ftln-2447" n="4.4.1">That you may well perceive I have not wronged you, </l>
@@ -5379,17 +5082,11 @@
             <l xml:id="ftln-2485" n="4.4.39">All’s well that ends well. Still the fine’s the crown. </l>
             <l xml:id="ftln-2486" n="4.4.40">Whate’er the course, the end is the renown. </l>
           </sp>
-          <stage xml:id="stg-2486.1"
-                      n="SD 4.4.40.1"
-                      type="exit"
-                      who="#Helen_AWW #Widow_AWW #Diana_AWW">They exit. </stage>
+          <stage xml:id="stg-2486.1" n="SD 4.4.40.1" type="exit" who="#Helen_AWW #Widow_AWW #Diana_AWW">They exit. </stage>
         </div>
         <div type="scene" n="5">
           <head>Scene 5 </head>
-          <stage xml:id="stg-2486.2"
-                      n="SD 4.5.0"
-                      type="entrance"
-                      who="#Fool_AWW #Countess_AWW #Lafew_AWW">Enter Fool, Countess, and Lafew. </stage>
+          <stage xml:id="stg-2486.2" n="SD 4.5.0" type="entrance" who="#Fool_AWW #Countess_AWW #Lafew_AWW">Enter Fool, Countess, and Lafew. </stage>
           <sp xml:id="sp-2487" who="#Lafew_AWW">
             <speaker xml:id="spk-2487">LAFEW </speaker>
             <p xml:id="p-2487">
@@ -5492,10 +5189,7 @@
           </sp>
           <sp xml:id="sp-2531" who="#Lafew_AWW">
             <speaker xml:id="spk-2531">LAFEW </speaker>
-            <stage xml:id="stg-2531"
-                         n="SD 4.5.45"
-                         type="business"
-                         who="#Lafew_AWW #Fool_AWW">, giving him money </stage>
+            <stage xml:id="stg-2531" n="SD 4.5.45" type="business" who="#Lafew_AWW #Fool_AWW">, giving him money </stage>
             <p xml:id="p-2531">
               <lb xml:id="ftln-2531" n="4.5.45"/>Hold thee, there’s my <lb xml:id="ftln-2532" n="4.5.46"/>purse. I give thee not this to suggest thee from thy <lb xml:id="ftln-2533" n="4.5.47"/>master thou talk’st of. Serve him still. </p>
           </sp>
@@ -5560,10 +5254,7 @@
             <p xml:id="p-2580">
               <lb xml:id="ftln-2580" n="4.5.94"/>Lady, of that I have made a bold charter. But I <lb xml:id="ftln-2581" n="4.5.95"/>thank my God it holds yet. </p>
           </sp>
-          <stage xml:id="stg-2581.1"
-                      n="SD 4.5.95.1"
-                      type="entrance"
-                      who="#Fool_AWW">Enter Fool. </stage>
+          <stage xml:id="stg-2581.1" n="SD 4.5.95.1" type="entrance" who="#Fool_AWW">Enter Fool. </stage>
           <sp xml:id="sp-2582" who="#Fool_AWW">
             <speaker xml:id="spk-2582">FOOL </speaker>
             <p xml:id="p-2582">
@@ -5589,20 +5280,14 @@
             <p xml:id="p-2592">
               <lb xml:id="ftln-2592" n="4.5.106"/>’Faith, there’s a dozen of ’em, with delicate fine <lb xml:id="ftln-2593" n="4.5.107"/>hats, and most courteous feathers which bow the <lb xml:id="ftln-2594" n="4.5.108"/>head and nod at every man. </p>
           </sp>
-          <stage xml:id="stg-2594.1"
-                      n="SD 4.5.108.1"
-                      type="exit"
-                      who="#Fool_AWW #Lafew_AWW #Countess_AWW">They exit. </stage>
+          <stage xml:id="stg-2594.1" n="SD 4.5.108.1" type="exit" who="#Fool_AWW #Lafew_AWW #Countess_AWW">They exit. </stage>
         </div>
       </div>
       <div type="act" n="5">
         <head>ACT 5 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-2594.2"
-                      n="SD 5.1.0"
-                      type="entrance"
-                      who="#Helen_AWW #Widow_AWW #Diana_AWW #ATTENDANTS_AWW">Enter Helen, Widow, and Diana, with two Attendants. </stage>
+          <stage xml:id="stg-2594.2" n="SD 5.1.0" type="entrance" who="#Helen_AWW #Widow_AWW #Diana_AWW #ATTENDANTS_AWW">Enter Helen, Widow, and Diana, with two Attendants. </stage>
           <sp xml:id="sp-2595" who="#Helen_AWW">
             <speaker xml:id="spk-2595">HELEN </speaker>
             <l xml:id="ftln-2595" n="5.1.1">But this exceeding posting day and night </l>
@@ -5611,10 +5296,7 @@
             <l xml:id="ftln-2598" n="5.1.4">To wear your gentle limbs in my affairs, </l>
             <l xml:id="ftln-2599" n="5.1.5">Be bold you do so grow in my requital </l>
             <l xml:id="ftln-2600" n="5.1.6" part="I">As nothing can unroot you. </l>
-            <stage xml:id="stg-2600.1"
-                         n="SD 5.1.6.1"
-                         type="entrance"
-                         who="#GENTLEMEN.3_AWW">Enter a Gentleman, a gentle Astringer. </stage>
+            <stage xml:id="stg-2600.1" n="SD 5.1.6.1" type="entrance" who="#GENTLEMEN.3_AWW">Enter a Gentleman, a gentle Astringer. </stage>
             <l xml:id="ftln-2601" n="5.1.7" part="F">In happy time! </l>
             <l xml:id="ftln-2602" n="5.1.8">This man may help me to his Majesty’s ear, </l>
             <l xml:id="ftln-2603" n="5.1.9">If he would spend his power.— God save you, sir. </l>
@@ -5646,10 +5328,7 @@
           </sp>
           <sp xml:id="sp-2614" who="#Helen_AWW">
             <speaker xml:id="spk-2614">HELEN </speaker>
-            <stage xml:id="stg-2614"
-                         n="SD 5.1.20"
-                         type="business"
-                         who="#Helen_AWW">, taking out a paper </stage>
+            <stage xml:id="stg-2614" n="SD 5.1.20" type="business" who="#Helen_AWW">, taking out a paper </stage>
             <l xml:id="ftln-2614" n="5.1.20" ana="#short">That it will please you </l>
             <l xml:id="ftln-2615" n="5.1.21">To give this poor petition to the King </l>
             <l xml:id="ftln-2616" n="5.1.22">And aid me with that store of power you have </l>
@@ -5686,10 +5365,7 @@
           </sp>
           <sp xml:id="sp-2629" who="#Helen_AWW">
             <speaker xml:id="spk-2629">HELEN </speaker>
-            <stage xml:id="stg-2629"
-                         n="SD 5.1.35"
-                         type="business"
-                         who="#Helen_AWW #GENTLEMEN.3_AWW">, giving him the paper </stage>
+            <stage xml:id="stg-2629" n="SD 5.1.35" type="business" who="#Helen_AWW #GENTLEMEN.3_AWW">, giving him the paper </stage>
             <l xml:id="ftln-2629" n="5.1.35" part="F">I do beseech you, sir, </l>
             <l xml:id="ftln-2630" n="5.1.36">Since you are like to see the King before me, </l>
             <l xml:id="ftln-2631" n="5.1.37">Commend the paper to his gracious hand, </l>
@@ -5708,23 +5384,14 @@
             <l xml:id="ftln-2638" n="5.1.44">Whate’er falls more. We must to horse again.— </l>
             <l xml:id="ftln-2639" n="5.1.45" ana="#short">Go, go, provide. </l>
           </sp>
-          <stage xml:id="stg-2639.1"
-                      n="SD 5.1.45.1"
-                      type="exit"
-                      who="#Helen_AWW #Widow_AWW #Diana_AWW #GENTLEMEN.3_AWW #ATTENDANTS_AWW">They exit. </stage>
+          <stage xml:id="stg-2639.1" n="SD 5.1.45.1" type="exit" who="#Helen_AWW #Widow_AWW #Diana_AWW #GENTLEMEN.3_AWW #ATTENDANTS_AWW">They exit. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-2639.2"
-                      n="SD 5.2.0"
-                      type="entrance"
-                      who="#Fool_AWW #Parolles_AWW">Enter Fool and Parolles. </stage>
+          <stage xml:id="stg-2639.2" n="SD 5.2.0" type="entrance" who="#Fool_AWW #Parolles_AWW">Enter Fool and Parolles. </stage>
           <sp xml:id="sp-2640" who="#Parolles_AWW">
             <speaker xml:id="spk-2640">PAROLLES </speaker>
-            <stage xml:id="stg-2640"
-                         n="SD 5.2.1"
-                         type="business"
-                         who="#Parolles_AWW">, holding out a paper </stage>
+            <stage xml:id="stg-2640" n="SD 5.2.1" type="business" who="#Parolles_AWW">, holding out a paper </stage>
             <p xml:id="p-2640">
               <lb xml:id="ftln-2640" n="5.2.1"/>Good Monsieur <lb xml:id="ftln-2641" n="5.2.2"/>Lavatch, give my lord Lafew this letter. I have ere <lb xml:id="ftln-2642" n="5.2.3"/>now, sir, been better known to you, when I have <lb xml:id="ftln-2643" n="5.2.4"/>held familiarity with fresher clothes. But I am <lb xml:id="ftln-2644" n="5.2.5"/>now, sir, muddied in Fortune’s mood, and smell <lb xml:id="ftln-2645" n="5.2.6"/>somewhat strong of her strong displeasure. </p>
           </sp>
@@ -5752,10 +5419,7 @@
             <speaker xml:id="spk-2656">FOOL </speaker>
             <p xml:id="p-2656">
               <lb xml:id="ftln-2656" n="5.2.17"/>Foh! Prithee, stand away. A paper from Fortune’s <lb xml:id="ftln-2657" n="5.2.18"/>close-stool, to give to a nobleman! </p>
-            <stage xml:id="stg-2657.1"
-                         n="SD 5.2.18.1"
-                         type="entrance"
-                         who="#Lafew_AWW">Enter Lafew. </stage>
+            <stage xml:id="stg-2657.1" n="SD 5.2.18.1" type="entrance" who="#Lafew_AWW">Enter Lafew. </stage>
             <p xml:id="p-2658">
               <lb xml:id="ftln-2658" n="5.2.19"/>Look, here he comes himself.— Here is a purr of <lb xml:id="ftln-2659" n="5.2.20"/>Fortune’s, sir, or of Fortune’s cat— but not a <lb xml:id="ftln-2660" n="5.2.21"/>musk-cat— that has fall’n into the unclean fishpond <lb xml:id="ftln-2661" n="5.2.22"/>of her displeasure and, as he says, is muddied <lb xml:id="ftln-2662" n="5.2.23"/>withal. Pray you, sir, use the carp as you may, <lb xml:id="ftln-2663" n="5.2.24"/>for he looks like a poor, decayed, ingenious, foolish, <lb xml:id="ftln-2664" n="5.2.25"/>rascally knave. I do pity his distress in my <lb xml:id="ftln-2665" n="5.2.26"/>smiles of comfort, and leave him to your Lordship. </p>
           </sp>
@@ -5809,28 +5473,18 @@
             <speaker xml:id="spk-2688">LAFEW </speaker>
             <p xml:id="p-2688">
               <lb xml:id="ftln-2688" n="5.2.49"/>Out upon thee, knave! Dost thou put upon me <lb xml:id="ftln-2689" n="5.2.50"/>at once both the office of God and the devil? One <lb xml:id="ftln-2690" n="5.2.51"/>brings thee in grace, and the other brings thee out. <lb xml:id="ftln-2691" n="5.2.52"/>
-              <stage xml:id="stg-2691"
-                            n="SD 5.2.52"
-                            type="sound"
-                            rendition="inline"
-                            ana="trumpet">Trumpets sound. </stage> The King’s coming. I know by <lb xml:id="ftln-2692" n="5.2.53"/>his trumpets. Sirrah, inquire further after me. I <lb xml:id="ftln-2693" n="5.2.54"/>had talk of you last night. Though you are a fool <lb xml:id="ftln-2694" n="5.2.55"/>and a knave, you shall eat. Go to, follow. </p>
+              <stage xml:id="stg-2691" n="SD 5.2.52" type="sound" rendition="inline" ana="trumpet">Trumpets sound. </stage> The King’s coming. I know by <lb xml:id="ftln-2692" n="5.2.53"/>his trumpets. Sirrah, inquire further after me. I <lb xml:id="ftln-2693" n="5.2.54"/>had talk of you last night. Though you are a fool <lb xml:id="ftln-2694" n="5.2.55"/>and a knave, you shall eat. Go to, follow. </p>
           </sp>
           <sp xml:id="sp-2695" who="#Parolles_AWW">
             <speaker xml:id="spk-2695">PAROLLES </speaker>
             <p xml:id="p-2695">
               <lb xml:id="ftln-2695" n="5.2.56"/>I praise God for you. </p>
           </sp>
-          <stage xml:id="stg-2695.1"
-                      n="SD 5.2.56.1"
-                      type="exit"
-                      who="#Parolles_AWW #Lafew_AWW">They exit. </stage>
+          <stage xml:id="stg-2695.1" n="SD 5.2.56.1" type="exit" who="#Parolles_AWW #Lafew_AWW">They exit. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-2695.2"
-                      n="SD 5.3.0"
-                      type="entrance"
-                      who="#King_AWW #Countess_AWW #Lafew_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #ATTENDANTS.KING_AWW">
+          <stage xml:id="stg-2695.2" n="SD 5.3.0" type="entrance" who="#King_AWW #Countess_AWW #Lafew_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #ATTENDANTS.KING_AWW">
             <stage xml:id="snd-2695.2" n="SD 5.3.0" type="sound" ana="flourish">Flourish. </stage> Enter King, Countess, Lafew, the two French Lords, with Attendants. </stage>
           <sp xml:id="sp-2696" who="#King_AWW">
             <speaker xml:id="spk-2696">KING </speaker>
@@ -5882,10 +5536,7 @@
             <speaker xml:id="spk-2727">GENTLEMAN </speaker>
             <l xml:id="ftln-2727" n="5.3.32" part="F">I shall, my liege. </l>
           </sp>
-          <stage xml:id="stg-2727"
-                      n="SD 5.3.32"
-                      type="exit"
-                      who="#ATTENDANTS.KING.0.1_AWW">He exits. </stage>
+          <stage xml:id="stg-2727" n="SD 5.3.32" type="exit" who="#ATTENDANTS.KING.0.1_AWW">He exits. </stage>
           <sp xml:id="sp-2728" who="#King_AWW">
             <speaker xml:id="spk-2728">KING </speaker>
             <l xml:id="ftln-2728" n="5.3.33">What says he to your daughter? Have you spoke? </l>
@@ -5899,10 +5550,7 @@
             <l xml:id="ftln-2730" n="5.3.35">Then shall we have a match. I have letters sent me </l>
             <l xml:id="ftln-2731" n="5.3.36" ana="#short">That sets him high in fame. </l>
           </sp>
-          <stage xml:id="stg-2731.1"
-                      n="SD 5.3.36.1"
-                      type="entrance"
-                      who="#Bertram_AWW">Enter Count Bertram. </stage>
+          <stage xml:id="stg-2731.1" n="SD 5.3.36.1" type="entrance" who="#Bertram_AWW">Enter Count Bertram. </stage>
           <sp xml:id="sp-2732" who="#Lafew_AWW">
             <speaker xml:id="spk-2732">LAFEW </speaker>
             <l xml:id="ftln-2732" n="5.3.37" ana="#short">He looks well on ’t. </l>
@@ -5975,10 +5623,7 @@
             <l xml:id="ftln-2778" n="5.3.83">Must be digested, give a favor from you </l>
             <l xml:id="ftln-2779" n="5.3.84">To sparkle in the spirits of my daughter, </l>
             <l xml:id="ftln-2780" n="5.3.85" part="I">That she may quickly come. </l>
-            <stage xml:id="stg-2780.1"
-                         n="SD 5.3.85.1"
-                         type="business"
-                         who="#Bertram_AWW #Lafew_AWW">Bertram gives him a ring. </stage>
+            <stage xml:id="stg-2780.1" n="SD 5.3.85.1" type="business" who="#Bertram_AWW #Lafew_AWW">Bertram gives him a ring. </stage>
             <l xml:id="ftln-2781" n="5.3.86" part="F">By my old beard </l>
             <l xml:id="ftln-2782" n="5.3.87">And ev’ry hair that’s on ’t, Helen that’s dead </l>
             <l xml:id="ftln-2783" n="5.3.88">Was a sweet creature. Such a ring as this, </l>
@@ -5993,10 +5638,7 @@
             <speaker xml:id="spk-2787">KING </speaker>
             <l xml:id="ftln-2787" n="5.3.92">Now, pray you, let me see it, for mine eye, </l>
             <l xml:id="ftln-2788" n="5.3.93">While I was speaking, oft was fastened to ’t. </l>
-            <stage xml:id="stg-2788.1"
-                         n="SD 5.3.93.1"
-                         type="business"
-                         who="#Lafew_AWW #King_AWW">Lafew passes the ring to the King. </stage>
+            <stage xml:id="stg-2788.1" n="SD 5.3.93.1" type="business" who="#Lafew_AWW #King_AWW">Lafew passes the ring to the King. </stage>
             <l xml:id="ftln-2789" n="5.3.94">This ring was mine, and when I gave it Helen, </l>
             <l xml:id="ftln-2790" n="5.3.95">I bade her if her fortunes ever stood </l>
             <l xml:id="ftln-2791" n="5.3.96">Necessitied to help, that by this token </l>
@@ -6073,26 +5715,17 @@
             <l xml:id="ftln-2840" n="5.3.145">Prove that I husbanded her bed in Florence, </l>
             <l xml:id="ftln-2841" n="5.3.146" ana="#short">Where yet she never was. </l>
           </sp>
-          <stage xml:id="stg-2841"
-                      n="SD 5.3.146"
-                      type="exit"
-                      who="#Bertram_AWW #ATTENDANTS.KING.0.2_AWW">He exits, under guard. </stage>
+          <stage xml:id="stg-2841" n="SD 5.3.146" type="exit" who="#Bertram_AWW #ATTENDANTS.KING.0.2_AWW">He exits, under guard. </stage>
           <sp xml:id="sp-2842" who="#King_AWW">
             <speaker xml:id="spk-2842">KING </speaker>
             <l xml:id="ftln-2842" n="5.3.147" part="I">I am wrapped in dismal thinkings. </l>
           </sp>
-          <stage xml:id="stg-2842.1"
-                      n="SD 5.3.147.1"
-                      type="entrance"
-                      who="#GENTLEMEN.3_AWW">Enter a Gentleman. </stage>
+          <stage xml:id="stg-2842.1" n="SD 5.3.147.1" type="entrance" who="#GENTLEMEN.3_AWW">Enter a Gentleman. </stage>
           <sp xml:id="sp-2843" who="#GENTLEMEN.3_AWW">
             <speaker xml:id="spk-2843">GENTLEMAN </speaker>
             <l xml:id="ftln-2843" n="5.3.148" part="F">Gracious sovereign, </l>
             <l xml:id="ftln-2844" n="5.3.149">Whether I have been to blame or no, I know not. </l>
-            <stage xml:id="stg-2844.1"
-                         n="SD 5.3.149.1"
-                         type="business"
-                         who="#GENTLEMEN.3_AWW #King_AWW">He gives the King a paper. </stage>
+            <stage xml:id="stg-2844.1" n="SD 5.3.149.1" type="business" who="#GENTLEMEN.3_AWW #King_AWW">He gives the King a paper. </stage>
             <l xml:id="ftln-2845" n="5.3.150">Here’s a petition from a Florentine </l>
             <l xml:id="ftln-2846" n="5.3.151">Who hath for four or five removes come short </l>
             <l xml:id="ftln-2847" n="5.3.152">To tender it herself. I undertook it, </l>
@@ -6119,10 +5752,7 @@
             <l xml:id="ftln-2865" n="5.3.170">The heavens have thought well on thee, Lafew, </l>
             <l xml:id="ftln-2866" n="5.3.171">To bring forth this discov’ry.— Seek these suitors. </l>
             <l xml:id="ftln-2867" n="5.3.172">Go speedily, and bring again the Count. </l>
-            <stage xml:id="stg-2867.1"
-                         n="SD 5.3.172.1"
-                         type="exit"
-                         who="#GENTLEMEN.3_AWW #ATTENDANTS.KING.0.3_AWW">Gentleman and Attendants exit. </stage>
+            <stage xml:id="stg-2867.1" n="SD 5.3.172.1" type="exit" who="#GENTLEMEN.3_AWW #ATTENDANTS.KING.0.3_AWW">Gentleman and Attendants exit. </stage>
             <l xml:id="ftln-2868" n="5.3.173">I am afeard the life of Helen, lady, </l>
             <l xml:id="ftln-2869" n="5.3.174" part="I">Was foully snatched. </l>
           </sp>
@@ -6130,19 +5760,13 @@
             <speaker xml:id="spk-2870">COUNTESS </speaker>
             <l xml:id="ftln-2870" n="5.3.175" part="F">Now justice on the doers! </l>
           </sp>
-          <stage xml:id="stg-2870.1"
-                      n="SD 5.3.175.1"
-                      type="entrance"
-                      who="#Bertram_AWW #ATTENDANTS.KING.0.2_AWW">Enter Bertram under guard. </stage>
+          <stage xml:id="stg-2870.1" n="SD 5.3.175.1" type="entrance" who="#Bertram_AWW #ATTENDANTS.KING.0.2_AWW">Enter Bertram under guard. </stage>
           <sp xml:id="sp-2871" who="#King_AWW">
             <speaker xml:id="spk-2871">KING </speaker>
             <l xml:id="ftln-2871" n="5.3.176">I wonder, sir, since wives are monsters to you </l>
             <l xml:id="ftln-2872" n="5.3.177">And that you fly them as you swear them lordship, </l>
             <l xml:id="ftln-2873" n="5.3.178" part="I">Yet you desire to marry. </l>
-            <stage xml:id="stg-2873.1"
-                         n="SD 5.3.178.1"
-                         type="entrance"
-                         who="#Widow_AWW #Diana_AWW">Enter Widow and Diana. </stage>
+            <stage xml:id="stg-2873.1" n="SD 5.3.178.1" type="entrance" who="#Widow_AWW #Diana_AWW">Enter Widow and Diana. </stage>
             <l xml:id="ftln-2874" n="5.3.179" part="F">What woman’s that? </l>
           </sp>
           <sp xml:id="sp-2875" who="#Diana_AWW">
@@ -6257,10 +5881,7 @@
             <speaker xml:id="spk-2927">KING </speaker>
             <l xml:id="ftln-2927" n="5.3.232" part="I">Find him, and bring him hither. </l>
           </sp>
-          <stage xml:id="stg-2927"
-                      n="SD 5.3.232"
-                      type="exit"
-                      who="#ATTENDANTS.KING.0.4_AWW">Attendant exits. </stage>
+          <stage xml:id="stg-2927" n="SD 5.3.232" type="exit" who="#ATTENDANTS.KING.0.4_AWW">Attendant exits. </stage>
           <sp xml:id="sp-2928" who="#Bertram_AWW">
             <speaker xml:id="spk-2928">BERTRAM </speaker>
             <l xml:id="ftln-2928" n="5.3.233" part="F">What of him? </l>
@@ -6326,10 +5947,7 @@
             <speaker xml:id="spk-2958">DIANA </speaker>
             <l xml:id="ftln-2958" n="5.3.263" part="F">I have spoke the truth. </l>
           </sp>
-          <stage xml:id="stg-2958.1"
-                      n="SD 5.3.263.1"
-                      type="entrance"
-                      who="#Parolles_AWW">Enter Parolles. </stage>
+          <stage xml:id="stg-2958.1" n="SD 5.3.263.1" type="entrance" who="#Parolles_AWW">Enter Parolles. </stage>
           <sp xml:id="sp-2959" who="#Bertram_AWW">
             <speaker xml:id="spk-2959">BERTRAM </speaker>
             <l xml:id="ftln-2959" n="5.3.264">My lord, I do confess the ring was hers. </l>
@@ -6424,10 +6042,7 @@
             <speaker xml:id="spk-2996">KING </speaker>
             <p xml:id="p-2996">
               <lb xml:id="ftln-2996" n="5.3.301"/>Thou hast spoken all already, unless thou canst <lb xml:id="ftln-2997" n="5.3.302"/>say they are married. But thou art too fine in thy <lb xml:id="ftln-2998" n="5.3.303"/>evidence. Therefore stand aside. </p>
-            <stage xml:id="stg-2998.1"
-                         n="SD 5.3.303.1"
-                         type="delivery"
-                         rendition="indentVerse">To Diana. </stage>
+            <stage xml:id="stg-2998.1" n="SD 5.3.303.1" type="delivery" rendition="indentVerse">To Diana. </stage>
             <l xml:id="ftln-2999" n="5.3.304" part="I">This ring you say was yours? </l>
           </sp>
           <sp xml:id="sp-3000" who="#Diana_AWW">
@@ -6527,11 +6142,7 @@
           </sp>
           <sp xml:id="sp-3030" who="#Diana_AWW">
             <speaker xml:id="spk-3030">DIANA </speaker>
-            <l xml:id="ftln-3030" n="5.3.335">Good mother, fetch my bail. <stage xml:id="stg-3030"
-                            n="SD 5.3.335"
-                            type="exit"
-                            rendition="inline"
-                            who="#Widow_AWW"> Widow exits. </stage> Stay, royal sir. </l>
+            <l xml:id="ftln-3030" n="5.3.335">Good mother, fetch my bail. <stage xml:id="stg-3030" n="SD 5.3.335" type="exit" rendition="inline" who="#Widow_AWW"> Widow exits. </stage> Stay, royal sir. </l>
             <l xml:id="ftln-3032" n="5.3.337">The jeweler that owes the ring is sent for, </l>
             <l xml:id="ftln-3033" n="5.3.338">And he shall surety me. But for this lord </l>
             <l xml:id="ftln-3034" n="5.3.339">Who hath abused me as he knows himself, </l>
@@ -6542,10 +6153,7 @@
             <l xml:id="ftln-3039" n="5.3.344">So there’s my riddle: one that’s dead is quick. </l>
             <l xml:id="ftln-3040" n="5.3.345">And now behold the meaning. </l>
           </sp>
-          <stage xml:id="stg-3040.1"
-                      n="SD 5.3.345.1"
-                      type="entrance"
-                      who="#Helen_AWW #Widow_AWW">Enter Helen and Widow. </stage>
+          <stage xml:id="stg-3040.1" n="SD 5.3.345.1" type="entrance" who="#Helen_AWW #Widow_AWW">Enter Helen and Widow. </stage>
           <sp xml:id="sp-3041" who="#King_AWW">
             <speaker xml:id="spk-3041">KING </speaker>
             <l xml:id="ftln-3041" n="5.3.346" ana="#short">Is there no exorcist </l>
@@ -6567,11 +6175,7 @@
             <l xml:id="ftln-3048" n="5.3.353">O, my good lord, when I was like this maid, </l>
             <l xml:id="ftln-3049" n="5.3.354">I found you wondrous kind. There is your ring, </l>
             <l xml:id="ftln-3050" n="5.3.355" part="I">And, look you, here’s your letter. </l>
-            <stage xml:id="stg-3050"
-                         n="SD 5.3.355"
-                         type="business"
-                         rendition="inline"
-                         who="#Helen_AWW"> She takes out a paper. </stage>
+            <stage xml:id="stg-3050" n="SD 5.3.355" type="business" rendition="inline" who="#Helen_AWW"> She takes out a paper. </stage>
             <l xml:id="ftln-3051" n="5.3.356" part="F">This it says: </l>
             <l xml:id="ftln-3052" n="5.3.357">
               <q xml:id="q-3052" type="letter">When from my finger you can get this ring </q>
@@ -6613,10 +6217,7 @@
             <l xml:id="ftln-3074" n="5.3.379">The bitter past, more welcome is the sweet. </l>
           </sp>
           <stage xml:id="stg-3074.1" n="SD 5.3.379.1" type="business">
-            <stage xml:id="snd-3074.1"
-                         n="SD 5.3.379.1"
-                         type="sound"
-                         ana="flourish">Flourish. </stage>
+            <stage xml:id="snd-3074.1" n="SD 5.3.379.1" type="sound" ana="flourish">Flourish. </stage>
           </stage>
         </div>
         <div type="epilogue" n="EPI">
@@ -6629,10 +6230,7 @@
             <l xml:id="ftln-3079" n="EPI.5">Ours be your patience, then, and yours our parts. </l>
             <l xml:id="ftln-3080" n="EPI.6">Your gentle hands lend us, and take our hearts. </l>
           </sp>
-          <stage xml:id="stg-3080.1"
-                      n="SD EPI.6.1"
-                      type="exit"
-                      who="#King_AWW #Countess_AWW #Lafew_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Bertram_AWW #Widow_AWW #Diana_AWW #Parolles_AWW #Helen_AWW #ATTENDANTS.KING_AWW">All exit. </stage>
+          <stage xml:id="stg-3080.1" n="SD EPI.6.1" type="exit" who="#King_AWW #Countess_AWW #Lafew_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Bertram_AWW #Widow_AWW #Diana_AWW #Parolles_AWW #Helen_AWW #ATTENDANTS.KING_AWW">All exit. </stage>
         </div>
       </div>
     </body>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shake000027">
   <teiHeader>
     <fileDesc>
@@ -111,9 +112,7 @@
           <person xml:id="Captain_Tit" sex="MALE">
             <persName>Captain</persName>
           </person>
-          <person xml:id="Titus_Tit"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q16930950">
+          <person xml:id="Titus_Tit" sex="MALE" ana="http://www.wikidata.org/entity/Q16930950">
             <persName>Titus Andronicus</persName>
           </person>
           <person xml:id="Lucius_Tit" sex="MALE">
@@ -193,9 +192,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/shake000027"
-                   passive="http://www.wikidata.org/entity/Q272169"/>
+      <relation name="wikidata" active="https://dracor.org/entity/shake000027" passive="http://www.wikidata.org/entity/Q272169"/>
     </listRelation>
   </standOff>
   <text>
@@ -386,10 +383,7 @@
         <head>ACT 1 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-0000"
-                      n="SD 1.1.0"
-                      type="entrance"
-                      who="#TRIBUNES_Tit #Marcus_Tit #SENATORS_Tit #Saturninus_Tit #Bassianus_Tit #ROMANS_Tit">
+          <stage xml:id="stg-0000" n="SD 1.1.0" type="entrance" who="#TRIBUNES_Tit #Marcus_Tit #SENATORS_Tit #Saturninus_Tit #Bassianus_Tit #ROMANS_Tit">
             <stage xml:id="snd-0000a" n="SD 1.1.0" type="sound" ana="flourish">Flourish. </stage> Enter the Tribunes ( including Marcus Andronicus) and Senators aloft. And then enter, below, Saturninus and his followers at one door, and Bassianus and his followers at another door, with other Romans, <stage xml:id="snd-0000b" n="SD 1.1.0" type="sound" ana="drum trumpet">Drums, and Trumpets. </stage>
           </stage>
           <sp xml:id="sp-0001" who="#Saturninus_Tit">
@@ -417,10 +411,7 @@
           </sp>
           <sp xml:id="sp-0018" who="#Marcus_Tit">
             <speaker xml:id="spk-0018">MARCUS </speaker>
-            <stage xml:id="stg-0018.0"
-                         n="SD 1.1.18.0"
-                         type="business"
-                         who="#Marcus_Tit">, ( aloft, stepping forward and holding up the crown) </stage>
+            <stage xml:id="stg-0018.0" n="SD 1.1.18.0" type="business" who="#Marcus_Tit">, ( aloft, stepping forward and holding up the crown) </stage>
             <l xml:id="ftln-0018" n="1.1.18">Princes that strive by factions and by friends </l>
             <l xml:id="ftln-0019" n="1.1.19">Ambitiously for rule and empery, </l>
             <l xml:id="ftln-0020" n="1.1.20">Know that the people of Rome, for whom we stand </l>
@@ -466,20 +457,14 @@
             <l xml:id="ftln-0054" n="1.1.54">And to my fortunes and the people’s favor </l>
             <l xml:id="ftln-0055" n="1.1.55">Commit my cause in balance to be weighed. </l>
           </sp>
-          <stage xml:id="stg-0055.1"
-                      n="SD 1.1.55.1"
-                      type="exit"
-                      who="#ROMANS.0.1_Tit">Bassianus’ Soldiers exit. </stage>
+          <stage xml:id="stg-0055.1" n="SD 1.1.55.1" type="exit" who="#ROMANS.0.1_Tit">Bassianus’ Soldiers exit. </stage>
           <sp xml:id="sp-0056" who="#Saturninus_Tit">
             <speaker xml:id="spk-0056">SATURNINUS </speaker>
             <l xml:id="ftln-0056" n="1.1.56">Friends that have been thus forward in my right, </l>
             <l xml:id="ftln-0057" n="1.1.57">I thank you all and here dismiss you all, </l>
             <l xml:id="ftln-0058" n="1.1.58">And to the love and favor of my country </l>
             <l xml:id="ftln-0059" n="1.1.59">Commit myself, my person, and the cause. </l>
-            <stage xml:id="stg-0059.1"
-                         n="SD 1.1.59.1"
-                         type="exit"
-                         who="#ROMANS.0.2_Tit">Saturninus’ Soldiers exit. </stage>
+            <stage xml:id="stg-0059.1" n="SD 1.1.59.1" type="exit" who="#ROMANS.0.2_Tit">Saturninus’ Soldiers exit. </stage>
             <l xml:id="ftln-0060" n="1.1.60">Rome, be as just and gracious unto me </l>
             <l xml:id="ftln-0061" n="1.1.61">As I am confident and kind to thee. </l>
             <l xml:id="ftln-0062" n="1.1.62" ana="#short">Open the gates and let me in. </l>
@@ -488,15 +473,9 @@
             <speaker xml:id="spk-0063">BASSIANUS </speaker>
             <l xml:id="ftln-0063" n="1.1.63">Tribunes, and me, a poor competitor. </l>
           </sp>
-          <stage xml:id="stg-0063.1b"
-                      n="SD 1.1.63.1"
-                      type="exit"
-                      who="#Saturninus_Tit #Bassianus_Tit #TRIBUNES_Tit #Marcus_Tit #SENATORS_Tit">
+          <stage xml:id="stg-0063.1b" n="SD 1.1.63.1" type="exit" who="#Saturninus_Tit #Bassianus_Tit #TRIBUNES_Tit #Marcus_Tit #SENATORS_Tit">
             <stage xml:id="snd-0063.1" n="SD 1.1.63.1" type="sound" ana="flourish">Flourish. </stage> They exit to go up into the Senate House. The Tribunes and Senators exit from the upper stage. </stage>
-          <stage xml:id="stg-0063.2"
-                      n="SD 1.1.63.2"
-                      type="entrance"
-                      who="#Captain_Tit">Enter a Captain. </stage>
+          <stage xml:id="stg-0063.2" n="SD 1.1.63.2" type="entrance" who="#Captain_Tit">Enter a Captain. </stage>
           <sp xml:id="sp-0064" who="#Captain_Tit">
             <speaker xml:id="spk-0064">CAPTAIN </speaker>
             <l xml:id="ftln-0064" n="1.1.64">Romans, make way! The good Andronicus, </l>
@@ -506,14 +485,8 @@
             <l xml:id="ftln-0068" n="1.1.68">From where he circumscribèd with his sword </l>
             <l xml:id="ftln-0069" n="1.1.69">And brought to yoke the enemies of Rome. </l>
           </sp>
-          <stage xml:id="stg-0069.1"
-                      n="SD 1.1.69.1"
-                      type="entrance"
-                      who="#Lucius_Tit #Mutius_Tit #Martius_Tit #Quintus_Tit #Titus_Tit #Tamora_Tit #Alarbus_Tit #Chiron_Tit #Demetrius_Tit #Aaron_Tit #ROMANS.0_Tit">
-            <stage xml:id="snd-0069.1"
-                         n="SD 1.1.69.1"
-                         type="sound"
-                         ana="drum trumpet">Sound drums and trumpets</stage>, and then enter two of Titus’ sons ( Lucius and Mutius) and then two men bearing a coffin covered with black, then two other sons ( Martius and Quintus), then Titus Andronicus, and then Tamora the Queen of Goths and her sons Alarbus, Chiron and Demetrius, with Aaron the Moor, and others as many as can be, then set down the coffin, and Titus speaks. </stage>
+          <stage xml:id="stg-0069.1" n="SD 1.1.69.1" type="entrance" who="#Lucius_Tit #Mutius_Tit #Martius_Tit #Quintus_Tit #Titus_Tit #Tamora_Tit #Alarbus_Tit #Chiron_Tit #Demetrius_Tit #Aaron_Tit #ROMANS.0_Tit">
+            <stage xml:id="snd-0069.1" n="SD 1.1.69.1" type="sound" ana="drum trumpet">Sound drums and trumpets</stage>, and then enter two of Titus’ sons ( Lucius and Mutius) and then two men bearing a coffin covered with black, then two other sons ( Martius and Quintus), then Titus Andronicus, and then Tamora the Queen of Goths and her sons Alarbus, Chiron and Demetrius, with Aaron the Moor, and others as many as can be, then set down the coffin, and Titus speaks. </stage>
           <sp xml:id="sp-0070" who="#Titus_Tit">
             <speaker xml:id="spk-0070">TITUS </speaker>
             <l xml:id="ftln-0070" n="1.1.70">Hail Rome, victorious in thy mourning weeds! </l>
@@ -536,10 +509,7 @@
             <l xml:id="ftln-0087" n="1.1.87">Why suffer’st thou thy sons unburied yet </l>
             <l xml:id="ftln-0088" n="1.1.88">To hover on the dreadful shore of Styx? </l>
             <l xml:id="ftln-0089" n="1.1.89">Make way to lay them by their brethren. </l>
-            <stage xml:id="stg-0089.1"
-                         n="SD 1.1.89.1"
-                         type="business"
-                         who="#Lucius_Tit #Mutius_Tit #Martius_Tit #Quintus_Tit">They open the tomb. </stage>
+            <stage xml:id="stg-0089.1" n="SD 1.1.89.1" type="business" who="#Lucius_Tit #Mutius_Tit #Martius_Tit #Quintus_Tit">They open the tomb. </stage>
             <l xml:id="ftln-0090" n="1.1.90">There greet in silence, as the dead are wont, </l>
             <l xml:id="ftln-0091" n="1.1.91">And sleep in peace, slain in your country’s wars. </l>
             <l xml:id="ftln-0092" n="1.1.92">O sacred receptacle of my joys, </l>
@@ -575,10 +545,7 @@
             <l xml:id="ftln-0113" n="1.1.113">For valiant doings in their country’s cause? </l>
             <l xml:id="ftln-0114" n="1.1.114">O, if to fight for king and commonweal </l>
             <l xml:id="ftln-0115" n="1.1.115">Were piety in thine, it is in these! </l>
-            <stage xml:id="stg-0115.1"
-                         n="SD 1.1.115.1"
-                         type="business"
-                         who="#Tamora_Tit">She kneels. </stage>
+            <stage xml:id="stg-0115.1" n="SD 1.1.115.1" type="business" who="#Tamora_Tit">She kneels. </stage>
             <l xml:id="ftln-0116" n="1.1.116">Andronicus, stain not thy tomb with blood. </l>
             <l xml:id="ftln-0117" n="1.1.117">Wilt thou draw near the nature of the gods? </l>
             <l xml:id="ftln-0118" n="1.1.118">Draw near them then in being merciful. </l>
@@ -600,10 +567,7 @@
             <l xml:id="ftln-0128" n="1.1.128">And with our swords upon a pile of wood </l>
             <l xml:id="ftln-0129" n="1.1.129">Let’s hew his limbs till they be clean consumed. </l>
           </sp>
-          <stage xml:id="stg-0129.1"
-                      n="SD 1.1.129.1"
-                      type="exit"
-                      who="#Lucius_Tit #Mutius_Tit #Martius_Tit #Quintus_Tit #Alarbus_Tit">Exit Titus’ sons with Alarbus. </stage>
+          <stage xml:id="stg-0129.1" n="SD 1.1.129.1" type="exit" who="#Lucius_Tit #Mutius_Tit #Martius_Tit #Quintus_Tit #Alarbus_Tit">Exit Titus’ sons with Alarbus. </stage>
           <sp xml:id="sp-0130" who="#Tamora_Tit">
             <speaker xml:id="spk-0130">TAMORA </speaker>
             <stage xml:id="stg-0130.0" n="SD 1.1.130.0" type="delivery">, rising and speaking aside to her sons </stage>
@@ -628,10 +592,7 @@
             <l xml:id="ftln-0140" n="1.1.140">( When Goths were Goths, and Tamora was queen) </l>
             <l xml:id="ftln-0141" n="1.1.141">To quit the bloody wrongs upon her foes. </l>
           </sp>
-          <stage xml:id="stg-0141.1"
-                      n="SD 1.1.141.1"
-                      type="entrance"
-                      who="#Lucius_Tit #Mutius_Tit #Martius_Tit #Quintus_Tit">Enter the sons of Andronicus again with bloody swords. </stage>
+          <stage xml:id="stg-0141.1" n="SD 1.1.141.1" type="entrance" who="#Lucius_Tit #Mutius_Tit #Martius_Tit #Quintus_Tit">Enter the sons of Andronicus again with bloody swords. </stage>
           <sp xml:id="sp-0142" who="#Lucius_Tit">
             <speaker xml:id="spk-0142">LUCIUS </speaker>
             <l xml:id="ftln-0142" n="1.1.142">See, lord and father, how we have performed </l>
@@ -645,10 +606,7 @@
             <speaker xml:id="spk-0148">TITUS </speaker>
             <l xml:id="ftln-0148" n="1.1.148">Let it be so. And let Andronicus </l>
             <l xml:id="ftln-0149" n="1.1.149">Make this his latest farewell to their souls. </l>
-            <stage xml:id="stg-0149.1"
-                         n="SD 1.1.149.1"
-                         type="business"
-                         who="#Lucius_Tit #Mutius_Tit #Martius_Tit #Quintus_Tit">
+            <stage xml:id="stg-0149.1" n="SD 1.1.149.1" type="business" who="#Lucius_Tit #Mutius_Tit #Martius_Tit #Quintus_Tit">
               <stage xml:id="snd-0149.1" n="SD 1.1.149.1" type="sound" ana="trumpet">Sound trumpets, </stage> and lay the coffin in the tomb. </stage>
             <l xml:id="ftln-0150" n="1.1.150">In peace and honor rest you here, my sons, </l>
             <l xml:id="ftln-0151" n="1.1.151">Rome’s readiest champions, repose you here in rest, </l>
@@ -658,18 +616,12 @@
             <l xml:id="ftln-0155" n="1.1.155">No noise, but silence and eternal sleep. </l>
             <l xml:id="ftln-0156" n="1.1.156">In peace and honor rest you here, my sons. </l>
           </sp>
-          <stage xml:id="stg-0156.1"
-                      n="SD 1.1.156.1"
-                      type="entrance"
-                      who="#Lavinia_Tit">Enter Lavinia. </stage>
+          <stage xml:id="stg-0156.1" n="SD 1.1.156.1" type="entrance" who="#Lavinia_Tit">Enter Lavinia. </stage>
           <sp xml:id="sp-0157" who="#Lavinia_Tit">
             <speaker xml:id="spk-0157">LAVINIA </speaker>
             <l xml:id="ftln-0157" n="1.1.157">In peace and honor live Lord Titus long; </l>
             <l xml:id="ftln-0158" n="1.1.158">My noble lord and father, live in fame. </l>
-            <stage xml:id="stg-0158.1"
-                         n="SD 1.1.158.1"
-                         type="business"
-                         who="#Lavinia_Tit">She kneels. </stage>
+            <stage xml:id="stg-0158.1" n="SD 1.1.158.1" type="business" who="#Lavinia_Tit">She kneels. </stage>
             <l xml:id="ftln-0159" n="1.1.159">Lo, at this tomb my tributary tears </l>
             <l xml:id="ftln-0160" n="1.1.160">I render for my brethren’s obsequies, </l>
             <l xml:id="ftln-0161" n="1.1.161">And at thy feet I kneel, with tears of joy </l>
@@ -684,14 +636,8 @@
             <l xml:id="ftln-0167" n="1.1.167">Lavinia, live, outlive thy father’s days </l>
             <l xml:id="ftln-0168" n="1.1.168">And fame’s eternal date, for virtue’s praise. </l>
           </sp>
-          <stage xml:id="stg-0168.1"
-                      n="SD 1.1.168.1"
-                      type="business"
-                      who="#Lavinia_Tit">Lavinia rises. </stage>
-          <stage xml:id="stg-0168.2"
-                      n="SD 1.1.168.2"
-                      type="entrance"
-                      who="#Marcus_Tit #Saturninus_Tit #Bassianus_Tit #TRIBUNES_Tit #SENATORS_Tit #GUARDS_Tit">Enter Marcus Andronicus, carrying a white robe. Enter aloft Saturninus, Bassianus, Tribunes, Senators, and Guards. </stage>
+          <stage xml:id="stg-0168.1" n="SD 1.1.168.1" type="business" who="#Lavinia_Tit">Lavinia rises. </stage>
+          <stage xml:id="stg-0168.2" n="SD 1.1.168.2" type="entrance" who="#Marcus_Tit #Saturninus_Tit #Bassianus_Tit #TRIBUNES_Tit #SENATORS_Tit #GUARDS_Tit">Enter Marcus Andronicus, carrying a white robe. Enter aloft Saturninus, Bassianus, Tribunes, Senators, and Guards. </stage>
           <sp xml:id="sp-0169" who="#Marcus_Tit">
             <speaker xml:id="spk-0169">MARCUS </speaker>
             <l xml:id="ftln-0169" n="1.1.169">Long live Lord Titus, my belovèd brother, </l>
@@ -804,14 +750,8 @@
             <l xml:id="ftln-0234" n="1.1.234">Lord Saturninus Rome’s great emperor, </l>
             <l xml:id="ftln-0235" n="1.1.235">And say “ Long live our Emperor Saturnine.” </l>
           </sp>
-          <stage xml:id="stg-0235.1"
-                      n="SD 1.1.235.1"
-                      type="business"
-                      who="#Saturninus_Tit #Bassianus_Tit #GUARDS_Tit">
-            <stage xml:id="snd-0235.1"
-                         n="SD 1.1.235.1"
-                         type="sound"
-                         ana="flourish">A long flourish </stage> till Saturninus, Bassianus, and Guards come down. </stage>
+          <stage xml:id="stg-0235.1" n="SD 1.1.235.1" type="business" who="#Saturninus_Tit #Bassianus_Tit #GUARDS_Tit">
+            <stage xml:id="snd-0235.1" n="SD 1.1.235.1" type="sound" ana="flourish">A long flourish </stage> till Saturninus, Bassianus, and Guards come down. </stage>
           <sp xml:id="sp-0236" who="#Saturninus_Tit">
             <speaker xml:id="spk-0236">SATURNINUS </speaker>
             <l xml:id="ftln-0236" n="1.1.236">Titus Andronicus, for thy favors done </l>
@@ -877,17 +817,8 @@
             <l xml:id="ftln-0277" n="1.1.277">Ransomless here we set our prisoners free. </l>
             <l xml:id="ftln-0278" n="1.1.278">Proclaim our honors, lords, with trump and drum. </l>
           </sp>
-          <stage xml:id="stg-0278.1"
-                      n="SD 1.1.278.1"
-                      type="exit"
-                      who="#Saturninus_Tit #GUARDS_Tit #TRIBUNES_Tit #SENATORS_Tit">
-            <stage xml:id="snd-0278.1a"
-                         n="SD 1.1.278.1"
-                         type="sound"
-                         ana="flourish">Flourish. </stage> Saturninus and his Guards exit, <stage xml:id="snd-0278.1b"
-                         n="SD 1.1.278.1"
-                         type="sound"
-                         ana="drum trumpet">with Drums and Trumpets</stage>. Tribunes and Senators exit aloft. </stage>
+          <stage xml:id="stg-0278.1" n="SD 1.1.278.1" type="exit" who="#Saturninus_Tit #GUARDS_Tit #TRIBUNES_Tit #SENATORS_Tit">
+            <stage xml:id="snd-0278.1a" n="SD 1.1.278.1" type="sound" ana="flourish">Flourish. </stage> Saturninus and his Guards exit, <stage xml:id="snd-0278.1b" n="SD 1.1.278.1" type="sound" ana="drum trumpet">with Drums and Trumpets</stage>. Tribunes and Senators exit aloft. </stage>
           <sp xml:id="sp-0279" who="#Bassianus_Tit">
             <speaker xml:id="spk-0279">BASSIANUS </speaker>
             <l xml:id="ftln-0279" n="1.1.279">Lord Titus, by your leave, this maid is mine. </l>
@@ -901,10 +832,7 @@
             <l xml:id="ftln-0281" n="1.1.281">Ay, noble Titus, and resolved withal </l>
             <l xml:id="ftln-0282" n="1.1.282">To do myself this reason and this right. </l>
           </sp>
-          <stage xml:id="stg-0282.1"
-                      n="SD 1.1.282.1"
-                      type="business"
-                      who="#Bassianus_Tit #Lavinia_Tit">Bassianus takes Lavinia by the arm. </stage>
+          <stage xml:id="stg-0282.1" n="SD 1.1.282.1" type="business" who="#Bassianus_Tit #Lavinia_Tit">Bassianus takes Lavinia by the arm. </stage>
           <sp xml:id="sp-0283" who="#Marcus_Tit">
             <speaker xml:id="spk-0283">MARCUS </speaker>
             <l xml:id="ftln-0283" n="1.1.283">Suum cuique is our Roman justice. </l>
@@ -917,10 +845,7 @@
           <sp xml:id="sp-0286" who="#Titus_Tit">
             <speaker xml:id="spk-0286">TITUS </speaker>
             <l xml:id="ftln-0286" n="1.1.286">Traitors, avaunt! Where is the Emperor’s guard? </l>
-            <stage xml:id="stg-0286.1"
-                         n="SD 1.1.286.1"
-                         type="entrance"
-                         who="#Saturninus_Tit #GUARDS_Tit">Enter Saturninus and his Guards. </stage>
+            <stage xml:id="stg-0286.1" n="SD 1.1.286.1" type="entrance" who="#Saturninus_Tit #GUARDS_Tit">Enter Saturninus and his Guards. </stage>
             <l xml:id="ftln-0287" n="1.1.287">Treason, my lord. Lavinia is surprised. </l>
           </sp>
           <sp xml:id="sp-0288" who="#Saturninus_Tit">
@@ -937,19 +862,13 @@
             <l xml:id="ftln-0291" n="1.1.291">Brothers, help to convey her hence away, </l>
             <l xml:id="ftln-0292" n="1.1.292">And with my sword I’ll keep this door safe. </l>
           </sp>
-          <stage xml:id="stg-0292.1"
-                      n="SD 1.1.292.1"
-                      type="exit"
-                      who="#Bassianus_Tit #Lavinia_Tit #Marcus_Tit #Lucius_Tit #Quintus_Tit #Martius_Tit">Bassianus, Lavinia, Marcus, Lucius, Quintus, and Martius exit. </stage>
+          <stage xml:id="stg-0292.1" n="SD 1.1.292.1" type="exit" who="#Bassianus_Tit #Lavinia_Tit #Marcus_Tit #Lucius_Tit #Quintus_Tit #Martius_Tit">Bassianus, Lavinia, Marcus, Lucius, Quintus, and Martius exit. </stage>
           <sp xml:id="sp-0293" who="#Titus_Tit">
             <speaker xml:id="spk-0293">TITUS </speaker>
             <stage xml:id="stg-0293.0" n="SD 1.1.293.0" type="delivery">, to Saturninus </stage>
             <l xml:id="ftln-0293" n="1.1.293">Follow, my lord, and I’ll soon bring her back. </l>
           </sp>
-          <stage xml:id="stg-0293.1"
-                      n="SD 1.1.293.1"
-                      type="exit"
-                      who="#Saturninus_Tit #Tamora_Tit #Demetrius_Tit #Chiron_Tit #Aaron_Tit #GUARDS_Tit">Saturninus, Tamora, Demetrius, Chiron, Aaron, and Guards exit. </stage>
+          <stage xml:id="stg-0293.1" n="SD 1.1.293.1" type="exit" who="#Saturninus_Tit #Tamora_Tit #Demetrius_Tit #Chiron_Tit #Aaron_Tit #GUARDS_Tit">Saturninus, Tamora, Demetrius, Chiron, Aaron, and Guards exit. </stage>
           <sp xml:id="sp-0294" who="#Mutius_Tit">
             <speaker xml:id="spk-0294">MUTIUS </speaker>
             <l xml:id="ftln-0294" n="1.1.294" part="I">My lord, you pass not here. </l>
@@ -959,22 +878,13 @@
             <l xml:id="ftln-0295" n="1.1.295" part="F">What, villain boy, </l>
             <l xml:id="ftln-0296" n="1.1.296" part="I">Barr’st me my way in Rome? </l>
           </sp>
-          <stage xml:id="stg-0296.1"
-                      n="SD 1.1.296.1"
-                      type="business"
-                      who="#Titus_Tit #Mutius_Tit">He stabs Mutius. </stage>
+          <stage xml:id="stg-0296.1" n="SD 1.1.296.1" type="business" who="#Titus_Tit #Mutius_Tit">He stabs Mutius. </stage>
           <sp xml:id="sp-0297" who="#Mutius_Tit">
             <speaker xml:id="spk-0297">MUTIUS </speaker>
             <l xml:id="ftln-0297" n="1.1.297" part="F">Help, Lucius, help! </l>
           </sp>
-          <stage xml:id="stg-0297.1"
-                      n="SD 1.1.297.1"
-                      type="business"
-                      who="#Mutius_Tit">Mutius dies. </stage>
-          <stage xml:id="stg-0297.2"
-                      n="SD 1.1.297.2"
-                      type="entrance"
-                      who="#Lucius_Tit">Enter Lucius. </stage>
+          <stage xml:id="stg-0297.1" n="SD 1.1.297.1" type="business" who="#Mutius_Tit">Mutius dies. </stage>
+          <stage xml:id="stg-0297.2" n="SD 1.1.297.2" type="entrance" who="#Lucius_Tit">Enter Lucius. </stage>
           <sp xml:id="sp-0298" who="#Lucius_Tit">
             <speaker xml:id="spk-0298">LUCIUS </speaker>
             <l xml:id="ftln-0298" n="1.1.298">My lord, you are unjust, and more than so! </l>
@@ -986,10 +896,7 @@
             <l xml:id="ftln-0301" n="1.1.301">My sons would never so dishonor me. </l>
             <l xml:id="ftln-0302" n="1.1.302">Traitor, restore Lavinia to the Emperor. </l>
           </sp>
-          <stage xml:id="stg-0302.1"
-                      n="SD 1.1.302.1"
-                      type="entrance"
-                      who="#Saturninus_Tit #Tamora_Tit #Chiron_Tit #Demetrius_Tit #Aaron_Tit">Enter aloft the Emperor Saturninus with Tamora and her two sons and Aaron the Moor. </stage>
+          <stage xml:id="stg-0302.1" n="SD 1.1.302.1" type="entrance" who="#Saturninus_Tit #Tamora_Tit #Chiron_Tit #Demetrius_Tit #Aaron_Tit">Enter aloft the Emperor Saturninus with Tamora and her two sons and Aaron the Moor. </stage>
           <sp xml:id="sp-0303" who="#Lucius_Tit">
             <speaker xml:id="spk-0303">LUCIUS </speaker>
             <l xml:id="ftln-0303" n="1.1.303">Dead if you will, but not to be his wife </l>
@@ -1056,20 +963,14 @@
             <l xml:id="ftln-0343" n="1.1.343">Whose wisdom hath her fortune conquerèd. </l>
             <l xml:id="ftln-0344" n="1.1.344">There shall we consummate our spousal rites. </l>
           </sp>
-          <stage xml:id="stg-0344.1"
-                      n="SD 1.1.344.1"
-                      type="exit"
-                      who="#Saturninus_Tit #Tamora_Tit #Chiron_Tit #Demetrius_Tit #Aaron_Tit #Captain_Tit #ROMANS_Tit">All but Titus exit. </stage>
+          <stage xml:id="stg-0344.1" n="SD 1.1.344.1" type="exit" who="#Saturninus_Tit #Tamora_Tit #Chiron_Tit #Demetrius_Tit #Aaron_Tit #Captain_Tit #ROMANS_Tit">All but Titus exit. </stage>
           <sp xml:id="sp-0345" who="#Titus_Tit">
             <speaker xml:id="spk-0345">TITUS </speaker>
             <l xml:id="ftln-0345" n="1.1.345">I am not bid to wait upon this bride. </l>
             <l xml:id="ftln-0346" n="1.1.346">Titus, when wert thou wont to walk alone, </l>
             <l xml:id="ftln-0347" n="1.1.347">Dishonored thus and challengèd of wrongs? </l>
           </sp>
-          <stage xml:id="stg-0347.1"
-                      n="SD 1.1.347.1"
-                      type="entrance"
-                      who="#Marcus_Tit #Lucius_Tit #Martius_Tit #Quintus_Tit">Enter Marcus and Titus’ sons Lucius, Martius, and Quintus. </stage>
+          <stage xml:id="stg-0347.1" n="SD 1.1.347.1" type="entrance" who="#Marcus_Tit #Lucius_Tit #Martius_Tit #Quintus_Tit">Enter Marcus and Titus’ sons Lucius, Martius, and Quintus. </stage>
           <sp xml:id="sp-0348" who="#Marcus_Tit">
             <speaker xml:id="spk-0348">MARCUS </speaker>
             <l xml:id="ftln-0348" n="1.1.348">O Titus, see! O, see what thou hast done! </l>
@@ -1138,10 +1039,7 @@
             <speaker xml:id="spk-0376">MARTIUS </speaker>
             <l xml:id="ftln-0376" n="1.1.376">Not I, till Mutius’ bones be burièd. </l>
           </sp>
-          <stage xml:id="stg-0376.1"
-                      n="SD 1.1.376.1"
-                      type="business"
-                      who="#Marcus_Tit #Lucius_Tit #Martius_Tit #Quintus_Tit">The brother ( Marcus) and the sons( Lucius, Martius, and Quintus) kneel. </stage>
+          <stage xml:id="stg-0376.1" n="SD 1.1.376.1" type="business" who="#Marcus_Tit #Lucius_Tit #Martius_Tit #Quintus_Tit">The brother ( Marcus) and the sons( Lucius, Martius, and Quintus) kneel. </stage>
           <sp xml:id="sp-0377" who="#Marcus_Tit">
             <speaker xml:id="spk-0377">MARCUS </speaker>
             <l xml:id="ftln-0377" n="1.1.377">Brother, for in that name doth nature plead— </l>
@@ -1177,42 +1075,26 @@
           <sp xml:id="sp-0391" who="#Titus_Tit">
             <speaker xml:id="spk-0391">TITUS </speaker>
             <l xml:id="ftln-0391" n="1.1.391" part="F">Rise, Marcus, rise. </l>
-            <stage xml:id="stg-0391.1"
-                         n="SD 1.1.391.1"
-                         type="business"
-                         who="#Marcus_Tit #Lucius_Tit #Martius_Tit #Quintus_Tit">They rise. </stage>
+            <stage xml:id="stg-0391.1" n="SD 1.1.391.1" type="business" who="#Marcus_Tit #Lucius_Tit #Martius_Tit #Quintus_Tit">They rise. </stage>
             <l xml:id="ftln-0392" n="1.1.392">The dismall’st day is this that e’er I saw, </l>
             <l xml:id="ftln-0393" n="1.1.393">To be dishonored by my sons in Rome. </l>
             <l xml:id="ftln-0394" n="1.1.394">Well, bury him, and bury me the next. </l>
           </sp>
           <stage xml:id="stg-0394.1" n="SD 1.1.394.1" type="mixed">
-            <stage xml:id="stg-0394.1a"
-                         n="SD 1.1.394.1"
-                         type="business"
-                         who="#Marcus_Tit #Lucius_Tit #Martius_Tit #Quintus_Tit #Mutius_Tit">They put </stage>
-            <stage xml:id="stg-0394.1b"
-                         n="SD 1.1.394.1"
-                         type="exit"
-                         who="#Mutius_Tit">Mutius in the tomb. </stage>
+            <stage xml:id="stg-0394.1a" n="SD 1.1.394.1" type="business" who="#Marcus_Tit #Lucius_Tit #Martius_Tit #Quintus_Tit #Mutius_Tit">They put </stage>
+            <stage xml:id="stg-0394.1b" n="SD 1.1.394.1" type="exit" who="#Mutius_Tit">Mutius in the tomb. </stage>
           </stage>
           <sp xml:id="sp-0395" who="#Lucius_Tit">
             <speaker xml:id="spk-0395">LUCIUS </speaker>
             <l xml:id="ftln-0395" n="1.1.395">There lie thy bones, sweet Mutius, with thy friends’, </l>
             <l xml:id="ftln-0396" n="1.1.396">Till we with trophies do adorn thy tomb. </l>
           </sp>
-          <stage xml:id="stg-0396.1"
-                      n="SD 1.1.396.1"
-                      type="business"
-                      who="#Marcus_Tit #Lucius_Tit #Martius_Tit #Quintus_Tit">They all except Titus kneel and say: </stage>
-          <sp xml:id="sp-0397"
-                   who="#Marcus_Tit #Lucius_Tit #Martius_Tit #Quintus_Tit">
+          <stage xml:id="stg-0396.1" n="SD 1.1.396.1" type="business" who="#Marcus_Tit #Lucius_Tit #Martius_Tit #Quintus_Tit">They all except Titus kneel and say: </stage>
+          <sp xml:id="sp-0397" who="#Marcus_Tit #Lucius_Tit #Martius_Tit #Quintus_Tit">
             <l xml:id="ftln-0397" n="1.1.397">No man shed tears for noble Mutius. </l>
             <l xml:id="ftln-0398" n="1.1.398">He lives in fame, that died in virtue’s cause. </l>
           </sp>
-          <stage xml:id="stg-0398.1"
-                      n="SD 1.1.398.1"
-                      type="exit"
-                      who="#Lucius_Tit #Martius_Tit #Quintus_Tit">All but Marcus and Titus exit. </stage>
+          <stage xml:id="stg-0398.1" n="SD 1.1.398.1" type="exit" who="#Lucius_Tit #Martius_Tit #Quintus_Tit">All but Marcus and Titus exit. </stage>
           <sp xml:id="sp-0399" who="#Marcus_Tit">
             <speaker xml:id="spk-0399">MARCUS </speaker>
             <l xml:id="ftln-0399" n="1.1.399">My lord, to step out of these dreary dumps, </l>
@@ -1227,17 +1109,8 @@
             <l xml:id="ftln-0405" n="1.1.405">That brought her for this high good turn so far? </l>
             <l xml:id="ftln-0406" n="1.1.406">Yes, and will nobly him remunerate. </l>
           </sp>
-          <stage xml:id="stg-0406.1"
-                      n="SD 1.1.406.1"
-                      type="entrance"
-                      who="#Saturninus_Tit #Tamora_Tit #Chiron_Tit #Demetrius_Tit #Aaron_Tit #Bassianus_Tit #Lavinia_Tit #Lucius_Tit #Martius_Tit #Quintus_Tit">
-            <stage xml:id="snd-0406.1a"
-                         n="SD 1.1.406.1"
-                         type="sound"
-                         ana="flourish">Flourish. </stage> Enter the Emperor Saturninus, Tamora and her two sons, with Aaron the Moor, <stage xml:id="snd-0406.1b"
-                         n="SD 1.1.406.1"
-                         type="sound"
-                         ana="drum trumpet">Drums and Trumpets</stage>, at one door. Enter at the other door Bassianus and Lavinia, with Lucius, Martius, and Quintus, and others. </stage>
+          <stage xml:id="stg-0406.1" n="SD 1.1.406.1" type="entrance" who="#Saturninus_Tit #Tamora_Tit #Chiron_Tit #Demetrius_Tit #Aaron_Tit #Bassianus_Tit #Lavinia_Tit #Lucius_Tit #Martius_Tit #Quintus_Tit">
+            <stage xml:id="snd-0406.1a" n="SD 1.1.406.1" type="sound" ana="flourish">Flourish. </stage> Enter the Emperor Saturninus, Tamora and her two sons, with Aaron the Moor, <stage xml:id="snd-0406.1b" n="SD 1.1.406.1" type="sound" ana="drum trumpet">Drums and Trumpets</stage>, at one door. Enter at the other door Bassianus and Lavinia, with Lucius, Martius, and Quintus, and others. </stage>
           <sp xml:id="sp-0407" who="#Saturninus_Tit">
             <speaker xml:id="spk-0407">SATURNINUS </speaker>
             <l xml:id="ftln-0407" n="1.1.407">So, Bassianus, you have played your prize. </l>
@@ -1288,10 +1161,7 @@
             <l xml:id="ftln-0434" n="1.1.434">Rome and the righteous heavens be my judge </l>
             <l xml:id="ftln-0435" n="1.1.435">How I have loved and honored Saturnine. </l>
           </sp>
-          <stage xml:id="stg-0435"
-                      n="SD 1.1.435"
-                      type="business"
-                      who="#Titus_Tit">He kneels. </stage>
+          <stage xml:id="stg-0435" n="SD 1.1.435" type="business" who="#Titus_Tit">He kneels. </stage>
           <sp xml:id="sp-0436" who="#Tamora_Tit">
             <speaker xml:id="spk-0436">TAMORA </speaker>
             <stage xml:id="stg-0436.0" n="SD 1.1.436.0" type="delivery">, to Saturninus </stage>
@@ -1341,10 +1211,7 @@
           </sp>
           <sp xml:id="sp-0470" who="#Titus_Tit">
             <speaker xml:id="spk-0470">TITUS </speaker>
-            <stage xml:id="stg-0470.0"
-                         n="SD 1.1.470.0"
-                         type="business"
-                         who="#Titus_Tit">, rising </stage>
+            <stage xml:id="stg-0470.0" n="SD 1.1.470.0" type="business" who="#Titus_Tit">, rising </stage>
             <l xml:id="ftln-0470" n="1.1.470">I thank your Majesty and her, my lord. </l>
             <l xml:id="ftln-0471" n="1.1.471">These words, these looks, infuse new life in me. </l>
           </sp>
@@ -1363,10 +1230,7 @@
             <l xml:id="ftln-0482" n="1.1.482">By my advice, all humbled on your knees, </l>
             <l xml:id="ftln-0483" n="1.1.483">You shall ask pardon of his Majesty. </l>
           </sp>
-          <stage xml:id="stg-0483.1"
-                      n="SD 1.1.483.1"
-                      type="business"
-                      who="#Marcus_Tit #Lavinia_Tit #Lucius_Tit #Martius_Tit #Quintus_Tit">Marcus, Lavinia, Lucius, Martius, and Quintus kneel. </stage>
+          <stage xml:id="stg-0483.1" n="SD 1.1.483.1" type="business" who="#Marcus_Tit #Lavinia_Tit #Lucius_Tit #Martius_Tit #Quintus_Tit">Marcus, Lavinia, Lucius, Martius, and Quintus kneel. </stage>
           <sp xml:id="sp-0484" who="#Lucius_Tit">
             <speaker xml:id="spk-0484">LUCIUS </speaker>
             <l xml:id="ftln-0484" n="1.1.484">We do, and vow to heaven and to his Highness </l>
@@ -1393,10 +1257,7 @@
             <l xml:id="ftln-0493" n="1.1.493">And at my lovely Tamora’s entreats, </l>
             <l xml:id="ftln-0494" n="1.1.494">I do remit these young men’s heinous faults. </l>
             <l xml:id="ftln-0495" n="1.1.495" ana="#short">Stand up. </l>
-            <stage xml:id="stg-0495"
-                         n="SD 1.1.495"
-                         type="business"
-                         who="#Marcus_Tit #Lavinia_Tit #Lucius_Tit #Martius_Tit #Quintus_Tit">They rise. </stage>
+            <stage xml:id="stg-0495" n="SD 1.1.495" type="business" who="#Marcus_Tit #Lavinia_Tit #Lucius_Tit #Martius_Tit #Quintus_Tit">They rise. </stage>
             <l xml:id="ftln-0496" n="1.1.496">Lavinia, though you left me like a churl, </l>
             <l xml:id="ftln-0497" n="1.1.497">I found a friend, and sure as death I swore </l>
             <l xml:id="ftln-0498" n="1.1.498">I would not part a bachelor from the priest. </l>
@@ -1414,10 +1275,7 @@
             <speaker xml:id="spk-0505">SATURNINUS </speaker>
             <l xml:id="ftln-0505" n="1.1.505">Be it so, Titus, and gramercy too. </l>
           </sp>
-          <stage xml:id="stg-0505.1b"
-                      n="SD 1.1.505.1"
-                      type="exit"
-                      who="#Saturninus_Tit #Tamora_Tit #Chiron_Tit #Demetrius_Tit #Titus_Tit #Marcus_Tit #Bassianus_Tit #Lavinia_Tit #Lucius_Tit #Martius_Tit #Quintus_Tit">
+          <stage xml:id="stg-0505.1b" n="SD 1.1.505.1" type="exit" who="#Saturninus_Tit #Tamora_Tit #Chiron_Tit #Demetrius_Tit #Titus_Tit #Marcus_Tit #Bassianus_Tit #Lavinia_Tit #Lucius_Tit #Martius_Tit #Quintus_Tit">
             <stage xml:id="snd-0505.1" n="SD 1.1.505.1" type="sound" ana="trumpet">Sound trumpets. </stage> All but Aaron exit. </stage>
         </div>
       </div>
@@ -1453,10 +1311,7 @@
             <l xml:id="ftln-0529" n="2.1.24">And see his shipwrack and his commonweal’s. </l>
             <l xml:id="ftln-0530" n="2.1.25" ana="#short">Holla! What storm is this? </l>
           </sp>
-          <stage xml:id="stg-0530.1"
-                      n="SD 2.1.25.1"
-                      type="entrance"
-                      who="#Chiron_Tit #Demetrius_Tit">Enter Chiron and Demetrius, braving. </stage>
+          <stage xml:id="stg-0530.1" n="SD 2.1.25.1" type="entrance" who="#Chiron_Tit #Demetrius_Tit">Enter Chiron and Demetrius, braving. </stage>
           <sp xml:id="sp-0531" who="#Demetrius_Tit">
             <speaker xml:id="spk-0531">DEMETRIUS </speaker>
             <l xml:id="ftln-0531" n="2.1.26">Chiron, thy years wants wit, thy wits wants edge </l>
@@ -1497,10 +1352,7 @@
             <speaker xml:id="spk-0550">DEMETRIUS </speaker>
             <l xml:id="ftln-0550" n="2.1.45" part="I">Ay, boy, grow you so brave? </l>
           </sp>
-          <stage xml:id="stg-0550"
-                      n="SD 2.1.45"
-                      type="business"
-                      who="#Chiron_Tit #Demetrius_Tit">They draw. </stage>
+          <stage xml:id="stg-0550" n="SD 2.1.45" type="business" who="#Chiron_Tit #Demetrius_Tit">They draw. </stage>
           <sp xml:id="sp-0551" who="#Aaron_Tit">
             <speaker xml:id="spk-0551">AARON </speaker>
             <l xml:id="ftln-0551" n="2.1.46" part="F">Why, how now, lords? </l>
@@ -1662,20 +1514,11 @@
             <l xml:id="ftln-0647" n="2.1.142">To cool this heat, a charm to calm these fits, </l>
             <l xml:id="ftln-0648" n="2.1.143">Per Stygia, per manes vehor. </l>
           </sp>
-          <stage xml:id="stg-0648.1"
-                      n="SD 2.1.143.1"
-                      type="exit"
-                      who="#Chiron_Tit #Demetrius_Tit #Aaron_Tit">They exit. </stage>
+          <stage xml:id="stg-0648.1" n="SD 2.1.143.1" type="exit" who="#Chiron_Tit #Demetrius_Tit #Aaron_Tit">They exit. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-0648.2"
-                      n="SD 2.2.0"
-                      type="entrance"
-                      who="#Titus_Tit #Lucius_Tit #Martius_Tit #Quintus_Tit #Marcus_Tit">Enter Titus Andronicus and his three sons, and Marcus, <stage xml:id="snd-0648.2"
-                         n="SD 2.2.0"
-                         type="sound"
-                         ana="hunting horn">making a noise with hounds and horns</stage>. </stage>
+          <stage xml:id="stg-0648.2" n="SD 2.2.0" type="entrance" who="#Titus_Tit #Lucius_Tit #Martius_Tit #Quintus_Tit #Marcus_Tit">Enter Titus Andronicus and his three sons, and Marcus, <stage xml:id="snd-0648.2" n="SD 2.2.0" type="sound" ana="hunting horn">making a noise with hounds and horns</stage>. </stage>
           <sp xml:id="sp-0649" who="#Titus_Tit">
             <speaker xml:id="spk-0649">TITUS </speaker>
             <l xml:id="ftln-0649" n="2.2.1">The hunt is up, the moon is bright and gray, </l>
@@ -1691,15 +1534,9 @@
           </sp>
           <stage xml:id="stg-0658.1" n="SD 2.2.10.1" type="mixed">
             <stage xml:id="stg-0658.1a" n="SD 2.2.10.1" type="business">
-              <stage xml:id="snd-0658.1a"
-                            n="SD 2.2.10.1"
-                            type="sound"
-                            ana="hunting horn">Here a cry of hounds, and wind horns in a peal. </stage>
+              <stage xml:id="snd-0658.1a" n="SD 2.2.10.1" type="sound" ana="hunting horn">Here a cry of hounds, and wind horns in a peal. </stage>
             </stage>
-            <stage xml:id="stg-0658.1b"
-                         n="SD 2.2.10.1"
-                         type="entrance"
-                         who="#Saturninus_Tit #Tamora_Tit #Bassianus_Tit #Lavinia_Tit #Chiron_Tit #Demetrius_Tit #ATTENDANTS_Tit">Then enter Saturninus, Tamora, Bassianus, Lavinia, Chiron, Demetrius, and their Attendants. </stage>
+            <stage xml:id="stg-0658.1b" n="SD 2.2.10.1" type="entrance" who="#Saturninus_Tit #Tamora_Tit #Bassianus_Tit #Lavinia_Tit #Chiron_Tit #Demetrius_Tit #ATTENDANTS_Tit">Then enter Saturninus, Tamora, Bassianus, Lavinia, Chiron, Demetrius, and their Attendants. </stage>
           </stage>
           <sp xml:id="sp-0659" who="#Titus_Tit">
             <speaker xml:id="spk-0659">TITUS </speaker>
@@ -1744,17 +1581,11 @@
             <l xml:id="ftln-0676" n="2.2.28">Chiron, we hunt not, we, with horse nor hound, </l>
             <l xml:id="ftln-0677" n="2.2.29">But hope to pluck a dainty doe to ground. </l>
           </sp>
-          <stage xml:id="stg-0677.1"
-                      n="SD 2.2.29.1"
-                      type="exit"
-                      who="#Saturninus_Tit #Tamora_Tit #Bassianus_Tit #Lavinia_Tit #Chiron_Tit #Demetrius_Tit #ATTENDANTS_Tit #Titus_Tit #Marcus_Tit #Lucius_Tit #Martius_Tit #Quintus_Tit">They exit. </stage>
+          <stage xml:id="stg-0677.1" n="SD 2.2.29.1" type="exit" who="#Saturninus_Tit #Tamora_Tit #Bassianus_Tit #Lavinia_Tit #Chiron_Tit #Demetrius_Tit #ATTENDANTS_Tit #Titus_Tit #Marcus_Tit #Lucius_Tit #Martius_Tit #Quintus_Tit">They exit. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-0677.2"
-                      n="SD 2.3.0"
-                      type="entrance"
-                      who="#Aaron_Tit">Enter Aaron, alone, carrying a bag of gold. </stage>
+          <stage xml:id="stg-0677.2" n="SD 2.3.0" type="entrance" who="#Aaron_Tit">Enter Aaron, alone, carrying a bag of gold. </stage>
           <sp xml:id="sp-0678" who="#Aaron_Tit">
             <speaker xml:id="spk-0678">AARON </speaker>
             <l xml:id="ftln-0678" n="2.3.1">He that had wit would think that I had none, </l>
@@ -1768,10 +1599,7 @@
             <l xml:id="ftln-0685" n="2.3.8">And so repose, sweet gold, for their unrest </l>
             <l xml:id="ftln-0686" n="2.3.9">That have their alms out of the Empress’ chest. </l>
           </sp>
-          <stage xml:id="stg-0686.1"
-                      n="SD 2.3.9.1"
-                      type="entrance"
-                      who="#Tamora_Tit">Enter Tamora alone to Aaron the Moor. </stage>
+          <stage xml:id="stg-0686.1" n="SD 2.3.9.1" type="entrance" who="#Tamora_Tit">Enter Tamora alone to Aaron the Moor. </stage>
           <sp xml:id="sp-0687" who="#Tamora_Tit">
             <speaker xml:id="spk-0687">TAMORA </speaker>
             <l xml:id="ftln-0687" n="2.3.10">My lovely Aaron, wherefore look’st thou sad, </l>
@@ -1813,24 +1641,15 @@
             <l xml:id="ftln-0720" n="2.3.43">His Philomel must lose her tongue today, </l>
             <l xml:id="ftln-0721" n="2.3.44">Thy sons make pillage of her chastity </l>
             <l xml:id="ftln-0722" n="2.3.45">And wash their hands in Bassianus’ blood. </l>
-            <stage xml:id="stg-0722.1"
-                         n="SD 2.3.45.1"
-                         type="business"
-                         who="#Aaron_Tit">He takes out a paper. </stage>
+            <stage xml:id="stg-0722.1" n="SD 2.3.45.1" type="business" who="#Aaron_Tit">He takes out a paper. </stage>
             <l xml:id="ftln-0723" n="2.3.46">Seest thou this letter? Take it up, I pray thee, </l>
             <l xml:id="ftln-0724" n="2.3.47">And give the King this fatal-plotted scroll. </l>
-            <stage xml:id="stg-0724.1"
-                         n="SD 2.3.47.1"
-                         type="business"
-                         who="#Aaron_Tit #Tamora_Tit">He hands her the paper. </stage>
+            <stage xml:id="stg-0724.1" n="SD 2.3.47.1" type="business" who="#Aaron_Tit #Tamora_Tit">He hands her the paper. </stage>
             <l xml:id="ftln-0725" n="2.3.48">Now, question me no more. We are espied. </l>
             <l xml:id="ftln-0726" n="2.3.49">Here comes a parcel of our hopeful booty, </l>
             <l xml:id="ftln-0727" n="2.3.50">Which dreads not yet their lives’ destruction. </l>
           </sp>
-          <stage xml:id="stg-0727.1"
-                      n="SD 2.3.50.1"
-                      type="entrance"
-                      who="#Bassianus_Tit #Lavinia_Tit">Enter Bassianus and Lavinia. </stage>
+          <stage xml:id="stg-0727.1" n="SD 2.3.50.1" type="entrance" who="#Bassianus_Tit #Lavinia_Tit">Enter Bassianus and Lavinia. </stage>
           <sp xml:id="sp-0728" who="#Tamora_Tit">
             <speaker xml:id="spk-0728">TAMORA </speaker>
             <l xml:id="ftln-0728" n="2.3.51">Ah, my sweet Moor, sweeter to me than life! </l>
@@ -1841,10 +1660,7 @@
             <l xml:id="ftln-0730" n="2.3.53">Be cross with him, and I’ll go fetch thy sons </l>
             <l xml:id="ftln-0731" n="2.3.54">To back thy quarrels, whatsoe’er they be. </l>
           </sp>
-          <stage xml:id="stg-0731.1"
-                      n="SD 2.3.54.1"
-                      type="exit"
-                      who="#Aaron_Tit">He exits. </stage>
+          <stage xml:id="stg-0731.1" n="SD 2.3.54.1" type="exit" who="#Aaron_Tit">He exits. </stage>
           <sp xml:id="sp-0732" who="#Bassianus_Tit">
             <speaker xml:id="spk-0732">BASSIANUS </speaker>
             <l xml:id="ftln-0732" n="2.3.55">Who have we here? Rome’s royal empress, </l>
@@ -1903,10 +1719,7 @@
             <speaker xml:id="spk-0765">TAMORA </speaker>
             <l xml:id="ftln-0765" n="2.3.88">Why, I have patience to endure all this. </l>
           </sp>
-          <stage xml:id="stg-0765.1"
-                      n="SD 2.3.88.1"
-                      type="entrance"
-                      who="#Chiron_Tit #Demetrius_Tit">Enter Chiron and Demetrius. </stage>
+          <stage xml:id="stg-0765.1" n="SD 2.3.88.1" type="entrance" who="#Chiron_Tit #Demetrius_Tit">Enter Chiron and Demetrius. </stage>
           <sp xml:id="sp-0766" who="#Demetrius_Tit">
             <speaker xml:id="spk-0766">DEMETRIUS </speaker>
             <l xml:id="ftln-0766" n="2.3.89">How now, dear sovereign and our gracious mother, </l>
@@ -1942,24 +1755,15 @@
           </sp>
           <sp xml:id="sp-0793" who="#Demetrius_Tit">
             <speaker xml:id="spk-0793">DEMETRIUS </speaker>
-            <stage xml:id="stg-0793.0"
-                         n="SD 2.3.116.0"
-                         type="business"
-                         who="#Demetrius_Tit">, drawing his dagger </stage>
+            <stage xml:id="stg-0793.0" n="SD 2.3.116.0" type="business" who="#Demetrius_Tit">, drawing his dagger </stage>
             <l xml:id="ftln-0793" n="2.3.116">This is a witness that I am thy son. </l>
           </sp>
           <sp xml:id="sp-0794" who="#Chiron_Tit">
             <speaker xml:id="spk-0794">CHIRON </speaker>
-            <stage xml:id="stg-0794.0"
-                         n="SD 2.3.117.0"
-                         type="business"
-                         who="#Chiron_Tit">, drawing his dagger </stage>
+            <stage xml:id="stg-0794.0" n="SD 2.3.117.0" type="business" who="#Chiron_Tit">, drawing his dagger </stage>
             <l xml:id="ftln-0794" n="2.3.117">And this for me, struck home to show my strength. </l>
           </sp>
-          <stage xml:id="stg-0794.1"
-                      n="SD 2.3.117.1"
-                      type="business"
-                      who="#Chiron_Tit #Demetrius_Tit #Bassianus_Tit">They stab Bassianus. </stage>
+          <stage xml:id="stg-0794.1" n="SD 2.3.117.1" type="business" who="#Chiron_Tit #Demetrius_Tit #Bassianus_Tit">They stab Bassianus. </stage>
           <sp xml:id="sp-0795" who="#Lavinia_Tit">
             <speaker xml:id="spk-0795">LAVINIA </speaker>
             <l xml:id="ftln-0795" n="2.3.118">Ay, come, Semiramis, nay, barbarous Tamora, </l>
@@ -2103,13 +1907,7 @@
             <l xml:id="ftln-0864" n="2.3.187">This is the hole where Aaron bid us hide him. </l>
           </sp>
           <stage xml:id="stg-0864.1" n="SD 2.3.187.1" type="mixed">
-            <stage xml:id="stg-0864.1a"
-                         n="SD 2.3.187.1"
-                         type="business"
-                         who="#Chiron_Tit #Demetrius_Tit #Bassianus_Tit">They put Bassianus’ body in the pit </stage> and <stage xml:id="stg-0864.1b"
-                         n="SD 2.3.187.1"
-                         type="exit"
-                         who="#Chiron_Tit #Demetrius_Tit #Lavinia_Tit">exit, carrying off Lavinia. </stage>
+            <stage xml:id="stg-0864.1a" n="SD 2.3.187.1" type="business" who="#Chiron_Tit #Demetrius_Tit #Bassianus_Tit">They put Bassianus’ body in the pit </stage> and <stage xml:id="stg-0864.1b" n="SD 2.3.187.1" type="exit" who="#Chiron_Tit #Demetrius_Tit #Lavinia_Tit">exit, carrying off Lavinia. </stage>
           </stage>
           <sp xml:id="sp-0865" who="#Tamora_Tit">
             <speaker xml:id="spk-0865">TAMORA </speaker>
@@ -2119,14 +1917,8 @@
             <l xml:id="ftln-0868" n="2.3.191">Now will I hence to seek my lovely Moor, </l>
             <l xml:id="ftln-0869" n="2.3.192">And let my spleenful sons this trull deflower. </l>
           </sp>
-          <stage xml:id="stg-0869.1"
-                      n="SD 2.3.192.1"
-                      type="exit"
-                      who="#Tamora_Tit">She exits. </stage>
-          <stage xml:id="stg-0869.2"
-                      n="SD 2.3.192.2"
-                      type="entrance"
-                      who="#Aaron_Tit #Quintus_Tit #Martius_Tit">Enter Aaron with two of Titus’ sons, Quintus and Martius. </stage>
+          <stage xml:id="stg-0869.1" n="SD 2.3.192.1" type="exit" who="#Tamora_Tit">She exits. </stage>
+          <stage xml:id="stg-0869.2" n="SD 2.3.192.2" type="entrance" who="#Aaron_Tit #Quintus_Tit #Martius_Tit">Enter Aaron with two of Titus’ sons, Quintus and Martius. </stage>
           <sp xml:id="sp-0870" who="#Aaron_Tit">
             <speaker xml:id="spk-0870">AARON </speaker>
             <l xml:id="ftln-0870" n="2.3.193">Come on, my lords, the better foot before. </l>
@@ -2142,10 +1934,7 @@
             <l xml:id="ftln-0874" n="2.3.197">And mine, I promise you. Were it not for shame, </l>
             <l xml:id="ftln-0875" n="2.3.198">Well could I leave our sport to sleep awhile. </l>
           </sp>
-          <stage xml:id="stg-0875.1"
-                      n="SD 2.3.198.1"
-                      type="business"
-                      who="#Martius_Tit">He falls into the pit. </stage>
+          <stage xml:id="stg-0875.1" n="SD 2.3.198.1" type="business" who="#Martius_Tit">He falls into the pit. </stage>
           <sp xml:id="sp-0876" who="#Quintus_Tit">
             <speaker xml:id="spk-0876">QUINTUS </speaker>
             <l xml:id="ftln-0876" n="2.3.199">What, art thou fallen? What subtle hole is this, </l>
@@ -2167,10 +1956,7 @@
             <l xml:id="ftln-0885" n="2.3.208">That he thereby may have a likely guess </l>
             <l xml:id="ftln-0886" n="2.3.209">How these were they that made away his brother. </l>
           </sp>
-          <stage xml:id="stg-0886.1"
-                      n="SD 2.3.209.1"
-                      type="exit"
-                      who="#Aaron_Tit">He exits. </stage>
+          <stage xml:id="stg-0886.1" n="SD 2.3.209.1" type="exit" who="#Aaron_Tit">He exits. </stage>
           <sp xml:id="sp-0887" who="#Martius_Tit">
             <speaker xml:id="spk-0887">MARTIUS </speaker>
             <l xml:id="ftln-0887" n="2.3.210">Why dost not comfort me and help me out </l>
@@ -2222,18 +2008,12 @@
           </sp>
           <sp xml:id="sp-0915" who="#Quintus_Tit">
             <speaker xml:id="spk-0915">QUINTUS </speaker>
-            <stage xml:id="stg-0915.0"
-                         n="SD 2.3.238.0"
-                         type="business"
-                         who="#Quintus_Tit">, reaching into the pit </stage>
+            <stage xml:id="stg-0915.0" n="SD 2.3.238.0" type="business" who="#Quintus_Tit">, reaching into the pit </stage>
             <l xml:id="ftln-0915" n="2.3.238">Reach me thy hand, that I may help thee out, </l>
             <l xml:id="ftln-0916" n="2.3.239">Or, wanting strength to do thee so much good, </l>
             <l xml:id="ftln-0917" n="2.3.240">I may be plucked into the swallowing womb </l>
             <l xml:id="ftln-0918" n="2.3.241">Of this deep pit, poor Bassianus’ grave. </l>
-            <stage xml:id="stg-0918.1"
-                         n="SD 2.3.241.1"
-                         type="business"
-                         who="#Quintus_Tit #Martius_Tit">He pulls Martius’ hand. </stage>
+            <stage xml:id="stg-0918.1" n="SD 2.3.241.1" type="business" who="#Quintus_Tit #Martius_Tit">He pulls Martius’ hand. </stage>
             <l xml:id="ftln-0919" n="2.3.242">I have no strength to pluck thee to the brink. </l>
           </sp>
           <sp xml:id="sp-0920" who="#Martius_Tit">
@@ -2246,14 +2026,8 @@
             <l xml:id="ftln-0922" n="2.3.245">Till thou art here aloft or I below. </l>
             <l xml:id="ftln-0923" n="2.3.246">Thou canst not come to me. I come to thee. </l>
           </sp>
-          <stage xml:id="stg-0923.1"
-                      n="SD 2.3.246.1"
-                      type="business"
-                      who="#Quintus_Tit">He falls in. </stage>
-          <stage xml:id="stg-0923.2"
-                      n="SD 2.3.246.2"
-                      type="entrance"
-                      who="#Saturninus_Tit #ATTENDANTS_Tit #Aaron_Tit">Enter the Emperor Saturninus, with Attendants, and Aaron the Moor. </stage>
+          <stage xml:id="stg-0923.1" n="SD 2.3.246.1" type="business" who="#Quintus_Tit">He falls in. </stage>
+          <stage xml:id="stg-0923.2" n="SD 2.3.246.2" type="entrance" who="#Saturninus_Tit #ATTENDANTS_Tit #Aaron_Tit">Enter the Emperor Saturninus, with Attendants, and Aaron the Moor. </stage>
           <sp xml:id="sp-0924" who="#Saturninus_Tit">
             <speaker xml:id="spk-0924">SATURNINUS </speaker>
             <l xml:id="ftln-0924" n="2.3.247">Along with me! I’ll see what hole is here </l>
@@ -2279,10 +2053,7 @@
             <l xml:id="ftln-0935" n="2.3.258">We know not where you left them all alive, </l>
             <l xml:id="ftln-0936" n="2.3.259">But, out alas, here have we found him dead. </l>
           </sp>
-          <stage xml:id="stg-0936.1"
-                      n="SD 2.3.259.1"
-                      type="entrance"
-                      who="#Tamora_Tit #Titus_Tit #Lucius_Tit">Enter Tamora, Titus Andronicus, and Lucius. </stage>
+          <stage xml:id="stg-0936.1" n="SD 2.3.259.1" type="entrance" who="#Tamora_Tit #Titus_Tit #Lucius_Tit">Enter Tamora, Titus Andronicus, and Lucius. </stage>
           <sp xml:id="sp-0937" who="#Tamora_Tit">
             <speaker xml:id="spk-0937">TAMORA </speaker>
             <l xml:id="ftln-0937" n="2.3.260" ana="#short">Where is my lord the King? </l>
@@ -2307,10 +2078,7 @@
             <l xml:id="ftln-0944" n="2.3.267">And wonder greatly that man’s face can fold </l>
             <l xml:id="ftln-0945" n="2.3.268">In pleasing smiles such murderous tyranny. </l>
           </sp>
-          <stage xml:id="stg-0945.1"
-                      n="SD 2.3.268.1"
-                      type="business"
-                      who="#Tamora_Tit #Saturninus_Tit">She giveth Saturnine a letter. </stage>
+          <stage xml:id="stg-0945.1" n="SD 2.3.268.1" type="business" who="#Tamora_Tit #Saturninus_Tit">She giveth Saturnine a letter. </stage>
           <sp xml:id="sp-0946" who="#Saturninus_Tit">
             <speaker xml:id="spk-0946">SATURNINUS </speaker>
             <stage xml:id="stg-0946.0" n="SD 2.3.269.0" type="delivery"> ( reads the letter): </stage>
@@ -2347,16 +2115,10 @@
             <l xml:id="ftln-0964" n="2.3.287">What, are they in this pit? O wondrous thing! </l>
             <l xml:id="ftln-0965" n="2.3.288">How easily murder is discoverèd. </l>
           </sp>
-          <stage xml:id="stg-0965.1"
-                      n="SD 2.3.288.1"
-                      type="business"
-                      who="#ATTENDANTS_Tit #Quintus_Tit #Martius_Tit #Bassianus_Tit">Attendants pull Quintus, Martius, and the body of Bassianus from the pit. </stage>
+          <stage xml:id="stg-0965.1" n="SD 2.3.288.1" type="business" who="#ATTENDANTS_Tit #Quintus_Tit #Martius_Tit #Bassianus_Tit">Attendants pull Quintus, Martius, and the body of Bassianus from the pit. </stage>
           <sp xml:id="sp-0966" who="#Titus_Tit">
             <speaker xml:id="spk-0966">TITUS </speaker>
-            <stage xml:id="stg-0966.0"
-                         n="SD 2.3.289.0"
-                         type="business"
-                         who="#Titus_Tit">, kneeling </stage>
+            <stage xml:id="stg-0966.0" n="SD 2.3.289.0" type="business" who="#Titus_Tit">, kneeling </stage>
             <l xml:id="ftln-0966" n="2.3.289">High Emperor, upon my feeble knee </l>
             <l xml:id="ftln-0967" n="2.3.290">I beg this boon with tears not lightly shed, </l>
             <l xml:id="ftln-0968" n="2.3.291">That this fell fault of my accursèd sons— </l>
@@ -2393,23 +2155,14 @@
           </sp>
           <sp xml:id="sp-0984" who="#Titus_Tit">
             <speaker xml:id="spk-0984">TITUS </speaker>
-            <stage xml:id="stg-0984.0"
-                         n="SD 2.3.307.0"
-                         type="business"
-                         who="#Titus_Tit">, rising </stage>
+            <stage xml:id="stg-0984.0" n="SD 2.3.307.0" type="business" who="#Titus_Tit">, rising </stage>
             <l xml:id="ftln-0984" n="2.3.307">Come, Lucius, come. Stay not to talk with them. </l>
           </sp>
-          <stage xml:id="stg-0984.1"
-                      n="SD 2.3.307.1"
-                      type="exit"
-                      who="#Saturninus_Tit #Tamora_Tit #Aaron_Tit #Titus_Tit #Lucius_Tit #Martius_Tit #Quintus_Tit #Bassianus_Tit #ATTENDANTS_Tit">They exit, with Attendants leading Martius and Quintus and bearing the body of Bassianus. </stage>
+          <stage xml:id="stg-0984.1" n="SD 2.3.307.1" type="exit" who="#Saturninus_Tit #Tamora_Tit #Aaron_Tit #Titus_Tit #Lucius_Tit #Martius_Tit #Quintus_Tit #Bassianus_Tit #ATTENDANTS_Tit">They exit, with Attendants leading Martius and Quintus and bearing the body of Bassianus. </stage>
         </div>
         <div type="scene" n="4">
           <head>Scene 4 </head>
-          <stage xml:id="stg-0984.2"
-                      n="SD 2.4.0"
-                      type="entrance"
-                      who="#Chiron_Tit #Demetrius_Tit #Lavinia_Tit">Enter the Empress’ sons, Demetrius and Chiron, with Lavinia, her hands cut off, and her tongue cut out, and ravished. </stage>
+          <stage xml:id="stg-0984.2" n="SD 2.4.0" type="entrance" who="#Chiron_Tit #Demetrius_Tit #Lavinia_Tit">Enter the Empress’ sons, Demetrius and Chiron, with Lavinia, her hands cut off, and her tongue cut out, and ravished. </stage>
           <sp xml:id="sp-0985" who="#Demetrius_Tit">
             <speaker xml:id="spk-0985">DEMETRIUS </speaker>
             <l xml:id="ftln-0985" n="2.4.1">So, now go tell, an if thy tongue can speak, </l>
@@ -2442,14 +2195,8 @@
             <speaker xml:id="spk-0994">DEMETRIUS </speaker>
             <l xml:id="ftln-0994" n="2.4.10">If thou hadst hands to help thee knit the cord. </l>
           </sp>
-          <stage xml:id="stg-0994.1"
-                      n="SD 2.4.10.1"
-                      type="exit"
-                      who="#Chiron_Tit #Demetrius_Tit">Chiron and Demetrius exit. </stage>
-          <stage xml:id="stg-0994.2"
-                      n="SD 2.4.10.2"
-                      type="entrance"
-                      who="#Marcus_Tit">Enter Marcus from hunting. </stage>
+          <stage xml:id="stg-0994.1" n="SD 2.4.10.1" type="exit" who="#Chiron_Tit #Demetrius_Tit">Chiron and Demetrius exit. </stage>
+          <stage xml:id="stg-0994.2" n="SD 2.4.10.2" type="entrance" who="#Marcus_Tit">Enter Marcus from hunting. </stage>
           <sp xml:id="sp-0995" who="#Marcus_Tit">
             <speaker xml:id="spk-0995">MARCUS </speaker>
             <l xml:id="ftln-0995" n="2.4.11">Who is this? My niece, that flies away so fast?— </l>
@@ -2500,20 +2247,14 @@
             <l xml:id="ftln-1040" n="2.4.56">Do not draw back, for we will mourn with thee. </l>
             <l xml:id="ftln-1041" n="2.4.57">O, could our mourning ease thy misery! </l>
           </sp>
-          <stage xml:id="stg-1041.1"
-                      n="SD 2.4.57.1"
-                      type="exit"
-                      who="#Marcus_Tit #Lavinia_Tit">They exit. </stage>
+          <stage xml:id="stg-1041.1" n="SD 2.4.57.1" type="exit" who="#Marcus_Tit #Lavinia_Tit">They exit. </stage>
         </div>
       </div>
       <div type="act" n="3">
         <head>ACT 3 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-1041.2"
-                      n="SD 3.1.0"
-                      type="entrance"
-                      who="#TRIBUNES_Tit #SENATORS_Tit #Quintus_Tit #Martius_Tit #Titus_Tit">Enter the Judges and Senators with Titus’ two sons( Quintus and Martius) bound, passing on the stage to the place of execution, and Titus going before, pleading. </stage>
+          <stage xml:id="stg-1041.2" n="SD 3.1.0" type="entrance" who="#TRIBUNES_Tit #SENATORS_Tit #Quintus_Tit #Martius_Tit #Titus_Tit">Enter the Judges and Senators with Titus’ two sons( Quintus and Martius) bound, passing on the stage to the place of execution, and Titus going before, pleading. </stage>
           <sp xml:id="sp-1042" who="#Titus_Tit">
             <speaker xml:id="spk-1042">TITUS </speaker>
             <l xml:id="ftln-1042" n="3.1.1">Hear me, grave fathers; noble tribunes, stay. </l>
@@ -2527,14 +2268,8 @@
             <l xml:id="ftln-1050" n="3.1.9">Whose souls is not corrupted as ’tis thought. </l>
             <l xml:id="ftln-1051" n="3.1.10">For two-and-twenty sons I never wept </l>
             <l xml:id="ftln-1052" n="3.1.11">Because they died in honor’s lofty bed. </l>
-            <stage xml:id="stg-1052.1"
-                         n="SD 3.1.11.1"
-                         type="business"
-                         who="#Titus_Tit #TRIBUNES_Tit #SENATORS_Tit">Andronicus lieth down, and the Judges pass by him. </stage>
-            <stage xml:id="stg-1052.2"
-                         n="SD 3.1.11.2"
-                         type="exit"
-                         who="#TRIBUNES_Tit #SENATORS_Tit #Quintus_Tit #Martius_Tit">They exit with the prisoners as Titus continues speaking. </stage>
+            <stage xml:id="stg-1052.1" n="SD 3.1.11.1" type="business" who="#Titus_Tit #TRIBUNES_Tit #SENATORS_Tit">Andronicus lieth down, and the Judges pass by him. </stage>
+            <stage xml:id="stg-1052.2" n="SD 3.1.11.2" type="exit" who="#TRIBUNES_Tit #SENATORS_Tit #Quintus_Tit #Martius_Tit">They exit with the prisoners as Titus continues speaking. </stage>
             <l xml:id="ftln-1053" n="3.1.12">For these, tribunes, in the dust I write </l>
             <l xml:id="ftln-1054" n="3.1.13">My heart’s deep languor and my soul’s sad tears. </l>
             <l xml:id="ftln-1055" n="3.1.14">Let my tears stanch the earth’s dry appetite. </l>
@@ -2546,10 +2281,7 @@
             <l xml:id="ftln-1061" n="3.1.20">In winter with warm tears I’ll melt the snow </l>
             <l xml:id="ftln-1062" n="3.1.21">And keep eternal springtime on thy face, </l>
             <l xml:id="ftln-1063" n="3.1.22">So thou refuse to drink my dear sons’ blood. </l>
-            <stage xml:id="stg-1063.1"
-                         n="SD 3.1.22.1"
-                         type="entrance"
-                         who="#Lucius_Tit">Enter Lucius with his weapon drawn. </stage>
+            <stage xml:id="stg-1063.1" n="SD 3.1.22.1" type="entrance" who="#Lucius_Tit">Enter Lucius with his weapon drawn. </stage>
             <l xml:id="ftln-1064" n="3.1.23">O reverend tribunes, O gentle agèd men, </l>
             <l xml:id="ftln-1065" n="3.1.24">Unbind my sons, reverse the doom of death, </l>
             <l xml:id="ftln-1066" n="3.1.25">And let me say, that never wept before, </l>
@@ -2597,10 +2329,7 @@
           </sp>
           <sp xml:id="sp-1094" who="#Titus_Tit">
             <speaker xml:id="spk-1094">TITUS </speaker>
-            <stage xml:id="stg-1094.0"
-                         n="SD 3.1.53.0"
-                         type="business"
-                         who="#Titus_Tit">, rising </stage>
+            <stage xml:id="stg-1094.0" n="SD 3.1.53.0" type="business" who="#Titus_Tit">, rising </stage>
             <l xml:id="ftln-1094" n="3.1.53">O happy man, they have befriended thee! </l>
             <l xml:id="ftln-1095" n="3.1.54">Why, foolish Lucius, dost thou not perceive </l>
             <l xml:id="ftln-1096" n="3.1.55">That Rome is but a wilderness of tigers? </l>
@@ -2609,10 +2338,7 @@
             <l xml:id="ftln-1099" n="3.1.58">From these devourers to be banishèd. </l>
             <l xml:id="ftln-1100" n="3.1.59">But who comes with our brother Marcus here? </l>
           </sp>
-          <stage xml:id="stg-1100.1"
-                      n="SD 3.1.59.1"
-                      type="entrance"
-                      who="#Marcus_Tit #Lavinia_Tit">Enter Marcus with Lavinia. </stage>
+          <stage xml:id="stg-1100.1" n="SD 3.1.59.1" type="entrance" who="#Marcus_Tit #Lavinia_Tit">Enter Marcus with Lavinia. </stage>
           <sp xml:id="sp-1101" who="#Marcus_Tit">
             <speaker xml:id="spk-1101">MARCUS </speaker>
             <l xml:id="ftln-1101" n="3.1.60">Titus, prepare thy agèd eyes to weep, </l>
@@ -2759,10 +2485,7 @@
             <l xml:id="ftln-1191" n="3.1.150">O, what a sympathy of woe is this, </l>
             <l xml:id="ftln-1192" n="3.1.151">As far from help as limbo is from bliss. </l>
           </sp>
-          <stage xml:id="stg-1192.1"
-                      n="SD 3.1.151.1"
-                      type="entrance"
-                      who="#Aaron_Tit">Enter Aaron the Moor alone. </stage>
+          <stage xml:id="stg-1192.1" n="SD 3.1.151.1" type="entrance" who="#Aaron_Tit">Enter Aaron the Moor alone. </stage>
           <sp xml:id="sp-1193" who="#Aaron_Tit">
             <speaker xml:id="spk-1193">AARON </speaker>
             <l xml:id="ftln-1193" n="3.1.152">Titus Andronicus, my lord the Emperor </l>
@@ -2839,10 +2562,7 @@
             <speaker xml:id="spk-1229">MARCUS </speaker>
             <l xml:id="ftln-1229" n="3.1.188" ana="#short">But I will use the ax. </l>
           </sp>
-          <stage xml:id="stg-1229"
-                      n="SD 3.1.188"
-                      type="exit"
-                      who="#Lucius_Tit #Marcus_Tit">Lucius and Marcus exit. </stage>
+          <stage xml:id="stg-1229" n="SD 3.1.188" type="exit" who="#Lucius_Tit #Marcus_Tit">Lucius and Marcus exit. </stage>
           <sp xml:id="sp-1230" who="#Titus_Tit">
             <speaker xml:id="spk-1230">TITUS </speaker>
             <l xml:id="ftln-1230" n="3.1.189">Come hither, Aaron. I’ll deceive them both. </l>
@@ -2856,14 +2576,8 @@
             <l xml:id="ftln-1234" n="3.1.193">But I’ll deceive you in another sort, </l>
             <l xml:id="ftln-1235" n="3.1.194">And that you’ll say ere half an hour pass. </l>
           </sp>
-          <stage xml:id="stg-1235.1"
-                      n="SD 3.1.194.1"
-                      type="business"
-                      who="#Aaron_Tit #Titus_Tit">He cuts off Titus’ hand. </stage>
-          <stage xml:id="stg-1235.2"
-                      n="SD 3.1.194.2"
-                      type="entrance"
-                      who="#Lucius_Tit #Marcus_Tit">Enter Lucius and Marcus again. </stage>
+          <stage xml:id="stg-1235.1" n="SD 3.1.194.1" type="business" who="#Aaron_Tit #Titus_Tit">He cuts off Titus’ hand. </stage>
+          <stage xml:id="stg-1235.2" n="SD 3.1.194.2" type="entrance" who="#Lucius_Tit #Marcus_Tit">Enter Lucius and Marcus again. </stage>
           <sp xml:id="sp-1236" who="#Titus_Tit">
             <speaker xml:id="spk-1236">TITUS </speaker>
             <l xml:id="ftln-1236" n="3.1.195">Now stay your strife. What shall be is dispatched.— </l>
@@ -2885,24 +2599,14 @@
             <l xml:id="ftln-1248" n="3.1.207">Let fools do good and fair men call for grace; </l>
             <l xml:id="ftln-1249" n="3.1.208">Aaron will have his soul black like his face. </l>
           </sp>
-          <stage xml:id="stg-1249.1"
-                      n="SD 3.1.208.1"
-                      type="exit"
-                      who="#Aaron_Tit">He exits. </stage>
+          <stage xml:id="stg-1249.1" n="SD 3.1.208.1" type="exit" who="#Aaron_Tit">He exits. </stage>
           <sp xml:id="sp-1250" who="#Titus_Tit">
             <speaker xml:id="spk-1250">TITUS </speaker>
             <l xml:id="ftln-1250" n="3.1.209">O, here I lift this one hand up to heaven, </l>
             <l xml:id="ftln-1251" n="3.1.210">And bow this feeble ruin to the earth. </l>
-            <stage xml:id="stg-1251"
-                         n="SD 3.1.210"
-                         type="business"
-                         who="#Titus_Tit">He kneels. </stage>
+            <stage xml:id="stg-1251" n="SD 3.1.210" type="business" who="#Titus_Tit">He kneels. </stage>
             <l xml:id="ftln-1252" n="3.1.211">If any power pities wretched tears, </l>
-            <l xml:id="ftln-1253" n="3.1.212">To that I call. <stage xml:id="stg-1253"
-                            n="SD 3.1.212"
-                            type="business"
-                            rendition="inline"
-                            who="#Lavinia_Tit"> ( Lavinia kneels.) </stage> What, wouldst thou kneel with me? </l>
+            <l xml:id="ftln-1253" n="3.1.212">To that I call. <stage xml:id="stg-1253" n="SD 3.1.212" type="business" rendition="inline" who="#Lavinia_Tit"> ( Lavinia kneels.) </stage> What, wouldst thou kneel with me? </l>
             <l xml:id="ftln-1255" n="3.1.214">Do, then, dear heart, for heaven shall hear our prayers, </l>
             <l xml:id="ftln-1257" n="3.1.216">Or with our sighs we’ll breathe the welkin dim </l>
             <l xml:id="ftln-1258" n="3.1.217">And stain the sun with fog, as sometime clouds </l>
@@ -2940,10 +2644,7 @@
             <l xml:id="ftln-1278" n="3.1.237">Then give me leave, for losers will have leave </l>
             <l xml:id="ftln-1279" n="3.1.238">To ease their stomachs with their bitter tongues. </l>
           </sp>
-          <stage xml:id="stg-1279.1"
-                      n="SD 3.1.238.1"
-                      type="entrance"
-                      who="#Messenger_Tit">Enter a Messenger with two heads and a hand. </stage>
+          <stage xml:id="stg-1279.1" n="SD 3.1.238.1" type="entrance" who="#Messenger_Tit">Enter a Messenger with two heads and a hand. </stage>
           <sp xml:id="sp-1280" who="#Messenger_Tit">
             <speaker xml:id="spk-1280">MESSENGER </speaker>
             <l xml:id="ftln-1280" n="3.1.239">Worthy Andronicus, ill art thou repaid </l>
@@ -2954,10 +2655,7 @@
             <l xml:id="ftln-1285" n="3.1.244">That woe is me to think upon thy woes </l>
             <l xml:id="ftln-1286" n="3.1.245">More than remembrance of my father’s death. </l>
           </sp>
-          <stage xml:id="stg-1286.1"
-                      n="SD 3.1.245.1"
-                      type="exit"
-                      who="#Messenger_Tit">He exits. </stage>
+          <stage xml:id="stg-1286.1" n="SD 3.1.245.1" type="exit" who="#Messenger_Tit">He exits. </stage>
           <sp xml:id="sp-1287" who="#Marcus_Tit">
             <speaker xml:id="spk-1287">MARCUS </speaker>
             <l xml:id="ftln-1287" n="3.1.246">Now let hot Etna cool in Sicily, </l>
@@ -2973,10 +2671,7 @@
             <l xml:id="ftln-1294" n="3.1.253">That ever death should let life bear his name, </l>
             <l xml:id="ftln-1295" n="3.1.254">Where life hath no more interest but to breathe. </l>
           </sp>
-          <stage xml:id="stg-1295.1"
-                      n="SD 3.1.254.1"
-                      type="business"
-                      who="#Lavinia_Tit #Titus_Tit">Lavinia kisses Titus. </stage>
+          <stage xml:id="stg-1295.1" n="SD 3.1.254.1" type="business" who="#Lavinia_Tit #Titus_Tit">Lavinia kisses Titus. </stage>
           <sp xml:id="sp-1296" who="#Marcus_Tit">
             <speaker xml:id="spk-1296">MARCUS </speaker>
             <l xml:id="ftln-1296" n="3.1.255">Alas, poor heart, that kiss is comfortless </l>
@@ -3009,10 +2704,7 @@
             <speaker xml:id="spk-1311">MARCUS </speaker>
             <l xml:id="ftln-1311" n="3.1.270">Why dost thou laugh? It fits not with this hour. </l>
           </sp>
-          <stage xml:id="stg-1311.1"
-                      n="SD 3.1.270.1"
-                      type="business"
-                      who="#Titus_Tit #Lavinia_Tit">Titus and Lavinia rise. </stage>
+          <stage xml:id="stg-1311.1" n="SD 3.1.270.1" type="business" who="#Titus_Tit #Lavinia_Tit">Titus and Lavinia rise. </stage>
           <sp xml:id="sp-1312" who="#Titus_Tit">
             <speaker xml:id="spk-1312">TITUS </speaker>
             <l xml:id="ftln-1312" n="3.1.271">Why, I have not another tear to shed. </l>
@@ -3038,10 +2730,7 @@
             <l xml:id="ftln-1333" n="3.1.292">And if you love me, as I think you do, </l>
             <l xml:id="ftln-1334" n="3.1.293">Let’s kiss and part, for we have much to do. </l>
           </sp>
-          <stage xml:id="stg-1334.1"
-                      n="SD 3.1.293.1"
-                      type="exit"
-                      who="#Titus_Tit #Marcus_Tit #Lavinia_Tit">All but Lucius exit. </stage>
+          <stage xml:id="stg-1334.1" n="SD 3.1.293.1" type="exit" who="#Titus_Tit #Marcus_Tit #Lavinia_Tit">All but Lucius exit. </stage>
           <sp xml:id="sp-1335" who="#Lucius_Tit">
             <speaker xml:id="spk-1335">LUCIUS </speaker>
             <l xml:id="ftln-1335" n="3.1.294">Farewell, Andronicus, my noble father, </l>
@@ -3058,17 +2747,11 @@
             <l xml:id="ftln-1346" n="3.1.305">Now will I to the Goths and raise a power </l>
             <l xml:id="ftln-1347" n="3.1.306">To be revenged on Rome and Saturnine. </l>
           </sp>
-          <stage xml:id="stg-1347.1"
-                      n="SD 3.1.306.1"
-                      type="exit"
-                      who="#Lucius_Tit">Lucius exits. </stage>
+          <stage xml:id="stg-1347.1" n="SD 3.1.306.1" type="exit" who="#Lucius_Tit">Lucius exits. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-1347.2"
-                      n="SD 3.2.0"
-                      type="entrance"
-                      who="#Titus_Tit #Marcus_Tit #Lavinia_Tit #YoungLucius_Tit #SERVANTS_Tit">A banquet. Enter Titus Andronicus, Marcus, Lavinia, and the boy Young Lucius, with Servants. </stage>
+          <stage xml:id="stg-1347.2" n="SD 3.2.0" type="entrance" who="#Titus_Tit #Marcus_Tit #Lavinia_Tit #YoungLucius_Tit #SERVANTS_Tit">A banquet. Enter Titus Andronicus, Marcus, Lavinia, and the boy Young Lucius, with Servants. </stage>
           <sp xml:id="sp-1348" who="#Titus_Tit">
             <speaker xml:id="spk-1348">TITUS </speaker>
             <l xml:id="ftln-1348" n="3.2.1">So, so. Now sit, and look you eat no more </l>
@@ -3138,10 +2821,7 @@
             <speaker xml:id="spk-1397">TITUS </speaker>
             <l xml:id="ftln-1397" n="3.2.50">Peace, tender sapling. Thou art made of tears, </l>
             <l xml:id="ftln-1398" n="3.2.51">And tears will quickly melt thy life away. </l>
-            <stage xml:id="stg-1398.1"
-                         n="SD 3.2.51.1"
-                         type="business"
-                         who="#Marcus_Tit">Marcus strikes the dish with a knife. </stage>
+            <stage xml:id="stg-1398.1" n="SD 3.2.51.1" type="business" who="#Marcus_Tit">Marcus strikes the dish with a knife. </stage>
             <l xml:id="ftln-1399" n="3.2.52">What dost thou strike at, Marcus, with thy knife? </l>
           </sp>
           <sp xml:id="sp-1400" who="#Marcus_Tit">
@@ -3201,20 +2881,14 @@
             <l xml:id="ftln-1432" n="3.2.85">Come, boy, and go with me. Thy sight is young, </l>
             <l xml:id="ftln-1433" n="3.2.86">And thou shalt read when mine begin to dazzle. </l>
           </sp>
-          <stage xml:id="stg-1433.1"
-                      n="SD 3.2.86.1"
-                      type="exit"
-                      who="#Titus_Tit #Marcus_Tit #Lavinia_Tit #YoungLucius_Tit #SERVANTS_Tit">They exit. </stage>
+          <stage xml:id="stg-1433.1" n="SD 3.2.86.1" type="exit" who="#Titus_Tit #Marcus_Tit #Lavinia_Tit #YoungLucius_Tit #SERVANTS_Tit">They exit. </stage>
         </div>
       </div>
       <div type="act" n="4">
         <head>ACT 4 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-1433.2"
-                      n="SD 4.1.0"
-                      type="entrance"
-                      who="#YoungLucius_Tit #Lavinia_Tit #Titus_Tit #Marcus_Tit">Enter Lucius’ son and Lavinia running after him, and the boy flies from her with his books under his arm. Enter Titus and Marcus. </stage>
+          <stage xml:id="stg-1433.2" n="SD 4.1.0" type="entrance" who="#YoungLucius_Tit #Lavinia_Tit #Titus_Tit #Marcus_Tit">Enter Lucius’ son and Lavinia running after him, and the boy flies from her with his books under his arm. Enter Titus and Marcus. </stage>
           <sp xml:id="sp-1434" who="#YoungLucius_Tit">
             <speaker xml:id="spk-1434">YOUNG LUCIUS </speaker>
             <l xml:id="ftln-1434" n="4.1.1">Help, grandsire, help! My aunt Lavinia </l>
@@ -3340,17 +3014,11 @@
           <sp xml:id="sp-1499" who="#Marcus_Tit">
             <speaker xml:id="spk-1499">MARCUS </speaker>
             <l xml:id="ftln-1499" n="4.1.66">Sit down, sweet niece.— Brother, sit down by me. </l>
-            <stage xml:id="stg-1499.1"
-                         n="SD 4.1.66.1"
-                         type="business"
-                         who="#Marcus_Tit #Lavinia_Tit #Titus_Tit">They sit. </stage>
+            <stage xml:id="stg-1499.1" n="SD 4.1.66.1" type="business" who="#Marcus_Tit #Lavinia_Tit #Titus_Tit">They sit. </stage>
             <l xml:id="ftln-1500" n="4.1.67">Apollo, Pallas, Jove, or Mercury </l>
             <l xml:id="ftln-1501" n="4.1.68">Inspire me, that I may this treason find.— </l>
             <l xml:id="ftln-1502" n="4.1.69">My lord, look here.— Look here, Lavinia. </l>
-            <stage xml:id="stg-1502.1"
-                         n="SD 4.1.69.1"
-                         type="business"
-                         who="#Marcus_Tit">He writes his name with his staff and guides it with feet and mouth. </stage>
+            <stage xml:id="stg-1502.1" n="SD 4.1.69.1" type="business" who="#Marcus_Tit">He writes his name with his staff and guides it with feet and mouth. </stage>
             <l xml:id="ftln-1503" n="4.1.70">This sandy plot is plain; guide, if thou canst, </l>
             <l xml:id="ftln-1504" n="4.1.71">This after me. I have writ my name </l>
             <l xml:id="ftln-1505" n="4.1.72">Without the help of any hand at all. </l>
@@ -3359,10 +3027,7 @@
             <l xml:id="ftln-1508" n="4.1.75">What God will have discovered for revenge. </l>
             <l xml:id="ftln-1509" n="4.1.76">Heaven guide thy pen to print thy sorrows plain, </l>
             <l xml:id="ftln-1510" n="4.1.77">That we may know the traitors and the truth. </l>
-            <stage xml:id="stg-1510.1"
-                         n="SD 4.1.77.1"
-                         type="business"
-                         who="#Lavinia_Tit">She takes the staff in her mouth, and guides it with her stumps and writes. </stage>
+            <stage xml:id="stg-1510.1" n="SD 4.1.77.1" type="business" who="#Lavinia_Tit">She takes the staff in her mouth, and guides it with her stumps and writes. </stage>
             <l xml:id="ftln-1511" n="4.1.78">O, do you read, my lord, what she hath writ? </l>
           </sp>
           <sp xml:id="sp-1512" who="#Titus_Tit">
@@ -3387,10 +3052,7 @@
             <l xml:id="ftln-1520" n="4.1.87">And arm the minds of infants to exclaims. </l>
             <l xml:id="ftln-1521" n="4.1.88">My lord, kneel down with me.— Lavinia, kneel.— </l>
             <l xml:id="ftln-1522" n="4.1.89">And kneel, sweet boy, the Roman Hector’s hope, </l>
-            <stage xml:id="stg-1522.1"
-                         n="SD 4.1.89.1"
-                         type="business"
-                         who="#Marcus_Tit #Titus_Tit #Lavinia_Tit #YoungLucius_Tit">They all kneel. </stage>
+            <stage xml:id="stg-1522.1" n="SD 4.1.89.1" type="business" who="#Marcus_Tit #Titus_Tit #Lavinia_Tit #YoungLucius_Tit">They all kneel. </stage>
             <l xml:id="ftln-1523" n="4.1.90">And swear with me— as, with the woeful fere </l>
             <l xml:id="ftln-1524" n="4.1.91">And father of that chaste dishonored dame, </l>
             <l xml:id="ftln-1525" n="4.1.92">Lord Junius Brutus swore for Lucrece’ rape— </l>
@@ -3398,10 +3060,7 @@
             <l xml:id="ftln-1527" n="4.1.94">Mortal revenge upon these traitorous Goths, </l>
             <l xml:id="ftln-1528" n="4.1.95">And see their blood or die with this reproach. </l>
           </sp>
-          <stage xml:id="stg-1528.1"
-                      n="SD 4.1.95.1"
-                      type="business"
-                      who="#Marcus_Tit #Titus_Tit #Lavinia_Tit #YoungLucius_Tit">They rise. </stage>
+          <stage xml:id="stg-1528.1" n="SD 4.1.95.1" type="business" who="#Marcus_Tit #Titus_Tit #Lavinia_Tit #YoungLucius_Tit">They rise. </stage>
           <sp xml:id="sp-1529" who="#Titus_Tit">
             <speaker xml:id="spk-1529">TITUS </speaker>
             <l xml:id="ftln-1529" n="4.1.96">’Tis sure enough, an you knew how. </l>
@@ -3451,10 +3110,7 @@
             <l xml:id="ftln-1555" n="4.1.122">Lucius and I’ll go brave it at the court; </l>
             <l xml:id="ftln-1556" n="4.1.123">Ay, marry, will we, sir, and we’ll be waited on. </l>
           </sp>
-          <stage xml:id="stg-1556.1"
-                      n="SD 4.1.123.1"
-                      type="exit"
-                      who="#Titus_Tit #Lavinia_Tit #YoungLucius_Tit">All but Marcus exit. </stage>
+          <stage xml:id="stg-1556.1" n="SD 4.1.123.1" type="exit" who="#Titus_Tit #Lavinia_Tit #YoungLucius_Tit">All but Marcus exit. </stage>
           <sp xml:id="sp-1557" who="#Marcus_Tit">
             <speaker xml:id="spk-1557">MARCUS </speaker>
             <l xml:id="ftln-1557" n="4.1.124">O heavens, can you hear a good man groan </l>
@@ -3465,17 +3121,11 @@
             <l xml:id="ftln-1562" n="4.1.129">But yet so just that he will not revenge. </l>
             <l xml:id="ftln-1563" n="4.1.130">Revenge the heavens for old Andronicus! </l>
           </sp>
-          <stage xml:id="stg-1563.1"
-                      n="SD 4.1.130.1"
-                      type="exit"
-                      who="#Marcus_Tit">He exits. </stage>
+          <stage xml:id="stg-1563.1" n="SD 4.1.130.1" type="exit" who="#Marcus_Tit">He exits. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-1563.2"
-                      n="SD 4.2.0"
-                      type="entrance"
-                      who="#Aaron_Tit #Chiron_Tit #Demetrius_Tit #YoungLucius_Tit #SERVANTS_Tit">Enter Aaron, Chiron, and Demetrius at one door, and at the other door young Lucius and another, with a bundle of weapons and verses writ upon them. </stage>
+          <stage xml:id="stg-1563.2" n="SD 4.2.0" type="entrance" who="#Aaron_Tit #Chiron_Tit #Demetrius_Tit #YoungLucius_Tit #SERVANTS_Tit">Enter Aaron, Chiron, and Demetrius at one door, and at the other door young Lucius and another, with a bundle of weapons and verses writ upon them. </stage>
           <sp xml:id="sp-1564" who="#Chiron_Tit">
             <speaker xml:id="spk-1564">CHIRON </speaker>
             <l xml:id="ftln-1564" n="4.2.1">Demetrius, here’s the son of Lucius. </l>
@@ -3510,18 +3160,12 @@
             <l xml:id="ftln-1579" n="4.2.16">You may be armèd and appointed well, </l>
             <l xml:id="ftln-1580" n="4.2.17">And so I leave you both— <stage xml:id="stg-1580" n="SD 4.2.17" type="delivery">( aside) </stage>like bloody villains. </l>
           </sp>
-          <stage xml:id="stg-1580.1"
-                      n="SD 4.2.17.1"
-                      type="exit"
-                      who="#YoungLucius_Tit #SERVANTS_Tit">He exits, with Attendant. </stage>
+          <stage xml:id="stg-1580.1" n="SD 4.2.17.1" type="exit" who="#YoungLucius_Tit #SERVANTS_Tit">He exits, with Attendant. </stage>
           <sp xml:id="sp-1581" who="#Demetrius_Tit">
             <speaker xml:id="spk-1581">DEMETRIUS </speaker>
             <l xml:id="ftln-1581" n="4.2.18">What’s here? A scroll, and written round about. </l>
             <l xml:id="ftln-1582" n="4.2.19">Let’s see: </l>
-            <stage xml:id="stg-1583"
-                         n="SD 4.2.20"
-                         type="delivery"
-                         rendition="indentVerse">He reads: </stage>
+            <stage xml:id="stg-1583" n="SD 4.2.20" type="delivery" rendition="indentVerse">He reads: </stage>
             <l xml:id="ftln-1583" n="4.2.20">“ Integer vitae, scelerisque purus, </l>
             <l xml:id="ftln-1584" n="4.2.21">Non eget Mauri iaculis, nec arcu.” </l>
           </sp>
@@ -3599,10 +3243,7 @@
             <speaker xml:id="spk-1615">DEMETRIUS </speaker>
             <l xml:id="ftln-1615" n="4.2.52" ana="#short">Soft, who comes here? </l>
           </sp>
-          <stage xml:id="stg-1615.1"
-                      n="SD 4.2.52.1"
-                      type="entrance"
-                      who="#Nurse_Tit #Infant_Tit">Enter Nurse, with a blackamoor child in her arms. </stage>
+          <stage xml:id="stg-1615.1" n="SD 4.2.52.1" type="entrance" who="#Nurse_Tit #Infant_Tit">Enter Nurse, with a blackamoor child in her arms. </stage>
           <sp xml:id="sp-1616" who="#Nurse_Tit">
             <speaker xml:id="spk-1616">NURSE </speaker>
             <l xml:id="ftln-1616" n="4.2.53" ana="#short">Good morrow, lords. </l>
@@ -3709,10 +3350,7 @@
           </sp>
           <sp xml:id="sp-1654" who="#Aaron_Tit">
             <speaker xml:id="spk-1654">AARON </speaker>
-            <stage xml:id="stg-1654.0"
-                         n="SD 4.2.91.0"
-                         type="business"
-                         who="#Aaron_Tit #Infant_Tit">, taking the baby </stage>
+            <stage xml:id="stg-1654.0" n="SD 4.2.91.0" type="business" who="#Aaron_Tit #Infant_Tit">, taking the baby </stage>
             <l xml:id="ftln-1654" n="4.2.91">Sooner this sword shall plow thy bowels up! </l>
             <l xml:id="ftln-1655" n="4.2.92">Stay, murderous villains, will you kill your brother? </l>
             <l xml:id="ftln-1656" n="4.2.93">Now, by the burning tapers of the sky </l>
@@ -3816,10 +3454,7 @@
             <l xml:id="ftln-1711" n="4.2.148">The Empress, the midwife, and yourself. </l>
             <l xml:id="ftln-1712" n="4.2.149">Two may keep counsel when the third’s away. </l>
             <l xml:id="ftln-1713" n="4.2.150">Go to the Empress; tell her this I said. </l>
-            <stage xml:id="stg-1713.1"
-                         n="SD 4.2.150.1"
-                         type="business"
-                         who="#Aaron_Tit #Nurse_Tit">He kills her. </stage>
+            <stage xml:id="stg-1713.1" n="SD 4.2.150.1" type="business" who="#Aaron_Tit #Nurse_Tit">He kills her. </stage>
             <l xml:id="ftln-1714" n="4.2.151">“ Wheak, wheak”! So cries a pig preparèd to the spit. </l>
           </sp>
           <sp xml:id="sp-1715" who="#Demetrius_Tit">
@@ -3843,10 +3478,7 @@
             <l xml:id="ftln-1728" n="4.2.165">To calm this tempest whirling in the court; </l>
             <l xml:id="ftln-1729" n="4.2.166">And let the Emperor dandle him for his own. </l>
             <l xml:id="ftln-1730" n="4.2.167">Hark you, lords, you see I have given her physic, </l>
-            <stage xml:id="stg-1730.1"
-                         n="SD 4.2.167.1"
-                         type="business"
-                         who="#Aaron_Tit">indicating the Nurse </stage>
+            <stage xml:id="stg-1730.1" n="SD 4.2.167.1" type="business" who="#Aaron_Tit">indicating the Nurse </stage>
             <l xml:id="ftln-1731" n="4.2.168">And you must needs bestow her funeral. </l>
             <l xml:id="ftln-1732" n="4.2.169">The fields are near, and you are gallant grooms. </l>
             <l xml:id="ftln-1733" n="4.2.170">This done, see that you take no longer days, </l>
@@ -3864,10 +3496,7 @@
             <l xml:id="ftln-1739" n="4.2.176" part="F">For this care of Tamora, </l>
             <l xml:id="ftln-1740" n="4.2.177">Herself and hers are highly bound to thee. </l>
           </sp>
-          <stage xml:id="stg-1740.1"
-                      n="SD 4.2.177.1"
-                      type="exit"
-                      who="#Chiron_Tit #Demetrius_Tit #Nurse_Tit">Demetrius and Chiron exit, carrying the Nurse’s body. </stage>
+          <stage xml:id="stg-1740.1" n="SD 4.2.177.1" type="exit" who="#Chiron_Tit #Demetrius_Tit #Nurse_Tit">Demetrius and Chiron exit, carrying the Nurse’s body. </stage>
           <sp xml:id="sp-1741" who="#Aaron_Tit">
             <speaker xml:id="spk-1741">AARON </speaker>
             <l xml:id="ftln-1741" n="4.2.178">Now to the Goths, as swift as swallow flies, </l>
@@ -3880,17 +3509,11 @@
             <l xml:id="ftln-1748" n="4.2.185">And cabin in a cave, and bring you up </l>
             <l xml:id="ftln-1749" n="4.2.186">To be a warrior and command a camp. </l>
           </sp>
-          <stage xml:id="stg-1749.1"
-                      n="SD 4.2.186.1"
-                      type="exit"
-                      who="#Aaron_Tit #Infant_Tit">He exits with the baby. </stage>
+          <stage xml:id="stg-1749.1" n="SD 4.2.186.1" type="exit" who="#Aaron_Tit #Infant_Tit">He exits with the baby. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-1749.2"
-                      n="SD 4.3.0"
-                      type="entrance"
-                      who="#Titus_Tit #Marcus_Tit #Publius_Tit #YoungLucius_Tit #Caius_Tit #Sempronius_Tit">Enter Titus, old Marcus, his son Publius, young Lucius, and other gentlemen ( Caius and Sempronius) with bows, and Titus bears the arrows with letters on the ends of them. </stage>
+          <stage xml:id="stg-1749.2" n="SD 4.3.0" type="entrance" who="#Titus_Tit #Marcus_Tit #Publius_Tit #YoungLucius_Tit #Caius_Tit #Sempronius_Tit">Enter Titus, old Marcus, his son Publius, young Lucius, and other gentlemen ( Caius and Sempronius) with bows, and Titus bears the arrows with letters on the ends of them. </stage>
           <sp xml:id="sp-1750" who="#Titus_Tit">
             <speaker xml:id="spk-1750">TITUS </speaker>
             <l xml:id="ftln-1750" n="4.3.1">Come, Marcus, come. Kinsmen, this is the way.— </l>
@@ -3965,10 +3588,7 @@
             <l xml:id="ftln-1801" n="4.3.52">We will solicit heaven and move the gods </l>
             <l xml:id="ftln-1802" n="4.3.53">To send down Justice for to wreak our wrongs. </l>
             <l xml:id="ftln-1803" n="4.3.54">Come, to this gear. You are a good archer, Marcus. </l>
-            <stage xml:id="stg-1803.1"
-                         n="SD 4.3.54.1"
-                         type="business"
-                         who="#Titus_Tit #Marcus_Tit #Publius_Tit #Caius_Tit #Sempronius_Tit #YoungLucius_Tit">He gives them the arrows. </stage>
+            <stage xml:id="stg-1803.1" n="SD 4.3.54.1" type="business" who="#Titus_Tit #Marcus_Tit #Publius_Tit #Caius_Tit #Sempronius_Tit #YoungLucius_Tit">He gives them the arrows. </stage>
             <l xml:id="ftln-1804" n="4.3.55">“ Ad Jovem,” that’s for you;— here, “ Ad Apollinem”;— </l>
             <l xml:id="ftln-1805" n="4.3.56" ana="#short">“ Ad Martem,” that’s for myself;— </l>
             <l xml:id="ftln-1806" n="4.3.57">Here, boy, “ to Pallas”;— here, “ to Mercury”;— </l>
@@ -3985,11 +3605,7 @@
           </sp>
           <sp xml:id="sp-1814" who="#Titus_Tit">
             <speaker xml:id="spk-1814">TITUS </speaker>
-            <l xml:id="ftln-1814" n="4.3.65">Now, masters, draw. <stage xml:id="stg-1814"
-                            n="SD 4.3.65"
-                            type="business"
-                            rendition="inline"
-                            who="#Titus_Tit #Marcus_Tit #Publius_Tit #Caius_Tit #Sempronius_Tit #YoungLucius_Tit"> ( They shoot.) </stage> O, well said, Lucius! </l>
+            <l xml:id="ftln-1814" n="4.3.65">Now, masters, draw. <stage xml:id="stg-1814" n="SD 4.3.65" type="business" rendition="inline" who="#Titus_Tit #Marcus_Tit #Publius_Tit #Caius_Tit #Sempronius_Tit #YoungLucius_Tit"> ( They shoot.) </stage> O, well said, Lucius! </l>
             <l xml:id="ftln-1816" n="4.3.67">Good boy, in Virgo’s lap! Give it Pallas. </l>
           </sp>
           <sp xml:id="sp-1817" who="#Marcus_Tit">
@@ -4014,10 +3630,7 @@
           <sp xml:id="sp-1827" who="#Titus_Tit">
             <speaker xml:id="spk-1827">TITUS </speaker>
             <l xml:id="ftln-1827" n="4.3.78">Why, there it goes. God give his Lordship joy! </l>
-            <stage xml:id="stg-1827.1"
-                         n="SD 4.3.78.1"
-                         type="entrance"
-                         who="#CountryFellow_Tit">Enter a country fellow with a basket and two pigeons in it. </stage>
+            <stage xml:id="stg-1827.1" n="SD 4.3.78.1" type="entrance" who="#CountryFellow_Tit">Enter a country fellow with a basket and two pigeons in it. </stage>
             <l xml:id="ftln-1828" n="4.3.79">News, news from heaven! Marcus, the post is come.— </l>
             <l xml:id="ftln-1830" n="4.3.81">Sirrah, what tidings? Have you any letters? </l>
             <l xml:id="ftln-1831" n="4.3.82">Shall I have Justice? What says Jupiter? </l>
@@ -4081,10 +3694,7 @@
             <p xml:id="p-1857">
               <lb xml:id="ftln-1857" n="4.3.108"/>Hold, hold; meanwhile here’s money for thy <lb xml:id="ftln-1858" n="4.3.109"/>charges.— Give me pen and ink.— Sirrah, can you <lb xml:id="ftln-1859" n="4.3.110"/>with a grace deliver up a supplication? </p>
           </sp>
-          <stage xml:id="stg-1859.1"
-                      n="SD 4.3.110.1"
-                      type="business"
-                      who="#Titus_Tit">He writes. </stage>
+          <stage xml:id="stg-1859.1" n="SD 4.3.110.1" type="business" who="#Titus_Tit">He writes. </stage>
           <sp xml:id="sp-1860" who="#CountryFellow_Tit">
             <speaker xml:id="spk-1860">COUNTRY FELLOW </speaker>
             <p xml:id="p-1860">
@@ -4095,10 +3705,7 @@
             <p xml:id="p-1861">
               <lb xml:id="ftln-1861" n="4.3.112"/>Then here is a supplication for you, and when <lb xml:id="ftln-1862" n="4.3.113"/>you come to him, at the first approach you must <lb xml:id="ftln-1863" n="4.3.114"/>kneel, then kiss his foot, then deliver up your pigeons, <lb xml:id="ftln-1864" n="4.3.115"/>and then look for your reward. I’ll be at <lb xml:id="ftln-1865" n="4.3.116"/>hand, sir. See you do it bravely. </p>
           </sp>
-          <stage xml:id="stg-1865.1"
-                      n="SD 4.3.116.1"
-                      type="business"
-                      who="#Titus_Tit #CountryFellow_Tit">He hands him a paper. </stage>
+          <stage xml:id="stg-1865.1" n="SD 4.3.116.1" type="business" who="#Titus_Tit #CountryFellow_Tit">He hands him a paper. </stage>
           <sp xml:id="sp-1866" who="#CountryFellow_Tit">
             <speaker xml:id="spk-1866">COUNTRY FELLOW </speaker>
             <p xml:id="p-1866">
@@ -4107,10 +3714,7 @@
           <sp xml:id="sp-1867" who="#Titus_Tit">
             <speaker xml:id="spk-1867">TITUS </speaker>
             <l xml:id="ftln-1867" n="4.3.118">Sirrah, hast thou a knife? Come, let me see it.— </l>
-            <stage xml:id="stg-1867.1"
-                         n="SD 4.3.118.1"
-                         type="business"
-                         who="#Titus_Tit #Marcus_Tit">He takes the knife and gives it to Marcus. </stage>
+            <stage xml:id="stg-1867.1" n="SD 4.3.118.1" type="business" who="#Titus_Tit #Marcus_Tit">He takes the knife and gives it to Marcus. </stage>
             <l xml:id="ftln-1868" n="4.3.119">Here, Marcus, fold it in the oration, </l>
             <l xml:id="ftln-1869" n="4.3.120">For thou hast made it like an humble suppliant.— </l>
             <l xml:id="ftln-1870" n="4.3.121">And when thou hast given it to the Emperor, </l>
@@ -4121,25 +3725,16 @@
             <p xml:id="p-1872">
               <lb xml:id="ftln-1872" n="4.3.123"/>God be with you, sir. I will. </p>
           </sp>
-          <stage xml:id="stg-1872.1"
-                      n="SD 4.3.123.1"
-                      type="exit"
-                      who="#CountryFellow_Tit">He exits. </stage>
+          <stage xml:id="stg-1872.1" n="SD 4.3.123.1" type="exit" who="#CountryFellow_Tit">He exits. </stage>
           <sp xml:id="sp-1873" who="#Titus_Tit">
             <speaker xml:id="spk-1873">TITUS </speaker>
             <l xml:id="ftln-1873" n="4.3.124">Come, Marcus, let us go.— Publius, follow me. </l>
           </sp>
-          <stage xml:id="stg-1873.1"
-                      n="SD 4.3.124.1"
-                      type="exit"
-                      who="#Titus_Tit #Marcus_Tit #Publius_Tit #Caius_Tit #Sempronius_Tit #YoungLucius_Tit">They exit. </stage>
+          <stage xml:id="stg-1873.1" n="SD 4.3.124.1" type="exit" who="#Titus_Tit #Marcus_Tit #Publius_Tit #Caius_Tit #Sempronius_Tit #YoungLucius_Tit">They exit. </stage>
         </div>
         <div type="scene" n="4">
           <head>Scene 4 </head>
-          <stage xml:id="stg-1873.2"
-                      n="SD 4.4.0"
-                      type="entrance"
-                      who="#Saturninus_Tit #Tamora_Tit #Chiron_Tit #Demetrius_Tit #ATTENDANTS_Tit">Enter Emperor Saturninus and Empress Tamora and her two sons Chiron and Demetrius, with Attendants. The Emperor brings the arrows in his hand that Titus shot at him. </stage>
+          <stage xml:id="stg-1873.2" n="SD 4.4.0" type="entrance" who="#Saturninus_Tit #Tamora_Tit #Chiron_Tit #Demetrius_Tit #ATTENDANTS_Tit">Enter Emperor Saturninus and Empress Tamora and her two sons Chiron and Demetrius, with Attendants. The Emperor brings the arrows in his hand that Titus shot at him. </stage>
           <sp xml:id="sp-1874" who="#Saturninus_Tit">
             <speaker xml:id="spk-1874">SATURNINUS </speaker>
             <l xml:id="ftln-1874" n="4.4.1">Why, lords, what wrongs are these! Was ever seen </l>
@@ -4183,10 +3778,7 @@
             <l xml:id="ftln-1911" n="4.4.38">But, Titus, I have touched thee to the quick. </l>
             <l xml:id="ftln-1912" n="4.4.39">Thy lifeblood out, if Aaron now be wise, </l>
             <l xml:id="ftln-1913" n="4.4.40">Then is all safe, the anchor in the port. </l>
-            <stage xml:id="stg-1913.1"
-                         n="SD 4.4.40.1"
-                         type="entrance"
-                         who="#CountryFellow_Tit">Enter Country Fellow. </stage>
+            <stage xml:id="stg-1913.1" n="SD 4.4.40.1" type="entrance" who="#CountryFellow_Tit">Enter Country Fellow. </stage>
             <l xml:id="ftln-1914" n="4.4.41">How now, good fellow, wouldst thou speak with us? </l>
           </sp>
           <sp xml:id="sp-1915" who="#CountryFellow_Tit">
@@ -4203,10 +3795,7 @@
             <p xml:id="p-1918">
               <lb xml:id="ftln-1918" n="4.4.45"/>’Tis he!— God and Saint Stephen <lb xml:id="ftln-1919" n="4.4.46"/>give you good e’en. I have brought you a letter and <lb xml:id="ftln-1920" n="4.4.47"/>a couple of pigeons here. </p>
           </sp>
-          <stage xml:id="stg-1920.1"
-                      n="SD 4.4.47.1"
-                      type="business"
-                      who="#Saturninus_Tit">Saturninus reads the letter. </stage>
+          <stage xml:id="stg-1920.1" n="SD 4.4.47.1" type="business" who="#Saturninus_Tit">Saturninus reads the letter. </stage>
           <sp xml:id="sp-1921" who="#Saturninus_Tit">
             <speaker xml:id="spk-1921">SATURNINUS </speaker>
             <l xml:id="ftln-1921" n="4.4.48">Go, take him away, and hang him presently. </l>
@@ -4226,10 +3815,7 @@
             <p xml:id="p-1924">
               <lb xml:id="ftln-1924" n="4.4.51"/>Hanged! By ’r Lady, then I have <lb xml:id="ftln-1925" n="4.4.52"/>brought up a neck to a fair end. </p>
           </sp>
-          <stage xml:id="stg-1925.1"
-                      n="SD 4.4.52.1"
-                      type="exit"
-                      who="#CountryFellow_Tit #ATTENDANTS.0_Tit">He exits with Attendants. </stage>
+          <stage xml:id="stg-1925.1" n="SD 4.4.52.1" type="exit" who="#CountryFellow_Tit #ATTENDANTS.0_Tit">He exits with Attendants. </stage>
           <sp xml:id="sp-1926" who="#Saturninus_Tit">
             <speaker xml:id="spk-1926">SATURNINUS </speaker>
             <l xml:id="ftln-1926" n="4.4.53">Despiteful and intolerable wrongs! </l>
@@ -4244,10 +3830,7 @@
             <l xml:id="ftln-1935" n="4.4.62">Sly, frantic wretch, that holp’st to make me great </l>
             <l xml:id="ftln-1936" n="4.4.63">In hope thyself should govern Rome and me. </l>
           </sp>
-          <stage xml:id="stg-1936.1"
-                      n="SD 4.4.63.1"
-                      type="entrance"
-                      who="#Aemilius_Tit">Enter nuntius, Aemilius. </stage>
+          <stage xml:id="stg-1936.1" n="SD 4.4.63.1" type="entrance" who="#Aemilius_Tit">Enter nuntius, Aemilius. </stage>
           <sp xml:id="sp-1937" who="#Saturninus_Tit">
             <speaker xml:id="spk-1937">SATURNINUS </speaker>
             <l xml:id="ftln-1937" n="4.4.64" ana="#short">What news with thee, Aemilius? </l>
@@ -4326,10 +3909,7 @@
             <speaker xml:id="spk-1983">AEMILIUS </speaker>
             <l xml:id="ftln-1983" n="4.4.110">Your bidding shall I do effectually. </l>
           </sp>
-          <stage xml:id="stg-1983.1"
-                      n="SD 4.4.110.1"
-                      type="exit"
-                      who="#Aemilius_Tit">He exits. </stage>
+          <stage xml:id="stg-1983.1" n="SD 4.4.110.1" type="exit" who="#Aemilius_Tit">He exits. </stage>
           <sp xml:id="sp-1984" who="#Tamora_Tit">
             <speaker xml:id="spk-1984">TAMORA </speaker>
             <l xml:id="ftln-1984" n="4.4.111">Now will I to that old Andronicus </l>
@@ -4342,20 +3922,14 @@
             <speaker xml:id="spk-1989">SATURNINUS </speaker>
             <l xml:id="ftln-1989" n="4.4.116">Then go successantly, and plead to him. </l>
           </sp>
-          <stage xml:id="stg-1989.1"
-                      n="SD 4.4.116.1"
-                      type="exit"
-                      who="#Saturninus_Tit #Tamora_Tit #Chiron_Tit #Demetrius_Tit #ATTENDANTS_Tit">They exit. </stage>
+          <stage xml:id="stg-1989.1" n="SD 4.4.116.1" type="exit" who="#Saturninus_Tit #Tamora_Tit #Chiron_Tit #Demetrius_Tit #ATTENDANTS_Tit">They exit. </stage>
         </div>
       </div>
       <div type="act" n="5">
         <head>ACT 5 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-1989.2"
-                      n="SD 5.1.0"
-                      type="entrance"
-                      who="#Lucius_Tit #GOTHS_Tit">
+          <stage xml:id="stg-1989.2" n="SD 5.1.0" type="entrance" who="#Lucius_Tit #GOTHS_Tit">
             <stage xml:id="snd-1989.2a" n="SD 5.1.0" type="sound" ana="flourish">Flourish. </stage> Enter Lucius with an army of Goths, with <stage xml:id="snd-1989.2b" n="SD 5.1.0" type="sound" ana="drum">Drums </stage> and Soldiers. </stage>
           <sp xml:id="sp-1990" who="#Lucius_Tit">
             <speaker xml:id="spk-1990">LUCIUS </speaker>
@@ -4388,10 +3962,7 @@
             <l xml:id="ftln-2007" n="5.1.18">I humbly thank him, and I thank you all. </l>
             <l xml:id="ftln-2008" n="5.1.19">But who comes here, led by a lusty Goth? </l>
           </sp>
-          <stage xml:id="stg-2008.1"
-                      n="SD 5.1.19.1"
-                      type="entrance"
-                      who="#GOTHS.0.2_Tit #Aaron_Tit #Infant_Tit">Enter a Goth, leading of Aaron with his child in his arms. </stage>
+          <stage xml:id="stg-2008.1" n="SD 5.1.19.1" type="entrance" who="#GOTHS.0.2_Tit #Aaron_Tit #Infant_Tit">Enter a Goth, leading of Aaron with his child in his arms. </stage>
           <sp xml:id="sp-2009" who="#GOTHS.0.2_Tit">
             <speaker xml:id="spk-2009">SECOND GOTH </speaker>
             <l xml:id="ftln-2009" n="5.1.20">Renownèd Lucius, from our troops I strayed </l>
@@ -4438,10 +4009,7 @@
             <l xml:id="ftln-2041" n="5.1.52">A sight to vex the father’s soul withal. </l>
             <l xml:id="ftln-2042" n="5.1.53" part="I">Get me a ladder. </l>
           </sp>
-          <stage xml:id="stg-2042.1"
-                      n="SD 5.1.53.1"
-                      type="business"
-                      who="#GOTHS_Tit #Aaron_Tit">A ladder is brought, which Aaron is made to climb. </stage>
+          <stage xml:id="stg-2042.1" n="SD 5.1.53.1" type="business" who="#GOTHS_Tit #Aaron_Tit">A ladder is brought, which Aaron is made to climb. </stage>
           <sp xml:id="sp-2043" who="#Aaron_Tit">
             <speaker xml:id="spk-2043">AARON </speaker>
             <l xml:id="ftln-2043" n="5.1.54" part="F">Lucius, save the child </l>
@@ -4596,10 +4164,7 @@
             <l xml:id="ftln-2136" n="5.1.147">Bring down the devil, for he must not die </l>
             <l xml:id="ftln-2137" n="5.1.148">So sweet a death as hanging presently. </l>
           </sp>
-          <stage xml:id="stg-2137.1"
-                      n="SD 5.1.148.1"
-                      type="business"
-                      who="#Aaron_Tit #GOTHS_Tit">Aaron is brought down from the ladder. </stage>
+          <stage xml:id="stg-2137.1" n="SD 5.1.148.1" type="business" who="#Aaron_Tit #GOTHS_Tit">Aaron is brought down from the ladder. </stage>
           <sp xml:id="sp-2138" who="#Aaron_Tit">
             <speaker xml:id="spk-2138">AARON </speaker>
             <l xml:id="ftln-2138" n="5.1.149">If there be devils, would I were a devil, </l>
@@ -4611,10 +4176,7 @@
             <speaker xml:id="spk-2142">LUCIUS </speaker>
             <l xml:id="ftln-2142" n="5.1.153">Sirs, stop his mouth, and let him speak no more. </l>
           </sp>
-          <stage xml:id="stg-2142.1"
-                      n="SD 5.1.153.1"
-                      type="entrance"
-                      who="#Aemilius_Tit">Enter Aemilius. </stage>
+          <stage xml:id="stg-2142.1" n="SD 5.1.153.1" type="entrance" who="#Aemilius_Tit">Enter Aemilius. </stage>
           <sp xml:id="sp-2143" who="#GOTHS.0_Tit">
             <speaker xml:id="spk-2143">GOTH </speaker>
             <l xml:id="ftln-2143" n="5.1.154">My lord, there is a messenger from Rome </l>
@@ -4623,10 +4185,7 @@
           <sp xml:id="sp-2145" who="#Lucius_Tit">
             <speaker xml:id="spk-2145">LUCIUS </speaker>
             <l xml:id="ftln-2145" n="5.1.156" ana="#short">Let him come near. </l>
-            <stage xml:id="stg-2145"
-                         n="SD 5.1.156"
-                         type="business"
-                         who="#Aemilius_Tit">Aemilius comes forward. </stage>
+            <stage xml:id="stg-2145" n="SD 5.1.156" type="business" who="#Aemilius_Tit">Aemilius comes forward. </stage>
             <l xml:id="ftln-2146" n="5.1.157">Welcome, Aemilius. What’s the news from Rome? </l>
           </sp>
           <sp xml:id="sp-2147" who="#Aemilius_Tit">
@@ -4648,17 +4207,11 @@
             <l xml:id="ftln-2155" n="5.1.166">Unto my father and my uncle Marcus, </l>
             <l xml:id="ftln-2156" n="5.1.167" ana="#short">And we will come. March away. </l>
           </sp>
-          <stage xml:id="stg-2156.1"
-                      n="SD 5.1.167.1"
-                      type="exit"
-                      who="#Lucius_Tit #GOTHS_Tit #Aaron_Tit #Infant_Tit #Aemilius_Tit">They exit. </stage>
+          <stage xml:id="stg-2156.1" n="SD 5.1.167.1" type="exit" who="#Lucius_Tit #GOTHS_Tit #Aaron_Tit #Infant_Tit #Aemilius_Tit">They exit. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-2156.2"
-                      n="SD 5.2.0"
-                      type="entrance"
-                      who="#Tamora_Tit #Chiron_Tit #Demetrius_Tit">Enter Tamora and her two sons, disguised. </stage>
+          <stage xml:id="stg-2156.2" n="SD 5.2.0" type="entrance" who="#Tamora_Tit #Chiron_Tit #Demetrius_Tit">Enter Tamora and her two sons, disguised. </stage>
           <sp xml:id="sp-2157" who="#Tamora_Tit">
             <speaker xml:id="spk-2157">TAMORA </speaker>
             <l xml:id="ftln-2157" n="5.2.1">Thus, in this strange and sad habiliment </l>
@@ -4671,13 +4224,7 @@
             <l xml:id="ftln-2164" n="5.2.8">And work confusion on his enemies. </l>
           </sp>
           <stage xml:id="stg-2164.1" n="SD 5.2.8.1" type="mixed">
-            <stage xml:id="stg-2164.1a"
-                         n="SD 5.2.8.1"
-                         type="business"
-                         who="#Chiron_Tit #Demetrius_Tit">They knock, </stage> and <stage xml:id="stg-2164.1b"
-                         n="SD 5.2.8.1"
-                         type="entrance"
-                         who="#Titus_Tit">Titus ( above) opens his study door. </stage>
+            <stage xml:id="stg-2164.1a" n="SD 5.2.8.1" type="business" who="#Chiron_Tit #Demetrius_Tit">They knock, </stage> and <stage xml:id="stg-2164.1b" n="SD 5.2.8.1" type="entrance" who="#Titus_Tit">Titus ( above) opens his study door. </stage>
           </stage>
           <sp xml:id="sp-2165" who="#Titus_Tit">
             <speaker xml:id="spk-2165">TITUS </speaker>
@@ -4779,10 +4326,7 @@
             <l xml:id="ftln-2225" n="5.2.69">And if one arm’s embracement will content thee, </l>
             <l xml:id="ftln-2226" n="5.2.70">I will embrace thee in it by and by. </l>
           </sp>
-          <stage xml:id="stg-2226.1"
-                      n="SD 5.2.70.1"
-                      type="exit"
-                      who="#Titus_Tit">He exits above. </stage>
+          <stage xml:id="stg-2226.1" n="SD 5.2.70.1" type="exit" who="#Titus_Tit">He exits above. </stage>
           <sp xml:id="sp-2227" who="#Tamora_Tit">
             <speaker xml:id="spk-2227">TAMORA </speaker>
             <l xml:id="ftln-2227" n="5.2.71">This closing with him fits his lunacy. </l>
@@ -4797,10 +4341,7 @@
             <l xml:id="ftln-2236" n="5.2.80">Or, at the least, make them his enemies. </l>
             <l xml:id="ftln-2237" n="5.2.81">See, here he comes, and I must ply my theme. </l>
           </sp>
-          <stage xml:id="stg-2237.1"
-                      n="SD 5.2.81.1"
-                      type="entrance"
-                      who="#Titus_Tit">Enter Titus. </stage>
+          <stage xml:id="stg-2237.1" n="SD 5.2.81.1" type="entrance" who="#Titus_Tit">Enter Titus. </stage>
           <sp xml:id="sp-2238" who="#Titus_Tit">
             <speaker xml:id="spk-2238">TITUS </speaker>
             <l xml:id="ftln-2238" n="5.2.82">Long have I been forlorn, and all for thee. </l>
@@ -4869,10 +4410,7 @@
             <speaker xml:id="spk-2280">TITUS </speaker>
             <stage xml:id="stg-2280.0" n="SD 5.2.124.0" type="delivery">, ( calling) </stage>
             <l xml:id="ftln-2280" n="5.2.124">Marcus, my brother, ’tis sad Titus calls. </l>
-            <stage xml:id="stg-2280.1"
-                         n="SD 5.2.124.1"
-                         type="entrance"
-                         who="#Marcus_Tit">Enter Marcus. </stage>
+            <stage xml:id="stg-2280.1" n="SD 5.2.124.1" type="entrance" who="#Marcus_Tit">Enter Marcus. </stage>
             <l xml:id="ftln-2281" n="5.2.125">Go, gentle Marcus, to thy nephew Lucius. </l>
             <l xml:id="ftln-2282" n="5.2.126">Thou shalt inquire him out among the Goths. </l>
             <l xml:id="ftln-2283" n="5.2.127">Bid him repair to me and bring with him </l>
@@ -4929,10 +4467,7 @@
             <speaker xml:id="spk-2307">TITUS </speaker>
             <l xml:id="ftln-2307" n="5.2.151">I know thou dost; and, sweet Revenge, farewell. </l>
           </sp>
-          <stage xml:id="stg-2307.1"
-                      n="SD 5.2.151.1"
-                      type="exit"
-                      who="#Tamora_Tit">Tamora exits. </stage>
+          <stage xml:id="stg-2307.1" n="SD 5.2.151.1" type="exit" who="#Tamora_Tit">Tamora exits. </stage>
           <sp xml:id="sp-2308" who="#Chiron_Tit">
             <speaker xml:id="spk-2308">CHIRON </speaker>
             <l xml:id="ftln-2308" n="5.2.152">Tell us, old man, how shall we be employed? </l>
@@ -4942,10 +4477,7 @@
             <l xml:id="ftln-2309" n="5.2.153">Tut, I have work enough for you to do.— </l>
             <l xml:id="ftln-2310" n="5.2.154">Publius, come hither; Caius, and Valentine. </l>
           </sp>
-          <stage xml:id="stg-2310.1"
-                      n="SD 5.2.154.1"
-                      type="entrance"
-                      who="#Publius_Tit #Caius_Tit #Valentine_Tit">Publius, Caius, and Valentine enter. </stage>
+          <stage xml:id="stg-2310.1" n="SD 5.2.154.1" type="entrance" who="#Publius_Tit #Caius_Tit #Valentine_Tit">Publius, Caius, and Valentine enter. </stage>
           <sp xml:id="sp-2311" who="#Publius_Tit">
             <speaker xml:id="spk-2311">PUBLIUS </speaker>
             <l xml:id="ftln-2311" n="5.2.155" ana="#short">What is your will? </l>
@@ -4968,10 +4500,7 @@
             <l xml:id="ftln-2319" n="5.2.163">And now I find it. Therefore bind them sure, </l>
             <l xml:id="ftln-2320" n="5.2.164">And stop their mouths if they begin to cry. </l>
           </sp>
-          <stage xml:id="stg-2320.1"
-                      n="SD 5.2.164.1"
-                      type="exit"
-                      who="#Titus_Tit">Titus exits. </stage>
+          <stage xml:id="stg-2320.1" n="SD 5.2.164.1" type="exit" who="#Titus_Tit">Titus exits. </stage>
           <sp xml:id="sp-2321" who="#Chiron_Tit">
             <speaker xml:id="spk-2321">CHIRON </speaker>
             <l xml:id="ftln-2321" n="5.2.165">Villains, forbear! We are the Empress’ sons. </l>
@@ -4982,10 +4511,7 @@
             <l xml:id="ftln-2323" n="5.2.167">Stop close their mouths; let them not speak a word. </l>
             <l xml:id="ftln-2324" n="5.2.168">Is he sure bound? Look that you bind them fast. </l>
           </sp>
-          <stage xml:id="stg-2324.1"
-                      n="SD 5.2.168.1"
-                      type="entrance"
-                      who="#Titus_Tit #Lavinia_Tit">Enter Titus Andronicus with a knife, and Lavinia with a basin. </stage>
+          <stage xml:id="stg-2324.1" n="SD 5.2.168.1" type="entrance" who="#Titus_Tit #Lavinia_Tit">Enter Titus Andronicus with a knife, and Lavinia with a basin. </stage>
           <sp xml:id="sp-2325" who="#Titus_Tit">
             <speaker xml:id="spk-2325">TITUS </speaker>
             <l xml:id="ftln-2325" n="5.2.169">Come, come, Lavinia. Look, thy foes are bound.— </l>
@@ -5020,10 +4546,7 @@
             <l xml:id="ftln-2355" n="5.2.199">And worse than Procne I will be revenged. </l>
             <l xml:id="ftln-2356" n="5.2.200">And now prepare your throats.— Lavinia, come, </l>
             <l xml:id="ftln-2357" n="5.2.201" part="I">Receive the blood. </l>
-            <stage xml:id="stg-2357"
-                         n="SD 5.2.201"
-                         type="business"
-                         who="#Titus_Tit #Chiron_Tit #Demetrius_Tit">He cuts their throats. </stage>
+            <stage xml:id="stg-2357" n="SD 5.2.201" type="business" who="#Titus_Tit #Chiron_Tit #Demetrius_Tit">He cuts their throats. </stage>
             <l xml:id="ftln-2358" n="5.2.202" part="F">And when that they are dead, </l>
             <l xml:id="ftln-2359" n="5.2.203">Let me go grind their bones to powder small, </l>
             <l xml:id="ftln-2360" n="5.2.204">And with this hateful liquor temper it, </l>
@@ -5034,17 +4557,11 @@
             <l xml:id="ftln-2365" n="5.2.209">So. Now bring them in, for I’ll play the cook </l>
             <l xml:id="ftln-2366" n="5.2.210">And see them ready against their mother comes. </l>
           </sp>
-          <stage xml:id="stg-2366.1"
-                      n="SD 5.2.210.1"
-                      type="exit"
-                      who="#Titus_Tit #Lavinia_Tit #Publius_Tit #Caius_Tit #Valentine_Tit #Chiron_Tit #Demetrius_Tit">They exit, carrying the dead bodies. </stage>
+          <stage xml:id="stg-2366.1" n="SD 5.2.210.1" type="exit" who="#Titus_Tit #Lavinia_Tit #Publius_Tit #Caius_Tit #Valentine_Tit #Chiron_Tit #Demetrius_Tit">They exit, carrying the dead bodies. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-2366.2"
-                      n="SD 5.3.0"
-                      type="entrance"
-                      who="#Lucius_Tit #Marcus_Tit #GOTHS_Tit #Aaron_Tit #Infant_Tit">Enter Lucius, Marcus, and the Goths, with Aaron, Guards, and an Attendant carrying the baby. </stage>
+          <stage xml:id="stg-2366.2" n="SD 5.3.0" type="entrance" who="#Lucius_Tit #Marcus_Tit #GOTHS_Tit #Aaron_Tit #Infant_Tit">Enter Lucius, Marcus, and the Goths, with Aaron, Guards, and an Attendant carrying the baby. </stage>
           <sp xml:id="sp-2367" who="#Lucius_Tit">
             <speaker xml:id="spk-2367">LUCIUS </speaker>
             <l xml:id="ftln-2367" n="5.3.1">Uncle Marcus, since ’tis my father’s mind </l>
@@ -5079,14 +4596,8 @@
             </stage>
             <l xml:id="ftln-2382" n="5.3.16">The trumpets show the Emperor is at hand. </l>
           </sp>
-          <stage xml:id="stg-2382.1"
-                      n="SD 5.3.16.1"
-                      type="exit"
-                      who="#GOTHS.0_Tit #Aaron_Tit">Guards and Aaron exit. </stage>
-          <stage xml:id="stg-2382.2"
-                      n="SD 5.3.16.2"
-                      type="entrance"
-                      who="#Saturninus_Tit #Tamora_Tit #Aemilius_Tit #TRIBUNES_Tit #ATTENDANTS_Tit">Enter Emperor Saturninus and Empress Tamora with Aemilius, Tribunes, Attendants, and others. </stage>
+          <stage xml:id="stg-2382.1" n="SD 5.3.16.1" type="exit" who="#GOTHS.0_Tit #Aaron_Tit">Guards and Aaron exit. </stage>
+          <stage xml:id="stg-2382.2" n="SD 5.3.16.2" type="entrance" who="#Saturninus_Tit #Tamora_Tit #Aemilius_Tit #TRIBUNES_Tit #ATTENDANTS_Tit">Enter Emperor Saturninus and Empress Tamora with Aemilius, Tribunes, Attendants, and others. </stage>
           <sp xml:id="sp-2383" who="#Saturninus_Tit">
             <speaker xml:id="spk-2383">SATURNINUS </speaker>
             <l xml:id="ftln-2383" n="5.3.17">What, hath the firmament more suns than one? </l>
@@ -5108,10 +4619,7 @@
             <speaker xml:id="spk-2391">SATURNINUS </speaker>
             <l xml:id="ftln-2391" n="5.3.25" ana="#short">Marcus, we will. </l>
           </sp>
-          <stage xml:id="stg-2392.1b"
-                      n="SD 5.3.25.1"
-                      type="entrance"
-                      who="#Titus_Tit #YoungLucius_Tit #Lavinia_Tit #SERVANTS_Tit">
+          <stage xml:id="stg-2392.1b" n="SD 5.3.25.1" type="entrance" who="#Titus_Tit #YoungLucius_Tit #Lavinia_Tit #SERVANTS_Tit">
             <stage xml:id="snd-2392.1a" n="SD 5.3.25.1" type="sound" ana="trumpet">Trumpets sounding, </stage> enter Titus like a cook, placing the dishes, with young Lucius and others, and Lavinia with a veil over her face. </stage>
           <sp xml:id="sp-2392" who="#Titus_Tit">
             <speaker xml:id="spk-2392">TITUS </speaker>
@@ -5120,10 +4628,7 @@
             <l xml:id="ftln-2394" n="5.3.28">And welcome, all. Although the cheer be poor, </l>
             <l xml:id="ftln-2395" n="5.3.29">’Twill fill your stomachs. Please you eat of it. </l>
           </sp>
-          <stage xml:id="stg-2395.1"
-                      n="SD 5.3.29.1"
-                      type="business"
-                      who="#Saturninus_Tit #Tamora_Tit">They begin to eat. </stage>
+          <stage xml:id="stg-2395.1" n="SD 5.3.29.1" type="business" who="#Saturninus_Tit #Tamora_Tit">They begin to eat. </stage>
           <sp xml:id="sp-2396" who="#Saturninus_Tit">
             <speaker xml:id="spk-2396">SATURNINUS </speaker>
             <l xml:id="ftln-2396" n="5.3.30">Why art thou thus attired, Andronicus? </l>
@@ -5166,10 +4671,7 @@
             <l xml:id="ftln-2412" n="5.3.46">Die, die, Lavinia, and thy shame with thee, </l>
             <l xml:id="ftln-2413" n="5.3.47">And with thy shame thy father’s sorrow die. </l>
           </sp>
-          <stage xml:id="stg-2413.1"
-                      n="SD 5.3.47.1"
-                      type="business"
-                      who="#Titus_Tit #Lavinia_Tit">He kills Lavinia. </stage>
+          <stage xml:id="stg-2413.1" n="SD 5.3.47.1" type="business" who="#Titus_Tit #Lavinia_Tit">He kills Lavinia. </stage>
           <sp xml:id="sp-2414" who="#Saturninus_Tit">
             <speaker xml:id="spk-2414">SATURNINUS </speaker>
             <l xml:id="ftln-2414" n="5.3.48">What hast thou done, unnatural and unkind? </l>
@@ -5210,31 +4712,19 @@
             <l xml:id="ftln-2429" n="5.3.63">Eating the flesh that she herself hath bred. </l>
             <l xml:id="ftln-2430" n="5.3.64">’Tis true, ’tis true! Witness my knife’s sharp point. </l>
           </sp>
-          <stage xml:id="stg-2430.1"
-                      n="SD 5.3.64.1"
-                      type="business"
-                      who="#Titus_Tit #Tamora_Tit">He stabs the Empress. </stage>
+          <stage xml:id="stg-2430.1" n="SD 5.3.64.1" type="business" who="#Titus_Tit #Tamora_Tit">He stabs the Empress. </stage>
           <sp xml:id="sp-2431" who="#Saturninus_Tit">
             <speaker xml:id="spk-2431">SATURNINUS </speaker>
             <l xml:id="ftln-2431" n="5.3.65">Die, frantic wretch, for this accursèd deed. </l>
           </sp>
-          <stage xml:id="stg-2431.1"
-                      n="SD 5.3.65.1"
-                      type="business"
-                      who="#Saturninus_Tit #Titus_Tit">He kills Titus. </stage>
+          <stage xml:id="stg-2431.1" n="SD 5.3.65.1" type="business" who="#Saturninus_Tit #Titus_Tit">He kills Titus. </stage>
           <sp xml:id="sp-2432" who="#Lucius_Tit">
             <speaker xml:id="spk-2432">LUCIUS </speaker>
             <l xml:id="ftln-2432" n="5.3.66">Can the son’s eye behold his father bleed? </l>
-            <stage xml:id="stg-2432.1"
-                         n="SD 5.3.66.1"
-                         type="business"
-                         who="#Lucius_Tit #Saturninus_Tit">He kills Saturninus. </stage>
+            <stage xml:id="stg-2432.1" n="SD 5.3.66.1" type="business" who="#Lucius_Tit #Saturninus_Tit">He kills Saturninus. </stage>
             <l xml:id="ftln-2433" n="5.3.67">There’s meed for meed, death for a deadly deed. </l>
           </sp>
-          <stage xml:id="stg-2433.1"
-                      n="SD 5.3.67.1"
-                      type="business"
-                      who="#Marcus_Tit #Lucius_Tit">A great tumult. Lucius, Marcus, and others go aloft to the upper stage. </stage>
+          <stage xml:id="stg-2433.1" n="SD 5.3.67.1" type="business" who="#Marcus_Tit #Lucius_Tit">A great tumult. Lucius, Marcus, and others go aloft to the upper stage. </stage>
           <sp xml:id="sp-2434" who="#Marcus_Tit">
             <speaker xml:id="spk-2434">MARCUS </speaker>
             <l xml:id="ftln-2434" n="5.3.68">You sad-faced men, people and sons of Rome, </l>
@@ -5250,10 +4740,7 @@
             <l xml:id="ftln-2444" n="5.3.78">But if my frosty signs and chaps of age, </l>
             <l xml:id="ftln-2445" n="5.3.79">Grave witnesses of true experience, </l>
             <l xml:id="ftln-2446" n="5.3.80">Cannot induce you to attend my words, </l>
-            <stage xml:id="stg-2446.1"
-                         n="SD 5.3.80.1"
-                         type="business"
-                         who="#Marcus_Tit">He turns to Lucius. </stage>
+            <stage xml:id="stg-2446.1" n="SD 5.3.80.1" type="business" who="#Marcus_Tit">He turns to Lucius. </stage>
             <l xml:id="ftln-2447" n="5.3.81">Speak, Rome’s dear friend, as erst our ancestor, </l>
             <l xml:id="ftln-2448" n="5.3.82">When with his solemn tongue he did discourse </l>
             <l xml:id="ftln-2449" n="5.3.83">To lovesick Dido’s sad-attending ear </l>
@@ -5338,14 +4825,8 @@
             <l xml:id="ftln-2513" n="5.3.147">As punishment for his most wicked life. </l>
           </sp>
           <stage xml:id="stg-2513.1" n="SD 5.3.147.1" type="mixed">
-            <stage xml:id="stg-2514.1a"
-                         n="SD 5.3.147.1"
-                         type="exit"
-                         who="#SERVANTS_Tit">Attendants exit. </stage>
-            <stage xml:id="stg-2513.1b"
-                         n="SD 5.3.147.1"
-                         type="business"
-                         who="#Lucius_Tit #Marcus_Tit">Lucius and Marcus come down from the upper stage. </stage>
+            <stage xml:id="stg-2514.1a" n="SD 5.3.147.1" type="exit" who="#SERVANTS_Tit">Attendants exit. </stage>
+            <stage xml:id="stg-2513.1b" n="SD 5.3.147.1" type="business" who="#Lucius_Tit #Marcus_Tit">Lucius and Marcus come down from the upper stage. </stage>
           </stage>
           <sp xml:id="sp-2514" who="#TRIBUNES_Tit #ATTENDANTS_Tit">
             <speaker xml:id="spk-2514">ROMANS </speaker>
@@ -5359,10 +4840,7 @@
             <l xml:id="ftln-2518" n="5.3.152">For nature puts me to a heavy task. </l>
             <l xml:id="ftln-2519" n="5.3.153">Stand all aloof, but, uncle, draw you near </l>
             <l xml:id="ftln-2520" n="5.3.154">To shed obsequious tears upon this trunk. </l>
-            <stage xml:id="stg-2520.1"
-                         n="SD 5.3.154.1"
-                         type="business"
-                         who="#Lucius_Tit #Titus_Tit">He kisses Titus. </stage>
+            <stage xml:id="stg-2520.1" n="SD 5.3.154.1" type="business" who="#Lucius_Tit #Titus_Tit">He kisses Titus. </stage>
             <l xml:id="ftln-2521" n="5.3.155">O, take this warm kiss on thy pale cold lips, </l>
             <l xml:id="ftln-2522" n="5.3.156">These sorrowful drops upon thy bloodstained face, </l>
             <l xml:id="ftln-2523" n="5.3.157">The last true duties of thy noble son. </l>
@@ -5371,10 +4849,7 @@
             <speaker xml:id="spk-2524">MARCUS </speaker>
             <l xml:id="ftln-2524" n="5.3.158">Tear for tear, and loving kiss for kiss, </l>
             <l xml:id="ftln-2525" n="5.3.159">Thy brother Marcus tenders on thy lips. </l>
-            <stage xml:id="stg-2525.1"
-                         n="SD 5.3.159.1"
-                         type="business"
-                         who="#Marcus_Tit #Titus_Tit">He kisses Titus. </stage>
+            <stage xml:id="stg-2525.1" n="SD 5.3.159.1" type="business" who="#Marcus_Tit #Titus_Tit">He kisses Titus. </stage>
             <l xml:id="ftln-2526" n="5.3.160">O, were the sum of these that I should pay </l>
             <l xml:id="ftln-2527" n="5.3.161">Countless and infinite, yet would I pay them. </l>
           </sp>
@@ -5401,17 +4876,11 @@
             <speaker xml:id="spk-2540">YOUNG LUCIUS </speaker>
             <l xml:id="ftln-2540" n="5.3.174">O grandsire, grandsire, ev’n with all my heart </l>
             <l xml:id="ftln-2541" n="5.3.175">Would I were dead so you did live again! </l>
-            <stage xml:id="stg-2541.1"
-                         n="SD 5.3.175.1"
-                         type="business"
-                         who="#YoungLucius_Tit #Titus_Tit">He kisses Titus. </stage>
+            <stage xml:id="stg-2541.1" n="SD 5.3.175.1" type="business" who="#YoungLucius_Tit #Titus_Tit">He kisses Titus. </stage>
             <l xml:id="ftln-2542" n="5.3.176">O Lord, I cannot speak to him for weeping. </l>
             <l xml:id="ftln-2543" n="5.3.177">My tears will choke me if I ope my mouth. </l>
           </sp>
-          <stage xml:id="stg-2543.1"
-                      n="SD 5.3.177.1"
-                      type="entrance"
-                      who="#Aaron_Tit #GOTHS.0_Tit">Enter Aaron with Guards. </stage>
+          <stage xml:id="stg-2543.1" n="SD 5.3.177.1" type="entrance" who="#Aaron_Tit #GOTHS.0_Tit">Enter Aaron with Guards. </stage>
           <sp xml:id="sp-2544" who="#TRIBUNES.0.1_Tit">
             <speaker xml:id="spk-2544">ROMAN </speaker>
             <l xml:id="ftln-2544" n="5.3.178">You sad Andronici, have done with woes. </l>
@@ -5436,10 +4905,7 @@
             <l xml:id="ftln-2557" n="5.3.191">If one good deed in all my life I did, </l>
             <l xml:id="ftln-2558" n="5.3.192">I do repent it from my very soul. </l>
           </sp>
-          <stage xml:id="stg-2558.1"
-                      n="SD 5.3.192.1"
-                      type="exit"
-                      who="#Aaron_Tit #GOTHS.0_Tit">Aaron is led off by Guards. </stage>
+          <stage xml:id="stg-2558.1" n="SD 5.3.192.1" type="exit" who="#Aaron_Tit #GOTHS.0_Tit">Aaron is led off by Guards. </stage>
           <sp xml:id="sp-2559" who="#Lucius_Tit">
             <speaker xml:id="spk-2559">LUCIUS </speaker>
             <l xml:id="ftln-2559" n="5.3.193">Some loving friends convey the Emperor hence, </l>
@@ -5453,10 +4919,7 @@
             <l xml:id="ftln-2567" n="5.3.201">Her life was beastly and devoid of pity, </l>
             <l xml:id="ftln-2568" n="5.3.202">And being dead, let birds on her take pity. </l>
           </sp>
-          <stage xml:id="stg-2568.1"
-                      n="SD 5.3.202.1"
-                      type="exit"
-                      who="#Lucius_Tit #Marcus_Tit #YoungLucius_Tit #Saturninus_Tit #Tamora_Tit #Titus_Tit #Lavinia_Tit #Infant_Tit #Aemilius_Tit #TRIBUNES_Tit #ATTENDANTS_Tit #GOTHS_Tit">They exit, carrying the dead bodies. </stage>
+          <stage xml:id="stg-2568.1" n="SD 5.3.202.1" type="exit" who="#Lucius_Tit #Marcus_Tit #YoungLucius_Tit #Saturninus_Tit #Tamora_Tit #Titus_Tit #Lavinia_Tit #Infant_Tit #Aemilius_Tit #TRIBUNES_Tit #ATTENDANTS_Tit #GOTHS_Tit">They exit, carrying the dead bodies. </stage>
         </div>
       </div>
     </body>

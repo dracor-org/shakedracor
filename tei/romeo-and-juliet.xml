@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shake000028">
   <teiHeader>
     <fileDesc>
@@ -111,14 +112,10 @@
           <person xml:id="SERVANTS.MONTAGUE.Abram_Rom" sex="MALE">
             <persName>Abram</persName>
           </person>
-          <person xml:id="Benvolio_Rom"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q939489">
+          <person xml:id="Benvolio_Rom" sex="MALE" ana="http://www.wikidata.org/entity/Q939489">
             <persName>Benvolio</persName>
           </person>
-          <person xml:id="Tybalt_Rom"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q2412073">
+          <person xml:id="Tybalt_Rom" sex="MALE" ana="http://www.wikidata.org/entity/Q2412073">
             <persName>Tybalt</persName>
           </person>
           <personGrp xml:id="CITIZENS_Rom" sex="UNKNOWN">
@@ -127,53 +124,37 @@
           <person xml:id="Capulet_Rom" sex="MALE">
             <persName>Capulet</persName>
           </person>
-          <person xml:id="LadyCapulet_Rom"
-                       sex="FEMALE"
-                       ana="http://www.wikidata.org/entity/Q63882427">
+          <person xml:id="LadyCapulet_Rom" sex="FEMALE" ana="http://www.wikidata.org/entity/Q63882427">
             <persName>Lady Capulet</persName>
           </person>
           <person xml:id="Montague_Rom" sex="MALE">
             <persName>Montague</persName>
           </person>
-          <person xml:id="LadyMontague_Rom"
-                       sex="FEMALE"
-                       ana="http://www.wikidata.org/entity/Q63882426">
+          <person xml:id="LadyMontague_Rom" sex="FEMALE" ana="http://www.wikidata.org/entity/Q63882426">
             <persName>Lady Montague</persName>
           </person>
-          <person xml:id="PrinceEscalus_Rom"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q15829750">
+          <person xml:id="PrinceEscalus_Rom" sex="MALE" ana="http://www.wikidata.org/entity/Q15829750">
             <persName>Escalus</persName>
           </person>
-          <person xml:id="Romeo_Rom"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q15829750">
+          <person xml:id="Romeo_Rom" sex="MALE" ana="http://www.wikidata.org/entity/Q15829750">
             <persName>Romeo</persName>
           </person>
-          <person xml:id="Paris_Rom"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q3687815">
+          <person xml:id="Paris_Rom" sex="MALE" ana="http://www.wikidata.org/entity/Q3687815">
             <persName>Paris</persName>
           </person>
           <personGrp xml:id="SERVANTS.CAPULET.X.1_Rom" sex="UNKNOWN">
             <name>SERVANTS.CAPULET.X.1_Rom</name>
           </personGrp>
-          <person xml:id="Nurse_Rom"
-                       sex="FEMALE"
-                       ana="http://www.wikidata.org/entity/Q7070187">
+          <person xml:id="Nurse_Rom" sex="FEMALE" ana="http://www.wikidata.org/entity/Q7070187">
             <persName>Nurse</persName>
           </person>
-          <person xml:id="Juliet_Rom"
-                       sex="FEMALE"
-                       ana="http://www.wikidata.org/entity/Q1092632">
+          <person xml:id="Juliet_Rom" sex="FEMALE" ana="http://www.wikidata.org/entity/Q1092632">
             <persName>Juliet</persName>
           </person>
           <personGrp xml:id="SERVANTS.CAPULET.X.2_Rom" sex="UNKNOWN">
             <name>SERVANTS.CAPULET.X.2_Rom</name>
           </personGrp>
-          <person xml:id="Mercutio_Rom"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q1767900">
+          <person xml:id="Mercutio_Rom" sex="MALE" ana="http://www.wikidata.org/entity/Q1767900">
             <persName>Mercutio</persName>
           </person>
           <person xml:id="SERVANTS.CAPULET.0.1_Rom" sex="MALE">
@@ -191,9 +172,7 @@
           <person xml:id="SERVANTS.CAPULET.0_Rom" sex="MALE">
             <persName>SERVANTS.CAPULET.0_Rom</persName>
           </person>
-          <person xml:id="FriarLawrence_Rom"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q5503354">
+          <person xml:id="FriarLawrence_Rom" sex="MALE" ana="http://www.wikidata.org/entity/Q5503354">
             <persName>Friar Lawrence</persName>
           </person>
           <person xml:id="SERVANTS.CAPULET.Peter_Rom" sex="MALE">
@@ -249,9 +228,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/shake000028"
-                   passive="http://www.wikidata.org/entity/Q83186"/>
+      <relation name="wikidata" active="https://dracor.org/entity/shake000028" passive="http://www.wikidata.org/entity/Q83186"/>
     </listRelation>
   </standOff>
   <text>
@@ -287,8 +264,7 @@
             </role>
             <roleDesc>a Montague servingman</roleDesc>
           </castItem>
-          <castItem corresp="#SERVANTS.MONTAGUE_Rom"
-                         sameAs="#SERVANTS.MONTAGUE.Balthasar_Rom">
+          <castItem corresp="#SERVANTS.MONTAGUE_Rom" sameAs="#SERVANTS.MONTAGUE.Balthasar_Rom">
             <role>
               <name>Balthasar</name>
             </role>
@@ -441,10 +417,7 @@
     <body>
       <div type="prologue" n="PRO">
         <head>THE PROLOGUE </head>
-        <stage xml:id="stg-0000"
-                   n="SD PRO.0"
-                   type="entrance"
-                   who="#Chorus_Rom">Enter Chorus. </stage>
+        <stage xml:id="stg-0000" n="SD PRO.0" type="entrance" who="#Chorus_Rom">Enter Chorus. </stage>
         <sp xml:id="sp-0001" who="#Chorus_Rom">
           <l xml:id="ftln-0001" n="PRO.1">Two households, both alike in dignity </l>
           <l xml:id="ftln-0002" n="PRO.2">( In fair Verona, where we lay our scene), </l>
@@ -461,19 +434,13 @@
           <l xml:id="ftln-0013" n="PRO.13">The which, if you with patient ears attend, </l>
           <l xml:id="ftln-0014" n="PRO.14">What here shall miss, our toil shall strive to mend. </l>
         </sp>
-        <stage xml:id="stg-0014.1"
-                   n="SD PRO.14.1"
-                   type="exit"
-                   who="#Chorus_Rom">Chorus exits. </stage>
+        <stage xml:id="stg-0014.1" n="SD PRO.14.1" type="exit" who="#Chorus_Rom">Chorus exits. </stage>
       </div>
       <div type="act" n="1">
         <head>ACT 1 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-0014.2"
-                      n="SD 1.1.0"
-                      type="entrance"
-                      who="#SERVANTS.CAPULET.Sampson_Rom #SERVANTS.CAPULET.Gregory_Rom">Enter Sampson and Gregory, with swords and bucklers, of the house of Capulet. </stage>
+          <stage xml:id="stg-0014.2" n="SD 1.1.0" type="entrance" who="#SERVANTS.CAPULET.Sampson_Rom #SERVANTS.CAPULET.Gregory_Rom">Enter Sampson and Gregory, with swords and bucklers, of the house of Capulet. </stage>
           <sp xml:id="sp-0015" who="#SERVANTS.CAPULET.Sampson_Rom">
             <speaker xml:id="spk-0015">SAMPSON </speaker>
             <p xml:id="p-0015">
@@ -564,10 +531,7 @@
             <p xml:id="p-0045">
               <lb xml:id="ftln-0045" n="1.1.31"/>’Tis well thou art not fish; if thou hadst, thou <lb xml:id="ftln-0046" n="1.1.32"/>hadst been poor-john. Draw thy tool. Here comes <lb xml:id="ftln-0047" n="1.1.33"/>of the house of Montagues. </p>
           </sp>
-          <stage xml:id="stg-0047.1"
-                      n="SD 1.1.33.1"
-                      type="entrance"
-                      who="#SERVANTS.MONTAGUE.Abram_Rom #SERVANTS.MONTAGUE.1_Rom">Enter Abram with another Servingman. </stage>
+          <stage xml:id="stg-0047.1" n="SD 1.1.33.1" type="entrance" who="#SERVANTS.MONTAGUE.Abram_Rom #SERVANTS.MONTAGUE.1_Rom">Enter Abram with another Servingman. </stage>
           <sp xml:id="sp-0048" who="#SERVANTS.CAPULET.Sampson_Rom">
             <speaker xml:id="spk-0048">SAMPSON </speaker>
             <p xml:id="p-0048">
@@ -603,10 +567,7 @@
             <p xml:id="p-0057">
               <lb xml:id="ftln-0057" n="1.1.43"/>Nay, as they dare. I will bite my thumb at <lb xml:id="ftln-0058" n="1.1.44"/>them, which is disgrace to them if they bear it. </p>
           </sp>
-          <stage xml:id="stg-0058.1"
-                      n="SD 1.1.44.1"
-                      type="business"
-                      who="#SERVANTS.CAPULET.Sampson_Rom">He bites his thumb. </stage>
+          <stage xml:id="stg-0058.1" n="SD 1.1.44.1" type="business" who="#SERVANTS.CAPULET.Sampson_Rom">He bites his thumb. </stage>
           <sp xml:id="sp-0059" who="#SERVANTS.MONTAGUE.Abram_Rom">
             <speaker xml:id="spk-0059">ABRAM </speaker>
             <p xml:id="p-0059">
@@ -664,10 +625,7 @@
             <p xml:id="p-0072">
               <lb xml:id="ftln-0072" n="1.1.58"/>Well, sir. </p>
           </sp>
-          <stage xml:id="stg-0072.1"
-                      n="SD 1.1.58.1"
-                      type="entrance"
-                      who="#Benvolio_Rom">Enter Benvolio. </stage>
+          <stage xml:id="stg-0072.1" n="SD 1.1.58.1" type="entrance" who="#Benvolio_Rom">Enter Benvolio. </stage>
           <sp xml:id="sp-0073" who="#SERVANTS.CAPULET.Gregory_Rom">
             <speaker xml:id="spk-0073">GREGORY </speaker>
             <stage xml:id="stg-0073" n="SD 1.1.59" type="delivery">, aside to Sampson </stage>
@@ -689,24 +647,15 @@
             <p xml:id="p-0077">
               <lb xml:id="ftln-0077" n="1.1.63"/>Draw if you be men.— Gregory, remember <lb xml:id="ftln-0078" n="1.1.64"/>thy washing blow. </p>
           </sp>
-          <stage xml:id="stg-0078"
-                      n="SD 1.1.64"
-                      type="business"
-                      who="#SERVANTS.CAPULET.Sampson_Rom #SERVANTS.CAPULET.Gregory_Rom #SERVANTS.MONTAGUE.Abram_Rom #SERVANTS.MONTAGUE.1_Rom">They fight. </stage>
+          <stage xml:id="stg-0078" n="SD 1.1.64" type="business" who="#SERVANTS.CAPULET.Sampson_Rom #SERVANTS.CAPULET.Gregory_Rom #SERVANTS.MONTAGUE.Abram_Rom #SERVANTS.MONTAGUE.1_Rom">They fight. </stage>
           <sp xml:id="sp-0079" who="#Benvolio_Rom">
             <speaker xml:id="spk-0079">BENVOLIO </speaker>
             <p xml:id="p-0079">
               <lb xml:id="ftln-0079" n="1.1.65"/>Part, fools! </p>
-            <stage xml:id="stg-0079"
-                         n="SD 1.1.64"
-                         type="business"
-                         who="#Benvolio_Rom">Drawing his sword. </stage>
+            <stage xml:id="stg-0079" n="SD 1.1.64" type="business" who="#Benvolio_Rom">Drawing his sword. </stage>
             <l xml:id="ftln-0080" n="1.1.66">Put up your swords. You know not what you do. </l>
           </sp>
-          <stage xml:id="stg-0080.1"
-                      n="SD 1.1.66.1"
-                      type="entrance"
-                      who="#Tybalt_Rom">Enter Tybalt, drawing his sword. </stage>
+          <stage xml:id="stg-0080.1" n="SD 1.1.66.1" type="entrance" who="#Tybalt_Rom">Enter Tybalt, drawing his sword. </stage>
           <sp xml:id="sp-0081" who="#Tybalt_Rom">
             <speaker xml:id="spk-0081">TYBALT </speaker>
             <l xml:id="ftln-0081" n="1.1.67">What, art thou drawn among these heartless hinds? </l>
@@ -723,23 +672,14 @@
             <l xml:id="ftln-0086" n="1.1.72">As I hate hell, all Montagues, and thee. </l>
             <l xml:id="ftln-0087" n="1.1.73">Have at thee, coward! </l>
           </sp>
-          <stage xml:id="stg-0087"
-                      n="SD 1.1.73"
-                      type="business"
-                      who="#Benvolio_Rom #Tybalt_Rom">They fight. </stage>
-          <stage xml:id="stg-0087.1"
-                      n="SD 1.1.73.1"
-                      type="entrance"
-                      who="#CITIZENS_Rom">Enter three or four Citizens with clubs or partisans. </stage>
+          <stage xml:id="stg-0087" n="SD 1.1.73" type="business" who="#Benvolio_Rom #Tybalt_Rom">They fight. </stage>
+          <stage xml:id="stg-0087.1" n="SD 1.1.73.1" type="entrance" who="#CITIZENS_Rom">Enter three or four Citizens with clubs or partisans. </stage>
           <sp xml:id="sp-0088" who="#CITIZENS_Rom">
             <speaker xml:id="spk-0088">CITIZENS </speaker>
             <l xml:id="ftln-0088" n="1.1.74">Clubs, bills, and partisans! Strike! Beat them down! </l>
             <l xml:id="ftln-0089" n="1.1.75">Down with the Capulets! Down with the Montagues! </l>
           </sp>
-          <stage xml:id="stg-0089.1"
-                      n="SD 1.1.75.1"
-                      type="entrance"
-                      who="#Capulet_Rom #LadyCapulet_Rom">Enter old Capulet in his gown, and his Wife. </stage>
+          <stage xml:id="stg-0089.1" n="SD 1.1.75.1" type="entrance" who="#Capulet_Rom #LadyCapulet_Rom">Enter old Capulet in his gown, and his Wife. </stage>
           <sp xml:id="sp-0090" who="#Capulet_Rom">
             <speaker xml:id="spk-0090">CAPULET </speaker>
             <l xml:id="ftln-0090" n="1.1.76">What noise is this? Give me my long sword, ho! </l>
@@ -748,10 +688,7 @@
             <speaker xml:id="spk-0091">LADY CAPULET </speaker>
             <l xml:id="ftln-0091" n="1.1.77">A crutch, a crutch! Why call you for a sword? </l>
           </sp>
-          <stage xml:id="stg-0092.1"
-                      n="SD 1.1.78.1"
-                      type="entrance"
-                      who="#Montague_Rom #LadyMontague_Rom">Enter old Montague and his Wife. </stage>
+          <stage xml:id="stg-0092.1" n="SD 1.1.78.1" type="entrance" who="#Montague_Rom #LadyMontague_Rom">Enter old Montague and his Wife. </stage>
           <sp xml:id="sp-0093" who="#Capulet_Rom">
             <speaker xml:id="spk-0093">CAPULET </speaker>
             <l xml:id="ftln-0093" n="1.1.79">My sword, I say. Old Montague is come </l>
@@ -765,10 +702,7 @@
             <speaker xml:id="spk-0096">LADY MONTAGUE </speaker>
             <l xml:id="ftln-0096" n="1.1.82">Thou shalt not stir one foot to seek a foe. </l>
           </sp>
-          <stage xml:id="stg-0096.1"
-                      n="SD 1.1.82.1"
-                      type="entrance"
-                      who="#PrinceEscalus_Rom #ATTENDANTS.PRINCE_Rom">Enter Prince Escalus with his train. </stage>
+          <stage xml:id="stg-0096.1" n="SD 1.1.82.1" type="entrance" who="#PrinceEscalus_Rom #ATTENDANTS.PRINCE_Rom">Enter Prince Escalus with his train. </stage>
           <sp xml:id="sp-0097" who="#PrinceEscalus_Rom">
             <speaker xml:id="spk-0097">PRINCE </speaker>
             <l xml:id="ftln-0097" n="1.1.83">Rebellious subjects, enemies to peace, </l>
@@ -795,10 +729,7 @@
             <l xml:id="ftln-0118" n="1.1.104">To old Free-town, our common judgment-place. </l>
             <l xml:id="ftln-0119" n="1.1.105">Once more, on pain of death, all men depart. </l>
           </sp>
-          <stage xml:id="stg-0119.1"
-                      n="SD 1.1.105.1"
-                      type="exit"
-                      who="#SERVANTS.CAPULET.Sampson_Rom #SERVANTS.CAPULET.Gregory_Rom #SERVANTS.MONTAGUE.Abram_Rom #SERVANTS.MONTAGUE.1_Rom #Tybalt_Rom #CITIZENS_Rom #Capulet_Rom #LadyCapulet_Rom #PrinceEscalus_Rom #ATTENDANTS.PRINCE_Rom">All but Montague, Lady Montague, and Benvolio exit. </stage>
+          <stage xml:id="stg-0119.1" n="SD 1.1.105.1" type="exit" who="#SERVANTS.CAPULET.Sampson_Rom #SERVANTS.CAPULET.Gregory_Rom #SERVANTS.MONTAGUE.Abram_Rom #SERVANTS.MONTAGUE.1_Rom #Tybalt_Rom #CITIZENS_Rom #Capulet_Rom #LadyCapulet_Rom #PrinceEscalus_Rom #ATTENDANTS.PRINCE_Rom">All but Montague, Lady Montague, and Benvolio exit. </stage>
           <sp xml:id="sp-0120" who="#Montague_Rom">
             <speaker xml:id="spk-0120">MONTAGUE </speaker>
             <stage xml:id="stg-0120.0" n="SD 1.1.106.0" type="delivery">, to Benvolio </stage>
@@ -879,10 +810,7 @@
             <l xml:id="ftln-0171" n="1.1.157">Could we but learn from whence his sorrows grow, </l>
             <l xml:id="ftln-0172" n="1.1.158">We would as willingly give cure as know. </l>
           </sp>
-          <stage xml:id="stg-0172.1"
-                      n="SD 1.1.158.1"
-                      type="entrance"
-                      who="#Romeo_Rom">Enter Romeo. </stage>
+          <stage xml:id="stg-0172.1" n="SD 1.1.158.1" type="entrance" who="#Romeo_Rom">Enter Romeo. </stage>
           <sp xml:id="sp-0173" who="#Benvolio_Rom">
             <speaker xml:id="spk-0173">BENVOLIO </speaker>
             <l xml:id="ftln-0173" n="1.1.159">See where he comes. So please you, step aside. </l>
@@ -893,10 +821,7 @@
             <l xml:id="ftln-0175" n="1.1.161">I would thou wert so happy by thy stay </l>
             <l xml:id="ftln-0176" n="1.1.162">To hear true shrift.— Come, madam, let’s away. </l>
           </sp>
-          <stage xml:id="stg-0176.1"
-                      n="SD 1.1.162.1"
-                      type="exit"
-                      who="#Montague_Rom #LadyMontague_Rom">Montague and Lady Montague exit. </stage>
+          <stage xml:id="stg-0176.1" n="SD 1.1.162.1" type="exit" who="#Montague_Rom #LadyMontague_Rom">Montague and Lady Montague exit. </stage>
           <sp xml:id="sp-0177" who="#Benvolio_Rom">
             <speaker xml:id="spk-0177">BENVOLIO </speaker>
             <l xml:id="ftln-0177" n="1.1.163" part="I">Good morrow, cousin. </l>
@@ -1084,17 +1009,11 @@
             <speaker xml:id="spk-0261">BENVOLIO </speaker>
             <l xml:id="ftln-0261" n="1.1.247">I’ll pay that doctrine or else die in debt. </l>
           </sp>
-          <stage xml:id="stg-0261.1"
-                      n="SD 1.1.247.1"
-                      type="exit"
-                      who="#Benvolio_Rom #Romeo_Rom">They exit. </stage>
+          <stage xml:id="stg-0261.1" n="SD 1.1.247.1" type="exit" who="#Benvolio_Rom #Romeo_Rom">They exit. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-0261.2"
-                      n="SD 1.2.0"
-                      type="entrance"
-                      who="#Capulet_Rom #Paris_Rom #SERVANTS.CAPULET.X.1_Rom">Enter Capulet, County Paris, and a Servingman. </stage>
+          <stage xml:id="stg-0261.2" n="SD 1.2.0" type="entrance" who="#Capulet_Rom #Paris_Rom #SERVANTS.CAPULET.X.1_Rom">Enter Capulet, County Paris, and a Servingman. </stage>
           <sp xml:id="sp-0262" who="#Capulet_Rom">
             <speaker xml:id="spk-0262">CAPULET </speaker>
             <l xml:id="ftln-0262" n="1.2.1">But Montague is bound as well as I, </l>
@@ -1143,28 +1062,19 @@
             <l xml:id="ftln-0293" n="1.2.32">Which, on more view of many, mine, being one, </l>
             <l xml:id="ftln-0294" n="1.2.33">May stand in number, though in reck’ning none. </l>
             <l xml:id="ftln-0295" n="1.2.34" part="I">Come go with me. </l>
-            <stage xml:id="stg-0295"
-                         n="SD 1.2.34"
-                         type="business"
-                         who="#Capulet_Rom #SERVANTS.CAPULET.X.1_Rom">To Servingman, giving him a list. </stage>
+            <stage xml:id="stg-0295" n="SD 1.2.34" type="business" who="#Capulet_Rom #SERVANTS.CAPULET.X.1_Rom">To Servingman, giving him a list. </stage>
             <l xml:id="ftln-0296" n="1.2.35" part="F">Go, sirrah, trudge about </l>
             <l xml:id="ftln-0297" n="1.2.36">Through fair Verona, find those persons out </l>
             <l xml:id="ftln-0298" n="1.2.37">Whose names are written there, and to them say </l>
             <l xml:id="ftln-0299" n="1.2.38">My house and welcome on their pleasure stay. </l>
           </sp>
-          <stage xml:id="stg-0299.1"
-                      n="SD 1.2.38.1"
-                      type="exit"
-                      who="#Capulet_Rom #Paris_Rom">Capulet and Paris exit. </stage>
+          <stage xml:id="stg-0299.1" n="SD 1.2.38.1" type="exit" who="#Capulet_Rom #Paris_Rom">Capulet and Paris exit. </stage>
           <sp xml:id="sp-0300" who="#SERVANTS.CAPULET.X.1_Rom">
             <speaker xml:id="spk-0300">SERVINGMAN </speaker>
             <p xml:id="p-0300">
               <lb xml:id="ftln-0300" n="1.2.39"/>Find them out whose names are written <lb xml:id="ftln-0301" n="1.2.40"/>here! It is written that the shoemaker should <lb xml:id="ftln-0302" n="1.2.41"/>meddle with his yard and the tailor with his last, the <lb xml:id="ftln-0303" n="1.2.42"/>fisher with his pencil and the painter with his nets. <lb xml:id="ftln-0304" n="1.2.43"/>But I am sent to find those persons whose names <lb xml:id="ftln-0305" n="1.2.44"/>are here writ, and can never find what names the <lb xml:id="ftln-0306" n="1.2.45"/>writing person hath here writ. I must to the learned. <lb xml:id="ftln-0307" n="1.2.46"/>In good time! </p>
           </sp>
-          <stage xml:id="stg-0307.1"
-                      n="SD 1.2.46.1"
-                      type="entrance"
-                      who="#Benvolio_Rom #Romeo_Rom">Enter Benvolio and Romeo. </stage>
+          <stage xml:id="stg-0307.1" n="SD 1.2.46.1" type="entrance" who="#Benvolio_Rom #Romeo_Rom">Enter Benvolio and Romeo. </stage>
           <sp xml:id="sp-0308" who="#Benvolio_Rom">
             <speaker xml:id="spk-0308">BENVOLIO </speaker>
             <stage xml:id="stg-0308.0" n="SD 1.2.47.0" type="delivery">, to Romeo </stage>
@@ -1224,10 +1134,7 @@
             <speaker xml:id="spk-0329">ROMEO </speaker>
             <p xml:id="p-0329">
               <lb xml:id="ftln-0329" n="1.2.68"/>Stay, fellow. I can read. </p>
-            <stage xml:id="stg-0329.1"
-                         n="SD 1.2.68"
-                         type="delivery"
-                         rendition="right">( He reads the letter.) </stage>
+            <stage xml:id="stg-0329.1" n="SD 1.2.68" type="delivery" rendition="right">( He reads the letter.) </stage>
             <q xml:id="q-0330" type="letter">
               <lb xml:id="ftln-0330" n="1.2.69"/>Signior Martino and his wife and daughters, <lb xml:id="ftln-0331" n="1.2.70"/>County Anselme and his beauteous sisters, <lb xml:id="ftln-0332" n="1.2.71"/>The lady widow of Vitruvio, <lb xml:id="ftln-0333" n="1.2.72"/>Signior Placentio and his lovely nieces, <lb xml:id="ftln-0334" n="1.2.73"/>Mercutio and his brother Valentine, <lb xml:id="ftln-0335" n="1.2.74"/>Mine Uncle Capulet, his wife and daughters, <lb xml:id="ftln-0336" n="1.2.75"/>My fair niece Rosaline and Livia, <lb xml:id="ftln-0337" n="1.2.76"/>Signior Valentio and his cousin Tybalt, <l xml:id="ftln-0338" n="1.2.77"/>Lucio and the lively Helena. </q>
             <l xml:id="ftln-0339" n="1.2.78">A fair assembly. Whither should they come? </l>
@@ -1266,10 +1173,7 @@
             <p xml:id="p-0346">
               <lb xml:id="ftln-0346" n="1.2.85"/>Now I’ll tell you without asking. My <lb xml:id="ftln-0347" n="1.2.86"/>master is the great rich Capulet, and, if you be not <lb xml:id="ftln-0348" n="1.2.87"/>of the house of Montagues, I pray come and crush a <lb xml:id="ftln-0349" n="1.2.88"/>cup of wine. Rest you merry. </p>
           </sp>
-          <stage xml:id="stg-0349"
-                      n="SD 1.2.88"
-                      type="exit"
-                      who="#SERVANTS.CAPULET.X.1_Rom">He exits. </stage>
+          <stage xml:id="stg-0349" n="SD 1.2.88" type="exit" who="#SERVANTS.CAPULET.X.1_Rom">He exits. </stage>
           <sp xml:id="sp-0350" who="#Benvolio_Rom">
             <speaker xml:id="spk-0350">BENVOLIO </speaker>
             <l xml:id="ftln-0350" n="1.2.89">At this same ancient feast of Capulet’s </l>
@@ -1302,17 +1206,11 @@
             <l xml:id="ftln-0368" n="1.2.107">I’ll go along, no such sight to be shown, </l>
             <l xml:id="ftln-0369" n="1.2.108">But to rejoice in splendor of mine own. </l>
           </sp>
-          <stage xml:id="stg-0369.1"
-                      n="SD 1.2.108.1"
-                      type="exit"
-                      who="#Benvolio_Rom #Romeo_Rom">They exit. </stage>
+          <stage xml:id="stg-0369.1" n="SD 1.2.108.1" type="exit" who="#Benvolio_Rom #Romeo_Rom">They exit. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-0369.2"
-                      n="SD 1.3.0"
-                      type="entrance"
-                      who="#LadyCapulet_Rom #Nurse_Rom">Enter Lady Capulet and Nurse. </stage>
+          <stage xml:id="stg-0369.2" n="SD 1.3.0" type="entrance" who="#LadyCapulet_Rom #Nurse_Rom">Enter Lady Capulet and Nurse. </stage>
           <sp xml:id="sp-0370" who="#LadyCapulet_Rom">
             <speaker xml:id="spk-0370">LADY CAPULET </speaker>
             <l xml:id="ftln-0370" n="1.3.1">Nurse, where’s my daughter? Call her forth to me. </l>
@@ -1323,10 +1221,7 @@
             <l xml:id="ftln-0372" n="1.3.3">I bade her come.— What, lamb! What, ladybird! </l>
             <l xml:id="ftln-0373" n="1.3.4">God forbid. Where’s this girl? What, Juliet! </l>
           </sp>
-          <stage xml:id="stg-0373.1"
-                      n="SD 1.3.4.1"
-                      type="entrance"
-                      who="#Juliet_Rom">Enter Juliet. </stage>
+          <stage xml:id="stg-0373.1" n="SD 1.3.4.1" type="entrance" who="#Juliet_Rom">Enter Juliet. </stage>
           <sp xml:id="sp-0374" who="#Juliet_Rom">
             <speaker xml:id="spk-0374">JULIET </speaker>
             <p xml:id="p-0374">
@@ -1499,10 +1394,7 @@
             <l xml:id="ftln-0473" n="1.3.104">But no more deep will I endart mine eye </l>
             <l xml:id="ftln-0474" n="1.3.105">Than your consent gives strength to make it fly. </l>
           </sp>
-          <stage xml:id="stg-0474.1"
-                      n="SD 1.3.105.1"
-                      type="entrance"
-                      who="#SERVANTS.CAPULET.X.2_Rom">Enter Servingman. </stage>
+          <stage xml:id="stg-0474.1" n="SD 1.3.105.1" type="entrance" who="#SERVANTS.CAPULET.X.2_Rom">Enter Servingman. </stage>
           <sp xml:id="sp-0475" who="#SERVANTS.CAPULET.X.2_Rom">
             <speaker xml:id="spk-0475">SERVINGMAN </speaker>
             <p xml:id="p-0475">
@@ -1511,27 +1403,18 @@
           <sp xml:id="sp-0480" who="#LadyCapulet_Rom">
             <speaker xml:id="spk-0480">LADY CAPULET </speaker>
             <l xml:id="ftln-0480" n="1.3.111" part="I">We follow thee. </l>
-            <stage xml:id="stg-0480"
-                         n="SD 1.3.111"
-                         type="exit"
-                         who="#SERVANTS.CAPULET.X.2_Rom">Servingman exits. </stage>
+            <stage xml:id="stg-0480" n="SD 1.3.111" type="exit" who="#SERVANTS.CAPULET.X.2_Rom">Servingman exits. </stage>
             <l xml:id="ftln-0481" n="1.3.112" part="F">Juliet, the County stays. </l>
           </sp>
           <sp xml:id="sp-0482" who="#Nurse_Rom">
             <speaker xml:id="spk-0482">NURSE </speaker>
             <l xml:id="ftln-0482" n="1.3.113">Go, girl, seek happy nights to happy days. </l>
           </sp>
-          <stage xml:id="stg-0482.1"
-                      n="SD 1.3.113.1"
-                      type="exit"
-                      who="#LadyCapulet_Rom #Nurse_Rom #Juliet_Rom">They exit. </stage>
+          <stage xml:id="stg-0482.1" n="SD 1.3.113.1" type="exit" who="#LadyCapulet_Rom #Nurse_Rom #Juliet_Rom">They exit. </stage>
         </div>
         <div type="scene" n="4">
           <head>Scene 4 </head>
-          <stage xml:id="stg-0482.2"
-                      n="SD 1.4.0"
-                      type="entrance"
-                      who="#Romeo_Rom #Mercutio_Rom #Benvolio_Rom #MASKERS_Rom #ATTENDANTS_Rom #Boy_Rom">Enter Romeo, Mercutio, Benvolio, with five or six other Maskers, Torchbearers, and a Boy with a drum. </stage>
+          <stage xml:id="stg-0482.2" n="SD 1.4.0" type="entrance" who="#Romeo_Rom #Mercutio_Rom #Benvolio_Rom #MASKERS_Rom #ATTENDANTS_Rom #Boy_Rom">Enter Romeo, Mercutio, Benvolio, with five or six other Maskers, Torchbearers, and a Boy with a drum. </stage>
           <sp xml:id="sp-0483" who="#Romeo_Rom">
             <speaker xml:id="spk-0483">ROMEO </speaker>
             <l xml:id="ftln-0483" n="1.4.1">What, shall this speech be spoke for our excuse? </l>
@@ -1737,17 +1620,11 @@
             <p xml:id="p-0603">
               <lb xml:id="ftln-0603" n="1.4.121"/>Strike, drum. </p>
           </sp>
-          <stage xml:id="stg-0603.1"
-                      n="SD 1.4.121.1"
-                      type="business"
-                      who="#Romeo_Rom #Mercutio_Rom #Benvolio_Rom #MASKERS_Rom #ATTENDANTS_Rom #Boy_Rom">They march about the stage and then withdraw to the side. </stage>
+          <stage xml:id="stg-0603.1" n="SD 1.4.121.1" type="business" who="#Romeo_Rom #Mercutio_Rom #Benvolio_Rom #MASKERS_Rom #ATTENDANTS_Rom #Boy_Rom">They march about the stage and then withdraw to the side. </stage>
         </div>
         <div type="scene" n="5">
           <head>Scene 5 </head>
-          <stage xml:id="stg-0603.2"
-                      n="SD 1.5.0"
-                      type="entrance"
-                      who="#SERVANTS.CAPULET_Rom">Servingmen come forth with napkins. </stage>
+          <stage xml:id="stg-0603.2" n="SD 1.5.0" type="entrance" who="#SERVANTS.CAPULET_Rom">Servingmen come forth with napkins. </stage>
           <sp xml:id="sp-0604" who="#SERVANTS.CAPULET.0.1_Rom">
             <speaker xml:id="spk-0604">FIRST SERVINGMAN </speaker>
             <p xml:id="p-0604">
@@ -1778,14 +1655,8 @@
             <p xml:id="p-0618">
               <lb xml:id="ftln-0618" n="1.5.15"/>We cannot be here and there too. <lb xml:id="ftln-0619" n="1.5.16"/>Cheerly, boys! Be brisk awhile, and the longer liver <lb xml:id="ftln-0620" n="1.5.17"/>take all. </p>
           </sp>
-          <stage xml:id="stg-0620"
-                      n="SD 1.5.17"
-                      type="business"
-                      who="#SERVANTS.CAPULET_Rom">They move aside. </stage>
-          <stage xml:id="stg-0620.1"
-                      n="SD 1.5.17.1"
-                      type="entrance"
-                      who="#Capulet_Rom #LadyCapulet_Rom #Cousin_Rom #Tybalt_Rom #SERVANTS.TYBALT.1_Rom #Juliet_Rom #Nurse_Rom #GUESTS_Rom">Enter Capulet and his household, all the guests and gentlewomen to Romeo, Mercutio, Benvolio, and the other Maskers. </stage>
+          <stage xml:id="stg-0620" n="SD 1.5.17" type="business" who="#SERVANTS.CAPULET_Rom">They move aside. </stage>
+          <stage xml:id="stg-0620.1" n="SD 1.5.17.1" type="entrance" who="#Capulet_Rom #LadyCapulet_Rom #Cousin_Rom #Tybalt_Rom #SERVANTS.TYBALT.1_Rom #Juliet_Rom #Nurse_Rom #GUESTS_Rom">Enter Capulet and his household, all the guests and gentlewomen to Romeo, Mercutio, Benvolio, and the other Maskers. </stage>
           <sp xml:id="sp-0621" who="#Capulet_Rom">
             <speaker xml:id="spk-0621">CAPULET </speaker>
             <l xml:id="ftln-0621" n="1.5.18">Welcome, gentlemen. Ladies that have their toes </l>
@@ -1858,10 +1729,7 @@
             <speaker xml:id="spk-0664">TYBALT </speaker>
             <l xml:id="ftln-0664" n="1.5.61">This, by his voice, should be a Montague.— </l>
             <l xml:id="ftln-0665" n="1.5.62" part="I">Fetch me my rapier, boy. </l>
-            <stage xml:id="stg-0665"
-                         n="SD 1.5.62"
-                         type="exit"
-                         who="#SERVANTS.TYBALT.1_Rom">Page exits. </stage>
+            <stage xml:id="stg-0665" n="SD 1.5.62" type="exit" who="#SERVANTS.TYBALT.1_Rom">Page exits. </stage>
             <l xml:id="ftln-0666" n="1.5.63" part="F">What, dares the slave </l>
             <l xml:id="ftln-0667" n="1.5.64">Come hither covered with an antic face </l>
             <l xml:id="ftln-0668" n="1.5.65">To fleer and scorn at our solemnity? </l>
@@ -1934,16 +1802,10 @@
             <l xml:id="ftln-0705" n="1.5.102">I will withdraw, but this intrusion shall, </l>
             <l xml:id="ftln-0706" n="1.5.103">Now seeming sweet, convert to bitt’rest gall. </l>
           </sp>
-          <stage xml:id="stg-0706.1"
-                      n="SD 1.5.103.1"
-                      type="exit"
-                      who="#Tybalt_Rom">He exits. </stage>
+          <stage xml:id="stg-0706.1" n="SD 1.5.103.1" type="exit" who="#Tybalt_Rom">He exits. </stage>
           <sp xml:id="sp-0707" who="#Romeo_Rom">
             <speaker xml:id="spk-0707">ROMEO </speaker>
-            <stage xml:id="stg-0707.0"
-                         n="SD 1.5.104.0"
-                         type="business"
-                         who="#Romeo_Rom #Juliet_Rom">, taking Juliet’s hand </stage>
+            <stage xml:id="stg-0707.0" n="SD 1.5.104.0" type="business" who="#Romeo_Rom #Juliet_Rom">, taking Juliet’s hand </stage>
             <l xml:id="ftln-0707" n="1.5.104">If I profane with my unworthiest hand </l>
             <l xml:id="ftln-0708" n="1.5.105">This holy shrine, the gentle sin is this: </l>
             <l xml:id="ftln-0709" n="1.5.106">My lips, two blushing pilgrims, ready stand </l>
@@ -1976,10 +1838,7 @@
           <sp xml:id="sp-0720" who="#Romeo_Rom">
             <speaker xml:id="spk-0720">ROMEO </speaker>
             <l xml:id="ftln-0720" n="1.5.117">Then move not while my prayer’s effect I take. </l>
-            <stage xml:id="stg-0720.1"
-                         n="SD 1.5.117.1"
-                         type="business"
-                         who="#Romeo_Rom #Juliet_Rom">He kisses her. </stage>
+            <stage xml:id="stg-0720.1" n="SD 1.5.117.1" type="business" who="#Romeo_Rom #Juliet_Rom">He kisses her. </stage>
             <l xml:id="ftln-0721" n="1.5.118">Thus from my lips, by thine, my sin is purged. </l>
           </sp>
           <sp xml:id="sp-0722" who="#Juliet_Rom">
@@ -1991,10 +1850,7 @@
             <l xml:id="ftln-0723" n="1.5.120">Sin from my lips? O trespass sweetly urged! </l>
             <l xml:id="ftln-0724" n="1.5.121" part="I">Give me my sin again. </l>
           </sp>
-          <stage xml:id="stg-0724"
-                      n="SD 1.5.121"
-                      type="business"
-                      who="#Romeo_Rom #Juliet_Rom">He kisses her. </stage>
+          <stage xml:id="stg-0724" n="SD 1.5.121" type="business" who="#Romeo_Rom #Juliet_Rom">He kisses her. </stage>
           <sp xml:id="sp-0725" who="#Juliet_Rom">
             <speaker xml:id="spk-0725">JULIET </speaker>
             <l xml:id="ftln-0725" n="1.5.122" part="F">You kiss by th’ book. </l>
@@ -2003,10 +1859,7 @@
             <speaker xml:id="spk-0726">NURSE </speaker>
             <l xml:id="ftln-0726" n="1.5.123">Madam, your mother craves a word with you. </l>
           </sp>
-          <stage xml:id="stg-0726.1"
-                      n="SD 1.5.123.1"
-                      type="business"
-                      who="#Juliet_Rom">Juliet moves toward her mother. </stage>
+          <stage xml:id="stg-0726.1" n="SD 1.5.123.1" type="business" who="#Juliet_Rom">Juliet moves toward her mother. </stage>
           <sp xml:id="sp-0727" who="#Romeo_Rom">
             <speaker xml:id="spk-0727">ROMEO </speaker>
             <l xml:id="ftln-0727" n="1.5.124" part="I">What is her mother? </l>
@@ -2020,10 +1873,7 @@
             <l xml:id="ftln-0732" n="1.5.129">I tell you, he that can lay hold of her </l>
             <l xml:id="ftln-0733" n="1.5.130" part="I">Shall have the chinks. </l>
           </sp>
-          <stage xml:id="stg-0733"
-                      n="SD 1.5.130"
-                      type="business"
-                      who="#Nurse_Rom">Nurse moves away. </stage>
+          <stage xml:id="stg-0733" n="SD 1.5.130" type="business" who="#Nurse_Rom">Nurse moves away. </stage>
           <sp xml:id="sp-0734" who="#Romeo_Rom">
             <speaker xml:id="spk-0734">ROMEO </speaker>
             <stage xml:id="stg-0734" n="SD 1.5.131" type="delivery">, aside </stage>
@@ -2048,10 +1898,7 @@
             <l xml:id="ftln-0743" n="1.5.140">Ah, sirrah, by my fay, it waxes late. </l>
             <l xml:id="ftln-0744" n="1.5.141" ana="#short">I’ll to my rest. </l>
           </sp>
-          <stage xml:id="stg-0744.1"
-                      n="SD 1.5.141.1"
-                      type="exit"
-                      who="#Romeo_Rom #Mercutio_Rom #Benvolio_Rom #MASKERS_Rom #ATTENDANTS_Rom #Boy_Rom #Capulet_Rom #LadyCapulet_Rom #Cousin_Rom #GUESTS_Rom #SERVANTS.CAPULET_Rom">All but Juliet and the Nurse begin to exit. </stage>
+          <stage xml:id="stg-0744.1" n="SD 1.5.141.1" type="exit" who="#Romeo_Rom #Mercutio_Rom #Benvolio_Rom #MASKERS_Rom #ATTENDANTS_Rom #Boy_Rom #Capulet_Rom #LadyCapulet_Rom #Cousin_Rom #GUESTS_Rom #SERVANTS.CAPULET_Rom">All but Juliet and the Nurse begin to exit. </stage>
           <sp xml:id="sp-0745" who="#Juliet_Rom">
             <speaker xml:id="spk-0745">JULIET </speaker>
             <l xml:id="ftln-0745" n="1.5.142">Come hither, nurse. What is yond gentleman? </l>
@@ -2079,20 +1926,12 @@
           </sp>
           <sp xml:id="sp-0751" who="#Juliet_Rom">
             <speaker xml:id="spk-0751">JULIET </speaker>
-            <l xml:id="ftln-0751" n="1.5.148">Go ask his name. <stage xml:id="stg-0751"
-                            n="SD 1.5.148"
-                            type="exit"
-                            rendition="inline"
-                            who="#Nurse_Rom"> The Nurse goes. </stage> If he be marrièd, </l>
+            <l xml:id="ftln-0751" n="1.5.148">Go ask his name. <stage xml:id="stg-0751" n="SD 1.5.148" type="exit" rendition="inline" who="#Nurse_Rom"> The Nurse goes. </stage> If he be marrièd, </l>
             <l xml:id="ftln-0752" n="1.5.149">My grave is like to be my wedding bed. </l>
           </sp>
           <sp xml:id="sp-0753" who="#Nurse_Rom">
             <speaker xml:id="spk-0753">NURSE </speaker>
-            <stage xml:id="stg-0753.0"
-                         n="SD 1.5.150.0"
-                         type="entrance"
-                         rendition="inline"
-                         who="#Nurse_Rom">, returning </stage>
+            <stage xml:id="stg-0753.0" n="SD 1.5.150.0" type="entrance" rendition="inline" who="#Nurse_Rom">, returning </stage>
             <l xml:id="ftln-0753" n="1.5.150">His name is Romeo, and a Montague, </l>
             <l xml:id="ftln-0754" n="1.5.151">The only son of your great enemy. </l>
           </sp>
@@ -2118,19 +1957,13 @@
             <l xml:id="ftln-0762" n="1.5.159" part="F">Anon, anon. </l>
             <l xml:id="ftln-0763" n="1.5.160">Come, let’s away. The strangers all are gone. </l>
           </sp>
-          <stage xml:id="stg-0763.1"
-                      n="SD 1.5.160.1"
-                      type="exit"
-                      who="#Nurse_Rom #Juliet_Rom">They exit. </stage>
+          <stage xml:id="stg-0763.1" n="SD 1.5.160.1" type="exit" who="#Nurse_Rom #Juliet_Rom">They exit. </stage>
         </div>
       </div>
       <div type="act" n="2">
         <head>ACT 2 </head>
         <div type="chorus" n="CHO">
-          <stage xml:id="stg-0763.2"
-                      n="SD 2.CHO.0"
-                      type="entrance"
-                      who="#Chorus_Rom">Enter Chorus. </stage>
+          <stage xml:id="stg-0763.2" n="SD 2.CHO.0" type="entrance" who="#Chorus_Rom">Enter Chorus. </stage>
           <sp xml:id="sp-0764" who="#Chorus_Rom">
             <l xml:id="ftln-0764" n="2.CHO.1">Now old desire doth in his deathbed lie, </l>
             <l xml:id="ftln-0765" n="2.CHO.2">And young affection gapes to be his heir. </l>
@@ -2147,30 +1980,18 @@
             <l xml:id="ftln-0776" n="2.CHO.13">But passion lends them power, time means, to meet, </l>
             <l xml:id="ftln-0777" n="2.CHO.14">Temp’ring extremities with extreme sweet. </l>
           </sp>
-          <stage xml:id="stg-0777.1"
-                      n="SD 2.CHO.14.1"
-                      type="exit"
-                      who="#Chorus_Rom">Chorus exits. </stage>
+          <stage xml:id="stg-0777.1" n="SD 2.CHO.14.1" type="exit" who="#Chorus_Rom">Chorus exits. </stage>
         </div>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-0777.2"
-                      n="SD 2.1.0"
-                      type="entrance"
-                      who="#Romeo_Rom">Enter Romeo alone. </stage>
+          <stage xml:id="stg-0777.2" n="SD 2.1.0" type="entrance" who="#Romeo_Rom">Enter Romeo alone. </stage>
           <sp xml:id="sp-0778" who="#Romeo_Rom">
             <speaker xml:id="spk-0778">ROMEO </speaker>
             <l xml:id="ftln-0778" n="2.1.1">Can I go forward when my heart is here? </l>
             <l xml:id="ftln-0779" n="2.1.2">Turn back, dull earth, and find thy center out. </l>
           </sp>
-          <stage xml:id="stg-0779.1"
-                      n="SD 2.1.2.1"
-                      type="business"
-                      who="#Romeo_Rom">He withdraws. </stage>
-          <stage xml:id="stg-0779.2"
-                      n="SD 2.1.2.2"
-                      type="entrance"
-                      who="#Benvolio_Rom #Mercutio_Rom">Enter Benvolio with Mercutio. </stage>
+          <stage xml:id="stg-0779.1" n="SD 2.1.2.1" type="business" who="#Romeo_Rom">He withdraws. </stage>
+          <stage xml:id="stg-0779.2" n="SD 2.1.2.2" type="entrance" who="#Benvolio_Rom #Mercutio_Rom">Enter Benvolio with Mercutio. </stage>
           <sp xml:id="sp-0780" who="#Benvolio_Rom">
             <speaker xml:id="spk-0780">BENVOLIO </speaker>
             <l xml:id="ftln-0780" n="2.1.3">Romeo, my cousin Romeo, Romeo! </l>
@@ -2241,25 +2062,15 @@
             <l xml:id="ftln-0822" n="2.1.45" part="F">Go, then, for ’tis in vain </l>
             <l xml:id="ftln-0823" n="2.1.46">To seek him here that means not to be found. </l>
           </sp>
-          <stage xml:id="stg-0823.1"
-                      n="SD 2.1.46.1"
-                      type="exit"
-                      who="#Benvolio_Rom #Mercutio_Rom">They exit. </stage>
+          <stage xml:id="stg-0823.1" n="SD 2.1.46.1" type="exit" who="#Benvolio_Rom #Mercutio_Rom">They exit. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-0823.2"
-                      n="SD 2.2.0"
-                      type="business"
-                      rendition="centered"
-                      who="#Romeo_Rom">Romeo comes forward. </stage>
+          <stage xml:id="stg-0823.2" n="SD 2.2.0" type="business" rendition="centered" who="#Romeo_Rom">Romeo comes forward. </stage>
           <sp xml:id="sp-0824" who="#Romeo_Rom">
             <speaker xml:id="spk-0824">ROMEO </speaker>
             <l xml:id="ftln-0824" n="2.2.1">He jests at scars that never felt a wound. </l>
-            <stage xml:id="stg-0824.1"
-                         n="SD 2.2.1.1"
-                         type="entrance"
-                         who="#Juliet_Rom">Enter Juliet above. </stage>
+            <stage xml:id="stg-0824.1" n="SD 2.2.1.1" type="entrance" who="#Juliet_Rom">Enter Juliet above. </stage>
             <l xml:id="ftln-0825" n="2.2.2">But soft, what light through yonder window breaks? </l>
             <l xml:id="ftln-0826" n="2.2.3">It is the East, and Juliet is the sun. </l>
             <l xml:id="ftln-0827" n="2.2.4">Arise, fair sun, and kill the envious moon, </l>
@@ -2495,10 +2306,7 @@
             <l xml:id="ftln-0963" n="2.2.140">My bounty is as boundless as the sea, </l>
             <l xml:id="ftln-0964" n="2.2.141">My love as deep. The more I give to thee, </l>
             <l xml:id="ftln-0965" n="2.2.142">The more I have, for both are infinite. </l>
-            <stage xml:id="stg-0965.1"
-                         n="SD 2.2.142.1"
-                         type="business"
-                         who="#Nurse_Rom">Nurse calls from within. </stage>
+            <stage xml:id="stg-0965.1" n="SD 2.2.142.1" type="business" who="#Nurse_Rom">Nurse calls from within. </stage>
             <l xml:id="ftln-0966" n="2.2.143">I hear some noise within. Dear love, adieu.— </l>
             <l xml:id="ftln-0967" n="2.2.144">Anon, good nurse.— Sweet Montague, be true. </l>
             <l xml:id="ftln-0968" n="2.2.145">Stay but a little; I will come again. </l>
@@ -2510,10 +2318,7 @@
             <l xml:id="ftln-0970" n="2.2.147">Being in night, all this is but a dream, </l>
             <l xml:id="ftln-0971" n="2.2.148">Too flattering sweet to be substantial. </l>
           </sp>
-          <stage xml:id="stg-0971.1"
-                      n="SD 2.2.148.1"
-                      type="entrance"
-                      who="#Juliet_Rom">Reenter Juliet above. </stage>
+          <stage xml:id="stg-0971.1" n="SD 2.2.148.1" type="entrance" who="#Juliet_Rom">Reenter Juliet above. </stage>
           <sp xml:id="sp-0972" who="#Juliet_Rom">
             <speaker xml:id="spk-0972">JULIET </speaker>
             <l xml:id="ftln-0972" n="2.2.149">Three words, dear Romeo, and good night indeed. </l>
@@ -2562,14 +2367,8 @@
             <l xml:id="ftln-0989" n="2.2.166">Love goes toward love as schoolboys from their books, </l>
             <l xml:id="ftln-0991" n="2.2.168">But love from love, toward school with heavy looks. </l>
           </sp>
-          <stage xml:id="stg-0991.1"
-                      n="SD 2.2.168.1"
-                      type="business"
-                      who="#Romeo_Rom">Going. </stage>
-          <stage xml:id="stg-0991.2"
-                      n="SD 2.2.168.2"
-                      type="entrance"
-                      who="#Juliet_Rom">Enter Juliet above again. </stage>
+          <stage xml:id="stg-0991.1" n="SD 2.2.168.1" type="business" who="#Romeo_Rom">Going. </stage>
+          <stage xml:id="stg-0991.2" n="SD 2.2.168.2" type="entrance" who="#Juliet_Rom">Enter Juliet above again. </stage>
           <sp xml:id="sp-0992" who="#Juliet_Rom">
             <speaker xml:id="spk-0992">JULIET </speaker>
             <l xml:id="ftln-0992" n="2.2.169">Hist, Romeo, hist! O, for a falc’ner’s voice </l>
@@ -2641,10 +2440,7 @@
             <l xml:id="ftln-1022" n="2.2.199">Good night, good night. Parting is such sweet sorrow </l>
             <l xml:id="ftln-1024" n="2.2.201">That I shall say “ Good night” till it be morrow. </l>
           </sp>
-          <stage xml:id="stg-1024.1"
-                      n="SD 2.2.201.1"
-                      type="exit"
-                      who="#Juliet_Rom">She exits. </stage>
+          <stage xml:id="stg-1024.1" n="SD 2.2.201.1" type="exit" who="#Juliet_Rom">She exits. </stage>
           <sp xml:id="sp-1025" who="#Romeo_Rom">
             <speaker xml:id="spk-1025">ROMEO </speaker>
             <l xml:id="ftln-1025" n="2.2.202">Sleep dwell upon thine eyes, peace in thy breast. </l>
@@ -2652,17 +2448,11 @@
             <l xml:id="ftln-1027" n="2.2.204">Hence will I to my ghostly friar’s close cell, </l>
             <l xml:id="ftln-1028" n="2.2.205">His help to crave, and my dear hap to tell. </l>
           </sp>
-          <stage xml:id="stg-1028.1"
-                      n="SD 2.2.205.1"
-                      type="exit"
-                      who="#Romeo_Rom">He exits. </stage>
+          <stage xml:id="stg-1028.1" n="SD 2.2.205.1" type="exit" who="#Romeo_Rom">He exits. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-1028.2"
-                      n="SD 2.3.0"
-                      type="entrance"
-                      who="#FriarLawrence_Rom">Enter Friar Lawrence alone with a basket. </stage>
+          <stage xml:id="stg-1028.2" n="SD 2.3.0" type="entrance" who="#FriarLawrence_Rom">Enter Friar Lawrence alone with a basket. </stage>
           <sp xml:id="sp-1029" who="#FriarLawrence_Rom">
             <speaker xml:id="spk-1029">FRIAR LAWRENCE </speaker>
             <l xml:id="ftln-1029" n="2.3.1">The gray-eyed morn smiles on the frowning night, </l>
@@ -2687,10 +2477,7 @@
             <l xml:id="ftln-1048" n="2.3.20">Revolts from true birth, stumbling on abuse. </l>
             <l xml:id="ftln-1049" n="2.3.21">Virtue itself turns vice, being misapplied, </l>
             <l xml:id="ftln-1050" n="2.3.22">And vice sometime by action dignified. </l>
-            <stage xml:id="stg-1050.1"
-                         n="SD 2.3.22.1"
-                         type="entrance"
-                         who="#Romeo_Rom">Enter Romeo. </stage>
+            <stage xml:id="stg-1050.1" n="SD 2.3.22.1" type="entrance" who="#Romeo_Rom">Enter Romeo. </stage>
             <l xml:id="ftln-1051" n="2.3.23">Within the infant rind of this weak flower </l>
             <l xml:id="ftln-1052" n="2.3.24">Poison hath residence and medicine power: </l>
             <l xml:id="ftln-1053" n="2.3.25">For this, being smelt, with that part cheers each part; </l>
@@ -2821,17 +2608,11 @@
             <speaker xml:id="spk-1129">FRIAR LAWRENCE </speaker>
             <l xml:id="ftln-1129" n="2.3.101">Wisely and slow. They stumble that run fast. </l>
           </sp>
-          <stage xml:id="stg-1129.1"
-                      n="SD 2.3.101.1"
-                      type="exit"
-                      who="#Romeo_Rom #FriarLawrence_Rom">They exit. </stage>
+          <stage xml:id="stg-1129.1" n="SD 2.3.101.1" type="exit" who="#Romeo_Rom #FriarLawrence_Rom">They exit. </stage>
         </div>
         <div type="scene" n="4">
           <head>Scene 4 </head>
-          <stage xml:id="stg-1129.2"
-                      n="SD 2.4.0"
-                      type="entrance"
-                      who="#Benvolio_Rom #Mercutio_Rom">Enter Benvolio and Mercutio. </stage>
+          <stage xml:id="stg-1129.2" n="SD 2.4.0" type="entrance" who="#Benvolio_Rom #Mercutio_Rom">Enter Benvolio and Mercutio. </stage>
           <sp xml:id="sp-1130" who="#Mercutio_Rom">
             <speaker xml:id="spk-1130">MERCUTIO </speaker>
             <l xml:id="ftln-1130" n="2.4.1">Where the devil should this Romeo be? </l>
@@ -2896,10 +2677,7 @@
             <p xml:id="p-1158">
               <lb xml:id="ftln-1158" n="2.4.29"/>The pox of such antic, lisping, affecting <lb xml:id="ftln-1159" n="2.4.30"/>phantasimes, these new tuners of accent: “ By <lb xml:id="ftln-1160" n="2.4.31"/>Jesu, a very good blade! A very tall man! A very good <lb xml:id="ftln-1161" n="2.4.32"/>whore!” Why, is not this a lamentable thing, grandsire, <lb xml:id="ftln-1162" n="2.4.33"/>that we should be thus afflicted with these <lb xml:id="ftln-1163" n="2.4.34"/>strange flies, these fashion-mongers, these “pardon-me” ’s, <lb xml:id="ftln-1164" n="2.4.35"/>who stand so much on the new form <lb xml:id="ftln-1165" n="2.4.36"/>that they cannot sit at ease on the old bench? O their <lb xml:id="ftln-1166" n="2.4.37"/>bones, their bones! </p>
           </sp>
-          <stage xml:id="stg-1166.1"
-                      n="SD 2.4.37.1"
-                      type="entrance"
-                      who="#Romeo_Rom">Enter Romeo. </stage>
+          <stage xml:id="stg-1166.1" n="SD 2.4.37.1" type="entrance" who="#Romeo_Rom">Enter Romeo. </stage>
           <sp xml:id="sp-1167" who="#Benvolio_Rom">
             <speaker xml:id="spk-1167">BENVOLIO </speaker>
             <p xml:id="p-1167">
@@ -3050,10 +2828,7 @@
             <p xml:id="p-1229">
               <lb xml:id="ftln-1229" n="2.4.100"/>O, thou art deceived. I would have made it <lb xml:id="ftln-1230" n="2.4.101"/>short, for I was come to the whole depth of my tale <lb xml:id="ftln-1231" n="2.4.102"/>and meant indeed to occupy the argument no <lb xml:id="ftln-1232" n="2.4.103"/>longer. </p>
           </sp>
-          <stage xml:id="stg-1232.1"
-                      n="SD 2.4.103.1"
-                      type="entrance"
-                      who="#Nurse_Rom #SERVANTS.CAPULET.Peter_Rom">Enter Nurse and her man Peter. </stage>
+          <stage xml:id="stg-1232.1" n="SD 2.4.103.1" type="entrance" who="#Nurse_Rom #SERVANTS.CAPULET.Peter_Rom">Enter Nurse and her man Peter. </stage>
           <sp xml:id="sp-1233" who="#Romeo_Rom">
             <speaker xml:id="spk-1233">ROMEO </speaker>
             <p xml:id="p-1233">
@@ -3158,10 +2933,7 @@
             <speaker xml:id="spk-1263">MERCUTIO </speaker>
             <p xml:id="p-1263">
               <lb xml:id="ftln-1263" n="2.4.134"/>No hare, sir, unless a hare, sir, in a Lenten <lb xml:id="ftln-1264" n="2.4.135"/>pie that is something stale and hoar ere it be spent. </p>
-            <stage xml:id="stg-1265"
-                         n="SD 2.4.136"
-                         type="delivery"
-                         rendition="indentProse">Singing. </stage>
+            <stage xml:id="stg-1265" n="SD 2.4.136" type="delivery" rendition="indentProse">Singing. </stage>
             <lg xml:id="stz-1265" type="aaBaaB">
               <l xml:id="ftln-1265" n="2.4.136">An old hare hoar, </l>
               <l xml:id="ftln-1266" n="2.4.137">And an old hare hoar, </l>
@@ -3183,10 +2955,7 @@
             <p xml:id="p-1274">
               <lb xml:id="ftln-1274" n="2.4.145"/>Farewell, ancient lady. Farewell, lady, lady, <lb xml:id="ftln-1275" n="2.4.146"/>lady. </p>
           </sp>
-          <stage xml:id="stg-1275"
-                      n="SD 2.4.146"
-                      type="exit"
-                      who="#Mercutio_Rom #Benvolio_Rom">Mercutio and Benvolio exit. </stage>
+          <stage xml:id="stg-1275" n="SD 2.4.146" type="exit" who="#Mercutio_Rom #Benvolio_Rom">Mercutio and Benvolio exit. </stage>
           <sp xml:id="sp-1276" who="#Nurse_Rom">
             <speaker xml:id="spk-1276">NURSE </speaker>
             <p xml:id="p-1276">
@@ -3239,10 +3008,7 @@
             <l xml:id="ftln-1314" n="2.4.185">And there she shall at Friar Lawrence’ cell </l>
             <l xml:id="ftln-1315" n="2.4.186">Be shrived and married. Here is for thy pains. </l>
           </sp>
-          <stage xml:id="stg-1315.1"
-                      n="SD 2.4.186.1"
-                      type="business"
-                      who="#Romeo_Rom">Offering her money. </stage>
+          <stage xml:id="stg-1315.1" n="SD 2.4.186.1" type="business" who="#Romeo_Rom">Offering her money. </stage>
           <sp xml:id="sp-1316" who="#Nurse_Rom">
             <speaker xml:id="spk-1316">NURSE </speaker>
             <p xml:id="p-1316">
@@ -3319,17 +3085,11 @@
             <p xml:id="p-1348">
               <lb xml:id="ftln-1348" n="2.4.219"/>Before and apace. </p>
           </sp>
-          <stage xml:id="stg-1348.1"
-                      n="SD 2.4.219.1"
-                      type="exit"
-                      who="#Romeo_Rom #Nurse_Rom #SERVANTS.CAPULET.Peter_Rom">They exit. </stage>
+          <stage xml:id="stg-1348.1" n="SD 2.4.219.1" type="exit" who="#Romeo_Rom #Nurse_Rom #SERVANTS.CAPULET.Peter_Rom">They exit. </stage>
         </div>
         <div type="scene" n="5">
           <head>Scene 5 </head>
-          <stage xml:id="stg-1348.2"
-                      n="SD 2.5.0"
-                      type="entrance"
-                      who="#Juliet_Rom">Enter Juliet. </stage>
+          <stage xml:id="stg-1348.2" n="SD 2.5.0" type="entrance" who="#Juliet_Rom">Enter Juliet. </stage>
           <sp xml:id="sp-1349" who="#Juliet_Rom">
             <speaker xml:id="spk-1349">JULIET </speaker>
             <l xml:id="ftln-1349" n="2.5.1">The clock struck nine when I did send the Nurse. </l>
@@ -3349,10 +3109,7 @@
             <l xml:id="ftln-1363" n="2.5.15" ana="#short">And his to me. </l>
             <l xml:id="ftln-1364" n="2.5.16">But old folks, many feign as they were dead, </l>
             <l xml:id="ftln-1365" n="2.5.17">Unwieldy, slow, heavy, and pale as lead. </l>
-            <stage xml:id="stg-1365.1"
-                         n="SD 2.5.17.1"
-                         type="entrance"
-                         who="#Nurse_Rom #SERVANTS.CAPULET.Peter_Rom">Enter Nurse and Peter. </stage>
+            <stage xml:id="stg-1365.1" n="SD 2.5.17.1" type="entrance" who="#Nurse_Rom #SERVANTS.CAPULET.Peter_Rom">Enter Nurse and Peter. </stage>
             <l xml:id="ftln-1366" n="2.5.18">O God, she comes!— O, honey nurse, what news? </l>
             <l xml:id="ftln-1367" n="2.5.19">Hast thou met with him? Send thy man away. </l>
           </sp>
@@ -3361,10 +3118,7 @@
             <p xml:id="p-1368">
               <lb xml:id="ftln-1368" n="2.5.20"/>Peter, stay at the gate. </p>
           </sp>
-          <stage xml:id="stg-1368"
-                      n="SD 2.5.20"
-                      type="exit"
-                      who="#SERVANTS.CAPULET.Peter_Rom">Peter exits. </stage>
+          <stage xml:id="stg-1368" n="SD 2.5.20" type="exit" who="#SERVANTS.CAPULET.Peter_Rom">Peter exits. </stage>
           <sp xml:id="sp-1369" who="#Juliet_Rom">
             <speaker xml:id="spk-1369">JULIET </speaker>
             <l xml:id="ftln-1369" n="2.5.21">Now, good sweet nurse— O Lord, why lookest thou sad? </l>
@@ -3469,17 +3223,11 @@
             <speaker xml:id="spk-1431">JULIET </speaker>
             <l xml:id="ftln-1431" n="2.5.83">Hie to high fortune! Honest nurse, farewell. </l>
           </sp>
-          <stage xml:id="stg-1431.1"
-                      n="SD 2.5.83.1"
-                      type="exit"
-                      who="#Juliet_Rom #Nurse_Rom">They exit. </stage>
+          <stage xml:id="stg-1431.1" n="SD 2.5.83.1" type="exit" who="#Juliet_Rom #Nurse_Rom">They exit. </stage>
         </div>
         <div type="scene" n="6">
           <head>Scene 6 </head>
-          <stage xml:id="stg-1431.2"
-                      n="SD 2.6.0"
-                      type="entrance"
-                      who="#FriarLawrence_Rom #Romeo_Rom">Enter Friar Lawrence and Romeo. </stage>
+          <stage xml:id="stg-1431.2" n="SD 2.6.0" type="entrance" who="#FriarLawrence_Rom #Romeo_Rom">Enter Friar Lawrence and Romeo. </stage>
           <sp xml:id="sp-1432" who="#FriarLawrence_Rom">
             <speaker xml:id="spk-1432">FRIAR LAWRENCE </speaker>
             <l xml:id="ftln-1432" n="2.6.1">So smile the heavens upon this holy act </l>
@@ -3503,10 +3251,7 @@
             <l xml:id="ftln-1444" n="2.6.13">And in the taste confounds the appetite. </l>
             <l xml:id="ftln-1445" n="2.6.14">Therefore love moderately. Long love doth so. </l>
             <l xml:id="ftln-1446" n="2.6.15">Too swift arrives as tardy as too slow. </l>
-            <stage xml:id="stg-1446.1"
-                         n="SD 2.6.15.1"
-                         type="entrance"
-                         who="#Juliet_Rom">Enter Juliet. </stage>
+            <stage xml:id="stg-1446.1" n="SD 2.6.15.1" type="entrance" who="#Juliet_Rom">Enter Juliet. </stage>
             <l xml:id="ftln-1447" n="2.6.16">Here comes the lady. O, so light a foot </l>
             <l xml:id="ftln-1448" n="2.6.17">Will ne’er wear out the everlasting flint. </l>
             <l xml:id="ftln-1449" n="2.6.18">A lover may bestride the gossamers </l>
@@ -3548,20 +3293,14 @@
             <l xml:id="ftln-1467" n="2.6.36">For, by your leaves, you shall not stay alone </l>
             <l xml:id="ftln-1468" n="2.6.37">Till Holy Church incorporate two in one. </l>
           </sp>
-          <stage xml:id="stg-1468.1"
-                      n="SD 2.6.37.1"
-                      type="exit"
-                      who="#FriarLawrence_Rom #Romeo_Rom #Juliet_Rom">They exit. </stage>
+          <stage xml:id="stg-1468.1" n="SD 2.6.37.1" type="exit" who="#FriarLawrence_Rom #Romeo_Rom #Juliet_Rom">They exit. </stage>
         </div>
       </div>
       <div type="act" n="3">
         <head>ACT 3 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-1468.2"
-                      n="SD 3.1.0"
-                      type="entrance"
-                      who="#Mercutio_Rom #Benvolio_Rom #SERVANTS.MONTAGUE_Rom">Enter Mercutio, Benvolio, and their men. </stage>
+          <stage xml:id="stg-1468.2" n="SD 3.1.0" type="entrance" who="#Mercutio_Rom #Benvolio_Rom #SERVANTS.MONTAGUE_Rom">Enter Mercutio, Benvolio, and their men. </stage>
           <sp xml:id="sp-1469" who="#Benvolio_Rom">
             <speaker xml:id="spk-1469">BENVOLIO </speaker>
             <l xml:id="ftln-1469" n="3.1.1">I pray thee, good Mercutio, let’s retire. </l>
@@ -3604,10 +3343,7 @@
             <p xml:id="p-1503">
               <lb xml:id="ftln-1503" n="3.1.35"/>The fee simple? O simple! </p>
           </sp>
-          <stage xml:id="stg-1503.1"
-                      n="SD 3.1.35.1"
-                      type="entrance"
-                      who="#Tybalt_Rom #Petruchio_Rom #SERVANTS.CAPULET_Rom">Enter Tybalt, Petruchio, and others. </stage>
+          <stage xml:id="stg-1503.1" n="SD 3.1.35.1" type="entrance" who="#Tybalt_Rom #Petruchio_Rom #SERVANTS.CAPULET_Rom">Enter Tybalt, Petruchio, and others. </stage>
           <sp xml:id="sp-1504" who="#Benvolio_Rom">
             <speaker xml:id="spk-1504">BENVOLIO </speaker>
             <p xml:id="p-1504">
@@ -3661,10 +3397,7 @@
             <l xml:id="ftln-1523" n="3.1.55">Men’s eyes were made to look, and let them gaze. </l>
             <l xml:id="ftln-1524" n="3.1.56">I will not budge for no man’s pleasure, I. </l>
           </sp>
-          <stage xml:id="stg-1524.1"
-                      n="SD 3.1.56.1"
-                      type="entrance"
-                      who="#Romeo_Rom">Enter Romeo. </stage>
+          <stage xml:id="stg-1524.1" n="SD 3.1.56.1" type="entrance" who="#Romeo_Rom">Enter Romeo. </stage>
           <sp xml:id="sp-1525" who="#Tybalt_Rom">
             <speaker xml:id="spk-1525">TYBALT </speaker>
             <l xml:id="ftln-1525" n="3.1.57">Well, peace be with you, sir. Here comes my man. </l>
@@ -3704,10 +3437,7 @@
             <speaker xml:id="spk-1542">MERCUTIO </speaker>
             <l xml:id="ftln-1542" n="3.1.74">O calm, dishonorable, vile submission! </l>
             <l xml:id="ftln-1543" n="3.1.75">Alla stoccato carries it away. </l>
-            <stage xml:id="stg-1543"
-                         n="SD 3.1.75"
-                         type="business"
-                         who="#Mercutio_Rom">He draws. </stage>
+            <stage xml:id="stg-1543" n="SD 3.1.75" type="business" who="#Mercutio_Rom">He draws. </stage>
             <l xml:id="ftln-1544" n="3.1.76">Tybalt, you ratcatcher, will you walk? </l>
           </sp>
           <sp xml:id="sp-1545" who="#Tybalt_Rom">
@@ -3725,10 +3455,7 @@
             <p xml:id="p-1552">
               <lb xml:id="ftln-1552" n="3.1.84"/>I am for you. </p>
           </sp>
-          <stage xml:id="stg-1552"
-                      n="SD 3.1.84"
-                      type="business"
-                      who="#Tybalt_Rom">He draws. </stage>
+          <stage xml:id="stg-1552" n="SD 3.1.84" type="business" who="#Tybalt_Rom">He draws. </stage>
           <sp xml:id="sp-1553" who="#Romeo_Rom">
             <speaker xml:id="spk-1553">ROMEO </speaker>
             <l xml:id="ftln-1553" n="3.1.85">Gentle Mercutio, put thy rapier up. </l>
@@ -3737,35 +3464,23 @@
             <speaker xml:id="spk-1554">MERCUTIO </speaker>
             <l xml:id="ftln-1554" n="3.1.86" ana="#short">Come, sir, your passado. </l>
           </sp>
-          <stage xml:id="stg-1554"
-                      n="SD 3.1.86"
-                      type="business"
-                      who="#Mercutio_Rom #Tybalt_Rom">They fight. </stage>
+          <stage xml:id="stg-1554" n="SD 3.1.86" type="business" who="#Mercutio_Rom #Tybalt_Rom">They fight. </stage>
           <sp xml:id="sp-1555" who="#Romeo_Rom">
             <speaker xml:id="spk-1555">ROMEO </speaker>
             <l xml:id="ftln-1555" n="3.1.87">Draw, Benvolio, beat down their weapons. </l>
-            <stage xml:id="stg-1555.1"
-                         n="SD 3.1.87.1"
-                         type="business"
-                         who="#Romeo_Rom">Romeo draws. </stage>
+            <stage xml:id="stg-1555.1" n="SD 3.1.87.1" type="business" who="#Romeo_Rom">Romeo draws. </stage>
             <l xml:id="ftln-1556" n="3.1.88">Gentlemen, for shame forbear this outrage! </l>
             <l xml:id="ftln-1557" n="3.1.89">Tybalt! Mercutio! The Prince expressly hath </l>
             <l xml:id="ftln-1558" n="3.1.90">Forbid this bandying in Verona streets. </l>
             <l xml:id="ftln-1559" n="3.1.91">Hold, Tybalt! Good Mercutio! </l>
           </sp>
-          <stage xml:id="stg-1559.1"
-                      n="SD 3.1.91.1"
-                      type="business"
-                      who="#Romeo_Rom #Tybalt_Rom #Mercutio_Rom">Romeo attempts to beat down their rapiers. Tybalt stabs Mercutio. </stage>
+          <stage xml:id="stg-1559.1" n="SD 3.1.91.1" type="business" who="#Romeo_Rom #Tybalt_Rom #Mercutio_Rom">Romeo attempts to beat down their rapiers. Tybalt stabs Mercutio. </stage>
           <sp xml:id="sp-1560" who="#Petruchio_Rom">
             <speaker xml:id="spk-1560">PETRUCHIO </speaker>
             <p xml:id="p-1560">
               <lb xml:id="ftln-1560" n="3.1.92"/>Away, Tybalt! </p>
           </sp>
-          <stage xml:id="stg-1560.1"
-                      n="SD 3.1.92.1"
-                      type="exit"
-                      who="#Tybalt_Rom #Petruchio_Rom #SERVANTS.CAPULET_Rom">Tybalt, Petruchio, and their followers exit. </stage>
+          <stage xml:id="stg-1560.1" n="SD 3.1.92.1" type="exit" who="#Tybalt_Rom #Petruchio_Rom #SERVANTS.CAPULET_Rom">Tybalt, Petruchio, and their followers exit. </stage>
           <sp xml:id="sp-1561" who="#Mercutio_Rom">
             <speaker xml:id="spk-1561">MERCUTIO </speaker>
             <l xml:id="ftln-1561" n="3.1.93" ana="#short">I am hurt. </l>
@@ -3781,10 +3496,7 @@
             <l xml:id="ftln-1565" n="3.1.97">Ay, ay, a scratch, a scratch. Marry, ’tis enough. </l>
             <l xml:id="ftln-1566" n="3.1.98">Where is my page?— Go, villain, fetch a surgeon. </l>
           </sp>
-          <stage xml:id="stg-1566.1"
-                      n="SD 3.1.98.1"
-                      type="exit"
-                      who="#SERVANTS.MONTAGUE.0.1_Rom">Page exits. </stage>
+          <stage xml:id="stg-1566.1" n="SD 3.1.98.1" type="exit" who="#SERVANTS.MONTAGUE.0.1_Rom">Page exits. </stage>
           <sp xml:id="sp-1567" who="#Romeo_Rom">
             <speaker xml:id="spk-1567">ROMEO </speaker>
             <l xml:id="ftln-1567" n="3.1.99">Courage, man, the hurt cannot be much. </l>
@@ -3805,10 +3517,7 @@
             <l xml:id="ftln-1580" n="3.1.112">They have made worms’ meat of me. </l>
             <l xml:id="ftln-1581" n="3.1.113">I have it, and soundly, too. Your houses! </l>
           </sp>
-          <stage xml:id="stg-1581.1"
-                      n="SD 3.1.113.1"
-                      type="exit"
-                      who="#Mercutio_Rom #Benvolio_Rom #SERVANTS.MONTAGUE_Rom">All but Romeo exit. </stage>
+          <stage xml:id="stg-1581.1" n="SD 3.1.113.1" type="exit" who="#Mercutio_Rom #Benvolio_Rom #SERVANTS.MONTAGUE_Rom">All but Romeo exit. </stage>
           <sp xml:id="sp-1582" who="#Romeo_Rom">
             <speaker xml:id="spk-1582">ROMEO </speaker>
             <l xml:id="ftln-1582" n="3.1.114">This gentleman, the Prince’s near ally, </l>
@@ -3819,10 +3528,7 @@
             <l xml:id="ftln-1587" n="3.1.119">Thy beauty hath made me effeminate </l>
             <l xml:id="ftln-1588" n="3.1.120">And in my temper softened valor’s steel. </l>
           </sp>
-          <stage xml:id="stg-1588.1"
-                      n="SD 3.1.120.1"
-                      type="entrance"
-                      who="#Benvolio_Rom">Enter Benvolio. </stage>
+          <stage xml:id="stg-1588.1" n="SD 3.1.120.1" type="entrance" who="#Benvolio_Rom">Enter Benvolio. </stage>
           <sp xml:id="sp-1589" who="#Benvolio_Rom">
             <speaker xml:id="spk-1589">BENVOLIO </speaker>
             <l xml:id="ftln-1589" n="3.1.121">O Romeo, Romeo, brave Mercutio is dead. </l>
@@ -3834,10 +3540,7 @@
             <l xml:id="ftln-1592" n="3.1.124">This day’s black fate on more days doth depend. </l>
             <l xml:id="ftln-1593" n="3.1.125">This but begins the woe others must end. </l>
           </sp>
-          <stage xml:id="stg-1593.1"
-                      n="SD 3.1.125.1"
-                      type="entrance"
-                      who="#Tybalt_Rom">Enter Tybalt. </stage>
+          <stage xml:id="stg-1593.1" n="SD 3.1.125.1" type="entrance" who="#Tybalt_Rom">Enter Tybalt. </stage>
           <sp xml:id="sp-1594" who="#Benvolio_Rom">
             <speaker xml:id="spk-1594">BENVOLIO </speaker>
             <l xml:id="ftln-1594" n="3.1.126">Here comes the furious Tybalt back again. </l>
@@ -3862,10 +3565,7 @@
             <speaker xml:id="spk-1605">ROMEO </speaker>
             <l xml:id="ftln-1605" n="3.1.137" part="F">This shall determine that. </l>
           </sp>
-          <stage xml:id="stg-1605.1"
-                      n="SD 3.1.137.1"
-                      type="business"
-                      who="#Romeo_Rom #Tybalt_Rom">They fight. Tybalt falls. </stage>
+          <stage xml:id="stg-1605.1" n="SD 3.1.137.1" type="business" who="#Romeo_Rom #Tybalt_Rom">They fight. Tybalt falls. </stage>
           <sp xml:id="sp-1606" who="#Benvolio_Rom">
             <speaker xml:id="spk-1606">BENVOLIO </speaker>
             <l xml:id="ftln-1606" n="3.1.138">Romeo, away, begone! </l>
@@ -3881,14 +3581,8 @@
             <speaker xml:id="spk-1611">BENVOLIO </speaker>
             <l xml:id="ftln-1611" n="3.1.143" part="F">Why dost thou stay? </l>
           </sp>
-          <stage xml:id="stg-1611.1"
-                      n="SD 3.1.143.1"
-                      type="exit"
-                      who="#Romeo_Rom">Romeo exits. </stage>
-          <stage xml:id="stg-1611.2"
-                      n="SD 3.1.143.2"
-                      type="entrance"
-                      who="#CITIZENS_Rom">Enter Citizens. </stage>
+          <stage xml:id="stg-1611.1" n="SD 3.1.143.1" type="exit" who="#Romeo_Rom">Romeo exits. </stage>
+          <stage xml:id="stg-1611.2" n="SD 3.1.143.2" type="entrance" who="#CITIZENS_Rom">Enter Citizens. </stage>
           <sp xml:id="sp-1612" who="#CITIZENS.0.1_Rom">
             <speaker xml:id="spk-1612">CITIZEN </speaker>
             <l xml:id="ftln-1612" n="3.1.144">Which way ran he that killed Mercutio? </l>
@@ -3904,10 +3598,7 @@
             <l xml:id="ftln-1615" n="3.1.147" part="F">Up, sir, go with me. </l>
             <l xml:id="ftln-1616" n="3.1.148">I charge thee in the Prince’s name, obey. </l>
           </sp>
-          <stage xml:id="stg-1616.1"
-                      n="SD 3.1.148.1"
-                      type="entrance"
-                      who="#PrinceEscalus_Rom #Montague_Rom #LadyMontague_Rom #Capulet_Rom #LadyCapulet_Rom #SERVANTS_Rom">Enter Prince, old Montague, Capulet, their Wives and all. </stage>
+          <stage xml:id="stg-1616.1" n="SD 3.1.148.1" type="entrance" who="#PrinceEscalus_Rom #Montague_Rom #LadyMontague_Rom #Capulet_Rom #LadyCapulet_Rom #SERVANTS_Rom">Enter Prince, old Montague, Capulet, their Wives and all. </stage>
           <sp xml:id="sp-1617" who="#PrinceEscalus_Rom">
             <speaker xml:id="spk-1617">PRINCE </speaker>
             <l xml:id="ftln-1617" n="3.1.149">Where are the vile beginners of this fray? </l>
@@ -3993,17 +3684,11 @@
             <l xml:id="ftln-1674" n="3.1.206">Bear hence this body and attend our will. </l>
             <l xml:id="ftln-1675" n="3.1.207">Mercy but murders, pardoning those that kill. </l>
           </sp>
-          <stage xml:id="stg-1675.1"
-                      n="SD 3.1.207.1"
-                      type="exit"
-                      who="#Benvolio_Rom #PrinceEscalus_Rom #Montague_Rom #LadyMontague_Rom #Capulet_Rom #LadyCapulet_Rom #Tybalt_Rom #SERVANTS_Rom #CITIZENS_Rom">They exit, the Capulet men bearing off Tybalt’s body. </stage>
+          <stage xml:id="stg-1675.1" n="SD 3.1.207.1" type="exit" who="#Benvolio_Rom #PrinceEscalus_Rom #Montague_Rom #LadyMontague_Rom #Capulet_Rom #LadyCapulet_Rom #Tybalt_Rom #SERVANTS_Rom #CITIZENS_Rom">They exit, the Capulet men bearing off Tybalt’s body. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-1675.2"
-                      n="SD 3.2.0"
-                      type="entrance"
-                      who="#Juliet_Rom">Enter Juliet alone. </stage>
+          <stage xml:id="stg-1675.2" n="SD 3.2.0" type="entrance" who="#Juliet_Rom">Enter Juliet alone. </stage>
           <sp xml:id="sp-1676" who="#Juliet_Rom">
             <speaker xml:id="spk-1676">JULIET </speaker>
             <l xml:id="ftln-1676" n="3.2.1">Gallop apace, you fiery-footed steeds, </l>
@@ -4037,10 +3722,7 @@
             <l xml:id="ftln-1706" n="3.2.31">As is the night before some festival </l>
             <l xml:id="ftln-1707" n="3.2.32">To an impatient child that hath new robes </l>
             <l xml:id="ftln-1708" n="3.2.33" part="I">And may not wear them. </l>
-            <stage xml:id="stg-1708.1"
-                         n="SD 3.2.33.1"
-                         type="entrance"
-                         who="#Nurse_Rom">Enter Nurse with cords. </stage>
+            <stage xml:id="stg-1708.1" n="SD 3.2.33.1" type="entrance" who="#Nurse_Rom">Enter Nurse with cords. </stage>
             <l xml:id="ftln-1709" n="3.2.34" part="F">O, here comes my nurse, </l>
             <l xml:id="ftln-1710" n="3.2.35">And she brings news, and every tongue that speaks </l>
             <l xml:id="ftln-1711" n="3.2.36">But Romeo’s name speaks heavenly eloquence.— </l>
@@ -4051,10 +3733,7 @@
             <speaker xml:id="spk-1715">NURSE </speaker>
             <l xml:id="ftln-1715" n="3.2.40" part="F">Ay, ay, the cords. </l>
           </sp>
-          <stage xml:id="stg-1715.1"
-                      n="SD 3.2.40.1"
-                      type="business"
-                      who="#Nurse_Rom">Dropping the rope ladder. </stage>
+          <stage xml:id="stg-1715.1" n="SD 3.2.40.1" type="business" who="#Nurse_Rom">Dropping the rope ladder. </stage>
           <sp xml:id="sp-1716" who="#Juliet_Rom">
             <speaker xml:id="spk-1716">JULIET </speaker>
             <l xml:id="ftln-1716" n="3.2.41">Ay me, what news? Why dost thou wring thy hands? </l>
@@ -4211,10 +3890,7 @@
             <l xml:id="ftln-1816" n="3.2.141">Wash they his wounds with tears? Mine shall be spent, </l>
             <l xml:id="ftln-1818" n="3.2.143">When theirs are dry, for Romeo’s banishment.— </l>
             <l xml:id="ftln-1819" n="3.2.144" part="I">Take up those cords. </l>
-            <stage xml:id="stg-1819.1"
-                         n="SD 3.2.144.1"
-                         type="business"
-                         who="#Nurse_Rom">The Nurse picks up the rope ladder. </stage>
+            <stage xml:id="stg-1819.1" n="SD 3.2.144.1" type="business" who="#Nurse_Rom">The Nurse picks up the rope ladder. </stage>
             <l xml:id="ftln-1820" n="3.2.145" part="F">Poor ropes, you are beguiled, </l>
             <l xml:id="ftln-1821" n="3.2.146">Both you and I, for Romeo is exiled. </l>
             <l xml:id="ftln-1822" n="3.2.147">He made you for a highway to my bed, </l>
@@ -4232,34 +3908,22 @@
           <sp xml:id="sp-1830" who="#Juliet_Rom">
             <speaker xml:id="spk-1830">JULIET </speaker>
             <l xml:id="ftln-1830" n="3.2.155" part="I">O, find him! </l>
-            <stage xml:id="stg-1830"
-                         n="SD 3.2.155"
-                         type="business"
-                         who="#Juliet_Rom #Nurse_Rom">Giving the Nurse a ring. </stage>
+            <stage xml:id="stg-1830" n="SD 3.2.155" type="business" who="#Juliet_Rom #Nurse_Rom">Giving the Nurse a ring. </stage>
             <l xml:id="ftln-1831" n="3.2.156" part="F">Give this ring to my true knight </l>
             <l xml:id="ftln-1832" n="3.2.157">And bid him come to take his last farewell. </l>
           </sp>
-          <stage xml:id="stg-1832.1"
-                      n="SD 3.2.157.1"
-                      type="exit"
-                      who="#Juliet_Rom #Nurse_Rom">They exit. </stage>
+          <stage xml:id="stg-1832.1" n="SD 3.2.157.1" type="exit" who="#Juliet_Rom #Nurse_Rom">They exit. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-1832.2"
-                      n="SD 3.3.0"
-                      type="entrance"
-                      who="#FriarLawrence_Rom">Enter Friar Lawrence. </stage>
+          <stage xml:id="stg-1832.2" n="SD 3.3.0" type="entrance" who="#FriarLawrence_Rom">Enter Friar Lawrence. </stage>
           <sp xml:id="sp-1833" who="#FriarLawrence_Rom">
             <speaker xml:id="spk-1833">FRIAR LAWRENCE </speaker>
             <l xml:id="ftln-1833" n="3.3.1">Romeo, come forth; come forth, thou fearful man. </l>
             <l xml:id="ftln-1834" n="3.3.2">Affliction is enamored of thy parts, </l>
             <l xml:id="ftln-1835" n="3.3.3">And thou art wedded to calamity. </l>
           </sp>
-          <stage xml:id="stg-1835.1"
-                      n="SD 3.3.3.1"
-                      type="entrance"
-                      who="#Romeo_Rom">Enter Romeo. </stage>
+          <stage xml:id="stg-1835.1" n="SD 3.3.3.1" type="entrance" who="#Romeo_Rom">Enter Romeo. </stage>
           <sp xml:id="sp-1836" who="#Romeo_Rom">
             <speaker xml:id="spk-1836">ROMEO </speaker>
             <l xml:id="ftln-1836" n="3.3.4">Father, what news? What is the Prince’s doom? </l>
@@ -4377,10 +4041,7 @@
             <l xml:id="ftln-1902" n="3.3.70">Doting like me, and like me banishèd, </l>
             <l xml:id="ftln-1903" n="3.3.71">Then mightst thou speak, then mightst thou tear thy hair </l>
             <l xml:id="ftln-1905" n="3.3.73">And fall upon the ground as I do now, </l>
-            <stage xml:id="stg-1905.1"
-                         n="SD 3.3.73.1"
-                         type="business"
-                         who="#Romeo_Rom">Romeo throws himself down. </stage>
+            <stage xml:id="stg-1905.1" n="SD 3.3.73.1" type="business" who="#Romeo_Rom">Romeo throws himself down. </stage>
             <l xml:id="ftln-1906" n="3.3.74">Taking the measure of an unmade grave. </l>
           </sp>
           <stage xml:id="stg-1906.1" n="SD 3.3.74.1" type="business">Knock within. </stage>
@@ -4412,16 +4073,10 @@
           </sp>
           <sp xml:id="sp-1919" who="#FriarLawrence_Rom">
             <speaker xml:id="spk-1919">FRIAR LAWRENCE </speaker>
-            <stage xml:id="stg-1919.0"
-                         n="SD 3.3.87.0"
-                         type="business"
-                         who="#FriarLawrence_Rom">, admitting the Nurse </stage>
+            <stage xml:id="stg-1919.0" n="SD 3.3.87.0" type="business" who="#FriarLawrence_Rom">, admitting the Nurse </stage>
             <l xml:id="ftln-1919" n="3.3.87" part="F">Welcome, then. </l>
           </sp>
-          <stage xml:id="stg-1919.1"
-                      n="SD 3.3.87.1"
-                      type="entrance"
-                      who="#Nurse_Rom">Enter Nurse. </stage>
+          <stage xml:id="stg-1919.1" n="SD 3.3.87.1" type="entrance" who="#Nurse_Rom">Enter Nurse. </stage>
           <sp xml:id="sp-1920" who="#Nurse_Rom">
             <speaker xml:id="spk-1920">NURSE </speaker>
             <l xml:id="ftln-1920" n="3.3.88">O holy friar, O, tell me, holy friar, </l>
@@ -4452,10 +4107,7 @@
           </sp>
           <sp xml:id="sp-1933" who="#Romeo_Rom">
             <speaker xml:id="spk-1933">ROMEO </speaker>
-            <stage xml:id="stg-1933.0"
-                         n="SD 3.3.101.0"
-                         type="business"
-                         who="#Romeo_Rom">, rising up </stage>
+            <stage xml:id="stg-1933.0" n="SD 3.3.101.0" type="business" who="#Romeo_Rom">, rising up </stage>
             <l xml:id="ftln-1933" n="3.3.101">Spakest thou of Juliet? How is it with her? </l>
             <l xml:id="ftln-1934" n="3.3.102">Doth not she think me an old murderer, </l>
             <l xml:id="ftln-1935" n="3.3.103">Now I have stained the childhood of our joy </l>
@@ -4480,10 +4132,7 @@
             <l xml:id="ftln-1948" n="3.3.116">Doth my name lodge? Tell me, that I may sack </l>
             <l xml:id="ftln-1949" n="3.3.117" part="I">The hateful mansion. </l>
           </sp>
-          <stage xml:id="stg-1949"
-                      n="SD 3.3.117"
-                      type="business"
-                      who="#Romeo_Rom">He draws his dagger. </stage>
+          <stage xml:id="stg-1949" n="SD 3.3.117" type="business" who="#Romeo_Rom">He draws his dagger. </stage>
           <sp xml:id="sp-1950" who="#FriarLawrence_Rom">
             <speaker xml:id="spk-1950">FRIAR LAWRENCE </speaker>
             <l xml:id="ftln-1950" n="3.3.118" part="F">Hold thy desperate hand! </l>
@@ -4551,16 +4200,10 @@
           <sp xml:id="sp-2005" who="#Nurse_Rom">
             <speaker xml:id="spk-2005">NURSE </speaker>
             <l xml:id="ftln-2005" n="3.3.173">Here, sir, a ring she bid me give you, sir. </l>
-            <stage xml:id="stg-2005.1"
-                         n="SD 3.3.173.1"
-                         type="business"
-                         who="#Nurse_Rom #Romeo_Rom">Nurse gives Romeo a ring. </stage>
+            <stage xml:id="stg-2005.1" n="SD 3.3.173.1" type="business" who="#Nurse_Rom #Romeo_Rom">Nurse gives Romeo a ring. </stage>
             <l xml:id="ftln-2006" n="3.3.174">Hie you, make haste, for it grows very late. </l>
           </sp>
-          <stage xml:id="stg-2006.1"
-                      n="SD 3.3.174.1"
-                      type="exit"
-                      who="#Nurse_Rom">She exits. </stage>
+          <stage xml:id="stg-2006.1" n="SD 3.3.174.1" type="exit" who="#Nurse_Rom">She exits. </stage>
           <sp xml:id="sp-2007" who="#Romeo_Rom">
             <speaker xml:id="spk-2007">ROMEO </speaker>
             <l xml:id="ftln-2007" n="3.3.175">How well my comfort vvz revived by this! </l>
@@ -4581,17 +4224,11 @@
             <l xml:id="ftln-2017" n="3.3.185">It were a grief so brief to part with thee. </l>
             <l xml:id="ftln-2018" n="3.3.186" ana="#short">Farewell. </l>
           </sp>
-          <stage xml:id="stg-2018.1"
-                      n="SD 3.3.186.1"
-                      type="exit"
-                      who="#FriarLawrence_Rom #Romeo_Rom">They exit. </stage>
+          <stage xml:id="stg-2018.1" n="SD 3.3.186.1" type="exit" who="#FriarLawrence_Rom #Romeo_Rom">They exit. </stage>
         </div>
         <div type="scene" n="4">
           <head>Scene 4 </head>
-          <stage xml:id="stg-2018.2"
-                      n="SD 3.4.0"
-                      type="entrance"
-                      who="#Capulet_Rom #LadyCapulet_Rom #Paris_Rom">Enter old Capulet, his Wife, and Paris. </stage>
+          <stage xml:id="stg-2018.2" n="SD 3.4.0" type="entrance" who="#Capulet_Rom #LadyCapulet_Rom #Paris_Rom">Enter old Capulet, his Wife, and Paris. </stage>
           <sp xml:id="sp-2019" who="#Capulet_Rom">
             <speaker xml:id="spk-2019">CAPULET </speaker>
             <l xml:id="ftln-2019" n="3.4.1">Things have fallen out, sir, so unluckily </l>
@@ -4653,17 +4290,11 @@
             <l xml:id="ftln-2055" n="3.4.37">Afore me, it is so very late that we </l>
             <l xml:id="ftln-2056" n="3.4.38">May call it early by and by.— Good night. </l>
           </sp>
-          <stage xml:id="stg-2056.1"
-                      n="SD 3.4.38.1"
-                      type="exit"
-                      who="#Capulet_Rom #LadyCapulet_Rom #Paris_Rom">They exit. </stage>
+          <stage xml:id="stg-2056.1" n="SD 3.4.38.1" type="exit" who="#Capulet_Rom #LadyCapulet_Rom #Paris_Rom">They exit. </stage>
         </div>
         <div type="scene" n="5">
           <head>Scene 5 </head>
-          <stage xml:id="stg-2056.2"
-                      n="SD 3.5.0"
-                      type="entrance"
-                      who="#Romeo_Rom #Juliet_Rom">Enter Romeo and Juliet aloft. </stage>
+          <stage xml:id="stg-2056.2" n="SD 3.5.0" type="entrance" who="#Romeo_Rom #Juliet_Rom">Enter Romeo and Juliet aloft. </stage>
           <sp xml:id="sp-2057" who="#Juliet_Rom">
             <speaker xml:id="spk-2057">JULIET </speaker>
             <l xml:id="ftln-2057" n="3.5.1">Wilt thou be gone? It is not yet near day. </l>
@@ -4718,10 +4349,7 @@
             <speaker xml:id="spk-2092">ROMEO </speaker>
             <l xml:id="ftln-2092" n="3.5.36">More light and light, more dark and dark our woes. </l>
           </sp>
-          <stage xml:id="stg-2092.1"
-                      n="SD 3.5.36.1"
-                      type="entrance"
-                      who="#Nurse_Rom">Enter Nurse. </stage>
+          <stage xml:id="stg-2092.1" n="SD 3.5.36.1" type="entrance" who="#Nurse_Rom">Enter Nurse. </stage>
           <sp xml:id="sp-2093" who="#Nurse_Rom">
             <speaker xml:id="spk-2093">NURSE </speaker>
             <p xml:id="p-2093">
@@ -4746,10 +4374,7 @@
             <speaker xml:id="spk-2098">ROMEO </speaker>
             <l xml:id="ftln-2098" n="3.5.42">Farewell, farewell. One kiss and I’ll descend. </l>
           </sp>
-          <stage xml:id="stg-2098.1"
-                      n="SD 3.5.42.1"
-                      type="business"
-                      who="#Romeo_Rom #Juliet_Rom">They kiss, and Romeo descends. </stage>
+          <stage xml:id="stg-2098.1" n="SD 3.5.42.1" type="business" who="#Romeo_Rom #Juliet_Rom">They kiss, and Romeo descends. </stage>
           <sp xml:id="sp-2099" who="#Juliet_Rom">
             <speaker xml:id="spk-2099">JULIET </speaker>
             <l xml:id="ftln-2099" n="3.5.43">Art thou gone so? Love, lord, ay husband, friend! </l>
@@ -4794,10 +4419,7 @@
             <l xml:id="ftln-2119" n="3.5.63">For then I hope thou wilt not keep him long, </l>
             <l xml:id="ftln-2120" n="3.5.64" part="I">But send him back. </l>
           </sp>
-          <stage xml:id="stg-2120.1"
-                      n="SD 3.5.64.1"
-                      type="entrance"
-                      who="#LadyCapulet_Rom">Enter Lady Capulet. </stage>
+          <stage xml:id="stg-2120.1" n="SD 3.5.64.1" type="entrance" who="#LadyCapulet_Rom">Enter Lady Capulet. </stage>
           <sp xml:id="sp-2121" who="#LadyCapulet_Rom">
             <speaker xml:id="spk-2121">LADY CAPULET </speaker>
             <l xml:id="ftln-2121" n="3.5.65" part="F">Ho, daughter, are you up? </l>
@@ -4808,10 +4430,7 @@
             <l xml:id="ftln-2123" n="3.5.67">Is she not down so late or up so early? </l>
             <l xml:id="ftln-2124" n="3.5.68">What unaccustomed cause procures her hither? </l>
           </sp>
-          <stage xml:id="stg-2124.1"
-                      n="SD 3.5.68.1"
-                      type="business"
-                      who="#Juliet_Rom">Juliet descends. </stage>
+          <stage xml:id="stg-2124.1" n="SD 3.5.68.1" type="business" who="#Juliet_Rom">Juliet descends. </stage>
           <sp xml:id="sp-2125" who="#LadyCapulet_Rom">
             <speaker xml:id="spk-2125">LADY CAPULET </speaker>
             <l xml:id="ftln-2125" n="3.5.69" part="I">Why, how now, Juliet? </l>
@@ -4937,10 +4556,7 @@
             <l xml:id="ftln-2185" n="3.5.129">Here comes your father. Tell him so yourself, </l>
             <l xml:id="ftln-2186" n="3.5.130">And see how he will take it at your hands. </l>
           </sp>
-          <stage xml:id="stg-2186.1"
-                      n="SD 3.5.130.1"
-                      type="entrance"
-                      who="#Capulet_Rom #Nurse_Rom">Enter Capulet and Nurse. </stage>
+          <stage xml:id="stg-2186.1" n="SD 3.5.130.1" type="entrance" who="#Capulet_Rom #Nurse_Rom">Enter Capulet and Nurse. </stage>
           <sp xml:id="sp-2187" who="#Capulet_Rom">
             <speaker xml:id="spk-2187">CAPULET </speaker>
             <l xml:id="ftln-2187" n="3.5.131">When the sun sets, the earth doth drizzle dew, </l>
@@ -4994,10 +4610,7 @@
           </sp>
           <sp xml:id="sp-2220" who="#Juliet_Rom">
             <speaker xml:id="spk-2220">JULIET </speaker>
-            <stage xml:id="stg-2220.0"
-                         n="SD 3.5.164.0"
-                         type="business"
-                         who="#Juliet_Rom">, kneeling </stage>
+            <stage xml:id="stg-2220.0" n="SD 3.5.164.0" type="business" who="#Juliet_Rom">, kneeling </stage>
             <l xml:id="ftln-2220" n="3.5.164">Good father, I beseech you on my knees, </l>
             <l xml:id="ftln-2221" n="3.5.165">Hear me with patience but to speak a word. </l>
           </sp>
@@ -5069,10 +4682,7 @@
             <l xml:id="ftln-2262" n="3.5.206">Nor what is mine shall never do thee good. </l>
             <l xml:id="ftln-2263" n="3.5.207">Trust to ’t; bethink you. I’ll not be forsworn. </l>
           </sp>
-          <stage xml:id="stg-2263.1"
-                      n="SD 3.5.207.1"
-                      type="exit"
-                      who="#Capulet_Rom">He exits. </stage>
+          <stage xml:id="stg-2263.1" n="SD 3.5.207.1" type="exit" who="#Capulet_Rom">He exits. </stage>
           <sp xml:id="sp-2264" who="#Juliet_Rom">
             <speaker xml:id="spk-2264">JULIET </speaker>
             <l xml:id="ftln-2264" n="3.5.208">Is there no pity sitting in the clouds </l>
@@ -5087,16 +4697,10 @@
             <l xml:id="ftln-2270" n="3.5.214">Talk not to me, for I’ll not speak a word. </l>
             <l xml:id="ftln-2271" n="3.5.215">Do as thou wilt, for I have done with thee. </l>
           </sp>
-          <stage xml:id="stg-2271.1"
-                      n="SD 3.5.215.1"
-                      type="exit"
-                      who="#LadyCapulet_Rom">She exits. </stage>
+          <stage xml:id="stg-2271.1" n="SD 3.5.215.1" type="exit" who="#LadyCapulet_Rom">She exits. </stage>
           <sp xml:id="sp-2272" who="#Juliet_Rom">
             <speaker xml:id="spk-2272">JULIET </speaker>
-            <stage xml:id="stg-2272.0"
-                         n="SD 3.5.216.0"
-                         type="business"
-                         who="#Juliet_Rom">, rising </stage>
+            <stage xml:id="stg-2272.0" n="SD 3.5.216.0" type="business" who="#Juliet_Rom">, rising </stage>
             <l xml:id="ftln-2272" n="3.5.216">O God! O nurse, how shall this be prevented? </l>
             <l xml:id="ftln-2273" n="3.5.217">My husband is on Earth, my faith in heaven. </l>
             <l xml:id="ftln-2274" n="3.5.218">How shall that faith return again to Earth </l>
@@ -5165,20 +4769,14 @@
             <l xml:id="ftln-2310" n="3.5.254">I’ll to the Friar to know his remedy. </l>
             <l xml:id="ftln-2311" n="3.5.255">If all else fail, myself have power to die. </l>
           </sp>
-          <stage xml:id="stg-2311.1"
-                      n="SD 3.5.255.1"
-                      type="exit"
-                      who="#Nurse_Rom">She exits. </stage>
+          <stage xml:id="stg-2311.1" n="SD 3.5.255.1" type="exit" who="#Nurse_Rom">She exits. </stage>
         </div>
       </div>
       <div type="act" n="4">
         <head>ACT 4 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-2311.2"
-                      n="SD 4.1.0"
-                      type="entrance"
-                      who="#FriarLawrence_Rom #Paris_Rom">Enter Friar Lawrence and County Paris. </stage>
+          <stage xml:id="stg-2311.2" n="SD 4.1.0" type="entrance" who="#FriarLawrence_Rom #Paris_Rom">Enter Friar Lawrence and County Paris. </stage>
           <sp xml:id="sp-2312" who="#FriarLawrence_Rom">
             <speaker xml:id="spk-2312">FRIAR LAWRENCE </speaker>
             <l xml:id="ftln-2312" n="4.1.1">On Thursday, sir? The time is very short. </l>
@@ -5212,10 +4810,7 @@
             <l xml:id="ftln-2327" n="4.1.16">I would I knew not why it should be slowed.— </l>
             <l xml:id="ftln-2328" n="4.1.17">Look, sir, here comes the lady toward my cell. </l>
           </sp>
-          <stage xml:id="stg-2328.1"
-                      n="SD 4.1.17.1"
-                      type="entrance"
-                      who="#Juliet_Rom">Enter Juliet. </stage>
+          <stage xml:id="stg-2328.1" n="SD 4.1.17.1" type="entrance" who="#Juliet_Rom">Enter Juliet. </stage>
           <sp xml:id="sp-2329" who="#Paris_Rom">
             <speaker xml:id="spk-2329">PARIS </speaker>
             <l xml:id="ftln-2329" n="4.1.18">Happily met, my lady and my wife. </l>
@@ -5320,10 +4915,7 @@
             <l xml:id="ftln-2364" n="4.1.53">If in thy wisdom thou canst give no help, </l>
             <l xml:id="ftln-2365" n="4.1.54">Do thou but call my resolution wise, </l>
             <l xml:id="ftln-2366" n="4.1.55">And with this knife I’ll help it presently. </l>
-            <stage xml:id="stg-2366.1"
-                         n="SD 4.1.55.1"
-                         type="business"
-                         who="#Juliet_Rom">She shows him her knife. </stage>
+            <stage xml:id="stg-2366.1" n="SD 4.1.55.1" type="business" who="#Juliet_Rom">She shows him her knife. </stage>
             <l xml:id="ftln-2367" n="4.1.56">God joined my heart and Romeo’s, thou our hands; </l>
             <l xml:id="ftln-2368" n="4.1.57">And ere this hand, by thee to Romeo’s sealed, </l>
             <l xml:id="ftln-2369" n="4.1.58">Shall be the label to another deed, </l>
@@ -5371,10 +4963,7 @@
             <l xml:id="ftln-2403" n="4.1.92">To marry Paris. Wednesday is tomorrow. </l>
             <l xml:id="ftln-2404" n="4.1.93">Tomorrow night look that thou lie alone; </l>
             <l xml:id="ftln-2405" n="4.1.94">Let not the Nurse lie with thee in thy chamber. </l>
-            <stage xml:id="stg-2405.1"
-                         n="SD 4.1.94.1"
-                         type="business"
-                         who="#FriarLawrence_Rom">Holding out a vial. </stage>
+            <stage xml:id="stg-2405.1" n="SD 4.1.94.1" type="business" who="#FriarLawrence_Rom">Holding out a vial. </stage>
             <l xml:id="ftln-2406" n="4.1.95">Take thou this vial, being then in bed, </l>
             <l xml:id="ftln-2407" n="4.1.96">And this distilling liquor drink thou off; </l>
             <l xml:id="ftln-2408" n="4.1.97">When presently through all thy veins shall run </l>
@@ -5410,10 +4999,7 @@
           </sp>
           <sp xml:id="sp-2435" who="#FriarLawrence_Rom">
             <speaker xml:id="spk-2435">FRIAR LAWRENCE </speaker>
-            <stage xml:id="stg-2435.0"
-                         n="SD 4.1.124.0"
-                         type="business"
-                         who="#FriarLawrence_Rom #Juliet_Rom">, giving Juliet the vial </stage>
+            <stage xml:id="stg-2435.0" n="SD 4.1.124.0" type="business" who="#FriarLawrence_Rom #Juliet_Rom">, giving Juliet the vial </stage>
             <l xml:id="ftln-2435" n="4.1.124">Hold, get you gone. Be strong and prosperous </l>
             <l xml:id="ftln-2436" n="4.1.125">In this resolve. I’ll send a friar with speed </l>
             <l xml:id="ftln-2437" n="4.1.126">To Mantua with my letters to thy lord. </l>
@@ -5423,24 +5009,15 @@
             <l xml:id="ftln-2438" n="4.1.127">Love give me strength, and strength shall help afford. </l>
             <l xml:id="ftln-2440" n="4.1.129" ana="#short">Farewell, dear father. </l>
           </sp>
-          <stage xml:id="stg-2440.1"
-                      n="SD 4.1.129.1"
-                      type="exit"
-                      who="#FriarLawrence_Rom #Juliet_Rom">They exit in different directions. </stage>
+          <stage xml:id="stg-2440.1" n="SD 4.1.129.1" type="exit" who="#FriarLawrence_Rom #Juliet_Rom">They exit in different directions. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-2440.2"
-                      n="SD 4.2.0"
-                      type="entrance"
-                      who="#Capulet_Rom #LadyCapulet_Rom #Nurse_Rom #SERVANTS.CAPULET_Rom">Enter Father Capulet, Mother, Nurse, and Servingmen, two or three. </stage>
+          <stage xml:id="stg-2440.2" n="SD 4.2.0" type="entrance" who="#Capulet_Rom #LadyCapulet_Rom #Nurse_Rom #SERVANTS.CAPULET_Rom">Enter Father Capulet, Mother, Nurse, and Servingmen, two or three. </stage>
           <sp xml:id="sp-2441" who="#Capulet_Rom">
             <speaker xml:id="spk-2441">CAPULET </speaker>
             <l xml:id="ftln-2441" n="4.2.1">So many guests invite as here are writ. </l>
-            <stage xml:id="stg-2441.1"
-                         n="SD 4.2.1.1"
-                         type="exit"
-                         who="#SERVANTS.CAPULET.0_Rom">One or two of the Servingmen exit with Capulet’s list. </stage>
+            <stage xml:id="stg-2441.1" n="SD 4.2.1.1" type="exit" who="#SERVANTS.CAPULET.0_Rom">One or two of the Servingmen exit with Capulet’s list. </stage>
             <l xml:id="ftln-2442" n="4.2.2">Sirrah, go hire me twenty cunning cooks. </l>
           </sp>
           <sp xml:id="sp-2443" who="#SERVANTS.CAPULET.0.1_Rom">
@@ -5462,10 +5039,7 @@
             <speaker xml:id="spk-2449">CAPULET </speaker>
             <p xml:id="p-2449">
               <lb xml:id="ftln-2449" n="4.2.9"/>Go, begone. </p>
-            <stage xml:id="stg-2449"
-                         n="SD 4.2.9"
-                         type="exit"
-                         who="#SERVANTS.CAPULET_Rom">Servingman exits. </stage>
+            <stage xml:id="stg-2449" n="SD 4.2.9" type="exit" who="#SERVANTS.CAPULET_Rom">Servingman exits. </stage>
             <l xml:id="ftln-2450" n="4.2.10">We shall be much unfurnished for this time.— </l>
             <l xml:id="ftln-2451" n="4.2.11">What, is my daughter gone to Friar Lawrence? </l>
           </sp>
@@ -5479,10 +5053,7 @@
             <l xml:id="ftln-2453" n="4.2.13">Well, he may chance to do some good on her. </l>
             <l xml:id="ftln-2454" n="4.2.14">A peevish self-willed harlotry it is. </l>
           </sp>
-          <stage xml:id="stg-2454.1"
-                      n="SD 4.2.14.1"
-                      type="entrance"
-                      who="#Juliet_Rom">Enter Juliet. </stage>
+          <stage xml:id="stg-2454.1" n="SD 4.2.14.1" type="entrance" who="#Juliet_Rom">Enter Juliet. </stage>
           <sp xml:id="sp-2455" who="#Nurse_Rom">
             <speaker xml:id="spk-2455">NURSE </speaker>
             <l xml:id="ftln-2455" n="4.2.15">See where she comes from shrift with merry look. </l>
@@ -5497,10 +5068,7 @@
             <l xml:id="ftln-2459" n="4.2.19">Of disobedient opposition </l>
             <l xml:id="ftln-2460" n="4.2.20">To you and your behests, and am enjoined </l>
             <l xml:id="ftln-2461" n="4.2.21">By holy Lawrence to fall prostrate here </l>
-            <stage xml:id="stg-2461"
-                         n="SD 4.2.21"
-                         type="business"
-                         who="#Juliet_Rom">Kneeling. </stage>
+            <stage xml:id="stg-2461" n="SD 4.2.21" type="business" who="#Juliet_Rom">Kneeling. </stage>
             <l xml:id="ftln-2462" n="4.2.22">To beg your pardon. Pardon, I beseech you. </l>
             <l xml:id="ftln-2463" n="4.2.23">Henceforward I am ever ruled by you. </l>
           </sp>
@@ -5518,10 +5086,7 @@
           <sp xml:id="sp-2469" who="#Capulet_Rom">
             <speaker xml:id="spk-2469">CAPULET </speaker>
             <l xml:id="ftln-2469" n="4.2.29">Why, I am glad on ’t. This is well. Stand up. </l>
-            <stage xml:id="stg-2469.1"
-                         n="SD 4.2.29.1"
-                         type="business"
-                         who="#Juliet_Rom">Juliet rises. </stage>
+            <stage xml:id="stg-2469.1" n="SD 4.2.29.1" type="business" who="#Juliet_Rom">Juliet rises. </stage>
             <l xml:id="ftln-2470" n="4.2.30">This is as ’t should be.— Let me see the County. </l>
             <l xml:id="ftln-2471" n="4.2.31">Ay, marry, go, I say, and fetch him hither.— </l>
             <l xml:id="ftln-2472" n="4.2.32">Now, afore God, this reverend holy friar, </l>
@@ -5541,10 +5106,7 @@
             <speaker xml:id="spk-2478">CAPULET </speaker>
             <l xml:id="ftln-2478" n="4.2.38">Go, nurse. Go with her. We’ll to church tomorrow. </l>
           </sp>
-          <stage xml:id="stg-2478.1"
-                      n="SD 4.2.38.1"
-                      type="exit"
-                      who="#Juliet_Rom #Nurse_Rom">Juliet and the Nurse exit. </stage>
+          <stage xml:id="stg-2478.1" n="SD 4.2.38.1" type="exit" who="#Juliet_Rom #Nurse_Rom">Juliet and the Nurse exit. </stage>
           <sp xml:id="sp-2479" who="#LadyCapulet_Rom">
             <speaker xml:id="spk-2479">LADY CAPULET </speaker>
             <l xml:id="ftln-2479" n="4.2.39">We shall be short in our provision. </l>
@@ -5562,17 +5124,11 @@
             <l xml:id="ftln-2488" n="4.2.48">Against tomorrow. My heart is wondrous light </l>
             <l xml:id="ftln-2489" n="4.2.49">Since this same wayward girl is so reclaimed. </l>
           </sp>
-          <stage xml:id="stg-2489.1"
-                      n="SD 4.2.49.1"
-                      type="exit"
-                      who="#Capulet_Rom #LadyCapulet_Rom">They exit. </stage>
+          <stage xml:id="stg-2489.1" n="SD 4.2.49.1" type="exit" who="#Capulet_Rom #LadyCapulet_Rom">They exit. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-2489.2"
-                      n="SD 4.3.0"
-                      type="entrance"
-                      who="#Juliet_Rom #Nurse_Rom">Enter Juliet and Nurse. </stage>
+          <stage xml:id="stg-2489.2" n="SD 4.3.0" type="entrance" who="#Juliet_Rom #Nurse_Rom">Enter Juliet and Nurse. </stage>
           <sp xml:id="sp-2490" who="#Juliet_Rom">
             <speaker xml:id="spk-2490">JULIET </speaker>
             <l xml:id="ftln-2490" n="4.3.1">Ay, those attires are best. But, gentle nurse, </l>
@@ -5581,10 +5137,7 @@
             <l xml:id="ftln-2493" n="4.3.4">To move the heavens to smile upon my state, </l>
             <l xml:id="ftln-2494" n="4.3.5">Which, well thou knowest, is cross and full of sin. </l>
           </sp>
-          <stage xml:id="stg-2494.1"
-                      n="SD 4.3.5.1"
-                      type="entrance"
-                      who="#LadyCapulet_Rom">Enter Lady Capulet. </stage>
+          <stage xml:id="stg-2494.1" n="SD 4.3.5.1" type="entrance" who="#LadyCapulet_Rom">Enter Lady Capulet. </stage>
           <sp xml:id="sp-2495" who="#LadyCapulet_Rom">
             <speaker xml:id="spk-2495">LADY CAPULET </speaker>
             <l xml:id="ftln-2495" n="4.3.6">What, are you busy, ho? Need you my help? </l>
@@ -5603,10 +5156,7 @@
             <l xml:id="ftln-2502" n="4.3.13" part="F">Good night. </l>
             <l xml:id="ftln-2503" n="4.3.14">Get thee to bed and rest, for thou hast need. </l>
           </sp>
-          <stage xml:id="stg-2503.1"
-                      n="SD 4.3.14.1"
-                      type="exit"
-                      who="#LadyCapulet_Rom #Nurse_Rom">Lady Capulet and the Nurse exit. </stage>
+          <stage xml:id="stg-2503.1" n="SD 4.3.14.1" type="exit" who="#LadyCapulet_Rom #Nurse_Rom">Lady Capulet and the Nurse exit. </stage>
           <sp xml:id="sp-2504" who="#Juliet_Rom">
             <speaker xml:id="spk-2504">JULIET </speaker>
             <l xml:id="ftln-2504" n="4.3.15">Farewell.— God knows when we shall meet again. </l>
@@ -5616,16 +5166,10 @@
             <l xml:id="ftln-2508" n="4.3.19">Nurse!— What should she do here? </l>
             <l xml:id="ftln-2509" n="4.3.20">My dismal scene I needs must act alone. </l>
             <l xml:id="ftln-2510" n="4.3.21" ana="#short">Come, vial. </l>
-            <stage xml:id="stg-2510"
-                         n="SD 4.3.21"
-                         type="business"
-                         who="#Juliet_Rom">She takes out the vial. </stage>
+            <stage xml:id="stg-2510" n="SD 4.3.21" type="business" who="#Juliet_Rom">She takes out the vial. </stage>
             <l xml:id="ftln-2511" n="4.3.22">What if this mixture do not work at all? </l>
             <l xml:id="ftln-2512" n="4.3.23">Shall I be married then tomorrow morning? </l>
-            <stage xml:id="stg-2512.1"
-                         n="SD 4.3.23.1"
-                         type="business"
-                         who="#Juliet_Rom">She takes out her knife and puts it down beside her. </stage>
+            <stage xml:id="stg-2512.1" n="SD 4.3.23.1" type="business" who="#Juliet_Rom">She takes out her knife and puts it down beside her. </stage>
             <l xml:id="ftln-2513" n="4.3.24">No, no, this shall forbid it. Lie thou there. </l>
             <l xml:id="ftln-2514" n="4.3.25">What if it be a poison which the Friar </l>
             <l xml:id="ftln-2515" n="4.3.26">Subtly hath ministered to have me dead, </l>
@@ -5663,17 +5207,11 @@
             <l xml:id="ftln-2547" n="4.3.58">Upon a rapier’s point! Stay, Tybalt, stay! </l>
             <l xml:id="ftln-2548" n="4.3.59">Romeo, Romeo, Romeo! Here’s drink. I drink to thee. </l>
           </sp>
-          <stage xml:id="stg-2549"
-                      n="SD 4.3.60"
-                      type="business"
-                      who="#Juliet_Rom">She drinks and falls upon her bed within the curtains. </stage>
+          <stage xml:id="stg-2549" n="SD 4.3.60" type="business" who="#Juliet_Rom">She drinks and falls upon her bed within the curtains. </stage>
         </div>
         <div type="scene" n="4">
           <head>Scene 4 </head>
-          <stage xml:id="stg-2549.2"
-                      n="SD 4.4.0"
-                      type="entrance"
-                      who="#LadyCapulet_Rom #Nurse_Rom">Enter Lady Capulet and Nurse. </stage>
+          <stage xml:id="stg-2549.2" n="SD 4.4.0" type="entrance" who="#LadyCapulet_Rom #Nurse_Rom">Enter Lady Capulet and Nurse. </stage>
           <sp xml:id="sp-2550" who="#LadyCapulet_Rom">
             <speaker xml:id="spk-2550">LADY CAPULET </speaker>
             <l xml:id="ftln-2550" n="4.4.1">Hold, take these keys, and fetch more spices, nurse. </l>
@@ -5682,10 +5220,7 @@
             <speaker xml:id="spk-2551">NURSE </speaker>
             <l xml:id="ftln-2551" n="4.4.2">They call for dates and quinces in the pastry. </l>
           </sp>
-          <stage xml:id="stg-2551.1"
-                      n="SD 4.4.2.1"
-                      type="entrance"
-                      who="#Capulet_Rom">Enter old Capulet. </stage>
+          <stage xml:id="stg-2551.1" n="SD 4.4.2.1" type="entrance" who="#Capulet_Rom">Enter old Capulet. </stage>
           <sp xml:id="sp-2552" who="#Capulet_Rom">
             <speaker xml:id="spk-2552">CAPULET </speaker>
             <l xml:id="ftln-2552" n="4.4.3">Come, stir, stir, stir! The second cock hath crowed. </l>
@@ -5709,17 +5244,11 @@
             <l xml:id="ftln-2561" n="4.4.12">Ay, you have been a mouse-hunt in your time, </l>
             <l xml:id="ftln-2562" n="4.4.13">But I will watch you from such watching now. </l>
           </sp>
-          <stage xml:id="stg-2562.1"
-                      n="SD 4.4.13.1"
-                      type="exit"
-                      who="#LadyCapulet_Rom #Nurse_Rom">Lady Capulet and Nurse exit. </stage>
+          <stage xml:id="stg-2562.1" n="SD 4.4.13.1" type="exit" who="#LadyCapulet_Rom #Nurse_Rom">Lady Capulet and Nurse exit. </stage>
           <sp xml:id="sp-2563" who="#Capulet_Rom">
             <speaker xml:id="spk-2563">CAPULET </speaker>
             <l xml:id="ftln-2563" n="4.4.14" part="I">A jealous hood, a jealous hood! </l>
-            <stage xml:id="stg-2563.1"
-                         n="SD 4.4.14.1"
-                         type="entrance"
-                         who="#SERVANTS.CAPULET_Rom">Enter three or four Servingmen with spits and logs and baskets. </stage>
+            <stage xml:id="stg-2563.1" n="SD 4.4.14.1" type="entrance" who="#SERVANTS.CAPULET_Rom">Enter three or four Servingmen with spits and logs and baskets. </stage>
             <l xml:id="ftln-2564" n="4.4.15" part="F">Now fellow, </l>
             <p xml:id="p-2565">
               <lb xml:id="ftln-2565" n="4.4.16"/>What is there? </p>
@@ -5731,10 +5260,7 @@
           <sp xml:id="sp-2567" who="#Capulet_Rom">
             <speaker xml:id="spk-2567">CAPULET </speaker>
             <l xml:id="ftln-2567" n="4.4.18" part="I">Make haste, make haste. </l>
-            <stage xml:id="stg-2567"
-                         n="SD 4.4.18"
-                         type="exit"
-                         who="#SERVANTS.CAPULET.0.1_Rom">First Servingman exits. </stage>
+            <stage xml:id="stg-2567" n="SD 4.4.18" type="exit" who="#SERVANTS.CAPULET.0.1_Rom">First Servingman exits. </stage>
             <l xml:id="ftln-2568" n="4.4.19" part="F">Sirrah, fetch drier logs. </l>
             <l xml:id="ftln-2569" n="4.4.20">Call Peter. He will show thee where they are. </l>
           </sp>
@@ -5747,10 +5273,7 @@
             <speaker xml:id="spk-2572">CAPULET </speaker>
             <l xml:id="ftln-2572" n="4.4.23">Mass, and well said. A merry whoreson, ha! </l>
             <l xml:id="ftln-2573" n="4.4.24" part="I">Thou shalt be loggerhead. </l>
-            <stage xml:id="stg-2573.1"
-                         n="SD 4.4.24.1"
-                         type="exit"
-                         who="#SERVANTS.CAPULET.0.2_Rom">Second Servingman exits. </stage>
+            <stage xml:id="stg-2573.1" n="SD 4.4.24.1" type="exit" who="#SERVANTS.CAPULET.0.2_Rom">Second Servingman exits. </stage>
             <l xml:id="ftln-2574" n="4.4.25" part="F">Good faith, ’tis day. </l>
             <l xml:id="ftln-2575" n="4.4.26">The County will be here with music straight, </l>
             <stage xml:id="stg-2575.1" n="SD 4.4.26.1" type="business">
@@ -5758,28 +5281,19 @@
             </stage>
             <l xml:id="ftln-2576" n="4.4.27">For so he said he would. I hear him near.— </l>
             <l xml:id="ftln-2577" n="4.4.28">Nurse!— Wife! What ho!— What, nurse, I say! </l>
-            <stage xml:id="stg-2577.1"
-                         n="SD 4.4.28.1"
-                         type="entrance"
-                         who="#Nurse_Rom">Enter Nurse. </stage>
+            <stage xml:id="stg-2577.1" n="SD 4.4.28.1" type="entrance" who="#Nurse_Rom">Enter Nurse. </stage>
             <l xml:id="ftln-2578" n="4.4.29">Go waken Juliet. Go and trim her up. </l>
             <l xml:id="ftln-2579" n="4.4.30">I’ll go and chat with Paris. Hie, make haste, </l>
             <l xml:id="ftln-2580" n="4.4.31">Make haste. The bridegroom he is come already. </l>
             <l xml:id="ftln-2581" n="4.4.32" ana="#short">Make haste, I say. </l>
           </sp>
-          <stage xml:id="stg-2581.1"
-                      n="SD 4.4.32.1"
-                      type="exit"
-                      who="#Capulet_Rom #SERVANTS.CAPULET_Rom">He exits. </stage>
+          <stage xml:id="stg-2581.1" n="SD 4.4.32.1" type="exit" who="#Capulet_Rom #SERVANTS.CAPULET_Rom">He exits. </stage>
         </div>
         <div type="scene" n="5">
           <head>Scene 5 </head>
           <sp xml:id="sp-2582" who="#Nurse_Rom">
             <speaker xml:id="spk-2582">NURSE </speaker>
-            <stage xml:id="stg-2581.2"
-                         n="SD 4.5.0"
-                         type="business"
-                         who="#Nurse_Rom">, approaching the bed </stage>
+            <stage xml:id="stg-2581.2" n="SD 4.5.0" type="business" who="#Nurse_Rom">, approaching the bed </stage>
             <l xml:id="ftln-2582" n="4.5.1">Mistress! What, mistress! Juliet!— Fast, I warrant her, she— </l>
             <l xml:id="ftln-2584" n="4.5.3">Why, lamb, why, lady! Fie, you slugabed! </l>
             <l xml:id="ftln-2585" n="4.5.4">Why, love, I say! Madam! Sweetheart! Why, bride!— </l>
@@ -5791,20 +5305,14 @@
             <l xml:id="ftln-2592" n="4.5.11">I needs must wake her.— Madam, madam, madam! </l>
             <l xml:id="ftln-2593" n="4.5.12">Ay, let the County take you in your bed, </l>
             <l xml:id="ftln-2594" n="4.5.13">He’ll fright you up, i’ faith.— Will it not be? </l>
-            <stage xml:id="stg-2594.1"
-                         n="SD 4.5.13.1"
-                         type="business"
-                         who="#Nurse_Rom">She opens the bed’s curtains. </stage>
+            <stage xml:id="stg-2594.1" n="SD 4.5.13.1" type="business" who="#Nurse_Rom">She opens the bed’s curtains. </stage>
             <l xml:id="ftln-2595" n="4.5.14">What, dressed, and in your clothes, and down again? </l>
             <l xml:id="ftln-2597" n="4.5.16">I must needs wake you. Lady, lady, lady!— </l>
             <l xml:id="ftln-2598" n="4.5.17">Alas, alas! Help, help! My lady’s dead.— </l>
             <l xml:id="ftln-2599" n="4.5.18">O, weraday, that ever I was born!— </l>
             <l xml:id="ftln-2600" n="4.5.19">Some aqua vitae, ho!— My lord! My lady! </l>
           </sp>
-          <stage xml:id="stg-2600.1"
-                      n="SD 4.5.19.1"
-                      type="entrance"
-                      who="#LadyCapulet_Rom">Enter Lady Capulet. </stage>
+          <stage xml:id="stg-2600.1" n="SD 4.5.19.1" type="entrance" who="#LadyCapulet_Rom">Enter Lady Capulet. </stage>
           <sp xml:id="sp-2601" who="#LadyCapulet_Rom">
             <speaker xml:id="spk-2601">LADY CAPULET </speaker>
             <l xml:id="ftln-2601" n="4.5.20" part="I">What noise is here? </l>
@@ -5827,10 +5335,7 @@
             <l xml:id="ftln-2606" n="4.5.25">Revive, look up, or I will die with thee. </l>
             <l xml:id="ftln-2607" n="4.5.26" ana="#short">Help, help! Call help. </l>
           </sp>
-          <stage xml:id="stg-2607.1"
-                      n="SD 4.5.26.1"
-                      type="entrance"
-                      who="#Capulet_Rom">Enter Capulet. </stage>
+          <stage xml:id="stg-2607.1" n="SD 4.5.26.1" type="entrance" who="#Capulet_Rom">Enter Capulet. </stage>
           <sp xml:id="sp-2608" who="#Capulet_Rom">
             <speaker xml:id="spk-2608">CAPULET </speaker>
             <l xml:id="ftln-2608" n="4.5.27">For shame, bring Juliet forth. Her lord is come. </l>
@@ -5864,10 +5369,7 @@
             <l xml:id="ftln-2618" n="4.5.37">Death, that hath ta’en her hence to make me wail, </l>
             <l xml:id="ftln-2619" n="4.5.38">Ties up my tongue and will not let me speak. </l>
           </sp>
-          <stage xml:id="stg-2619.1"
-                      n="SD 4.5.38.1"
-                      type="entrance"
-                      who="#FriarLawrence_Rom #Paris_Rom #MUSICIANS_Rom">Enter Friar Lawrence and the County Paris, with Musicians. </stage>
+          <stage xml:id="stg-2619.1" n="SD 4.5.38.1" type="entrance" who="#FriarLawrence_Rom #Paris_Rom #MUSICIANS_Rom">Enter Friar Lawrence and the County Paris, with Musicians. </stage>
           <sp xml:id="sp-2620" who="#FriarLawrence_Rom">
             <speaker xml:id="spk-2620">FRIAR LAWRENCE </speaker>
             <l xml:id="ftln-2620" n="4.5.39">Come, is the bride ready to go to church? </l>
@@ -5961,10 +5463,7 @@
             <l xml:id="ftln-2681" n="4.5.100">The heavens do lour upon you for some ill. </l>
             <l xml:id="ftln-2682" n="4.5.101">Move them no more by crossing their high will. </l>
           </sp>
-          <stage xml:id="stg-2682.1"
-                      n="SD 4.5.101.1"
-                      type="exit"
-                      who="#Capulet_Rom #LadyCapulet_Rom #Paris_Rom #FriarLawrence_Rom">All but the Nurse and the Musicians exit. </stage>
+          <stage xml:id="stg-2682.1" n="SD 4.5.101.1" type="exit" who="#Capulet_Rom #LadyCapulet_Rom #Paris_Rom #FriarLawrence_Rom">All but the Nurse and the Musicians exit. </stage>
           <sp xml:id="sp-2683" who="#MUSICIANS.0.1_Rom">
             <speaker xml:id="spk-2683">FIRST MUSICIAN </speaker>
             <l xml:id="ftln-2683" n="4.5.102">Faith, we may put up our pipes and be gone. </l>
@@ -5978,14 +5477,8 @@
             <speaker xml:id="spk-2686">FIRST MUSICIAN </speaker>
             <l xml:id="ftln-2686" n="4.5.105">Ay, by my troth, the case may be amended. </l>
           </sp>
-          <stage xml:id="stg-2686.1"
-                      n="SD 4.5.105.1"
-                      type="exit"
-                      who="#Nurse_Rom">Nurse exits. </stage>
-          <stage xml:id="stg-2686.2"
-                      n="SD 4.5.105.2"
-                      type="entrance"
-                      who="#SERVANTS.CAPULET.Peter_Rom">Enter Peter. </stage>
+          <stage xml:id="stg-2686.1" n="SD 4.5.105.1" type="exit" who="#Nurse_Rom">Nurse exits. </stage>
+          <stage xml:id="stg-2686.2" n="SD 4.5.105.2" type="entrance" who="#SERVANTS.CAPULET.Peter_Rom">Enter Peter. </stage>
           <sp xml:id="sp-2687" who="#SERVANTS.CAPULET.Peter_Rom">
             <speaker xml:id="spk-2687">PETER </speaker>
             <p xml:id="p-2687">
@@ -6055,10 +5548,7 @@
             <speaker xml:id="spk-2710">PETER </speaker>
             <p xml:id="p-2710">
               <lb xml:id="ftln-2710" n="4.5.129"/>Then have at you with my wit. I will dry-beat <lb xml:id="ftln-2711" n="4.5.130"/>you with an iron wit, and put up my iron dagger. <lb xml:id="ftln-2712" n="4.5.131"/>Answer me like men. </p>
-            <stage xml:id="stg-2713"
-                         n="SD 4.5.132"
-                         type="delivery"
-                         rendition="indentProse">Sings. </stage>
+            <stage xml:id="stg-2713" n="SD 4.5.132" type="delivery" rendition="indentProse">Sings. </stage>
             <l xml:id="ftln-2713" n="4.5.132">When griping griefs the heart doth wound </l>
             <l xml:id="ftln-2714" n="4.5.133">And doleful dumps the mind oppress, </l>
             <l xml:id="ftln-2715" n="4.5.134">Then music with her silver sound— </l>
@@ -6094,17 +5584,11 @@
             <speaker xml:id="spk-2725">PETER </speaker>
             <p xml:id="p-2725">
               <lb xml:id="ftln-2725" n="4.5.144"/>O, I cry you mercy. You are the singer. I will say <lb xml:id="ftln-2726" n="4.5.145"/>for you. It is “ music with her silver sound” because <lb xml:id="ftln-2727" n="4.5.146"/>musicians have no gold for sounding: </p>
-            <stage xml:id="stg-2728"
-                         n="SD 4.5.147"
-                         type="delivery"
-                         rendition="indentProse">Sings. </stage>
+            <stage xml:id="stg-2728" n="SD 4.5.147" type="delivery" rendition="indentProse">Sings. </stage>
             <l xml:id="ftln-2728" n="4.5.147">Then music with her silver sound </l>
             <l xml:id="ftln-2729" n="4.5.148">With speedy help doth lend redress. </l>
           </sp>
-          <stage xml:id="stg-2729.1"
-                      n="SD 4.5.148.1"
-                      type="exit"
-                      who="#SERVANTS.CAPULET.Peter_Rom">He exits. </stage>
+          <stage xml:id="stg-2729.1" n="SD 4.5.148.1" type="exit" who="#SERVANTS.CAPULET.Peter_Rom">He exits. </stage>
           <sp xml:id="sp-2730" who="#MUSICIANS.0.1_Rom">
             <speaker xml:id="spk-2730">FIRST MUSICIAN </speaker>
             <p xml:id="p-2730">
@@ -6115,20 +5599,14 @@
             <p xml:id="p-2731">
               <lb xml:id="ftln-2731" n="4.5.150"/>Hang him, Jack. Come, we’ll in <lb xml:id="ftln-2732" n="4.5.151"/>here, tarry for the mourners, and stay dinner. </p>
           </sp>
-          <stage xml:id="stg-2732.1"
-                      n="SD 4.5.151.1"
-                      type="exit"
-                      who="#MUSICIANS_Rom">They exit. </stage>
+          <stage xml:id="stg-2732.1" n="SD 4.5.151.1" type="exit" who="#MUSICIANS_Rom">They exit. </stage>
         </div>
       </div>
       <div type="act" n="5">
         <head>ACT 5 </head>
         <div type="scene" n="1">
           <head>Scene 1 </head>
-          <stage xml:id="stg-2732.2"
-                      n="SD 5.1.0"
-                      type="entrance"
-                      who="#Romeo_Rom">Enter Romeo. </stage>
+          <stage xml:id="stg-2732.2" n="SD 5.1.0" type="entrance" who="#Romeo_Rom">Enter Romeo. </stage>
           <sp xml:id="sp-2733" who="#Romeo_Rom">
             <speaker xml:id="spk-2733">ROMEO </speaker>
             <l xml:id="ftln-2733" n="5.1.1">If I may trust the flattering truth of sleep, </l>
@@ -6142,10 +5620,7 @@
             <l xml:id="ftln-2742" n="5.1.10">That I revived and was an emperor. </l>
             <l xml:id="ftln-2743" n="5.1.11">Ah me, how sweet is love itself possessed </l>
             <l xml:id="ftln-2744" n="5.1.12">When but love’s shadows are so rich in joy! </l>
-            <stage xml:id="stg-2744.1"
-                         n="SD 5.1.12.1"
-                         type="entrance"
-                         who="#SERVANTS.MONTAGUE.Balthasar_Rom">Enter Romeo’s man Balthasar, in riding boots. </stage>
+            <stage xml:id="stg-2744.1" n="SD 5.1.12.1" type="entrance" who="#SERVANTS.MONTAGUE.Balthasar_Rom">Enter Romeo’s man Balthasar, in riding boots. </stage>
             <l xml:id="ftln-2745" n="5.1.13">News from Verona!— How now, Balthasar? </l>
             <l xml:id="ftln-2746" n="5.1.14">Dost thou not bring me letters from the Friar? </l>
             <l xml:id="ftln-2747" n="5.1.15">How doth my lady? Is my father well? </l>
@@ -6188,10 +5663,7 @@
             <speaker xml:id="spk-2767">ROMEO </speaker>
             <l xml:id="ftln-2767" n="5.1.35" part="F">No matter. Get thee gone, </l>
             <l xml:id="ftln-2768" n="5.1.36">And hire those horses. I’ll be with thee straight. </l>
-            <stage xml:id="stg-2768.1"
-                         n="SD 5.1.36.1"
-                         type="exit"
-                         who="#SERVANTS.MONTAGUE.Balthasar_Rom">Balthasar exits. </stage>
+            <stage xml:id="stg-2768.1" n="SD 5.1.36.1" type="exit" who="#SERVANTS.MONTAGUE.Balthasar_Rom">Balthasar exits. </stage>
             <l xml:id="ftln-2769" n="5.1.37">Well, Juliet, I will lie with thee tonight. </l>
             <l xml:id="ftln-2770" n="5.1.38">Let’s see for means. O mischief, thou art swift </l>
             <l xml:id="ftln-2771" n="5.1.39">To enter in the thoughts of desperate men. </l>
@@ -6217,10 +5689,7 @@
             <l xml:id="ftln-2791" n="5.1.59">Being holiday, the beggar’s shop is shut.— </l>
             <l xml:id="ftln-2792" n="5.1.60" part="I">What ho, Apothecary! </l>
           </sp>
-          <stage xml:id="stg-2792.1"
-                      n="SD 5.1.60.1"
-                      type="entrance"
-                      who="#Apothecary_Rom">Enter Apothecary. </stage>
+          <stage xml:id="stg-2792.1" n="SD 5.1.60.1" type="entrance" who="#Apothecary_Rom">Enter Apothecary. </stage>
           <sp xml:id="sp-2793" who="#Apothecary_Rom">
             <speaker xml:id="spk-2793">APOTHECARY </speaker>
             <l xml:id="ftln-2793" n="5.1.61" part="F">Who calls so loud? </l>
@@ -6228,10 +5697,7 @@
           <sp xml:id="sp-2794" who="#Romeo_Rom">
             <speaker xml:id="spk-2794">ROMEO </speaker>
             <l xml:id="ftln-2794" n="5.1.62">Come hither, man. I see that thou art poor. </l>
-            <stage xml:id="stg-2794.1"
-                         n="SD 5.1.62.1"
-                         type="business"
-                         who="#Romeo_Rom">He offers money. </stage>
+            <stage xml:id="stg-2794.1" n="SD 5.1.62.1" type="business" who="#Romeo_Rom">He offers money. </stage>
             <l xml:id="ftln-2795" n="5.1.63">Hold, there is forty ducats. Let me have </l>
             <l xml:id="ftln-2796" n="5.1.64">A dram of poison, such soon-speeding gear </l>
             <l xml:id="ftln-2797" n="5.1.65">As will disperse itself through all the veins, </l>
@@ -6265,51 +5731,33 @@
           </sp>
           <sp xml:id="sp-2813" who="#Apothecary_Rom">
             <speaker xml:id="spk-2813">APOTHECARY </speaker>
-            <stage xml:id="stg-2813.0"
-                         n="SD 5.1.81.0"
-                         type="business"
-                         who="#Apothecary_Rom #Romeo_Rom">, giving him the poison </stage>
+            <stage xml:id="stg-2813.0" n="SD 5.1.81.0" type="business" who="#Apothecary_Rom #Romeo_Rom">, giving him the poison </stage>
             <l xml:id="ftln-2813" n="5.1.81">Put this in any liquid thing you will </l>
             <l xml:id="ftln-2814" n="5.1.82">And drink it off, and if you had the strength </l>
             <l xml:id="ftln-2815" n="5.1.83">Of twenty men, it would dispatch you straight. </l>
           </sp>
           <sp xml:id="sp-2816" who="#Romeo_Rom">
             <speaker xml:id="spk-2816">ROMEO </speaker>
-            <stage xml:id="stg-2816.0"
-                         n="SD 5.1.84.0"
-                         type="business"
-                         who="#Romeo_Rom #Apothecary_Rom">, handing him the money </stage>
+            <stage xml:id="stg-2816.0" n="SD 5.1.84.0" type="business" who="#Romeo_Rom #Apothecary_Rom">, handing him the money </stage>
             <l xml:id="ftln-2816" n="5.1.84">There is thy gold, worse poison to men’s souls, </l>
             <l xml:id="ftln-2817" n="5.1.85">Doing more murder in this loathsome world </l>
             <l xml:id="ftln-2818" n="5.1.86">Than these poor compounds that thou mayst not sell. </l>
             <l xml:id="ftln-2820" n="5.1.88">I sell thee poison; thou hast sold me none. </l>
             <l xml:id="ftln-2821" n="5.1.89">Farewell, buy food, and get thyself in flesh. </l>
-            <stage xml:id="stg-2821.1"
-                         n="SD 5.1.89.1"
-                         type="exit"
-                         who="#Apothecary_Rom">Apothecary exits. </stage>
+            <stage xml:id="stg-2821.1" n="SD 5.1.89.1" type="exit" who="#Apothecary_Rom">Apothecary exits. </stage>
             <l xml:id="ftln-2822" n="5.1.90">Come, cordial and not poison, go with me </l>
             <l xml:id="ftln-2823" n="5.1.91">To Juliet’s grave, for there must I use thee. </l>
           </sp>
-          <stage xml:id="stg-2823.1"
-                      n="SD 5.1.91.1"
-                      type="exit"
-                      who="#Romeo_Rom">He exits. </stage>
+          <stage xml:id="stg-2823.1" n="SD 5.1.91.1" type="exit" who="#Romeo_Rom">He exits. </stage>
         </div>
         <div type="scene" n="2">
           <head>Scene 2 </head>
-          <stage xml:id="stg-2823.2"
-                      n="SD 5.2.0"
-                      type="entrance"
-                      who="#FriarJohn_Rom">Enter Friar John. </stage>
+          <stage xml:id="stg-2823.2" n="SD 5.2.0" type="entrance" who="#FriarJohn_Rom">Enter Friar John. </stage>
           <sp xml:id="sp-2824" who="#FriarJohn_Rom">
             <speaker xml:id="spk-2824">FRIAR JOHN </speaker>
             <l xml:id="ftln-2824" n="5.2.1">Holy Franciscan friar, brother, ho! </l>
           </sp>
-          <stage xml:id="stg-2824.1"
-                      n="SD 5.2.1.1"
-                      type="entrance"
-                      who="#FriarLawrence_Rom">Enter Friar Lawrence. </stage>
+          <stage xml:id="stg-2824.1" n="SD 5.2.1.1" type="entrance" who="#FriarLawrence_Rom">Enter Friar Lawrence. </stage>
           <sp xml:id="sp-2825" who="#FriarLawrence_Rom">
             <speaker xml:id="spk-2825">FRIAR LAWRENCE </speaker>
             <l xml:id="ftln-2825" n="5.2.2">This same should be the voice of Friar John.— </l>
@@ -6334,10 +5782,7 @@
           <sp xml:id="sp-2837" who="#FriarJohn_Rom">
             <speaker xml:id="spk-2837">FRIAR JOHN </speaker>
             <l xml:id="ftln-2837" n="5.2.14">I could not send it— here it is again— </l>
-            <stage xml:id="stg-2837.1"
-                         n="SD 5.2.14.1"
-                         type="business"
-                         who="#FriarJohn_Rom #FriarLawrence_Rom">Returning the letter. </stage>
+            <stage xml:id="stg-2837.1" n="SD 5.2.14.1" type="business" who="#FriarJohn_Rom #FriarLawrence_Rom">Returning the letter. </stage>
             <l xml:id="ftln-2838" n="5.2.15">Nor get a messenger to bring it thee, </l>
             <l xml:id="ftln-2839" n="5.2.16">So fearful were they of infection. </l>
           </sp>
@@ -6354,10 +5799,7 @@
             <speaker xml:id="spk-2846">FRIAR JOHN </speaker>
             <l xml:id="ftln-2846" n="5.2.23">Brother, I’ll go and bring it thee. </l>
           </sp>
-          <stage xml:id="stg-2846"
-                      n="SD 5.2.23"
-                      type="exit"
-                      who="#FriarJohn_Rom">He exits. </stage>
+          <stage xml:id="stg-2846" n="SD 5.2.23" type="exit" who="#FriarJohn_Rom">He exits. </stage>
           <sp xml:id="sp-2847" who="#FriarLawrence_Rom">
             <speaker xml:id="spk-2847">FRIAR LAWRENCE </speaker>
             <l xml:id="ftln-2847" n="5.2.24">Now must I to the monument alone. </l>
@@ -6368,17 +5810,11 @@
             <l xml:id="ftln-2852" n="5.2.29">And keep her at my cell till Romeo come. </l>
             <l xml:id="ftln-2853" n="5.2.30">Poor living corse, closed in a dead man’s tomb! </l>
           </sp>
-          <stage xml:id="stg-2853.1"
-                      n="SD 5.2.30.1"
-                      type="exit"
-                      who="#FriarLawrence_Rom">He exits. </stage>
+          <stage xml:id="stg-2853.1" n="SD 5.2.30.1" type="exit" who="#FriarLawrence_Rom">He exits. </stage>
         </div>
         <div type="scene" n="3">
           <head>Scene 3 </head>
-          <stage xml:id="stg-2853.2"
-                      n="SD 5.3.0"
-                      type="entrance"
-                      who="#Paris_Rom #SERVANTS.PARIS.1_Rom">Enter Paris and his Page. </stage>
+          <stage xml:id="stg-2853.2" n="SD 5.3.0" type="entrance" who="#Paris_Rom #SERVANTS.PARIS.1_Rom">Enter Paris and his Page. </stage>
           <sp xml:id="sp-2854" who="#Paris_Rom">
             <speaker xml:id="spk-2854">PARIS </speaker>
             <l xml:id="ftln-2854" n="5.3.1">Give me thy torch, boy. Hence and stand aloof. </l>
@@ -6397,39 +5833,24 @@
             <l xml:id="ftln-2863" n="5.3.10">I am almost afraid to stand alone </l>
             <l xml:id="ftln-2864" n="5.3.11">Here in the churchyard. Yet I will adventure. </l>
           </sp>
-          <stage xml:id="stg-2864.1"
-                      n="SD 5.3.11.1"
-                      type="business"
-                      who="#SERVANTS.PARIS.1_Rom">He moves away from Paris. </stage>
+          <stage xml:id="stg-2864.1" n="SD 5.3.11.1" type="business" who="#SERVANTS.PARIS.1_Rom">He moves away from Paris. </stage>
           <sp xml:id="sp-2865" who="#Paris_Rom">
             <speaker xml:id="spk-2865">PARIS </speaker>
-            <stage xml:id="stg-2865.0"
-                         n="SD 5.3.12.0"
-                         type="business"
-                         who="#Paris_Rom">, scattering flowers </stage>
+            <stage xml:id="stg-2865.0" n="SD 5.3.12.0" type="business" who="#Paris_Rom">, scattering flowers </stage>
             <l xml:id="ftln-2865" n="5.3.12">Sweet flower, with flowers thy bridal bed I strew </l>
             <l xml:id="ftln-2866" n="5.3.13">( O woe, thy canopy is dust and stones!) </l>
             <l xml:id="ftln-2867" n="5.3.14">Which with sweet water nightly I will dew, </l>
             <l xml:id="ftln-2868" n="5.3.15">Or, wanting that, with tears distilled by moans. </l>
             <l xml:id="ftln-2869" n="5.3.16">The obsequies that I for thee will keep </l>
             <l xml:id="ftln-2870" n="5.3.17">Nightly shall be to strew thy grave and weep. </l>
-            <stage xml:id="stg-2870.1"
-                         n="SD 5.3.17.1"
-                         type="business"
-                         who="#SERVANTS.PARIS.1_Rom">Page whistles. </stage>
+            <stage xml:id="stg-2870.1" n="SD 5.3.17.1" type="business" who="#SERVANTS.PARIS.1_Rom">Page whistles. </stage>
             <l xml:id="ftln-2871" n="5.3.18">The boy gives warning something doth approach. </l>
             <l xml:id="ftln-2872" n="5.3.19">What cursèd foot wanders this way tonight, </l>
             <l xml:id="ftln-2873" n="5.3.20">To cross my obsequies and true love’s rite? </l>
             <l xml:id="ftln-2874" n="5.3.21">What, with a torch? Muffle me, night, awhile. </l>
           </sp>
-          <stage xml:id="stg-2874.1"
-                      n="SD 5.3.21.1"
-                      type="business"
-                      who="#Paris_Rom">He steps aside. </stage>
-          <stage xml:id="stg-2874.2"
-                      n="SD 5.3.21.2"
-                      type="entrance"
-                      who="#Romeo_Rom #SERVANTS.MONTAGUE.Balthasar_Rom">Enter Romeo and Balthasar. </stage>
+          <stage xml:id="stg-2874.1" n="SD 5.3.21.1" type="business" who="#Paris_Rom">He steps aside. </stage>
+          <stage xml:id="stg-2874.2" n="SD 5.3.21.2" type="entrance" who="#Romeo_Rom #SERVANTS.MONTAGUE.Balthasar_Rom">Enter Romeo and Balthasar. </stage>
           <sp xml:id="sp-2875" who="#Romeo_Rom">
             <speaker xml:id="spk-2875">ROMEO </speaker>
             <l xml:id="ftln-2875" n="5.3.22">Give me that mattock and the wrenching iron. </l>
@@ -6458,10 +5879,7 @@
           <sp xml:id="sp-2894" who="#Romeo_Rom">
             <speaker xml:id="spk-2894">ROMEO </speaker>
             <l xml:id="ftln-2894" n="5.3.41">So shalt thou show me friendship. Take thou that. </l>
-            <stage xml:id="stg-2894.1"
-                         n="SD 5.3.41.1"
-                         type="business"
-                         who="#Romeo_Rom #SERVANTS.MONTAGUE.Balthasar_Rom">Giving money. </stage>
+            <stage xml:id="stg-2894.1" n="SD 5.3.41.1" type="business" who="#Romeo_Rom #SERVANTS.MONTAGUE.Balthasar_Rom">Giving money. </stage>
             <l xml:id="ftln-2895" n="5.3.42">Live and be prosperous, and farewell, good fellow. </l>
           </sp>
           <sp xml:id="sp-2896" who="#SERVANTS.MONTAGUE.Balthasar_Rom">
@@ -6470,16 +5888,10 @@
             <l xml:id="ftln-2896" n="5.3.43">For all this same, I’ll hide me hereabout. </l>
             <l xml:id="ftln-2897" n="5.3.44">His looks I fear, and his intents I doubt. </l>
           </sp>
-          <stage xml:id="stg-2897.1"
-                      n="SD 5.3.44.1"
-                      type="business"
-                      who="#SERVANTS.MONTAGUE.Balthasar_Rom">He steps aside. </stage>
+          <stage xml:id="stg-2897.1" n="SD 5.3.44.1" type="business" who="#SERVANTS.MONTAGUE.Balthasar_Rom">He steps aside. </stage>
           <sp xml:id="sp-2898" who="#Romeo_Rom">
             <speaker xml:id="spk-2898">ROMEO </speaker>
-            <stage xml:id="stg-2898.0"
-                         n="SD 5.3.45.0"
-                         type="business"
-                         who="#Romeo_Rom">, beginning to force open the tomb </stage>
+            <stage xml:id="stg-2898.0" n="SD 5.3.45.0" type="business" who="#Romeo_Rom">, beginning to force open the tomb </stage>
             <l xml:id="ftln-2898" n="5.3.45">Thou detestable maw, thou womb of death, </l>
             <l xml:id="ftln-2899" n="5.3.46">Gorged with the dearest morsel of the earth, </l>
             <l xml:id="ftln-2900" n="5.3.47">Thus I enforce thy rotten jaws to open, </l>
@@ -6492,10 +5904,7 @@
             <l xml:id="ftln-2904" n="5.3.51">It is supposèd the fair creature died, </l>
             <l xml:id="ftln-2905" n="5.3.52">And here is come to do some villainous shame </l>
             <l xml:id="ftln-2906" n="5.3.53">To the dead bodies. I will apprehend him. </l>
-            <stage xml:id="stg-2906.1"
-                         n="SD 5.3.53.1"
-                         type="business"
-                         who="#Paris_Rom">Stepping forward. </stage>
+            <stage xml:id="stg-2906.1" n="SD 5.3.53.1" type="business" who="#Paris_Rom">Stepping forward. </stage>
             <l xml:id="ftln-2907" n="5.3.54">Stop thy unhallowed toil, vile Montague. </l>
             <l xml:id="ftln-2908" n="5.3.55">Can vengeance be pursued further than death? </l>
             <l xml:id="ftln-2909" n="5.3.56">Condemnèd villain, I do apprehend thee. </l>
@@ -6523,27 +5932,18 @@
             <speaker xml:id="spk-2923">ROMEO </speaker>
             <l xml:id="ftln-2923" n="5.3.70">Wilt thou provoke me? Then have at thee, boy! </l>
           </sp>
-          <stage xml:id="stg-2923.1"
-                      n="SD 5.3.70.1"
-                      type="business"
-                      who="#Romeo_Rom #Paris_Rom">They draw and fight. </stage>
+          <stage xml:id="stg-2923.1" n="SD 5.3.70.1" type="business" who="#Romeo_Rom #Paris_Rom">They draw and fight. </stage>
           <sp xml:id="sp-2924" who="#SERVANTS.PARIS.1_Rom">
             <speaker xml:id="spk-2924">PAGE </speaker>
             <l xml:id="ftln-2924" n="5.3.71">O Lord, they fight! I will go call the watch. </l>
           </sp>
-          <stage xml:id="stg-2924.1"
-                      n="SD 5.3.71.1"
-                      type="exit"
-                      who="#SERVANTS.PARIS.1_Rom">He exits. </stage>
+          <stage xml:id="stg-2924.1" n="SD 5.3.71.1" type="exit" who="#SERVANTS.PARIS.1_Rom">He exits. </stage>
           <sp xml:id="sp-2925" who="#Paris_Rom">
             <speaker xml:id="spk-2925">PARIS </speaker>
             <l xml:id="ftln-2925" n="5.3.72">O, I am slain! If thou be merciful, </l>
             <l xml:id="ftln-2926" n="5.3.73">Open the tomb; lay me with Juliet. </l>
           </sp>
-          <stage xml:id="stg-2926"
-                      n="SD 5.3.73"
-                      type="business"
-                      who="#Paris_Rom">He dies. </stage>
+          <stage xml:id="stg-2926" n="SD 5.3.73" type="business" who="#Paris_Rom">He dies. </stage>
           <sp xml:id="sp-2927" who="#Romeo_Rom">
             <speaker xml:id="spk-2927">ROMEO </speaker>
             <l xml:id="ftln-2927" n="5.3.74">In faith, I will.— Let me peruse this face. </l>
@@ -6556,18 +5956,12 @@
             <l xml:id="ftln-2934" n="5.3.81">To think it was so?— O, give me thy hand, </l>
             <l xml:id="ftln-2935" n="5.3.82">One writ with me in sour misfortune’s book! </l>
             <l xml:id="ftln-2936" n="5.3.83">I’ll bury thee in a triumphant grave.— </l>
-            <stage xml:id="stg-2936.1"
-                         n="SD 5.3.83.1"
-                         type="business"
-                         who="#Romeo_Rom">He opens the tomb. </stage>
+            <stage xml:id="stg-2936.1" n="SD 5.3.83.1" type="business" who="#Romeo_Rom">He opens the tomb. </stage>
             <l xml:id="ftln-2937" n="5.3.84">A grave? O, no. A lantern, slaughtered youth, </l>
             <l xml:id="ftln-2938" n="5.3.85">For here lies Juliet, and her beauty makes </l>
             <l xml:id="ftln-2939" n="5.3.86">This vault a feasting presence full of light.— </l>
             <l xml:id="ftln-2940" n="5.3.87">Death, lie thou there, by a dead man interred. </l>
-            <stage xml:id="stg-2940.1"
-                         n="SD 5.3.87.1"
-                         type="business"
-                         who="#Romeo_Rom #Paris_Rom">Laying Paris in the tomb. </stage>
+            <stage xml:id="stg-2940.1" n="SD 5.3.87.1" type="business" who="#Romeo_Rom #Paris_Rom">Laying Paris in the tomb. </stage>
             <l xml:id="ftln-2941" n="5.3.88">How oft when men are at the point of death </l>
             <l xml:id="ftln-2942" n="5.3.89">Have they been merry, which their keepers call </l>
             <l xml:id="ftln-2943" n="5.3.90">A light’ning before death! O, how may I </l>
@@ -6596,28 +5990,15 @@
             <l xml:id="ftln-2966" n="5.3.113">Arms, take your last embrace. And, lips, O, you </l>
             <l xml:id="ftln-2967" n="5.3.114">The doors of breath, seal with a righteous kiss </l>
             <l xml:id="ftln-2968" n="5.3.115">A dateless bargain to engrossing death. </l>
-            <stage xml:id="stg-2968.1"
-                         n="SD 5.3.115.1"
-                         type="business"
-                         who="#Romeo_Rom #Juliet_Rom">Kissing Juliet. </stage>
+            <stage xml:id="stg-2968.1" n="SD 5.3.115.1" type="business" who="#Romeo_Rom #Juliet_Rom">Kissing Juliet. </stage>
             <l xml:id="ftln-2969" n="5.3.116">Come, bitter conduct, come, unsavory guide! </l>
             <l xml:id="ftln-2970" n="5.3.117">Thou desperate pilot, now at once run on </l>
             <l xml:id="ftln-2971" n="5.3.118">The dashing rocks thy seasick weary bark! </l>
-            <l xml:id="ftln-2972" n="5.3.119">Here’s to my love. <stage xml:id="stg-2972"
-                            n="SD 5.3.119"
-                            type="business"
-                            rendition="inline"
-                            who="#Romeo_Rom"> Drinking. </stage> O true apothecary, </l>
+            <l xml:id="ftln-2972" n="5.3.119">Here’s to my love. <stage xml:id="stg-2972" n="SD 5.3.119" type="business" rendition="inline" who="#Romeo_Rom"> Drinking. </stage> O true apothecary, </l>
             <l xml:id="ftln-2973" n="5.3.120">Thy drugs are quick. Thus with a kiss I die. </l>
           </sp>
-          <stage xml:id="stg-2973.1"
-                      n="SD 5.3.129.1"
-                      type="business"
-                      who="#Romeo_Rom">He dies. </stage>
-          <stage xml:id="stg-2973.2"
-                      n="SD 5.3.129.2"
-                      type="entrance"
-                      who="#FriarLawrence_Rom">Enter Friar Lawrence with lantern, crow, and spade. </stage>
+          <stage xml:id="stg-2973.1" n="SD 5.3.129.1" type="business" who="#Romeo_Rom">He dies. </stage>
+          <stage xml:id="stg-2973.2" n="SD 5.3.129.2" type="entrance" who="#FriarLawrence_Rom">Enter Friar Lawrence with lantern, crow, and spade. </stage>
           <sp xml:id="sp-2974" who="#FriarLawrence_Rom">
             <speaker xml:id="spk-2974">FRIAR LAWRENCE </speaker>
             <l xml:id="ftln-2974" n="5.3.121">Saint Francis be my speed! How oft tonight </l>
@@ -6679,10 +6060,7 @@
           </sp>
           <sp xml:id="sp-2997" who="#FriarLawrence_Rom">
             <speaker xml:id="spk-2997">FRIAR LAWRENCE </speaker>
-            <stage xml:id="stg-2997.0"
-                         n="SD 5.3.144.0"
-                         type="business"
-                         who="#FriarLawrence_Rom">, moving toward the tomb </stage>
+            <stage xml:id="stg-2997.0" n="SD 5.3.144.0" type="business" who="#FriarLawrence_Rom">, moving toward the tomb </stage>
             <l xml:id="ftln-2997" n="5.3.144" part="F">Romeo!— </l>
             <l xml:id="ftln-2998" n="5.3.145">Alack, alack, what blood is this which stains </l>
             <l xml:id="ftln-2999" n="5.3.146">The stony entrance of this sepulcher? </l>
@@ -6714,26 +6092,17 @@
           <sp xml:id="sp-3018" who="#Juliet_Rom">
             <speaker xml:id="spk-3018">JULIET </speaker>
             <l xml:id="ftln-3018" n="5.3.165">Go, get thee hence, for I will not away. </l>
-            <stage xml:id="stg-3018.1"
-                         n="SD 5.3.165.1"
-                         type="exit"
-                         who="#FriarLawrence_Rom">He exits. </stage>
+            <stage xml:id="stg-3018.1" n="SD 5.3.165.1" type="exit" who="#FriarLawrence_Rom">He exits. </stage>
             <l xml:id="ftln-3019" n="5.3.166">What’s here? A cup closed in my true love’s hand? </l>
             <l xml:id="ftln-3020" n="5.3.167">Poison, I see, hath been his timeless end.— </l>
             <l xml:id="ftln-3021" n="5.3.168">O churl, drunk all, and left no friendly drop </l>
             <l xml:id="ftln-3022" n="5.3.169">To help me after! I will kiss thy lips. </l>
             <l xml:id="ftln-3023" n="5.3.170">Haply some poison yet doth hang on them, </l>
             <l xml:id="ftln-3024" n="5.3.171">To make me die with a restorative. </l>
-            <stage xml:id="stg-3024"
-                         n="SD 5.3.171"
-                         type="business"
-                         who="#Juliet_Rom #Romeo_Rom">She kisses him. </stage>
+            <stage xml:id="stg-3024" n="SD 5.3.171" type="business" who="#Juliet_Rom #Romeo_Rom">She kisses him. </stage>
             <l xml:id="ftln-3025" n="5.3.172" ana="#short">Thy lips are warm! </l>
           </sp>
-          <stage xml:id="stg-3025.1"
-                      n="SD 5.3.172.1"
-                      type="entrance"
-                      who="#SERVANTS.PARIS.1_Rom #WATCHMEN_Rom">Enter Paris’s Page and Watch. </stage>
+          <stage xml:id="stg-3025.1" n="SD 5.3.172.1" type="entrance" who="#SERVANTS.PARIS.1_Rom #WATCHMEN_Rom">Enter Paris’s Page and Watch. </stage>
           <sp xml:id="sp-3026" who="#WATCHMEN.0.1_Rom">
             <speaker xml:id="spk-3026">FIRST WATCH </speaker>
             <p xml:id="p-3026">
@@ -6744,10 +6113,7 @@
             <l xml:id="ftln-3027" n="5.3.174">Yea, noise? Then I’ll be brief. O, happy dagger, </l>
             <l xml:id="ftln-3028" n="5.3.175">This is thy sheath. There rust, and let me die. </l>
           </sp>
-          <stage xml:id="stg-3028.1"
-                      n="SD 5.3.175.1"
-                      type="business"
-                      who="#Juliet_Rom">She takes Romeo’s dagger, stabs herself, and dies. </stage>
+          <stage xml:id="stg-3028.1" n="SD 5.3.175.1" type="business" who="#Juliet_Rom">She takes Romeo’s dagger, stabs herself, and dies. </stage>
           <sp xml:id="sp-3029" who="#SERVANTS.PARIS.1_Rom">
             <speaker xml:id="spk-3029">PAGE </speaker>
             <l xml:id="ftln-3029" n="5.3.176">This is the place, there where the torch doth burn. </l>
@@ -6756,32 +6122,20 @@
             <speaker xml:id="spk-3030">FIRST WATCH </speaker>
             <l xml:id="ftln-3030" n="5.3.177">The ground is bloody.— Search about the churchyard. </l>
             <l xml:id="ftln-3032" n="5.3.179">Go, some of you; whoe’er you find, attach. </l>
-            <stage xml:id="stg-3032.1"
-                         n="SD 5.3.179.1"
-                         type="exit"
-                         who="#WATCHMEN.0.2_Rom">Some watchmen exit. </stage>
+            <stage xml:id="stg-3032.1" n="SD 5.3.179.1" type="exit" who="#WATCHMEN.0.2_Rom">Some watchmen exit. </stage>
             <l xml:id="ftln-3033" n="5.3.180">Pitiful sight! Here lies the County slain, </l>
             <l xml:id="ftln-3034" n="5.3.181">And Juliet bleeding, warm, and newly dead, </l>
             <l xml:id="ftln-3035" n="5.3.182">Who here hath lain this two days burièd.— </l>
             <l xml:id="ftln-3036" n="5.3.183">Go, tell the Prince. Run to the Capulets. </l>
             <l xml:id="ftln-3037" n="5.3.184">Raise up the Montagues. Some others search. </l>
-            <stage xml:id="stg-3037.1"
-                         n="SD 5.3.184.1"
-                         type="exit"
-                         who="#WATCHMEN.0.3_Rom">Others exit. </stage>
+            <stage xml:id="stg-3037.1" n="SD 5.3.184.1" type="exit" who="#WATCHMEN.0.3_Rom">Others exit. </stage>
             <l xml:id="ftln-3038" n="5.3.185">We see the ground whereon these woes do lie, </l>
             <l xml:id="ftln-3039" n="5.3.186">But the true ground of all these piteous woes </l>
             <l xml:id="ftln-3040" n="5.3.187">We cannot without circumstance descry. </l>
           </sp>
           <stage xml:id="stg-3040.1" n="SD 5.3.187.1" type="mixed">
-            <stage xml:id="stg-3040.1a"
-                         n="SD 5.3.187.1"
-                         type="entrance"
-                         who="#WATCHMEN.0.2_Rom">Enter Watchmen </stage>
-            <stage xml:id="stg-3040.1b"
-                         n="SD 5.3.187.1"
-                         type="business"
-                         who="#SERVANTS.MONTAGUE.Balthasar_Rom">with Romeo’s man Balthasar. </stage>
+            <stage xml:id="stg-3040.1a" n="SD 5.3.187.1" type="entrance" who="#WATCHMEN.0.2_Rom">Enter Watchmen </stage>
+            <stage xml:id="stg-3040.1b" n="SD 5.3.187.1" type="business" who="#SERVANTS.MONTAGUE.Balthasar_Rom">with Romeo’s man Balthasar. </stage>
           </stage>
           <sp xml:id="sp-3041" who="#WATCHMEN.0.2_Rom">
             <speaker xml:id="spk-3041">SECOND WATCH </speaker>
@@ -6791,10 +6145,7 @@
             <speaker xml:id="spk-3043">FIRST WATCH </speaker>
             <l xml:id="ftln-3043" n="5.3.190">Hold him in safety till the Prince come hither. </l>
           </sp>
-          <stage xml:id="stg-3043.1"
-                      n="SD 5.3.190.1"
-                      type="entrance"
-                      who="#FriarLawrence_Rom #WATCHMEN.0.3_Rom">Enter Friar Lawrence and another Watchman. </stage>
+          <stage xml:id="stg-3043.1" n="SD 5.3.190.1" type="entrance" who="#FriarLawrence_Rom #WATCHMEN.0.3_Rom">Enter Friar Lawrence and another Watchman. </stage>
           <sp xml:id="sp-3044" who="#WATCHMEN.0.3_Rom">
             <speaker xml:id="spk-3044">THIRD WATCH </speaker>
             <l xml:id="ftln-3044" n="5.3.191">Here is a friar that trembles, sighs, and weeps. </l>
@@ -6805,19 +6156,13 @@
             <speaker xml:id="spk-3047">FIRST WATCH </speaker>
             <l xml:id="ftln-3047" n="5.3.194">A great suspicion. Stay the Friar too. </l>
           </sp>
-          <stage xml:id="stg-3047.1"
-                      n="SD 5.3.194.1"
-                      type="entrance"
-                      who="#PrinceEscalus_Rom #ATTENDANTS.PRINCE_Rom">Enter the Prince with Attendants. </stage>
+          <stage xml:id="stg-3047.1" n="SD 5.3.194.1" type="entrance" who="#PrinceEscalus_Rom #ATTENDANTS.PRINCE_Rom">Enter the Prince with Attendants. </stage>
           <sp xml:id="sp-3048" who="#PrinceEscalus_Rom">
             <speaker xml:id="spk-3048">PRINCE </speaker>
             <l xml:id="ftln-3048" n="5.3.195">What misadventure is so early up </l>
             <l xml:id="ftln-3049" n="5.3.196">That calls our person from our morning rest? </l>
           </sp>
-          <stage xml:id="stg-3049.1"
-                      n="SD 5.3.196.1"
-                      type="entrance"
-                      who="#Capulet_Rom #LadyCapulet_Rom">Enter Capulet and Lady Capulet. </stage>
+          <stage xml:id="stg-3049.1" n="SD 5.3.196.1" type="entrance" who="#Capulet_Rom #LadyCapulet_Rom">Enter Capulet and Lady Capulet. </stage>
           <sp xml:id="sp-3050" who="#Capulet_Rom">
             <speaker xml:id="spk-3050">CAPULET </speaker>
             <l xml:id="ftln-3050" n="5.3.197">What should it be that is so shrieked abroad? </l>
@@ -6860,10 +6205,7 @@
             <l xml:id="ftln-3067" n="5.3.214">O me, this sight of death is as a bell </l>
             <l xml:id="ftln-3068" n="5.3.215">That warns my old age to a sepulcher. </l>
           </sp>
-          <stage xml:id="stg-3068.1"
-                      n="SD 5.3.215.1"
-                      type="entrance"
-                      who="#Montague_Rom">Enter Montague. </stage>
+          <stage xml:id="stg-3068.1" n="SD 5.3.215.1" type="entrance" who="#Montague_Rom">Enter Montague. </stage>
           <sp xml:id="sp-3069" who="#PrinceEscalus_Rom">
             <speaker xml:id="spk-3069">PRINCE </speaker>
             <l xml:id="ftln-3069" n="5.3.216">Come, Montague, for thou art early up </l>
@@ -6881,10 +6223,7 @@
           </sp>
           <sp xml:id="sp-3075" who="#Montague_Rom">
             <speaker xml:id="spk-3075">MONTAGUE </speaker>
-            <stage xml:id="stg-3075.0"
-                         n="SD 5.3.222.0"
-                         type="business"
-                         who="#Montague_Rom">, seeing Romeo dead </stage>
+            <stage xml:id="stg-3075.0" n="SD 5.3.222.0" type="business" who="#Montague_Rom">, seeing Romeo dead </stage>
             <l xml:id="ftln-3075" n="5.3.222">O thou untaught! What manners is in this, </l>
             <l xml:id="ftln-3076" n="5.3.223">To press before thy father to a grave? </l>
           </sp>
@@ -6971,10 +6310,7 @@
           <sp xml:id="sp-3140" who="#PrinceEscalus_Rom">
             <speaker xml:id="spk-3140">PRINCE </speaker>
             <l xml:id="ftln-3140" n="5.3.287">Give me the letter. I will look on it.— </l>
-            <stage xml:id="stg-3140.1"
-                         n="SD 5.3.287.1"
-                         type="business"
-                         who="#PrinceEscalus_Rom #SERVANTS.MONTAGUE.Balthasar_Rom">He takes Romeo’s letter. </stage>
+            <stage xml:id="stg-3140.1" n="SD 5.3.287.1" type="business" who="#PrinceEscalus_Rom #SERVANTS.MONTAGUE.Balthasar_Rom">He takes Romeo’s letter. </stage>
             <l xml:id="ftln-3141" n="5.3.288">Where is the County’s page, that raised the watch?— </l>
             <l xml:id="ftln-3143" n="5.3.290">Sirrah, what made your master in this place? </l>
           </sp>
@@ -7027,10 +6363,7 @@
             <l xml:id="ftln-3173" n="5.3.320">For never was a story of more woe </l>
             <l xml:id="ftln-3174" n="5.3.321">Than this of Juliet and her Romeo. </l>
           </sp>
-          <stage xml:id="stg-3174.1"
-                      n="SD 5.3.321.1"
-                      type="exit"
-                      who="#FriarLawrence_Rom #SERVANTS.MONTAGUE.Balthasar_Rom #SERVANTS.PARIS.1_Rom #WATCHMEN_Rom #PrinceEscalus_Rom #ATTENDANTS.PRINCE_Rom #Capulet_Rom #LadyCapulet_Rom #Montague_Rom">All exit. </stage>
+          <stage xml:id="stg-3174.1" n="SD 5.3.321.1" type="exit" who="#FriarLawrence_Rom #SERVANTS.MONTAGUE.Balthasar_Rom #SERVANTS.PARIS.1_Rom #WATCHMEN_Rom #PrinceEscalus_Rom #ATTENDANTS.PRINCE_Rom #Capulet_Rom #LadyCapulet_Rom #Montague_Rom">All exit. </stage>
         </div>
       </div>
     </body>
