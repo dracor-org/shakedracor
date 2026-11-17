@@ -112,7 +112,7 @@
           <person xml:id="Hermia_MND" sex="FEMALE">
             <persName>Hermia</persName>
           </person>
-          <person xml:id="Demetrius_MND" sex="MAE">
+          <person xml:id="Demetrius_MND" sex="MALE">
             <persName>Demetrius</persName>
           </person>
           <person xml:id="Lysander_MND" sex="MALE">
@@ -130,7 +130,7 @@
           <person xml:id="Flute_MND" sex="MALE">
             <persName>Francis Flute</persName>
           </person>
-          <person xml:id="Starveling_MND" sex=" MALE">
+          <person xml:id="Starveling_MND" sex="MALE">
             <persName>Robin Starveling</persName>
           </person>
           <person xml:id="Snout_MND" sex="MALE">
